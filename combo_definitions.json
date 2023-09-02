@@ -1,0 +1,53 @@
+
+
+[
+    {
+    "status": "Dangerous",
+    "emoji": "☠️",
+    "color": "Red",
+    "definition": "These combinations are considered extremely harmful and should always be avoided. Reactions to these drugs taken in combination are highly unpredictable and have a potential to cause death.",
+    "thumbnail": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/320/skull-and-crossbones_2620-fe0f.png"
+    },    
+    {
+    "status": "Unsafe",
+    "emoji": "🛑",
+    "color": "Orange",
+    "definition": "There is considerable risk of physical harm when taking these combinations, they  should be avoided where possible.",
+    "thumbnail": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/320/stop-sign_1f6d1.png"
+    },
+    {
+    "status": "Caution",
+    "emoji": "⚠️",
+    "color": "Yellow",
+    "definition": "These combinations are not usually physically harmful, but may produce undesirable  effects, such as physical discomfort or overstimulation. Extreme use may cause physical health issues. Synergistic effects may be unpredictable. Care should be taken when choosing to use this combination.",
+    "thumbnail": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/320/caution-sign_2621.png"
+    },
+    {
+    "status": "Low Risk & Decrease",
+    "emoji": "↘",
+    "color": "Aqua",
+    "definition": "Effects are subtractive. The combination is unlikely to cause any adverse or  undesirable reaction beyond those that might ordinarily be expected from these drugs.",
+    "thumbnail": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/320/down-right-arrow_2198-fe0f.png"
+    },
+    {
+    "status": "Low Risk & No Synergy",
+    "emoji": "➡",
+    "color": "Blue",
+    "definition": "Effects are additive. The combination is unlikely to cause any adverse or undesirable reaction beyond those that might ordinarily be expected from these drugs.",
+    "thumbnail": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/320/right-arrow_27a1-fe0f.png"
+    },
+    {
+    "status": "Low Risk & Synergy",
+    "emoji": "↗",
+    "color": "DarkBlue",
+    "definition": "These drugs work together to cause an effect greater than the sum of its parts, and they aren't likely to cause an adverse or undesirable reaction when used carefully. Additional research should always be done before combining drugs.",
+    "thumbnail": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/320/up-right-arrow_2197-fe0f.png"
+    },
+    {
+    "status": "Unknown",
+    "emoji": "❓",
+    "color": "DarkButNotBlack",
+    "definition": "Effects are unknown.",
+    "thumbnail": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/320/question-mark_2753.png"
+    }
+]
