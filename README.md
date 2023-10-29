@@ -1,3 +1,22 @@
+
+
+# This document will be used for keeping the information together for the TripSit Combo Chart Expansion, I recommend going there for details and more information
+https://docs.google.com/document/d/1_n65NibeMNNMBahocEjLe-630hwpSlibbZgDQeDf7Y4/edit?usp=sharing
+## TripSit Combo Chart Expansion
+
+It has been a while since the combo chart had a substantial update. New substances have risen in popularity and combo information is lacking. There is currently no good way to modify the TripSit database. We would like to fix all that. 
+
+We’re creating a process that allows people to suggest changes to the TripSit database. The priority will be to add combo information, but this process will apply to all database information. 
+
+There are multiple things that will be done through the project, they are as following
+* Add “Bupropion” “Mephedrone” “Pregabalin” to the combo chart
+* Code needs to be cleaned up
+* Website interface development
+* Adjustments Combo chart generator needs to be updated 
+* Typescript conversion from JavaScript
+* Database/architecture work
+* Dynamic custom chart
+
 # How to modify the drug/combo database
 
 ## Do your research.
