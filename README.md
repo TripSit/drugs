@@ -45,7 +45,6 @@ It has been a while since the combo chart had a substantial update. New substanc
 We’re creating a process that allows people to suggest changes to the TripSit database. The priority will be to add combo information, but this process will apply to all database information. 
 
 There are multiple things that will be done through the project, they are as following
-* Add “Bupropion” “Mephedrone” “Pregabalin” to the combo chart
 * Code needs to be cleaned up
 * Website interface development
 * Adjustments Combo chart generator needs to be updated 
