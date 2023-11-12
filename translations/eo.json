@@ -1,0 +1,41 @@
+{
+  "title": "Gvidisto de Drogoj Kombinoj",
+  "app": "www.TripSit.Me",
+  "support": "Subtenu Nin",
+  "drugs": {
+    "lsd": "LSD",
+    "mushrooms": "Mushrooms",
+    "dmt": "DMT",
+    "mescaline": "Mescaline",
+    "dox": "DOx",
+    "nbomes": "NBOMes",
+    "2c-x": "2C-x",
+    "2c-t-x": "2C-T-x",
+    "5-meo-xxt": "5-MeO-xxT",
+    "cannabis": "Cannabis",
+    "ketamine": "Ketamine",
+    "mxe": "MXE",
+    "dxm": "DXM",
+    "nitrous": "Nitrous",
+    "amphetamines": "Amphetamines",
+    "mdma": "MDMA",
+    "cocaine": "Cocaine",
+    "caffeine": "Caffeine",
+    "alcohol": "Alcohol",
+    "ghb/gbl": "GHB/GBL",
+    "opioids": "Opioids",
+    "tramadol": "Tramadol",
+    "benzodiazepines": "Benzodiazepines",
+    "maois": "MAOIs",
+    "ssris": "SSRIs"
+  },
+  "interactions": {
+    "low risk & synergy": "Malalta Risko & Sinergio",
+    "low risk & no synergy": "Malalta Risko & Ne Sinergio",
+    "low risk & decrease": "Malalta Risko & Malpliigi",
+    "caution": "Averta",
+    "unsafe": "Riska",
+    "dangerous": "Dangxera",
+    "fallback": "Fallback"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Přehled kombinací drog",
+  "app": "www.TripSit.Me",
+  "support": "Podpořte nás",
+  "drugs": {
+    "lsd": "LSD",
+    "mushrooms": "Psilocybinové houby",
+    "dmt": "DMT",
+    "mescaline": "Meskalin",
+    "dox": "DOx",
+    "nbomes": "NBOMe",
+    "2c-x": "2C-x",
+    "2c-t-x": "2C-T-x",
+    "5-meo-xxt": "5-MeO-xxT",
+    "cannabis": "Marihuana",
+    "ketamine": "Ketamin",
+    "mxe": "MXE",
+    "dxm": "DXM",
+    "nitrous": "Oxid dusný",
+    "amphetamines": "Amfetaminy",
+    "mdma": "MDMA",
+    "cocaine": "Kokain",
+    "caffeine": "Kofein",
+    "alcohol": "Alkohol",
+    "ghb/gbl": "GHB/GBL",
+    "opioids": "Opioidy",
+    "tramadol": "Tramadol",
+    "benzodiazepines": "Benzodiazepiny",
+    "maois": "MAOI",
+    "ssris": "SSRI"
+  },
+  "interactions": {
+    "low risk & synergy": "Nízký risk a synergie",
+    "low risk & no synergy": "Nízký risk a žádná synergie",
+    "low risk & decrease": "Nízký risk a snížení",
+    "caution": "Pozor",
+    "unsafe": "Nebezpečné",
+    "dangerous": "Vysoce nebezpečné",
+    "fallback": "Fallback"
+  }
+}
