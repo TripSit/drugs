@@ -1,0 +1,41 @@
+{
+  "title": "Guida alla combinazione di farmaci e di droghe",
+  "app": "www.TripSit.Me",
+  "support": "Suoport Us",
+  "drugs": {
+    "lsd": "LSD",
+    "mushrooms": "Psilocibina",
+    "dmt": "DMT",
+    "mescaline": "Mescalina",
+    "dox": "DOx",
+    "nbomes": "NBOMes",
+    "2c-x": "2C-x",
+    "2c-t-x": "2C-T-x",
+    "5-meo-xxt": "5-MeO-xxT",
+    "cannabis": "Cannabis",
+    "ketamine": "Ketamina",
+    "mxe": "MXE",
+    "dxm": "DXM",
+    "nitrous": "Nitroso",
+    "amphetamines": "Anfetamine",
+    "mdma": "MDMA",
+    "cocaine": "Cocaina",
+    "caffeine": "Caffeina",
+    "alcohol": "Alcool",
+    "ghb/gbl": "GHB/GBL",
+    "opioids": "Oppioidi",
+    "tramadol": "Tramadolo",
+    "benzodiazepines": "Benzos",
+    "maois": "IMAOs",
+    "ssris": "SSRIs"
+  },
+  "interactions": {
+    "low risk & synergy": "Basso Rischio e Sinergia",
+    "low risk & no synergy": "Basso Rischio",
+    "low risk & decrease": "Basso Rischio e Riduzione",
+    "caution": "Attenzione",
+    "unsafe": "Non Sicuro",
+    "dangerous": "Pericoloso",
+    "fallback": "Soluzione di ripiego"
+  }
+}

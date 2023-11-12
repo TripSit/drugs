@@ -1,0 +1,41 @@
+{
+  "title": "Guide des Combinaisons de Drogues",
+  "app": "www.TripSit.Me",
+  "support": "Soutenez nous",
+  "drugs": {
+    "lsd": "LSD",
+    "mushrooms": "Champignons",
+    "dmt": "DMT",
+    "mescaline": "Mescaline",
+    "dox": "DOx",
+    "nbomes": "NBOMes",
+    "2c-x": "2C-x",
+    "2c-t-x": "2C-T-x",
+    "5-meo-xxt": "5-MeO-xxT",
+    "cannabis": "Cannabis",
+    "ketamine": "Kétamine",
+    "mxe": "MXE",
+    "dxm": "DXM",
+    "nitrous": "Gaz hilarant",
+    "amphetamines": "Amphétamines",
+    "mdma": "MDMA",
+    "cocaine": "Cocaïne",
+    "caffeine": "Cafféine",
+    "alcohol": "Alcool",
+    "ghb/gbl": "GHB/GBL",
+    "opioids": "Opiacés",
+    "tramadol": "Tramadol",
+    "benzodiazepines": "Benzodiazépines",
+    "maois": "IMAOs",
+    "ssris": "ISRSs"
+  },
+  "interactions": {
+    "low risk & synergy": "Peu Risqué & Synergie",
+    "low risk & no synergy": "Peu Risqué & Sans Synergie",
+    "low risk & decrease": "Peu Risqué & Atténuation",
+    "caution": "Attention",
+    "unsafe": "Risqué",
+    "dangerous": "Danger",
+    "fallback": "Fallback"
+  }
+}

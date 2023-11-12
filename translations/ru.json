@@ -1,0 +1,41 @@
+{
+  "title": "Совместимость ПАВ",
+  "app": "www.TripSit.Me",
+  "support": "Поддержать нас",
+  "drugs": {
+    "lsd": "LSD",
+    "mushrooms": "Грибы",
+    "dmt": "DMT",
+    "mescaline": "Мескалин",
+    "dox": "DOx",
+    "nbomes": "NBOMы",
+    "2c-x": "2C-x",
+    "2c-t-x": "2C-T-x",
+    "5-meo-xxt": "5-MeO-xxT",
+    "cannabis": "Марихуана",
+    "ketamine": "Кетамин",
+    "mxe": "MXE",
+    "dxm": "DXM",
+    "nitrous": "Веселящий газ",
+    "amphetamines": "Амфетамины",
+    "mdma": "MDMA",
+    "cocaine": "Кокаин",
+    "caffeine": "Кофеин",
+    "alcohol": "Алкоголь",
+    "ghb/gbl": "ГОМК/Бутират",
+    "opioids": "Опиаты",
+    "tramadol": "Трамадол",
+    "benzodiazepines": "Бензодиазепины",
+    "maois": "ИМАО",
+    "ssris": "СИОЗС"
+  },
+  "interactions": {
+    "low risk & synergy": "Низкий риск, хорошо сочетаются",
+    "low risk & no synergy": "Низкий риск",
+    "low risk & decrease": "Низкий риск, плохо сочетаются",
+    "caution": "С осторожностью",
+    "unsafe": "Может быть опасно",
+    "dangerous": "Опасно",
+    "fallback": "Нет данных"
+  }
+}

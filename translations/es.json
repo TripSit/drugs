@@ -1,0 +1,41 @@
+{
+  "title": "Guía de mezclas de drogas",
+  "app": "www.TripSit.Me",
+  "support": "Donaciones",
+  "drugs": {
+    "lsd": "LSD",
+    "mushrooms": "Setas",
+    "dmt": "DMT",
+    "mescaline": "Mescalina",
+    "dox": "DOx",
+    "nbomes": "NBOMes",
+    "2c-x": "2C-x",
+    "2c-t-x": "2C-T-x",
+    "5-meo-xxt": "5-MeO-xxT",
+    "cannabis": "Cannabis",
+    "ketamine": "Ketamina",
+    "mxe": "MXE",
+    "dxm": "DXM",
+    "nitrous": "Oxido Nitroso",
+    "amphetamines": "Anfetaminas",
+    "mdma": "MDMA",
+    "cocaine": "Cocaína",
+    "caffeine": "Cafeína",
+    "alcohol": "Alcohol",
+    "ghb/gbl": "GHB/GBL",
+    "opioids": "Opioides",
+    "tramadol": "Tramadol",
+    "benzodiazepines": "Benzodiazepinas",
+    "maois": "IMAOs",
+    "ssris": "ISRS"
+  },
+  "interactions": {
+    "low risk & synergy": "Riesgo bajo & sinergia",
+    "low risk & no synergy": "Riesgo bajo & sin sinergia",
+    "low risk & decrease": "Riesgo bajo & disminución",
+    "caution": "Cuidado",
+    "unsafe": "No seguro",
+    "dangerous": "Peligroso",
+    "fallback": "Fallback"
+  }
+}
