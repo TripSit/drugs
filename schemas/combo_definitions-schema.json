@@ -1,0 +1,45 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "type": "array",
+    "items": {
+        "$ref": "#/definitions/ComboDefinition"
+    },
+    "definitions": {
+        "ComboDefinition": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "status": {
+                    "type": "string"
+                },
+                "emoji": {
+                    "type": "string"
+                },
+                "color": {
+                    "type": "string"
+                },
+                "definition": {
+                    "type": "string"
+                },
+                "thumbnail": {
+                    "type": "string",
+                    "format": "uri",
+                    "qt-uri-protocols": [
+                        "https"
+                    ],
+                    "qt-uri-extensions": [
+                        ".png"
+                    ]
+                }
+            },
+            "required": [
+                "color",
+                "definition",
+                "emoji",
+                "status",
+                "thumbnail"
+            ],
+            "title": "ComboDefinition"
+        }
+    }
+}

@@ -1337,17 +1337,17 @@
         "Light": "5-10mg",
         "Strong": "20-30mg"
       },
-      "Rectal": {
-        "Common": "10-20mg",
-        "Heavy": "30mg+",
-        "Light": "5-10mg",
-        "Strong": "20-30mg"
-      },
       "Oral": {
         "Common": "15-30mg",
         "Heavy": "50mg+",
         "Light": "5-15mg",
         "Strong": "30-50mg"
+      },
+      "Rectal": {
+        "Common": "10-20mg",
+        "Heavy": "30mg+",
+        "Light": "5-10mg",
+        "Strong": "20-30mg"
       }
     },
     "formatted_duration": {
@@ -3520,8 +3520,8 @@
     },
     "formatted_onset": {
       "_unit": "minutes",
-      "Intramuscular": "3-7",
       "Insufflated": "10-30",
+      "Intramuscular": "3-7",
       "Oral": "20-90"
     },
     "links": {
@@ -4589,8 +4589,8 @@
     },
     "formatted_duration": {
       "_unit": "hours",
-      "Vapourized": "1-2",
-      "Oral": "4-9"
+      "Oral": "4-9",
+      "Vapourized": "1-2"
     },
     "formatted_onset": {
       "_unit": "minutes",
@@ -5612,9 +5612,9 @@
     ],
     "formatted_dose": {
       "Oral": {
+        "Common": "50-75mg",
         "Heavy": "100mg",
         "Light": "25-50mg",
-        "Common": "50-75mg",
         "Strong": "75-100mg"
       }
     },
@@ -6999,8 +6999,8 @@
     "dose_note": " NOTE: Do not take this while on a serotonergic drug, only afterwards. Wait at least 12 hours following the last dose in the case of MDMA.",
     "formatted_dose": {
       "Oral": {
-        "Light": "50-100mg",
         "Common": "100-200mg",
+        "Light": "50-100mg",
         "Strong": "200-300mg"
       }
     },
@@ -8488,9 +8488,9 @@
     },
     "formatted_dose": {
       "Oral": {
+        "Common": "40-75mg",
         "Heavy": "75-100+mg",
         "Light": "30-40mg",
-        "Common": "40-75mg",
         "Threshold": "25-30mg"
       }
     },
@@ -9262,13 +9262,13 @@
       "value": "1-2"
     },
     "formatted_dose": {
-      "Sublingual": {
+      "Buccal": {
         "Common": "1500-2000ug",
         "Light": "1000-1500ug",
         "Strong": "2000ug+",
         "Threshold": "500ug"
       },
-      "Buccal": {
+      "Sublingual": {
         "Common": "1500-2000ug",
         "Light": "1000-1500ug",
         "Strong": "2000ug+",
@@ -9730,12 +9730,12 @@
       "value": "1-12"
     },
     "formatted_dose": {
-      "Sublingual": {
+      "Buccal": {
         "Common": "300-800ug",
         "Light": "100-300ug",
         "Strong": "800-1300ug+"
       },
-      "Buccal": {
+      "Sublingual": {
         "Common": "300-800ug",
         "Light": "100-300ug",
         "Strong": "800-1300ug+"
@@ -10481,8 +10481,8 @@
     "formatted_duration": {
       "_unit": "hours",
       "Insufflated": "2-5",
-      "Oral_IR": "4-6",
-      "ORAL_ER": "6-12"
+      "ORAL_ER": "6-12",
+      "Oral_IR": "4-6"
     },
     "formatted_effects": [
       "Increased alertness",
@@ -10498,8 +10498,8 @@
       "_unit": "minutes",
       "Insufflated_IR": "0-10",
       "Insufflated_XR": "10-45",
-      "Oral_IR": "10-30",
-      "ORAL_ER": "20-60"
+      "ORAL_ER": "20-60",
+      "Oral_IR": "10-30"
     },
     "name": "adderall",
     "pretty_name": "Adderall",
@@ -13547,10 +13547,10 @@
     },
     "formatted_dose": {
       "Oral": {
-        "Light": "0.2-0.4mg",
         "Common": "0.4-0.8mg",
-        "Strong": "0.8-1.5mg",
-        "Heavy": "1.5mg+"
+        "Heavy": "1.5mg+",
+        "Light": "0.2-0.4mg",
+        "Strong": "0.8-1.5mg"
       }
     },
     "formatted_duration": {
@@ -14024,9 +14024,9 @@
     },
     "formatted_dose": {
       "Oral": {
+        "Common": "20-40mg",
         "Heavy": "40+",
-        "Light": "10-20mg",
-        "Common": "20-40mg"
+        "Light": "10-20mg"
       }
     },
     "formatted_duration": {
@@ -15577,17 +15577,17 @@
       "value": "1-4"
     },
     "formatted_dose": {
+      "Insufflated": {
+        "Common": "5-10mg",
+        "Light": "2-5mg",
+        "Strong": "10mg+"
+      },
       "Oral": {
         "Common": "5-10mg",
         "Light": "3-5mg",
         "Strong": "10-20mg+"
       },
       "Sublingual": {
-        "Common": "5-10mg",
-        "Light": "2-5mg",
-        "Strong": "10mg+"
-      },
-      "Insufflated": {
         "Common": "5-10mg",
         "Light": "2-5mg",
         "Strong": "10mg+"
@@ -17014,8 +17014,8 @@
       "tentative"
     ],
     "formatted_aftereffects": {
-      "value": "6",
-      "_unit": "hours"
+      "_unit": "hours",
+      "value": "6"
     },
     "formatted_duration": {
       "value": "Short."
@@ -17078,7 +17078,7 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia"      
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -17579,8 +17579,8 @@
       "_unit": "minutes",
       "Insufflated": "45-60",
       "Oral_MAOI": "180-420",
-      "Vapourized": "3-10",
-      "Smoked": "3-10"
+      "Smoked": "3-10",
+      "Vapourized": "3-10"
     },
     "formatted_effects": [
       "immersive experience",
@@ -18185,10 +18185,10 @@
     },
     "formatted_dose": {
       "Oral": {
-        "Threshold": "10mg",
-        "Light": "75-200mg",
         "Common": "200-350mg",
-        "Heavy": "350mg+"
+        "Heavy": "350mg+",
+        "Light": "75-200mg",
+        "Threshold": "10mg"
       }
     },
     "formatted_duration": {
@@ -18346,22 +18346,22 @@
     ],
     "formatted_aftereffects": {
       "_unit": "hours",
-      "Intramuscular": "2-4",
       "Insufflated": "3-4",
+      "Intramuscular": "2-4",
       "Oral": "2-3",
       "Smoked": "2-4"
     },
     "formatted_dose": {
+      "Insufflated": {
+        "Common": "50-100mg",
+        "Light": "20-50",
+        "Strong": "100-150mg"
+      },
       "Intramuscular": {
         "Common": "35-60mg",
         "Light": "10-35mg",
         "Strong": "60-100mg",
         "Threshold": "5-10mg"
-      },
-      "Insufflated": {
-        "Common": "50-100mg",
-        "Light": "20-50",
-        "Strong": "100-150mg"
       },
       "Oral": {
         "Common": "125-200mg",
@@ -18377,8 +18377,8 @@
     },
     "formatted_duration": {
       "_unit": "hours",
-      "Intramuscular": "3-4",
       "Insufflated": "3-4",
+      "Intramuscular": "3-4",
       "Oral": "2-4",
       "Smoked": "0.5-1.5"
     },
@@ -18387,8 +18387,8 @@
     ],
     "formatted_onset": {
       "_unit": "minutes",
-      "Intramuscular": "2-10",
       "Insufflated": "5-20",
+      "Intramuscular": "2-10",
       "Oral": "20-60",
       "Smoked": "0-1"
     },
@@ -18626,10 +18626,10 @@
     },
     "formatted_dose": {
       "Oral": {
-        "Light": "1.5-2.5mg/kg",
         "Common": "2.5-7.5mg/kg",
-        "Strong": "7.5-15mg/kg",
-        "Heavy": "15-20mg/kg"
+        "Heavy": "15-20mg/kg",
+        "Light": "1.5-2.5mg/kg",
+        "Strong": "7.5-15mg/kg"
       }
     },
     "formatted_duration": {
@@ -21667,7 +21667,7 @@
       "value": "1-14"
     },
     "formatted_dose": {
-      "Insufflated"  : {
+      "Insufflated": {
         "Common": "75-150ug",
         "Light": "50-75ug",
         "Strong": "150ug-200ug."
@@ -24164,17 +24164,17 @@
         "Light": "30-70mg",
         "Strong": "120-165mg"
       },
-      "Rectal": {
-        "Common": "70-120mg",
-        "Heavy": "165mg+",
-        "Light": "30-70mg",
-        "Strong": "120-165mg"
-      },
       "Oral": {
         "Common": "75-125mg",
         "Heavy": "175mg+",
         "Light": "40-75mg",
         "Strong": "125-175mg"
+      },
+      "Rectal": {
+        "Common": "70-120mg",
+        "Heavy": "165mg+",
+        "Light": "30-70mg",
+        "Strong": "120-165mg"
       }
     },
     "formatted_duration": {
@@ -24380,8 +24380,8 @@
       },
       "Oral": {
         "Common": "20-35mg",
-        "Strong": "35+mg",
-        "Light": "10-20mg"
+        "Light": "10-20mg",
+        "Strong": "35+mg"
       }
     },
     "formatted_duration": {
@@ -26117,13 +26117,13 @@
       "value": "1-2"
     },
     "formatted_dose": {
-      "Vapourized": {
+      "Sublingual": {
         "Common": "5-10mg.",
         "Light": "3-5mg",
         "Strong": "10-20mg+",
         "Threshold": "2-3mg"
       },
-      "Sublingual": {
+      "Vapourized": {
         "Common": "5-10mg.",
         "Light": "3-5mg",
         "Strong": "10-20mg+",
@@ -26309,8 +26309,8 @@
     "formatted_duration": {
       "_unit": "hours",
       "Insufflated": "2-4",
-      "Oral_IR": "3-6",
-      "ORAL_ER": "8-12"
+      "ORAL_ER": "8-12",
+      "Oral_IR": "3-6"
     },
     "formatted_effects": [
       "Increased alertness",
@@ -26326,8 +26326,8 @@
       "_unit": "minutes",
       "Insufflated_IR": "5-10",
       "Insufflated_XR": "5-10",
-      "Oral_IR": "30-120",
-      "ORAL_ER": "30-120"
+      "ORAL_ER": "30-120",
+      "Oral_IR": "30-120"
     },
     "name": "methylphenidate",
     "pretty_name": "Methylphenidate",
@@ -26713,8 +26713,8 @@
     ],
     "formatted_onset": {
       "_unit": "minutes",
-      "Intramuscular": "10-20",
       "Insufflated": "1-5",
+      "Intramuscular": "10-20",
       "Intravenous": "0-1",
       "Oral": "10-40",
       "Rectal": "15-25"
@@ -27048,8 +27048,8 @@
     "formatted_duration": {
       "_unit": "hours",
       "Insufflated": "4-5",
-      "Intravenous": "2-4",
       "Intramuscular": "2-4",
+      "Intravenous": "2-4",
       "Oral_ER": "4-10",
       "Oral_IR": "4-6",
       "Rectal": "3-4"
@@ -27067,8 +27067,8 @@
     "formatted_onset": {
       "_unit": "minutes",
       "Insufflated": "10-30",
-      "Intravenous": "0-1",
       "Intramuscular": "0-1",
+      "Intravenous": "0-1",
       "Oral_ER": "40-80",
       "Oral_IR": "10-30",
       "Rectal": "10-30"
@@ -28652,17 +28652,17 @@
       "value": "1-8"
     },
     "formatted_dose": {
+      "Insufflated": {
+        "Common": "5-10mg",
+        "Light": "2-5mg",
+        "Strong": "10mg+"
+      },
       "Oral": {
         "Common": "10mg",
         "Light": "5mg",
         "Strong": "10-20mg+"
       },
       "Sublingual": {
-        "Common": "5-10mg",
-        "Light": "2-5mg",
-        "Strong": "10mg+"
-      },
-      "Insufflated": {
         "Common": "5-10mg",
         "Light": "2-5mg",
         "Strong": "10mg+"
@@ -31937,8 +31937,8 @@
         "depressant"
       ],
       "chemistry": "IUPAC: 2-(2-(4-dibenzo[b,f][1,4]thiazepin-11-yl-1-piperazinyl)ethoxy)ethanol | Formula: C21H25N3O2S | Molecular Mass: 383.5099 g/mol | Solubility in Water: 3.29 mg/mL (20 °C)",
-      "dose": "Oral Light: 25mg-50mg Common: 50mg-150mg Strong: 150mg-300mg Heavy: 300mg-800mg",
       "contraindictions": "apomorphine, bromocriptine, cabergoline, carbamazepine, cimetidine, clarithromycin, dabrafenib, dopamine, erythromycin, idelalisib, itraconazole, ivacaftor, ketoconazole, levodopa, lisuride, mefloquine, methyldopa, nefazodone, ondansetron, panobinostat, pramipexole, rifabutin, rifampin, ropinirole, sodium oxybate, st. john's wort, vilanterol, and vemurafenib",
+      "dose": "Oral Light: 25mg-50mg Common: 50mg-150mg Strong: 150mg-300mg Heavy: 300mg-800mg",
       "duration": "7-12 hours.",
       "effects": "sedation, dizziness, fatigue, constipation, dry mouth, headache, appetite change, increased blood pressure",
       "legal": "Australia: Prescription Only (S4) | United Kingdom: POM | United States: ?-only",
@@ -33710,9 +33710,9 @@
     "formatted_duration": {
       "_unit": "hours",
       "Insufflated": "3-4",
-      "Rectal": "3-4",
       "Intravenous": "1-2",
-      "Oral": "5-7"
+      "Oral": "5-7",
+      "Rectal": "3-4"
     },
     "formatted_effects": [
       "Euphoria",
@@ -33727,9 +33727,9 @@
     "formatted_onset": {
       "_unit": "minutes",
       "Insufflated": "15",
-      "Rectal": "15",
       "Intravenous": "0-1",
-      "Oral": "15"
+      "Oral": "15",
+      "Rectal": "15"
     },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_U47700.shtml"
