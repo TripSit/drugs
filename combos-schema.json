@@ -1,0 +1,269 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "$ref": "#/definitions/Combos",
+    "definitions": {
+        "Combos": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "2c-t-x": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "2c-x": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "5-meo-xxt": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "alcohol": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "amphetamines": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "amt": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "benzodiazepines": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "caffeine": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "cannabis": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "cocaine": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "dmt": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "dox": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "dxm": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "ghb/gbl": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "ketamine": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "lsd": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "maois": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "mdma": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "mescaline": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "mushrooms": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "mxe": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "nbomes": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "nitrous": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "opioids": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "pcp": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "ssris": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "tramadol": {
+                    "$ref": "#/definitions/Interactions"
+                }
+            },
+            "required": [
+                "2c-t-x",
+                "2c-x",
+                "5-meo-xxt",
+                "alcohol",
+                "amphetamines",
+                "amt",
+                "benzodiazepines",
+                "caffeine",
+                "cannabis",
+                "cocaine",
+                "dmt",
+                "dox",
+                "dxm",
+                "ghb/gbl",
+                "ketamine",
+                "lsd",
+                "maois",
+                "mdma",
+                "mescaline",
+                "mushrooms",
+                "mxe",
+                "nbomes",
+                "nitrous",
+                "opioids",
+                "pcp",
+                "ssris",
+                "tramadol"
+            ],
+            "title": "Combos"
+        },
+        "Interactions": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "2c-t-x": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "2c-x": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "5-meo-xxt": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "alcohol": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "amphetamines": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "amt": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "benzodiazepines": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "caffeine": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "cannabis": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "cocaine": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "dmt": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "dox": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "dxm": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "ghb/gbl": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "ketamine": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "lsd": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "maois": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "mdma": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "mescaline": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "mushrooms": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "mxe": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "nbomes": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "nitrous": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "opioids": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "pcp": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "ssris": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "tramadol": {
+                    "$ref": "#/definitions/ComboData"
+                }
+            },
+            "required": [
+                "2c-t-x",
+                "2c-x",
+                "5-meo-xxt",
+                "alcohol",
+                "amphetamines",
+                "amt",
+                "benzodiazepines",
+                "caffeine",
+                "cannabis",
+                "cocaine",
+                "dmt",
+                "dox",
+                "dxm",
+                "ghb/gbl",
+                "ketamine",
+                "lsd",
+                "maois",
+                "mdma",
+                "mescaline",
+                "mushrooms",
+                "mxe",
+                "nbomes",
+                "nitrous",
+                "opioids",
+                "pcp",
+                "ssris",
+                "tramadol"
+            ],
+            "title": "Interactions"
+        },
+        "ComboData": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "status": {
+                    "$ref": "#/definitions/Status"
+                },
+                "note": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "status"
+            ],
+            "title": "ComboData"
+        },
+        "Status": {
+            "type": "string",
+            "enum": [
+                "Self",
+                "Caution",
+                "Dangerous",
+                "Low Risk & Decrease",
+                "Low Risk & Synergy",
+                "Unsafe",
+                "Low Risk & No Synergy"
+            ],
+            "title": "Status"
+        }
+    }
+}

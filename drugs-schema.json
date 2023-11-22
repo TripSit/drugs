@@ -1,0 +1,627 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "type": "object",
+  "additionalProperties": {
+      "$ref": "#/definitions/Drug"
+  },
+  "definitions": {
+      "Drug": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+              "aliases": {
+                  "type": "array",
+                  "items": {
+                      "type": "string"
+                  }
+              },
+              "categories": {
+                  "type": "array",
+                  "items": {
+                      "$ref": "#/definitions/Category"
+                  }
+              },
+              "formatted_aftereffects": {
+                  "$ref": "#/definitions/FormattedAftereffects"
+              },
+              "formatted_dose": {
+                  "$ref": "#/definitions/FormattedDose"
+              },
+              "formatted_duration": {
+                  "$ref": "#/definitions/FormattedDuration"
+              },
+              "formatted_effects": {
+                  "type": "array",
+                  "items": {
+                      "type": "string"
+                  }
+              },
+              "formatted_onset": {
+                  "$ref": "#/definitions/FormattedDuration"
+              },
+              "links": {
+                  "$ref": "#/definitions/Links"
+              },
+              "name": {
+                  "type": "string"
+              },
+              "pretty_name": {
+                  "type": "string"
+              },
+              "properties": {
+                  "$ref": "#/definitions/Properties"
+              },
+              "pweffects": {
+                  "type": "object",
+                  "additionalProperties": {
+                      "type": "string",
+                      "format": "uri",
+                      "qt-uri-protocols": [
+                          "https"
+                      ]
+                  }
+              },
+              "dose_note": {
+                  "type": "string"
+              },
+              "sources": {
+                  "$ref": "#/definitions/Sources"
+              },
+              "combos": {
+                  "type": "object",
+                  "additionalProperties": {
+                      "$ref": "#/definitions/Combo"
+                  }
+              }
+          },
+          "required": [
+              "name",
+              "pretty_name",
+              "properties"
+          ],
+          "title": "Drug"
+      },
+      "Category": {
+          "type": "string",
+          "enum": [
+              "depressant",
+              "habit-forming",
+              "tentative",
+              "research-chemical",
+              "psychedelic",
+              "stimulant",
+              "dissociative",
+              "inactive",
+              "empathogen",
+              "common",
+              "benzodiazepine",
+              "opioid",
+              "supplement",
+              "nootropic",
+              "barbiturate",
+              "deliriant",
+              "ssri"
+          ],
+          "title": "Category"
+      },
+      "FormattedAftereffects": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+              "_unit": {
+                  "$ref": "#/definitions/Unit"
+              },
+              "value": {
+                  "type": "string"
+              },
+              "Insufflated": {
+                  "type": "string"
+              },
+              "Oral": {
+                  "type": "string"
+              },
+              "Smoked": {
+                  "type": "string"
+              },
+              "Vapourized": {
+                  "type": "string"
+              },
+              "Intramuscular": {
+                  "type": "string"
+              },
+              "Sublingual": {
+                  "type": "string"
+              },
+              "Intravenous": {
+                  "type": "string"
+              }
+          },
+          "required": [],
+          "title": "FormattedAftereffects"
+      },
+      "FormattedDose": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+              "Oral": {
+                  "$ref": "#/definitions/Dosage"
+              },
+              "Insufflated": {
+                  "$ref": "#/definitions/Dosage"
+              },
+              "Rectal": {
+                  "$ref": "#/definitions/Dosage"
+              },
+              "Vapourized": {
+                  "$ref": "#/definitions/Dosage"
+              },
+              "Intravenous": {
+                  "$ref": "#/definitions/Dosage"
+              },
+              "Smoked": {
+                  "$ref": "#/definitions/Dosage"
+              },
+              "Sublingual": {
+                  "$ref": "#/definitions/Dosage"
+              },
+              "Buccal": {
+                  "$ref": "#/definitions/Dosage"
+              },
+              "Intramuscular": {
+                  "$ref": "#/definitions/Dosage"
+              },
+              "Transdermal": {
+                  "$ref": "#/definitions/Dosage"
+              },
+              "HBWR": {
+                  "$ref": "#/definitions/Dosage"
+              },
+              "Morning_Glory": {
+                  "$ref": "#/definitions/Dosage"
+              },
+              "Dried": {
+                  "$ref": "#/definitions/Dosage"
+              },
+              "Fresh": {
+                  "$ref": "#/definitions/Dosage"
+              },
+              "Insufflated(Pure)": {
+                  "$ref": "#/definitions/Dosage"
+              },
+              "Oral(Benzedrex)": {
+                  "$ref": "#/definitions/Dosage"
+              },
+              "Oral(Pure)": {
+                  "$ref": "#/definitions/Dosage"
+              },
+              "Dry": {
+                  "$ref": "#/definitions/Dosage"
+              },
+              "Wet": {
+                  "$ref": "#/definitions/Dosage"
+              }
+          },
+          "required": [],
+          "title": "FormattedDose"
+      },
+      "Dosage": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+              "Common": {
+                  "type": "string"
+              },
+              "Light": {
+                  "type": "string"
+              },
+              "Strong": {
+                  "type": "string"
+              },
+              "Threshold": {
+                  "type": "string"
+              },
+              "Heavy": {
+                  "type": "string"
+              },
+              "Dangerous": {
+                  "type": "string"
+              },
+              "Fatal": {
+                  "type": "string"
+              },
+              "Note": {
+                  "type": "string"
+              }
+          },
+          "required": [],
+          "title": "Buccal"
+      },
+      "FormattedDuration": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+              "_unit": {
+                  "$ref": "#/definitions/Unit"
+              },
+              "value": {
+                  "type": "string"
+              },
+              "Insufflated": {
+                  "type": "string"
+              },
+              "Oral": {
+                  "type": "string"
+              },
+              "Rectal": {
+                  "type": "string"
+              },
+              "Vapourized": {
+                  "type": "string"
+              },
+              "Smoked": {
+                  "type": "string"
+              },
+              "ORAL_ER": {
+                  "type": "string"
+              },
+              "Oral_IR": {
+                  "type": "string"
+              },
+              "Intramuscular": {
+                  "type": "string"
+              },
+              "Intravenous": {
+                  "type": "string"
+              },
+              "Metabolites": {
+                  "type": "string"
+              },
+              "Parent": {
+                  "type": "string"
+              },
+              "Oral_MAOI": {
+                  "type": "string"
+              },
+              "Buccal": {
+                  "type": "string"
+              },
+              "Transdermal": {
+                  "type": "string"
+              },
+              "Sublingual": {
+                  "type": "string"
+              },
+              "Oral_ER": {
+                  "type": "string"
+              },
+              "Insufflated_IR": {
+                  "type": "string"
+              },
+              "Insufflated_XR": {
+                  "type": "string"
+              }
+          },
+          "required": [],
+          "title": "Formatted"
+      },
+      "Links": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+              "experiences": {
+                  "type": "string",
+                  "format": "uri",
+                  "qt-uri-protocols": [
+                      "https"
+                  ],
+                  "qt-uri-extensions": [
+                      ".shtml"
+                  ]
+              },
+              "pihkal": {
+                  "type": "string",
+                  "format": "uri",
+                  "qt-uri-protocols": [
+                      "https"
+                  ],
+                  "qt-uri-extensions": [
+                      ".shtml"
+                  ]
+              },
+              "tihkal": {
+                  "type": "string",
+                  "format": "uri",
+                  "qt-uri-protocols": [
+                      "https"
+                  ],
+                  "qt-uri-extensions": [
+                      ".shtml"
+                  ]
+              }
+          },
+          "required": [
+              "experiences"
+          ],
+          "title": "Links"
+      },
+      "Properties": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+              "after-effects": {
+                  "type": "string"
+              },
+              "aliases": {
+                  "type": "array",
+                  "items": {
+                      "type": "string"
+                  }
+              },
+              "avoid": {
+                  "type": "string"
+              },
+              "categories": {
+                  "type": "array",
+                  "items": {
+                      "$ref": "#/definitions/Category"
+                  }
+              },
+              "dose": {
+                  "type": "string"
+              },
+              "duration": {
+                  "type": "string"
+              },
+              "half-life": {
+                  "type": "string"
+              },
+              "onset": {
+                  "type": "string"
+              },
+              "summary": {
+                  "type": "string"
+              },
+              "test-kits": {
+                  "type": "string"
+              },
+              "experiences": {
+                  "type": "string",
+                  "format": "uri",
+                  "qt-uri-protocols": [
+                      "https"
+                  ],
+                  "qt-uri-extensions": [
+                      ".php",
+                      ".shtml"
+                  ]
+              },
+              "warning": {
+                  "type": "string"
+              },
+              "marquis": {
+                  "type": "string"
+              },
+              "effects": {
+                  "type": "string"
+              },
+              "risks": {
+                  "type": "string"
+              },
+              "comeup": {
+                  "type": "string"
+              },
+              "note": {
+                  "type": "string"
+              },
+              "detection": {
+                  "type": "string"
+              },
+              "wiki": {
+                  "type": "string",
+                  "format": "uri",
+                  "qt-uri-protocols": [
+                      "http"
+                  ]
+              },
+              "mdma": {
+                  "type": "string"
+              },
+              "tolerance": {
+                  "type": "string"
+              },
+              "bioavailability": {
+                  "type": "string"
+              },
+              "dose_to_diazepam": {
+                  "type": "string"
+              },
+              "adverse-effects": {
+                  "type": "string"
+              },
+              "chemistry": {
+                  "type": "string"
+              },
+              "contraindictions": {
+                  "type": "string"
+              },
+              "legal": {
+                  "type": "string"
+              },
+              "overdose-symptoms": {
+                  "type": "string"
+              },
+              "pharmacokinetics": {
+                  "type": "string"
+              },
+              "pharmacology": {
+                  "type": "string"
+              },
+              "obtain": {
+                  "type": "string"
+              },
+              "pharmacodynamics": {
+                  "type": "string"
+              },
+              "side-effects": {
+                  "type": "string"
+              },
+              "molecule": {
+                  "type": "string",
+                  "format": "uri",
+                  "qt-uri-protocols": [
+                      "http"
+                  ],
+                  "qt-uri-extensions": [
+                      ".jpg",
+                      ".png"
+                  ]
+              },
+              "vaporization": {
+                  "type": "string"
+              },
+              "calculator": {
+                  "type": "string",
+                  "format": "uri",
+                  "qt-uri-protocols": [
+                      "http"
+                  ]
+              },
+              "chart": {
+                  "type": "string",
+                  "format": "uri",
+                  "qt-uri-protocols": [
+                      "http"
+                  ],
+                  "qt-uri-extensions": [
+                      ".png"
+                  ]
+              },
+              "Oral": {
+                  "type": "string"
+              },
+              "general-advice": {
+                  "type": "string"
+              },
+              "potentiators": {
+                  "type": "string"
+              }
+          },
+          "required": [],
+          "title": "Properties"
+      },
+      "Combo": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+              "note": {
+                  "type": "string"
+              },
+              "status": {
+                  "$ref": "#/definitions/Status"
+              }
+          },
+          "required": [
+              "status"
+          ],
+          "title": "Combo"
+      },
+      "Status": {
+          "type": "string",
+          "enum": [
+              "Low Risk & Decrease",
+              "Dangerous",
+              "Low Risk & No Synergy",
+              "Caution",
+              "Unsafe",
+              "Low Risk & Synergy"
+          ],
+          "title": "Status"
+      },
+      "Unit": {
+          "type": "string",
+          "enum": [
+              "hours",
+              "minutes"
+          ],
+          "title": "Unit"
+      },
+      "Sources": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+              "_general": {
+                  "type": "array",
+                  "items": {
+                      "type": "string",
+                      "qt-uri-protocols": [
+                          "http",
+                          "https"
+                      ]
+                  }
+              },
+              "dose": {
+                  "type": "array",
+                  "items": {
+                      "type": "string",
+                      "format": "uri",
+                      "qt-uri-protocols": [
+                          "http"
+                      ],
+                      "qt-uri-extensions": [
+                          ".full"
+                      ]
+                  }
+              },
+              "duration": {
+                  "type": "array",
+                  "items": {
+                      "type": "string",
+                      "format": "uri",
+                      "qt-uri-protocols": [
+                          "http"
+                      ],
+                      "qt-uri-extensions": [
+                          ".full"
+                      ]
+                  }
+              },
+              "bioavailability": {
+                  "type": "array",
+                  "items": {
+                      "type": "string",
+                      "format": "uri",
+                      "qt-uri-protocols": [
+                          "https"
+                      ]
+                  }
+              },
+              "legality": {
+                  "type": "array",
+                  "items": {
+                      "type": "string",
+                      "format": "uri",
+                      "qt-uri-protocols": [
+                          "http",
+                          "https"
+                      ],
+                      "qt-uri-extensions": [
+                          ".asp",
+                          ".aspx",
+                          ".cfm",
+                          ".html",
+                          ".pdf"
+                      ]
+                  }
+              },
+              "onset": {
+                  "type": "array",
+                  "items": {
+                      "type": "string"
+                  }
+              }
+          },
+          "required": [],
+          "title": "Sources"
+      }
+  }
+}

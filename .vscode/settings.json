@@ -1,0 +1,16 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "combos.json"
+      ],
+      "url": "./combos-schema.json"
+    },
+    {
+      "fileMatch": [
+        "drugs.json"
+      ],
+      "url": "./drugs-schema.json"
+    }
+  ]
+}
