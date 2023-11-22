@@ -265,8 +265,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -388,8 +387,7 @@
       "visual and auditory hallucinations",
       "itchiness",
       "aggressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -551,8 +549,7 @@
       "visual and auditory hallucinations",
       "itchiness",
       "aggressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -631,8 +628,7 @@
       "visual and auditory hallucinations",
       "itchiness",
       "aggressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -785,8 +781,7 @@
       "visual and auditory hallucinations",
       "itchiness",
       "aggressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -870,8 +865,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -971,8 +965,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -1056,8 +1049,7 @@
       "visual and auditory hallucinations",
       "itchiness",
       "aggressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -1181,8 +1173,7 @@
       "visual and auditory hallucinations",
       "itchiness",
       "aggressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -1340,7 +1331,13 @@
       "value": "2-4"
     },
     "formatted_dose": {
-      "Insufflated/Plugged": {
+      "Insufflated": {
+        "Common": "10-20mg",
+        "Heavy": "30mg+",
+        "Light": "5-10mg",
+        "Strong": "20-30mg"
+      },
+      "Rectal": {
         "Common": "10-20mg",
         "Heavy": "30mg+",
         "Light": "5-10mg",
@@ -1357,7 +1354,7 @@
       "_unit": "hours",
       "Insufflated": "2-4",
       "Oral": "4-8",
-      "Plugged": "3-5"
+      "Rectal": "3-5"
     },
     "formatted_effects": [
       "euphoria",
@@ -1383,7 +1380,7 @@
       "_unit": "minutes",
       "Insufflated": "1-10",
       "Oral": "20-75",
-      "Plugged": "5-20"
+      "Rectal": "5-20"
     },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_2CB.shtml",
@@ -1552,8 +1549,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -2013,8 +2009,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -2170,7 +2165,7 @@
       "value": "4-8"
     },
     "formatted_dose": {
-      "none": {
+      "Oral": {
         "Common": "15-30mg",
         "Heavy": "30-45mg",
         "Light": "5-15mg",
@@ -2197,8 +2192,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -2260,8 +2254,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -2506,8 +2499,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -2684,8 +2676,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -2808,8 +2799,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -2886,8 +2876,7 @@
       "visual and auditory hallucinations",
       "itchiness",
       "aggressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -2954,8 +2943,7 @@
       "visual and auditory hallucinations",
       "itchiness",
       "aggressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -3063,8 +3051,7 @@
       "visual and auditory hallucinations",
       "itchiness",
       "aggressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -3097,7 +3084,7 @@
     ],
     "dose_note": " NOTE: 3-fmc is very harsh on the nasal membranes",
     "formatted_dose": {
-      "Light:": {
+      "Oral": {
         "Common": "50-100mg",
         "Light": "25-50mg",
         "Strong": "100-150mg"
@@ -3123,8 +3110,7 @@
       "visual and auditory hallucinations",
       "itchiness",
       "aggressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "value": "Rapid."
@@ -3202,8 +3188,7 @@
       "Bruxia",
       "Visual and audiotory hallucinations itchiness",
       "agressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -3365,9 +3350,9 @@
       "Oral": "2-5"
     },
     "formatted_dose": {
-      "Insufflated:": {
+      "Insufflated": {
         "Common": "50-100mg",
-        "Insufflated": "Light",
+        "Light": "25-50mg",
         "Strong": "100-150mg+"
       },
       "Oral": {
@@ -3535,7 +3520,7 @@
     },
     "formatted_onset": {
       "_unit": "minutes",
-      "IM": "3-7",
+      "Intramuscular": "3-7",
       "Insufflated": "10-30",
       "Oral": "20-90"
     },
@@ -3625,7 +3610,6 @@
       "value": "1-4"
     },
     "formatted_dose": {
-      "": {},
       "Insufflated": {
         "Common": "3-8mg",
         "Light": "1-3mg",
@@ -3789,8 +3773,7 @@
       "Bruxia",
       "Visual and audiotory hallucinations itchiness",
       "agressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "value": "Within"
@@ -3925,8 +3908,7 @@
       "visual and auditory hallucinations",
       "itchiness",
       "aggressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -4010,8 +3992,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -4078,8 +4059,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -4126,7 +4106,7 @@
         "Light": "40-50mg",
         "Threshold": "20mg"
       },
-      "Vaporized": {
+      "Vapourized": {
         "Common": "10-15mg",
         "Light": "5-8mg",
         "Strong": "15+mg",
@@ -4153,8 +4133,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -4174,8 +4153,7 @@
         "psychedelic",
         "research-chemical"
       ],
-      "dosage": "(Very Tentative)Orally Threshold: 20mg Light: 40-50mg Common: 50-70mg Heavy: 100mg+ Smoked Threshold: 2-4mg Light: 5-8mg Common: 10-15mg Strong: 15mg+",
-      "dose": "Oral Threshold: 20mg Light: 40-50mg Common: 50-70mg Heavy: 100+mg | Vaporized Threshold: 2-4mg Light: 5-8mg Common: 10-15mg Strong: 15+mg",
+      "dose": "Oral Threshold: 20mg Light: 40-50mg Common: 50-70mg Heavy: 100+mg | Vapourized Threshold: 2-4mg Light: 5-8mg Common: 10-15mg Strong: 15+mg",
       "duration": "5-9 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "30-90 minutes.",
@@ -4281,8 +4259,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -4343,8 +4320,7 @@
     "formatted_effects": [
       "4-aco-dmt is a psilocin analog",
       "so effects are very similar to mushrooms",
-      "Some users report very little difference between 4-aco-dmt and mushrooms",
-      ""
+      "Some users report very little difference between 4-aco-dmt and mushrooms"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -4517,8 +4493,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -4679,8 +4654,7 @@
       "visual and auditory hallucinations",
       "itchiness",
       "aggressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -4718,9 +4692,9 @@
       "value": "2-6"
     },
     "formatted_dose": {
-      "Insufflated:": {
+      "Insufflated": {
         "Common": "50-80mg",
-        "Insufflated": "Light",
+        "Light": "40-70mg",
         "Strong": "80-100mg."
       },
       "Oral": {
@@ -4847,8 +4821,7 @@
       "visual and auditory hallucinations",
       "itchiness",
       "aggressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -4913,8 +4886,7 @@
       "visual and auditory hallucinations",
       "itchiness",
       "aggressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -5034,8 +5006,7 @@
       "visual and auditory hallucinations",
       "itchiness",
       "aggressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -5117,7 +5088,7 @@
       "value": "1-12"
     },
     "formatted_dose": {
-      "Light:": {
+      "Oral": {
         "Common": "50-75mg",
         "Light": "25-50mg",
         "Strong": "75-150mg+"
@@ -5329,8 +5300,7 @@
       "visual and auditory hallucinations",
       "itchiness",
       "aggressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -5406,8 +5376,7 @@
       "visual and auditory hallucinations",
       "itchiness",
       "aggressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -5533,8 +5502,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -5603,8 +5571,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -5647,7 +5614,7 @@
       "Oral": {
         "Heavy": "100mg",
         "Light": "25-50mg",
-        "Moderate": "50-75mg",
+        "Common": "50-75mg",
         "Strong": "75-100mg"
       }
     },
@@ -5772,8 +5739,7 @@
     },
     "formatted_effects": [
       "A trip similar to mushrooms",
-      "hallucination and general shift in consciousness",
-      ""
+      "hallucination and general shift in consciousness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -5884,8 +5850,7 @@
       "a sense of conectedness with the world around you",
       "heightend emotions",
       "paranoia",
-      "unwanted thoughts",
-      ""
+      "unwanted thoughts"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -6000,8 +5965,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -6126,8 +6090,7 @@
       "visual and auditory hallucinations",
       "itchiness",
       "aggressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -6236,8 +6199,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -6407,8 +6369,7 @@
       "visual and auditory hallucinations",
       "itchiness",
       "aggressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -6745,8 +6706,7 @@
       "Bruxia",
       "Visual and audiotory hallucinations itchiness",
       "agressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -6811,8 +6771,7 @@
       "Bruxia",
       "Visual and audiotory hallucinations itchiness",
       "agressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -6999,8 +6958,7 @@
       "Bruxia",
       "Visual and audiotory hallucinations itchiness",
       "agressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -7040,14 +6998,10 @@
     ],
     "dose_note": " NOTE: Do not take this while on a serotonergic drug, only afterwards. Wait at least 12 hours following the last dose in the case of MDMA.",
     "formatted_dose": {
-      "Recovery": {
-        "Common": "200-300mg"
-      },
-      "Sleep": {
-        "Common": "100-200mg"
-      },
-      "Therapeutic": {
-        "Common": "50-100mg"
+      "Oral": {
+        "Light": "50-100mg",
+        "Common": "100-200mg",
+        "Strong": "200-300mg"
       }
     },
     "formatted_duration": {
@@ -7121,8 +7075,7 @@
       "Bruxia",
       "Visual and audiotory hallucinations itchiness",
       "agressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "name": "5-iai",
     "pretty_name": "5-IAI",
@@ -7184,8 +7137,7 @@
       "Bruxia",
       "Visual and audiotory hallucinations itchiness",
       "agressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -7256,8 +7208,7 @@
       "Bruxia",
       "Visual and audiotory hallucinations itchiness",
       "agressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -7327,8 +7278,7 @@
       "Bruxia",
       "Visual and audiotory hallucinations itchiness",
       "agressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -7398,8 +7348,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -7447,7 +7396,7 @@
         "Strong": "20+mg",
         "Threshold": "4-5mg"
       },
-      "Vaporized": {
+      "Vapourized": {
         "Common": "5-15mg",
         "Light": "2-5mg",
         "Strong": "15+mg"
@@ -7473,12 +7422,11 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
-      "oral": "15-30"
+      "Oral": "15-30"
     },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_5MeODALT.shtml"
@@ -7495,7 +7443,7 @@
         "psychedelic",
         "research-chemical"
       ],
-      "dose": "Oral Threshold: 4-5mg Light: 5-12mg Common: 12-20mg Strong: 20+mg | Vaporized Light: 2-5mg Common: 5-15mg Strong: 15+mg",
+      "dose": "Oral Threshold: 4-5mg Light: 5-12mg Common: 12-20mg Strong: 20+mg | Vapourized Light: 2-5mg Common: 5-15mg Strong: 15+mg",
       "duration": "Oral: 2-4 hours. Smoked: 20-30 minutes.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "oral: 15-30 minutes. Smoked: 1-2 minutes.",
@@ -7625,8 +7573,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -7804,8 +7751,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -7881,8 +7827,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -7953,8 +7898,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -8017,8 +7961,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -8084,8 +8027,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -8223,7 +8165,7 @@
         "Light": "0.5-1mg",
         "Strong": "1.5-2mg"
       },
-      "Vapourised": {
+      "Vapourized": {
         "Common": "1.5-2mg",
         "Light": "0.5-1.5mg",
         "Strong": "2-3mg"
@@ -8232,12 +8174,12 @@
     "formatted_duration": {
       "_unit": "hours",
       "Oral": "2-6",
-      "Vapourised": "1-5"
+      "Vapourized": "1-5"
     },
     "formatted_onset": {
       "_unit": "minutes",
       "Oral": "5-20",
-      "Vapourised": "1-2"
+      "Vapourized": "1-2"
     },
     "name": "5-meo-pyr-t",
     "pretty_name": "5-MeO-PYR-T",
@@ -8296,8 +8238,7 @@
       "Bruxia",
       "Visual and audiotory hallucinations itchiness",
       "agressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -8359,8 +8300,7 @@
       "Bruxia",
       "Visual and audiotory hallucinations itchiness",
       "agressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -8443,7 +8383,7 @@
       "value": "30-60"
     },
     "formatted_dose": {
-      "Threshold:": {
+      "Oral": {
         "Common": "3-5mg",
         "Light": "1-3mg",
         "Strong": "5-8mg.",
@@ -8488,7 +8428,7 @@
       "value": "6-apb"
     },
     "formatted_dose": {
-      "Light:": {
+      "Oral": {
         "Common": "75-125mg",
         "Heavy": "125mg+",
         "Light": "50-75mg"
@@ -8502,8 +8442,7 @@
       "Feelings of empathy",
       "euphoria",
       "and a general sense of well being",
-      "Light to moderate visuals are also reported with most users",
-      ""
+      "Light to moderate visuals are also reported with most users"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -8550,8 +8489,8 @@
     "formatted_dose": {
       "Oral": {
         "Heavy": "75-100+mg",
-        "Low": "30-40mg",
-        "Medium": "40-75mg",
+        "Light": "30-40mg",
+        "Common": "40-75mg",
         "Threshold": "25-30mg"
       }
     },
@@ -8574,8 +8513,7 @@
       "Bruxia",
       "Visual and audiotory hallucinations itchiness",
       "agressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -8643,8 +8581,7 @@
       "Bruxia",
       "Visual and audiotory hallucinations itchiness",
       "agressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -8711,13 +8648,12 @@
       "Bruxia",
       "Visual and audiotory hallucinations itchiness",
       "agressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
       "Insufflated": "Within",
-      "Orally": "Within"
+      "Oral": "Within"
     },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_6MAPB.shtml"
@@ -8756,7 +8692,7 @@
       "value": "1-10"
     },
     "formatted_dose": {
-      "Light:": {
+      "Oral": {
         "Common": "187-250ug",
         "Light": "125ug",
         "Strong": "375ug+"
@@ -8774,8 +8710,7 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -8820,7 +8755,7 @@
       "value": "1-12"
     },
     "formatted_dose": {
-      "Sublingually": {
+      "Sublingual": {
         "Common": "400-800ug",
         "Light": "200-400ug",
         "Strong": "800ug-1mg."
@@ -8846,8 +8781,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -8923,8 +8857,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -9035,8 +8968,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -9089,8 +9021,7 @@
     "formatted_effects": [
       "Mild OEV's",
       "strong CEV's",
-      "A sense of well being and contentedness",
-      ""
+      "A sense of well being and contentedness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -9220,8 +9151,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -9290,8 +9220,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -9333,7 +9262,13 @@
       "value": "1-2"
     },
     "formatted_dose": {
-      "Buccal/Sublingual": {
+      "Sublingual": {
+        "Common": "1500-2000ug",
+        "Light": "1000-1500ug",
+        "Strong": "2000ug+",
+        "Threshold": "500ug"
+      },
+      "Buccal": {
         "Common": "1500-2000ug",
         "Light": "1000-1500ug",
         "Strong": "2000ug+",
@@ -9360,8 +9295,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -9404,11 +9338,6 @@
       "_unit": "hours",
       "value": "2-3"
     },
-    "formatted_dose": {
-      "Oral": {
-        "NOTE": "This"
-      }
-    },
     "formatted_duration": {
       "_unit": "hours",
       "value": "3-5"
@@ -9429,8 +9358,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -9558,8 +9486,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -9633,8 +9560,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -9763,8 +9689,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -9805,7 +9730,12 @@
       "value": "1-12"
     },
     "formatted_dose": {
-      "Sublingual/Buccal": {
+      "Sublingual": {
+        "Common": "300-800ug",
+        "Light": "100-300ug",
+        "Strong": "800-1300ug+"
+      },
+      "Buccal": {
         "Common": "300-800ug",
         "Light": "100-300ug",
         "Strong": "800-1300ug+"
@@ -9831,8 +9761,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -9897,8 +9826,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -10125,8 +10053,7 @@
       "Bruxia",
       "Visual and audiotory hallucinations itchiness",
       "agressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -10257,12 +10184,12 @@
     "formatted_duration": {
       "_unit": "hours",
       "Oral": "5-12",
-      "Vaporized": "1-2"
+      "Vapourized": "1-2"
     },
     "formatted_onset": {
       "_unit": "minutes",
       "Oral": "20-80",
-      "Vaporized": "1-5"
+      "Vapourized": "1-5"
     },
     "name": "ab-chminaca",
     "pretty_name": "AB-CHMINACA",
@@ -10274,8 +10201,8 @@
         "tentative"
       ],
       "dose": "Light: 50-100µg Common: 100-250µg Strong: 250-400µg Heavy: 400µg+",
-      "duration": "Vaporized: 1-2 hours | Oral: 5-12 hours",
-      "onset": "Vaporized: 1-5 minutes | Oral: 20-80 minutes",
+      "duration": "Vapourized: 1-2 hours | Oral: 5-12 hours",
+      "onset": "Vapourized: 1-5 minutes | Oral: 20-80 minutes",
       "summary": "A synthetic cannabinoid related to AB-FUBINACA which has had some mild popularity. There have been reports of death in overdose, similar to AB-FUBINACA and it has a low threshold dose. Exercise caution."
     }
   },
@@ -10292,7 +10219,7 @@
     "formatted_aftereffects": {
       "_unit": "hours",
       "Oral": "2-10",
-      "Vaporized": "1-2"
+      "Vapourized": "1-2"
     },
     "formatted_dose": {
       "Oral": {
@@ -10301,7 +10228,7 @@
         "Light": "0.25-0.5mg",
         "Strong": "1.5-3mg"
       },
-      "Vaporized": {
+      "Vapourized": {
         "Common": "0.5-1.5mg",
         "Heavy": "3+mg",
         "Light": "0.25-0.5mg",
@@ -10311,7 +10238,7 @@
     "formatted_duration": {
       "_unit": "hours",
       "Oral": "5-15",
-      "Vaporized": "1-2"
+      "Vapourized": "1-2"
     },
     "formatted_effects": [
       "Euphoric",
@@ -10323,7 +10250,7 @@
     "formatted_onset": {
       "_unit": "minutes",
       "Oral": "30-240",
-      "Vaporized": "1-5"
+      "Vapourized": "1-5"
     },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_ABFUBINACA.shtml"
@@ -10331,7 +10258,7 @@
     "name": "ab-fubinaca",
     "pretty_name": "AB-FUBINACA",
     "properties": {
-      "after-effects": "Vaporized: 1-2 hours | Oral: 2-10 hours",
+      "after-effects": "Vapourized: 1-2 hours | Oral: 2-10 hours",
       "aliases": [
         "ab-fub"
       ],
@@ -10341,10 +10268,10 @@
         "tentative",
         "common"
       ],
-      "dose": "Vaporized Light: 0.25-0.5mg  Common: 0.5-1.5mg  Strong: 1.5-3mg  Heavy: 3+mg | Oral Light: 0.25-0.5mg  Common: 0.5-1.5mg  Strong: 1.5-3mg  Heavy: 3+mg",
-      "duration": "Vaporized: 1-2 hours | Oral: 5-15 hours",
+      "dose": "Vapourized Light: 0.25-0.5mg  Common: 0.5-1.5mg  Strong: 1.5-3mg  Heavy: 3+mg | Oral Light: 0.25-0.5mg  Common: 0.5-1.5mg  Strong: 1.5-3mg  Heavy: 3+mg",
+      "duration": "Vapourized: 1-2 hours | Oral: 5-15 hours",
       "effects": "Euphoric, stimulating high, increases creativity and appetite, also short term memory deficits, similar to Cannabis",
-      "onset": "Vaporized: 1-5 minutes | Oral: 30-240 minutes",
+      "onset": "Vapourized: 1-5 minutes | Oral: 30-240 minutes",
       "summary": "Arguably the most common synthetic cannabinoid, AB-FUBINACA was originally developed by Pfizer as an analgesic, but has since abandoned for medical use. It has since found a following in the RC community, however it's extremely high potency and inclusion in synthetic blends makes it dangerous, and it has killed in overdose. Exercise caution."
     }
   },
@@ -10414,8 +10341,7 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -10478,7 +10404,7 @@
       "value": "1-16"
     },
     "formatted_dose": {
-      "Light:": {
+      "Oral": {
         "Common": "12.5-25ug",
         "Light": "5-12.5ug",
         "Strong": "25.47.5ug+"
@@ -10496,8 +10422,7 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -10556,8 +10481,8 @@
     "formatted_duration": {
       "_unit": "hours",
       "Insufflated": "2-5",
-      "Oral-IR": "4-6",
-      "Oral-XR": "6-12"
+      "Oral_IR": "4-6",
+      "ORAL_ER": "6-12"
     },
     "formatted_effects": [
       "Increased alertness",
@@ -10567,15 +10492,14 @@
       "Flushing of the face",
       "Increased body temperature",
       "Tachycardia (Incrased heart rate) Paranoia",
-      "Insomnia",
-      ""
+      "Insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
-      "Insufflated-IR": "0-10",
-      "Insufflated-XR": "10-45",
-      "Oral-IR": "10-30",
-      "Oral-XR": "20-60"
+      "Insufflated_IR": "0-10",
+      "Insufflated_XR": "10-45",
+      "Oral_IR": "10-30",
+      "ORAL_ER": "20-60"
     },
     "name": "adderall",
     "pretty_name": "Adderall",
@@ -10795,8 +10719,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -10842,7 +10765,7 @@
     "formatted_dose": {
       "Oral": {
         "Common": "75-100mg",
-        "Low": "50-75mg",
+        "Light": "50-75mg",
         "Strong": "100-200mg+"
       }
     },
@@ -10856,8 +10779,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -10903,7 +10825,7 @@
     "formatted_duration": {
       "_unit": "hours",
       "Oral": "6-8",
-      "Vaporized": "3-4"
+      "Vapourized": "3-4"
     },
     "formatted_effects": [
       "Euphoria",
@@ -10913,13 +10835,12 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
       "Oral": "15-45",
-      "Vaporized": "2-10"
+      "Vapourized": "2-10"
     },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_AH7921.shtml"
@@ -10938,9 +10859,9 @@
         "depressant"
       ],
       "dose": "Oral Light: 10-20mg Common: 20-40mg Strong: 40mg+ Vapourized Light: 5-10mg Common: 10-25mg Strong: 25mg+",
-      "duration": "Oral: 6-8 hours | Vaporized 3-4 hours.",
+      "duration": "Oral: 6-8 hours | Vapourized 3-4 hours.",
       "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
-      "onset": "Oral: 15-45 minutes. | Vaporized: 2-10 minutes.",
+      "onset": "Oral: 15-45 minutes. | Vapourized: 2-10 minutes.",
       "summary": "Opioid analgesic that is selective for the μ-opioid receptor. It has around 80% the potency of Morphine when taken orally."
     }
   },
@@ -10973,8 +10894,7 @@
       "open and closed eye visuals are common",
       "Auditory hallucinations are reported as common",
       "A sense of connectedness with people and the environment around you",
-      "A strong sense of wellbeing",
-      ""
+      "A strong sense of wellbeing"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -11394,11 +11314,6 @@
       "_unit": "hours",
       "value": "12-24"
     },
-    "formatted_dose": {
-      "none": {
-        "NOTE": "Varies"
-      }
-    },
     "formatted_duration": {
       "_unit": "hours",
       "value": "6-18"
@@ -11419,8 +11334,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -11529,8 +11443,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -11637,8 +11550,7 @@
       "Bruxia",
       "Visual and audiotory hallucinations itchiness",
       "agressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -11709,8 +11621,7 @@
       "Dystaxia",
       "Hiccups",
       "Loss of time",
-      "Loss of motor skills",
-      ""
+      "Loss of motor skills"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -11890,8 +11801,7 @@
       "Bruxia",
       "Visual and audiotory hallucinations itchiness",
       "agressiveness",
-      "moodiness",
-      ""
+      "moodiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -11927,7 +11837,7 @@
       "tentative"
     ],
     "formatted_dose": {
-      "none": {
+      "Oral": {
         "Common": "3-10mg",
         "Light": "1-3mg",
         "Strong": "10-25mg."
@@ -11987,7 +11897,7 @@
     "formatted_dose": {
       "Oral": {
         "Common": "50-75mg",
-        "Low": "50mg",
+        "Light": "50mg",
         "Strong": "75-150mg+"
       }
     },
@@ -12001,8 +11911,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -12070,8 +11979,7 @@
       "Increased focus",
       "abundance of energy",
       "racing thoughts",
-      "elevated heartrate",
-      ""
+      "elevated heartrate"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -12312,8 +12220,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -12401,11 +12308,8 @@
       "value": "1-2"
     },
     "formatted_dose": {
-      "Fever": {
-        "Common": "300-500mg"
-      },
-      "Pain-relief": {
-        "Common": "200-400mg"
+      "Oral": {
+        "Common": "200-500mg"
       }
     },
     "formatted_duration": {
@@ -12660,11 +12564,6 @@
       "_unit": "hours",
       "value": "1-8"
     },
-    "formatted_dose": {
-      "none": {
-        "NOTE": "Dosage"
-      }
-    },
     "formatted_duration": {
       "_unit": "hours",
       "value": "4-8"
@@ -12685,8 +12584,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -12869,7 +12767,7 @@
       "value": "1-8"
     },
     "formatted_dose": {
-      "Light:": {
+      "Oral": {
         "Common": "30-50mg",
         "Light": "15-30mg",
         "Strong": "50-75mg+"
@@ -13051,8 +12949,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -13117,8 +13014,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "name": "bk-2c-i",
     "pretty_name": "βk-2C-I",
@@ -13208,8 +13104,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -13369,8 +13264,7 @@
       "Sedative",
       "Muscle Relaxant",
       "Amnesia",
-      "Dystaxia",
-      ""
+      "Dystaxia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -13499,8 +13393,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "hours",
@@ -13561,8 +13454,7 @@
       "Sedative",
       "Muscle Relaxant",
       "Amnesia",
-      "Dystaxia",
-      ""
+      "Dystaxia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -13663,7 +13555,7 @@
     },
     "formatted_duration": {
       "_unit": "hours",
-      "Low": "Dose"
+      "Oral": "Low Dose: 8-12 hours High Dose: 24-72 hours"
     },
     "formatted_effects": [
       "Euphoria",
@@ -13673,8 +13565,7 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -13720,11 +13611,6 @@
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-6"
-    },
-    "formatted_dose": {
-      "none": {
-        "NOTE": "Highly"
-      }
     },
     "formatted_duration": {
       "_unit": "hours",
@@ -13844,7 +13730,6 @@
       "value": "1-4"
     },
     "formatted_dose": {
-      "": {},
       "Oral": {
         "Common": "800-1500ug",
         "Light": "400-800ug",
@@ -14050,7 +13935,7 @@
       "value": "3-4"
     },
     "formatted_dose": {
-      "Threshold:": {
+      "Oral": {
         "Common": "75mg-250mg",
         "Heavy": "400mg+",
         "Light": "20-75mg",
@@ -14141,7 +14026,7 @@
       "Oral": {
         "Heavy": "40+",
         "Light": "10-20mg",
-        "Moderate": "20-40mg"
+        "Common": "20-40mg"
       }
     },
     "formatted_duration": {
@@ -14318,8 +14203,7 @@
       "Emotion enhancement",
       "Mindfulness",
       "Paranoia",
-      "Sleepiness",
-      ""
+      "Sleepiness"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -14453,8 +14337,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -14535,7 +14418,9 @@
       "stimulant"
     ],
     "formatted_dose": {
-      "250mg": {}
+      "Oral": {
+        "Common": "250mg 1-6x a day."
+      }
     },
     "formatted_duration": {
       "_unit": "hours",
@@ -14553,8 +14438,8 @@
         "tentative",
         "stimulant"
       ],
-      "dose": "250mg 1-6x a day.",
-      "duration": "4-8 hours.",
+      "dose": "Oral: 250mg 1-6x a day.",
+      "duration": "Oral: 4-8 hours.",
       "summary": "Cholinergic compound with a DMAE compotent. Is thought to help in reversing some signs of aging. Naturally found substance, most notably in fish."
     }
   },
@@ -14569,7 +14454,7 @@
       "value": "1-36"
     },
     "formatted_dose": {
-      "Light:": {
+      "Oral": {
         "Common": "15-30mg",
         "Heavy": "50+mg",
         "Light": "5-15mg",
@@ -14763,7 +14648,9 @@
       "ssri"
     ],
     "formatted_dose": {
-      "20-40mg": {}
+      "Oral": {
+        "Common": "20-40mg once a day"
+      }
     },
     "name": "citalopram",
     "pretty_name": "Citalopram",
@@ -14795,7 +14682,7 @@
       "value": "1-12"
     },
     "formatted_dose": {
-      "Light:": {
+      "Oral": {
         "Common": "10-15mg",
         "Heavy": "15-30mg+",
         "Light": "5-10mg"
@@ -14810,8 +14697,7 @@
       "Sedative",
       "Muscle Relaxant",
       "Amnesia",
-      "Dystaxia",
-      ""
+      "Dystaxia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -14874,8 +14760,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -14932,8 +14817,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -15022,8 +14906,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -15181,7 +15064,7 @@
     },
     "formatted_dose": {
       "Oral": {
-        "Commong": "5-10mg",
+        "Common": "5-10mg",
         "Light": "2.5-5mg",
         "Strong": "10-15mg+"
       }
@@ -15229,7 +15112,7 @@
     "formatted_dose": {
       "Oral": {
         "Common": "10-20mg",
-        "Low": "5-10mg",
+        "Light": "5-10mg",
         "Strong": "20-40mg+"
       }
     },
@@ -15243,8 +15126,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -15632,8 +15514,7 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -15701,7 +15582,12 @@
         "Light": "3-5mg",
         "Strong": "10-20mg+"
       },
-      "Sublingual/Insufflated": {
+      "Sublingual": {
+        "Common": "5-10mg",
+        "Light": "2-5mg",
+        "Strong": "10mg+"
+      },
+      "Insufflated": {
         "Common": "5-10mg",
         "Light": "2-5mg",
         "Strong": "10mg+"
@@ -15713,7 +15599,7 @@
     },
     "formatted_onset": {
       "_unit": "minutes",
-      "Intranasal": "1-5",
+      "Insufflated": "1-5",
       "Oral": "15-30",
       "Sublingual": "5-10"
     },
@@ -15884,7 +15770,7 @@
     },
     "formatted_duration": {
       "_unit": "hours",
-      "value": "Oral"
+      "Oral": "4-8 hours."
     },
     "formatted_effects": [
       "Side-effects: drowsiness",
@@ -16103,7 +15989,7 @@
       "value": "1-6"
     },
     "formatted_dose": {
-      "Light:": {
+      "Oral": {
         "Common": "20-35mg",
         "Light": "15-20mg",
         "Strong": "35-50mg+"
@@ -16151,7 +16037,7 @@
       "value": "1-4"
     },
     "formatted_dose": {
-      "none": {
+      "Oral": {
         "Common": "40-60mg",
         "Light": "20-40mg",
         "Strong": "60mg+"
@@ -16177,8 +16063,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -16212,11 +16097,6 @@
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "24-72"
-    },
-    "formatted_dose": {
-      "none": {
-        "NOTE": "There"
-      }
     },
     "formatted_duration": {
       "_unit": "hours",
@@ -16331,7 +16211,7 @@
       "value": "2-24"
     },
     "formatted_dose": {
-      "Threshold": {
+      "Oral": {
         "Common": "100-150mg",
         "Light": "50-100mg",
         "Strong": "150-200mg+"
@@ -16396,8 +16276,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -16456,8 +16335,7 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -16518,8 +16396,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -16769,13 +16646,12 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
       "Oral": "30-90",
-      "Vaporized": "1-5"
+      "Vapourized": "1-5"
     },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_DET.shtml",
@@ -16793,10 +16669,10 @@
         "research-chemical",
         "tentative"
       ],
-      "dose": "Vaporized (using a 100% success method) Light: 15-25mg's Common: 30-50mg's Strong: 50mg+ Orally Light: 20-40mg's Common: 50-80mg's Strong: 80mg+",
+      "dose": "Vapourized (using a 100% success method) Light: 15-25mg's Common: 30-50mg's Strong: 50mg+ Orally Light: 20-40mg's Common: 50-80mg's Strong: 80mg+",
       "duration": "2-4 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
-      "onset": "Vaporized: 1-5 minutes. | Oral: 30-90 minutes.",
+      "onset": "Vapourized: 1-5 minutes. | Oral: 30-90 minutes.",
       "summary": "A surprisingly uncommon analogue of DMT with similar effects and reported oral activity without the aid of an MAOI."
     }
   },
@@ -16875,7 +16751,6 @@
       "Oral": {
         "Common": "65-100mg",
         "Light": "30-65mg",
-        "NOTE": "It",
         "Strong": "100-200mg"
       }
     },
@@ -16951,8 +16826,7 @@
       "Relaxation",
       "Anxiety suppression",
       "Muscle relaxation",
-      "Emotional and social dissociation or de-realization (normally seen with long term use)",
-      ""
+      "Emotional and social dissociation or de-realization (normally seen with long term use)"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -17048,8 +16922,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -17103,10 +16976,10 @@
     ],
     "dose_note": " NOTE: These doses are tentative and may need further research.",
     "formatted_dose": {
-      "Threshold:": {
+      "Oral": {
         "Common": "40-60mg",
         "Heavy": "60-80mg",
-        "Low": "30-40mg",
+        "Light": "30-40mg",
         "Threshold": "12-15mg"
       }
     },
@@ -17141,7 +17014,7 @@
       "tentative"
     ],
     "formatted_aftereffects": {
-      "6": "hours",
+      "value": "6",
       "_unit": "hours"
     },
     "formatted_duration": {
@@ -17187,7 +17060,7 @@
       "value": "1-8"
     },
     "formatted_dose": {
-      "Light:": {
+      "Oral": {
         "Common": "100-150mg",
         "Heavy": "150-200mg+",
         "Light": "50-100mg"
@@ -17205,8 +17078,7 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"      
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -17435,8 +17307,7 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -17480,7 +17351,7 @@
       "value": "12-24"
     },
     "formatted_dose": {
-      "Threshold:": {
+      "Oral": {
         "Common": "30-50mg",
         "Heavy": "50mg+",
         "Light": "15-25mg",
@@ -17507,8 +17378,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -17557,7 +17427,7 @@
     "formatted_dose": {
       "Oral": {
         "Common": "20-50mg",
-        "Low": "10-20mg",
+        "Light": "10-20mg",
         "Strong": "50-100mg",
         "Threshold": "5-10mg"
       }
@@ -17697,7 +17567,7 @@
         "Light": "10-15mg",
         "Strong": "25-40mg"
       },
-      "Vapourised": {
+      "Vapourized": {
         "Common": "15-25mg",
         "Heavy": "35mg+",
         "Light": "10-15mg",
@@ -17709,7 +17579,8 @@
       "_unit": "minutes",
       "Insufflated": "45-60",
       "Oral_MAOI": "180-420",
-      "Vaporized/smoked": "3-10"
+      "Vapourized": "3-10",
+      "Smoked": "3-10"
     },
     "formatted_effects": [
       "immersive experience",
@@ -17728,8 +17599,8 @@
     "formatted_onset": {
       "_unit": "minutes",
       "Insufflated": "3-5",
-      "Oral_MAOI": "20-45",
-      "Vaporized/smoked": "0-2"
+      "Oral": "20-45",
+      "Vapourized": "0-2"
     },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_DMT.shtml",
@@ -17748,12 +17619,12 @@
         "common"
       ],
       "dose": "Vapourised Threshold: 5-10mg Light: 10-15mg Common: 15-25mg Strong: 25-35mg Heavy: 35mg+ | Insufflated Light: 10-25mg Common: 25-50mg Strong: 50-125mg+ | Intravenous Light: 10-15mg Common: 15-25mg Strong: 25-40mg",
-      "duration": "Vaporized/smoked: 3-10 minutes | Oral_MAOI: 180-420 minutes | Insufflated: 45-60 minutes",
+      "duration": "Vapourized/smoked: 3-10 minutes | Oral_MAOI: 180-420 minutes | Insufflated: 45-60 minutes",
       "effects": "immersive experience, open eye visuals, radical perspective shifting, profound life-changing spiritual experiences, powerful rushing of sensation, change in perception of time, auditory hallucinations, color shifting, hard on lungs when smoking, stomach discomfort, difficulty integrating experiences, overwhelming fear",
       "half-life": "10-20 minutes",
       "marquis": "Orange",
       "molecule": "http://www.erowid.org/chemicals/dmt/images/archive/dmt_3d_mid.jpg",
-      "onset": "Vaporized/smoked: 0-2 minutes | Oral_MAOI: 20-45 minutes | Insufflated: 3-5 minutes",
+      "onset": "Vapourized/smoked: 0-2 minutes | Oral_MAOI: 20-45 minutes | Insufflated: 3-5 minutes",
       "summary": "A popular and powerful psychedelic, typically used in two ways; either it is vapourised for a short 'breakthrough' experience, or it is taken in combination with an enzyme inhibitor for a long, intense trip (this is also known as ayahuasca or pharmahuasca).",
       "vaporization": "60-80C (140-176F)"
     },
@@ -17809,7 +17680,7 @@
     ],
     "formatted_aftereffects": {
       "_unit": "hours",
-      "value": "2-12"
+      "Oral": "2-12"
     },
     "formatted_dose": {
       "Oral": {
@@ -17822,7 +17693,7 @@
     },
     "formatted_duration": {
       "_unit": "hours",
-      "value": "8-24"
+      "Oral": "8-24"
     },
     "formatted_effects": [
       "Euphoria",
@@ -17840,8 +17711,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -17907,8 +17777,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -17977,8 +17846,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "hours",
@@ -18045,8 +17913,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -18085,8 +17952,7 @@
       "value": "1-48"
     },
     "formatted_dose": {
-      "": {},
-      "Threshold:": {
+      "Oral": {
         "Common": "1.5-3mg",
         "Light": "800-1500ug",
         "Strong": "3mg+",
@@ -18147,8 +18013,7 @@
     "formatted_effects": [
       "visual distortions",
       "a 'stoned' feeling",
-      "sense of well being",
-      ""
+      "sense of well being"
     ],
     "formatted_onset": {
       "_unit": "hours",
@@ -18191,7 +18056,7 @@
       "value": "12-24"
     },
     "formatted_dose": {
-      "Threshold:": {
+      "Oral": {
         "Common": "3-5mg",
         "Heavy": "5mg+",
         "Light": "3mg",
@@ -18218,8 +18083,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -18283,8 +18147,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -18370,7 +18233,6 @@
       "Oral": {
         "Common": "200-500mg",
         "Light": "100-250mg",
-        "NOTE": "The",
         "Strong": "450-700mg"
       }
     },
@@ -18388,8 +18250,7 @@
       "nausea",
       "dysphoria",
       "tremors",
-      "Often described as a pretty negative experience",
-      ""
+      "Often described as a pretty negative experience"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -18485,13 +18346,13 @@
     ],
     "formatted_aftereffects": {
       "_unit": "hours",
-      "IM": "2-4",
+      "Intramuscular": "2-4",
       "Insufflated": "3-4",
       "Oral": "2-3",
       "Smoked": "2-4"
     },
     "formatted_dose": {
-      "IM": {
+      "Intramuscular": {
         "Common": "35-60mg",
         "Light": "10-35mg",
         "Strong": "60-100mg",
@@ -18516,7 +18377,7 @@
     },
     "formatted_duration": {
       "_unit": "hours",
-      "IM": "3-4",
+      "Intramuscular": "3-4",
       "Insufflated": "3-4",
       "Oral": "2-4",
       "Smoked": "0.5-1.5"
@@ -18526,7 +18387,7 @@
     ],
     "formatted_onset": {
       "_unit": "minutes",
-      "IM": "2-10",
+      "Intramuscular": "2-10",
       "Insufflated": "5-20",
       "Oral": "20-60",
       "Smoked": "0-1"
@@ -18620,8 +18481,7 @@
       "muscle cramps",
       "Nausea",
       "Dysphoria",
-      "Tremors",
-      ""
+      "Tremors"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -18766,10 +18626,10 @@
     },
     "formatted_dose": {
       "Oral": {
-        "First-Plateau": "1.5-2.5mg/kg",
-        "Second-Plateau": "2.5-7.5mg/kg",
-        "Third-Plateau": "7.5-15mg/kg",
-        "Fourth": "15-20mg/kg"
+        "Light": "1.5-2.5mg/kg",
+        "Common": "2.5-7.5mg/kg",
+        "Strong": "7.5-15mg/kg",
+        "Heavy": "15-20mg/kg"
       }
     },
     "formatted_duration": {
@@ -19114,8 +18974,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "hours",
@@ -19234,8 +19093,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -19393,8 +19251,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -19623,8 +19480,7 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -19738,7 +19594,7 @@
         "Light": "20-40mg",
         "Strong": "100-150mg"
       },
-      "Plugged/Rectal": {
+      "Rectal": {
         "Common": "15-30mg",
         "Heavy": "50-75mg",
         "Light": "5-15mg",
@@ -19749,7 +19605,7 @@
       "_unit": "hours",
       "Insufflated": "2-6",
       "Oral": "4-10",
-      "Plugged": "2-6"
+      "Rectal": "2-6"
     },
     "formatted_effects": [
       "Focus/mental clarity",
@@ -19773,7 +19629,7 @@
       "_unit": "minutes",
       "Insufflated": "1-10",
       "Oral": "45-120",
-      "Plugged": "5-20"
+      "Rectal": "5-20"
     },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_Ethylphenidate.shtml"
@@ -19791,7 +19647,7 @@
         "habit-forming",
         "common"
       ],
-      "dose": "Oral Light: 20-40mg Common: 40-100mg Strong: 100-150mg Heavy: 150-200mg | Plugged/Rectal Light: 5-15mg Common: 15-30mg Strong: 30-50mg Heavy: 50-75mg | NOTE: Ethylphenidate should NOT be insufflated (see summary for more details). This drug reacts with users in varying ways, so start low and work your way up.",
+      "dose": "Oral Light: 20-40mg Common: 40-100mg Strong: 100-150mg Heavy: 150-200mg | Rectal Light: 5-15mg Common: 15-30mg Strong: 30-50mg Heavy: 50-75mg | NOTE: Ethylphenidate should NOT be insufflated (see summary for more details). This drug reacts with users in varying ways, so start low and work your way up.",
       "duration": "Oral: 4-10 hours. | Insufflated: 2-6 hours. | Plugged: 2-6 hours.",
       "effects": "Focus/mental clarity, Abstract thinking, Euphoria, Stimulation, Increased music appreciation, Warm fuzzy body high, Increased desire to talk, Wakefulness, increased sex drive, Chest pain, Vasoconstriction, Jaw Tension, Restlessness, high blood pressure, compulsion to redose, paranoia",
       "onset": "Insufflated: 1-10 minutes | Plugged: 5-20 minutes | Oral: 45-120 minutes",
@@ -19945,8 +19801,7 @@
     "properties": {
       "aliases": [
         "etazene"
-      ],
-      "draft": "draft"
+      ]
     }
   },
   "fasoracetam": {
@@ -19962,7 +19817,7 @@
     "formatted_dose": {
       "Oral": {
         "Common": "5-10mg",
-        "Low": "2.5-5mg",
+        "Light": "2.5-5mg",
         "Strong": "10-25mg."
       }
     },
@@ -20003,7 +19858,7 @@
       "value": "Risk"
     },
     "formatted_dose": {
-      "Intranasal": {
+      "Insufflated": {
         "Common": "25-50ug",
         "Light": "10-25ug",
         "Strong": "50-75ug+"
@@ -20151,8 +20006,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -20226,8 +20080,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -20350,8 +20203,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -20411,8 +20263,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Blackouts",
-      ""
+      "Blackouts"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -20573,8 +20424,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -20629,8 +20479,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -20683,8 +20532,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -20925,8 +20773,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -21205,8 +21052,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -21393,7 +21239,7 @@
     "formatted_duration": {
       "_unit": "hours",
       "Insufflated": "3-6",
-      "IV": "4-5",
+      "Intravenous": "4-5",
       "Smoked": "3-5"
     },
     "formatted_effects": [
@@ -21404,13 +21250,12 @@
       "Relaxant",
       "Constipation",
       "Pupil Constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
       "Insufflated": "10-15",
-      "IV": "0-5",
+      "Intravenous": "0-5",
       "Smoked": "5-10"
     },
     "links": {
@@ -21478,7 +21323,7 @@
       "value": "1-12"
     },
     "formatted_dose": {
-      "Threshold:": {
+      "Oral": {
         "Common": "70-100mg",
         "Light": "50-70mg",
         "Strong": "100-125mg+",
@@ -21591,7 +21436,7 @@
       "value": "1-4"
     },
     "formatted_dose": {
-      "Light:": {
+      "Oral": {
         "Common": "15-20mg",
         "Light": "10-15mg",
         "Strong": "20-30mg"
@@ -21664,7 +21509,7 @@
       ],
       "dose": "Oral Light: 10-25mg Common: 25-50mg Strong: 50-100mg",
       "duration": "5-9 hours.",
-      "oral": "Light: 10-25mg Common: 25-50mg Strong: 50-100mg.",
+      "Oral": "Light: 10-25mg Common: 25-50mg Strong: 50-100mg.",
       "summary": "An analogue of sildenafil (viagra) with similar effects. Has been missold in certain 'herbal' blends and dietary supplements for sexual potency. Little is known about the pharmacology or safety profile of this drug in humans, potentially less potent than sildenafil."
     }
   },
@@ -21709,8 +21554,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -21783,8 +21627,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -21824,7 +21667,7 @@
       "value": "1-14"
     },
     "formatted_dose": {
-      "Insufflted": {
+      "Insufflated"  : {
         "Common": "75-150ug",
         "Light": "50-75ug",
         "Strong": "150ug-200ug."
@@ -21893,8 +21736,7 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -21986,8 +21828,7 @@
       "Relaxant",
       "Constipation",
       "Pupil Constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -22083,8 +21924,7 @@
     },
     "formatted_dose": {
       "Oral": {
-        "Common": "16-22mg/kg",
-        "NOTE": "Doses"
+        "Common": "16-22mg/kg"
       }
     },
     "formatted_duration": {
@@ -22108,8 +21948,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -22221,8 +22060,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -22269,7 +22107,7 @@
         "Light": "20-40mg",
         "Strong": "60-90mg"
       },
-      "Vaporized": {
+      "Vapourized": {
         "Common": "10-25mg",
         "Heavy": "50mg+.",
         "Light": "5-10mg",
@@ -22279,7 +22117,7 @@
     "formatted_duration": {
       "_unit": "hours",
       "Insufflated": "1-3",
-      "Vaporized": "1-1.5"
+      "Vapourized": "1-1.5"
     },
     "name": "indapyrophenidone",
     "pretty_name": "Indapyrophenidone",
@@ -22291,8 +22129,8 @@
         "research-chemical",
         "habit-forming"
       ],
-      "dose": "Vaporized Light: 5-10mg Common: 10-25mg Strong: 25-50mg Heavy: 50mg+. | Insufflated Light: 20-40mg Common: 40-60mg Strong: 60-90mg Heavy: 90mg+",
-      "duration": "Vaporized: 1-1.5 hours | Insufflated: 1-3 hours",
+      "dose": "Vapourized Light: 5-10mg Common: 10-25mg Strong: 25-50mg Heavy: 50mg+. | Insufflated Light: 20-40mg Common: 40-60mg Strong: 60-90mg Heavy: 90mg+",
+      "duration": "Vapourized: 1-1.5 hours | Insufflated: 1-3 hours",
       "summary": "Indane analogue of Pyrophenidone, a NDRI stimulant with a short duration."
     }
   },
@@ -22326,8 +22164,7 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -22521,8 +22358,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -22599,7 +22435,7 @@
       "_unit": "minutes",
       "Insufflated": "5-10",
       "Oral": "30-90",
-      "Smoking": "1-2"
+      "Smoked": "1-2"
     },
     "name": "kanna",
     "pretty_name": "Kanna",
@@ -22791,8 +22627,7 @@
     "formatted_effects": [
       "A feeling of drunkenness and well being at low doses",
       "As dose increases the user may begin to feel a disconnection from their body",
-      "At 'khole' doses the user may become completely disconnected from both body and mind",
-      ""
+      "At 'khole' doses the user may become completely disconnected from both body and mind"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -22980,8 +22815,7 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -23024,7 +22858,7 @@
     },
     "formatted_onset": {
       "_unit": "minutes",
-      "Chewed": "10-15"
+      "Oral": "10-15"
     },
     "name": "khat",
     "pretty_name": "Khat",
@@ -23054,7 +22888,7 @@
       "value": "1-12"
     },
     "formatted_dose": {
-      "Light:": {
+      "Oral": {
         "Common": "1.5-3g",
         "Light": "0.5-1.5g",
         "Strong": "3-6g"
@@ -23182,7 +23016,7 @@
       "value": "1-14"
     },
     "formatted_dose": {
-      "Light:": {
+      "Oral": {
         "Common": "10-20mg",
         "Heavy": "20-40mg+",
         "Light": "5-10mg"
@@ -23198,8 +23032,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -23311,8 +23144,7 @@
     "formatted_effects": [
       "Anxiolytic",
       "sedative",
-      "high muscle relaxant properties",
-      ""
+      "high muscle relaxant properties"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -23463,8 +23295,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -23688,7 +23519,7 @@
       "half-life": "3-5 hours",
       "marquis": "Olive black",
       "onset": "45-90 minutes depending on ROA and stomach contents.",
-      "oral": "Light: 50-100ug Common: 100-150ug Strong: 175-225ug Heavy 225ug+ | Note: These doses are for pure LSD, note that tabs are often rather a lot weaker than they are advertised.",
+      "Oral": "Light: 50-100ug Common: 100-150ug Strong: 175-225ug Heavy 225ug+ | Note: These doses are for pure LSD, note that tabs are often rather a lot weaker than they are advertised.",
       "summary": "LSD is a popular psychedelic with a relatively long history of use and research, and as such is known to be relatively safe despite its extremely high potency. It is the archetypical psychedelic to which all others are compared, and remains in popular usage."
     },
     "pweffects": {
@@ -23848,8 +23679,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -24328,7 +24158,13 @@
       "value": "1-72"
     },
     "formatted_dose": {
-      "Insufflated/Rectal": {
+      "Insufflated": {
+        "Common": "70-120mg",
+        "Heavy": "165mg+",
+        "Light": "30-70mg",
+        "Strong": "120-165mg"
+      },
+      "Rectal": {
         "Common": "70-120mg",
         "Heavy": "165mg+",
         "Light": "30-70mg",
@@ -24533,11 +24369,11 @@
     ],
     "dose_note": "NOTE: Dose data is tentative; There is a large variance in potency and composition of batches, and as such caution should be used when taking MDPHP. See ~mdphp summary ",
     "formatted_aftereffects": {
-      "Insufflated/Inhaled": "2-36h",
+      "Insufflated": "2-36h",
       "Oral": "2-16h"
     },
     "formatted_dose": {
-      "Insufflated/Inhaled": {
+      "Insufflated": {
         "Common": "10-20mg",
         "Light": "5-10mg",
         "Strong": "20+mg"
@@ -24545,12 +24381,12 @@
       "Oral": {
         "Common": "20-35mg",
         "Strong": "35+mg",
-        "t": "10-20mg"
+        "Light": "10-20mg"
       }
     },
     "formatted_duration": {
       "_unit": "hours",
-      "Insufflated/Inhaled": "2-4",
+      "Insufflated": "2-4",
       "Oral": "3-6"
     },
     "formatted_effects": [
@@ -24574,7 +24410,7 @@
     "name": "mdphp",
     "pretty_name": "MDPHP",
     "properties": {
-      "after-effects": "Oral: 2-16h | Insufflated/Inhaled: 2-36h",
+      "after-effects": "Oral: 2-16h | Insufflated: 2-36h",
       "aliases": [
         "monkey-dust"
       ],
@@ -24584,11 +24420,10 @@
         "habit-forming",
         "research-chemical"
       ],
-      "dose": "NOTE: Dose data is tentative; There is a large variance in potency and composition of batches, and as such caution should be used when taking MDPHP. See ~mdphp summary | Oral Light: 10-20mg Common: 20-35mg Strong: 35+mg | Insufflated/Inhaled Light: 5-10mg Common: 10-20mg Strong: 20+mg",
-      "duration": "Oral: 3-6 hours | Insufflated/Inhaled: 2-4 hours",
+      "dose": "NOTE: Dose data is tentative; There is a large variance in potency and composition of batches, and as such caution should be used when taking MDPHP. See ~mdphp summary | Oral Light: 10-20mg Common: 20-35mg Strong: 35+mg | Insufflated Light: 5-10mg Common: 10-20mg Strong: 20+mg",
+      "duration": "Oral: 3-6 hours | Insufflated: 2-4 hours",
       "effects": "Stimulation, Incresed Motivation, Mood Enhancement, Euphoria, Sexual Enhancement, Anxiety, Paranoia, Dry Mouth, Muscle Tension, Restlessness, Uncomfortable Stimulation",
       "onset": "Oral: 30-60 minutes | Insufflated: 5-15 minutes",
-      "onset:": "Oral: 2-36 minutes | Inflatted/Inhaled: 5-15 minutes",
       "summary": "MDPHP aka 'Monkey-Dust' is a substituted cathinone and pyrovalerone which has been sold as an alternative to a-PHP and MDPV. Said to be less intense than MDPV with similar effects. MDPHP potency is said to vary widely, and there are reports of mixed composition batches containing other drugs. Very little is known about MDPHP in terms of toxicity, pharmacology and metabolism."
     }
   },
@@ -24695,7 +24530,7 @@
         "Strong": "15-20mg.",
         "Threshold": "3-5mg"
       },
-      "Vaporized": {
+      "Vapourized": {
         "Common": "5-10mg",
         "Light": "3-5mg",
         "Strong": "10-20mg+",
@@ -24715,8 +24550,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -24738,7 +24572,7 @@
         "habit-forming",
         "tentative"
       ],
-      "dose": "Sublingual Threshold: 3-5mg  Light: 5-8mg  Common: 8-15mg  Strong: 15-20mg. | Vaporized Threshold: 2-3mg  Light: 3-5mg  Common: 5-10mg  Strong: 10-20mg+",
+      "dose": "Sublingual Threshold: 3-5mg  Light: 5-8mg  Common: 8-15mg  Strong: 15-20mg. | Vapourized Threshold: 2-3mg  Light: 3-5mg  Common: 5-10mg  Strong: 10-20mg+",
       "duration": "Oral: 60-120 minutes. | Sublingual: 45-90 minutes. | Insufflated: 30-60 minutes. | Vapourized: 20-40 minutes.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "Oral: 10-20 minutes. | Sublingual: 5-15 minutes. | Insufflated: 5-10 minutes. | Vapourized: 1-2 minutes.",
@@ -24772,8 +24606,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -24920,7 +24753,7 @@
     "formatted_dose": {
       "Oral": {
         "Common": "25-35mg",
-        "Low": "15-25mg",
+        "Light": "15-25mg",
         "Strong": "35-45mg+.",
         "Threshold": "15mg"
       }
@@ -24945,8 +24778,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -24985,7 +24817,7 @@
       "Oral": {
         "Common": "20-40mg",
         "Heavy": "40-80mg+",
-        "Low": "10-20mg"
+        "Light": "10-20mg"
       }
     },
     "formatted_duration": {
@@ -25052,8 +24884,7 @@
       "value": "2-3"
     },
     "formatted_effects": [
-      "Generally described as being more intense of a stimulant than MDMA but with somewhat less of an empathogenic feel",
-      ""
+      "Generally described as being more intense of a stimulant than MDMA but with somewhat less of an empathogenic feel"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -25339,8 +25170,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -25466,8 +25296,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -25490,7 +25319,7 @@
         "research-chemical",
         "tentative"
       ],
-      "dose": "Oral Light: 60-80mg Common: 80-120mg Strong: 120mg+ Insufflated Light: 10-15mg Common: 15-20mg Strong: 20-25mg+ Vaporized Light: 10-20mg Common: 20-25mg Strong: 25-30mg+",
+      "dose": "Oral Light: 60-80mg Common: 80-120mg Strong: 120mg+ Insufflated Light: 10-15mg Common: 15-20mg Strong: 20-25mg+ Vapourized Light: 10-20mg Common: 20-25mg Strong: 25-30mg+",
       "duration": "Oral: 4-6 hours. | Insufflated: 2-3 hours. | Smoked: 0.5-1 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "Oral: 60-90 minutes. | Insufflated: 10-15 minutes. | Smoked: 5-10 minutes.",
@@ -25593,7 +25422,6 @@
       "Oral": {
         "Common": "10-20mg",
         "Light": "5-10mg",
-        "NOTE": "these",
         "Strong": "20-35mg+"
       }
     },
@@ -25608,8 +25436,7 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -25659,7 +25486,7 @@
       "Oral": {
         "Common": "25-40mg",
         "Heavy": "40mg+",
-        "Low": "15-25mg",
+        "Light": "15-25mg",
         "Threshold": "10-15mg"
       }
     },
@@ -25683,8 +25510,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -25831,7 +25657,7 @@
         "Light": "5-10mg",
         "Strong": "30-50mg"
       },
-      "IV": {
+      "Intravenous": {
         "Common": "10-20mg",
         "Heavy": "40mg+",
         "Light": "5-10mg",
@@ -25853,7 +25679,7 @@
     "formatted_duration": {
       "_unit": "hours",
       "Insufflated": "8-10",
-      "IV": "4-8",
+      "Intravenous": "4-8",
       "Oral": "10-12",
       "Smoked": "3-8"
     },
@@ -25873,13 +25699,12 @@
       "agressiveness",
       "moodiness",
       "fatal kidney disorder",
-      "possible brain damage liver damage",
-      ""
+      "possible brain damage liver damage"
     ],
     "formatted_onset": {
       "_unit": "minutes",
       "Insufflated": "5-10",
-      "IV": "0-2",
+      "Intravenous": "0-2",
       "Oral": "20-70",
       "Smoked": "0-2"
     },
@@ -25982,8 +25807,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -26293,7 +26117,13 @@
       "value": "1-2"
     },
     "formatted_dose": {
-      "Vapourized/Sublingual": {
+      "Vapourized": {
+        "Common": "5-10mg.",
+        "Light": "3-5mg",
+        "Strong": "10-20mg+",
+        "Threshold": "2-3mg"
+      },
+      "Sublingual": {
         "Common": "5-10mg.",
         "Light": "3-5mg",
         "Strong": "10-20mg+",
@@ -26310,8 +26140,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -26480,8 +26309,8 @@
     "formatted_duration": {
       "_unit": "hours",
       "Insufflated": "2-4",
-      "Oral-IR": "3-6",
-      "Oral-XR": "8-12"
+      "Oral_IR": "3-6",
+      "ORAL_ER": "8-12"
     },
     "formatted_effects": [
       "Increased alertness",
@@ -26491,15 +26320,14 @@
       "Flushing of the face",
       "Increased body temperature",
       "Tachycardia (Increased heart rate) Paranoia",
-      "Insomnia",
-      ""
+      "Insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
-      "Insufflated-IR": "5-10",
-      "Insufflated-XR": "5-10",
-      "Oral-IR": "30-120",
-      "Oral-XR": "30-120"
+      "Insufflated_IR": "5-10",
+      "Insufflated_XR": "5-10",
+      "Oral_IR": "30-120",
+      "ORAL_ER": "30-120"
     },
     "name": "methylphenidate",
     "pretty_name": "Methylphenidate",
@@ -26702,8 +26530,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "name": "mexamine",
     "pretty_name": "Mexamine",
@@ -26849,27 +26676,27 @@
     "formatted_dose": {
       "Insufflated": {
         "Common": "7-15mg",
-        "Low": "3-7mg",
+        "Light": "3-7mg",
         "Strong": "15-25mg"
       },
       "Intramuscular": {
         "Common": "5-12mg",
-        "Low": "3-5mg",
+        "Light": "3-5mg",
         "Strong": "12-25mg"
       },
       "Intravenous": {
         "Common": "5-10mg",
-        "Low": "2.5-5mg",
+        "Light": "2.5-5mg",
         "Strong": "10-20mg"
       },
       "Oral": {
         "Common": "10-15mg",
-        "Low": "5-10mg",
+        "Light": "5-10mg",
         "Strong": "15-30mg."
       },
       "Rectal": {
         "Common": "7-15mg",
-        "Low": "3-7mg"
+        "Light": "3-7mg"
       }
     },
     "formatted_duration": {
@@ -26882,15 +26709,14 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
-      "IM": "10-20",
+      "Intramuscular": "10-20",
       "Insufflated": "1-5",
-      "IV": "0-1",
-      "oral": "10-40",
+      "Intravenous": "0-1",
+      "Oral": "10-40",
       "Rectal": "15-25"
     },
     "name": "midazolam",
@@ -26969,8 +26795,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -27026,7 +26851,7 @@
       "value": "20-36"
     },
     "formatted_onset": {
-      "IM": "45mins",
+      "Intramuscular": "45mins",
       "Oral": "15-30mins"
     },
     "links": {
@@ -27223,10 +27048,11 @@
     "formatted_duration": {
       "_unit": "hours",
       "Insufflated": "4-5",
-      "IV/IM": "2-4",
+      "Intravenous": "2-4",
+      "Intramuscular": "2-4",
       "Oral_ER": "4-10",
       "Oral_IR": "4-6",
-      "Plugged": "3-4"
+      "Rectal": "3-4"
     },
     "formatted_effects": [
       "Euphoria",
@@ -27236,16 +27062,16 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
       "Insufflated": "10-30",
-      "IV/IM": "0-1",
+      "Intravenous": "0-1",
+      "Intramuscular": "0-1",
       "Oral_ER": "40-80",
       "Oral_IR": "10-30",
-      "Plugged": "10-30"
+      "Rectal": "10-30"
     },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_Morphine.shtml"
@@ -27408,8 +27234,7 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -27763,21 +27588,18 @@
         "Common": "20-35mg",
         "Heavy": "60mg+",
         "Light": "10-20mg",
-        "M-Hole": "70mg+",
         "Strong": "35-60mg",
         "Threshold": "5-10mg"
       },
       "Oral": {
         "Common": "25-35",
         "Light": "15-25mg",
-        "M-Hole": "75mg+",
         "Strong": "40-65mg",
         "Threshold": "10-15mg"
       },
       "Sublingual": {
         "Common": "40-60mg",
-        "Low": "10-20mg",
-        "M-Hole": "75-100mg",
+        "Light": "10-20mg",
         "Strong": "60-75mg",
         "Threshold": "5-10mg"
       }
@@ -27947,9 +27769,8 @@
       "habit-forming"
     ],
     "formatted_dose": {
-      "(Tentative)": {
+      "Oral": {
         "Common": "20-35mg",
-        "Oral": "Light",
         "Strong": "35-50mg+"
       }
     },
@@ -27969,7 +27790,7 @@
         "research-chemical",
         "habit-forming"
       ],
-      "dose": "(Tentative) Oral: Light: 10-20mg Common: 20-35mg Strong: 35-50mg+",
+      "dose": "Oral: Light: 10-20mg Common: 20-35mg Strong: 35-50mg+",
       "duration": "6-12 hours (Very dependant on dose)",
       "onset": "Within 30 minutes.",
       "summary": "A drug derived from pyrovalerone which acts as a TRI, producing stimulating effects. Had been sold in a blend called \"NRG-1\" Little information exists about the safety profile of this drug."
@@ -27981,7 +27802,7 @@
     ],
     "dose_note": " Note: Maximum recommended daily dose is 1500mg.",
     "formatted_dose": {
-      "Common:": {
+      "Oral": {
         "Common": "250-500mg"
       }
     },
@@ -28077,7 +27898,7 @@
       "value": "1-8"
     },
     "formatted_dose": {
-      "Common:": {
+      "Oral": {
         "Common": "150-450mg."
       }
     },
@@ -28127,12 +27948,12 @@
     },
     "formatted_duration": {
       "_unit": "hours",
-      "Intravenously": "2-4",
+      "Intravenous": "2-4",
       "Oral": "4-6"
     },
     "formatted_onset": {
       "_unit": "minutes",
-      "Intravenously": "1-2",
+      "Intravenous": "1-2",
       "Oral": "15-30"
     },
     "name": "nicomorphine",
@@ -28230,8 +28051,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -28303,8 +28123,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -28392,7 +28211,7 @@
       },
       "Oral": {
         "Common": "100-150mg",
-        "Low": "100mg",
+        "Light": "100mg",
         "Strong": "150-175mg+"
       }
     },
@@ -28466,8 +28285,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -28839,7 +28657,12 @@
         "Light": "5mg",
         "Strong": "10-20mg+"
       },
-      "Sublingual/Insufflated": {
+      "Sublingual": {
+        "Common": "5-10mg",
+        "Light": "2-5mg",
+        "Strong": "10mg+"
+      },
+      "Insufflated": {
         "Common": "5-10mg",
         "Light": "2-5mg",
         "Strong": "10mg+"
@@ -28851,7 +28674,7 @@
     },
     "formatted_onset": {
       "_unit": "minutes",
-      "Intranasal": "0-5",
+      "Insufflated": "0-5",
       "Oral": "15-30",
       "Sublingual": "5-10"
     },
@@ -29026,8 +28849,7 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -29130,9 +28952,10 @@
       "value": "1-12"
     },
     "formatted_dose": {
-      "Oral_Tea": {
+      "Oral": {
         "Common": "333-500mg.",
-        "Fatal": "2000mg"
+        "Fatal": "2000mg",
+        "Note": "As a tea."
       },
       "Smoked": {
         "Common": "100mg"
@@ -29146,8 +28969,7 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_Opium.shtml"
@@ -29201,8 +29023,7 @@
       "anxiolytic",
       "anticonvulsant",
       "hypnotic",
-      "sedative",
-      ""
+      "sedative"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -29341,7 +29162,7 @@
     "formatted_duration": {
       "_unit": "hours",
       "Insufflated": "3-5",
-      "IV": "3-5",
+      "Intravenous": "3-5",
       "Oral_ER": "6-8",
       "Oral_IR": "4-6"
     },
@@ -29360,13 +29181,12 @@
       "Appetite suppression",
       "Euphoria",
       "Anxiety suppression",
-      "Dream potentiation",
-      ""
+      "Dream potentiation"
     ],
     "formatted_onset": {
       "_unit": "minutes",
       "Insufflated": "2-5",
-      "IV": "0-1",
+      "Intravenous": "0-1",
       "Oral_ER": "40",
       "Oral_IR": "20"
     },
@@ -29446,21 +29266,21 @@
       "Insufflated": {
         "Common": "4-6mg",
         "Heavy": "6-10mg+",
-        "Low": "2-4mg"
+        "Light": "2-4mg"
       },
       "Oral": {
         "Common": "10-20mg",
         "Heavy": "20mg+",
-        "Low": "5-7.5mg"
+        "Light": "5-7.5mg"
       }
     },
     "formatted_duration": {
       "_unit": "hours",
       "Insufflated": "5-8",
-      "IV": "2-4",
+      "Intravenous": "2-4",
       "Oral_ER": "6-14",
       "Oral_IR": "4-8",
-      "Plugged": "4-7"
+      "Rectal": "4-7"
     },
     "formatted_effects": [
       "Euphoria",
@@ -29470,16 +29290,15 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
       "Insufflated": "1-5",
-      "IV": "0-1",
+      "Intravenous": "0-1",
       "Oral_ER": "60-90",
       "Oral_IR": "20-40",
-      "Plugged": "15-30"
+      "Rectal": "15-30"
     },
     "name": "oxymorphone",
     "pretty_name": "Oxymorphone",
@@ -29546,12 +29365,12 @@
     },
     "formatted_duration": {
       "_unit": "hours",
-      "Intravenously": "2-3",
+      "Intravenous": "2-3",
       "Oral": "3-5"
     },
     "formatted_onset": {
       "_unit": "minutes",
-      "Intravenously": "1-2",
+      "Intravenous": "1-2",
       "Oral": "5-15"
     },
     "name": "palfium",
@@ -29588,7 +29407,7 @@
     "formatted_dose": {
       "Oral": {
         "Common": "600-900ug",
-        "Low": "300ug",
+        "Light": "300ug",
         "Strong": "900-1200ug."
       }
     },
@@ -29604,8 +29423,7 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -29970,7 +29788,7 @@
     "formatted_dose": {
       "Oral": {
         "Common": "20-40mg",
-        "Low": "10-20mg",
+        "Light": "10-20mg",
         "Strong": "40-80mg."
       }
     },
@@ -30010,12 +29828,12 @@
       "value": "1-12"
     },
     "formatted_dose": {
-      "IM": {
+      "Intramuscular": {
         "Common": "20mg-30mg",
         "Light": "10-20mg",
         "Strong": "30-60mg"
       },
-      "IV": {
+      "Intravenous": {
         "Common": "10-20mg",
         "Light": "5-10mg",
         "Strong": "30mg"
@@ -30023,13 +29841,13 @@
     },
     "formatted_duration": {
       "_unit": "hours",
-      "IM": "2-3",
-      "IV": "2-3"
+      "Intramuscular": "2-3",
+      "Intravenous": "2-3"
     },
     "formatted_onset": {
       "_unit": "minutes",
-      "IM": "15-20",
-      "IV": "2-3"
+      "Intramuscular": "15-20",
+      "Intravenous": "2-3"
     },
     "name": "pentazocine",
     "pretty_name": "Pentazocine",
@@ -30081,7 +29899,7 @@
       "Rectal": {
         "Common": "5-10mg",
         "Light": "2-5mg",
-        "strong": "10-20mg."
+        "Strong": "10-20mg."
       }
     },
     "formatted_duration": {
@@ -30128,12 +29946,12 @@
       "value": "1-36"
     },
     "formatted_dose": {
-      "IM": {
+      "Intramuscular": {
         "Common": "150-200mg",
         "Heavy": "200mg+",
         "Light": "100-150mg"
       },
-      "IV": {
+      "Intravenous": {
         "Common": "60-100mg",
         "Heavy": "100mg+",
         "Light": "50-60mg"
@@ -30146,14 +29964,14 @@
     },
     "formatted_duration": {
       "_unit": "hours",
-      "IM": "3-4",
-      "IV": "15-20",
+      "Intramuscular": "3-4",
+      "Intravenous": "15-20",
       "Oral": "3-4"
     },
     "formatted_onset": {
       "_unit": "minutes",
-      "IM": "10-25",
-      "IV": "1",
+      "Intramuscular": "10-25",
+      "Intravenous": "1",
       "Oral": "15-60"
     },
     "name": "pentobarbital",
@@ -30257,6 +30075,7 @@
       }
     },
     "formatted_duration": {
+      "_unit": "hours",
       "value": "4-8"
     },
     "formatted_effects": [
@@ -30378,8 +30197,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -30492,7 +30310,7 @@
       "value": "1-24"
     },
     "formatted_dose": {
-      "Light:": {
+      "Oral": {
         "Common": "600-1200mg",
         "Light": "300-600mg",
         "Strong": "1200-1800mg+"
@@ -30508,8 +30326,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -30667,7 +30484,7 @@
     "formatted_dose": {
       "Oral": {
         "Common": "20-40mg",
-        "Low": "15-20mg",
+        "Light": "15-20mg",
         "Strong": "40-70mg"
       }
     },
@@ -30799,7 +30616,7 @@
     "formatted_duration": {
       "_unit": "hours",
       "Oral": "3-4",
-      "Vaped": "2"
+      "Vapourized": "2"
     },
     "formatted_effects": [
       "Euphoria",
@@ -30817,13 +30634,12 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
       "Oral": "1",
-      "Vaped": "5"
+      "Vapourized": "5"
     },
     "name": "pipt",
     "pretty_name": "PiPT",
@@ -30835,9 +30651,9 @@
         "tentative"
       ],
       "dose": "Vapourized Threshold: 10mg Light: 15mg Common: 15-20mg Heavy: 20mg+",
-      "duration": "Oral: 3-4 hours | Vaped: 2 hours",
+      "duration": "Oral: 3-4 hours | Vapourized: 2 hours",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
-      "onset": "Vaped: 5 minutes. | Oral: 1 hour.",
+      "onset": "Vapourized: 5 minutes. | Oral: 1 hour.",
       "summary": "A rare psychedelic tryptamine related to DPT. Little is known about the effects or safety profile of this compound."
     }
   },
@@ -30860,7 +30676,7 @@
       "value": "1-6"
     },
     "formatted_dose": {
-      "Common:": {
+      "Oral": {
         "Common": "1200-4800mg"
       }
     },
@@ -30992,7 +30808,7 @@
       "value": "1-2"
     },
     "formatted_dose": {
-      "Common:": {
+      "Oral": {
         "Common": "400-1200mg"
       }
     },
@@ -31143,8 +30959,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -31167,7 +30982,6 @@
       "duration": "6-14 hours (dependant on dose)",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "90-150 minutes.",
-      "pregabalin": "(Lyrica) is a GABA derivative that is used to treat neuropathic pain and seizures, as well as anxiety. It is sometimes used recreationally, however an unusual tolerance profile renders it ineffective with regular use.",
       "summary": "Pregabalin (Lyrica) is a GABA derivative that is used to treat neuropathic pain and seizures, as well as anxiety."
     },
     "pweffects": {
@@ -31212,24 +31026,18 @@
       "value": "1-12"
     },
     "formatted_dose": {
-      "Threshold:": {
+      "Oral": {
         "Common": "5-10mg",
-        "Low": "3-5mg",
+        "Light": "3-5mg",
         "Strong": "10-20mg+",
         "Threshold": "2-3mg"
       }
     },
     "formatted_duration": {
       "_unit": "hours",
-      "Intranasally": "2-4",
+      "Insufflated": "2-4",
       "Oral": "4-6",
       "Sublingual": "3-5"
-    },
-    "formatted_onset": {
-      "_unit": "minutes",
-      "Intranasally": "Within",
-      "Oral": "Within",
-      "Sublingual": "Within"
     },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_PRL853.shtml"
@@ -31246,9 +31054,9 @@
         "nootropic",
         "tentative"
       ],
-      "dose": "Threshold: 2-3mg Low: 3-5mg Common: 5-10mg Strong: 10-20mg+ | NOTE: start low and work your way up.",
-      "duration": "Oral: 4-6 hours | Sublingual: 3-5 hours | Intranasally: 2-4 hours.",
-      "onset": "Oral: Within 30 minutes. | Sublingual: Within 15 minutes. | Intranasally: Within 5 minutes.",
+      "dose": "Oral: 2-3mg Low: 3-5mg Common: 5-10mg Strong: 10-20mg+ | NOTE: start low and work your way up.",
+      "duration": "Oral: 4-6 hours | Sublingual: 3-5 hours | Insufflated: 2-4 hours.",
+      "onset": "Oral: Within 30 minutes. | Sublingual: Within 15 minutes. | Insufflated: Within 5 minutes.",
       "summary": "A nootropic research chemical first synthesized in the 70s. One study shows a drastic improvement in mid-term memory among users, but otherwise it is severely lacking in information surrounding it. It has no recreational potential."
     }
   },
@@ -31349,7 +31157,7 @@
       "value": "0-3"
     },
     "formatted_dose": {
-      "Common:": {
+      "Oral": {
         "Common": "25-75mg"
       }
     },
@@ -31389,7 +31197,7 @@
       "Intravenous": "1-3"
     },
     "formatted_dose": {
-      "Intravenously": {
+      "Intravenous": {
         "Common": "30-60mg",
         "Light": "10-30mg",
         "Strong": "60-100mg"
@@ -31437,7 +31245,6 @@
       "Oral": {
         "Common": "65-100",
         "Light": "30-65mg",
-        "NOTE": "Just",
         "Strong": "100-200mg."
       }
     },
@@ -31674,8 +31481,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -31941,8 +31747,7 @@
       "Sedative",
       "Muscle Relaxant",
       "Amnesia",
-      "Dystaxia",
-      ""
+      "Dystaxia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -32002,7 +31807,7 @@
         "Light": "20-40mg",
         "Strong": "60-90mg"
       },
-      "Vaporized": {
+      "Vapourized": {
         "Common": "10-25mg",
         "Heavy": "50mg+.",
         "Light": "5-10mg",
@@ -32012,12 +31817,12 @@
     "formatted_duration": {
       "_unit": "hours",
       "Insufflated": "1-3",
-      "Vaporized": "1-1.5"
+      "Vapourized": "1-1.5"
     },
     "formatted_onset": {
       "_unit": "minutes",
       "Insufflated": "5-15",
-      "Vaporized": "1-30"
+      "Vapourized": "1-30"
     },
     "name": "pyrophenidone",
     "pretty_name": "Pyrophenidone",
@@ -32029,9 +31834,9 @@
         "habit-forming",
         "tentative"
       ],
-      "dose": "Vaporized Light: 5-10mg Common: 10-25mg Strong: 25-50mg Heavy: 50mg+. | Insufflated Light: 20-40mg Common: 40-60mg Strong: 60-90mg Heavy: 90mg+",
-      "duration": "Vaporized: 1-1.5 hours | Insufflated: 1-3 hours",
-      "onset": "Vaporized 1-30 seconds. | Insufflated 5-15 minutes.",
+      "dose": "Vapourized Light: 5-10mg Common: 10-25mg Strong: 25-50mg Heavy: 50mg+. | Insufflated Light: 20-40mg Common: 40-60mg Strong: 60-90mg Heavy: 90mg+",
+      "duration": "Vapourized: 1-1.5 hours | Insufflated: 1-3 hours",
+      "onset": "Vapourized 1-30 seconds. | Insufflated 5-15 minutes.",
       "summary": "An NDRI pyrovalerone derivative reported to have very similar subjective effects. Virtually no information exists about this drug's effects in humans."
     }
   },
@@ -32133,7 +31938,7 @@
       ],
       "chemistry": "IUPAC: 2-(2-(4-dibenzo[b,f][1,4]thiazepin-11-yl-1-piperazinyl)ethoxy)ethanol | Formula: C21H25N3O2S | Molecular Mass: 383.5099 g/mol | Solubility in Water: 3.29 mg/mL (20 °C)",
       "dose": "Oral Light: 25mg-50mg Common: 50mg-150mg Strong: 150mg-300mg Heavy: 300mg-800mg",
-      "drug-contradictions": "apomorphine, bromocriptine, cabergoline, carbamazepine, cimetidine, clarithromycin, dabrafenib, dopamine, erythromycin, idelalisib, itraconazole, ivacaftor, ketoconazole, levodopa, lisuride, mefloquine, methyldopa, nefazodone, ondansetron, panobinostat, pramipexole, rifabutin, rifampin, ropinirole, sodium oxybate, st. john's wort, vilanterol, and vemurafenib",
+      "contraindictions": "apomorphine, bromocriptine, cabergoline, carbamazepine, cimetidine, clarithromycin, dabrafenib, dopamine, erythromycin, idelalisib, itraconazole, ivacaftor, ketoconazole, levodopa, lisuride, mefloquine, methyldopa, nefazodone, ondansetron, panobinostat, pramipexole, rifabutin, rifampin, ropinirole, sodium oxybate, st. john's wort, vilanterol, and vemurafenib",
       "duration": "7-12 hours.",
       "effects": "sedation, dizziness, fatigue, constipation, dry mouth, headache, appetite change, increased blood pressure",
       "legal": "Australia: Prescription Only (S4) | United Kingdom: POM | United States: ?-only",
@@ -32188,8 +31993,7 @@
       "Sedative",
       "Muscle Relaxant",
       "Amnesia",
-      "Dystaxia",
-      ""
+      "Dystaxia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -32241,7 +32045,7 @@
     },
     "formatted_onset": {
       "_unit": "minutes",
-      "Nasal": "30",
+      "Insufflated": "30",
       "Oral": "30-60"
     },
     "name": "rolicyclidine",
@@ -32260,7 +32064,7 @@
       ],
       "dose": "Light: 2-4mg Common: 4-8mg Strong: 8mg+",
       "duration": "2-6 hours",
-      "onset": "Oral: 30-60 minutes | Nasal 30 minutes.",
+      "onset": "Oral: 30-60 minutes | Insufflated 30 minutes.",
       "summary": "Rolicyclidine, also known as PCPy, is a dissociative with effects similar to PCP. While this dissociative anesthetic has hallucinogenic and sedative effects, it is said to be much less stimulating than PCP. In this sense it is more similar to opioids, or other central nervous system depressants."
     }
   },
@@ -32784,8 +32588,7 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -32842,8 +32645,7 @@
       "Muscle Relaxant",
       "Amnesia",
       "Dystaxia",
-      "Hypnotic",
-      ""
+      "Hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -33039,7 +32841,7 @@
     },
     "formatted_duration": {
       "_unit": "hours",
-      "onset": "30-40"
+      "value": "30-40"
     },
     "formatted_effects": [
       "elevated heart rate",
@@ -33057,7 +32859,6 @@
     "properties": {
       "dose": "Light: 100-200mg Common: 200-300mg Strong: 300-600mg Heavy: 600mg+",
       "duration": "onset: 30-40 minutes duration: 7-12 hours after-effects: 5-12 hours",
-      "duration:": "7-12 hours.",
       "effects": "elevated heart rate, vasodilation, sweating, trembling, headaches",
       "onset": "2-3 hours.",
       "summary": "Theobromine is the principal bitter alkaloid of the cacao bean. It has been used in various pharmaceutical products as vasodilator, diuretic and as heart stimulant. Theobromine is consumed in cocoa, chocolate and in various forms of chocolate-based foods. It is also present in small amounts in green coffee beans, tea, mate and the kola nut."
@@ -33282,7 +33083,7 @@
       "value": "1-12"
     },
     "formatted_dose": {
-      "Tilidine": {
+      "Oral": {
         "Common": "50-100mg",
         "Light": "25-50mg",
         "Strong": "100-200mg."
@@ -33356,8 +33157,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -33420,8 +33220,7 @@
       "sweating/chills",
       "muscle tension",
       "confusion",
-      "insomnia",
-      ""
+      "insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -33658,7 +33457,7 @@
     ],
     "dose_note": " Note: Please do not take this drug unless prescribed.",
     "formatted_dose": {
-      "Light:": {
+      "Oral": {
         "Common": "50-100mg",
         "Light": "25-50mg",
         "Strong": "100-150"
@@ -33712,8 +33511,7 @@
     },
     "formatted_effects": [
       "Anxiolytic",
-      "but primarily sedative or hypnotic",
-      ""
+      "but primarily sedative or hypnotic"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -33754,7 +33552,7 @@
     "formatted_dose": {
       "Oral": {
         "Common": "20-30mg",
-        "Low": "15-20mg",
+        "Light": "15-20mg",
         "Strong": "30-60mg+"
       }
     },
@@ -33911,7 +33709,8 @@
     },
     "formatted_duration": {
       "_unit": "hours",
-      "Insufflated/Plugged": "3-4",
+      "Insufflated": "3-4",
+      "Rectal": "3-4",
       "Intravenous": "1-2",
       "Oral": "5-7"
     },
@@ -33923,12 +33722,12 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
-      "Insufflated/Plugged": "15",
+      "Insufflated": "15",
+      "Rectal": "15",
       "Intravenous": "0-1",
       "Oral": "15"
     },
@@ -34021,13 +33820,13 @@
       "_unit": "hours",
       "Insufflated": "1-2",
       "Oral": "2-4",
-      "Plugged": "1-2"
+      "Rectal": "1-2"
     },
     "formatted_onset": {
       "_unit": "minutes",
       "Insufflated": "5-10",
       "Oral": "15-30",
-      "Plugged": "5-10"
+      "Rectal": "5-10"
     },
     "name": "u-51754",
     "pretty_name": "U-51754",
@@ -34178,8 +33977,7 @@
       "Increased body temperature",
       "Tachycardia (Increased heart rate)",
       "Paranoia",
-      "Insomnia",
-      ""
+      "Insomnia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -34253,8 +34051,7 @@
       "Relaxant",
       "Constipation",
       "Pupil constriction",
-      "Analgesia",
-      ""
+      "Analgesia"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -34291,7 +34088,7 @@
       "value": "1-4"
     },
     "formatted_dose": {
-      "Common:": {
+      "Oral": {
         "Common": "1000-1500mg"
       }
     },
@@ -34516,8 +34313,7 @@
       "Lethargy",
       "tiredness",
       "a dreamlike state while awake",
-      "can induce heavy sleep",
-      ""
+      "can induce heavy sleep"
     ],
     "formatted_onset": {
       "_unit": "minutes",
