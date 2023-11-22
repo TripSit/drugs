@@ -4,13 +4,19 @@
       "fileMatch": [
         "combos.json"
       ],
-      "url": "./combos-schema.json"
+      "url": "./schemas/combos-schema.json"
     },
     {
       "fileMatch": [
         "drugs.json"
       ],
-      "url": "./drugs-schema.json"
+      "url": "./schemas/drugs-schema.json"
+    },
+    {
+      "fileMatch": [
+        "combo_definitions.json"
+      ],
+      "url": "./schemas/combo_definitions-schema.json"
     }
   ]
 }
