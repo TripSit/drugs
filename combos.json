@@ -2539,5 +2539,14 @@
     "tramadol": {
       "status": "Self"
     }
+ },
+  "Lithium": {
+    "Psychedelics": {
+      "status": "Dangerous"
+    },
+    "Psychedelics": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
+    },
   }
 }
