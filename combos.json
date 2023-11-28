@@ -2541,12 +2541,45 @@
     }
  },
   "Lithium": {
-    "Psychedelics": {
-      "status": "Dangerous"
-    },
-    "Psychedelics": {
+    "2C-T-x": {
       "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
       "status": "Dangerous"
+    },
+    "2C-x": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
+    },
+    "DMT": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
+    },
+  "Lithium": {
+    "DOx": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
+    },
+    "LSD": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
+    },
+  "Lithium": {
+    "Mescaline": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
+    },
+    "Mushrooms": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
+    },
+  "Lithium": {
+    "NBOMes": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
+    },
+    "2C-x": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
+ },
     },
   }
 }
