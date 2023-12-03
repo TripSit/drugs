@@ -1,0 +1,30 @@
+{
+  "name": "tripsit_drug_db",
+  "version": "1.0.0",
+  "description": "TripSit's Drug Database",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TripSit/drugs.git"
+  },
+  "keywords": [
+    "TripSit",
+    "Harm",
+    "Reduction",
+    "Drug",
+    "Substances",
+    "Dosage",
+    "Dose",
+    "Information"
+  ],
+  "author": "Moonbear",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TripSit/drugs/issues"
+  },
+  "homepage": "https://github.com/TripSit/drugs#readme",
+  "types": "types/drugs.d.ts"
+}
