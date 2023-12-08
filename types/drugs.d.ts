@@ -1,20 +1,20 @@
 export type Drug = {
-  name:                   string;
-  prettyName:             string;
-  aliases?:               string[];
-  categories?:            Category[];
-  formattedDose?:         FormattedDose;
-  formattedOnset?:        FormattedDuration;
-  formattedDuration?:     FormattedDuration;
-  formattedEffects?:      string[];
-  formattedAftereffects?: FormattedAftereffects;
-  properties:             Properties;
-  pweffects?:             { [key: string]: string };
-  doseNote?:              string;
-  combos?:                { [key: string]: Combo };
-  sources?:               Sources;
-  links?:                 Links;
-}
+  aliases?: string[];
+  categories?: Category[];
+  formatted_aftereffects?: Duration;
+  formatted_dose?: Dose;
+  formatted_duration?: Duration;
+  formatted_effects?: string[];
+  formatted_onset?: Duration;
+  links?: Links;
+  name: string;
+  pretty_name: string;
+  properties: Properties;
+  pweffects?: { [key: string]: string };
+  dose_note?: string;
+  sources?: Sources;
+  combos?: { [key: string]: Combo };
+};
 
 export enum Category {
   Barbiturate = "barbiturate",
@@ -37,126 +37,114 @@ export enum Category {
 }
 
 export type Dosage = {
-  common?:    string;
-  light?:     string;
-  strong?:    string;
+  common?: string;
+  light?: string;
+  strong?: string;
   threshold?: string;
-  heavy?:     string;
+  heavy?: string;
   dangerous?: string;
-  fatal?:     string;
-  note?:      string;
-}
+  fatal?: string;
+  note?: string;
+};
 
-export type FormattedDose = {
-  oral?:            Dosage;
-  insufflated?:     Dosage;
-  rectal?:          Dosage;
-  vapourized?:      Dosage;
-  intravenous?:     Dosage;
-  smoked?:          Dosage;
-  sublingual?:      Dosage;
-  buccal?:          Dosage;
-  intramuscular?:   Dosage;
-  transdermal?:     Dosage;
-  hbwr?:            Dosage;
-  morningGlory?:    Dosage;
-  dried?:           Dosage;
-  fresh?:           Dosage;
-  insufflatedPure?: Dosage;
-  oralBenzedrex?:   Dosage;
-  oralPure?:        Dosage;
-  dry?:             Dosage;
-  wet?:             Dosage;
-}
+export type Dose = {
+  oral?: Dosage;
+  insufflated?: Dosage;
+  rectal?: Dosage;
+  vapourized?: Dosage;
+  intravenous?: Dosage;
+  smoked?: Dosage;
+  sublingual?: Dosage;
+  buccal?: Dosage;
+  intramuscular?: Dosage;
+  transdermal?: Dosage;
+  hbwr?: Dosage;
+  Morning_Glory?: Dosage;
+  dried?: Dosage;
+  fresh?: Dosage;
+  "Insufflated(Pure)"?: Dosage;
+  "Oral(Benzedrex)"?: Dosage;
+  "Oral(Pure)"?: Dosage;
+  dry?: Dosage;
+  wet?: Dosage;
+};
 
-export type FormattedDuration = {
-  unit?:          Unit;
-  value?:         string;
-  insufflated?:   string;
-  oral?:          string;
-  rectal?:        string;
-  vapourized?:    string;
-  smoked?:        string;
-  oralIR?:        string;
-  oralEr?:        string;
+export type Duration = {
+  _unit: Unit;
+  value?: string;
+  insufflated?: string;
+  oral?: string;
+  rectal?: string;
+  vapourized?: string;
+  smoked?: string;
+  Oral_ER?: string;
+  Oral_IR?: string;
+  Oral_MAOI?: string;
   intramuscular?: string;
-  intravenous?:   string;
-  metabolites?:   string;
-  parent?:        string;
-  oralMAOI?:      string;
-  buccal?:        string;
-  transdermal?:   string;
-  sublingual?:    string;
-  oralER?:        string;
-  insufflatedIR?: string;
-  insufflatedXR?: string;
-}
-
-export type FormattedAftereffects = {
-  unit?:          Unit;
-  value?:         string;
-  insufflated?:   string;
-  oral?:          string;
-  smoked?:        string;
-  vapourized?:    string;
-  intramuscular?: string;
-  sublingual?:    string;
-  intravenous?:   string;
-}
+  intravenous?: string;
+  metabolites?: string;
+  parent?: string;
+  oralMAOI?: string;
+  buccal?: string;
+  transdermal?: string;
+  sublingual?: string;
+  Insufflated_IR?: string;
+  Insufflated_XR?: string;
+};
 
 export type Links = {
   experiences: string;
-  pihkal?:     string;
-  tihkal?:     string;
-}
+  pihkal?: string;
+  tihkal?: string;
+};
 
 export type Properties = {
-  afterEffects?:     string;
-  aliases?:          string[];
-  avoid?:            string;
-  categories?:       Category[];
-  dose?:             string;
-  duration?:         string;
-  halfLife?:         string;
-  onset?:            string;
-  summary?:          string;
-  testKits?:         string;
-  experiences?:      string;
-  warning?:          string;
-  marquis?:          string;
-  effects?:          string;
-  risks?:            string;
-  comeup?:           string;
-  note?:             string;
-  detection?:        string;
-  wiki?:             string;
-  mdma?:             string;
-  tolerance?:        string;
-  bioavailability?:  string;
-  doseToDiazepam?:   string;
-  adverseEffects?:   string;
-  chemistry?:        string;
-  contraindictions?: string;
-  legal?:            string;
-  overdoseSymptoms?: string;
+  "after-effects"?: string;
+  aliases?: string[];
+  avoid?: string;
+  categories?: Category[];
+  dose?: string;
+  duration?: string;
+  "half-life"?: string;
+  onset?: string;
+  summary?: string;
+  "test-kits"?: string;
+  experiences?: string;
+  warning?: string;
+  marquis?: string;
+  effects?: string;
+  risks?: string;
+  comeup?: string;
+  note?: string;
+  detection?: string;
+  wiki?: string;
+  mdma?: string;
+  tolerance?: string;
+  bioavailability?: string;
+  dose_to_diazepam?: string;
+  "adverse-effects"?: string;
+  chemistry?: string;
+  contraindications?: string;
+  legal?: string;
+  "overdose-symptoms"?: string;
   pharmacokinetics?: string;
-  pharmacology?:     string;
-  obtain?:           string;
+  pharmacology?: string;
+  obtain?: string;
   pharmacodynamics?: string;
-  sideEffects?:      string;
-  molecule?:         string;
-  vaporization?:     string;
-  calculator?:       string;
-  chart?:            string;
-  oral?:             string;
-  generalAdvice?:    string;
-  potentiators?:     string;
-}
+  "side-effects"?: string;
+  molecule?: string;
+  vaporization?: string;
+  calculator?: string;
+  chart?: string;
+  oral?: string;
+  "general-advice"?: string;
+  potentiators?: string;
+};
 
 export type Combo = {
-  note?:  string;
+  note?: string;
   status: Status;
-}
+};
 
 export enum Status {
   Caution = "Caution",
@@ -173,10 +161,10 @@ export enum Unit {
 }
 
 export type Sources = {
-  general?:         string[];
-  dose?:            string[];
-  duration?:        string[];
+  general?: string[];
+  dose?: string[];
+  duration?: string[];
   bioavailability?: string[];
-  legality?:        string[];
-  onset?:           string[];
-}
+  legality?: string[];
+  onset?: string[];
+};

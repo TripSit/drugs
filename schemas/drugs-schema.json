@@ -22,13 +22,13 @@
                   }
               },
               "formatted_aftereffects": {
-                  "$ref": "#/definitions/FormattedAftereffects"
+                  "$ref": "#/definitions/Duration"
               },
               "formatted_dose": {
-                  "$ref": "#/definitions/FormattedDose"
+                  "$ref": "#/definitions/Dose"
               },
               "formatted_duration": {
-                  "$ref": "#/definitions/FormattedDuration"
+                  "$ref": "#/definitions/Duration"
               },
               "formatted_effects": {
                   "type": "array",
@@ -37,7 +37,7 @@
                   }
               },
               "formatted_onset": {
-                  "$ref": "#/definitions/FormattedDuration"
+                  "$ref": "#/definitions/Duration"
               },
               "links": {
                   "$ref": "#/definitions/Links"
@@ -104,42 +104,7 @@
           ],
           "title": "Category"
       },
-      "FormattedAftereffects": {
-          "type": "object",
-          "additionalProperties": false,
-          "properties": {
-              "_unit": {
-                  "$ref": "#/definitions/Unit"
-              },
-              "value": {
-                  "type": "string"
-              },
-              "Insufflated": {
-                  "type": "string"
-              },
-              "Oral": {
-                  "type": "string"
-              },
-              "Smoked": {
-                  "type": "string"
-              },
-              "Vapourized": {
-                  "type": "string"
-              },
-              "Intramuscular": {
-                  "type": "string"
-              },
-              "Sublingual": {
-                  "type": "string"
-              },
-              "Intravenous": {
-                  "type": "string"
-              }
-          },
-          "required": [],
-          "title": "FormattedAftereffects"
-      },
-      "FormattedDose": {
+      "Dose": {
           "type": "object",
           "additionalProperties": false,
           "properties": {
@@ -236,7 +201,7 @@
           "required": [],
           "title": "Buccal"
       },
-      "FormattedDuration": {
+      "Duration": {
           "type": "object",
           "additionalProperties": false,
           "properties": {
@@ -441,7 +406,7 @@
               "chemistry": {
                   "type": "string"
               },
-              "contraindictions": {
+              "contraindications": {
                   "type": "string"
               },
               "legal": {

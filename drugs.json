@@ -3082,7 +3082,7 @@
       "research-chemical",
       "habit-forming"
     ],
-    "dose_note": " NOTE: 3-fmc is very harsh on the nasal membranes",
+    "dose_note": "Rapid onset. 3-fmc is very harsh on the nasal membranes",
     "formatted_dose": {
       "Oral": {
         "Common": "50-100mg",
@@ -3114,7 +3114,6 @@
     ],
     "name": "3-fmc",
     "pretty_name": "3-FMC",
-    "dose_note": "Rapid onset.",
     "properties": {
       "categories": [
         "stimulant",
@@ -3124,7 +3123,6 @@
       "dose": "Light: 25-50mg Common: 50-100mg Strong: 100-150mg | NOTE: 3-fmc is very harsh on the nasal membranes",
       "duration": "2-4 hours.",
       "effects": "Euphoria, increased energy/alertness, decreased need for sleep, increased sociability, mood lift, increased sexuality, excessive talking, decreased appetite, weight loss, sweating, disturbed sleep patterns, bruxism, visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
-      "onset": "Rapid.",
       "summary": "A stimulant drug related to mephedrone. A member of the cathinone class, it is also an amphetamine. Effects similar to other drugs of its class, may possess high addiction potential. May be a monoamine releaser, reuptake inhibitor or both."
     },
     "sources": {
@@ -8345,6 +8343,7 @@
       "Vapourized": "30-60"
     },
     "formatted_onset": {
+      "_unit": "minutes",
       "Vapourized": "5-30"
     },
     "name": "5f-akb48",
@@ -10473,7 +10472,7 @@
     "formatted_duration": {
       "_unit": "hours",
       "Insufflated": "2-5",
-      "ORAL_ER": "6-12",
+      "Oral_ER": "6-12",
       "Oral_IR": "4-6"
     },
     "formatted_effects": [
@@ -10490,7 +10489,7 @@
       "_unit": "minutes",
       "Insufflated_IR": "0-10",
       "Insufflated_XR": "10-45",
-      "ORAL_ER": "20-60",
+      "Oral_ER": "20-60",
       "Oral_IR": "10-30"
     },
     "name": "adderall",
@@ -12280,7 +12279,6 @@
       ],
       "dose": "Oral Common: 1500mg",
       "duration": "2-4 hours.",
-      "onset": "Rapid",
       "summary": "An anxiolytic nootropic which modulates the AMPA receptor. Significantly more potent than racetam. May have positive effects on memory and cognition. Little recreational value. Sold in Europe as a prescription drug, but not approved by the FDA in the US."
     }
   },
@@ -13389,7 +13387,6 @@
     "pretty_name": "Bromo-DragonFLY",
     "dose_note": "Efects can last up to many days.",
     "properties": {
-      "after-effects": "Up to many days.",
       "aliases": [
         "bromo-d-fly",
         "bdfly",
@@ -23223,9 +23220,6 @@
       "psychedelic",
       "common"
     ],
-    "formatted_aftereffects": {
-      "value": "Some"
-    },
     "formatted_dose": {
       "HBWR": {
         "Common": "2-6seeds",
@@ -24335,8 +24329,9 @@
     ],
     "dose_note": "NOTE: Dose data is tentative; There is a large variance in potency and composition of batches, and as such caution should be used when taking MDPHP. See ~mdphp summary ",
     "formatted_aftereffects": {
-      "Insufflated": "2-36h",
-      "Oral": "2-16h"
+      "_unit": "hours",
+      "Insufflated": "2-36",
+      "Oral": "2-16"
     },
     "formatted_dose": {
       "Insufflated": {
@@ -26276,7 +26271,7 @@
     "formatted_duration": {
       "_unit": "hours",
       "Insufflated": "2-4",
-      "ORAL_ER": "8-12",
+      "Oral_ER": "8-12",
       "Oral_IR": "3-6"
     },
     "formatted_effects": [
@@ -26293,7 +26288,7 @@
       "_unit": "minutes",
       "Insufflated_IR": "5-10",
       "Insufflated_XR": "5-10",
-      "ORAL_ER": "30-120",
+      "Oral_ER": "30-120",
       "Oral_IR": "30-120"
     },
     "name": "methylphenidate",
@@ -26818,8 +26813,9 @@
       "value": "20-36"
     },
     "formatted_onset": {
-      "Intramuscular": "45mins",
-      "Oral": "15-30mins"
+      "_unit": "minutes",
+      "Intramuscular": "45",
+      "Oral": "15-30"
     },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_Dizocilpine.shtml"
