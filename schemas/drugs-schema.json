@@ -478,6 +478,9 @@
           "type": "object",
           "additionalProperties": false,
           "properties": {
+              "sources": {
+                  "type": "array"
+              },
               "note": {
                   "type": "string"
               },
