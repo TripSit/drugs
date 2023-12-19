@@ -143,6 +143,7 @@ export type Properties = {
 
 export type Combo = {
   note?: string;
+  sources?: string[];
   status: Status;
 };
 
