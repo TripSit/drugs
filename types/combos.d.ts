@@ -14,6 +14,7 @@ export interface Combos {
   dxm:             Interactions;
   "ghb/gbl":       Interactions;
   ketamine:        Interactions;
+  lithium:         Interactions;
   lsd:             Interactions;
   maois:           Interactions;
   mdma:            Interactions;
@@ -29,33 +30,34 @@ export interface Combos {
 }
 
 export interface Interactions {
-  "2c-t-x":        ComboData;
-  "2c-x":          ComboData;
-  "5-meo-xxt":     ComboData;
-  alcohol:         ComboData;
-  amphetamines:    ComboData;
-  amt:             ComboData;
-  benzodiazepines: ComboData;
-  caffeine:        ComboData;
-  cannabis:        ComboData;
-  cocaine:         ComboData;
-  dmt:             ComboData;
-  dox:             ComboData;
-  dxm:             ComboData;
-  "ghb/gbl":       ComboData;
-  ketamine:        ComboData;
-  lsd:             ComboData;
-  maois:           ComboData;
-  mdma:            ComboData;
-  mescaline:       ComboData;
-  mushrooms:       ComboData;
-  mxe:             ComboData;
-  nbomes:          ComboData;
-  nitrous:         ComboData;
-  opioids:         ComboData;
-  pcp:             ComboData;
-  ssris:           ComboData;
-  tramadol:        ComboData;
+  "2c-t-x"?:        ComboData;
+  "2c-x"?:          ComboData;
+  "5-meo-xxt"?:     ComboData;
+  alcohol?:         ComboData;
+  amphetamines?:    ComboData;
+  amt?:             ComboData;
+  benzodiazepines?: ComboData;
+  caffeine?:        ComboData;
+  cannabis?:        ComboData;
+  cocaine?:         ComboData;
+  dmt?:             ComboData;
+  dox?:             ComboData;
+  dxm?:             ComboData;
+  "ghb/gbl"?:       ComboData;
+  lithium?:         ComboData;
+  ketamine?:        ComboData;
+  lsd?:             ComboData;
+  maois?:           ComboData;
+  mdma?:            ComboData;
+  mescaline?:       ComboData;
+  mushrooms?:       ComboData;
+  mxe?:             ComboData;
+  nbomes?:          ComboData;
+  nitrous?:         ComboData;
+  opioids?:         ComboData;
+  pcp?:             ComboData;
+  ssris?:           ComboData;
+  tramadol?:        ComboData;
 }
 
 export interface ComboData {

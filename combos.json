@@ -51,6 +51,10 @@
     "ketamine": {
       "status": "Low Risk & Synergy"
     },
+    "lithium": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
+    },
     "lsd": {
       "status": "Low Risk & Synergy"
     },
@@ -140,6 +144,10 @@
     },
     "ketamine": {
       "status": "Low Risk & Synergy"
+    },
+    "lithium": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
     },
     "lsd": {
       "status": "Low Risk & Synergy"
@@ -1011,6 +1019,10 @@
     "ketamine": {
       "status": "Low Risk & Synergy"
     },
+    "lithium": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
+    },
     "lsd": {
       "status": "Low Risk & Synergy"
     },
@@ -1102,6 +1114,10 @@
     "ketamine": {
       "note": "Ketamine and psychedelics tend to potentiate each other - go slowly.",
       "status": "Low Risk & Synergy"
+    },
+    "lithium": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
     },
     "lsd": {
       "status": "Low Risk & Synergy"
@@ -1428,6 +1444,40 @@
       "status": "Dangerous"
     }
   },
+  "lithium": {
+    "2c-t-x": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
+    },
+    "2c-x": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
+    },
+    "dmt": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
+    },
+    "dox": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
+    },
+    "lsd": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
+    },
+    "mescaline": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
+    },
+    "mushrooms": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
+    },
+    "nbomes": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
+    }
+  },
   "lsd": {
     "2c-t-x": {
       "status": "Low Risk & Synergy"
@@ -1476,6 +1526,10 @@
     },
     "ketamine": {
       "status": "Low Risk & Synergy"
+    },
+    "lithium": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
     },
     "lsd": {
       "status": "Self"
@@ -1759,6 +1813,10 @@
     "ketamine": {
       "status": "Low Risk & Synergy"
     },
+    "lithium": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
+    },
     "lsd": {
       "status": "Low Risk & Synergy"
     },
@@ -1845,6 +1903,10 @@
     },
     "ketamine": {
       "status": "Low Risk & Synergy"
+    },
+    "lithium": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
     },
     "lsd": {
       "status": "Low Risk & Synergy"
@@ -2031,6 +2093,10 @@
     },
     "ketamine": {
       "status": "Low Risk & Synergy"
+    },
+    "lithium": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "status": "Dangerous"
     },
     "lsd": {
       "status": "Low Risk & Synergy"
@@ -2539,47 +2605,5 @@
     "tramadol": {
       "status": "Self"
     }
- },
-  "Lithium": {
-    "2C-T-x": {
-      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
-      "status": "Dangerous"
-    },
-    "2C-x": {
-      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
-      "status": "Dangerous"
-    },
-    "DMT": {
-      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
-      "status": "Dangerous"
-    },
-  "Lithium": {
-    "DOx": {
-      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
-      "status": "Dangerous"
-    },
-    "LSD": {
-      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
-      "status": "Dangerous"
-    },
-  "Lithium": {
-    "Mescaline": {
-      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
-      "status": "Dangerous"
-    },
-    "Mushrooms": {
-      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
-      "status": "Dangerous"
-    },
-  "Lithium": {
-    "NBOMes": {
-      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
-      "status": "Dangerous"
-    },
-    "2C-x": {
-      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
-      "status": "Dangerous"
- },
-    },
   }
 }
