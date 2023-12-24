@@ -51,6 +51,9 @@
                 "ketamine": {
                     "$ref": "#/definitions/Interactions"
                 },
+                "lithium": {
+                    "$ref": "#/definitions/Interactions"
+                },
                 "lsd": {
                     "$ref": "#/definitions/Interactions"
                 },
@@ -104,6 +107,7 @@
                 "dxm",
                 "ghb/gbl",
                 "ketamine",
+                "lithium",
                 "lsd",
                 "maois",
                 "mdma",
@@ -168,6 +172,9 @@
                 "ketamine": {
                     "$ref": "#/definitions/ComboData"
                 },
+                "lithium": {
+                    "$ref": "#/definitions/ComboData"
+                },
                 "lsd": {
                     "$ref": "#/definitions/ComboData"
                 },
@@ -205,35 +212,6 @@
                     "$ref": "#/definitions/ComboData"
                 }
             },
-            "required": [
-                "2c-t-x",
-                "2c-x",
-                "5-meo-xxt",
-                "alcohol",
-                "amphetamines",
-                "amt",
-                "benzodiazepines",
-                "caffeine",
-                "cannabis",
-                "cocaine",
-                "dmt",
-                "dox",
-                "dxm",
-                "ghb/gbl",
-                "ketamine",
-                "lsd",
-                "maois",
-                "mdma",
-                "mescaline",
-                "mushrooms",
-                "mxe",
-                "nbomes",
-                "nitrous",
-                "opioids",
-                "pcp",
-                "ssris",
-                "tramadol"
-            ],
             "title": "Interactions"
         },
         "ComboData": {

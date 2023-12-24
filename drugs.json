@@ -8476,6 +8476,7 @@
       "empathogen",
       "habit-forming"
     ],
+    "dose_note": "Some users report feeling drained the next day lasting a few days. Varies person to person.",
     "formatted_dose": {
       "Oral": {
         "Common": "40-75mg",
@@ -8514,7 +8515,6 @@
     },
     "name": "6-apdb",
     "pretty_name": "6-APDB",
-    "dose_note": "Some users report feeling drained the next day lasting a few days. Varies person to person.",
     "properties": {
       "after-effects": "Some users report feeling drained the next day lasting a few days. Varies person to person.",
       "aliases": [
@@ -12251,6 +12251,7 @@
       "research-chemical",
       "nootropic"
     ],
+    "dose_note": "Rapid onset.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-4"
@@ -12269,7 +12270,6 @@
     },
     "name": "aniracetam",
     "pretty_name": "Aniracetam",
-    "dose_note": "Rapid onset.",
     "properties": {
       "after-effects": "1-4 hours.",
       "bioavailability": "Oral: 8.6-11.4% (This is due to the extensive first pass hepatic metabolism) Presumably higher when taken with fatty acids.",
@@ -13024,6 +13024,7 @@
       "research-chemical",
       "tentative"
     ],
+    "dose_note": "Rapid onset.",
     "formatted_dose": {
       "Oral": {
         "Common": "100-150mg",
@@ -13037,7 +13038,6 @@
     },
     "name": "bk-ivp",
     "pretty_name": "βk-IVP",
-    "dose_note": "Rapid onset.",
     "properties": {
       "categories": [
         "stimulant",
@@ -13347,6 +13347,7 @@
       "psychedelic",
       "research-chemical"
     ],
+    "dose_note": "Efects can last up to many days.",
     "formatted_dose": {
       "Oral": {
         "Common": "100-400ug",
@@ -13385,7 +13386,6 @@
     },
     "name": "bromo-dragonfly",
     "pretty_name": "Bromo-DragonFLY",
-    "dose_note": "Efects can last up to many days.",
     "properties": {
       "aliases": [
         "bromo-d-fly",
@@ -14521,6 +14521,7 @@
       "habit-forming",
       "tentative"
     ],
+    "dose_note": "Rapid onset and short duration.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-6"
@@ -14530,7 +14531,6 @@
     },
     "name": "chloroform",
     "pretty_name": "Chloroform",
-    "dose_note": "Rapid onset and short duration.",
     "properties": {
       "after-effects": "1-6 hours.",
       "avoid": "Avoid CNS depressants and smoking if you do decide to take this chemical.",
@@ -16983,6 +16983,7 @@
       "habit-forming",
       "tentative"
     ],
+    "dose_note": "Rapid onset and short duration.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "6"
@@ -16992,7 +16993,6 @@
     },
     "name": "diethyl-ether",
     "pretty_name": "Diethyl ether",
-    "dose_note": "Rapid onset and short duration.",
     "properties": {
       "after-effects": "1-6 hours | NOTE: The smell will linger for days afterwards.",
       "aliases": [
@@ -17389,6 +17389,7 @@
       "habit-forming",
       "nootropic"
     ],
+    "dose_note": "Rapid onset.",
     "formatted_dose": {
       "Oral": {
         "Common": "20-50mg",
@@ -17403,7 +17404,6 @@
     },
     "name": "dmaa",
     "pretty_name": "DMAA",
-    "dose_note": "Rapid onset.",
     "properties": {
       "avoid": "Other stimulants.",
       "categories": [
@@ -17475,6 +17475,17 @@
       },
       "ketamine": {
         "status": "Low Risk & Synergy"
+      },
+      "lithium": {
+        "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
+          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
+          "https://erowid.org/experiences/exp.php?ID=93681",
+          "https://erowid.org/experiences/exp.php?ID=110780",
+          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+        ],
+        "status": "Dangerous"
       },
       "lsd": {
         "status": "Low Risk & Synergy"
@@ -23027,6 +23038,101 @@
       ]
     }
   },
+  "lithium": {
+    "combos": {
+      "2c-t-x": {
+        "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
+          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
+          "https://erowid.org/experiences/exp.php?ID=93681",
+          "https://erowid.org/experiences/exp.php?ID=110780",
+          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+        ],
+        "status": "Dangerous"
+      },
+      "2c-x": {
+        "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
+          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
+          "https://erowid.org/experiences/exp.php?ID=93681",
+          "https://erowid.org/experiences/exp.php?ID=110780",
+          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+        ],
+        "status": "Dangerous"
+      },
+      "dmt": {
+        "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
+          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
+          "https://erowid.org/experiences/exp.php?ID=93681",
+          "https://erowid.org/experiences/exp.php?ID=110780",
+          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+        ],
+        "status": "Dangerous"
+      },
+      "dox": {
+        "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
+          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
+          "https://erowid.org/experiences/exp.php?ID=93681",
+          "https://erowid.org/experiences/exp.php?ID=110780",
+          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+        ],
+        "status": "Dangerous"
+      },
+      "lsd": {
+        "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
+          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
+          "https://erowid.org/experiences/exp.php?ID=93681",
+          "https://erowid.org/experiences/exp.php?ID=110780",
+          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+        ],
+        "status": "Dangerous"
+      },
+      "mescaline": {
+        "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
+          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
+          "https://erowid.org/experiences/exp.php?ID=93681",
+          "https://erowid.org/experiences/exp.php?ID=110780",
+          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+        ],
+        "status": "Dangerous"
+      },
+      "mushrooms": {
+        "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
+          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
+          "https://erowid.org/experiences/exp.php?ID=93681",
+          "https://erowid.org/experiences/exp.php?ID=110780",
+          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+        ],
+        "status": "Dangerous"
+      },
+      "nbomes": {
+        "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
+          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
+          "https://erowid.org/experiences/exp.php?ID=93681",
+          "https://erowid.org/experiences/exp.php?ID=110780",
+          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+        ],
+        "status": "Dangerous"
+      }
+    },
+    "name": "lithium",
+    "pretty_name": "Lithium",
+    "properties": {}
+  },
   "loprazolam": {
     "aliases": [
       "dormonoct"
@@ -23220,6 +23326,7 @@
       "psychedelic",
       "common"
     ],
+    "dose_note": "Some users report a hangover, characterized by a feeling of mental sluggishness and dulled emotions.",
     "formatted_dose": {
       "HBWR": {
         "Common": "2-6seeds",
@@ -23265,7 +23372,6 @@
     },
     "name": "lsa",
     "pretty_name": "LSA",
-    "dose_note": "Some users report a hangover, characterized by a feeling of mental sluggishness and dulled emotions.",
     "properties": {
       "after-effects": "Some users report a hangover, characterized by a feeling of mental sluggishness and dulled emotions.",
       "aliases": [
@@ -23387,6 +23493,17 @@
       },
       "ketamine": {
         "status": "Low Risk & Synergy"
+      },
+      "lithium": {
+        "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
+          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
+          "https://erowid.org/experiences/exp.php?ID=93681",
+          "https://erowid.org/experiences/exp.php?ID=110780",
+          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+        ],
+        "status": "Dangerous"
       },
       "maois": {
         "status": "Low Risk & Decrease"
@@ -25067,6 +25184,17 @@
       },
       "ketamine": {
         "status": "Low Risk & Synergy"
+      },
+      "lithium": {
+        "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
+          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
+          "https://erowid.org/experiences/exp.php?ID=93681",
+          "https://erowid.org/experiences/exp.php?ID=110780",
+          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+        ],
+        "status": "Dangerous"
       },
       "lsd": {
         "status": "Low Risk & Synergy"
@@ -27295,6 +27423,17 @@
       "ketamine": {
         "status": "Low Risk & Synergy"
       },
+      "lithium": {
+        "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
+          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
+          "https://erowid.org/experiences/exp.php?ID=93681",
+          "https://erowid.org/experiences/exp.php?ID=110780",
+          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+        ],
+        "status": "Dangerous"
+      },
       "lsd": {
         "status": "Low Risk & Synergy"
       },
@@ -27346,10 +27485,6 @@
       "_unit": "hours",
       "value": "4-6"
     },
-    "formatted_onset": {
-      "_unit": "hours",
-      "value": "1"
-    },
     "formatted_effects": [
       "visual distortion",
       "color enhancement",
@@ -27357,6 +27492,10 @@
       "sense of well being",
       "sense of wonder"
     ],
+    "formatted_onset": {
+      "_unit": "hours",
+      "value": "1"
+    },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_Psilocybin.shtml"
     },
