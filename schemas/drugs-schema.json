@@ -484,6 +484,9 @@
               "note": {
                   "type": "string"
               },
+              "sources": {
+                "type": "array"
+              },
               "status": {
                   "$ref": "#/definitions/Status"
               }
