@@ -245,6 +245,9 @@
                 },
                 "note": {
                     "type": "string"
+                },
+                "sources": {
+                    "type": "array"
                 }
             },
             "required": [
