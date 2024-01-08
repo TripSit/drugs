@@ -1862,6 +1862,17 @@
       "note": "Tramadol and stimulants both increase the risk of seizures.",
       "status": "Dangerous"
     }
+        },
+    "lithium": {
+      "note": "High risk of serotonin syndrome",
+      "sources": [
+        "https://neuro.psychiatryonline.org/doi/full/10.1176/appi.neuropsych.11080196#:~:text=Lithium%20and%20venlafaxine%20combination%20has,is%20enhances%20the%20serotonin%20toxicity",
+        "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(98)00161-9/pdf",
+        "https://www.nature.com/articles/1395366",
+        "https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/new-drugs-old-problems-revisiting-pharmacological-management-of-treatmentresistant-depression/D44091E25F9537B93CD6F4580F340645",
+      ],
+      "status": "Dangerous"
+    }
   },
   "mescaline": {
     "2c-t-x": {
