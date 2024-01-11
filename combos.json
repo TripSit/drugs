@@ -1266,7 +1266,12 @@
       "status": "Low Risk & Synergy"
     },
     "mxe": {
-      "status": "Low Risk & No Synergy"
+      "note": "There is a risk of serotonin syndrome when combining DXM with MXE, as DXM can induce serotonin syndrome in conjunction with other serotonin reuptake inhibitors, and MXE has shown a notable affinity for the serotonin transporter.",
+      "sources": [
+        "https://doi.org/10.1371/journal.pone.0059334",
+        "https://www.sciencedirect.com/science/article/abs/pii/S0014488621002442"
+      ],
+      "status": "Unsafe"
     },
     "nbomes": {
       "status": "Unsafe"
@@ -2126,7 +2131,12 @@
       "status": "Caution"
     },
     "dxm": {
-      "status": "Low Risk & No Synergy"
+      "note": "There is a risk of serotonin syndrome when combining DXM with MXE, as DXM can induce serotonin syndrome in conjunction with other serotonin reuptake inhibitors, and MXE has shown a notable affinity for the serotonin transporter.",
+      "sources": [
+        "https://doi.org/10.1371/journal.pone.0059334",
+        "https://www.sciencedirect.com/science/article/abs/pii/S0014488621002442"
+      ],
+      "status": "Unsafe"
     },
     "ghb/gbl": {
       "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the patient falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
