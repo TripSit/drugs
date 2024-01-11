@@ -734,8 +734,13 @@
       "status": "Caution"
     },
     "dxm": {
-      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
-      "status": "Low Risk & No Synergy"
+      "note": "High doses of caffeine can potentially exacerbate anxiety, especially during a psychedelic experience, due to their stimulating effects. This combination might also lead to physical discomfort. However, individual responses to caffeine can vary significantly, often influenced by factors like habitual versus occasional usage.",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/22526529/",
+        "https://pubmed.ncbi.nlm.nih.gov/21880846/",
+        "https://www.nature.com/articles/1600899"
+      ],
+      "status": "Caution"
     },
     "ghb/gbl": {
       "status": "Low Risk & No Synergy"
@@ -1222,8 +1227,13 @@
       "status": "Caution"
     },
     "caffeine": {
-      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
-      "status": "Low Risk & No Synergy"
+      "note": "High doses of caffeine can potentially exacerbate anxiety, especially during a psychedelic experience, due to their stimulating effects. This combination might also lead to physical discomfort. However, individual responses to caffeine can vary significantly, often influenced by factors like habitual versus occasional usage.",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/22526529/",
+        "https://pubmed.ncbi.nlm.nih.gov/21880846/",
+        "https://www.nature.com/articles/1600899"
+      ],
+      "status": "Caution"
     },
     "cannabis": {
       "status": "Low Risk & Synergy"
