@@ -18551,7 +18551,12 @@
         "status": "Dangerous"
       },
       "ketamine": {
-        "status": "Low Risk & No Synergy"
+        "note": "Both substances primarily exert their effects through NMDA antagonism. Currently, there is no evidence regarding mechanisms that might reduce these effects, suggesting a potential for synergistic interaction.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Dextromethorphan",
+          "https://en.wikipedia.org/wiki/Ketamine"
+        ],
+        "status": "Low Risk & Synergy"
       },
       "lsd": {
         "status": "Low Risk & Synergy"
@@ -22538,7 +22543,12 @@
         "status": "Low Risk & Synergy"
       },
       "dxm": {
-        "status": "Low Risk & No Synergy"
+        "note": "Both substances primarily exert their effects through NMDA antagonism. Currently, there is no evidence regarding mechanisms that might reduce these effects, suggesting a potential for synergistic interaction.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Dextromethorphan",
+          "https://en.wikipedia.org/wiki/Ketamine"
+        ],
+        "status": "Low Risk & Synergy"
       },
       "ghb/gbl": {
         "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
@@ -23142,6 +23152,13 @@
           "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
         ],
         "status": "Dangerous"
+      },
+      "nitrous": {
+        "note": "We are unable to find a report of concerns for CNS depression caused by Lithium.",
+        "sources": [
+          "https://go.drugbank.com/drugs/DB14509"
+        ],
+        "status": "Low Risk & No Synergy"
       }
     },
     "name": "lithium",
@@ -28570,6 +28587,13 @@
       },
       "ketamine": {
         "status": "Low Risk & Synergy"
+      },
+      "lithium": {
+        "note": "We are unable to find a report of concerns for CNS depression caused by Lithium.",
+        "sources": [
+          "https://go.drugbank.com/drugs/DB14509"
+        ],
+        "status": "Low Risk & No Synergy"
       },
       "lsd": {
         "status": "Low Risk & Synergy"
