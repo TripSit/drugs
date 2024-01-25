@@ -13860,9 +13860,21 @@
       "dxm": {
         "note": "High doses of caffeine can potentially exacerbate anxiety, especially during a psychedelic experience, due to their stimulating effects. This combination might also lead to physical discomfort. However, individual responses to caffeine can vary significantly, often influenced by factors like habitual versus occasional usage.",
         "sources": [
-          "https://pubmed.ncbi.nlm.nih.gov/22526529/",
-          "https://pubmed.ncbi.nlm.nih.gov/21880846/",
-          "https://www.nature.com/articles/1600899"
+          {
+            "author": "Chad J Reissig, Lawrence P Carter, Matthew W Johnson, Miriam Z Mintzer, Margaret A Klinedinst, Roland R Griffiths",
+            "title": "High doses of dextromethorphan, an NMDA antagonist, produce effects similar to classic hallucinogens ",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22526529/"
+          },
+          {
+            "author": "Arthur Eumann Mesas, Luz M Leon-Muñoz, Fernando Rodriguez-Artalejo, Esther Lopez-Garcia",
+            "title": "The effect of coffee on blood pressure and cardiovascular disease in hypertensive individuals: a systematic review and meta-analysis ",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21880846/"
+          },
+          {
+            "author": "M-L Nurminen, L Niittynen, R Korpela & H Vapaatalo",
+            "title": "Coffee, caffeine and blood pressure: a critical review",
+            "url": "https://www.nature.com/articles/1600899"
+          }
         ],
         "status": "Caution"
       },
@@ -18556,9 +18568,21 @@
       "caffeine": {
         "note": "High doses of caffeine can potentially exacerbate anxiety, especially during a psychedelic experience, due to their stimulating effects. This combination might also lead to physical discomfort. However, individual responses to caffeine can vary significantly, often influenced by factors like habitual versus occasional usage.",
         "sources": [
-          "https://pubmed.ncbi.nlm.nih.gov/22526529/",
-          "https://pubmed.ncbi.nlm.nih.gov/21880846/",
-          "https://www.nature.com/articles/1600899"
+          {
+            "author": "Chad J Reissig, Lawrence P Carter, Matthew W Johnson, Miriam Z Mintzer, Margaret A Klinedinst, Roland R Griffiths",
+            "title": "High doses of dextromethorphan, an NMDA antagonist, produce effects similar to classic hallucinogens ",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22526529/"
+          },
+          {
+            "author": "Arthur Eumann Mesas, Luz M Leon-Muñoz, Fernando Rodriguez-Artalejo, Esther Lopez-Garcia",
+            "title": "The effect of coffee on blood pressure and cardiovascular disease in hypertensive individuals: a systematic review and meta-analysis ",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21880846/"
+          },
+          {
+            "author": "M-L Nurminen, L Niittynen, R Korpela & H Vapaatalo",
+            "title": "Coffee, caffeine and blood pressure: a critical review",
+            "url": "https://www.nature.com/articles/1600899"
+          }
         ],
         "status": "Caution"
       },
