@@ -17479,11 +17479,31 @@
       "lithium": {
         "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
         "sources": [
-          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
-          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
-          "https://erowid.org/experiences/exp.php?ID=93681",
-          "https://erowid.org/experiences/exp.php?ID=110780",
-          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          {
+            "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+            "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          },
+          {
+            "author": "Erowid",
+            "title": "Erowid Interactions",
+            "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+          },
+          {
+            "author": "freshboi88",
+            "title": "I Was Only on One Dose",
+            "url": "https://erowid.org/experiences/exp.php?ID=93681"
+          },
+          {
+            "author": "YouWerentYouAnymore",
+            "title": "Brought My Worst Thoughts to Life",
+            "url": "https://erowid.org/experiences/exp.php?ID=110780"
+          },
+          {
+            "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+            "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          }
         ],
         "status": "Dangerous"
       },
@@ -18553,8 +18573,16 @@
       "ketamine": {
         "note": "Both substances primarily exert their effects through NMDA antagonism. Currently, there is no evidence regarding mechanisms that might reduce these effects, suggesting a potential for synergistic interaction.",
         "sources": [
-          "https://en.wikipedia.org/wiki/Dextromethorphan",
-          "https://en.wikipedia.org/wiki/Ketamine"
+          {
+            "author": "Wikipedia",
+            "title": "Dextromethorphan",
+            "url": "https://en.wikipedia.org/wiki/Dextromethorphan"
+          },
+          {
+            "author": "Wikipedia",
+            "title": "Ketamine",
+            "url": "https://en.wikipedia.org/wiki/Ketamine"
+          }
         ],
         "status": "Low Risk & Synergy"
       },
@@ -22545,8 +22573,16 @@
       "dxm": {
         "note": "Both substances primarily exert their effects through NMDA antagonism. Currently, there is no evidence regarding mechanisms that might reduce these effects, suggesting a potential for synergistic interaction.",
         "sources": [
-          "https://en.wikipedia.org/wiki/Dextromethorphan",
-          "https://en.wikipedia.org/wiki/Ketamine"
+          {
+            "author": "Wikipedia",
+            "title": "Dextromethorphan",
+            "url": "https://en.wikipedia.org/wiki/Dextromethorphan"
+          },
+          {
+            "author": "Wikipedia",
+            "title": "Ketamine",
+            "url": "https://en.wikipedia.org/wiki/Ketamine"
+          }
         ],
         "status": "Low Risk & Synergy"
       },
@@ -23058,105 +23094,285 @@
       "2c-t-x": {
         "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
         "sources": [
-          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
-          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
-          "https://erowid.org/experiences/exp.php?ID=93681",
-          "https://erowid.org/experiences/exp.php?ID=110780",
-          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          {
+            "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+            "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          },
+          {
+            "author": "Erowid",
+            "title": "Erowid Interactions",
+            "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+          },
+          {
+            "author": "freshboi88",
+            "title": "I Was Only on One Dose",
+            "url": "https://erowid.org/experiences/exp.php?ID=93681"
+          },
+          {
+            "author": "YouWerentYouAnymore",
+            "title": "Brought My Worst Thoughts to Life",
+            "url": "https://erowid.org/experiences/exp.php?ID=110780"
+          },
+          {
+            "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+            "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          }
         ],
         "status": "Dangerous"
       },
       "2c-x": {
         "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
         "sources": [
-          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
-          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
-          "https://erowid.org/experiences/exp.php?ID=93681",
-          "https://erowid.org/experiences/exp.php?ID=110780",
-          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          {
+            "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+            "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          },
+          {
+            "author": "Erowid",
+            "title": "Erowid Interactions",
+            "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+          },
+          {
+            "author": "freshboi88",
+            "title": "I Was Only on One Dose",
+            "url": "https://erowid.org/experiences/exp.php?ID=93681"
+          },
+          {
+            "author": "YouWerentYouAnymore",
+            "title": "Brought My Worst Thoughts to Life",
+            "url": "https://erowid.org/experiences/exp.php?ID=110780"
+          },
+          {
+            "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+            "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          }
         ],
         "status": "Dangerous"
       },
       "dmt": {
         "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
         "sources": [
-          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
-          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
-          "https://erowid.org/experiences/exp.php?ID=93681",
-          "https://erowid.org/experiences/exp.php?ID=110780",
-          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          {
+            "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+            "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          },
+          {
+            "author": "Erowid",
+            "title": "Erowid Interactions",
+            "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+          },
+          {
+            "author": "freshboi88",
+            "title": "I Was Only on One Dose",
+            "url": "https://erowid.org/experiences/exp.php?ID=93681"
+          },
+          {
+            "author": "YouWerentYouAnymore",
+            "title": "Brought My Worst Thoughts to Life",
+            "url": "https://erowid.org/experiences/exp.php?ID=110780"
+          },
+          {
+            "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+            "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          }
         ],
         "status": "Dangerous"
       },
       "dox": {
         "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
         "sources": [
-          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
-          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
-          "https://erowid.org/experiences/exp.php?ID=93681",
-          "https://erowid.org/experiences/exp.php?ID=110780",
-          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          {
+            "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+            "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          },
+          {
+            "author": "Erowid",
+            "title": "Erowid Interactions",
+            "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+          },
+          {
+            "author": "freshboi88",
+            "title": "I Was Only on One Dose",
+            "url": "https://erowid.org/experiences/exp.php?ID=93681"
+          },
+          {
+            "author": "YouWerentYouAnymore",
+            "title": "Brought My Worst Thoughts to Life",
+            "url": "https://erowid.org/experiences/exp.php?ID=110780"
+          },
+          {
+            "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+            "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          }
         ],
         "status": "Dangerous"
       },
       "lsd": {
         "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
         "sources": [
-          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
-          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
-          "https://erowid.org/experiences/exp.php?ID=93681",
-          "https://erowid.org/experiences/exp.php?ID=110780",
-          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          {
+            "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+            "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          },
+          {
+            "author": "Erowid",
+            "title": "Erowid Interactions",
+            "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+          },
+          {
+            "author": "freshboi88",
+            "title": "I Was Only on One Dose",
+            "url": "https://erowid.org/experiences/exp.php?ID=93681"
+          },
+          {
+            "author": "YouWerentYouAnymore",
+            "title": "Brought My Worst Thoughts to Life",
+            "url": "https://erowid.org/experiences/exp.php?ID=110780"
+          },
+          {
+            "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+            "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          }
         ],
         "status": "Dangerous"
       },
       "mdma": {
         "note": "High risk of serotonin syndrome",
         "sources": [
-          "https://doi.org/10.1176/appi.neuropsych.11080196",
-          "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(98)00161-9/pdf",
-          "https://www.nature.com/articles/1395366",
-          "https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/new-drugs-old-problems-revisiting-pharmacological-management-of-treatmentresistant-depression/D44091E25F9537B93CD6F4580F340645"
+          {
+            "author": "Lokesh Shahani",
+            "title": "Venlafaxine Augmentation With Lithium Leading to Serotonin Syndrome",
+            "url": "https://doi.org/10.1176/appi.neuropsych.11080196"
+          },
+          {
+            "author": "Charles DeBattista, Mehmet Sofuoglu, and Alan F. Schatzberg",
+            "title": "Serotonergic Synergism: The Risks and Benefits of Combining the Selective Serotonin Reuptake Inhibitors with Other Serotonergic Drugs",
+            "url": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(98)00161-9/pdf"
+          },
+          {
+            "author": "Olivier Massot Ph.D, Jean-Claude Rousselle Ph.D, Marie-Paule Fillion MSc, Dominique Januel MD, Mathieu Plantefol MSc & Gilles Fillion Ph.D ",
+            "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders",
+            "url": "https://www.nature.com/articles/1395366"
+          },
+          {
+            "author": "Philip J. Cowen",
+            "title": "New drugs, old problems: Revisiting… Pharmacological management of treatment-resistant depression",
+            "url": "https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/new-drugs-old-problems-revisiting-pharmacological-management-of-treatmentresistant-depression/D44091E25F9537B93CD6F4580F340645"
+          }
         ],
         "status": "Dangerous"
       },
       "mescaline": {
         "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
         "sources": [
-          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
-          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
-          "https://erowid.org/experiences/exp.php?ID=93681",
-          "https://erowid.org/experiences/exp.php?ID=110780",
-          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          {
+            "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+            "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          },
+          {
+            "author": "Erowid",
+            "title": "Erowid Interactions",
+            "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+          },
+          {
+            "author": "freshboi88",
+            "title": "I Was Only on One Dose",
+            "url": "https://erowid.org/experiences/exp.php?ID=93681"
+          },
+          {
+            "author": "YouWerentYouAnymore",
+            "title": "Brought My Worst Thoughts to Life",
+            "url": "https://erowid.org/experiences/exp.php?ID=110780"
+          },
+          {
+            "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+            "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          }
         ],
         "status": "Dangerous"
       },
       "mushrooms": {
         "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
         "sources": [
-          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
-          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
-          "https://erowid.org/experiences/exp.php?ID=93681",
-          "https://erowid.org/experiences/exp.php?ID=110780",
-          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          {
+            "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+            "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          },
+          {
+            "author": "Erowid",
+            "title": "Erowid Interactions",
+            "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+          },
+          {
+            "author": "freshboi88",
+            "title": "I Was Only on One Dose",
+            "url": "https://erowid.org/experiences/exp.php?ID=93681"
+          },
+          {
+            "author": "YouWerentYouAnymore",
+            "title": "Brought My Worst Thoughts to Life",
+            "url": "https://erowid.org/experiences/exp.php?ID=110780"
+          },
+          {
+            "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+            "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          }
         ],
         "status": "Dangerous"
       },
       "nbomes": {
         "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
         "sources": [
-          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
-          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
-          "https://erowid.org/experiences/exp.php?ID=93681",
-          "https://erowid.org/experiences/exp.php?ID=110780",
-          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          {
+            "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+            "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          },
+          {
+            "author": "Erowid",
+            "title": "Erowid Interactions",
+            "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+          },
+          {
+            "author": "freshboi88",
+            "title": "I Was Only on One Dose",
+            "url": "https://erowid.org/experiences/exp.php?ID=93681"
+          },
+          {
+            "author": "YouWerentYouAnymore",
+            "title": "Brought My Worst Thoughts to Life",
+            "url": "https://erowid.org/experiences/exp.php?ID=110780"
+          },
+          {
+            "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+            "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          }
         ],
         "status": "Dangerous"
       },
       "nitrous": {
         "note": "We are unable to find a report of concerns for CNS depression caused by Lithium.",
         "sources": [
-          "https://go.drugbank.com/drugs/DB14509"
+          {
+            "author": "Drugbank",
+            "title": "Lithium Carbonate",
+            "url": "https://go.drugbank.com/drugs/DB14509"
+          }
         ],
         "status": "Low Risk & No Synergy"
       }
@@ -23529,11 +23745,31 @@
       "lithium": {
         "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
         "sources": [
-          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
-          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
-          "https://erowid.org/experiences/exp.php?ID=93681",
-          "https://erowid.org/experiences/exp.php?ID=110780",
-          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          {
+            "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+            "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          },
+          {
+            "author": "Erowid",
+            "title": "Erowid Interactions",
+            "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+          },
+          {
+            "author": "freshboi88",
+            "title": "I Was Only on One Dose",
+            "url": "https://erowid.org/experiences/exp.php?ID=93681"
+          },
+          {
+            "author": "YouWerentYouAnymore",
+            "title": "Brought My Worst Thoughts to Life",
+            "url": "https://erowid.org/experiences/exp.php?ID=110780"
+          },
+          {
+            "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+            "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          }
         ],
         "status": "Dangerous"
       },
@@ -24183,9 +24419,21 @@
       "amphetamines": {
         "note": "This combination of stimulants will increase strain on the heart, may cause some physical discomfort, and has the chance to cause cardiovascular issues. The anxiogenic and focusing effects of stimulants can increase the chance of unpleasant thought loops and make the experience more uncomfortable, this combination raises these chances. Amphetamines will increase the neurotoxic effects of MDMA, in addition to causing further concerns of hyperthermia due to the inherent nature of the combination. It will also raise one's body temperature, also likely making the combination more neurotoxic.",
         "sources": [
-          "https://onlinelibrary.wiley.com/doi/abs/10.1080/09595230601036945",
-          "https://pubmed.ncbi.nlm.nih.gov/16884865/",
-          "https://onlinelibrary.wiley.com/doi/10.1111/j.0953-816X.2004.03453.x"
+          {
+            "author": "Kelly J. Clemens, Iain S. McGregor, Glenn E. Hunt, Jennifer L. Cornish",
+            "title": "MDMA, methamphetamine and their combination: possible lessons for party drug users from recent preclinical research",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1080/09595230601036945"
+          },
+          {
+            "author": "Kelly J. Clemens, Iain S. McGregor, Glenn E. Hunt, Jennifer L. Cornish",
+            "title": "Repeated weekly exposure to MDMA, methamphetamine or their combination: long-term behavioural and neurochemical effects in rats ",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16884865/"
+          },
+          {
+            "author": "P. Leon Brown, Eugene A. Kiyatkin",
+            "title": "Brain hyperthermia induced by MDMA (‘ecstasy’): modulation by environmental conditions",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.0953-816X.2004.03453.x"
+          }
         ],
         "status": "Caution"
       },
@@ -24231,10 +24479,26 @@
       "lithium": {
         "note": "High risk of serotonin syndrome",
         "sources": [
-          "https://doi.org/10.1176/appi.neuropsych.11080196",
-          "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(98)00161-9/pdf",
-          "https://www.nature.com/articles/1395366",
-          "https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/new-drugs-old-problems-revisiting-pharmacological-management-of-treatmentresistant-depression/D44091E25F9537B93CD6F4580F340645"
+          {
+            "author": "Lokesh Shahani",
+            "title": "Venlafaxine Augmentation With Lithium Leading to Serotonin Syndrome",
+            "url": "https://doi.org/10.1176/appi.neuropsych.11080196"
+          },
+          {
+            "author": "Charles DeBattista, Mehmet Sofuoglu, and Alan F. Schatzberg",
+            "title": "Serotonergic Synergism: The Risks and Benefits of Combining the Selective Serotonin Reuptake Inhibitors with Other Serotonergic Drugs",
+            "url": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(98)00161-9/pdf"
+          },
+          {
+            "author": "Olivier Massot Ph.D, Jean-Claude Rousselle Ph.D, Marie-Paule Fillion MSc, Dominique Januel MD, Mathieu Plantefol MSc & Gilles Fillion Ph.D ",
+            "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders",
+            "url": "https://www.nature.com/articles/1395366"
+          },
+          {
+            "author": "Philip J. Cowen",
+            "title": "New drugs, old problems: Revisiting… Pharmacological management of treatment-resistant depression",
+            "url": "https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/new-drugs-old-problems-revisiting-pharmacological-management-of-treatmentresistant-depression/D44091E25F9537B93CD6F4580F340645"
+          }
         ],
         "status": "Dangerous"
       },
@@ -25230,11 +25494,31 @@
       "lithium": {
         "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
         "sources": [
-          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
-          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
-          "https://erowid.org/experiences/exp.php?ID=93681",
-          "https://erowid.org/experiences/exp.php?ID=110780",
-          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          {
+            "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+            "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          },
+          {
+            "author": "Erowid",
+            "title": "Erowid Interactions",
+            "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+          },
+          {
+            "author": "freshboi88",
+            "title": "I Was Only on One Dose",
+            "url": "https://erowid.org/experiences/exp.php?ID=93681"
+          },
+          {
+            "author": "YouWerentYouAnymore",
+            "title": "Brought My Worst Thoughts to Life",
+            "url": "https://erowid.org/experiences/exp.php?ID=110780"
+          },
+          {
+            "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+            "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          }
         ],
         "status": "Dangerous"
       },
@@ -27468,11 +27752,31 @@
       "lithium": {
         "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
         "sources": [
-          "https://pubmed.ncbi.nlm.nih.gov/34348413/",
-          "https://erowid.org/chemicals/lsd/lsd_interactions.shtml",
-          "https://erowid.org/experiences/exp.php?ID=93681",
-          "https://erowid.org/experiences/exp.php?ID=110780",
-          "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          {
+            "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+            "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          },
+          {
+            "author": "Erowid",
+            "title": "Erowid Interactions",
+            "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+          },
+          {
+            "author": "freshboi88",
+            "title": "I Was Only on One Dose",
+            "url": "https://erowid.org/experiences/exp.php?ID=93681"
+          },
+          {
+            "author": "YouWerentYouAnymore",
+            "title": "Brought My Worst Thoughts to Life",
+            "url": "https://erowid.org/experiences/exp.php?ID=110780"
+          },
+          {
+            "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+            "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          }
         ],
         "status": "Dangerous"
       },
@@ -28591,7 +28895,11 @@
       "lithium": {
         "note": "We are unable to find a report of concerns for CNS depression caused by Lithium.",
         "sources": [
-          "https://go.drugbank.com/drugs/DB14509"
+          {
+            "author": "Drugbank",
+            "title": "Lithium Carbonate",
+            "url": "https://go.drugbank.com/drugs/DB14509"
+          }
         ],
         "status": "Low Risk & No Synergy"
       },

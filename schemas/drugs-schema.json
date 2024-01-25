@@ -479,13 +479,13 @@
           "additionalProperties": false,
           "properties": {
               "sources": {
-                  "type": "array"
+                "type": "array",
+                "items": {
+                    "$ref": "#/definitions/SourceData"
+                }
               },
               "note": {
                   "type": "string"
-              },
-              "sources": {
-                "type": "array"
               },
               "status": {
                   "$ref": "#/definitions/Status"
@@ -495,6 +495,22 @@
               "status"
           ],
           "title": "Combo"
+      },
+      "SourceData": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+              "author": {
+                  "type": "string"
+              },
+              "title": {
+                  "type": "string"
+              },
+              "url": {
+                  "type": "string"
+              }
+          },
+          "title": "SourceData"
       },
       "Status": {
           "type": "string",
