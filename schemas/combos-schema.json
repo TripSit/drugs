@@ -225,7 +225,10 @@
                     "type": "string"
                 },
                 "sources": {
-                    "type": "array"
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/SourceData"
+                    }
                 }
             },
             "required": [
@@ -245,6 +248,22 @@
                 "Low Risk & No Synergy"
             ],
             "title": "Status"
+        },
+        "SourceData": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "author": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "string"
+                },
+                "url": {
+                    "type": "string"
+                }
+            },
+            "title": "SourceData"
         }
     }
 }
