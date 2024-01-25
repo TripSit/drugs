@@ -1247,10 +1247,14 @@
       "status": "Dangerous"
     },
     "ketamine": {
-      "note": "Both substances primarily exert their effects through NMDA antagonism. Currently, there is no evidence regarding mechanisms that might reduce these effects, suggesting a potential for synergistic interaction.",
+      "note": "Both substances primarily exert their effects through NMDA antagonism. Currently, there is no evidence regarding mechanisms that might reduce these effects.",
       "sources": [
-        "https://en.wikipedia.org/wiki/Dextromethorphan",
-        "https://en.wikipedia.org/wiki/Ketamine"
+        "https://www.sciencedirect.com/science/article/abs/pii/B9780128243152001275",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6493357/",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1399-6576.1997.tb04709.x",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1874339/",
+        "https://www.cambridge.org/core/journals/cns-spectrums/article/abs/mechanism-of-action-of-dextromethorphanquinidine-comparison-with-ketamine/DED9B685040DE8DA45C25E5FBD998192"
+        "https://journals.sagepub.com/doi/10.1177/000348940211100107"
       ],
       "status": "Low Risk & Synergy"
     },
