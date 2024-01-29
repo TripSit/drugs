@@ -62,7 +62,11 @@ export interface Interactions {
 
 export interface ComboData {
   note?: string;
-  sources?: string[];
+  sources?: {
+    author: string;
+    title: string;
+    url: string;
+  }[];
   status: Status;
 }
 
