@@ -36,7 +36,9 @@ This will send an alert to the team, who will review the changes and merge them 
 
 If you're not sure about something, or you want to discuss a change, you can talk to us on Discord: https://discord.gg/tripsit 
 
-Specifically, join the [#content](https://discord.com/channels/179641883222474752/946833118269145109) channel!
+Join the [#content](https://discord.com/channels/179641883222474752/946833118269145109) channel!
+* Remember to select the Content Crew role in role selections!
+You can also join the [#combo-chart](https://discord.com/channels/179641883222474752/1168216953924624464) channel!
 
 # TripSit Combo Chart Expansion
 
