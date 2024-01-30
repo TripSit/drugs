@@ -38,6 +38,7 @@ If you're not sure about something, or you want to discuss a change, you can tal
 
 Join the [#content](https://discord.com/channels/179641883222474752/946833118269145109) channel!
 * Remember to select the Content Crew role in role selections!
+
 You can also join the [#combo-chart](https://discord.com/channels/179641883222474752/1168216953924624464) channel!
 
 # TripSit Combo Chart Expansion
