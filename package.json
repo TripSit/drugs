@@ -4,7 +4,7 @@
   "description": "TripSit's Drug Database",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compare": "ts-node ./scripts/compareData.ts"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,10 @@
     "url": "https://github.com/TripSit/drugs/issues"
   },
   "homepage": "https://github.com/TripSit/drugs#readme",
-  "types": "types/drugs.d.ts"
+  "types": "types/drugs.d.ts",
+  "devDependencies": {
+    "@types/node": "^20.11.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
 }

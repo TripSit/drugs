@@ -1,8 +1,5 @@
 {
   "2c-t-x": {
-    "2c-t-x": {
-      "status": "Self"
-    },
     "2c-x": {
       "status": "Caution"
     },
@@ -124,9 +121,6 @@
   "2c-x": {
     "2c-t-x": {
       "status": "Caution"
-    },
-    "2c-x": {
-      "status": "Self"
     },
     "5-meo-xxt": {
       "note": "The 5-MeO psychedelics can interact unpredictably to potentiate other psychedelics",
@@ -251,9 +245,6 @@
       "note": "The 5-MeO psychedelics can interact unpredictably to potentiate other psychedelics",
       "status": "Caution"
     },
-    "5-meo-xxt": {
-      "status": "Self"
-    },
     "alcohol": {
       "status": "Low Risk & Decrease"
     },
@@ -347,9 +338,6 @@
     },
     "5-meo-xxt": {
       "status": "Low Risk & Decrease"
-    },
-    "alcohol": {
-      "status": "Self"
     },
     "amphetamines": {
       "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also allow you to drink past a point where you might normally pass out, increasing the risk. If you do decide to do this then you should set a limit of how much you will drink each hour and stick to it, bearing in mind that you will feel the alcohol and the stimulant less. Extended release formulations may severely impede sleep, further worsening the hangover.",
@@ -454,9 +442,6 @@
     "alcohol": {
       "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also allow you to drink past a point where you might normally pass out, increasing the risk. If you do decide to do this then you should set a limit of how much you will drink each hour and stick to it, bearing in mind that you will feel the alcohol and the stimulant less. Extended release formulations may severely impede sleep, further worsening the hangover.",
       "status": "Caution"
-    },
-    "amphetamines": {
-      "status": "Self"
     },
     "amt": {
       "status": "Dangerous"
@@ -578,9 +563,6 @@
     "amphetamines": {
       "status": "Dangerous"
     },
-    "amt": {
-      "status": "Self"
-    },
     "benzodiazepines": {
       "status": "Low Risk & Decrease"
     },
@@ -669,9 +651,6 @@
     },
     "amt": {
       "status": "Low Risk & Decrease"
-    },
-    "benzodiazepines": {
-      "status": "Self"
     },
     "caffeine": {
       "status": "Low Risk & Decrease"
@@ -767,9 +746,6 @@
     },
     "benzodiazepines": {
       "status": "Low Risk & Decrease"
-    },
-    "caffeine": {
-      "status": "Self"
     },
     "cannabis": {
       "status": "Low Risk & No Synergy"
@@ -886,9 +862,6 @@
     "caffeine": {
       "status": "Low Risk & No Synergy"
     },
-    "cannabis": {
-      "status": "Self"
-    },
     "cocaine": {
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
@@ -986,9 +959,6 @@
     "cannabis": {
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
-    },
-    "cocaine": {
-      "status": "Self"
     },
     "dmt": {
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
@@ -1091,9 +1061,6 @@
     "cocaine": {
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
-    },
-    "dmt": {
-      "status": "Self"
     },
     "dox": {
       "status": "Low Risk & Synergy"
@@ -1215,9 +1182,6 @@
     },
     "dmt": {
       "status": "Low Risk & Synergy"
-    },
-    "dox": {
-      "status": "Self"
     },
     "dxm": {
       "note": "The DOx class as psychedelic stimulants have the potential to mask the effects of DXM and could lead to redosing to an unsafe level. DXM can also potentiate DOx resulting in an unpleasantly intense experience.",
@@ -1365,9 +1329,6 @@
       "note": "The DOx class as psychedelic stimulants have the potential to mask the effects of DXM and could lead to redosing to an unsafe level. DXM can also potentiate DOx resulting in an unpleasantly intense experience.",
       "status": "Unsafe"
     },
-    "dxm": {
-      "status": "Self"
-    },
     "ghb/gbl": {
       "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the patient falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
       "status": "Dangerous"
@@ -1472,9 +1433,6 @@
     "dxm": {
       "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the patient falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
       "status": "Dangerous"
-    },
-    "ghb/gbl": {
-      "status": "Self"
     },
     "ketamine": {
       "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
@@ -1585,9 +1543,6 @@
     "ghb/gbl": {
       "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
       "status": "Dangerous"
-    },
-    "ketamine": {
-      "status": "Self"
     },
     "lsd": {
       "status": "Low Risk & Synergy"
@@ -1996,9 +1951,6 @@
       ],
       "status": "Dangerous"
     },
-    "lsd": {
-      "status": "Self"
-    },
     "maois": {
       "status": "Low Risk & Decrease"
     },
@@ -2091,9 +2043,6 @@
     },
     "lsd": {
       "status": "Low Risk & Decrease"
-    },
-    "maois": {
-      "status": "Self"
     },
     "mdma": {
       "note": "MAO-B inhibitors can increase the potency and duration of  phenethylamines unpredictably. MAO-A inhibitors with MDMA will lead to hypertensive crises.",
@@ -2236,9 +2185,6 @@
       "note": "MAO-B inhibitors can increase the potency and duration of  phenethylamines unpredictably. MAO-A inhibitors with MDMA will lead to hypertensive crises.",
       "status": "Dangerous"
     },
-    "mdma": {
-      "status": "Self"
-    },
     "mescaline": {
       "status": "Low Risk & Synergy"
     },
@@ -2361,9 +2307,6 @@
     "mdma": {
       "status": "Low Risk & Synergy"
     },
-    "mescaline": {
-      "status": "Self"
-    },
     "mushrooms": {
       "status": "Low Risk & Synergy"
     },
@@ -2482,9 +2425,6 @@
     "mescaline": {
       "status": "Low Risk & Synergy"
     },
-    "mushrooms": {
-      "status": "Self"
-    },
     "mxe": {
       "status": "Low Risk & Synergy"
     },
@@ -2578,9 +2518,6 @@
     },
     "mushrooms": {
       "status": "Low Risk & Synergy"
-    },
-    "mxe": {
-      "status": "Self"
     },
     "nbomes": {
       "note": "As an NMDA antagonist MXE potentiates NBOMes which can be unpleasantly intense",
@@ -2707,9 +2644,6 @@
       "note": "As an NMDA antagonist MXE potentiates NBOMes which can be unpleasantly intense",
       "status": "Caution"
     },
-    "nbomes": {
-      "status": "Self"
-    },
     "nitrous": {
       "status": "Low Risk & Synergy"
     },
@@ -2806,9 +2740,6 @@
     },
     "nbomes": {
       "status": "Low Risk & Synergy"
-    },
-    "nitrous": {
-      "status": "Self"
     },
     "opioids": {
       "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.",
@@ -2908,9 +2839,6 @@
       "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.",
       "status": "Caution"
     },
-    "opioids": {
-      "status": "Self"
-    },
     "pcp": {
       "note": "PCP can reduce opioid tolerance, increasing the risk of overdose",
       "status": "Caution"
@@ -3008,9 +2936,6 @@
       "note": "PCP can reduce opioid tolerance, increasing the risk of overdose",
       "status": "Caution"
     },
-    "pcp": {
-      "status": "Self"
-    },
     "ssris": {
       "note": "Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.",
       "status": "Unsafe"
@@ -3100,9 +3025,6 @@
     "pcp": {
       "note": "Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.",
       "status": "Unsafe"
-    },
-    "ssris": {
-      "status": "Self"
     },
     "tramadol": {
       "status": "Dangerous"
@@ -3201,9 +3123,6 @@
     },
     "ssris": {
       "status": "Dangerous"
-    },
-    "tramadol": {
-      "status": "Self"
     }
   }
 }
