@@ -54,7 +54,7 @@
         {
           "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
           "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          "url": "https://doi.org/10.1055/a-1524-2794"
         },
         {
           "author": "Erowid",
@@ -74,7 +74,7 @@
         {
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
-          "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
         }
       ],
       "status": "Dangerous"
@@ -172,7 +172,7 @@
         {
           "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
           "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          "url": "https://doi.org/10.1055/a-1524-2794"
         },
         {
           "author": "Erowid",
@@ -192,7 +192,7 @@
         {
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
-          "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
         }
       ],
       "status": "Dangerous"
@@ -370,7 +370,7 @@
       "status": "Low Risk & Decrease"
     },
     "dxm": {
-      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place affected patients in the recovery position to prevent vomit aspiration from excess. Additionally CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
+      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place affected patients in the recovery position to prevent vomit aspiration from excess. Additionally, CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
       "status": "Dangerous"
     },
     "ghb/gbl": {
@@ -496,17 +496,17 @@
         {
           "author": "Kelly J. Clemens, Iain S. McGregor, Glenn E. Hunt, Jennifer L. Cornish",
           "title": "MDMA, methamphetamine and their combination: possible lessons for party drug users from recent preclinical research",
-          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1080/09595230601036945"
+          "url": "https://doi.org/10.1080/09595230601036945"
         },
         {
           "author": "Kelly J. Clemens, Iain S. McGregor, Glenn E. Hunt, Jennifer L. Cornish",
           "title": "Repeated weekly exposure to MDMA, methamphetamine or their combination: long-term behavioural and neurochemical effects in rats ",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/16884865/"
+          "url": "https://doi.org/10.1016/j.drugalcdep.2006.06.004"
         },
         {
           "author": "P. Leon Brown, Eugene A. Kiyatkin",
           "title": "Brain hyperthermia induced by MDMA (‘ecstasy’): modulation by environmental conditions",
-          "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.0953-816X.2004.03453.x"
+          "url": "https://doi.org/10.1111/j.0953-816X.2004.03453.x"
         }
       ],
       "status": "Caution"
@@ -1063,7 +1063,7 @@
         {
           "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
           "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          "url": "https://doi.org/10.1055/a-1524-2794"
         },
         {
           "author": "Erowid",
@@ -1083,7 +1083,7 @@
         {
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
-          "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
         }
       ],
       "status": "Dangerous"
@@ -1183,7 +1183,7 @@
         {
           "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
           "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          "url": "https://doi.org/10.1055/a-1524-2794"
         },
         {
           "author": "Erowid",
@@ -1203,7 +1203,7 @@
         {
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
-          "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
         }
       ],
       "status": "Dangerous"
@@ -1263,7 +1263,7 @@
       "status": "Unsafe"
     },
     "alcohol": {
-      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place affected patients in the recovery position to prevent vomit aspiration from excess. Additionally CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
+      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place affected patients in the recovery position to prevent vomit aspiration from excess. Additionally, CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
       "status": "Dangerous"
     },
     "amphetamines": {
@@ -1557,7 +1557,7 @@
         {
           "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
           "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          "url": "https://doi.org/10.1055/a-1524-2794"
         },
         {
           "author": "Erowid",
@@ -1577,7 +1577,7 @@
         {
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
-          "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
         }
       ],
       "status": "Dangerous"
@@ -1588,7 +1588,7 @@
         {
           "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
           "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          "url": "https://doi.org/10.1055/a-1524-2794"
         },
         {
           "author": "Erowid",
@@ -1608,7 +1608,7 @@
         {
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
-          "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
         }
       ],
       "status": "Dangerous"
@@ -1619,7 +1619,7 @@
         {
           "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
           "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          "url": "https://doi.org/10.1055/a-1524-2794"
         },
         {
           "author": "Erowid",
@@ -1639,7 +1639,7 @@
         {
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
-          "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
         }
       ],
       "status": "Dangerous"
@@ -1650,7 +1650,7 @@
         {
           "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
           "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          "url": "https://doi.org/10.1055/a-1524-2794"
         },
         {
           "author": "Erowid",
@@ -1670,7 +1670,7 @@
         {
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
-          "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
         }
       ],
       "status": "Dangerous"
@@ -1681,7 +1681,7 @@
         {
           "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
           "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          "url": "https://doi.org/10.1055/a-1524-2794"
         },
         {
           "author": "Erowid",
@@ -1701,7 +1701,7 @@
         {
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
-          "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
         }
       ],
       "status": "Dangerous"
@@ -1722,12 +1722,12 @@
         {
           "author": "Olivier Massot Ph.D, Jean-Claude Rousselle Ph.D, Marie-Paule Fillion MSc, Dominique Januel MD, Mathieu Plantefol MSc & Gilles Fillion Ph.D ",
           "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders",
-          "url": "https://www.nature.com/articles/1395366"
+          "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
         },
         {
           "author": "Philip J. Cowen",
           "title": "New drugs, old problems: Revisiting… Pharmacological management of treatment-resistant depression",
-          "url": "https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/new-drugs-old-problems-revisiting-pharmacological-management-of-treatmentresistant-depression/D44091E25F9537B93CD6F4580F340645"
+          "url": "https://doi.org/10.1192/apt.11.1.19"
         }
       ],
       "status": "Dangerous"
@@ -1738,7 +1738,7 @@
         {
           "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
           "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          "url": "https://doi.org/10.1055/a-1524-2794"
         },
         {
           "author": "Erowid",
@@ -1758,7 +1758,7 @@
         {
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
-          "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
         }
       ],
       "status": "Dangerous"
@@ -1769,7 +1769,7 @@
         {
           "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
           "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          "url": "https://doi.org/10.1055/a-1524-2794"
         },
         {
           "author": "Erowid",
@@ -1789,7 +1789,7 @@
         {
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
-          "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
         }
       ],
       "status": "Dangerous"
@@ -1800,7 +1800,7 @@
         {
           "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
           "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          "url": "https://doi.org/10.1055/a-1524-2794"
         },
         {
           "author": "Erowid",
@@ -1820,7 +1820,7 @@
         {
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
-          "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
         }
       ],
       "status": "Dangerous"
@@ -1892,7 +1892,7 @@
         {
           "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
           "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          "url": "https://doi.org/10.1055/a-1524-2794"
         },
         {
           "author": "Erowid",
@@ -1912,7 +1912,7 @@
         {
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
-          "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
         }
       ],
       "status": "Dangerous"
@@ -2067,17 +2067,17 @@
         {
           "author": "Kelly J. Clemens, Iain S. McGregor, Glenn E. Hunt, Jennifer L. Cornish",
           "title": "MDMA, methamphetamine and their combination: possible lessons for party drug users from recent preclinical research",
-          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1080/09595230601036945"
+          "url": "https://doi.org/10.1080/09595230601036945"
         },
         {
           "author": "Kelly J. Clemens, Iain S. McGregor, Glenn E. Hunt, Jennifer L. Cornish",
           "title": "Repeated weekly exposure to MDMA, methamphetamine or their combination: long-term behavioural and neurochemical effects in rats ",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/16884865/"
+          "url": "https://doi.org/10.1016/j.drugalcdep.2006.06.004"
         },
         {
           "author": "P. Leon Brown, Eugene A. Kiyatkin",
           "title": "Brain hyperthermia induced by MDMA (‘ecstasy’): modulation by environmental conditions",
-          "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.0953-816X.2004.03453.x"
+          "url": "https://doi.org/10.1111/j.0953-816X.2004.03453.x"
         }
       ],
       "status": "Caution"
@@ -2089,7 +2089,7 @@
       "status": "Low Risk & Decrease"
     },
     "caffeine": {
-      "note": "Caffiene is not really necessary with MDMA and increases any neurotoxic effects from MDMA",
+      "note": "Caffeine increases side effects and increases any neurotoxic effects from MDMA",
       "status": "Caution"
     },
     "cannabis": {
@@ -2134,12 +2134,12 @@
         {
           "author": "Olivier Massot Ph.D, Jean-Claude Rousselle Ph.D, Marie-Paule Fillion MSc, Dominique Januel MD, Mathieu Plantefol MSc & Gilles Fillion Ph.D ",
           "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders",
-          "url": "https://www.nature.com/articles/1395366"
+          "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
         },
         {
           "author": "Philip J. Cowen",
           "title": "New drugs, old problems: Revisiting… Pharmacological management of treatment-resistant depression",
-          "url": "https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/new-drugs-old-problems-revisiting-pharmacological-management-of-treatmentresistant-depression/D44091E25F9537B93CD6F4580F340645"
+          "url": "https://doi.org/10.1192/apt.11.1.19"
         }
       ],
       "status": "Dangerous"
@@ -2239,7 +2239,7 @@
         {
           "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
           "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          "url": "https://doi.org/10.1055/a-1524-2794"
         },
         {
           "author": "Erowid",
@@ -2259,7 +2259,7 @@
         {
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
-          "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
         }
       ],
       "status": "Dangerous"
@@ -2354,7 +2354,7 @@
         {
           "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
           "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          "url": "https://doi.org/10.1055/a-1524-2794"
         },
         {
           "author": "Erowid",
@@ -2374,7 +2374,7 @@
         {
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
-          "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
         }
       ],
       "status": "Dangerous"
@@ -2565,7 +2565,7 @@
         {
           "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
           "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/34348413/"
+          "url": "https://doi.org/10.1055/a-1524-2794"
         },
         {
           "author": "Erowid",
@@ -2585,7 +2585,7 @@
         {
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
-          "url": "https://www.sciencedirect.com/science/article/pii/S0165032723000915"
+          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
         }
       ],
       "status": "Dangerous"
