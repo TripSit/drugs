@@ -366,7 +366,7 @@
       "status": "Low Risk & Decrease"
     },
     "dox": {
-      "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are  reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also  allow you to drink past a point where you might normally pass out, increasing the risk.",
+      "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also  allow you to drink past a point where you might normally pass out, increasing the risk.",
       "status": "Low Risk & Decrease"
     },
     "dxm": {
@@ -1138,7 +1138,7 @@
       "status": "Caution"
     },
     "alcohol": {
-      "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are  reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also  allow you to drink past a point where you might normally pass out, increasing the risk.",
+      "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also  allow you to drink past a point where you might normally pass out, increasing the risk.",
       "status": "Low Risk & Decrease"
     },
     "amphetamines": {
@@ -1518,7 +1518,7 @@
       "status": "Caution"
     },
     "mdma": {
-      "note": "No unexpected interactions, though likely to increase blood pressure  but not an issue with sensible doses. Moving around on high doses of  this combination may be ill advised due to risk of physical injury.",
+      "note": "No unexpected interactions, though likely to increase blood pressure but not an issue with sensible doses. Moving around on high doses of  this combination may be ill advised due to risk of physical injury.",
       "status": "Low Risk & Synergy"
     },
     "mescaline": {
@@ -2011,7 +2011,7 @@
       "status": "Low Risk & Decrease"
     },
     "mdma": {
-      "note": "MAO-B inhibitors can increase the potency and duration of  phenethylamines unpredictably. MAO-A inhibitors with MDMA will lead to hypertensive crises.",
+      "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably. MAO-A inhibitors with MDMA will lead to hypertensive crises.",
       "status": "Dangerous"
     },
     "mescaline": {
@@ -2115,7 +2115,7 @@
       "status": "Caution"
     },
     "ketamine": {
-      "note": "No unexpected interactions, though likely to increase blood pressure  but not an issue with sensible doses. Moving around on high doses of  this combination may be ill advised due to risk of physical injury.",
+      "note": "No unexpected interactions, though likely to increase blood pressure but not an issue with sensible doses. Moving around on high doses of  this combination may be ill advised due to risk of physical injury.",
       "status": "Low Risk & Synergy"
     },
     "lithium": {
@@ -2148,7 +2148,7 @@
       "status": "Low Risk & Synergy"
     },
     "maois": {
-      "note": "MAO-B inhibitors can increase the potency and duration of  phenethylamines unpredictably. MAO-A inhibitors with MDMA will lead to hypertensive crises.",
+      "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably. MAO-A inhibitors with MDMA will lead to hypertensive crises.",
       "status": "Dangerous"
     },
     "mescaline": {
