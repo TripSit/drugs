@@ -12,7 +12,7 @@
       "status": "Low Risk & Decrease"
     },
     "amphetamines": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences. In extreme cases, they can result in severe vasoconstriction, tachycardia, hypertension, and heart failure.",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences. In extreme cases, they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.",
       "status": "Unsafe"
     },
     "amt": {
@@ -428,7 +428,7 @@
   },
   "amphetamines": {
     "2c-t-x": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences. In extreme cases, they can result in severe vasoconstriction, tachycardia, hypertension, and heart failure.",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences. In extreme cases, they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.",
       "status": "Unsafe"
     },
     "2c-x": {
