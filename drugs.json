@@ -18622,8 +18622,37 @@
       "mushrooms": {
         "status": "Low Risk & Synergy"
       },
-      "mxe": {
-        "status": "Low Risk & No Synergy"
+    "mxe": {
+      "status": "Low Risk & No Synergy"
+      "note": "There is a risk of serotonin syndrome when combining DXM with MXE, due to DXM and MXE both being SRI’s. MXE and DXM having notable affinities for the serotonin transporter.",
+      "sources": [
+        {
+          "author": Bryan L. Roth, Simon Gibbons, Warunya Arunotayanun, Xi-Ping Huang, Vincent Setola, Ric Treble, Les Iversen",
+          "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor",
+          "url": "https://doi.org/10.1371/journal.pone.0059334"
+        },
+        {
+          "author": "Matteo Marti, Giuseppe Talani, Cristina Miliano, Sabrine Bilel, Francesca Biggio, Jessica Bratzu, Marco Diana, Maria Antonietta De Luca, Liana Fattore",
+          "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat ",
+          "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+        },
+        {
+          "author": "Laura Hondebrink, Emma E.J. Kasteel, Anke M. Tukker, Fiona M.J. Wijnolts, Anouk H.A. Verboven, Remco H.S. Westerink",
+          "title": "Neuropharmacological characterization of the new psychoactive substance methoxetamine",
+          "url": "https://doi.org/10.1016/j.neuropharm.2017.04.035
+        },
+        {
+          "author": "Linda L. Werling, Ashleigh Keller, Julie G. Frank, Samer J. Nuwayhid",
+          "title": "A comparison of the binding profiles of dextromethorphan, memantine, fluoxetine and amitriptyline: Treatment of involuntary emotional expression disorder",
+          "url": "https://doi.org/10.1016/j.expneurol.2007.06.013"
+        },
+        {
+          "author": "Linda Nguyen, Kelan L. Thomas, Brandon P. Lucke-Wold, John Z. Cavendish, Molly S. Crowe, Rae R. Matsumoto",
+          "title": "Dextromethorphan: An update on its utility for neurological and neuropsychiatric disorders",
+          "url": "https://doi.org/10.1016/j.pharmthera.2016.01.016"
+        }
+      ],
+        "status": "Unsafe"
       },
       "nbomes": {
         "status": "Unsafe"
@@ -28017,8 +28046,38 @@
         "note": "As an NMDA antagonist MXE potentiates DOx which can be unpleasantly intense",
         "status": "Caution"
       },
-      "dxm": {
-        "status": "Low Risk & No Synergy"
+   
+    "dxm": {
+      "status": "Low Risk & No Synergy"
+      "note": "There is a risk of serotonin syndrome when combining DXM with MXE, due to DXM and MXE both being SRI’s. MXE and DXM having notable affinities for the serotonin transporter.",
+      "sources": [
+        {
+          "author": Bryan L. Roth, Simon Gibbons, Warunya Arunotayanun, Xi-Ping Huang, Vincent Setola, Ric Treble, Les Iversen",
+          "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor",
+          "url": "https://doi.org/10.1371/journal.pone.0059334"
+        },
+        {
+          "author": "Matteo Marti, Giuseppe Talani, Cristina Miliano, Sabrine Bilel, Francesca Biggio, Jessica Bratzu, Marco Diana, Maria Antonietta De Luca, Liana Fattore",
+          "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat ",
+          "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+        },
+        {
+          "author": "Laura Hondebrink, Emma E.J. Kasteel, Anke M. Tukker, Fiona M.J. Wijnolts, Anouk H.A. Verboven, Remco H.S. Westerink",
+          "title": "Neuropharmacological characterization of the new psychoactive substance methoxetamine",
+          "url": "https://doi.org/10.1016/j.neuropharm.2017.04.035
+        },
+        {
+          "author": "Linda L. Werling, Ashleigh Keller, Julie G. Frank, Samer J. Nuwayhid",
+          "title": "A comparison of the binding profiles of dextromethorphan, memantine, fluoxetine and amitriptyline: Treatment of involuntary emotional expression disorder",
+          "url": "https://doi.org/10.1016/j.expneurol.2007.06.013"
+        },
+        {
+          "author": "Linda Nguyen, Kelan L. Thomas, Brandon P. Lucke-Wold, John Z. Cavendish, Molly S. Crowe, Rae R. Matsumoto",
+          "title": "Dextromethorphan: An update on its utility for neurological and neuropsychiatric disorders",
+          "url": "https://doi.org/10.1016/j.pharmthera.2016.01.016"
+        }
+      ],
+        "status": "Unsafe"
       },
       "ghb/gbl": {
         "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the patient falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
