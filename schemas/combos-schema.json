@@ -63,6 +63,9 @@
                 "mdma": {
                     "$ref": "#/definitions/Interactions"
                 },
+                "mephedrone": {
+                    "$ref": "#/definitions/Interactions"
+                },
                 "mescaline": {
                     "$ref": "#/definitions/Interactions"
                 },
@@ -111,6 +114,7 @@
                 "lsd",
                 "maois",
                 "mdma",
+                "mephedrone",
                 "mescaline",
                 "mushrooms",
                 "mxe",
@@ -182,6 +186,9 @@
                     "$ref": "#/definitions/ComboData"
                 },
                 "mdma": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "mephedrone": {
                     "$ref": "#/definitions/ComboData"
                 },
                 "mescaline": {
