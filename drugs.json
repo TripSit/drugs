@@ -3303,7 +3303,7 @@
       "Oral": {
         "Common": "4-5mg",
         "Light": "2-4mg",
-        "Strong": "5+mg"
+        "Strong": "5mg+"
       }
     },
     "formatted_duration": {
@@ -4581,7 +4581,7 @@
       "Vapourized": {
         "Common": "5-10mg",
         "Light": "2-5mg",
-        "Strong": "10-15"
+        "Strong": "10-15mg"
       }
     },
     "formatted_duration": {
@@ -5345,12 +5345,12 @@
       "Insufflated": {
         "Common": "50-100mg",
         "Light": "25-40mg",
-        "Strong": "100-150+mg"
+        "Strong": "100-150mg+"
       },
       "Oral": {
         "Common": "100-150mg",
         "Light": "50-100mg",
-        "Strong": "150-200+mg"
+        "Strong": "150-200mg+"
       }
     },
     "formatted_duration": {
@@ -6173,7 +6173,7 @@
       "Oral": {
         "Common": "10-20mg",
         "Light": "10mg",
-        "Strong": "20+mg"
+        "Strong": "20mg+"
       }
     },
     "formatted_duration": {
@@ -6925,12 +6925,12 @@
       "Insufflated": {
         "Common": "40-60mg",
         "Light": "30-40mg",
-        "Strong": "60-100+mg"
+        "Strong": "60-100mg+"
       },
       "Oral": {
         "Common": "60-100mg",
         "Light": "50-60mg",
-        "Strong": "100-150+mg"
+        "Strong": "100-150mg+"
       }
     },
     "formatted_duration": {
@@ -7387,13 +7387,13 @@
       "Oral": {
         "Common": "12-20mg",
         "Light": "5-12mg",
-        "Strong": "20+mg",
+        "Strong": "20mg+",
         "Threshold": "4-5mg"
       },
       "Vapourized": {
         "Common": "5-15mg",
         "Light": "2-5mg",
-        "Strong": "15+mg"
+        "Strong": "15mg+"
       }
     },
     "formatted_duration": {
@@ -10166,10 +10166,10 @@
     },
     "formatted_dose": {
       "Oral": {
-        "Common": "100-250µg",
-        "Heavy": "400µg+",
-        "Light": "50-100µg",
-        "Strong": "250-400µg"
+        "Common": "100-250ug",
+        "Heavy": "400ug+",
+        "Light": "50-100ug",
+        "Strong": "250-400ug"
       }
     },
     "formatted_duration": {
@@ -10215,13 +10215,13 @@
     "formatted_dose": {
       "Oral": {
         "Common": "0.5-1.5mg",
-        "Heavy": "3+mg",
+        "Heavy": "3mg+",
         "Light": "0.25-0.5mg",
         "Strong": "1.5-3mg"
       },
       "Vapourized": {
         "Common": "0.5-1.5mg",
-        "Heavy": "3+mg",
+        "Heavy": "3mg+",
         "Light": "0.25-0.5mg",
         "Strong": "1.5-3mg"
       }
@@ -10398,7 +10398,7 @@
       "Oral": {
         "Common": "12.5-25ug",
         "Light": "5-12.5ug",
-        "Strong": "25.47.5ug+"
+        "Strong": "25-47.5ug+"
       }
     },
     "formatted_duration": {
@@ -12420,9 +12420,9 @@
     },
     "formatted_dose": {
       "Oral": {
-        "Common": "500-1000",
-        "Light": "300-500",
-        "Strong": "1000-2000"
+        "Common": "500-1000mg",
+        "Light": "300-500mg",
+        "Strong": "1000-2000mg"
       }
     },
     "formatted_duration": {
@@ -12665,10 +12665,10 @@
     },
     "formatted_dose": {
       "Oral": {
-        "Common": "20-50",
+        "Common": "20-50mg",
         "Heavy": "75-125mg",
         "Light": "10-20mg",
-        "Strong": "50-75"
+        "Strong": "50-75mg"
       }
     },
     "formatted_duration": {
@@ -21896,7 +21896,7 @@
         "Strong": "4-6mg+"
       },
       "Oral": {
-        "Common": "3-4",
+        "Common": "3-4mg",
         "Light": "1-2mg",
         "Strong": "4-8mg+"
       }
@@ -24053,7 +24053,7 @@
     "formatted_dose": {
       "Oral": {
         "Common": "0.75-1mg",
-        "Heavy": "1.5+mg.",
+        "Heavy": "1.5mg+",
         "Light": "0.5-0.75mg",
         "Strong": "1-1.5mg"
       }
@@ -24862,12 +24862,12 @@
       "Insufflated": {
         "Common": "10-20mg",
         "Light": "5-10mg",
-        "Strong": "20+mg"
+        "Strong": "20mg+"
       },
       "Oral": {
         "Common": "20-35mg",
         "Light": "10-20mg",
-        "Strong": "35+mg"
+        "Strong": "35mg+"
       }
     },
     "formatted_duration": {
@@ -26727,7 +26727,7 @@
     "formatted_dose": {
       "Oral": {
         "Common": "150-250mg",
-        "Heavy": "300+mg",
+        "Heavy": "300mg+",
         "Light": "100-150mg",
         "Strong": "200-300mg"
       }
@@ -27131,7 +27131,7 @@
         "Strong": "120-200mg+"
       },
       "Oral": {
-        "Common": "150-200",
+        "Common": "150-200mg",
         "Light": "75-150mg",
         "Strong": "200-300mg+"
       }
@@ -28156,7 +28156,7 @@
         "Threshold": "5-10mg"
       },
       "Oral": {
-        "Common": "25-35",
+        "Common": "25-35mg",
         "Light": "15-25mg",
         "Strong": "40-65mg",
         "Threshold": "10-15mg"
@@ -29530,8 +29530,7 @@
     "formatted_dose": {
       "Oral": {
         "Common": "333-500mg.",
-        "Fatal": "2000mg",
-        "Note": "As a tea."
+        "Fatal": "2000mg"
       },
       "Smoked": {
         "Common": "100mg"
@@ -33541,7 +33540,6 @@
       "Oral": {
         "Common": "12.5mg",
         "Light": "7.5mg",
-        "Note": "Tianeptine",
         "Strong": "17mg"
       }
     },
@@ -34037,7 +34035,7 @@
       "Oral": {
         "Common": "50-100mg",
         "Light": "25-50mg",
-        "Strong": "100-150"
+        "Strong": "100-150mg"
       }
     },
     "formatted_duration": {
@@ -34279,7 +34277,7 @@
     "formatted_dose": {
       "Oral": {
         "Common": "7.5-15mg",
-        "Heavy": "25+mg.",
+        "Heavy": "25mg+",
         "Light": "5-7.5mg",
         "Strong": "15-25mg"
       }
@@ -34439,7 +34437,7 @@
     ],
     "formatted_dose": {
       "Oral": {
-        "Light": "50+mg"
+        "Light": "50mg+"
       }
     },
     "name": "valerylfentanyl",
