@@ -18732,12 +18732,12 @@
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_DXM.shtml"
     },
-    "name": "dxm",
-    "pretty_name": "DXM",
+    "name": "dextromethorphan",
+    "pretty_name": "Dextromethorphan",
     "properties": {
       "after-effects": "1-12 hours.",
       "aliases": [
-        "dextromethorphan",
+        "dxm",
         "robo",
         "syrup",
         "robotussin",
