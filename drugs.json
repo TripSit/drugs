@@ -18521,9 +18521,9 @@
       "summary": "A combination of diphenhydramine and a mild stimulant to counteract the drowsiness accompanied by typical medical use of diphenhydramine. Roughly half the potency of DPH. Small doses can relieve motion sickness, reduce body load from opioids or DXM. Becomes a deliriant in high doses, keeping the user awake and often causing dysphoric, realistic hallucinations."
     }
   },
-  "dxm": {
+  "dextromethorphan": {
     "aliases": [
-      "dextromethorphan",
+      "dxm",
       "robo",
       "syrup",
       "robotussin",
