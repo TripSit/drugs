@@ -13895,6 +13895,42 @@
         "note": "Caffiene is not really necessary with MDMA and increases any neurotoxic effects from MDMA",
         "status": "Caution"
       },
+      "mephedrone": {
+        "note": "This combination of stimulants is not generally necessary and may increase strain on the heart, as well as potentially causing anxiety and great physical discomfort. However, individual responses to caffeine can vary significantly, often influenced by factors like habitual versus occasional usage.",
+        "sources": [
+          {
+            "author": "Mesas AE, Leon-Muñoz LM, Rodriguez-Artalejo F, Lopez-Garcia E",
+            "title": " The effect of coffee on blood pressure and cardiovascular disease in hypertensive individuals: a systematic review and meta-analysis ",
+            "url": "https://doi.org/10.3945/ajcn.111.016667"
+          },
+          {
+            "author": "Nurminen, ML., Niittynen, L., Korpela, R",
+            "title": "Coffee, caffeine and blood pressure: a critical review",
+            "url": "https://doi.org/10.1038/sj.ejcn.1600899"
+          },
+          {
+            "author": "Institute of Medicine (US) Committee on Military Nutrition Research.",
+            "title": "Caffeine for the Sustainment of Mental Task Performance: Formulations for Military Operations.",
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK223808/"
+          },
+          {
+            "author": "Baumann MH, Ayestas MA Jr, Partilla JS, Sink JR, Shulgin AT, Daley PF, Brandt SD, Rothman RB, Ruoho AE, Cozzi NV",
+            "title": "The designer methcathinone analogs, mephedrone and methylone, are substrates for monoamine transporters in brain tissue ",
+            "url": "https://doi.org/10.1038/npp.2011.304"
+          },
+          {
+            "author": "Wright MJ Jr, Vandewater SA, Angrish D, Dickerson TJ, Taffe MA",
+            "title": "Mephedrone (4-methylmethcathinone) and d-methamphetamine improve visuospatial associative memory, but not spatial working memory, in rhesus macaques",
+            "url": "https://doi.org/10.1111%2Fj.1476-5381.2012.02091.x"
+          },
+          {
+            "author": "Kehr J, Ichinose F, Yoshitake S, Goiny M, Sievertsson T, Nyberg F, Yoshitake T",
+            "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
+            "url": "https://doi.org/10.1111%2Fj.1476-5381.2011.01499.x"
+          }
+        ],
+        "status": "Caution"
+      },
       "mescaline": {
         "note": "High doses of caffeine are uncomfortable and this will be magnified by psychedelics",
         "status": "Low Risk & No Synergy"
@@ -25348,6 +25384,44 @@
       "habit-forming",
       "empathogen"
     ],
+    "combos": {
+      "caffeine": {
+        "note": "This combination of stimulants is not generally necessary and may increase strain on the heart, as well as potentially causing anxiety and great physical discomfort. However, individual responses to caffeine can vary significantly, often influenced by factors like habitual versus occasional usage.",
+        "sources": [
+          {
+            "author": "Mesas AE, Leon-Muñoz LM, Rodriguez-Artalejo F, Lopez-Garcia E",
+            "title": " The effect of coffee on blood pressure and cardiovascular disease in hypertensive individuals: a systematic review and meta-analysis ",
+            "url": "https://doi.org/10.3945/ajcn.111.016667"
+          },
+          {
+            "author": "Nurminen, ML., Niittynen, L., Korpela, R",
+            "title": "Coffee, caffeine and blood pressure: a critical review",
+            "url": "https://doi.org/10.1038/sj.ejcn.1600899"
+          },
+          {
+            "author": "Institute of Medicine (US) Committee on Military Nutrition Research.",
+            "title": "Caffeine for the Sustainment of Mental Task Performance: Formulations for Military Operations.",
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK223808/"
+          },
+          {
+            "author": "Baumann MH, Ayestas MA Jr, Partilla JS, Sink JR, Shulgin AT, Daley PF, Brandt SD, Rothman RB, Ruoho AE, Cozzi NV",
+            "title": "The designer methcathinone analogs, mephedrone and methylone, are substrates for monoamine transporters in brain tissue ",
+            "url": "https://doi.org/10.1038/npp.2011.304"
+          },
+          {
+            "author": "Wright MJ Jr, Vandewater SA, Angrish D, Dickerson TJ, Taffe MA",
+            "title": "Mephedrone (4-methylmethcathinone) and d-methamphetamine improve visuospatial associative memory, but not spatial working memory, in rhesus macaques",
+            "url": "https://doi.org/10.1111%2Fj.1476-5381.2012.02091.x"
+          },
+          {
+            "author": "Kehr J, Ichinose F, Yoshitake S, Goiny M, Sievertsson T, Nyberg F, Yoshitake T",
+            "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
+            "url": "https://doi.org/10.1111%2Fj.1476-5381.2011.01499.x"
+          }
+        ],
+        "status": "Caution"
+      }
+    },
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "6-24"
