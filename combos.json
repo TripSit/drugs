@@ -370,7 +370,7 @@
       "status": "Low Risk & Decrease"
     },
     "dxm": {
-      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place affected patients in the recovery position to prevent vomit aspiration from excess. Additionally, CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
+      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Additionally, CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
       "status": "Dangerous"
     },
     "ghb/gbl": {
@@ -410,7 +410,7 @@
       "status": "Caution"
     },
     "opioids": {
-      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place affected patients in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely",
+      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely",
       "status": "Dangerous"
     },
     "pcp": {
@@ -422,7 +422,7 @@
       "status": "Caution"
     },
     "tramadol": {
-      "note": "Heavy CNS depressants, risk of seizures. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place affected patients in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely.",
+      "note": "Heavy CNS depressants, risk of seizures. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely.",
       "status": "Dangerous"
     }
   },
@@ -475,7 +475,7 @@
       "status": "Unsafe"
     },
     "ghb/gbl": {
-      "note": "Stimulants increase respiration rate allowing a higher dose of sedatives. If the stimulant wears off first then the opiate may overcome the patient and cause respiratory arrest.",
+      "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives. If the stimulant wears off first then the opiate may overcome the individual and cause respiratory arrest.",
       "status": "Caution"
     },
     "ketamine": {
@@ -531,7 +531,7 @@
       "status": "Low Risk & Synergy"
     },
     "opioids": {
-      "note": "Stimulants increase respiration rate allowing a higher dose of opiates. If the stimulant wears off first then the opiate may overcome the patient and cause respiratory arrest.",
+      "note": "Stimulants increase respiration rate, which can allow for a higher dose of opiates normal . If the stimulant wears off first then the opiate may overcome the individual and cause respiratory arrest.",
       "status": "Caution"
     },
     "pcp": {
@@ -695,7 +695,7 @@
       "status": "Low Risk & Decrease"
     },
     "mxe": {
-      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place affected patients in the recovery position to prevent vomit aspiration from excess.",
+      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess.",
       "status": "Caution"
     },
     "nbomes": {
@@ -973,7 +973,7 @@
       "status": "Unsafe"
     },
     "ghb/gbl": {
-      "note": "Stimulants increase respiration rate allowing a higher dose of sedatives. If the stimulant wears off first then the opiate may overcome the patient and cause respiratory arrest. Likewise the G can wear off and leave a dangerous concentration of cocaine behind",
+      "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If the stimulant wears off first the opiate may overcome the individual and cause respiratory arrest. Likewise the ghb/gbl can wear off and leave a dangerous concentration of cocaine behind",
       "status": "Caution"
     },
     "ketamine": {
@@ -1012,7 +1012,7 @@
       "status": "Low Risk & Synergy"
     },
     "opioids": {
-      "note": "Stimulants increase respiration rate allowing a higher dose of opiates. If the stimulant wears off first then the opiate may overcome the patient and cause respiratory arrest.",
+      "note": "Stimulants increase respiration rate allowing for a higher dose of opiates than normal. If the stimulant wears off first then the opiate may overcome the individual and cause respiratory arrest.",
       "status": "Dangerous"
     },
     "pcp": {
@@ -1280,7 +1280,7 @@
       "status": "Unsafe"
     },
     "alcohol": {
-      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place affected patients in the recovery position to prevent vomit aspiration from excess. Additionally, CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
+      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Additionally, CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
       "status": "Dangerous"
     },
     "amphetamines": {
@@ -1330,7 +1330,7 @@
       "status": "Unsafe"
     },
     "ghb/gbl": {
-      "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the patient falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
+      "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
       "status": "Dangerous"
     },
     "ketamine": {
@@ -1452,7 +1452,7 @@
       "status": "Dangerous"
     },
     "amphetamines": {
-      "note": "Stimulants increase respiration rate allowing a higher dose of sedatives. If the stimulant wears off first then the opiate may overcome the patient and cause respiratory arrest.",
+      "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If the stimulant wears off first the opiate may overcome the individual and cause respiratory arrest.",
       "status": "Caution"
     },
     "amt": {
@@ -1469,7 +1469,7 @@
       "status": "Low Risk & Synergy"
     },
     "cocaine": {
-      "note": "Stimulants increase respiration rate allowing a higher dose of sedatives. If the stimulant wears off first then the opiate may overcome the patient and cause respiratory arrest. Likewise the G can wear off and leave a dangerous concentration of cocaine behind",
+      "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If the stimulant wears off first then the opiate may overcome the individual and cause respiratory arrest. Likewise the ghb/gbl can wear off and leave a dangerous concentration of cocaine behind",
       "status": "Caution"
     },
     "dmt": {
@@ -1479,7 +1479,7 @@
       "status": "Low Risk & Decrease"
     },
     "dxm": {
-      "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the patient falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
+      "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
       "status": "Dangerous"
     },
     "ketamine": {
@@ -1503,7 +1503,7 @@
       "status": "Low Risk & Decrease"
     },
     "mxe": {
-      "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the patient falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
+      "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
       "status": "Dangerous"
     },
     "nbomes": {
@@ -2539,7 +2539,7 @@
       "status": "Dangerous"
     },
     "benzodiazepines": {
-      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place affected patients in the recovery position to prevent vomit aspiration from excess.",
+      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess.",
       "status": "Caution"
     },
     "caffeine": {
@@ -2577,7 +2577,7 @@
       "status": "Unsafe"
     },
     "ghb/gbl": {
-      "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the patient falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
+      "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
       "status": "Dangerous"
     },
     "ketamine": {
@@ -2849,11 +2849,11 @@
       "status": "Low Risk & No Synergy"
     },
     "alcohol": {
-      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place affected patients in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely",
+      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely",
       "status": "Dangerous"
     },
     "amphetamines": {
-      "note": "Stimulants increase respiration rate allowing a higher dose of opiates. If the stimulant wears off first then the opiate may overcome the patient and cause respiratory arrest.",
+      "note": "Stimulants increase respiration rate allowing for a higher dose of opiates than normal. If the stimulant wears off first then the opiate may overcome the individual and cause respiratory arrest.",
       "status": "Caution"
     },
     "amt": {
@@ -2871,7 +2871,7 @@
       "status": "Low Risk & Synergy"
     },
     "cocaine": {
-      "note": "Stimulants increase respiration rate allowing a higher dose of opiates. If the stimulant wears off first then the opiate may overcome the patient and cause respiratory arrest.",
+      "note": "Stimulants increase respiration rate allowing for a higher dose of opiates than normal. If the stimulant wears off first then the opiate may overcome the individual and cause respiratory arrest.",
       "status": "Dangerous"
     },
     "dmt": {
@@ -2929,7 +2929,7 @@
       "status": "Low Risk & No Synergy"
     },
     "tramadol": {
-      "note": "Concomitant use of tramadol increases the seizure risk in patients taking other opioids. These agents are often individually epileptogenic and may have additive effects on seizure threshold during coadministration. Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present",
+      "note": "Concomitant use of tramadol increases the seizure risk in individuals taking other opioids. These agents are often individually epileptogenic and may have additive effects on seizure threshold during coadministration. Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present",
       "status": "Dangerous"
     }
   },
@@ -3123,7 +3123,7 @@
       "status": "Unsafe"
     },
     "alcohol": {
-      "note": "Heavy CNS depressants, risk of seizures. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place affected patients in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely.",
+      "note": "Heavy CNS depressants, risk of seizures. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely.",
       "status": "Dangerous"
     },
     "amphetamines": {
@@ -3196,7 +3196,7 @@
       "status": "Caution"
     },
     "opioids": {
-      "note": "Concomitant use of tramadol increases the seizure risk in patients taking other opioids. These agents are often individually epileptogenic and may have additive effects on seizure threshold during coadministration. Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present",
+      "note": "Concomitant use of tramadol increases the seizure risk in individuals taking other opioids. These agents are often individually epileptogenic and may have additive effects on seizure threshold during coadministration. Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present",
       "status": "Dangerous"
     },
     "pcp": {
