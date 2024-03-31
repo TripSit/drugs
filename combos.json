@@ -2925,7 +2925,7 @@
       "status": "Caution"
     },
     "ssris": {
-      "note": "There have been very infrequent reports of a risk of serotonin syndrome with this combination, though this should not be a practical concern.",
+      "note": "There have been some case reports of serotonin syndrome in individuals who were given a combination of opioids and SSRIs. Other research has indicated a small increase in overdose risk for people who are prescribed CYP2D6-inhibiting SSRIs (e.g. fluoxetine and paroxetine) with oxycodone. Overall, risk is low with this combination but, as always, be mindful of your consumption.",
       "status": "Low Risk & No Synergy"
     },
     "tramadol": {
@@ -3100,7 +3100,7 @@
       "status": "Low Risk & No Synergy"
     },
     "opioids": {
-      "note": "There have been very infrequent reports of a risk of serotonin syndrome with this combination, though this should not be a practical concern.",
+      "note": "There have been some case reports of serotonin syndrome in individuals who were given a combination of opioids and SSRIs. Other research has indicated a small increase in overdose risk for people who are prescribed CYP2D6-inhibiting SSRIs (e.g. fluoxetine and paroxetine) with oxycodone. Overall, risk is low with this combination but, as always, be mindful of your consumption.",
       "status": "Low Risk & No Synergy"
     },
     "pcp": {
