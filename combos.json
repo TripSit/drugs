@@ -33,14 +33,14 @@
       "note": "Cocaine and 2c-t-x both provide considerable stimulation. When combined they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.",
       "status": "Unsafe"
     },
+    "dextromethorphan": {
+      "status": "Unsafe"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
       "status": "Caution"
-    },
-    "dxm": {
-      "status": "Unsafe"
     },
     "ghb/gbl": {
       "status": "Low Risk & Decrease"
@@ -151,14 +151,14 @@
       "note": "The anxiogenic and focusing effects of stimulants increase the chance of unpleasant thought loops. The combination is generally unnecessary because of the stimulating effects of psychedelics. Combination of the stimulating effects may be uncomfortable.",
       "status": "Caution"
     },
+    "dextromethorphan": {
+      "status": "Low Risk & Synergy"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
       "status": "Caution"
-    },
-    "dxm": {
-      "status": "Low Risk & Synergy"
     },
     "ghb/gbl": {
       "status": "Low Risk & Decrease"
@@ -270,16 +270,16 @@
       "note": "The anxiogenic and focusing effects of stimulants increase the chance of unpleasant thought loops. The combination is generally unnecessary because of the stimulating effects of psychedelics. ",
       "status": "Unsafe"
     },
+    "dextromethorphan": {
+      "note": "Little information exists about this combination.",
+      "status": "Unsafe"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
       "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions, particularly increasing the risk of unpleasant physical side effects.",
       "status": "Caution"
-    },
-    "dxm": {
-      "note": "Little information exists about this combination.",
-      "status": "Unsafe"
     },
     "ghb/gbl": {
       "status": "Low Risk & Decrease"
@@ -362,16 +362,16 @@
       "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also allow you to drink past a point where you might normally pass out, increasing the risk. If you do decide to do this then you should set a limit of how much you will drink each hour and stick to it, bearing in mind that you will feel the alcohol less. Cocaine is potentiated somewhat by alcohol because of the formation of cocaethylene.",
       "status": "Unsafe"
     },
+    "dextromethorphan": {
+      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Additionally, CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
+      "status": "Dangerous"
+    },
     "dmt": {
       "status": "Low Risk & Decrease"
     },
     "dox": {
       "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also  allow you to drink past a point where you might normally pass out, increasing the risk.",
       "status": "Low Risk & Decrease"
-    },
-    "dxm": {
-      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Additionally, CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
-      "status": "Dangerous"
     },
     "ghb/gbl": {
       "note": "Even in very low doses this combination rapidly leads to memory loss, severe ataxia and unconsciousness. There is a high risk of vomit aspiration while unconscious.",
@@ -462,16 +462,16 @@
       "note": "This combination of stimulants will increase strain on the heart. It is not generally worth it as cocaine has a mild blocking effect on dopamine releasers like amphetamine",
       "status": "Caution"
     },
+    "dextromethorphan": {
+      "note": "Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues.",
+      "status": "Unsafe"
+    },
     "dmt": {
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
     },
     "dox": {
       "note": "The combined stimulating effects of the two can lead to an uncomfortable body-load, while the focusing effects of amphetamine can easily lead to thought loops. Coming down from amphetamines while the DOx is still active can be quite anxiogenic. ",
-      "status": "Unsafe"
-    },
-    "dxm": {
-      "note": "Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues.",
       "status": "Unsafe"
     },
     "ghb/gbl": {
@@ -577,13 +577,13 @@
     "cocaine": {
       "status": "Dangerous"
     },
+    "dextromethorphan": {
+      "status": "Dangerous"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
-      "status": "Dangerous"
-    },
-    "dxm": {
       "status": "Dangerous"
     },
     "ghb/gbl": {
@@ -661,15 +661,15 @@
     "cocaine": {
       "status": "Low Risk & Decrease"
     },
+    "dextromethorphan": {
+      "note": "Small doses of benzos can end a bad trip, but both substances potentiate the ataxia and sedation caused by the other and this can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
+      "status": "Caution"
+    },
     "dmt": {
       "status": "Low Risk & Decrease"
     },
     "dox": {
       "status": "Low Risk & Decrease"
-    },
-    "dxm": {
-      "note": "Small doses of benzos can end a bad trip, but both substances potentiate the ataxia and sedation caused by the other and this can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
-      "status": "Caution"
     },
     "ghb/gbl": {
       "note": "The two substances potentiate each other strongly and unpredictably, very rapidly leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
@@ -754,14 +754,7 @@
       "note": "Both stimulants, risk of tachycardia, hypertension, and in extreme cases heart failure.",
       "status": "Caution"
     },
-    "dmt": {
-      "status": "Low Risk & No Synergy"
-    },
-    "dox": {
-      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating it may cause some physical discomfort.",
-      "status": "Caution"
-    },
-    "dxm": {
+    "dextromethorphan": {
       "note": "High doses of caffeine can potentially exacerbate anxiety, especially during a dissociative experience, due to its stimulating effects. This combination might also lead to physical discomfort. However, individual responses to caffeine can vary significantly, often influenced by factors like habitual versus occasional usage.",
       "sources": [
         {
@@ -780,6 +773,13 @@
           "url": "https://www.nature.com/articles/1600899"
         }
       ],
+      "status": "Caution"
+    },
+    "dmt": {
+      "status": "Low Risk & No Synergy"
+    },
+    "dox": {
+      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating it may cause some physical discomfort.",
       "status": "Caution"
     },
     "ghb/gbl": {
@@ -866,6 +866,9 @@
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
     },
+    "dextromethorphan": {
+      "status": "Low Risk & Synergy"
+    },
     "dmt": {
       "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
       "status": "Caution"
@@ -873,9 +876,6 @@
     "dox": {
       "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
       "status": "Caution"
-    },
-    "dxm": {
-      "status": "Low Risk & Synergy"
     },
     "ghb/gbl": {
       "status": "Low Risk & Synergy"
@@ -960,16 +960,16 @@
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
     },
+    "dextromethorphan": {
+      "note": "Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues",
+      "status": "Unsafe"
+    },
     "dmt": {
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
     },
     "dox": {
       "note": "The combined stimulating effects of the two can lead to an uncomfortable body-load, while the focusing effects of cocaine can easily lead to thought loops. Coming down from cocaine while the DOx is still active can be quite anxiogenic",
-      "status": "Unsafe"
-    },
-    "dxm": {
-      "note": "Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues",
       "status": "Unsafe"
     },
     "ghb/gbl": {
@@ -1028,247 +1028,7 @@
       "status": "Dangerous"
     }
   },
-  "dmt": {
-    "2c-t-x": {
-      "status": "Low Risk & Synergy"
-    },
-    "2c-x": {
-      "status": "Low Risk & Synergy"
-    },
-    "5-meo-xxt": {
-      "status": "Low Risk & Synergy"
-    },
-    "alcohol": {
-      "status": "Low Risk & Decrease"
-    },
-    "amphetamines": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
-      "status": "Caution"
-    },
-    "amt": {
-      "status": "Low Risk & Synergy"
-    },
-    "benzodiazepines": {
-      "status": "Low Risk & Decrease"
-    },
-    "caffeine": {
-      "status": "Low Risk & No Synergy"
-    },
-    "cannabis": {
-      "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
-      "status": "Caution"
-    },
-    "cocaine": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
-      "status": "Caution"
-    },
-    "dox": {
-      "status": "Low Risk & Synergy"
-    },
-    "dxm": {
-      "status": "Low Risk & Synergy"
-    },
-    "ghb/gbl": {
-      "status": "Low Risk & Decrease"
-    },
-    "ketamine": {
-      "status": "Low Risk & Synergy"
-    },
-    "lithium": {
-      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
-      "sources": [
-        {
-          "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
-          "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
-          "url": "https://doi.org/10.1055/a-1524-2794"
-        },
-        {
-          "author": "Erowid",
-          "title": "Erowid Interactions",
-          "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
-        },
-        {
-          "author": "freshboi88",
-          "title": "I Was Only on One Dose",
-          "url": "https://erowid.org/experiences/exp.php?ID=93681"
-        },
-        {
-          "author": "YouWerentYouAnymore",
-          "title": "Brought My Worst Thoughts to Life",
-          "url": "https://erowid.org/experiences/exp.php?ID=110780"
-        },
-        {
-          "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
-          "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
-          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
-        }
-      ],
-      "status": "Dangerous"
-    },
-    "lsd": {
-      "status": "Low Risk & Synergy"
-    },
-    "maois": {
-      "status": "Low Risk & Synergy"
-    },
-    "mdma": {
-      "status": "Low Risk & Synergy"
-    },
-    "mescaline": {
-      "status": "Low Risk & Synergy"
-    },
-    "mushrooms": {
-      "status": "Low Risk & Synergy"
-    },
-    "mxe": {
-      "status": "Low Risk & Synergy"
-    },
-    "nbomes": {
-      "status": "Low Risk & Synergy"
-    },
-    "nitrous": {
-      "status": "Low Risk & Synergy"
-    },
-    "opioids": {
-      "status": "Low Risk & No Synergy"
-    },
-    "pcp": {
-      "status": "Low Risk & Synergy"
-    },
-    "ssris": {
-      "status": "Low Risk & Decrease"
-    },
-    "tramadol": {
-      "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
-      "status": "Unsafe"
-    }
-  },
-  "dox": {
-    "2c-t-x": {
-      "status": "Caution"
-    },
-    "2c-x": {
-      "status": "Caution"
-    },
-    "5-meo-xxt": {
-      "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions, particularly increasing the risk of unpleasant physical side effects.",
-      "status": "Caution"
-    },
-    "alcohol": {
-      "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also  allow you to drink past a point where you might normally pass out, increasing the risk.",
-      "status": "Low Risk & Decrease"
-    },
-    "amphetamines": {
-      "note": "The combined stimulating effects of the two can lead to an uncomfortable body-load, while the focusing effects of amphetamine can easily lead to thought loops. Coming down from amphetamines while the DOx is still active can be quite anxiogenic. ",
-      "status": "Unsafe"
-    },
-    "amt": {
-      "status": "Dangerous"
-    },
-    "benzodiazepines": {
-      "status": "Low Risk & Decrease"
-    },
-    "caffeine": {
-      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating it may cause some physical discomfort.",
-      "status": "Caution"
-    },
-    "cannabis": {
-      "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
-      "status": "Caution"
-    },
-    "cocaine": {
-      "note": "The combined stimulating effects of the two can lead to an uncomfortable body-load, while the focusing effects of cocaine can easily lead to thought loops. Coming down from cocaine while the DOx is still active can be quite anxiogenic",
-      "status": "Unsafe"
-    },
-    "dmt": {
-      "status": "Low Risk & Synergy"
-    },
-    "dxm": {
-      "note": "The DOx class as psychedelic stimulants have the potential to mask the effects of DXM and could lead to redosing to an unsafe level. DXM can also potentiate DOx resulting in an unpleasantly intense experience.",
-      "status": "Unsafe"
-    },
-    "ghb/gbl": {
-      "status": "Low Risk & Decrease"
-    },
-    "ketamine": {
-      "note": "Ketamine and psychedelics tend to potentiate each other - go slowly.",
-      "status": "Low Risk & Synergy"
-    },
-    "lithium": {
-      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
-      "sources": [
-        {
-          "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
-          "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
-          "url": "https://doi.org/10.1055/a-1524-2794"
-        },
-        {
-          "author": "Erowid",
-          "title": "Erowid Interactions",
-          "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
-        },
-        {
-          "author": "freshboi88",
-          "title": "I Was Only on One Dose",
-          "url": "https://erowid.org/experiences/exp.php?ID=93681"
-        },
-        {
-          "author": "YouWerentYouAnymore",
-          "title": "Brought My Worst Thoughts to Life",
-          "url": "https://erowid.org/experiences/exp.php?ID=110780"
-        },
-        {
-          "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
-          "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
-          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
-        }
-      ],
-      "status": "Dangerous"
-    },
-    "lsd": {
-      "status": "Low Risk & Synergy"
-    },
-    "maois": {
-      "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably",
-      "status": "Caution"
-    },
-    "mdma": {
-      "note": "The combined stimulating effects of the two can be uncomfortable. Coming down on the MDMA while the DOx is still active can be quite anxiogenic. ",
-      "status": "Caution"
-    },
-    "mescaline": {
-      "status": "Caution"
-    },
-    "mushrooms": {
-      "status": "Low Risk & Synergy"
-    },
-    "mxe": {
-      "note": "As an NMDA antagonist MXE potentiates DOx which can be unpleasantly intense",
-      "status": "Caution"
-    },
-    "nbomes": {
-      "status": "Caution"
-    },
-    "nitrous": {
-      "status": "Low Risk & Synergy"
-    },
-    "opioids": {
-      "note": "No unexpected interactions.",
-      "status": "Low Risk & No Synergy"
-    },
-    "pcp": {
-      "note": "Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.",
-      "status": "Unsafe"
-    },
-    "ssris": {
-      "status": "Low Risk & Decrease"
-    },
-    "tramadol": {
-      "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
-      "status": "Unsafe"
-    }
-  },
-  "dxm": {
+  "dextromethorphan": {
     "2c-t-x": {
       "status": "Unsafe"
     },
@@ -1437,6 +1197,246 @@
       "status": "Dangerous"
     }
   },
+  "dmt": {
+    "2c-t-x": {
+      "status": "Low Risk & Synergy"
+    },
+    "2c-x": {
+      "status": "Low Risk & Synergy"
+    },
+    "5-meo-xxt": {
+      "status": "Low Risk & Synergy"
+    },
+    "alcohol": {
+      "status": "Low Risk & Decrease"
+    },
+    "amphetamines": {
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "status": "Caution"
+    },
+    "amt": {
+      "status": "Low Risk & Synergy"
+    },
+    "benzodiazepines": {
+      "status": "Low Risk & Decrease"
+    },
+    "caffeine": {
+      "status": "Low Risk & No Synergy"
+    },
+    "cannabis": {
+      "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
+      "status": "Caution"
+    },
+    "cocaine": {
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "status": "Caution"
+    },
+    "dextromethorphan": {
+      "status": "Low Risk & Synergy"
+    },
+    "dox": {
+      "status": "Low Risk & Synergy"
+    },
+    "ghb/gbl": {
+      "status": "Low Risk & Decrease"
+    },
+    "ketamine": {
+      "status": "Low Risk & Synergy"
+    },
+    "lithium": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "sources": [
+        {
+          "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+          "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+          "url": "https://doi.org/10.1055/a-1524-2794"
+        },
+        {
+          "author": "Erowid",
+          "title": "Erowid Interactions",
+          "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+        },
+        {
+          "author": "freshboi88",
+          "title": "I Was Only on One Dose",
+          "url": "https://erowid.org/experiences/exp.php?ID=93681"
+        },
+        {
+          "author": "YouWerentYouAnymore",
+          "title": "Brought My Worst Thoughts to Life",
+          "url": "https://erowid.org/experiences/exp.php?ID=110780"
+        },
+        {
+          "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+          "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+        }
+      ],
+      "status": "Dangerous"
+    },
+    "lsd": {
+      "status": "Low Risk & Synergy"
+    },
+    "maois": {
+      "status": "Low Risk & Synergy"
+    },
+    "mdma": {
+      "status": "Low Risk & Synergy"
+    },
+    "mescaline": {
+      "status": "Low Risk & Synergy"
+    },
+    "mushrooms": {
+      "status": "Low Risk & Synergy"
+    },
+    "mxe": {
+      "status": "Low Risk & Synergy"
+    },
+    "nbomes": {
+      "status": "Low Risk & Synergy"
+    },
+    "nitrous": {
+      "status": "Low Risk & Synergy"
+    },
+    "opioids": {
+      "status": "Low Risk & No Synergy"
+    },
+    "pcp": {
+      "status": "Low Risk & Synergy"
+    },
+    "ssris": {
+      "status": "Low Risk & Decrease"
+    },
+    "tramadol": {
+      "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
+      "status": "Unsafe"
+    }
+  },
+  "dox": {
+    "2c-t-x": {
+      "status": "Caution"
+    },
+    "2c-x": {
+      "status": "Caution"
+    },
+    "5-meo-xxt": {
+      "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions, particularly increasing the risk of unpleasant physical side effects.",
+      "status": "Caution"
+    },
+    "alcohol": {
+      "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also  allow you to drink past a point where you might normally pass out, increasing the risk.",
+      "status": "Low Risk & Decrease"
+    },
+    "amphetamines": {
+      "note": "The combined stimulating effects of the two can lead to an uncomfortable body-load, while the focusing effects of amphetamine can easily lead to thought loops. Coming down from amphetamines while the DOx is still active can be quite anxiogenic. ",
+      "status": "Unsafe"
+    },
+    "amt": {
+      "status": "Dangerous"
+    },
+    "benzodiazepines": {
+      "status": "Low Risk & Decrease"
+    },
+    "caffeine": {
+      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating it may cause some physical discomfort.",
+      "status": "Caution"
+    },
+    "cannabis": {
+      "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
+      "status": "Caution"
+    },
+    "cocaine": {
+      "note": "The combined stimulating effects of the two can lead to an uncomfortable body-load, while the focusing effects of cocaine can easily lead to thought loops. Coming down from cocaine while the DOx is still active can be quite anxiogenic",
+      "status": "Unsafe"
+    },
+    "dextromethorphan": {
+      "note": "The DOx class as psychedelic stimulants have the potential to mask the effects of DXM and could lead to redosing to an unsafe level. DXM can also potentiate DOx resulting in an unpleasantly intense experience.",
+      "status": "Unsafe"
+    },
+    "dmt": {
+      "status": "Low Risk & Synergy"
+    },
+    "ghb/gbl": {
+      "status": "Low Risk & Decrease"
+    },
+    "ketamine": {
+      "note": "Ketamine and psychedelics tend to potentiate each other - go slowly.",
+      "status": "Low Risk & Synergy"
+    },
+    "lithium": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "sources": [
+        {
+          "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+          "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+          "url": "https://doi.org/10.1055/a-1524-2794"
+        },
+        {
+          "author": "Erowid",
+          "title": "Erowid Interactions",
+          "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+        },
+        {
+          "author": "freshboi88",
+          "title": "I Was Only on One Dose",
+          "url": "https://erowid.org/experiences/exp.php?ID=93681"
+        },
+        {
+          "author": "YouWerentYouAnymore",
+          "title": "Brought My Worst Thoughts to Life",
+          "url": "https://erowid.org/experiences/exp.php?ID=110780"
+        },
+        {
+          "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+          "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+        }
+      ],
+      "status": "Dangerous"
+    },
+    "lsd": {
+      "status": "Low Risk & Synergy"
+    },
+    "maois": {
+      "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably",
+      "status": "Caution"
+    },
+    "mdma": {
+      "note": "The combined stimulating effects of the two can be uncomfortable. Coming down on the MDMA while the DOx is still active can be quite anxiogenic. ",
+      "status": "Caution"
+    },
+    "mescaline": {
+      "status": "Caution"
+    },
+    "mushrooms": {
+      "status": "Low Risk & Synergy"
+    },
+    "mxe": {
+      "note": "As an NMDA antagonist MXE potentiates DOx which can be unpleasantly intense",
+      "status": "Caution"
+    },
+    "nbomes": {
+      "status": "Caution"
+    },
+    "nitrous": {
+      "status": "Low Risk & Synergy"
+    },
+    "opioids": {
+      "note": "No unexpected interactions.",
+      "status": "Low Risk & No Synergy"
+    },
+    "pcp": {
+      "note": "Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.",
+      "status": "Unsafe"
+    },
+    "ssris": {
+      "status": "Low Risk & Decrease"
+    },
+    "tramadol": {
+      "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
+      "status": "Unsafe"
+    }
+  },
   "ghb/gbl": {
     "2c-t-x": {
       "status": "Low Risk & Decrease"
@@ -1472,15 +1472,15 @@
       "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If the stimulant wears off first then the opiate may overcome the individual and cause respiratory arrest. Likewise the ghb/gbl can wear off and leave a dangerous concentration of cocaine behind",
       "status": "Caution"
     },
+    "dextromethorphan": {
+      "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
+      "status": "Dangerous"
+    },
     "dmt": {
       "status": "Low Risk & Decrease"
     },
     "dox": {
       "status": "Low Risk & Decrease"
-    },
-    "dxm": {
-      "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
-      "status": "Dangerous"
     },
     "ketamine": {
       "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
@@ -1565,14 +1565,7 @@
       "note": "No unexpected interactions, though likely to increase blood pressure but not an issue with sensible doses. Moving around on high doses of this combination may be ill advised due to risk of physical injury.",
       "status": "Caution"
     },
-    "dmt": {
-      "status": "Low Risk & Synergy"
-    },
-    "dox": {
-      "note": "Ketamine and psychedelics tend to potentiate each other - go slowly.",
-      "status": "Low Risk & Synergy"
-    },
-    "dxm": {
+    "dextromethorphan": {
       "note": "Both substances primarily exert their effects through NMDA antagonism. Currently, there is no evidence regarding mechanisms that might reduce these effects.",
       "sources": [
         {
@@ -1606,6 +1599,13 @@
           "url": "https://doi.org/10.1177/000348940211100107"
         }
       ],
+      "status": "Low Risk & Synergy"
+    },
+    "dmt": {
+      "status": "Low Risk & Synergy"
+    },
+    "dox": {
+      "note": "Ketamine and psychedelics tend to potentiate each other - go slowly.",
       "status": "Low Risk & Synergy"
     },
     "ghb/gbl": {
@@ -1973,13 +1973,13 @@
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
     },
+    "dextromethorphan": {
+      "status": "Low Risk & Synergy"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
-      "status": "Low Risk & Synergy"
-    },
-    "dxm": {
       "status": "Low Risk & Synergy"
     },
     "ghb/gbl": {
@@ -2091,16 +2091,16 @@
       "note": "This combination is poorly explored",
       "status": "Dangerous"
     },
+    "dextromethorphan": {
+      "note": "High risk of serotonin syndrome",
+      "status": "Dangerous"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
       "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably",
       "status": "Caution"
-    },
-    "dxm": {
-      "note": "High risk of serotonin syndrome",
-      "status": "Dangerous"
     },
     "ghb/gbl": {
       "status": "Low Risk & Synergy"
@@ -2202,15 +2202,15 @@
       "note": "Cocaine blocks some of the desirable effects of MDMA while increasing the risk of heart attack.",
       "status": "Caution"
     },
+    "dextromethorphan": {
+      "status": "Dangerous"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
       "note": "The combined stimulating effects of the two can be uncomfortable. Coming down on the MDMA while the DOx is still active can be quite anxiogenic. ",
       "status": "Caution"
-    },
-    "dxm": {
-      "status": "Dangerous"
     },
     "ghb/gbl": {
       "note": "Large amounts of GHB/GBL may overwhelm the effects of MDMA on the comedown.",
@@ -2320,14 +2320,14 @@
       "note": "The focus and anxiety caused by stimulants is magnified by psychedelics and results in an increased risk of thought loops",
       "status": "Caution"
     },
+    "dextromethorphan": {
+      "status": "Low Risk & Synergy"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
       "status": "Caution"
-    },
-    "dxm": {
-      "status": "Low Risk & Synergy"
     },
     "ghb/gbl": {
       "status": "Low Risk & Decrease"
@@ -2435,13 +2435,13 @@
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
     },
+    "dextromethorphan": {
+      "status": "Low Risk & Synergy"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
-      "status": "Low Risk & Synergy"
-    },
-    "dxm": {
       "status": "Low Risk & Synergy"
     },
     "ghb/gbl": {
@@ -2553,14 +2553,7 @@
       "note": "Stimulants taken with MXE can lead to hypermanic states much more easily, especially if sleep is avoided.",
       "status": "Caution"
     },
-    "dmt": {
-      "status": "Low Risk & Synergy"
-    },
-    "dox": {
-      "note": "As an NMDA antagonist MXE potentiates DOx which can be unpleasantly intense",
-      "status": "Caution"
-    },
-    "dxm": {
+    "dextromethorphan": {
       "note": "There is a risk of serotonin syndrome when combining DXM with MXE, as DXM can induce serotonin syndrome in conjunction with other serotonin reuptake inhibitors, and MXE has shown a notable affinity for the serotonin transporter.",
       "sources": [
         {
@@ -2575,6 +2568,13 @@
         }
       ],
       "status": "Unsafe"
+    },
+    "dmt": {
+      "status": "Low Risk & Synergy"
+    },
+    "dox": {
+      "note": "As an NMDA antagonist MXE potentiates DOx which can be unpleasantly intense",
+      "status": "Caution"
     },
     "ghb/gbl": {
       "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
@@ -2659,14 +2659,14 @@
       "note": "Cocaine and NBOMes both provide considerable stimulation. When combined they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.",
       "status": "Unsafe"
     },
+    "dextromethorphan": {
+      "status": "Unsafe"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
       "status": "Caution"
-    },
-    "dxm": {
-      "status": "Unsafe"
     },
     "ghb/gbl": {
       "status": "Low Risk & Decrease"
@@ -2774,13 +2774,13 @@
     "cocaine": {
       "status": "Low Risk & Synergy"
     },
+    "dextromethorphan": {
+      "status": "Low Risk & Synergy"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
-      "status": "Low Risk & Synergy"
-    },
-    "dxm": {
       "status": "Low Risk & Synergy"
     },
     "ghb/gbl": {
@@ -2874,16 +2874,16 @@
       "note": "Stimulants increase respiration rate allowing for a higher dose of opiates than normal. If the stimulant wears off first then the opiate may overcome the individual and cause respiratory arrest.",
       "status": "Dangerous"
     },
+    "dextromethorphan": {
+      "note": "CNS depression, difficult breathing, heart issues, hepatoxic, just very unsafe combination all around. Additionally if one takes dxm, their tolerance of opiates goes down slightly, thus causing additional synergistic effects.",
+      "status": "Dangerous"
+    },
     "dmt": {
       "status": "Low Risk & No Synergy"
     },
     "dox": {
       "note": "No unexpected interactions.",
       "status": "Low Risk & No Synergy"
-    },
-    "dxm": {
-      "note": "CNS depression, difficult breathing, heart issues, hepatoxic, just very unsafe combination all around. Additionally if one takes dxm, their tolerance of opiates goes down slightly, thus causing additional synergistic effects.",
-      "status": "Dangerous"
     },
     "ghb/gbl": {
       "note": "The two substances potentiate each other strongly and unpredictably, very rapidly leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position",
@@ -2969,15 +2969,15 @@
       "note": "This combination can easily lead to hypermanic states",
       "status": "Unsafe"
     },
+    "dextromethorphan": {
+      "status": "Dangerous"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
       "note": "Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.",
       "status": "Unsafe"
-    },
-    "dxm": {
-      "status": "Dangerous"
     },
     "ghb/gbl": {
       "note": "Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.",
@@ -3058,15 +3058,15 @@
       "note": "May reduce each others' effectiveness. Cocaine can reduce mental stability and therefore exacerbate conditions which SSRIs are used to treat.",
       "status": "Low Risk & No Synergy"
     },
+    "dextromethorphan": {
+      "note": "High risk of serotonin syndrome.",
+      "status": "Dangerous"
+    },
     "dmt": {
       "status": "Low Risk & Decrease"
     },
     "dox": {
       "status": "Low Risk & Decrease"
-    },
-    "dxm": {
-      "note": "High risk of serotonin syndrome.",
-      "status": "Dangerous"
     },
     "ghb/gbl": {
       "status": "Low Risk & No Synergy"
@@ -3147,6 +3147,9 @@
       "note": "Tramadol and stimulants both increase the risk of seizures.",
       "status": "Dangerous"
     },
+    "dextromethorphan": {
+      "status": "Dangerous"
+    },
     "dmt": {
       "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
       "status": "Unsafe"
@@ -3154,9 +3157,6 @@
     "dox": {
       "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
       "status": "Unsafe"
-    },
-    "dxm": {
-      "status": "Dangerous"
     },
     "ghb/gbl": {
       "note": "The sedative effects of this combination can lead to dangerous respiratory depression.",
