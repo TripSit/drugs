@@ -1183,7 +1183,7 @@
       "status": "Low Risk & Synergy"
     },
     "opioids": {
-      "note": "CNS depression, difficult breathing, heart issues, hepatoxic, just very unsafe combination all around. Additionally if one takes dxm, their tolerance of opiates goes down slightly, thus causing additional synergistic effects.",
+      "note": "CNS depression, difficult breathing, heart issues, hepatoxic, just very unsafe combination all around. Additionally if one takes DXM, their tolerance of opiates goes down slightly, thus causing additional synergistic effects.",
       "status": "Dangerous"
     },
     "pcp": {
@@ -2875,7 +2875,7 @@
       "status": "Dangerous"
     },
     "dextromethorphan": {
-      "note": "CNS depression, difficult breathing, heart issues, hepatoxic, just very unsafe combination all around. Additionally if one takes dxm, their tolerance of opiates goes down slightly, thus causing additional synergistic effects.",
+      "note": "CNS depression, difficult breathing, heart issues, hepatoxic, just very unsafe combination all around. Additionally if one takes DXM, their tolerance of opiates goes down slightly, thus causing additional synergistic effects.",
       "status": "Dangerous"
     },
     "dmt": {
