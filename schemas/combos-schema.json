@@ -36,6 +36,9 @@
                 "cocaine": {
                     "$ref": "#/definitions/Interactions"
                 },
+                "diphenhydramine": {
+                    "$ref": "#/definitions/Interactions"
+                },
                 "dmt": {
                     "$ref": "#/definitions/Interactions"
                 },
@@ -102,6 +105,7 @@
                 "caffeine",
                 "cannabis",
                 "cocaine",
+                "diphenhydramine",
                 "dmt",
                 "dox",
                 "dxm",
@@ -155,6 +159,9 @@
                     "$ref": "#/definitions/ComboData"
                 },
                 "cocaine": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "diphenhydramine": {
                     "$ref": "#/definitions/ComboData"
                 },
                 "dmt": {
