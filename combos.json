@@ -1939,7 +1939,7 @@
       "status": "Low Risk & No Synergy"
     },
     "tramadol": {
-      "note": "Tramadol and Lithium both increase the risks of seizures, in addition to serotonin syndrome.",
+      "note": "Tramadol and Lithium both increase the risk of seizures and serotonin syndrome.",
       "sources": [
         {
           "author": "Steven C. Julius,Richard P. Brenner",
@@ -3207,7 +3207,7 @@
       "status": "Dangerous"
     },
     "lithium": {
-      "note": "Tramadol and Lithium both increase the risks of seizures, in addition to serotonin syndrome.",
+      "note": "Tramadol and Lithium both increase the risk of seizures and serotonin syndrome.",
       "sources": [
         {
           "author": "Steven C. Julius,Richard P. Brenner",
