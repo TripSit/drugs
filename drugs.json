@@ -11019,7 +11019,7 @@
         "status": "Low Risk & Decrease"
       },
       "dxm": {
-        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. place the affected individual in the recovery position to prevent vomit aspiration from excess. Additionally, CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
+        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Additionally, CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
         "status": "Dangerous"
       },
       "ghb/gbl": {
@@ -11059,7 +11059,7 @@
         "status": "Caution"
       },
       "opioids": {
-        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. place the affected individual in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely",
+        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely",
         "status": "Dangerous"
       },
       "pcp": {
@@ -11071,7 +11071,7 @@
         "status": "Caution"
       },
       "tramadol": {
-        "note": "Heavy CNS depressants, risk of seizures. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. place the affected individual in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely.",
+        "note": "Heavy CNS depressants, risk of seizures. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely.",
         "status": "Dangerous"
       }
     },
@@ -15308,7 +15308,7 @@
         "status": "Unsafe"
       },
       "ghb/gbl": {
-        "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives. If the stimulant wears off first then the opiate may overcome the individual and cause respiratory arrest",
+        "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If the stimulant wears off first the opiate may overcome the individual and cause respiratory arrest. Likewise the ghb/gbl can wear off and leave a dangerous concentration of cocaine behind",
         "status": "Caution"
       },
       "ketamine": {
@@ -15347,7 +15347,7 @@
         "status": "Low Risk & Synergy"
       },
       "opioids": {
-        "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives. If the stimulant wears off first then the opiate may overcome the individual and cause respiratory arrest.",
+        "note": "Stimulants increase respiration rate allowing for a higher dose of opiates than normal. If the stimulant wears off first then the opiate may overcome the individual and cause respiratory arrest.",
         "status": "Dangerous"
       },
       "pcp": {
@@ -28054,7 +28054,7 @@
         "status": "Dangerous"
       },
       "benzodiazepines": {
-        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. place the affected individual in the recovery position to prevent vomit aspiration from excess.",
+        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess.",
         "status": "Caution"
       },
       "benzos": {
@@ -33861,7 +33861,7 @@
         "status": "Unsafe"
       },
       "alcohol": {
-        "note": "Heavy CNS depressants, risk of seizures. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. place the affected individual in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely.",
+        "note": "Heavy CNS depressants, risk of seizures. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely.",
         "status": "Dangerous"
       },
       "amphetamines": {
@@ -33872,7 +33872,7 @@
         "status": "Dangerous"
       },
       "benzodiazepines": {
-        "note": "Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present. Vomit aspiration a risk when passed out, lay down in recovery position if ingested.",
+        "note": "Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present. Vomit aspiration is a risk when passed out, lay down in recovery position if ingested.",
         "status": "Dangerous"
       },
       "benzos": {
@@ -33938,7 +33938,7 @@
         "status": "Caution"
       },
       "opioids": {
-        "note": "Concomitant use of tramadol increases the seizure risk in indivudals taking other opioids. These agents are often individually epileptogenic and may have additive effects on seizure threshold during coadministration. Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present",
+        "note": "Concomitant use of tramadol increases the seizure risk in individuals taking other opioids. These agents are often individually epileptogenic and may have additive effects on seizure threshold during coadministration. Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present",
         "status": "Dangerous"
       },
       "pcp": {
