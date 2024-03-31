@@ -2,7 +2,7 @@
 
 ## Do your research.
 
-No changes will be accepted without a reference to a reliable source.
+No changes will be accepted without a reference to a reliable source. Studies are preferred to be cited in APA 7 format. 
 
 Reliable sources include:
 
