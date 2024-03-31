@@ -2076,7 +2076,14 @@
       "status": "Low Risk & Synergy"
     },
     "nbomes": {
-      "status": "Low Risk & Synergy"
+      "status": "Low Risk & Synergy",
+      "sources": [
+        {
+          "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
+          "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. Academic Forensic Pathology",
+          "url": "https://doi.org/10.23907/2015.009"
+        }
+      ]
     },
     "nitrous": {
       "status": "Low Risk & Synergy"
@@ -2790,7 +2797,14 @@
       "status": "Dangerous"
     },
     "lsd": {
-      "status": "Low Risk & Synergy"
+      "status": "Low Risk & Synergy",
+      "sources": [
+        {
+          "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
+          "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. Academic Forensic Pathology",
+          "url": "https://doi.org/10.23907/2015.009"
+        }
+      ]
     },
     "maois": {
       "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably",

@@ -1029,10 +1029,6 @@
         "Strong": "50-70mg+"
       }
     },
-    "formatted_duration": {
-      "_unit": "hours",
-      "value": "Insufflated"
-    },
     "formatted_effects": [
       "Euphoria",
       "increased energy/alertness",
@@ -1051,10 +1047,6 @@
       "aggressiveness",
       "moodiness"
     ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Insufflated"
-    },
     "name": "2-methylamphetamine",
     "pretty_name": "2-MA",
     "properties": {
@@ -4421,10 +4413,6 @@
         "Strong": "25-35mg+"
       }
     },
-    "formatted_duration": {
-      "_unit": "minutes",
-      "value": "Insufflated"
-    },
     "formatted_onset": {
       "_unit": "minutes",
       "Insufflated": "5-10"
@@ -4708,7 +4696,7 @@
     "formatted_onset": {
       "_unit": "minutes",
       "Insufflated": "5-20",
-      "Oral": "30-60mg"
+      "Oral": "30-60"
     },
     "name": "4-cbc",
     "pretty_name": "4-CBC",
@@ -4786,10 +4774,6 @@
       "research-chemical",
       "habit-forming"
     ],
-    "formatted_aftereffects": {
-      "_unit": "hours",
-      "value": "Few"
-    },
     "formatted_dose": {
       "Oral": {
         "Common": "50mg-100mg",
@@ -6542,10 +6526,6 @@
       "_unit": "hours",
       "value": "3-6"
     },
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Insufflated"
-    },
     "name": "4f-php",
     "pretty_name": "4F-PHP",
     "properties": {
@@ -6954,10 +6934,6 @@
       "agressiveness",
       "moodiness"
     ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Oral"
-    },
     "name": "5-eapb",
     "pretty_name": "5-EAPB",
     "properties": {
@@ -8641,11 +8617,6 @@
       "agressiveness",
       "moodiness"
     ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "Insufflated": "Within",
-      "Oral": "Within"
-    },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_6MAPB.shtml"
     },
@@ -13377,10 +13348,6 @@
       "confusion",
       "insomnia"
     ],
-    "formatted_onset": {
-      "_unit": "hours",
-      "value": "Up"
-    },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_BromoDragonfly.shtml"
     },
@@ -15757,7 +15724,7 @@
     },
     "formatted_duration": {
       "_unit": "hours",
-      "Oral": "4-8 hours."
+      "Oral": "4-8"
     },
     "formatted_effects": [
       "Side-effects: drowsiness",
@@ -20114,7 +20081,7 @@
     ],
     "formatted_aftereffects": {
       "_unit": "hours",
-      "value": "36+"
+      "value": "36"
     },
     "formatted_dose": {
       "Oral": {
@@ -23927,7 +23894,14 @@
         "status": "Low Risk & Synergy"
       },
       "nbomes": {
-        "status": "Low Risk & Synergy"
+        "status": "Low Risk & Synergy",
+        "sources": [
+          {
+            "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
+            "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. Academic Forensic Pathology",
+            "url": "https://doi.org/10.23907/2015.009"
+          }
+        ]
       },
       "nitrous": {
         "status": "Low Risk & Synergy"
@@ -24214,10 +24188,6 @@
     "formatted_duration": {
       "_unit": "hours",
       "Oral": "4-12"
-    },
-    "formatted_onset": {
-      "_unit": "hours",
-      "value": "Oral"
     },
     "name": "marinol",
     "pretty_name": "Marinol",
@@ -25308,10 +25278,6 @@
       "confusion",
       "insomnia"
     ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Within"
-    },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_MEM.shtml",
       "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal122.shtml"
@@ -25944,10 +25910,6 @@
         "Light": "9.5mg-18.75mg",
         "Strong": "35-50mg+"
       }
-    },
-    "formatted_onset": {
-      "_unit": "hours",
-      "value": "duration"
     },
     "name": "metaclazepam",
     "pretty_name": "Metaclazepam",
@@ -27605,14 +27567,6 @@
         "Strong": "20-35mg"
       }
     },
-    "formatted_duration": {
-      "_unit": "hours",
-      "value": "Oral"
-    },
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Oral"
-    },
     "name": "morpheridine",
     "pretty_name": "Morpheridine",
     "properties": {
@@ -28387,10 +28341,6 @@
       "_unit": "hours",
       "value": "3-5"
     },
-    "formatted_onset": {
-      "_unit": "hours",
-      "value": "Varying"
-    },
     "name": "mxm",
     "pretty_name": "MXM",
     "properties": {
@@ -28425,10 +28375,6 @@
     "formatted_duration": {
       "_unit": "hours",
       "value": "6-12"
-    },
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Within"
     },
     "name": "naphyrone",
     "pretty_name": "Naphyrone",
@@ -30084,10 +30030,6 @@
       "Pupil constriction",
       "Analgesia"
     ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Insufflated"
-    },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_4Fluorobutyrfentanyl.shtml"
     },
@@ -30208,10 +30150,6 @@
     "formatted_duration": {
       "_unit": "hours",
       "value": "2-5"
-    },
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Insufflated"
     },
     "name": "pce",
     "pretty_name": "PCE",
@@ -30838,7 +30776,7 @@
     ],
     "formatted_aftereffects": {
       "_unit": "hours",
-      "value": "36+"
+      "value": "36"
     },
     "formatted_dose": {
       "Oral": {
@@ -30849,7 +30787,7 @@
     },
     "formatted_duration": {
       "_unit": "hours",
-      "value": "18+"
+      "value": "18"
     },
     "formatted_effects": [
       "Anxiolytic",
@@ -32555,10 +32493,6 @@
     "categories": [
       "depressant"
     ],
-    "formatted_aftereffects": {
-      "_unit": "hours",
-      "value": "Can"
-    },
     "formatted_dose": {
       "Oral": {
         "Common": "50mg-150mg",
@@ -32581,10 +32515,6 @@
       "appetite change",
       "increased blood pressure"
     ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "Oral": "IR"
-    },
     "name": "quetiapine",
     "pretty_name": "Quetiapine",
     "properties": {
@@ -33587,7 +33517,7 @@
     },
     "formatted_onset": {
       "_unit": "minutes",
-      "Insufflated": "5-15mg.",
+      "Insufflated": "5-15",
       "Oral": "15-45"
     },
     "name": "thiopropamine",
@@ -33784,10 +33714,6 @@
       "research-chemical",
       "tentative"
     ],
-    "formatted_aftereffects": {
-      "_unit": "hours",
-      "value": "Possibility"
-    },
     "formatted_dose": {
       "Oral": {
         "Common": "20-40mg",
@@ -33847,10 +33773,6 @@
       "research-chemical",
       "tentative"
     ],
-    "formatted_aftereffects": {
-      "_unit": "hours",
-      "value": "Possibility"
-    },
     "formatted_dose": {
       "Oral": {
         "Common": "30-40mg",
