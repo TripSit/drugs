@@ -23472,6 +23472,47 @@
           }
         ],
         "status": "Low Risk & No Synergy"
+      },
+      "tramadol": {
+        "note": "Tramadol and Lithium both increase the risks of seizures, in addition to serotonin syndrome.",
+        "sources": [
+          {
+            "author": "Steven C. Julius,Richard P. Brenner",
+            "title": "Myoclonic seizures with lithium",
+            "url": "https://doi.org/10.1016/0006-3223(87)90026-6"
+          },
+          {
+            "author": "Charles DeBattista, Mehmet Sofuoglu, and Alan F. Schatzberg",
+            "title": "Serotonergic Synergism: The Risks and Benefits ofCombining the Selective Serotonin Reuptake Inhibitorswith Other Serotonergic Drugs",
+            "url": "https://doi.org/10.1016/s0006-3223(98)00161-9"
+          },
+          {
+            "author": "Massot, O., Rousselle, JC., Fillion, MP. et al.",
+            "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders",
+            "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+          },
+          {
+            "author": "Sameer Hassamal,Karen Miotto,William Dale,Itai Danovitch ",
+            "title": "Tramadol: Understanding the Risk of Serotonin Syndrome and Seizures",
+            "url": "https://doi.org/10.1016/j.amjmed.2018.04.025"
+          },
+          {
+            "author": "Boostani R, Derakhshan S.",
+            "title": "Tramadol induced seizure: A 3-year study.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24009919/"
+          },
+          {
+            "author": "Lagard, C.; Vodovar, D.; Chevillard, L.; Callebert, J.; Caillé, F.; Pottier, G.; Liang, H.; Risède, P.; Tournier, N.; Mégarbane, B.",
+            "title": "Investigation of the Mechanisms of Tramadol-Induced Seizures in Overdose in the Rat ",
+            "url": "https://doi.org/10.3390/ph15101254 "
+          },
+          {
+            "author": "Sansone RA, Sansone LA.",
+            "title": "Tramadol",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19724727"
+          }
+        ],
+        "status": "Dangerous"
       }
     },
     "name": "lithium",
@@ -33905,6 +33946,47 @@
         "status": "Dangerous"
       },
       "ketamine": {
+        "status": "Dangerous"
+      },
+      "lithium": {
+        "note": "Tramadol and Lithium both increase the risks of seizures, in addition to serotonin syndrome.",
+        "sources": [
+          {
+            "author": "Steven C. Julius,Richard P. Brenner",
+            "title": "Myoclonic seizures with lithium",
+            "url": "https://doi.org/10.1016/0006-3223(87)90026-6"
+          },
+          {
+            "author": "Charles DeBattista, Mehmet Sofuoglu, and Alan F. Schatzberg",
+            "title": "Serotonergic Synergism: The Risks and Benefits ofCombining the Selective Serotonin Reuptake Inhibitorswith Other Serotonergic Drugs",
+            "url": "https://doi.org/10.1016/s0006-3223(98)00161-9"
+          },
+          {
+            "author": "Massot, O., Rousselle, JC., Fillion, MP. et al.",
+            "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders",
+            "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+          },
+          {
+            "author": "Sameer Hassamal,Karen Miotto,William Dale,Itai Danovitch ",
+            "title": "Tramadol: Understanding the Risk of Serotonin Syndrome and Seizures",
+            "url": "https://doi.org/10.1016/j.amjmed.2018.04.025"
+          },
+          {
+            "author": "Boostani R, Derakhshan S.",
+            "title": "Tramadol induced seizure: A 3-year study.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24009919/"
+          },
+          {
+            "author": "Lagard, C.; Vodovar, D.; Chevillard, L.; Callebert, J.; Caillé, F.; Pottier, G.; Liang, H.; Risède, P.; Tournier, N.; Mégarbane, B.",
+            "title": "Investigation of the Mechanisms of Tramadol-Induced Seizures in Overdose in the Rat ",
+            "url": "https://doi.org/10.3390/ph15101254 "
+          },
+          {
+            "author": "Sansone RA, Sansone LA.",
+            "title": "Tramadol",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19724727"
+          }
+        ],
         "status": "Dangerous"
       },
       "lsd": {
