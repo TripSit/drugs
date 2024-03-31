@@ -1139,6 +1139,47 @@
     "mdma": {
       "status": "Dangerous"
     },
+    "mephedrone": {
+      "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. In addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
+      "sources": [
+        {
+          "author": "J Kehr,  F Ichinose,  S Yoshitake,  M Goiny,  T Sievertsson,  F Nyberg,  T Yoshitake",
+          "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
+          "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+        },
+        {
+          "author": "Gregory C. Hadlock, Katy M. Webb, Lisa M. McFadden, Pei Wen Chu, Jonathan D. Ellis, Scott C. Allen, David M. Andrenyak, Paula L. Vieira-Brock, Christopher L. German, Kevin M. Conrad, Amanda J. Hoonakker, James W. Gibb, Diana G. Wilkins, Glen R. Hanson and Annette E. Fleckenstein",
+          "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse",
+          "url": "https://doi.org/10.1124/jpet.111.184119 "
+        },
+        {
+          "author": "Anna R. Schwartz, Anthony F. Pizon & Daniel E. Brooks",
+          "title": "Dextromethorphan-induced serotonin syndrome",
+          "url": "https://doi.org/10.1080/15563650701668625"
+        },
+        {
+          "author": "DrugBank",
+          "title": "Dextromethorphan",
+          "url": "https://go.drugbank.com/drugs/DB00514"
+        },
+        {
+          "author": "Henderson MG, Fuller RW",
+          "title": "Dextromethorphan antagonizes the acute depletion of brain serotonin by p-chloroamphetamine and H75/12 in rats",
+          "url": "https://doi.org/10.1016/0006-8993(92)91144-4"
+        },
+        {
+          "author": "Reissig CJ, Carter LP, Johnson MW, Mintzer MZ, Klinedinst MA, Griffiths RR",
+          "title": "High doses of dextromethorphan, an NMDA antagonist, produce effects similar to classic hallucinogens ",
+          "url": "https://doi.org/10.1007/s00213-012-2680-6"
+        },
+        {
+          "author": "Meng H, Cao J, Kang J, Ying X, Ji J, Reynolds W, Rampe D.",
+          "title": "Mephedrone, a new designer drug of abuse, produces acute hemodynamic effects in the rat ",
+          "url": "https://doi.org/10.1016/j.toxlet.2011.10.010"
+        }
+      ],
+      "status": "Dangerous"
+    },
     "mescaline": {
       "status": "Low Risk & Synergy"
     },
@@ -1937,6 +1978,47 @@
         }
       ],
       "status": "Low Risk & No Synergy"
+    },
+    "tramadol": {
+      "note": "Tramadol and Lithium both increase the risk of seizures and serotonin syndrome.",
+      "sources": [
+        {
+          "author": "Steven C. Julius, Richard P. Brenner",
+          "title": "Myoclonic seizures with lithium",
+          "url": "https://doi.org/10.1016/0006-3223(87)90026-6"
+        },
+        {
+          "author": "Charles DeBattista, Mehmet Sofuoglu, and Alan F. Schatzberg",
+          "title": "Serotonergic Synergism: The Risks and Benefits of Combining the Selective Serotonin Reuptake Inhibitors with Other Serotonergic Drugs",
+          "url": "https://doi.org/10.1016/s0006-3223(98)00161-9"
+        },
+        {
+          "author": "Massot, O., Rousselle, JC., Fillion, MP. et al.",
+          "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders",
+          "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+        },
+        {
+          "author": "Sameer Hassamal, Karen Miotto, William Dale, Itai Danovitch ",
+          "title": "Tramadol: Understanding the Risk of Serotonin Syndrome and Seizures",
+          "url": "https://doi.org/10.1016/j.amjmed.2018.04.025"
+        },
+        {
+          "author": "Boostani R, Derakhshan S.",
+          "title": "Tramadol induced seizure: A 3-year study.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24009919/"
+        },
+        {
+          "author": "Lagard, C.; Vodovar, D.; Chevillard, L.; Callebert, J.; Caillé, F.; Pottier, G.; Liang, H.; Risède, P.; Tournier, N.; Mégarbane, B.",
+          "title": "Investigation of the Mechanisms of Tramadol-Induced Seizures in Overdose in the Rat ",
+          "url": "https://doi.org/10.3390/ph15101254 "
+        },
+        {
+          "author": "Sansone RA, Sansone LA.",
+          "title": "Tramadol",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19724727"
+        }
+      ],
+      "status": "Dangerous"
     }
   },
   "lsd": {
@@ -2035,7 +2117,14 @@
       "status": "Low Risk & Synergy"
     },
     "nbomes": {
-      "status": "Low Risk & Synergy"
+      "status": "Low Risk & Synergy",
+      "sources": [
+        {
+          "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
+          "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. Academic Forensic Pathology",
+          "url": "https://doi.org/10.23907/2015.009"
+        }
+      ]
     },
     "nitrous": {
       "status": "Low Risk & Synergy"
@@ -2281,6 +2370,49 @@
     },
     "tramadol": {
       "note": "Tramadol and stimulants both increase the risk of seizures.",
+      "status": "Dangerous"
+    }
+  },
+  "mephedrone": {
+    "dxm": {
+      "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. In addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
+      "sources": [
+        {
+          "author": "J Kehr,  F Ichinose,  S Yoshitake,  M Goiny,  T Sievertsson,  F Nyberg,  T Yoshitake",
+          "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
+          "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+        },
+        {
+          "author": "Gregory C. Hadlock, Katy M. Webb, Lisa M. McFadden, Pei Wen Chu, Jonathan D. Ellis, Scott C. Allen, David M. Andrenyak, Paula L. Vieira-Brock, Christopher L. German, Kevin M. Conrad, Amanda J. Hoonakker, James W. Gibb, Diana G. Wilkins, Glen R. Hanson and Annette E. Fleckenstein",
+          "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse",
+          "url": "https://doi.org/10.1124/jpet.111.184119 "
+        },
+        {
+          "author": "Anna R. Schwartz, Anthony F. Pizon & Daniel E. Brooks",
+          "title": "Dextromethorphan-induced serotonin syndrome",
+          "url": "https://doi.org/10.1080/15563650701668625"
+        },
+        {
+          "author": "DrugBank",
+          "title": "Dextromethorphan",
+          "url": "https://go.drugbank.com/drugs/DB00514"
+        },
+        {
+          "author": "Henderson MG, Fuller RW",
+          "title": "Dextromethorphan antagonizes the acute depletion of brain serotonin by p-chloroamphetamine and H75/12 in rats",
+          "url": "https://doi.org/10.1016/0006-8993(92)91144-4"
+        },
+        {
+          "author": "Reissig CJ, Carter LP, Johnson MW, Mintzer MZ, Klinedinst MA, Griffiths RR",
+          "title": "High doses of dextromethorphan, an NMDA antagonist, produce effects similar to classic hallucinogens ",
+          "url": "https://doi.org/10.1007/s00213-012-2680-6"
+        },
+        {
+          "author": "Meng H, Cao J, Kang J, Ying X, Ji J, Reynolds W, Rampe D.",
+          "title": "Mephedrone, a new designer drug of abuse, produces acute hemodynamic effects in the rat ",
+          "url": "https://doi.org/10.1016/j.toxlet.2011.10.010"
+        }
+      ],
       "status": "Dangerous"
     }
   },
@@ -2706,7 +2838,14 @@
       "status": "Dangerous"
     },
     "lsd": {
-      "status": "Low Risk & Synergy"
+      "status": "Low Risk & Synergy",
+      "sources": [
+        {
+          "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
+          "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. Academic Forensic Pathology",
+          "url": "https://doi.org/10.23907/2015.009"
+        }
+      ]
     },
     "maois": {
       "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably",
@@ -3163,6 +3302,47 @@
       "status": "Dangerous"
     },
     "ketamine": {
+      "status": "Dangerous"
+    },
+    "lithium": {
+      "note": "Tramadol and Lithium both increase the risk of seizures and serotonin syndrome.",
+      "sources": [
+        {
+          "author": "Steven C. Julius, Richard P. Brenner",
+          "title": "Myoclonic seizures with lithium",
+          "url": "https://doi.org/10.1016/0006-3223(87)90026-6"
+        },
+        {
+          "author": "Charles DeBattista, Mehmet Sofuoglu, and Alan F. Schatzberg",
+          "title": "Serotonergic Synergism: The Risks and Benefits of Combining the Selective Serotonin Reuptake Inhibitors with Other Serotonergic Drugs",
+          "url": "https://doi.org/10.1016/s0006-3223(98)00161-9"
+        },
+        {
+          "author": "Massot, O., Rousselle, JC., Fillion, MP. et al.",
+          "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders",
+          "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+        },
+        {
+          "author": "Sameer Hassamal, Karen Miotto,William Dale, Itai Danovitch ",
+          "title": "Tramadol: Understanding the Risk of Serotonin Syndrome and Seizures",
+          "url": "https://doi.org/10.1016/j.amjmed.2018.04.025"
+        },
+        {
+          "author": "Boostani R, Derakhshan S.",
+          "title": "Tramadol induced seizure: A 3-year study.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24009919/"
+        },
+        {
+          "author": "Lagard, C.; Vodovar, D.; Chevillard, L.; Callebert, J.; Caillé, F.; Pottier, G.; Liang, H.; Risède, P.; Tournier, N.; Mégarbane, B.",
+          "title": "Investigation of the Mechanisms of Tramadol-Induced Seizures in Overdose in the Rat ",
+          "url": "https://doi.org/10.3390/ph15101254 "
+        },
+        {
+          "author": "Sansone RA, Sansone LA.",
+          "title": "Tramadol",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19724727"
+        }
+      ],
       "status": "Dangerous"
     },
     "lsd": {

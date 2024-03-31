@@ -18,6 +18,7 @@ export interface Combos {
   lsd:              Interactions;
   maois:            Interactions;
   mdma:             Interactions;
+  mephedrone:       Interactions;
   mescaline:        Interactions;
   mushrooms:        Interactions;
   mxe:              Interactions;
@@ -50,6 +51,7 @@ export interface Interactions {
   lsd?:              ComboData;
   maois?:            ComboData;
   mdma?:             ComboData;
+  mephedrone?:       ComboData;
   mescaline?:        ComboData;
   mushrooms?:        ComboData;
   mxe?:              ComboData;

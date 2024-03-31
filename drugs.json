@@ -1029,10 +1029,6 @@
         "Strong": "50-70mg+"
       }
     },
-    "formatted_duration": {
-      "_unit": "hours",
-      "value": "Insufflated"
-    },
     "formatted_effects": [
       "Euphoria",
       "increased energy/alertness",
@@ -1051,10 +1047,6 @@
       "aggressiveness",
       "moodiness"
     ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Insufflated"
-    },
     "name": "2-methylamphetamine",
     "pretty_name": "2-MA",
     "properties": {
@@ -4421,10 +4413,6 @@
         "Strong": "25-35mg+"
       }
     },
-    "formatted_duration": {
-      "_unit": "minutes",
-      "value": "Insufflated"
-    },
     "formatted_onset": {
       "_unit": "minutes",
       "Insufflated": "5-10"
@@ -4708,7 +4696,7 @@
     "formatted_onset": {
       "_unit": "minutes",
       "Insufflated": "5-20",
-      "Oral": "30-60mg"
+      "Oral": "30-60"
     },
     "name": "4-cbc",
     "pretty_name": "4-CBC",
@@ -4786,10 +4774,6 @@
       "research-chemical",
       "habit-forming"
     ],
-    "formatted_aftereffects": {
-      "_unit": "hours",
-      "value": "Few"
-    },
     "formatted_dose": {
       "Oral": {
         "Common": "50mg-100mg",
@@ -6542,10 +6526,6 @@
       "_unit": "hours",
       "value": "3-6"
     },
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Insufflated"
-    },
     "name": "4f-php",
     "pretty_name": "4F-PHP",
     "properties": {
@@ -6954,10 +6934,6 @@
       "agressiveness",
       "moodiness"
     ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Oral"
-    },
     "name": "5-eapb",
     "pretty_name": "5-EAPB",
     "properties": {
@@ -8641,11 +8617,6 @@
       "agressiveness",
       "moodiness"
     ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "Insufflated": "Within",
-      "Oral": "Within"
-    },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_6MAPB.shtml"
     },
@@ -13377,10 +13348,6 @@
       "confusion",
       "insomnia"
     ],
-    "formatted_onset": {
-      "_unit": "hours",
-      "value": "Up"
-    },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_BromoDragonfly.shtml"
     },
@@ -15757,7 +15724,7 @@
     },
     "formatted_duration": {
       "_unit": "hours",
-      "Oral": "4-8 hours."
+      "Oral": "4-8"
     },
     "formatted_effects": [
       "Side-effects: drowsiness",
@@ -20073,7 +20040,7 @@
     ],
     "formatted_aftereffects": {
       "_unit": "hours",
-      "value": "36+"
+      "value": "36"
     },
     "formatted_dose": {
       "Oral": {
@@ -23472,6 +23439,47 @@
           }
         ],
         "status": "Low Risk & No Synergy"
+      },
+      "tramadol": {
+        "note": "Tramadol and Lithium both increase the risk of seizures and serotonin syndrome.",
+        "sources": [
+          {
+            "author": "Steven C. Julius, Richard P. Brenner",
+            "title": "Myoclonic seizures with lithium",
+            "url": "https://doi.org/10.1016/0006-3223(87)90026-6"
+          },
+          {
+            "author": "Charles DeBattista, Mehmet Sofuoglu, and Alan F. Schatzberg",
+            "title": "Serotonergic Synergism: The Risks and Benefits of Combining the Selective Serotonin Reuptake Inhibitors with Other Serotonergic Drugs",
+            "url": "https://doi.org/10.1016/s0006-3223(98)00161-9"
+          },
+          {
+            "author": "Massot, O., Rousselle, JC., Fillion, MP. et al.",
+            "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders",
+            "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+          },
+          {
+            "author": "Sameer Hassamal, Karen Miotto, William Dale, Itai Danovitch ",
+            "title": "Tramadol: Understanding the Risk of Serotonin Syndrome and Seizures",
+            "url": "https://doi.org/10.1016/j.amjmed.2018.04.025"
+          },
+          {
+            "author": "Boostani R, Derakhshan S.",
+            "title": "Tramadol induced seizure: A 3-year study.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24009919/"
+          },
+          {
+            "author": "Lagard, C.; Vodovar, D.; Chevillard, L.; Callebert, J.; Caillé, F.; Pottier, G.; Liang, H.; Risède, P.; Tournier, N.; Mégarbane, B.",
+            "title": "Investigation of the Mechanisms of Tramadol-Induced Seizures in Overdose in the Rat ",
+            "url": "https://doi.org/10.3390/ph15101254 "
+          },
+          {
+            "author": "Sansone RA, Sansone LA.",
+            "title": "Tramadol",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19724727"
+          }
+        ],
+        "status": "Dangerous"
       }
     },
     "name": "lithium",
@@ -23886,7 +23894,14 @@
         "status": "Low Risk & Synergy"
       },
       "nbomes": {
-        "status": "Low Risk & Synergy"
+        "status": "Low Risk & Synergy",
+        "sources": [
+          {
+            "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
+            "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. Academic Forensic Pathology",
+            "url": "https://doi.org/10.23907/2015.009"
+          }
+        ]
       },
       "nitrous": {
         "status": "Low Risk & Synergy"
@@ -24173,10 +24188,6 @@
     "formatted_duration": {
       "_unit": "hours",
       "Oral": "4-12"
-    },
-    "formatted_onset": {
-      "_unit": "hours",
-      "value": "Oral"
     },
     "name": "marinol",
     "pretty_name": "Marinol",
@@ -25267,10 +25278,6 @@
       "confusion",
       "insomnia"
     ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Within"
-    },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_MEM.shtml",
       "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal122.shtml"
@@ -25348,6 +25355,49 @@
       "habit-forming",
       "empathogen"
     ],
+    "combos": {
+      "dxm": {
+        "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. In addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
+        "sources": [
+          {
+            "author": "J Kehr,  F Ichinose,  S Yoshitake,  M Goiny,  T Sievertsson,  F Nyberg,  T Yoshitake",
+            "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
+            "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+          },
+          {
+            "author": "Gregory C. Hadlock, Katy M. Webb, Lisa M. McFadden, Pei Wen Chu, Jonathan D. Ellis, Scott C. Allen, David M. Andrenyak, Paula L. Vieira-Brock, Christopher L. German, Kevin M. Conrad, Amanda J. Hoonakker, James W. Gibb, Diana G. Wilkins, Glen R. Hanson and Annette E. Fleckenstein",
+            "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse",
+            "url": "https://doi.org/10.1124/jpet.111.184119 "
+          },
+          {
+            "author": "Anna R. Schwartz, Anthony F. Pizon & Daniel E. Brooks",
+            "title": "Dextromethorphan-induced serotonin syndrome",
+            "url": "https://doi.org/10.1080/15563650701668625"
+          },
+          {
+            "author": "DrugBank",
+            "title": "Dextromethorphan",
+            "url": "https://go.drugbank.com/drugs/DB00514"
+          },
+          {
+            "author": "Henderson MG, Fuller RW",
+            "title": "Dextromethorphan antagonizes the acute depletion of brain serotonin by p-chloroamphetamine and H75/12 in rats",
+            "url": "https://doi.org/10.1016/0006-8993(92)91144-4"
+          },
+          {
+            "author": "Reissig CJ, Carter LP, Johnson MW, Mintzer MZ, Klinedinst MA, Griffiths RR",
+            "title": "High doses of dextromethorphan, an NMDA antagonist, produce effects similar to classic hallucinogens ",
+            "url": "https://doi.org/10.1007/s00213-012-2680-6"
+          },
+          {
+            "author": "Meng H, Cao J, Kang J, Ying X, Ji J, Reynolds W, Rampe D.",
+            "title": "Mephedrone, a new designer drug of abuse, produces acute hemodynamic effects in the rat ",
+            "url": "https://doi.org/10.1016/j.toxlet.2011.10.010"
+          }
+        ],
+        "status": "Dangerous"
+      }
+    },
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "6-24"
@@ -25860,10 +25910,6 @@
         "Light": "9.5mg-18.75mg",
         "Strong": "35-50mg+"
       }
-    },
-    "formatted_onset": {
-      "_unit": "hours",
-      "value": "duration"
     },
     "name": "metaclazepam",
     "pretty_name": "Metaclazepam",
@@ -27521,14 +27567,6 @@
         "Strong": "20-35mg"
       }
     },
-    "formatted_duration": {
-      "_unit": "hours",
-      "value": "Oral"
-    },
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Oral"
-    },
     "name": "morpheridine",
     "pretty_name": "Morpheridine",
     "properties": {
@@ -28303,10 +28341,6 @@
       "_unit": "hours",
       "value": "3-5"
     },
-    "formatted_onset": {
-      "_unit": "hours",
-      "value": "Varying"
-    },
     "name": "mxm",
     "pretty_name": "MXM",
     "properties": {
@@ -28341,10 +28375,6 @@
     "formatted_duration": {
       "_unit": "hours",
       "value": "6-12"
-    },
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Within"
     },
     "name": "naphyrone",
     "pretty_name": "Naphyrone",
@@ -30000,10 +30030,6 @@
       "Pupil constriction",
       "Analgesia"
     ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Insufflated"
-    },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_4Fluorobutyrfentanyl.shtml"
     },
@@ -30124,10 +30150,6 @@
     "formatted_duration": {
       "_unit": "hours",
       "value": "2-5"
-    },
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Insufflated"
     },
     "name": "pce",
     "pretty_name": "PCE",
@@ -30754,7 +30776,7 @@
     ],
     "formatted_aftereffects": {
       "_unit": "hours",
-      "value": "36+"
+      "value": "36"
     },
     "formatted_dose": {
       "Oral": {
@@ -30765,7 +30787,7 @@
     },
     "formatted_duration": {
       "_unit": "hours",
-      "value": "18+"
+      "value": "18"
     },
     "formatted_effects": [
       "Anxiolytic",
@@ -32471,10 +32493,6 @@
     "categories": [
       "depressant"
     ],
-    "formatted_aftereffects": {
-      "_unit": "hours",
-      "value": "Can"
-    },
     "formatted_dose": {
       "Oral": {
         "Common": "50mg-150mg",
@@ -32497,10 +32515,6 @@
       "appetite change",
       "increased blood pressure"
     ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "Oral": "IR"
-    },
     "name": "quetiapine",
     "pretty_name": "Quetiapine",
     "properties": {
@@ -33503,7 +33517,7 @@
     },
     "formatted_onset": {
       "_unit": "minutes",
-      "Insufflated": "5-15mg.",
+      "Insufflated": "5-15",
       "Oral": "15-45"
     },
     "name": "thiopropamine",
@@ -33700,10 +33714,6 @@
       "research-chemical",
       "tentative"
     ],
-    "formatted_aftereffects": {
-      "_unit": "hours",
-      "value": "Possibility"
-    },
     "formatted_dose": {
       "Oral": {
         "Common": "20-40mg",
@@ -33763,10 +33773,6 @@
       "research-chemical",
       "tentative"
     ],
-    "formatted_aftereffects": {
-      "_unit": "hours",
-      "value": "Possibility"
-    },
     "formatted_dose": {
       "Oral": {
         "Common": "30-40mg",
@@ -33905,6 +33911,47 @@
         "status": "Dangerous"
       },
       "ketamine": {
+        "status": "Dangerous"
+      },
+      "lithium": {
+        "note": "Tramadol and Lithium both increase the risk of seizures and serotonin syndrome.",
+        "sources": [
+          {
+            "author": "Steven C. Julius, Richard P. Brenner",
+            "title": "Myoclonic seizures with lithium",
+            "url": "https://doi.org/10.1016/0006-3223(87)90026-6"
+          },
+          {
+            "author": "Charles DeBattista, Mehmet Sofuoglu, and Alan F. Schatzberg",
+            "title": "Serotonergic Synergism: The Risks and Benefits of Combining the Selective Serotonin Reuptake Inhibitors with Other Serotonergic Drugs",
+            "url": "https://doi.org/10.1016/s0006-3223(98)00161-9"
+          },
+          {
+            "author": "Massot, O., Rousselle, JC., Fillion, MP. et al.",
+            "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders",
+            "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+          },
+          {
+            "author": "Sameer Hassamal, Karen Miotto, William Dale, Itai Danovitch ",
+            "title": "Tramadol: Understanding the Risk of Serotonin Syndrome and Seizures",
+            "url": "https://doi.org/10.1016/j.amjmed.2018.04.025"
+          },
+          {
+            "author": "Boostani R, Derakhshan S.",
+            "title": "Tramadol induced seizure: A 3-year study.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24009919/"
+          },
+          {
+            "author": "Lagard, C.; Vodovar, D.; Chevillard, L.; Callebert, J.; Caillé, F.; Pottier, G.; Liang, H.; Risède, P.; Tournier, N.; Mégarbane, B.",
+            "title": "Investigation of the Mechanisms of Tramadol-Induced Seizures in Overdose in the Rat ",
+            "url": "https://doi.org/10.3390/ph15101254 "
+          },
+          {
+            "author": "Sansone RA, Sansone LA.",
+            "title": "Tramadol",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19724727"
+          }
+        ],
         "status": "Dangerous"
       },
       "lsd": {
