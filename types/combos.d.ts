@@ -9,6 +9,7 @@ export interface Combos {
   caffeine:         Interactions;
   cannabis:         Interactions;
   cocaine:          Interactions;
+  diphenhydramine:  Interactions;
   dextromethorphan: Interactions;
   dmt:              Interactions;
   dox:              Interactions;
@@ -41,6 +42,7 @@ export interface Interactions {
   caffeine?:         ComboData;
   cannabis?:         ComboData;
   cocaine?:          ComboData;
+  diphenhydramine?:  ComboData;
   dextromethorphan?: ComboData;
   dmt?:              ComboData;
   dox?:              ComboData;

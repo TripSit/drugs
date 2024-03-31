@@ -1028,6 +1028,34 @@
       "status": "Dangerous"
     }
   },
+  "diphenhydramine": {
+    "ghb/gbl": {
+      "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
+      "sources": [
+        {
+          "author": "William J Tharion, Donna J. McMenemy, Terry M. Rauch",
+          "title": "Antihistamine Effects on the Central Nervous System, Cognitive Performance and Subjective States. ",
+          "url": "https://doi.org/10.1159/000119069"
+        },
+        {
+          "author": "Sicari V, Zabbo CP. Diphenhydramine.",
+          "title": "Diphenhydramine",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526010/"
+        },
+        {
+          "author": "Couper FJ, Marinetti LJ.",
+          "title": "γ-Hydroxybutyrate (GHB) - Effects on Human Performance and Behavior ",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26256488/"
+        },
+        {
+          "author": "Busardò FP, Jones AW.",
+          "title": "GHB Pharmacology and Toxicology: Acute Intoxication, Concentrations in Blood and Urine in Forensic Cases and Treatment of the Withdrawal Syndrome",
+          "url": "https://doi.org/10.2174%2F1570159X13666141210215423"
+        }
+      ],
+      "status": "Dangerous"
+    }
+  },
   "dextromethorphan": {
     "2c-t-x": {
       "status": "Unsafe"
@@ -1515,6 +1543,32 @@
     },
     "dextromethorphan": {
       "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
+      "status": "Dangerous"
+    },
+    "diphenhydramine": {
+      "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
+      "sources": [
+        {
+          "author": "William J Tharion, Donna J. McMenemy, Terry M. Rauch",
+          "title": "Antihistamine Effects on the Central Nervous System, Cognitive Performance and Subjective States. ",
+          "url": "https://doi.org/10.1159/000119069"
+        },
+        {
+          "author": "Sicari V, Zabbo CP. Diphenhydramine.",
+          "title": "Diphenhydramine",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526010/"
+        },
+        {
+          "author": "Couper FJ, Marinetti LJ.",
+          "title": "γ-Hydroxybutyrate (GHB) - Effects on Human Performance and Behavior ",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26256488/"
+        },
+        {
+          "author": "Busardò FP, Jones AW.",
+          "title": "GHB Pharmacology and Toxicology: Acute Intoxication, Concentrations in Blood and Urine in Forensic Cases and Treatment of the Withdrawal Syndrome",
+          "url": "https://doi.org/10.2174%2F1570159X13666141210215423"
+        }
+      ],
       "status": "Dangerous"
     },
     "dmt": {
@@ -2374,7 +2428,7 @@
     }
   },
   "mephedrone": {
-    "dxm": {
+    "dextromethorphan": {
       "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. In addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
       "sources": [
         {
@@ -3323,7 +3377,7 @@
           "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
         },
         {
-          "author": "Sameer Hassamal, Karen Miotto,William Dale, Itai Danovitch ",
+          "author": "Sameer Hassamal, Karen Miotto, William Dale, Itai Danovitch ",
           "title": "Tramadol: Understanding the Risk of Serotonin Syndrome and Seizures",
           "url": "https://doi.org/10.1016/j.amjmed.2018.04.025"
         },

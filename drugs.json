@@ -17416,6 +17416,158 @@
       "summary": "Inactive."
     }
   },
+  "diphenhydramine": {
+    "aliases": [
+      "diphenhydramine",
+      "dph",
+      "benadryl"
+    ],
+    "categories": [
+      "depressant",
+      "deliriant",
+      "common"
+    ],
+    "combos": {
+      "ghb/gbl": {
+        "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
+        "sources": [
+          {
+            "author": "William J Tharion, Donna J. McMenemy, Terry M. Rauch",
+            "title": "Antihistamine Effects on the Central Nervous System, Cognitive Performance and Subjective States. ",
+            "url": "https://doi.org/10.1159/000119069"
+          },
+          {
+            "author": "Sicari V, Zabbo CP. Diphenhydramine.",
+            "title": "Diphenhydramine",
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK526010/"
+          },
+          {
+            "author": "Couper FJ, Marinetti LJ.",
+            "title": "γ-Hydroxybutyrate (GHB) - Effects on Human Performance and Behavior ",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26256488/"
+          },
+          {
+            "author": "Busardò FP, Jones AW.",
+            "title": "GHB Pharmacology and Toxicology: Acute Intoxication, Concentrations in Blood and Urine in Forensic Cases and Treatment of the Withdrawal Syndrome",
+            "url": "https://doi.org/10.2174%2F1570159X13666141210215423"
+          }
+        ],
+        "status": "Dangerous"
+      }
+    },
+    "dose_note": " NOTE: The doses provided are for recreational usage. For use as a sleep aid the dose ranges from 25-100mg, or as specified on the product packaging.",
+    "formatted_aftereffects": {
+      "_unit": "hours",
+      "value": "1-12"
+    },
+    "formatted_dose": {
+      "Oral": {
+        "Common": "200-500mg",
+        "Light": "100-250mg",
+        "Strong": "450-700mg"
+      }
+    },
+    "formatted_duration": {
+      "_unit": "hours",
+      "value": "6-8"
+    },
+    "formatted_effects": [
+      "Delirium",
+      "dream-like experiences",
+      "paranoia",
+      "visual and audio distortions",
+      "dry mouth",
+      "muscle cramps",
+      "nausea",
+      "dysphoria",
+      "tremors",
+      "Often described as a pretty negative experience"
+    ],
+    "formatted_onset": {
+      "_unit": "minutes",
+      "value": "60-120"
+    },
+    "links": {
+      "experiences": "https://www.erowid.org/experiences/subs/exp_Diphenhydramine.shtml"
+    },
+    "name": "diphenhydramine",
+    "pretty_name": "Diphenhydramine",
+    "properties": {
+      "after-effects": "1-12 hours.",
+      "aliases": [
+        "diphenhydramine",
+        "dph",
+        "benadryl"
+      ],
+      "avoid": "Many oral diphenhydramine preparations contain analgesics such as acetaminophen/paracetamol or aspirin, which can be toxic to the liver in high doses.",
+      "categories": [
+        "depressant",
+        "deliriant",
+        "common"
+      ],
+      "dose": "Oral Light: 100-250mg Common: 200-500mg Strong: 450-700mg NOTE: The doses provided are for recreational usage. For use as a sleep aid the dose ranges from 25-75mg, or as specified on the product packaging. For medical allergy use doses tend to range from 25-50mg, or as specified on the product packaging.",
+      "duration": "6-8 hours",
+      "effects": "Delirium, dream-like experiences, paranoia, visual and audio distortions, dry mouth, muscle cramps, nausea, dysphoria, tremors. Often described as a pretty negative experience.",
+      "onset": "60-120 minutes",
+      "summary": "An antihistamine which, when taken in smaller doses relieves allergies and insomnia. In larger doses works as a deliriant and can actually keep the user awake. Generally the 'high' of this drug is reported as dysphoric, potentially causing hallucinations indistinguishable from reality."
+    },
+    "pweffects": {
+      "Abnormal heartbeat": "https://psychonautwiki.org/wiki/Abnormal_heartbeat",
+      "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
+      "After images": "https://psychonautwiki.org/wiki/After_images",
+      "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+      "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+      "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+      "Auditory suppression": "https://psychonautwiki.org/wiki/Auditory_suppression",
+      "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+      "Brightness alteration": "https://psychonautwiki.org/wiki/Brightness_alteration",
+      "Cognitive dysphoria": "https://psychonautwiki.org/wiki/Cognitive_dysphoria",
+      "Dehydration": "https://psychonautwiki.org/wiki/Dehydration",
+      "Depression": "https://psychonautwiki.org/wiki/Depression",
+      "Difficulty urinating": "https://psychonautwiki.org/wiki/Difficulty_urinating",
+      "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+      "Double vision": "https://psychonautwiki.org/wiki/Double_vision",
+      "Dream potentiation": "https://psychonautwiki.org/wiki/Dream_potentiation",
+      "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+      "Emotion suppression": "https://psychonautwiki.org/wiki/Emotion_suppression",
+      "External hallucinations": "https://psychonautwiki.org/wiki/External_hallucinations",
+      "Feelings of impending doom": "https://psychonautwiki.org/wiki/Feelings_of_impending_doom",
+      "Frequent urination": "https://psychonautwiki.org/wiki/Frequent_urination",
+      "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
+      "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+      "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+      "Language suppression": "https://psychonautwiki.org/wiki/Language_suppression",
+      "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+      "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+      "Muscle cramps": "https://psychonautwiki.org/wiki/Muscle_cramps",
+      "Muscle spasms": "https://psychonautwiki.org/wiki/Muscle_spasms",
+      "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+      "Paranoia": "https://psychonautwiki.org/wiki/Paranoia",
+      "Pattern recognition suppression": "https://psychonautwiki.org/wiki/Pattern_recognition_suppression",
+      "Peripheral information misinterpretation": "https://psychonautwiki.org/wiki/Peripheral_information_misinterpretation",
+      "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+      "Photophobia": "https://psychonautwiki.org/wiki/Photophobia",
+      "Physical fatigue": "https://psychonautwiki.org/wiki/Physical_fatigue",
+      "Psychosis": "https://psychonautwiki.org/wiki/Psychosis",
+      "Restless leg syndrome": "https://psychonautwiki.org/wiki/Restless_leg_syndrome",
+      "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+      "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+      "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+      "Shadow people": "https://psychonautwiki.org/wiki/Shadow_people",
+      "Tactile hallucinations": "https://psychonautwiki.org/wiki/Tactile_hallucinations",
+      "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+      "Thought disorganization": "https://psychonautwiki.org/wiki/Thought_disorganization",
+      "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+      "Unspeakable horrors": "https://psychonautwiki.org/wiki/Unspeakable_horrors",
+      "Vibrating vision": "https://psychonautwiki.org/wiki/Vibrating_vision",
+      "Visual haze": "https://psychonautwiki.org/wiki/Visual_haze"
+    },
+    "sources": {
+      "_general": [
+        "Dose-dependent toxicity of diphenhydramine overdose - http://www.ncbi.nlm.nih.gov/pubmed/11204550"
+      ]
+    }
+  },
   "diphenidine": {
     "aliases": [
       "dpd"
@@ -18483,128 +18635,6 @@
       "onset": "20-30 minutes",
       "summary": "A first generation antihistamine and anticholinergic, originally used to treat nausea and itching, and later as a sleep aid. Causes drowsiness, and delirium in overdose. Sometimes used with opioids to combat nausea and potentiate effects.",
       "warning": "As with other first generation antihistamines, if you take too much you could have a delirant like experience."
-    }
-  },
-  "dph": {
-    "aliases": [
-      "diphenhydramine",
-      "benadryl"
-    ],
-    "categories": [
-      "depressant",
-      "deliriant",
-      "common"
-    ],
-    "dose_note": " NOTE: The doses provided are for recreational usage. For use as a sleep aid the dose ranges from 25-100mg, or as specified on the product packaging.",
-    "formatted_aftereffects": {
-      "_unit": "hours",
-      "value": "1-12"
-    },
-    "formatted_dose": {
-      "Oral": {
-        "Common": "200-500mg",
-        "Light": "100-250mg",
-        "Strong": "450-700mg"
-      }
-    },
-    "formatted_duration": {
-      "_unit": "hours",
-      "value": "6-8"
-    },
-    "formatted_effects": [
-      "Delirium",
-      "dream-like experiences",
-      "paranoia",
-      "visual and audio distortions",
-      "dry mouth",
-      "muscle cramps",
-      "nausea",
-      "dysphoria",
-      "tremors",
-      "Often described as a pretty negative experience"
-    ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "60-120"
-    },
-    "links": {
-      "experiences": "https://www.erowid.org/experiences/subs/exp_Diphenhydramine.shtml"
-    },
-    "name": "dph",
-    "pretty_name": "DPH",
-    "properties": {
-      "after-effects": "1-12 hours.",
-      "aliases": [
-        "diphenhydramine",
-        "benadryl"
-      ],
-      "avoid": "Many oral diphenhydramine preparations contain analgesics such as acetaminophen/paracetamol or aspirin, which can be toxic to the liver in high doses.",
-      "categories": [
-        "depressant",
-        "deliriant",
-        "common"
-      ],
-      "dose": "Oral Light: 100-250mg Common: 200-500mg Strong: 450-700mg NOTE: The doses provided are for recreational usage. For use as a sleep aid the dose ranges from 25-75mg, or as specified on the product packaging. For medical allergy use doses tend to range from 25-50mg, or as specified on the product packaging.",
-      "duration": "6-8 hours",
-      "effects": "Delirium, dream-like experiences, paranoia, visual and audio distortions, dry mouth, muscle cramps, nausea, dysphoria, tremors. Often described as a pretty negative experience.",
-      "onset": "60-120 minutes",
-      "summary": "An antihistamine which, when taken in smaller doses relieves allergies and insomnia. In larger doses works as a deliriant and can actually keep the user awake. Generally the 'high' of this drug is reported as dysphoric, potentially causing hallucinations indistinguishable from reality."
-    },
-    "pweffects": {
-      "Abnormal heartbeat": "https://psychonautwiki.org/wiki/Abnormal_heartbeat",
-      "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
-      "After images": "https://psychonautwiki.org/wiki/After_images",
-      "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
-      "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
-      "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
-      "Auditory suppression": "https://psychonautwiki.org/wiki/Auditory_suppression",
-      "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
-      "Brightness alteration": "https://psychonautwiki.org/wiki/Brightness_alteration",
-      "Cognitive dysphoria": "https://psychonautwiki.org/wiki/Cognitive_dysphoria",
-      "Dehydration": "https://psychonautwiki.org/wiki/Dehydration",
-      "Depression": "https://psychonautwiki.org/wiki/Depression",
-      "Difficulty urinating": "https://psychonautwiki.org/wiki/Difficulty_urinating",
-      "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
-      "Double vision": "https://psychonautwiki.org/wiki/Double_vision",
-      "Dream potentiation": "https://psychonautwiki.org/wiki/Dream_potentiation",
-      "Drifting": "https://psychonautwiki.org/wiki/Drifting",
-      "Emotion suppression": "https://psychonautwiki.org/wiki/Emotion_suppression",
-      "External hallucinations": "https://psychonautwiki.org/wiki/External_hallucinations",
-      "Feelings of impending doom": "https://psychonautwiki.org/wiki/Feelings_of_impending_doom",
-      "Frequent urination": "https://psychonautwiki.org/wiki/Frequent_urination",
-      "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
-      "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
-      "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
-      "Language suppression": "https://psychonautwiki.org/wiki/Language_suppression",
-      "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
-      "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
-      "Muscle cramps": "https://psychonautwiki.org/wiki/Muscle_cramps",
-      "Muscle spasms": "https://psychonautwiki.org/wiki/Muscle_spasms",
-      "Nausea": "https://psychonautwiki.org/wiki/Nausea",
-      "Paranoia": "https://psychonautwiki.org/wiki/Paranoia",
-      "Pattern recognition suppression": "https://psychonautwiki.org/wiki/Pattern_recognition_suppression",
-      "Peripheral information misinterpretation": "https://psychonautwiki.org/wiki/Peripheral_information_misinterpretation",
-      "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
-      "Photophobia": "https://psychonautwiki.org/wiki/Photophobia",
-      "Physical fatigue": "https://psychonautwiki.org/wiki/Physical_fatigue",
-      "Psychosis": "https://psychonautwiki.org/wiki/Psychosis",
-      "Restless leg syndrome": "https://psychonautwiki.org/wiki/Restless_leg_syndrome",
-      "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
-      "Sedation": "https://psychonautwiki.org/wiki/Sedation",
-      "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
-      "Shadow people": "https://psychonautwiki.org/wiki/Shadow_people",
-      "Tactile hallucinations": "https://psychonautwiki.org/wiki/Tactile_hallucinations",
-      "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
-      "Thought disorganization": "https://psychonautwiki.org/wiki/Thought_disorganization",
-      "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
-      "Unspeakable horrors": "https://psychonautwiki.org/wiki/Unspeakable_horrors",
-      "Vibrating vision": "https://psychonautwiki.org/wiki/Vibrating_vision",
-      "Visual haze": "https://psychonautwiki.org/wiki/Visual_haze"
-    },
-    "sources": {
-      "_general": [
-        "Dose-dependent toxicity of diphenhydramine overdose - http://www.ncbi.nlm.nih.gov/pubmed/11204550"
-      ]
     }
   },
   "dpt": {
@@ -20931,6 +20961,34 @@
       "habit-forming",
       "common"
     ],
+    "combos": {
+      "diphenhydramine": {
+        "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
+        "sources": [
+          {
+            "author": "William J Tharion, Donna J. McMenemy, Terry M. Rauch",
+            "title": "Antihistamine Effects on the Central Nervous System, Cognitive Performance and Subjective States. ",
+            "url": "https://doi.org/10.1159/000119069"
+          },
+          {
+            "author": "Sicari V, Zabbo CP. Diphenhydramine.",
+            "title": "Diphenhydramine",
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK526010/"
+          },
+          {
+            "author": "Couper FJ, Marinetti LJ.",
+            "title": "γ-Hydroxybutyrate (GHB) - Effects on Human Performance and Behavior ",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26256488/"
+          },
+          {
+            "author": "Busardò FP, Jones AW.",
+            "title": "GHB Pharmacology and Toxicology: Acute Intoxication, Concentrations in Blood and Urine in Forensic Cases and Treatment of the Withdrawal Syndrome",
+            "url": "https://doi.org/10.2174%2F1570159X13666141210215423"
+          }
+        ],
+        "status": "Dangerous"
+      }
+    },
     "dose_note": " NOTE: Tends to induce heavy sedation from about the 3g mark.",
     "formatted_aftereffects": {
       "_unit": "hours",
