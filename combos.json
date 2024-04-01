@@ -359,7 +359,29 @@
       "status": "Low Risk & Synergy"
     },
     "cocaine": {
-      "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also allow you to drink past a point where you might normally pass out, increasing the risk. If you do decide to do this then you should set a limit of how much you will drink each hour and stick to it, bearing in mind that you will feel the alcohol less. Cocaine is potentiated somewhat by alcohol because of the formation of cocaethylene.",
+      "note": "The combination of cocaine and alcohol produces cocaethylene as a metabolite, which may be more cardiotoxic than cocaine or alcohol alone. Some studies indicate that cocaine + alcohol is more dangerous than either drug on its own. Use caution if combining these substances.",
+      "sources": [
+        {
+          "author": "McCance-Katz, E. F., Kosten, T. R., & Jatlow, P. ",
+          "title": "Concurrent use of cocaine and alcohol is more potent and potentially more toxic than use of either alone—A multiple-dose study.",
+          "url": "https://doi.org/10.1016/S0006-3223(97)00426-5"
+        },
+        {
+          "author": "Pergolizzi, J., Breve, F., Magnusson, P., LeQuang, J. A. K., & Varrassi, G.",
+          "title": "Cocaethylene: When cocaine and alcohol are taken together.  (2022)",
+          "url": "https://doi.org/10.7759/cureus.22498"
+        },
+        {
+          "author": "Shastry, S., Manoochehri, O., Richardson, L. D., & Manini, A. F. ",
+          "title": "Cocaethylene cardiotoxicity in emergency department patients with acute drug overdose.",
+          "url": "https://doi.org/10.1111/acem.14584"
+        },
+        {
+          "author": "Wiener, S. E., Sutijono, D., Moon, C. H., Subramanian, R. A., Calaycay, J., Rushbrook, J. I., & Zehtabchi, S.",
+          "title": "Patients with detectable cocaethylene are more likely to require intensive care unit admission after trauma. ",
+          "url": "https://doi.org/10.1016/j.ajem.2009.06.014"
+        }
+      ],
       "status": "Unsafe"
     },
     "dextromethorphan": {
@@ -940,6 +962,28 @@
     },
     "alcohol": {
       "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also allow you to drink past a point where you might normally pass out, increasing the risk. If you do decide to do this then you should set a limit of how much you will drink each hour and stick to it, bearing in mind that you will feel the alcohol less. Cocaine is potentiated somewhat by alcohol because of the formation of cocaethylene.",
+      "sources": [
+        {
+          "author": "McCance-Katz, E. F., Kosten, T. R., & Jatlow, P. ",
+          "title": "Concurrent use of cocaine and alcohol is more potent and potentially more toxic than use of either alone—A multiple-dose study.",
+          "url": "https://doi.org/10.1016/S0006-3223(97)00426-5"
+        },
+        {
+          "author": "Pergolizzi, J., Breve, F., Magnusson, P., LeQuang, J. A. K., & Varrassi, G.",
+          "title": "Cocaethylene: When cocaine and alcohol are taken together.  (2022)",
+          "url": "https://doi.org/10.7759/cureus.22498"
+        },
+        {
+          "author": "Shastry, S., Manoochehri, O., Richardson, L. D., & Manini, A. F. ",
+          "title": "Cocaethylene cardiotoxicity in emergency department patients with acute drug overdose.",
+          "url": "https://doi.org/10.1111/acem.14584"
+        },
+        {
+          "author": "Wiener, S. E., Sutijono, D., Moon, C. H., Subramanian, R. A., Calaycay, J., Rushbrook, J. I., & Zehtabchi, S.",
+          "title": "Patients with detectable cocaethylene are more likely to require intensive care unit admission after trauma. ",
+          "url": "https://doi.org/10.1016/j.ajem.2009.06.014"
+        }
+      ],
       "status": "Unsafe"
     },
     "amphetamines": {
@@ -1025,34 +1069,6 @@
     },
     "tramadol": {
       "note": "Tramadol and stimulants both increase the risk of seizures.",
-      "status": "Dangerous"
-    }
-  },
-  "diphenhydramine": {
-    "ghb/gbl": {
-      "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
-      "sources": [
-        {
-          "author": "William J Tharion, Donna J. McMenemy, Terry M. Rauch",
-          "title": "Antihistamine Effects on the Central Nervous System, Cognitive Performance and Subjective States. ",
-          "url": "https://doi.org/10.1159/000119069"
-        },
-        {
-          "author": "Sicari V, Zabbo CP. Diphenhydramine.",
-          "title": "Diphenhydramine",
-          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526010/"
-        },
-        {
-          "author": "Couper FJ, Marinetti LJ.",
-          "title": "γ-Hydroxybutyrate (GHB) - Effects on Human Performance and Behavior ",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/26256488/"
-        },
-        {
-          "author": "Busardò FP, Jones AW.",
-          "title": "GHB Pharmacology and Toxicology: Acute Intoxication, Concentrations in Blood and Urine in Forensic Cases and Treatment of the Withdrawal Syndrome",
-          "url": "https://doi.org/10.2174%2F1570159X13666141210215423"
-        }
-      ],
       "status": "Dangerous"
     }
   },
@@ -1263,6 +1279,34 @@
       "status": "Dangerous"
     },
     "tramadol": {
+      "status": "Dangerous"
+    }
+  },
+  "diphenhydramine": {
+    "ghb/gbl": {
+      "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
+      "sources": [
+        {
+          "author": "William J Tharion, Donna J. McMenemy, Terry M. Rauch",
+          "title": "Antihistamine Effects on the Central Nervous System, Cognitive Performance and Subjective States. ",
+          "url": "https://doi.org/10.1159/000119069"
+        },
+        {
+          "author": "Sicari V, Zabbo CP. Diphenhydramine.",
+          "title": "Diphenhydramine",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526010/"
+        },
+        {
+          "author": "Couper FJ, Marinetti LJ.",
+          "title": "γ-Hydroxybutyrate (GHB) - Effects on Human Performance and Behavior ",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26256488/"
+        },
+        {
+          "author": "Busardò FP, Jones AW.",
+          "title": "GHB Pharmacology and Toxicology: Acute Intoxication, Concentrations in Blood and Urine in Forensic Cases and Treatment of the Withdrawal Syndrome",
+          "url": "https://doi.org/10.2174%2F1570159X13666141210215423"
+        }
+      ],
       "status": "Dangerous"
     }
   },
@@ -2171,14 +2215,14 @@
       "status": "Low Risk & Synergy"
     },
     "nbomes": {
-      "status": "Low Risk & Synergy",
       "sources": [
         {
           "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
           "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. Academic Forensic Pathology",
           "url": "https://doi.org/10.23907/2015.009"
         }
-      ]
+      ],
+      "status": "Low Risk & Synergy"
     },
     "nitrous": {
       "status": "Low Risk & Synergy"
@@ -2892,14 +2936,14 @@
       "status": "Dangerous"
     },
     "lsd": {
-      "status": "Low Risk & Synergy",
       "sources": [
         {
           "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
           "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. Academic Forensic Pathology",
           "url": "https://doi.org/10.23907/2015.009"
         }
-      ]
+      ],
+      "status": "Low Risk & Synergy"
     },
     "maois": {
       "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably",
