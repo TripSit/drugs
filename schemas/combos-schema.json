@@ -36,13 +36,16 @@
                 "cocaine": {
                     "$ref": "#/definitions/Interactions"
                 },
+                "dextromethorphan": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "diphenhydramine": {
+                    "$ref": "#/definitions/Interactions"
+                },
                 "dmt": {
                     "$ref": "#/definitions/Interactions"
                 },
                 "dox": {
-                    "$ref": "#/definitions/Interactions"
-                },
-                "dxm": {
                     "$ref": "#/definitions/Interactions"
                 },
                 "ghb/gbl": {
@@ -61,6 +64,9 @@
                     "$ref": "#/definitions/Interactions"
                 },
                 "mdma": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "mephedrone": {
                     "$ref": "#/definitions/Interactions"
                 },
                 "mescaline": {
@@ -102,15 +108,17 @@
                 "caffeine",
                 "cannabis",
                 "cocaine",
+                "dextromethorphan",
+                "diphenhydramine",
                 "dmt",
                 "dox",
-                "dxm",
                 "ghb/gbl",
                 "ketamine",
                 "lithium",
                 "lsd",
                 "maois",
                 "mdma",
+                "mephedrone",
                 "mescaline",
                 "mushrooms",
                 "mxe",
@@ -157,13 +165,16 @@
                 "cocaine": {
                     "$ref": "#/definitions/ComboData"
                 },
+                "dextromethorphan": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "diphenhydramine": {
+                    "$ref": "#/definitions/ComboData"
+                },
                 "dmt": {
                     "$ref": "#/definitions/ComboData"
                 },
                 "dox": {
-                    "$ref": "#/definitions/ComboData"
-                },
-                "dxm": {
                     "$ref": "#/definitions/ComboData"
                 },
                 "ghb/gbl": {
@@ -182,6 +193,9 @@
                     "$ref": "#/definitions/ComboData"
                 },
                 "mdma": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "mephedrone": {
                     "$ref": "#/definitions/ComboData"
                 },
                 "mescaline": {
