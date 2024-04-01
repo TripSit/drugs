@@ -10979,7 +10979,7 @@
         "status": "Low Risk & Synergy"
       },
       "cocaine": {
-        "note": "The combination of cocaine and alcohol produces cocaethylene as a metabolite, which may be more cardiotoxic than cocaine or alcohol alone. Some studies indicate that cocaine + alcohol is more dangerous than either drug on its own. Use caution if combining these substances.",
+        "note": "Cocaine can decrease some of the intoxicating effects of alcohol, causing some people to drink more than they otherwise would, which leads to greater behavioral and physical health risks. There is also some debate about cocaethylene, a metabolite produced when combining alcohol and cocaine, with some researchers positing that it is more cardiotoxic than cocaine on its own. Use moderation when combining these substances.",
         "sources": [
           {
             "author": "McCance-Katz, E. F., Kosten, T. R., & Jatlow, P. ",
@@ -15260,7 +15260,7 @@
         "status": "Unsafe"
       },
       "alcohol": {
-        "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also allow you to drink past a point where you might normally pass out, increasing the risk. If you do decide to do this then you should set a limit of how much you will drink each hour and stick to it, bearing in mind that you will feel the alcohol less. Cocaine is potentiated somewhat by alcohol because of the formation of cocaethylene.",
+        "note": "Cocaine can decrease some of the intoxicating effects of alcohol, causing some people to drink more than they otherwise would, which leads to greater behavioral and physical health risks. There is also some debate about cocaethylene, a metabolite produced when combining alcohol and cocaine, with some researchers positing that it is more cardiotoxic than cocaine on its own. Use moderation when combining these substances.",
         "sources": [
           {
             "author": "McCance-Katz, E. F., Kosten, T. R., & Jatlow, P. ",
@@ -15283,7 +15283,7 @@
             "url": "https://doi.org/10.1016/j.ajem.2009.06.014"
           }
         ],
-        "status": "Unsafe"
+        "status": "Caution"
       },
       "amphetamines": {
         "note": "This combination of stimulants will increase strain on the heart. It is not generally worth it as cocaine has a mild blocking effect on dopamine releasers like amphetamine",
