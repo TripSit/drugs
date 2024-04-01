@@ -92,7 +92,7 @@
     "mescaline": {
       "status": "Caution"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & Synergy"
     },
     "mxe": {
@@ -210,7 +210,7 @@
     "mescaline": {
       "status": "Caution"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & Synergy"
     },
     "mxe": {
@@ -301,7 +301,7 @@
       "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions",
       "status": "Caution"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & Synergy"
     },
     "mxe": {
@@ -395,7 +395,7 @@
     "mescaline": {
       "status": "Low Risk & Decrease"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & Decrease"
     },
     "mxe": {
@@ -515,7 +515,7 @@
       "note": "The focus and anxiety caused by stimulants is magnified by psychedelics and results in an increased risk of thought loops",
       "status": "Caution"
     },
-    "mushrooms": {
+    "psilocybin": {
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
     },
@@ -605,7 +605,7 @@
     "mescaline": {
       "status": "Dangerous"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & Synergy"
     },
     "mxe": {
@@ -691,7 +691,7 @@
     "mescaline": {
       "status": "Low Risk & Decrease"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & Decrease"
     },
     "mxe": {
@@ -803,7 +803,7 @@
       "note": "High doses of caffeine are uncomfortable and this will be magnified by psychedelics",
       "status": "Low Risk & No Synergy"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & No Synergy"
     },
     "mxe": {
@@ -898,7 +898,7 @@
       "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
       "status": "Caution"
     },
-    "mushrooms": {
+    "psilocybin": {
       "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
       "status": "Caution"
     },
@@ -996,7 +996,7 @@
       "note": "The focus and anxiety caused by stimulants is magnified by psychedelics and results in an increased risk of thought loops",
       "status": "Caution"
     },
-    "mushrooms": {
+    "psilocybin": {
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
     },
@@ -1211,7 +1211,7 @@
     "mescaline": {
       "status": "Low Risk & Synergy"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & Synergy"
     },
     "mxe": {
@@ -1355,7 +1355,7 @@
     "mescaline": {
       "status": "Low Risk & Synergy"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & Synergy"
     },
     "mxe": {
@@ -1477,7 +1477,7 @@
     "mescaline": {
       "status": "Caution"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & Synergy"
     },
     "mxe": {
@@ -1594,7 +1594,7 @@
     "mescaline": {
       "status": "Low Risk & Decrease"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & Decrease"
     },
     "mxe": {
@@ -1721,7 +1721,7 @@
     "mescaline": {
       "status": "Low Risk & Synergy"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & Synergy"
     },
     "mxe": {
@@ -1960,7 +1960,7 @@
       ],
       "status": "Dangerous"
     },
-    "mushrooms": {
+    "psilocybin": {
       "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
       "sources": [
         {
@@ -2164,7 +2164,7 @@
     "mescaline": {
       "status": "Low Risk & Synergy"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & Synergy"
     },
     "mxe": {
@@ -2262,7 +2262,7 @@
     "mescaline": {
       "status": "Caution"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & Synergy"
     },
     "mxe": {
@@ -2399,7 +2399,7 @@
     "mescaline": {
       "status": "Low Risk & Synergy"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & Synergy"
     },
     "mxe": {
@@ -2561,7 +2561,7 @@
     "mdma": {
       "status": "Low Risk & Synergy"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & Synergy"
     },
     "mxe": {
@@ -2587,7 +2587,7 @@
       "status": "Unsafe"
     }
   },
-  "mushrooms": {
+  "psilocybin": {
     "2c-t-x": {
       "status": "Low Risk & Synergy"
     },
@@ -2783,7 +2783,7 @@
     "mescaline": {
       "status": "Low Risk & Synergy"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & Synergy"
     },
     "nbomes": {
@@ -2911,7 +2911,7 @@
     "mescaline": {
       "status": "Caution"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & Synergy"
     },
     "mxe": {
@@ -3006,7 +3006,7 @@
     "mescaline": {
       "status": "Low Risk & Synergy"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & Synergy"
     },
     "mxe": {
@@ -3099,7 +3099,7 @@
     "mescaline": {
       "status": "Low Risk & No Synergy"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & No Synergy"
     },
     "mxe": {
@@ -3193,7 +3193,7 @@
     "mescaline": {
       "status": "Low Risk & Synergy"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & Synergy"
     },
     "mxe": {
@@ -3279,7 +3279,7 @@
     "mescaline": {
       "status": "Low Risk & Decrease"
     },
-    "mushrooms": {
+    "psilocybin": {
       "status": "Low Risk & Decrease"
     },
     "mxe": {
@@ -3414,7 +3414,7 @@
       "note": "This combination can cause seizures due to the lowering of the threshold by tramadol and the potential of mescaline to cause seziures.",
       "status": "Unsafe"
     },
-    "mushrooms": {
+    "psilocybin": {
       "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
       "status": "Unsafe"
     },

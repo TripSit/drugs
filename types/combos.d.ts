@@ -21,7 +21,7 @@ export interface Combos {
   mdma:             Interactions;
   mephedrone:       Interactions;
   mescaline:        Interactions;
-  mushrooms:        Interactions;
+  psilocybin:       Interactions;
   mxe:              Interactions;
   nbomes:           Interactions;
   nitrous:          Interactions;
@@ -55,7 +55,7 @@ export interface Interactions {
   mdma?:             ComboData;
   mephedrone?:       ComboData;
   mescaline?:        ComboData;
-  mushrooms?:        ComboData;
+  psilocybin?:       ComboData;
   mxe?:              ComboData;
   nbomes?:           ComboData;
   nitrous?:          ComboData;

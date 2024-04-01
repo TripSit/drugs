@@ -72,7 +72,7 @@
                 "mescaline": {
                     "$ref": "#/definitions/Interactions"
                 },
-                "mushrooms": {
+                "psilocybin": {
                     "$ref": "#/definitions/Interactions"
                 },
                 "mxe": {
@@ -120,7 +120,7 @@
                 "mdma",
                 "mephedrone",
                 "mescaline",
-                "mushrooms",
+                "psilocybin",
                 "mxe",
                 "nbomes",
                 "nitrous",
@@ -201,7 +201,7 @@
                 "mescaline": {
                     "$ref": "#/definitions/ComboData"
                 },
-                "mushrooms": {
+                "psilocybin": {
                     "$ref": "#/definitions/ComboData"
                 },
                 "mxe": {
