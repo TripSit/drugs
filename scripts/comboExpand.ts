@@ -5,8 +5,8 @@ These drugs are not present in the drugs.json file, so we need to expand and add
 
 import fs from 'fs/promises';
 import path from 'path';
-import { Category, Combo, Drug } from '../types/drugs';
-import { ComboData, Combos, Interactions } from '../types/combos';
+import { Category, Drug } from '../types/drugs';
+import { Combos, Interactions } from '../types/combos';
 import drugsData from '../drugs.json';
 import combosData from '../combos.json';
 import { log } from 'console';
@@ -15,24 +15,16 @@ import { log } from 'console';
 const drugData = drugsData as {[key: string]: Drug};
 const comboData = combosData as {[key in keyof Combos]: Interactions};
 
-const slangDrugs: (keyof Combos)[]  = [
-  'mxe',
-  'amt',
-  'dmt',
-  'lsd',
-  'mushrooms',
-  'mdma',
-  'pcp',
-]
-
 export default async function compareData() {
   console.log(`Drugs ${Object.keys(drugData).length}`);
   console.log(`Combo ${Object.keys(combosData).length}`);
 
+  let drugList:string[] = []; 
+  let modifiedList:[string,string][] = []; 
+
   Object.entries(comboData).forEach(async ([comboKey, comboEntry]) => {
     const drugAName = comboKey as keyof Combos;
 
-    let drugList:string[] = []; 
 
     /* If you're not familiar, a switch statement is like a series of if/else statements that checks a single value 
     against a list of possible values. It's a bit more readable than a series of if/else statements. 
@@ -44,6 +36,7 @@ export default async function compareData() {
     Note, if you don't include a break statement, the code will continue to execute the next case. This is useful if you
     have multiple cases that should do the same thing, such as the "wildcard" drugs at the top of the switch statement.
     */
+
     switch (drugAName) {
       // Wildcard drugs first
       case '2c-t-x':
@@ -102,7 +95,8 @@ export default async function compareData() {
         wildcardMap[drugAName].forEach((drugName) => {
           if (drugData[drugName]) {
             drugData[drugName].combos = comboEntry
-            log(`~ ${drugName} = ${drugAName}`)
+            // log(`~ ${drugName} = ${drugAName}`)
+            modifiedList.push([drugName, drugAName]);
           } else {
             console.log(`Drug ${drugName} not found`);
           }
@@ -123,7 +117,8 @@ export default async function compareData() {
         Object.entries(drugData).forEach(([drugName, drugEntry]) => {
           if (drugEntry.categories?.includes(categoryMap[drugAName])) {
             drugData[drugName].combos = comboEntry;
-            log(`~ ${drugName} = ${categoryMap[drugAName]}`)
+            // log(`~ ${drugName} = ${categoryMap[drugAName]}`)
+            modifiedList.push([drugName, categoryMap[drugAName]]);
           }
         });
         break;
@@ -137,7 +132,6 @@ export default async function compareData() {
             This is also not accurate, as there are many amphetamines that do not have 'amphetamine' in the name
             However, it's a good start
         If either of these are true, we add the combo data
-        TODO: THIS REALLY NEEDS REVIEW
         */
 
         Object.entries(drugData).forEach(([drugName, drugEntry]) => {
@@ -148,7 +142,8 @@ export default async function compareData() {
           // }
           if (drugName.toLowerCase().includes('amphetamine')) {
             drugData[drugName].combos = comboEntry;
-            log(`~ ${drugName} = ${drugAName}`)
+            // log(`~ ${drugName} = ${drugAName}`)
+            modifiedList.push([drugName, drugAName]);
           }
         });
         break;
@@ -158,7 +153,8 @@ export default async function compareData() {
         Object.entries(drugData).forEach(([drugName, drugEntry]) => {
           if (drugName.toLowerCase().includes('nbome')) {
             drugData[drugName].combos = comboEntry;
-            log(`~ ${drugName} = ${drugAName}`)
+            // log(`~ ${drugName} = ${drugAName}`)
+            modifiedList.push([drugName, drugAName]);
           }
         });
         break;
@@ -168,7 +164,8 @@ export default async function compareData() {
         Object.entries(drugData).forEach(([drugName, drugEntry]) => {
           if (drugName.toLowerCase().includes('ghb') || drugName.toLowerCase().includes('gbl')) {
             drugData[drugName].combos = comboEntry;
-            log(`~ ${drugName} = ${drugAName}`)
+            // log(`~ ${drugName} = ${drugAName}`)
+            modifiedList.push([drugName, drugAName]);
           }
         });
         break;
@@ -177,10 +174,18 @@ export default async function compareData() {
         break;
       default:
         // 'alcohol', 'caffeine', 'cannabis', 'cocaine', 'diphenhydramine', 'dextromethorphan', 'ketamine', 'lithium', 'mephedrone', 'mescaline', 'nitrous', 'tramadol'
-        log(`? ${drugAName}`)
+        // log(`? ${drugAName}`)
+        drugList.push(drugAName);
         break;
     }
   });
+
+  log(`Ignored List: ${drugList.join(', ')}`)
+
+  // Create a string for each drug that was modified, with equal columns for the drug name and the combo name
+  const longestDrugName = modifiedList.reduce((longest, [drugName]) => drugName.length > longest ? drugName.length : longest, 0);
+  const modifiedString = modifiedList.map(([drugName, comboName]) => `~ ${drugName.padEnd(longestDrugName)} = ${comboName}`).join('\n');
+  log(modifiedString);
 
   await fs.writeFile(path.resolve(__dirname, '../drugs.json'), JSON.stringify(drugData, null, 2));
 }
