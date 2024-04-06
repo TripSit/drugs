@@ -13,7 +13,7 @@ export type Drug = {
   pweffects?: { [key: string]: string };
   dose_note?: string;
   sources?: Sources;
-  combos?: { [key: string]: Combo };
+  combos?: Interactions;
 };
 
 export enum Category {
@@ -140,6 +140,39 @@ export type Properties = {
   "general-advice"?: string;
   potentiators?: string;
 };
+
+export interface Interactions {
+  "2c-t-x"?:         ComboData;
+  "2c-x"?:           ComboData;
+  "5-meo-xxt"?:      ComboData;
+  alcohol?:          ComboData;
+  amphetamines?:     ComboData;
+  amt?:              ComboData;
+  benzodiazepines?:  ComboData;
+  caffeine?:         ComboData;
+  cannabis?:         ComboData;
+  cocaine?:          ComboData;
+  diphenhydramine?:  ComboData;
+  dextromethorphan?: ComboData;
+  dmt?:              ComboData;
+  dox?:              ComboData;
+  "ghb/gbl"?:        ComboData;
+  lithium?:          ComboData;
+  ketamine?:         ComboData;
+  lsd?:              ComboData;
+  maois?:            ComboData;
+  mdma?:             ComboData;
+  mephedrone?:       ComboData;
+  mescaline?:        ComboData;
+  mushrooms?:        ComboData;
+  mxe?:              ComboData;
+  nbomes?:           ComboData;
+  nitrous?:          ComboData;
+  opioids?:          ComboData;
+  pcp?:              ComboData;
+  ssris?:            ComboData;
+  tramadol?:         ComboData;
+}
 
 export type Combo = {
   note?: string;

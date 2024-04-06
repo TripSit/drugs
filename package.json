@@ -4,7 +4,8 @@
   "description": "TripSit's Drug Database",
   "main": "index.ts",
   "scripts": {
-    "compare": "ts-node ./scripts/compareData.ts"
+    "combosToDrugs": "ts-node ./scripts/combosToDrugs.ts",
+    "comboExpand": "ts-node ./scripts/comboExpand.ts"
   },
   "repository": {
     "type": "git",
