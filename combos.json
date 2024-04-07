@@ -716,7 +716,7 @@
       "status": "Low Risk & No Synergy"
     },
     "tramadol": {
-      "note": "Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present. Vomit aspiration a risk when passed out, lay down in recovery position if ingested.",
+      "note": "Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present. Vomit aspiration is a risk when passed out, lay down in recovery position if ingested.",
       "status": "Dangerous"
     }
   },
@@ -1028,34 +1028,6 @@
       "status": "Dangerous"
     }
   },
-  "diphenhydramine": {
-    "ghb/gbl": {
-      "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
-      "sources": [
-        {
-          "author": "William J Tharion, Donna J. McMenemy, Terry M. Rauch",
-          "title": "Antihistamine Effects on the Central Nervous System, Cognitive Performance and Subjective States. ",
-          "url": "https://doi.org/10.1159/000119069"
-        },
-        {
-          "author": "Sicari V, Zabbo CP. Diphenhydramine.",
-          "title": "Diphenhydramine",
-          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526010/"
-        },
-        {
-          "author": "Couper FJ, Marinetti LJ.",
-          "title": "γ-Hydroxybutyrate (GHB) - Effects on Human Performance and Behavior ",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/26256488/"
-        },
-        {
-          "author": "Busardò FP, Jones AW.",
-          "title": "GHB Pharmacology and Toxicology: Acute Intoxication, Concentrations in Blood and Urine in Forensic Cases and Treatment of the Withdrawal Syndrome",
-          "url": "https://doi.org/10.2174%2F1570159X13666141210215423"
-        }
-      ],
-      "status": "Dangerous"
-    }
-  },
   "dextromethorphan": {
     "2c-t-x": {
       "status": "Unsafe"
@@ -1263,6 +1235,34 @@
       "status": "Dangerous"
     },
     "tramadol": {
+      "status": "Dangerous"
+    }
+  },
+  "diphenhydramine": {
+    "ghb/gbl": {
+      "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
+      "sources": [
+        {
+          "author": "William J Tharion, Donna J. McMenemy, Terry M. Rauch",
+          "title": "Antihistamine Effects on the Central Nervous System, Cognitive Performance and Subjective States. ",
+          "url": "https://doi.org/10.1159/000119069"
+        },
+        {
+          "author": "Sicari V, Zabbo CP. Diphenhydramine.",
+          "title": "Diphenhydramine",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526010/"
+        },
+        {
+          "author": "Couper FJ, Marinetti LJ.",
+          "title": "γ-Hydroxybutyrate (GHB) - Effects on Human Performance and Behavior ",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26256488/"
+        },
+        {
+          "author": "Busardò FP, Jones AW.",
+          "title": "GHB Pharmacology and Toxicology: Acute Intoxication, Concentrations in Blood and Urine in Forensic Cases and Treatment of the Withdrawal Syndrome",
+          "url": "https://doi.org/10.2174%2F1570159X13666141210215423"
+        }
+      ],
       "status": "Dangerous"
     }
   },
@@ -1538,7 +1538,7 @@
       "status": "Low Risk & Synergy"
     },
     "cocaine": {
-      "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If the stimulant wears off first then the opiate may overcome the individual and cause respiratory arrest. Likewise the ghb/gbl can wear off and leave a dangerous concentration of cocaine behind",
+      "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If the stimulant wears off first the opiate may overcome the individual and cause respiratory arrest. Likewise the ghb/gbl can wear off and leave a dangerous concentration of cocaine behind",
       "status": "Caution"
     },
     "dextromethorphan": {
@@ -2018,6 +2018,11 @@
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
           "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+        },
+        {
+          "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
+          "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. (2015)",
+          "url": "https://doi.org/10.23907/2015.009"
         }
       ],
       "status": "Dangerous"
@@ -2171,14 +2176,14 @@
       "status": "Low Risk & Synergy"
     },
     "nbomes": {
-      "status": "Low Risk & Synergy",
       "sources": [
         {
           "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
           "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. Academic Forensic Pathology",
           "url": "https://doi.org/10.23907/2015.009"
         }
-      ]
+      ],
+      "status": "Low Risk & Synergy"
     },
     "nitrous": {
       "status": "Low Risk & Synergy"
@@ -2334,7 +2339,7 @@
       "status": "Low Risk & Decrease"
     },
     "caffeine": {
-      "note": "Caffeine increases side effects and increases any neurotoxic effects from MDMA",
+      "note": "Caffiene is not really necessary with MDMA and increases any neurotoxic effects from MDMA",
       "status": "Caution"
     },
     "cannabis": {
@@ -2740,17 +2745,32 @@
       "status": "Caution"
     },
     "dextromethorphan": {
-      "note": "There is a risk of serotonin syndrome when combining DXM with MXE, as DXM can induce serotonin syndrome in conjunction with other serotonin reuptake inhibitors, and MXE has shown a notable affinity for the serotonin transporter.",
+      "note": "There is a risk of serotonin syndrome when combining DXM with MXE, due to DXM and MXE both being SRI’s. MXE and DXM having notable affinities for the serotonin transporter.",
       "sources": [
         {
-          "author": "Matteo Marti, Giuseppe Talani, Cristina Miliano, Sabrine Bilel, Francesca Biggio, Jessica Bratzu, Marco Diana,Maria Antonietta De Luca, Liana Fattore ",
+          "author": "Bryan L. Roth, Simon Gibbons, Warunya Arunotayanun, Xi-Ping Huang, Vincent Setola, Ric Treble, Les Iversen",
           "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor",
           "url": "https://doi.org/10.1371/journal.pone.0059334"
         },
         {
-          "author": "Bryan L. Roth, Simon Gibbons, Warunya Arunotayanun, Xi-Ping Huang, Vincent Setola, Ric Treble, Les Iversen",
+          "author": "Matteo Marti, Giuseppe Talani, Cristina Miliano, Sabrine Bilel, Francesca Biggio, Jessica Bratzu, Marco Diana, Maria Antonietta De Luca, Liana Fattore",
           "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat ",
-          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0014488621002442"
+          "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+        },
+        {
+          "author": "Laura Hondebrink, Emma E.J. Kasteel, Anke M. Tukker, Fiona M.J. Wijnolts, Anouk H.A. Verboven, Remco H.S. Westerink",
+          "title": "Neuropharmacological characterization of the new psychoactive substance methoxetamine",
+          "url": "https://doi.org/10.1016/j.neuropharm.2017.04.035"
+        },
+        {
+          "author": "Linda L. Werling, Ashleigh Keller, Julie G. Frank, Samer J. Nuwayhid",
+          "title": "A comparison of the binding profiles of dextromethorphan, memantine, fluoxetine and amitriptyline: Treatment of involuntary emotional expression disorder",
+          "url": "https://doi.org/10.1016/j.expneurol.2007.06.013"
+        },
+        {
+          "author": "Linda Nguyen, Kelan L. Thomas, Brandon P. Lucke-Wold, John Z. Cavendish, Molly S. Crowe, Rae R. Matsumoto",
+          "title": "Dextromethorphan: An update on its utility for neurological and neuropsychiatric disorders",
+          "url": "https://doi.org/10.1016/j.pharmthera.2016.01.016"
         }
       ],
       "status": "Unsafe"
@@ -2887,19 +2907,24 @@
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
           "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+        },
+        {
+          "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
+          "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. (2015)",
+          "url": "https://doi.org/10.23907/2015.009"
         }
       ],
       "status": "Dangerous"
     },
     "lsd": {
-      "status": "Low Risk & Synergy",
       "sources": [
         {
           "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
           "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. Academic Forensic Pathology",
           "url": "https://doi.org/10.23907/2015.009"
         }
-      ]
+      ],
+      "status": "Low Risk & Synergy"
     },
     "maois": {
       "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably",
