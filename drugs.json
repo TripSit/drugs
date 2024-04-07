@@ -16869,6 +16869,47 @@
       },
       "tramadol": {
         "status": "Dangerous"
+      },
+      "mephedrone": {
+        "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. In addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
+        "sources": [
+          {
+            "author": "J Kehr,  F Ichinose,  S Yoshitake,  M Goiny,  T Sievertsson,  F Nyberg,  T Yoshitake",
+            "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
+            "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+          },
+          {
+            "author": "Gregory C. Hadlock, Katy M. Webb, Lisa M. McFadden, Pei Wen Chu, Jonathan D. Ellis, Scott C. Allen, David M. Andrenyak, Paula L. Vieira-Brock, Christopher L. German, Kevin M. Conrad, Amanda J. Hoonakker, James W. Gibb, Diana G. Wilkins, Glen R. Hanson and Annette E. Fleckenstein",
+            "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse",
+            "url": "https://doi.org/10.1124/jpet.111.184119 "
+          },
+          {
+            "author": "Anna R. Schwartz, Anthony F. Pizon & Daniel E. Brooks",
+            "title": "Dextromethorphan-induced serotonin syndrome",
+            "url": "https://doi.org/10.1080/15563650701668625"
+          },
+          {
+            "author": "DrugBank",
+            "title": "Dextromethorphan",
+            "url": "https://go.drugbank.com/drugs/DB00514"
+          },
+          {
+            "author": "Henderson MG, Fuller RW",
+            "title": "Dextromethorphan antagonizes the acute depletion of brain serotonin by p-chloroamphetamine and H75/12 in rats",
+            "url": "https://doi.org/10.1016/0006-8993(92)91144-4"
+          },
+          {
+            "author": "Reissig CJ, Carter LP, Johnson MW, Mintzer MZ, Klinedinst MA, Griffiths RR",
+            "title": "High doses of dextromethorphan, an NMDA antagonist, produce effects similar to classic hallucinogens ",
+            "url": "https://doi.org/10.1007/s00213-012-2680-6"
+          },
+          {
+            "author": "Meng H, Cao J, Kang J, Ying X, Ji J, Reynolds W, Rampe D.",
+            "title": "Mephedrone, a new designer drug of abuse, produces acute hemodynamic effects in the rat ",
+            "url": "https://doi.org/10.1016/j.toxlet.2011.10.010"
+          }
+        ],
+        "status": "Dangerous"
       }
     },
     "dose_note": " NOTE: See http://dxm.tripsit.me for mg/lb doses, among other things. Deaths have been reported at 25mg/kg",
@@ -24613,7 +24654,7 @@
         "status": "Low Risk & Decrease"
       },
       "caffeine": {
-        "note": "Caffeine increases side effects and increases any neurotoxic effects from MDMA",
+        "note": "Caffiene is not really necessary with MDMA and increases any neurotoxic effects from MDMA",
         "status": "Caution"
       },
       "cannabis": {
@@ -25415,6 +25456,47 @@
     ],
     "combos": {
       "dxm": {
+        "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. In addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
+        "sources": [
+          {
+            "author": "J Kehr,  F Ichinose,  S Yoshitake,  M Goiny,  T Sievertsson,  F Nyberg,  T Yoshitake",
+            "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
+            "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+          },
+          {
+            "author": "Gregory C. Hadlock, Katy M. Webb, Lisa M. McFadden, Pei Wen Chu, Jonathan D. Ellis, Scott C. Allen, David M. Andrenyak, Paula L. Vieira-Brock, Christopher L. German, Kevin M. Conrad, Amanda J. Hoonakker, James W. Gibb, Diana G. Wilkins, Glen R. Hanson and Annette E. Fleckenstein",
+            "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse",
+            "url": "https://doi.org/10.1124/jpet.111.184119 "
+          },
+          {
+            "author": "Anna R. Schwartz, Anthony F. Pizon & Daniel E. Brooks",
+            "title": "Dextromethorphan-induced serotonin syndrome",
+            "url": "https://doi.org/10.1080/15563650701668625"
+          },
+          {
+            "author": "DrugBank",
+            "title": "Dextromethorphan",
+            "url": "https://go.drugbank.com/drugs/DB00514"
+          },
+          {
+            "author": "Henderson MG, Fuller RW",
+            "title": "Dextromethorphan antagonizes the acute depletion of brain serotonin by p-chloroamphetamine and H75/12 in rats",
+            "url": "https://doi.org/10.1016/0006-8993(92)91144-4"
+          },
+          {
+            "author": "Reissig CJ, Carter LP, Johnson MW, Mintzer MZ, Klinedinst MA, Griffiths RR",
+            "title": "High doses of dextromethorphan, an NMDA antagonist, produce effects similar to classic hallucinogens ",
+            "url": "https://doi.org/10.1007/s00213-012-2680-6"
+          },
+          {
+            "author": "Meng H, Cao J, Kang J, Ying X, Ji J, Reynolds W, Rampe D.",
+            "title": "Mephedrone, a new designer drug of abuse, produces acute hemodynamic effects in the rat ",
+            "url": "https://doi.org/10.1016/j.toxlet.2011.10.010"
+          }
+        ],
+        "status": "Dangerous"
+      },
+      "dextromethorphan": {
         "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. In addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
         "sources": [
           {
@@ -28169,17 +28251,32 @@
         "status": "Caution"
       },
       "dextromethorphan": {
-        "note": "There is a risk of serotonin syndrome when combining DXM with MXE, as DXM can induce serotonin syndrome in conjunction with other serotonin reuptake inhibitors, and MXE has shown a notable affinity for the serotonin transporter.",
+        "note": "There is a risk of serotonin syndrome when combining DXM with MXE, due to DXM and MXE both being SRI’s. MXE and DXM having notable affinities for the serotonin transporter.",
         "sources": [
           {
-            "author": "Matteo Marti, Giuseppe Talani, Cristina Miliano, Sabrine Bilel, Francesca Biggio, Jessica Bratzu, Marco Diana,Maria Antonietta De Luca, Liana Fattore ",
+            "author": "Bryan L. Roth, Simon Gibbons, Warunya Arunotayanun, Xi-Ping Huang, Vincent Setola, Ric Treble, Les Iversen",
             "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor",
             "url": "https://doi.org/10.1371/journal.pone.0059334"
           },
           {
-            "author": "Bryan L. Roth, Simon Gibbons, Warunya Arunotayanun, Xi-Ping Huang, Vincent Setola, Ric Treble, Les Iversen",
+            "author": "Matteo Marti, Giuseppe Talani, Cristina Miliano, Sabrine Bilel, Francesca Biggio, Jessica Bratzu, Marco Diana, Maria Antonietta De Luca, Liana Fattore",
             "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat ",
-            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0014488621002442"
+            "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+          },
+          {
+            "author": "Laura Hondebrink, Emma E.J. Kasteel, Anke M. Tukker, Fiona M.J. Wijnolts, Anouk H.A. Verboven, Remco H.S. Westerink",
+            "title": "Neuropharmacological characterization of the new psychoactive substance methoxetamine",
+            "url": "https://doi.org/10.1016/j.neuropharm.2017.04.035"
+          },
+          {
+            "author": "Linda L. Werling, Ashleigh Keller, Julie G. Frank, Samer J. Nuwayhid",
+            "title": "A comparison of the binding profiles of dextromethorphan, memantine, fluoxetine and amitriptyline: Treatment of involuntary emotional expression disorder",
+            "url": "https://doi.org/10.1016/j.expneurol.2007.06.013"
+          },
+          {
+            "author": "Linda Nguyen, Kelan L. Thomas, Brandon P. Lucke-Wold, John Z. Cavendish, Molly S. Crowe, Rae R. Matsumoto",
+            "title": "Dextromethorphan: An update on its utility for neurological and neuropsychiatric disorders",
+            "url": "https://doi.org/10.1016/j.pharmthera.2016.01.016"
           }
         ],
         "status": "Unsafe"
