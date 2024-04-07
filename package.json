@@ -5,7 +5,8 @@
   "main": "index.ts",
   "scripts": {
     "combosToDrugs": "ts-node ./scripts/combosToDrugs.ts",
-    "comboExpand": "ts-node ./scripts/comboExpand.ts"
+    "comboExpand": "ts-node ./scripts/comboExpand.ts",
+    "renameDrugs": "ts-node ./scripts/renameDrugs.ts"
   },
   "repository": {
     "type": "git",
