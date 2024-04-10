@@ -69,9 +69,39 @@
               },
               "combos": {
                   "type": "object",
-                  "additionalProperties": {
-                      "$ref": "#/definitions/Combo"
-                  }
+                  "properties": {
+                    "2c-t-x": { "$ref": "#/definitions/Combo" },
+                    "2c-x": { "$ref": "#/definitions/Combo" },
+                    "5-meo-xxt": { "$ref": "#/definitions/Combo" },
+                    "alcohol": { "$ref": "#/definitions/Combo" },
+                    "amphetamines": { "$ref": "#/definitions/Combo" },
+                    "amt": { "$ref": "#/definitions/Combo" },
+                    "benzodiazepines": { "$ref": "#/definitions/Combo" },
+                    "caffeine": { "$ref": "#/definitions/Combo" },
+                    "cannabis": { "$ref": "#/definitions/Combo" },
+                    "cocaine": { "$ref": "#/definitions/Combo" },
+                    "dextromethorphan": { "$ref": "#/definitions/Combo" },
+                    "diphenhydramine": { "$ref": "#/definitions/Combo" },
+                    "dmt": { "$ref": "#/definitions/Combo" },
+                    "dox": { "$ref": "#/definitions/Combo" },
+                    "ghb/gbl": { "$ref": "#/definitions/Combo" },
+                    "lithium": { "$ref": "#/definitions/Combo" },
+                    "ketamine": { "$ref": "#/definitions/Combo" },
+                    "lsd": { "$ref": "#/definitions/Combo" },
+                    "maois": { "$ref": "#/definitions/Combo" },
+                    "mdma": { "$ref": "#/definitions/Combo" },
+                    "mephedrone": { "$ref": "#/definitions/Combo" },
+                    "mescaline": { "$ref": "#/definitions/Combo" },
+                    "mushrooms": { "$ref": "#/definitions/Combo" },
+                    "mxe": { "$ref": "#/definitions/Combo" },
+                    "nbomes": { "$ref": "#/definitions/Combo" },
+                    "nitrous": { "$ref": "#/definitions/Combo" },
+                    "opioids": { "$ref": "#/definitions/Combo" },
+                    "pcp": { "$ref": "#/definitions/Combo" },
+                    "ssris": { "$ref": "#/definitions/Combo" },
+                    "tramadol": { "$ref": "#/definitions/Combo" }
+                  },
+                  "additionalProperties": false
               }
           },
           "required": [
