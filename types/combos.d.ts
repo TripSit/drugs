@@ -46,7 +46,6 @@ export interface Interactions {
   dextromethorphan?: ComboData;
   dmt?:              ComboData;
   dox?:              ComboData;
-  // dxm?:              ComboData;
   "ghb/gbl"?:        ComboData;
   lithium?:          ComboData;
   ketamine?:         ComboData;

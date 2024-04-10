@@ -10967,10 +10967,6 @@
         "note": "Ethanol ingestion may potentiate the CNS effects of many benzodiazepines. The two substances potentiate each other strongly and unpredictably, very rapidly leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Blacking out and memory loss is almost certain.",
         "status": "Dangerous"
       },
-      "benzos": {
-        "note": "Ethanol ingestion may potentiate the CNS effects of many benzodiazepines. The two substances potentiate each other strongly and unpredictably, very rapidly leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Blacking out and memory loss is almost certain.",
-        "status": "Dangerous"
-      },
       "caffeine": {
         "status": "Low Risk & No Synergy"
       },
@@ -12081,9 +12077,6 @@
         "status": "Dangerous"
       },
       "benzodiazepines": {
-        "status": "Low Risk & Decrease"
-      },
-      "benzos": {
         "status": "Low Risk & Decrease"
       },
       "caffeine": {
@@ -13807,9 +13800,6 @@
       "benzodiazepines": {
         "status": "Low Risk & Decrease"
       },
-      "benzos": {
-        "status": "Low Risk & Decrease"
-      },
       "cannabis": {
         "status": "Low Risk & No Synergy"
       },
@@ -14065,9 +14055,6 @@
         "status": "Caution"
       },
       "benzodiazepines": {
-        "status": "Low Risk & Decrease"
-      },
-      "benzos": {
         "status": "Low Risk & Decrease"
       },
       "caffeine": {
@@ -15251,9 +15238,6 @@
       "benzodiazepines": {
         "status": "Low Risk & Decrease"
       },
-      "benzos": {
-        "status": "Low Risk & Decrease"
-      },
       "caffeine": {
         "note": "Both stimulants, risk of tachycardia, hypertension, and in extreme cases heart failure.",
         "status": "Caution"
@@ -15328,6 +15312,22 @@
       "tramadol": {
         "note": "Tramadol and stimulants both increase the risk of seizures.",
         "status": "Dangerous"
+      },
+      "lithium": {
+        "note": "Lithium may inhibit some of the recreational effects of cocaine.",
+        "sources": [
+          {
+            "author": "Flemenbaum, A.",
+            "title": "Antagonism of behavioral effects of cocaine by lithium. (1977)",
+            "url": "https://doi.org/10.1016/0091-3057(77)90015-6"
+          },
+          {
+            "author": "Cronson, A. J., & Flemenbaum, A.",
+            "title": "Antagonism of Cocaine Highs by Lithium. (1981)",
+            "url": "https://doi.org/10.1007/978-1-4684-3614-3_132"
+          }
+        ],
+        "status": "Low Risk & Decrease"
       }
     },
     "dose_note": "Rapid onset. Depending on purity, dosage will vary",
@@ -16724,10 +16724,6 @@
         "note": "Small doses of benzos can end a bad trip, but both substances potentiate the ataxia and sedation caused by the other and this can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
         "status": "Caution"
       },
-      "benzos": {
-        "note": "Small doses of benzos can end a bad trip, but both substances potentiate the ataxia and sedation caused by the other and this can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
-        "status": "Caution"
-      },
       "caffeine": {
         "note": "High doses of caffeine can potentially exacerbate anxiety, especially during a dissociative experience, due to its stimulating effects. This combination might also lead to physical discomfort. However, individual responses to caffeine can vary significantly, often influenced by factors like habitual versus occasional usage.",
         "sources": [
@@ -17918,9 +17914,6 @@
         "status": "Low Risk & Synergy"
       },
       "benzodiazepines": {
-        "status": "Low Risk & Decrease"
-      },
-      "benzos": {
         "status": "Low Risk & Decrease"
       },
       "caffeine": {
@@ -22691,10 +22684,6 @@
         "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
         "status": "Caution"
       },
-      "benzos": {
-        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
-        "status": "Caution"
-      },
       "caffeine": {
         "note": "No unexpected interactions.",
         "status": "Low Risk & No Synergy"
@@ -23933,9 +23922,6 @@
       "benzodiazepines": {
         "status": "Low Risk & Decrease"
       },
-      "benzos": {
-        "status": "Low Risk & Decrease"
-      },
       "caffeine": {
         "status": "Low Risk & No Synergy"
       },
@@ -24664,9 +24650,6 @@
         "status": "Dangerous"
       },
       "benzodiazepines": {
-        "status": "Low Risk & Decrease"
-      },
-      "benzos": {
         "status": "Low Risk & Decrease"
       },
       "caffeine": {
@@ -25762,9 +25745,6 @@
         "status": "Dangerous"
       },
       "benzodiazepines": {
-        "status": "Low Risk & Decrease"
-      },
-      "benzos": {
         "status": "Low Risk & Decrease"
       },
       "caffeine": {
@@ -28011,9 +27991,6 @@
       "benzodiazepines": {
         "status": "Low Risk & Decrease"
       },
-      "benzos": {
-        "status": "Low Risk & Decrease"
-      },
       "caffeine": {
         "status": "Low Risk & No Synergy"
       },
@@ -28249,10 +28226,6 @@
       },
       "benzodiazepines": {
         "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess.",
-        "status": "Caution"
-      },
-      "benzos": {
-        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. place the affected individual in the recovery position to prevent vomit aspiration from excess.",
         "status": "Caution"
       },
       "caffeine": {
@@ -29168,9 +29141,6 @@
         "status": "Low Risk & Synergy"
       },
       "benzodiazepines": {
-        "status": "Low Risk & Decrease"
-      },
-      "benzos": {
         "status": "Low Risk & Decrease"
       },
       "caffeine": {
@@ -30375,10 +30345,6 @@
         "status": "Dangerous"
       },
       "benzodiazepines": {
-        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely",
-        "status": "Unsafe"
-      },
-      "benzos": {
         "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely",
         "status": "Unsafe"
       },
@@ -34050,10 +34016,6 @@
       },
       "benzodiazepines": {
         "note": "Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present. Vomit aspiration is a risk when passed out, lay down in recovery position if ingested.",
-        "status": "Dangerous"
-      },
-      "benzos": {
-        "note": "Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present. Vomit aspiration a risk when passed out, lay down in recovery position if ingested.",
         "status": "Dangerous"
       },
       "caffeine": {

@@ -980,6 +980,22 @@
       "note": "No unexpected interactions, though likely to increase blood pressure but not an issue with sensible doses. Moving around on high doses of this combination may be ill advised due to risk of physical injury.",
       "status": "Caution"
     },
+    "lithium": {
+      "note": "Lithium may inhibit some of the recreational effects of cocaine.",
+      "sources": [
+        {
+          "author": "Flemenbaum, A.",
+          "title": "Antagonism of behavioral effects of cocaine by lithium. (1977)",
+          "url": "https://doi.org/10.1016/0091-3057(77)90015-6"
+        },
+        {
+          "author": "Cronson, A. J., & Flemenbaum, A.",
+          "title": "Antagonism of Cocaine Highs by Lithium. (1981)",
+          "url": "https://doi.org/10.1007/978-1-4684-3614-3_132"
+        }
+      ],
+      "status": "Low Risk & Decrease"
+    },
     "lsd": {
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
@@ -1026,22 +1042,6 @@
     "tramadol": {
       "note": "Tramadol and stimulants both increase the risk of seizures.",
       "status": "Dangerous"
-    },
-    "lithium": {
-      "note": "Lithium may inhibit some of the recreational effects of cocaine.",
-      "sources": [
-        {
-          "author": "Flemenbaum, A.",
-          "title": "Antagonism of behavioral effects of cocaine by lithium. (1977)",
-          "url": "https://doi.org/10.1016/0091-3057(77)90015-6"
-        },
-        {
-          "author": "Cronson, A. J., & Flemenbaum, A.",
-          "title": "Antagonism of Cocaine Highs by Lithium. (1981)",
-          "url": "https://doi.org/10.1007/978-1-4684-3614-3_132"
-        }
-      ],
-      "status": "Low Risk & Decrease"
     }
   },
   "dextromethorphan": {
