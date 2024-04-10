@@ -79,9 +79,36 @@ function isWildcardCombo(comboName: keyof Combos): comboName is keyof typeof Wil
   return wildcardDrugs.includes(comboName as any);
 }
 
-export default async function compareData() {
+// Function to check if an object's keys are alphabetized
+function isAlphabetized(object: Record<string, any>): boolean {
+  const keys = Object.keys(object);
+  for (let i = 0; i < keys.length - 1; i++) {
+    if (keys[i].localeCompare(keys[i + 1]) > 0) {
+      return false; // If a key is greater than the next one, it's not alphabetized
+    }
+  }
+  return true;
+}
+
+// Function to recursively check each object in the JSON
+function checkObject(obj: Record<string, any>): boolean {
+  if (!isAlphabetized(obj)) {
+    return false;
+  }
+  for (const key of Object.keys(obj)) {
+    if (typeof obj[key] === 'object' && !Array.isArray(obj[key])) {
+      if (!checkObject(obj[key])) {
+        return false; // Recursively check nested objects
+      }
+    }
+  }
+  return true;
+}
+
+export default async function compareData(): Promise<boolean>{
   console.log(`Drugs  ${Object.keys(drugData).length}`);
   console.log(`Combos ${Object.keys(combosData).length}`);
+  let dataChanged = false;
 
   // for (const [comboKey, comboEntry] of Object.entries(comboData)) {
   Object.entries(comboData).forEach(async ([comboKey, comboEntry]) => {
@@ -113,6 +140,7 @@ export default async function compareData() {
           note: interaction.note,
           sources: interaction.sources,
         };
+        dataChanged = true;
         log(`+ ${drugBName} + ${drugAName}`);
       }
       
@@ -122,6 +150,7 @@ export default async function compareData() {
         log(`drugACombo: ${JSON.stringify(interaction)}`);
         log(`drugBCombo: ${JSON.stringify(comboData[drugBName][drugAName])}`);
         comboData[drugBName][drugAName] = interaction;
+        dataChanged = true;
       }
 
       // Drugs.json stuff
@@ -137,12 +166,14 @@ export default async function compareData() {
             [drugBName]: interaction as Combo
           }
         };
+        dataChanged = true;
         log(`+ ${drugAName} entry in drugs.json`);
         log(`${JSON.stringify(drugData[drugAName])}`);
       }
       // If drugA exists, but doesn't have a combos section, create it
       if (!drugData[drugAName].combos) {
         drugData[drugAName].combos = {};
+        dataChanged = true;
         console.log(`+ ${drugAName}.combos`);
       }
 
@@ -154,6 +185,7 @@ export default async function compareData() {
       // If the combo interaction does not exist, create it
       if (!drugACombos[drugBName]) {
         drugACombos[drugBName] = interaction as Combo;
+        dataChanged = true;
         log(`+ ${drugBName} + ${drugAName}`);
       }
       
@@ -164,19 +196,52 @@ export default async function compareData() {
         log(`drugs.json: ${JSON.stringify(drugACombos[drugBName])}`);
         // Update the drugBInfo with the new data from interaction
         drugACombos[drugBName] = interaction as Combo;
+        dataChanged = true;
       }
     });
+
   });
 
-  await fs.writeFile(path.resolve(__dirname, '../drugs.json'), JSON.stringify(drugData, null, 2));
-  await fs.writeFile(path.resolve(__dirname, '../combos.json'), JSON.stringify(comboData, null, 2));
+  // Check the drugs.json file for alphabetization
+  if (!checkObject(drugData)) {
+    console.error('Drugs.json is not alphabetized!');
+    dataChanged = true;
+  }
+
+  // Check the combos.json file for alphabetization
+  if (!checkObject(comboData)) {
+    console.error('Combos.json is not alphabetized!');
+    dataChanged = true;
+  }
+
+  return dataChanged;
 }
 
-
-compareData()
-  .then(() => {
-    console.log('Done!');
-  })
-  .catch((err) => {
-    console.error(err);
-  });
+// If the command is 'npx ts-node ./scripts/combosToDrugs.ts --github-check' then it will do a check to see if the data has changed
+if (process.argv.slice(2).includes('--github-check')) {
+  compareData()
+    .then(async (dataChanged) => {
+      if (dataChanged) {
+        console.error(`Changes were made, unable to merge!`);
+        process.exit(1);
+      }
+      log('No changes were made, able to merge!');
+    })
+    .catch((err) => {
+      console.error(err);
+    });
+} else {
+  compareData()
+    .then(async (dataChanged) => {
+      if (dataChanged) {
+        await fs.writeFile(path.resolve(__dirname, '../drugs.json'), JSON.stringify(drugData, null, 2));
+        await fs.writeFile(path.resolve(__dirname, '../combos.json'), JSON.stringify(comboData, null, 2));
+        console.log('Updated files!');
+        return;
+      }
+      console.log('No changes were made');
+    })
+    .catch((err) => {
+      console.error(err);
+    });
+}
