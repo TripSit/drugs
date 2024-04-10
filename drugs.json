@@ -1029,10 +1029,6 @@
         "Strong": "50-70mg+"
       }
     },
-    "formatted_duration": {
-      "_unit": "hours",
-      "value": "Insufflated"
-    },
     "formatted_effects": [
       "Euphoria",
       "increased energy/alertness",
@@ -1051,10 +1047,6 @@
       "aggressiveness",
       "moodiness"
     ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Insufflated"
-    },
     "name": "2-methylamphetamine",
     "pretty_name": "2-MA",
     "properties": {
@@ -4421,10 +4413,6 @@
         "Strong": "25-35mg+"
       }
     },
-    "formatted_duration": {
-      "_unit": "minutes",
-      "value": "Insufflated"
-    },
     "formatted_onset": {
       "_unit": "minutes",
       "Insufflated": "5-10"
@@ -4708,7 +4696,7 @@
     "formatted_onset": {
       "_unit": "minutes",
       "Insufflated": "5-20",
-      "Oral": "30-60mg"
+      "Oral": "30-60"
     },
     "name": "4-cbc",
     "pretty_name": "4-CBC",
@@ -4786,10 +4774,6 @@
       "research-chemical",
       "habit-forming"
     ],
-    "formatted_aftereffects": {
-      "_unit": "hours",
-      "value": "Few"
-    },
     "formatted_dose": {
       "Oral": {
         "Common": "50mg-100mg",
@@ -6542,10 +6526,6 @@
       "_unit": "hours",
       "value": "3-6"
     },
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Insufflated"
-    },
     "name": "4f-php",
     "pretty_name": "4F-PHP",
     "properties": {
@@ -6954,10 +6934,6 @@
       "agressiveness",
       "moodiness"
     ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Oral"
-    },
     "name": "5-eapb",
     "pretty_name": "5-EAPB",
     "properties": {
@@ -7026,7 +7002,7 @@
         "l-tryptophan",
         "oxitriptan"
       ],
-      "avoid": "Anything which interacts with serotonin. Including SSRIs, MAOIs, DXm, MDMA (during or before)",
+      "avoid": "Anything which interacts with serotonin. Including SSRIs, MAOIs, DXM, MDMA (during or before)",
       "categories": [
         "common",
         "supplement"
@@ -8641,11 +8617,6 @@
       "agressiveness",
       "moodiness"
     ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "Insufflated": "Within",
-      "Oral": "Within"
-    },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_6MAPB.shtml"
     },
@@ -10996,10 +10967,6 @@
         "note": "Ethanol ingestion may potentiate the CNS effects of many benzodiazepines. The two substances potentiate each other strongly and unpredictably, very rapidly leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Blacking out and memory loss is almost certain.",
         "status": "Dangerous"
       },
-      "benzos": {
-        "note": "Ethanol ingestion may potentiate the CNS effects of many benzodiazepines. The two substances potentiate each other strongly and unpredictably, very rapidly leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Blacking out and memory loss is almost certain.",
-        "status": "Dangerous"
-      },
       "caffeine": {
         "status": "Low Risk & No Synergy"
       },
@@ -11011,16 +10978,16 @@
         "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also allow you to drink past a point where you might normally pass out, increasing the risk. If you do decide to do this then you should set a limit of how much you will drink each hour and stick to it, bearing in mind that you will feel the alcohol less. Cocaine is potentiated somewhat by alcohol because of the formation of cocaethylene.",
         "status": "Unsafe"
       },
+      "dextromethorphan": {
+        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Additionally, CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
+        "status": "Dangerous"
+      },
       "dmt": {
         "status": "Low Risk & Decrease"
       },
       "dox": {
         "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also  allow you to drink past a point where you might normally pass out, increasing the risk.",
         "status": "Low Risk & Decrease"
-      },
-      "dxm": {
-        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place affected patients in the recovery position to prevent vomit aspiration from excess. Additionally, CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
-        "status": "Dangerous"
       },
       "ghb/gbl": {
         "note": "Even in very low doses this combination rapidly leads to memory loss, severe ataxia and unconsciousness. There is a high risk of vomit aspiration while unconscious.",
@@ -11059,7 +11026,7 @@
         "status": "Caution"
       },
       "opioids": {
-        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place affected patients in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely",
+        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely",
         "status": "Dangerous"
       },
       "pcp": {
@@ -11071,7 +11038,7 @@
         "status": "Caution"
       },
       "tramadol": {
-        "note": "Heavy CNS depressants, risk of seizures. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place affected patients in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely.",
+        "note": "Heavy CNS depressants, risk of seizures. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely.",
         "status": "Dangerous"
       }
     },
@@ -12112,9 +12079,6 @@
       "benzodiazepines": {
         "status": "Low Risk & Decrease"
       },
-      "benzos": {
-        "status": "Low Risk & Decrease"
-      },
       "caffeine": {
         "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
         "status": "Caution"
@@ -12126,13 +12090,13 @@
       "cocaine": {
         "status": "Dangerous"
       },
+      "dextromethorphan": {
+        "status": "Dangerous"
+      },
       "dmt": {
         "status": "Low Risk & Synergy"
       },
       "dox": {
-        "status": "Dangerous"
-      },
-      "dxm": {
         "status": "Dangerous"
       },
       "ghb/gbl": {
@@ -13377,10 +13341,6 @@
       "confusion",
       "insomnia"
     ],
-    "formatted_onset": {
-      "_unit": "hours",
-      "value": "Up"
-    },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_BromoDragonfly.shtml"
     },
@@ -13840,9 +13800,6 @@
       "benzodiazepines": {
         "status": "Low Risk & Decrease"
       },
-      "benzos": {
-        "status": "Low Risk & Decrease"
-      },
       "cannabis": {
         "status": "Low Risk & No Synergy"
       },
@@ -13850,14 +13807,7 @@
         "note": "Both stimulants, risk of tachycardia, hypertension, and in extreme cases heart failure.",
         "status": "Caution"
       },
-      "dmt": {
-        "status": "Low Risk & No Synergy"
-      },
-      "dox": {
-        "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating it may cause some physical discomfort.",
-        "status": "Caution"
-      },
-      "dxm": {
+      "dextromethorphan": {
         "note": "High doses of caffeine can potentially exacerbate anxiety, especially during a dissociative experience, due to its stimulating effects. This combination might also lead to physical discomfort. However, individual responses to caffeine can vary significantly, often influenced by factors like habitual versus occasional usage.",
         "sources": [
           {
@@ -13876,6 +13826,13 @@
             "url": "https://www.nature.com/articles/1600899"
           }
         ],
+        "status": "Caution"
+      },
+      "dmt": {
+        "status": "Low Risk & No Synergy"
+      },
+      "dox": {
+        "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating it may cause some physical discomfort.",
         "status": "Caution"
       },
       "ghb/gbl": {
@@ -14136,15 +14093,15 @@
       "benzodiazepines": {
         "status": "Low Risk & Decrease"
       },
-      "benzos": {
-        "status": "Low Risk & Decrease"
-      },
       "caffeine": {
         "status": "Low Risk & No Synergy"
       },
       "cocaine": {
         "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
         "status": "Caution"
+      },
+      "dextromethorphan": {
+        "status": "Low Risk & Synergy"
       },
       "dmt": {
         "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
@@ -14153,9 +14110,6 @@
       "dox": {
         "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
         "status": "Caution"
-      },
-      "dxm": {
-        "status": "Low Risk & Synergy"
       },
       "ghb/gbl": {
         "status": "Low Risk & Synergy"
@@ -15320,9 +15274,6 @@
       "benzodiazepines": {
         "status": "Low Risk & Decrease"
       },
-      "benzos": {
-        "status": "Low Risk & Decrease"
-      },
       "caffeine": {
         "note": "Both stimulants, risk of tachycardia, hypertension, and in extreme cases heart failure.",
         "status": "Caution"
@@ -15330,6 +15281,10 @@
       "cannabis": {
         "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
         "status": "Caution"
+      },
+      "dextromethorphan": {
+        "note": "Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues",
+        "status": "Unsafe"
       },
       "dmt": {
         "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
@@ -15339,12 +15294,8 @@
         "note": "The combined stimulating effects of the two can lead to an uncomfortable body-load, while the focusing effects of cocaine can easily lead to thought loops. Coming down from cocaine while the DOx is still active can be quite anxiogenic",
         "status": "Unsafe"
       },
-      "dxm": {
-        "note": "Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues",
-        "status": "Unsafe"
-      },
       "ghb/gbl": {
-        "note": "Stimulants increase respiration rate allowing a higher dose of sedatives. If the stimulant wears off first then the opiate may overcome the patient and cause respiratory arrest. Likewise the G can wear off and leave a dangerous concentration of cocaine behind",
+        "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If the stimulant wears off first the opiate may overcome the individual and cause respiratory arrest. Likewise the ghb/gbl can wear off and leave a dangerous concentration of cocaine behind",
         "status": "Caution"
       },
       "ketamine": {
@@ -15383,7 +15334,7 @@
         "status": "Low Risk & Synergy"
       },
       "opioids": {
-        "note": "Stimulants increase respiration rate allowing a higher dose of opiates. If the stimulant wears off first then the opiate may overcome the patient and cause respiratory arrest.",
+        "note": "Stimulants increase respiration rate allowing for a higher dose of opiates than normal. If the stimulant wears off first then the opiate may overcome the individual and cause respiratory arrest.",
         "status": "Dangerous"
       },
       "pcp": {
@@ -15793,7 +15744,7 @@
     },
     "formatted_duration": {
       "_unit": "hours",
-      "Oral": "4-8 hours."
+      "Oral": "4-8"
     },
     "formatted_effects": [
       "Side-effects: drowsiness",
@@ -16753,6 +16704,336 @@
       ]
     }
   },
+  "dextromethorphan": {
+    "aliases": [
+      "dxm",
+      "robo",
+      "syrup",
+      "robotussin",
+      "dex",
+      "robitussin"
+    ],
+    "categories": [
+      "dissociative",
+      "habit-forming",
+      "common"
+    ],
+    "combos": {
+      "2c-t-x": {
+        "status": "Unsafe"
+      },
+      "2c-x": {
+        "status": "Low Risk & Synergy"
+      },
+      "5-meo-xxt": {
+        "note": "Little information exists about this combination.",
+        "status": "Unsafe"
+      },
+      "alcohol": {
+        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Additionally, CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
+        "status": "Dangerous"
+      },
+      "amphetamines": {
+        "note": "Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues.",
+        "status": "Unsafe"
+      },
+      "amt": {
+        "status": "Dangerous"
+      },
+      "benzodiazepines": {
+        "note": "Small doses of benzos can end a bad trip, but both substances potentiate the ataxia and sedation caused by the other and this can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
+        "status": "Caution"
+      },
+      "caffeine": {
+        "note": "High doses of caffeine can potentially exacerbate anxiety, especially during a dissociative experience, due to its stimulating effects. This combination might also lead to physical discomfort. However, individual responses to caffeine can vary significantly, often influenced by factors like habitual versus occasional usage.",
+        "sources": [
+          {
+            "author": "Chad J Reissig, Lawrence P Carter, Matthew W Johnson, Miriam Z Mintzer, Margaret A Klinedinst, Roland R Griffiths",
+            "title": "High doses of dextromethorphan, an NMDA antagonist, produce effects similar to classic hallucinogens ",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22526529/"
+          },
+          {
+            "author": "Arthur Eumann Mesas, Luz M Leon-Muñoz, Fernando Rodriguez-Artalejo, Esther Lopez-Garcia",
+            "title": "The effect of coffee on blood pressure and cardiovascular disease in hypertensive individuals: a systematic review and meta-analysis ",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21880846/"
+          },
+          {
+            "author": "M-L Nurminen, L Niittynen, R Korpela & H Vapaatalo",
+            "title": "Coffee, caffeine and blood pressure: a critical review",
+            "url": "https://www.nature.com/articles/1600899"
+          }
+        ],
+        "status": "Caution"
+      },
+      "cannabis": {
+        "status": "Low Risk & Synergy"
+      },
+      "cocaine": {
+        "note": "Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues",
+        "status": "Unsafe"
+      },
+      "dmt": {
+        "status": "Low Risk & Synergy"
+      },
+      "dox": {
+        "note": "The DOx class as psychedelic stimulants have the potential to mask the effects of DXM and could lead to redosing to an unsafe level. DXM can also potentiate DOx resulting in an unpleasantly intense experience.",
+        "status": "Unsafe"
+      },
+      "ghb/gbl": {
+        "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
+        "status": "Dangerous"
+      },
+      "ketamine": {
+        "note": "Both substances primarily exert their effects through NMDA antagonism. Currently, there is no evidence regarding mechanisms that might reduce these effects.",
+        "sources": [
+          {
+            "author": "Jeanna M. Marraffa",
+            "title": "Dextromethorphan",
+            "url": "https://doi.org/10.1016/B978-0-12-824315-2.00127-5"
+          },
+          {
+            "author": "Georges Mion, Thierry Villevieille",
+            "title": "Ketamine Pharmacology: An Update (Pharmacodynamics and Molecular Aspects, Recent Findings)",
+            "url": "https://doi.org/10.1111/cns.12099"
+          },
+          {
+            "author": "P. Klepstad, P. C. Borchgrevink",
+            "title": "Four years' treatment with ketamine and a trial of dextromethorphan in a patient with severe post-herpetic neuralgia",
+            "url": "https://doi.org/10.1111/j.1399-6576.1997.tb04709.x"
+          },
+          {
+            "author": "Stephen M. Stahl",
+            "title": "Mechanism of action of dextromethorphan/quinidine: comparison with ketamine",
+            "url": "https://doi.org/10.1017/S109285291300062X"
+          },
+          {
+            "author": "A M Hughes,1 J Rhodes,1 G Fisher,2 M Sellers,3 and J W Growcott1",
+            "title": "Assessment of the effect of dextromethorphan and ketamine on the acute nociceptive threshold and wind-up of the second pain response in healthy male volunteers",
+            "url": "https://doi.org/10.1046%2Fj.1365-2125.2002.01602.x"
+          },
+          {
+            "author": "Keiji Tabuchi, MD, Zenya Ito, MD, Shigeki Tsuji, MD, Akira Hara, MD, Tetsuro Wada, MD, Jun Kusakari, MD",
+            "title": "Effect of Ketamine, Dextromethorphan, and MK-801 on Cochlear Dysfunction Induced by Transient Ischemia",
+            "url": "https://doi.org/10.1177/000348940211100107"
+          }
+        ],
+        "status": "Low Risk & Synergy"
+      },
+      "lsd": {
+        "status": "Low Risk & Synergy"
+      },
+      "maois": {
+        "note": "High risk of serotonin syndrome",
+        "status": "Dangerous"
+      },
+      "mdma": {
+        "status": "Dangerous"
+      },
+      "mephedrone": {
+        "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. In addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
+        "sources": [
+          {
+            "author": "J Kehr,  F Ichinose,  S Yoshitake,  M Goiny,  T Sievertsson,  F Nyberg,  T Yoshitake",
+            "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
+            "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+          },
+          {
+            "author": "Gregory C. Hadlock, Katy M. Webb, Lisa M. McFadden, Pei Wen Chu, Jonathan D. Ellis, Scott C. Allen, David M. Andrenyak, Paula L. Vieira-Brock, Christopher L. German, Kevin M. Conrad, Amanda J. Hoonakker, James W. Gibb, Diana G. Wilkins, Glen R. Hanson and Annette E. Fleckenstein",
+            "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse",
+            "url": "https://doi.org/10.1124/jpet.111.184119 "
+          },
+          {
+            "author": "Anna R. Schwartz, Anthony F. Pizon & Daniel E. Brooks",
+            "title": "Dextromethorphan-induced serotonin syndrome",
+            "url": "https://doi.org/10.1080/15563650701668625"
+          },
+          {
+            "author": "DrugBank",
+            "title": "Dextromethorphan",
+            "url": "https://go.drugbank.com/drugs/DB00514"
+          },
+          {
+            "author": "Henderson MG, Fuller RW",
+            "title": "Dextromethorphan antagonizes the acute depletion of brain serotonin by p-chloroamphetamine and H75/12 in rats",
+            "url": "https://doi.org/10.1016/0006-8993(92)91144-4"
+          },
+          {
+            "author": "Reissig CJ, Carter LP, Johnson MW, Mintzer MZ, Klinedinst MA, Griffiths RR",
+            "title": "High doses of dextromethorphan, an NMDA antagonist, produce effects similar to classic hallucinogens ",
+            "url": "https://doi.org/10.1007/s00213-012-2680-6"
+          },
+          {
+            "author": "Meng H, Cao J, Kang J, Ying X, Ji J, Reynolds W, Rampe D.",
+            "title": "Mephedrone, a new designer drug of abuse, produces acute hemodynamic effects in the rat ",
+            "url": "https://doi.org/10.1016/j.toxlet.2011.10.010"
+          }
+        ],
+        "status": "Dangerous"
+      },
+      "mescaline": {
+        "status": "Low Risk & Synergy"
+      },
+      "mushrooms": {
+        "status": "Low Risk & Synergy"
+      },
+      "mxe": {
+        "note": "There is a risk of serotonin syndrome when combining DXM with MXE, due to DXM and MXE both being SRI’s. MXE and DXM having notable affinities for the serotonin transporter.",
+        "sources": [
+          {
+            "author": "Bryan L. Roth, Simon Gibbons, Warunya Arunotayanun, Xi-Ping Huang, Vincent Setola, Ric Treble, Les Iversen",
+            "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor",
+            "url": "https://doi.org/10.1371/journal.pone.0059334"
+          },
+          {
+            "author": "Matteo Marti, Giuseppe Talani, Cristina Miliano, Sabrine Bilel, Francesca Biggio, Jessica Bratzu, Marco Diana, Maria Antonietta De Luca, Liana Fattore",
+            "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat ",
+            "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+          },
+          {
+            "author": "Laura Hondebrink, Emma E.J. Kasteel, Anke M. Tukker, Fiona M.J. Wijnolts, Anouk H.A. Verboven, Remco H.S. Westerink",
+            "title": "Neuropharmacological characterization of the new psychoactive substance methoxetamine",
+            "url": "https://doi.org/10.1016/j.neuropharm.2017.04.035"
+          },
+          {
+            "author": "Linda L. Werling, Ashleigh Keller, Julie G. Frank, Samer J. Nuwayhid",
+            "title": "A comparison of the binding profiles of dextromethorphan, memantine, fluoxetine and amitriptyline: Treatment of involuntary emotional expression disorder",
+            "url": "https://doi.org/10.1016/j.expneurol.2007.06.013"
+          },
+          {
+            "author": "Linda Nguyen, Kelan L. Thomas, Brandon P. Lucke-Wold, John Z. Cavendish, Molly S. Crowe, Rae R. Matsumoto",
+            "title": "Dextromethorphan: An update on its utility for neurological and neuropsychiatric disorders",
+            "url": "https://doi.org/10.1016/j.pharmthera.2016.01.016"
+          }
+        ],
+        "status": "Unsafe"
+      },
+      "nbomes": {
+        "status": "Unsafe"
+      },
+      "nitrous": {
+        "status": "Low Risk & Synergy"
+      },
+      "opioids": {
+        "note": "CNS depression, difficult breathing, heart issues, hepatoxic, just very unsafe combination all around. Additionally if one takes DXM, their tolerance of opiates goes down slightly, thus causing additional synergistic effects.",
+        "status": "Dangerous"
+      },
+      "pcp": {
+        "status": "Dangerous"
+      },
+      "ssris": {
+        "note": "High risk of serotonin syndrome.",
+        "status": "Dangerous"
+      },
+      "tramadol": {
+        "status": "Dangerous"
+      }
+    },
+    "dose_note": " NOTE: See http://dxm.tripsit.me for mg/lb doses, among other things. Deaths have been reported at 25mg/kg",
+    "formatted_aftereffects": {
+      "_unit": "hours",
+      "value": "1-12"
+    },
+    "formatted_dose": {
+      "Oral": {
+        "Common": "2.5-7.5mg/kg",
+        "Heavy": "15-20mg/kg",
+        "Light": "1.5-2.5mg/kg",
+        "Strong": "7.5-15mg/kg"
+      }
+    },
+    "formatted_duration": {
+      "_unit": "hours",
+      "value": "6-8"
+    },
+    "formatted_onset": {
+      "_unit": "minutes",
+      "value": "20-60"
+    },
+    "links": {
+      "experiences": "https://www.erowid.org/experiences/subs/exp_DXM.shtml"
+    },
+    "name": "dextromethorphan",
+    "pretty_name": "Dextromethorphan",
+    "properties": {
+      "after-effects": "1-12 hours.",
+      "aliases": [
+        "dxm",
+        "robo",
+        "syrup",
+        "robotussin",
+        "dex",
+        "robitussin"
+      ],
+      "calculator": "http://dxm.tripsit.me",
+      "categories": [
+        "dissociative",
+        "habit-forming",
+        "common"
+      ],
+      "chart": "http://taimapedia.org/images/4/46/DXMDosingChart.png",
+      "dose": "Oral First-Plateau: 1.5-2.5mg/kg Second-Plateau: 2.5-7.5mg/kg Third-Plateau: 7.5-15mg/kg Fourth: 15-20mg/kg | NOTE: See http://dxm.tripsit.me for mg/lb doses, among other things. Deaths have been reported at 25mg/kg",
+      "duration": "6-8 hours",
+      "onset": "20-60 minutes",
+      "summary": "Commonly found in certain over the counter cough medicines. Has dissociative effects similar to ketamine or MXE, though also shares properties with opioids and alcohol. Make sure DXM is the only active ingredient in the preparation."
+    },
+    "pweffects": {
+      "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
+      "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+      "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+      "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+      "Auditory suppression": "https://psychonautwiki.org/wiki/Auditory_suppression",
+      "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+      "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+      "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+      "Consciousness disconnection": "https://psychonautwiki.org/wiki/Consciousness_disconnection",
+      "Cough suppression": "https://psychonautwiki.org/wiki/Cough_suppression",
+      "Creativity enhancement": "https://psychonautwiki.org/wiki/Creativity_enhancement",
+      "Déjà vu": "https://psychonautwiki.org/wiki/D%C3%A9j%C3%A0_vu",
+      "Depersonalization": "https://psychonautwiki.org/wiki/Depersonalization",
+      "Derealization": "https://psychonautwiki.org/wiki/Derealization",
+      "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+      "Double vision": "https://psychonautwiki.org/wiki/Double_vision",
+      "Environmental cubism": "https://psychonautwiki.org/wiki/Environmental_cubism",
+      "Environmental orbism": "https://psychonautwiki.org/wiki/Environmental_orbism",
+      "External hallucinations": "https://psychonautwiki.org/wiki/External_hallucinations",
+      "Frame rate suppression": "https://psychonautwiki.org/wiki/Frame_rate_suppression",
+      "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+      "Immersion enhancement": "https://psychonautwiki.org/wiki/Immersion_enhancement",
+      "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+      "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+      "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+      "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+      "Pattern recognition suppression": "https://psychonautwiki.org/wiki/Pattern_recognition_suppression",
+      "Perception of decreased weight": "https://psychonautwiki.org/wiki/Perception_of_decreased_weight",
+      "Personal bias suppression": "https://psychonautwiki.org/wiki/Personal_bias_suppression",
+      "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+      "Perspective distortions": "https://psychonautwiki.org/wiki/Perspective_distortions",
+      "Physical autonomy": "https://psychonautwiki.org/wiki/Physical_autonomy",
+      "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+      "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+      "Scenery slicing": "https://psychonautwiki.org/wiki/Scenery_slicing",
+      "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+      "Tactile disconnection": "https://psychonautwiki.org/wiki/Tactile_disconnection",
+      "Tactile suppression": "https://psychonautwiki.org/wiki/Tactile_suppression",
+      "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+      "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+      "Unity and interconnectedness": "https://psychonautwiki.org/wiki/Unity_and_interconnectedness",
+      "Visual disconnection": "https://psychonautwiki.org/wiki/Visual_disconnection",
+      "Visual sliding": "https://psychonautwiki.org/wiki/Visual_sliding"
+    },
+    "sources": {
+      "_general": [
+        "Dextromethorphan and its metabolite dextrorphan block alpha3beta4 neuronal nicotinic receptors. - http://www.ncbi.nlm.nih.gov/pubmed/10869398",
+        "Dextromethorphan potentiates the antinociceptive effects of morphine and the delta-opioid agonist SNC80 in squirrel monkeys. - http://www.ncbi.nlm.nih.gov/pubmed/11805202",
+        "Dextromethorphan psychosis, dependence and physical withdrawal. - http://www.ncbi.nlm.nih.gov/pubmed/16318953",
+        "Evaluation the effects of dextromethorphan and midazolam on morphine induced tolerance and dependence in mice. - http://www.ncbi.nlm.nih.gov/pubmed/18819620",
+        "Dextromethorphan as a potential rapid-acting antidepressant. - http://www.ncbi.nlm.nih.gov/pubmed/21367535",
+        "The treatment of heroin addicts with dextromethorphan: a double-blind comparison of dextromethorphan with chlorpromazine. - http://www.ncbi.nlm.nih.gov/pubmed/2187002",
+        "High doses of dextromethorphan, an NMDA antagonist, produce effects similar to classic hallucinogens. - http://www.ncbi.nlm.nih.gov/pubmed/22526529",
+        "Lack of efficacy of dextromethorphan in managing alcohol withdrawal: a preliminary report of a randomized, double-blind, placebo-controlled trial. - http://www.ncbi.nlm.nih.gov/pubmed/24346753"
+      ]
+    }
+  },
   "dextropropoxyphene": {
     "aliases": [
       "darvocet",
@@ -17192,6 +17473,158 @@
       "summary": "Inactive."
     }
   },
+  "diphenhydramine": {
+    "aliases": [
+      "diphenhydramine",
+      "dph",
+      "benadryl"
+    ],
+    "categories": [
+      "depressant",
+      "deliriant",
+      "common"
+    ],
+    "combos": {
+      "ghb/gbl": {
+        "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
+        "sources": [
+          {
+            "author": "William J Tharion, Donna J. McMenemy, Terry M. Rauch",
+            "title": "Antihistamine Effects on the Central Nervous System, Cognitive Performance and Subjective States. ",
+            "url": "https://doi.org/10.1159/000119069"
+          },
+          {
+            "author": "Sicari V, Zabbo CP. Diphenhydramine.",
+            "title": "Diphenhydramine",
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK526010/"
+          },
+          {
+            "author": "Couper FJ, Marinetti LJ.",
+            "title": "γ-Hydroxybutyrate (GHB) - Effects on Human Performance and Behavior ",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26256488/"
+          },
+          {
+            "author": "Busardò FP, Jones AW.",
+            "title": "GHB Pharmacology and Toxicology: Acute Intoxication, Concentrations in Blood and Urine in Forensic Cases and Treatment of the Withdrawal Syndrome",
+            "url": "https://doi.org/10.2174%2F1570159X13666141210215423"
+          }
+        ],
+        "status": "Dangerous"
+      }
+    },
+    "dose_note": " NOTE: The doses provided are for recreational usage. For use as a sleep aid the dose ranges from 25-100mg, or as specified on the product packaging.",
+    "formatted_aftereffects": {
+      "_unit": "hours",
+      "value": "1-12"
+    },
+    "formatted_dose": {
+      "Oral": {
+        "Common": "200-500mg",
+        "Light": "100-250mg",
+        "Strong": "450-700mg"
+      }
+    },
+    "formatted_duration": {
+      "_unit": "hours",
+      "value": "6-8"
+    },
+    "formatted_effects": [
+      "Delirium",
+      "dream-like experiences",
+      "paranoia",
+      "visual and audio distortions",
+      "dry mouth",
+      "muscle cramps",
+      "nausea",
+      "dysphoria",
+      "tremors",
+      "Often described as a pretty negative experience"
+    ],
+    "formatted_onset": {
+      "_unit": "minutes",
+      "value": "60-120"
+    },
+    "links": {
+      "experiences": "https://www.erowid.org/experiences/subs/exp_Diphenhydramine.shtml"
+    },
+    "name": "diphenhydramine",
+    "pretty_name": "Diphenhydramine",
+    "properties": {
+      "after-effects": "1-12 hours.",
+      "aliases": [
+        "diphenhydramine",
+        "dph",
+        "benadryl"
+      ],
+      "avoid": "Many oral diphenhydramine preparations contain analgesics such as acetaminophen/paracetamol or aspirin, which can be toxic to the liver in high doses.",
+      "categories": [
+        "depressant",
+        "deliriant",
+        "common"
+      ],
+      "dose": "Oral Light: 100-250mg Common: 200-500mg Strong: 450-700mg NOTE: The doses provided are for recreational usage. For use as a sleep aid the dose ranges from 25-75mg, or as specified on the product packaging. For medical allergy use doses tend to range from 25-50mg, or as specified on the product packaging.",
+      "duration": "6-8 hours",
+      "effects": "Delirium, dream-like experiences, paranoia, visual and audio distortions, dry mouth, muscle cramps, nausea, dysphoria, tremors. Often described as a pretty negative experience.",
+      "onset": "60-120 minutes",
+      "summary": "An antihistamine which, when taken in smaller doses relieves allergies and insomnia. In larger doses works as a deliriant and can actually keep the user awake. Generally the 'high' of this drug is reported as dysphoric, potentially causing hallucinations indistinguishable from reality."
+    },
+    "pweffects": {
+      "Abnormal heartbeat": "https://psychonautwiki.org/wiki/Abnormal_heartbeat",
+      "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
+      "After images": "https://psychonautwiki.org/wiki/After_images",
+      "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+      "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+      "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+      "Auditory suppression": "https://psychonautwiki.org/wiki/Auditory_suppression",
+      "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+      "Brightness alteration": "https://psychonautwiki.org/wiki/Brightness_alteration",
+      "Cognitive dysphoria": "https://psychonautwiki.org/wiki/Cognitive_dysphoria",
+      "Dehydration": "https://psychonautwiki.org/wiki/Dehydration",
+      "Depression": "https://psychonautwiki.org/wiki/Depression",
+      "Difficulty urinating": "https://psychonautwiki.org/wiki/Difficulty_urinating",
+      "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+      "Double vision": "https://psychonautwiki.org/wiki/Double_vision",
+      "Dream potentiation": "https://psychonautwiki.org/wiki/Dream_potentiation",
+      "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+      "Emotion suppression": "https://psychonautwiki.org/wiki/Emotion_suppression",
+      "External hallucinations": "https://psychonautwiki.org/wiki/External_hallucinations",
+      "Feelings of impending doom": "https://psychonautwiki.org/wiki/Feelings_of_impending_doom",
+      "Frequent urination": "https://psychonautwiki.org/wiki/Frequent_urination",
+      "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
+      "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+      "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+      "Language suppression": "https://psychonautwiki.org/wiki/Language_suppression",
+      "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+      "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+      "Muscle cramps": "https://psychonautwiki.org/wiki/Muscle_cramps",
+      "Muscle spasms": "https://psychonautwiki.org/wiki/Muscle_spasms",
+      "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+      "Paranoia": "https://psychonautwiki.org/wiki/Paranoia",
+      "Pattern recognition suppression": "https://psychonautwiki.org/wiki/Pattern_recognition_suppression",
+      "Peripheral information misinterpretation": "https://psychonautwiki.org/wiki/Peripheral_information_misinterpretation",
+      "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+      "Photophobia": "https://psychonautwiki.org/wiki/Photophobia",
+      "Physical fatigue": "https://psychonautwiki.org/wiki/Physical_fatigue",
+      "Psychosis": "https://psychonautwiki.org/wiki/Psychosis",
+      "Restless leg syndrome": "https://psychonautwiki.org/wiki/Restless_leg_syndrome",
+      "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+      "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+      "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+      "Shadow people": "https://psychonautwiki.org/wiki/Shadow_people",
+      "Tactile hallucinations": "https://psychonautwiki.org/wiki/Tactile_hallucinations",
+      "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+      "Thought disorganization": "https://psychonautwiki.org/wiki/Thought_disorganization",
+      "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+      "Unspeakable horrors": "https://psychonautwiki.org/wiki/Unspeakable_horrors",
+      "Vibrating vision": "https://psychonautwiki.org/wiki/Vibrating_vision",
+      "Visual haze": "https://psychonautwiki.org/wiki/Visual_haze"
+    },
+    "sources": {
+      "_general": [
+        "Dose-dependent toxicity of diphenhydramine overdose - http://www.ncbi.nlm.nih.gov/pubmed/11204550"
+      ]
+    }
+  },
   "diphenidine": {
     "aliases": [
       "dpd"
@@ -17503,9 +17936,6 @@
       "benzodiazepines": {
         "status": "Low Risk & Decrease"
       },
-      "benzos": {
-        "status": "Low Risk & Decrease"
-      },
       "caffeine": {
         "status": "Low Risk & No Synergy"
       },
@@ -17517,10 +17947,10 @@
         "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
         "status": "Caution"
       },
-      "dox": {
+      "dextromethorphan": {
         "status": "Low Risk & Synergy"
       },
-      "dxm": {
+      "dox": {
         "status": "Low Risk & Synergy"
       },
       "ghb/gbl": {
@@ -18261,128 +18691,6 @@
       "warning": "As with other first generation antihistamines, if you take too much you could have a delirant like experience."
     }
   },
-  "dph": {
-    "aliases": [
-      "diphenhydramine",
-      "benadryl"
-    ],
-    "categories": [
-      "depressant",
-      "deliriant",
-      "common"
-    ],
-    "dose_note": " NOTE: The doses provided are for recreational usage. For use as a sleep aid the dose ranges from 25-100mg, or as specified on the product packaging.",
-    "formatted_aftereffects": {
-      "_unit": "hours",
-      "value": "1-12"
-    },
-    "formatted_dose": {
-      "Oral": {
-        "Common": "200-500mg",
-        "Light": "100-250mg",
-        "Strong": "450-700mg"
-      }
-    },
-    "formatted_duration": {
-      "_unit": "hours",
-      "value": "6-8"
-    },
-    "formatted_effects": [
-      "Delirium",
-      "dream-like experiences",
-      "paranoia",
-      "visual and audio distortions",
-      "dry mouth",
-      "muscle cramps",
-      "nausea",
-      "dysphoria",
-      "tremors",
-      "Often described as a pretty negative experience"
-    ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "60-120"
-    },
-    "links": {
-      "experiences": "https://www.erowid.org/experiences/subs/exp_Diphenhydramine.shtml"
-    },
-    "name": "dph",
-    "pretty_name": "DPH",
-    "properties": {
-      "after-effects": "1-12 hours.",
-      "aliases": [
-        "diphenhydramine",
-        "benadryl"
-      ],
-      "avoid": "Many oral diphenhydramine preparations contain analgesics such as acetaminophen/paracetamol or aspirin, which can be toxic to the liver in high doses.",
-      "categories": [
-        "depressant",
-        "deliriant",
-        "common"
-      ],
-      "dose": "Oral Light: 100-250mg Common: 200-500mg Strong: 450-700mg NOTE: The doses provided are for recreational usage. For use as a sleep aid the dose ranges from 25-75mg, or as specified on the product packaging. For medical allergy use doses tend to range from 25-50mg, or as specified on the product packaging.",
-      "duration": "6-8 hours",
-      "effects": "Delirium, dream-like experiences, paranoia, visual and audio distortions, dry mouth, muscle cramps, nausea, dysphoria, tremors. Often described as a pretty negative experience.",
-      "onset": "60-120 minutes",
-      "summary": "An antihistamine which, when taken in smaller doses relieves allergies and insomnia. In larger doses works as a deliriant and can actually keep the user awake. Generally the 'high' of this drug is reported as dysphoric, potentially causing hallucinations indistinguishable from reality."
-    },
-    "pweffects": {
-      "Abnormal heartbeat": "https://psychonautwiki.org/wiki/Abnormal_heartbeat",
-      "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
-      "After images": "https://psychonautwiki.org/wiki/After_images",
-      "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
-      "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
-      "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
-      "Auditory suppression": "https://psychonautwiki.org/wiki/Auditory_suppression",
-      "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
-      "Brightness alteration": "https://psychonautwiki.org/wiki/Brightness_alteration",
-      "Cognitive dysphoria": "https://psychonautwiki.org/wiki/Cognitive_dysphoria",
-      "Dehydration": "https://psychonautwiki.org/wiki/Dehydration",
-      "Depression": "https://psychonautwiki.org/wiki/Depression",
-      "Difficulty urinating": "https://psychonautwiki.org/wiki/Difficulty_urinating",
-      "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
-      "Double vision": "https://psychonautwiki.org/wiki/Double_vision",
-      "Dream potentiation": "https://psychonautwiki.org/wiki/Dream_potentiation",
-      "Drifting": "https://psychonautwiki.org/wiki/Drifting",
-      "Emotion suppression": "https://psychonautwiki.org/wiki/Emotion_suppression",
-      "External hallucinations": "https://psychonautwiki.org/wiki/External_hallucinations",
-      "Feelings of impending doom": "https://psychonautwiki.org/wiki/Feelings_of_impending_doom",
-      "Frequent urination": "https://psychonautwiki.org/wiki/Frequent_urination",
-      "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
-      "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
-      "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
-      "Language suppression": "https://psychonautwiki.org/wiki/Language_suppression",
-      "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
-      "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
-      "Muscle cramps": "https://psychonautwiki.org/wiki/Muscle_cramps",
-      "Muscle spasms": "https://psychonautwiki.org/wiki/Muscle_spasms",
-      "Nausea": "https://psychonautwiki.org/wiki/Nausea",
-      "Paranoia": "https://psychonautwiki.org/wiki/Paranoia",
-      "Pattern recognition suppression": "https://psychonautwiki.org/wiki/Pattern_recognition_suppression",
-      "Peripheral information misinterpretation": "https://psychonautwiki.org/wiki/Peripheral_information_misinterpretation",
-      "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
-      "Photophobia": "https://psychonautwiki.org/wiki/Photophobia",
-      "Physical fatigue": "https://psychonautwiki.org/wiki/Physical_fatigue",
-      "Psychosis": "https://psychonautwiki.org/wiki/Psychosis",
-      "Restless leg syndrome": "https://psychonautwiki.org/wiki/Restless_leg_syndrome",
-      "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
-      "Sedation": "https://psychonautwiki.org/wiki/Sedation",
-      "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
-      "Shadow people": "https://psychonautwiki.org/wiki/Shadow_people",
-      "Tactile hallucinations": "https://psychonautwiki.org/wiki/Tactile_hallucinations",
-      "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
-      "Thought disorganization": "https://psychonautwiki.org/wiki/Thought_disorganization",
-      "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
-      "Unspeakable horrors": "https://psychonautwiki.org/wiki/Unspeakable_horrors",
-      "Vibrating vision": "https://psychonautwiki.org/wiki/Vibrating_vision",
-      "Visual haze": "https://psychonautwiki.org/wiki/Visual_haze"
-    },
-    "sources": {
-      "_general": [
-        "Dose-dependent toxicity of diphenhydramine overdose - http://www.ncbi.nlm.nih.gov/pubmed/11204550"
-      ]
-    }
-  },
   "dpt": {
     "aliases": [
       "dipropyltryptamine"
@@ -18555,299 +18863,6 @@
       "effects": "Delirium, Dream-Like-Experiences, Paranoia, Visual and audio distortions, dry mouth, muscle cramps, Nausea, Dysphoria, Tremors.",
       "onset": "30-90 minutes",
       "summary": "A combination of diphenhydramine and a mild stimulant to counteract the drowsiness accompanied by typical medical use of diphenhydramine. Roughly half the potency of DPH. Small doses can relieve motion sickness, reduce body load from opioids or DXM. Becomes a deliriant in high doses, keeping the user awake and often causing dysphoric, realistic hallucinations."
-    }
-  },
-  "dxm": {
-    "aliases": [
-      "dextromethorphan",
-      "robo",
-      "syrup",
-      "robotussin",
-      "dex",
-      "robitussin"
-    ],
-    "categories": [
-      "dissociative",
-      "habit-forming",
-      "common"
-    ],
-    "combos": {
-      "2c-t-x": {
-        "status": "Unsafe"
-      },
-      "2c-x": {
-        "status": "Low Risk & Synergy"
-      },
-      "5-meo-xxt": {
-        "note": "Little information exists about this combination.",
-        "status": "Unsafe"
-      },
-      "alcohol": {
-        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place affected patients in the recovery position to prevent vomit aspiration from excess. Additionally, CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
-        "status": "Dangerous"
-      },
-      "amphetamines": {
-        "note": "Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues.",
-        "status": "Unsafe"
-      },
-      "amt": {
-        "status": "Dangerous"
-      },
-      "benzodiazepines": {
-        "note": "Small doses of benzos can end a bad trip, but both substances potentiate the ataxia and sedation caused by the other and this can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
-        "status": "Caution"
-      },
-      "benzos": {
-        "note": "Small doses of benzos can end a bad trip, but both substances potentiate the ataxia and sedation caused by the other and this can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
-        "status": "Caution"
-      },
-      "caffeine": {
-        "note": "High doses of caffeine can potentially exacerbate anxiety, especially during a dissociative experience, due to its stimulating effects. This combination might also lead to physical discomfort. However, individual responses to caffeine can vary significantly, often influenced by factors like habitual versus occasional usage.",
-        "sources": [
-          {
-            "author": "Chad J Reissig, Lawrence P Carter, Matthew W Johnson, Miriam Z Mintzer, Margaret A Klinedinst, Roland R Griffiths",
-            "title": "High doses of dextromethorphan, an NMDA antagonist, produce effects similar to classic hallucinogens ",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/22526529/"
-          },
-          {
-            "author": "Arthur Eumann Mesas, Luz M Leon-Muñoz, Fernando Rodriguez-Artalejo, Esther Lopez-Garcia",
-            "title": "The effect of coffee on blood pressure and cardiovascular disease in hypertensive individuals: a systematic review and meta-analysis ",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/21880846/"
-          },
-          {
-            "author": "M-L Nurminen, L Niittynen, R Korpela & H Vapaatalo",
-            "title": "Coffee, caffeine and blood pressure: a critical review",
-            "url": "https://www.nature.com/articles/1600899"
-          }
-        ],
-        "status": "Caution"
-      },
-      "cannabis": {
-        "status": "Low Risk & Synergy"
-      },
-      "cocaine": {
-        "note": "Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues",
-        "status": "Unsafe"
-      },
-      "dmt": {
-        "status": "Low Risk & Synergy"
-      },
-      "dox": {
-        "note": "The DOx class as psychedelic stimulants have the potential to mask the effects of DXM and could lead to redosing to an unsafe level. DXM can also potentiate DOx resulting in an unpleasantly intense experience.",
-        "status": "Unsafe"
-      },
-      "ghb/gbl": {
-        "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the patient falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
-        "status": "Dangerous"
-      },
-      "ketamine": {
-        "note": "Both substances primarily exert their effects through NMDA antagonism. Currently, there is no evidence regarding mechanisms that might reduce these effects.",
-        "sources": [
-          {
-            "author": "Jeanna M. Marraffa",
-            "title": "Dextromethorphan",
-            "url": "https://doi.org/10.1016/B978-0-12-824315-2.00127-5"
-          },
-          {
-            "author": "Georges Mion, Thierry Villevieille",
-            "title": "Ketamine Pharmacology: An Update (Pharmacodynamics and Molecular Aspects, Recent Findings)",
-            "url": "https://doi.org/10.1111/cns.12099"
-          },
-          {
-            "author": "P. Klepstad, P. C. Borchgrevink",
-            "title": "Four years' treatment with ketamine and a trial of dextromethorphan in a patient with severe post-herpetic neuralgia",
-            "url": "https://doi.org/10.1111/j.1399-6576.1997.tb04709.x"
-          },
-          {
-            "author": "Stephen M. Stahl",
-            "title": "Mechanism of action of dextromethorphan/quinidine: comparison with ketamine",
-            "url": "https://doi.org/10.1017/S109285291300062X"
-          },
-          {
-            "author": "A M Hughes,1 J Rhodes,1 G Fisher,2 M Sellers,3 and J W Growcott1",
-            "title": "Assessment of the effect of dextromethorphan and ketamine on the acute nociceptive threshold and wind-up of the second pain response in healthy male volunteers",
-            "url": "https://doi.org/10.1046%2Fj.1365-2125.2002.01602.x"
-          },
-          {
-            "author": "Keiji Tabuchi, MD, Zenya Ito, MD, Shigeki Tsuji, MD, Akira Hara, MD, Tetsuro Wada, MD, Jun Kusakari, MD",
-            "title": "Effect of Ketamine, Dextromethorphan, and MK-801 on Cochlear Dysfunction Induced by Transient Ischemia",
-            "url": "https://doi.org/10.1177/000348940211100107"
-          }
-        ],
-        "status": "Low Risk & Synergy"
-      },
-      "lsd": {
-        "status": "Low Risk & Synergy"
-      },
-      "maois": {
-        "note": "High risk of serotonin syndrome",
-        "status": "Dangerous"
-      },
-      "mdma": {
-        "status": "Dangerous"
-      },
-      "mescaline": {
-        "status": "Low Risk & Synergy"
-      },
-      "mushrooms": {
-        "status": "Low Risk & Synergy"
-      },
-      "mxe": {
-        "note": "There is a risk of serotonin syndrome when combining DXM with MXE, due to DXM and MXE both being SRI’s. MXE and DXM having notable affinities for the serotonin transporter.",
-        "sources": [
-          {
-            "author": "Bryan L. Roth, Simon Gibbons, Warunya Arunotayanun, Xi-Ping Huang, Vincent Setola, Ric Treble, Les Iversen",
-            "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor",
-            "url": "https://doi.org/10.1371/journal.pone.0059334"
-          },
-          {
-            "author": "Matteo Marti, Giuseppe Talani, Cristina Miliano, Sabrine Bilel, Francesca Biggio, Jessica Bratzu, Marco Diana, Maria Antonietta De Luca, Liana Fattore",
-            "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat ",
-            "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
-          },
-          {
-            "author": "Laura Hondebrink, Emma E.J. Kasteel, Anke M. Tukker, Fiona M.J. Wijnolts, Anouk H.A. Verboven, Remco H.S. Westerink",
-            "title": "Neuropharmacological characterization of the new psychoactive substance methoxetamine",
-            "url": "https://doi.org/10.1016/j.neuropharm.2017.04.035"
-          },
-          {
-            "author": "Linda L. Werling, Ashleigh Keller, Julie G. Frank, Samer J. Nuwayhid",
-            "title": "A comparison of the binding profiles of dextromethorphan, memantine, fluoxetine and amitriptyline: Treatment of involuntary emotional expression disorder",
-            "url": "https://doi.org/10.1016/j.expneurol.2007.06.013"
-          },
-          {
-            "author": "Linda Nguyen, Kelan L. Thomas, Brandon P. Lucke-Wold, John Z. Cavendish, Molly S. Crowe, Rae R. Matsumoto",
-            "title": "Dextromethorphan: An update on its utility for neurological and neuropsychiatric disorders",
-            "url": "https://doi.org/10.1016/j.pharmthera.2016.01.016"
-          }
-        ],
-        "status": "Unsafe"
-      },
-      "nbomes": {
-        "status": "Unsafe"
-      },
-      "nitrous": {
-        "status": "Low Risk & Synergy"
-      },
-      "opioids": {
-        "note": "CNS depression, difficult breathing, heart issues, hepatoxic, just very unsafe combination all around. Additionally if one takes dxm, their tolerance of opiates goes down slightly, thus causing additional synergistic effects.",
-        "status": "Dangerous"
-      },
-      "pcp": {
-        "status": "Dangerous"
-      },
-      "ssris": {
-        "note": "High risk of serotonin syndrome.",
-        "status": "Dangerous"
-      },
-      "tramadol": {
-        "status": "Dangerous"
-      }
-    },
-    "dose_note": " NOTE: See http://dxm.tripsit.me for mg/lb doses, among other things. Deaths have been reported at 25mg/kg",
-    "formatted_aftereffects": {
-      "_unit": "hours",
-      "value": "1-12"
-    },
-    "formatted_dose": {
-      "Oral": {
-        "Common": "2.5-7.5mg/kg",
-        "Heavy": "15-20mg/kg",
-        "Light": "1.5-2.5mg/kg",
-        "Strong": "7.5-15mg/kg"
-      }
-    },
-    "formatted_duration": {
-      "_unit": "hours",
-      "value": "6-8"
-    },
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "20-60"
-    },
-    "links": {
-      "experiences": "https://www.erowid.org/experiences/subs/exp_DXM.shtml"
-    },
-    "name": "dxm",
-    "pretty_name": "DXM",
-    "properties": {
-      "after-effects": "1-12 hours.",
-      "aliases": [
-        "dextromethorphan",
-        "robo",
-        "syrup",
-        "robotussin",
-        "dex",
-        "robitussin"
-      ],
-      "calculator": "http://dxm.tripsit.me",
-      "categories": [
-        "dissociative",
-        "habit-forming",
-        "common"
-      ],
-      "chart": "http://taimapedia.org/images/4/46/DXMDosingChart.png",
-      "dose": "Oral First-Plateau: 1.5-2.5mg/kg Second-Plateau: 2.5-7.5mg/kg Third-Plateau: 7.5-15mg/kg Fourth: 15-20mg/kg | NOTE: See http://dxm.tripsit.me for mg/lb doses, among other things. Deaths have been reported at 25mg/kg",
-      "duration": "6-8 hours",
-      "onset": "20-60 minutes",
-      "summary": "Commonly found in certain over the counter cough medicines. Has dissociative effects similar to ketamine or MXE, though also shares properties with opioids and alcohol. Make sure DXM is the only active ingredient in the preparation."
-    },
-    "pweffects": {
-      "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
-      "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
-      "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
-      "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
-      "Auditory suppression": "https://psychonautwiki.org/wiki/Auditory_suppression",
-      "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
-      "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
-      "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
-      "Consciousness disconnection": "https://psychonautwiki.org/wiki/Consciousness_disconnection",
-      "Cough suppression": "https://psychonautwiki.org/wiki/Cough_suppression",
-      "Creativity enhancement": "https://psychonautwiki.org/wiki/Creativity_enhancement",
-      "Déjà vu": "https://psychonautwiki.org/wiki/D%C3%A9j%C3%A0_vu",
-      "Depersonalization": "https://psychonautwiki.org/wiki/Depersonalization",
-      "Derealization": "https://psychonautwiki.org/wiki/Derealization",
-      "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
-      "Double vision": "https://psychonautwiki.org/wiki/Double_vision",
-      "Environmental cubism": "https://psychonautwiki.org/wiki/Environmental_cubism",
-      "Environmental orbism": "https://psychonautwiki.org/wiki/Environmental_orbism",
-      "External hallucinations": "https://psychonautwiki.org/wiki/External_hallucinations",
-      "Frame rate suppression": "https://psychonautwiki.org/wiki/Frame_rate_suppression",
-      "Geometry": "https://psychonautwiki.org/wiki/Geometry",
-      "Immersion enhancement": "https://psychonautwiki.org/wiki/Immersion_enhancement",
-      "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
-      "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
-      "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
-      "Nausea": "https://psychonautwiki.org/wiki/Nausea",
-      "Pattern recognition suppression": "https://psychonautwiki.org/wiki/Pattern_recognition_suppression",
-      "Perception of decreased weight": "https://psychonautwiki.org/wiki/Perception_of_decreased_weight",
-      "Personal bias suppression": "https://psychonautwiki.org/wiki/Personal_bias_suppression",
-      "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
-      "Perspective distortions": "https://psychonautwiki.org/wiki/Perspective_distortions",
-      "Physical autonomy": "https://psychonautwiki.org/wiki/Physical_autonomy",
-      "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
-      "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
-      "Scenery slicing": "https://psychonautwiki.org/wiki/Scenery_slicing",
-      "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
-      "Tactile disconnection": "https://psychonautwiki.org/wiki/Tactile_disconnection",
-      "Tactile suppression": "https://psychonautwiki.org/wiki/Tactile_suppression",
-      "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
-      "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
-      "Unity and interconnectedness": "https://psychonautwiki.org/wiki/Unity_and_interconnectedness",
-      "Visual disconnection": "https://psychonautwiki.org/wiki/Visual_disconnection",
-      "Visual sliding": "https://psychonautwiki.org/wiki/Visual_sliding"
-    },
-    "sources": {
-      "_general": [
-        "Dextromethorphan and its metabolite dextrorphan block alpha3beta4 neuronal nicotinic receptors. - http://www.ncbi.nlm.nih.gov/pubmed/10869398",
-        "Dextromethorphan potentiates the antinociceptive effects of morphine and the delta-opioid agonist SNC80 in squirrel monkeys. - http://www.ncbi.nlm.nih.gov/pubmed/11805202",
-        "Dextromethorphan psychosis, dependence and physical withdrawal. - http://www.ncbi.nlm.nih.gov/pubmed/16318953",
-        "Evaluation the effects of dextromethorphan and midazolam on morphine induced tolerance and dependence in mice. - http://www.ncbi.nlm.nih.gov/pubmed/18819620",
-        "Dextromethorphan as a potential rapid-acting antidepressant. - http://www.ncbi.nlm.nih.gov/pubmed/21367535",
-        "The treatment of heroin addicts with dextromethorphan: a double-blind comparison of dextromethorphan with chlorpromazine. - http://www.ncbi.nlm.nih.gov/pubmed/2187002",
-        "High doses of dextromethorphan, an NMDA antagonist, produce effects similar to classic hallucinogens. - http://www.ncbi.nlm.nih.gov/pubmed/22526529",
-        "Lack of efficacy of dextromethorphan in managing alcohol withdrawal: a preliminary report of a randomized, double-blind, placebo-controlled trial. - http://www.ncbi.nlm.nih.gov/pubmed/24346753"
-      ]
     }
   },
   "eflea": {
@@ -20109,7 +20124,7 @@
     ],
     "formatted_aftereffects": {
       "_unit": "hours",
-      "value": "36+"
+      "value": "36"
     },
     "formatted_dose": {
       "Oral": {
@@ -21000,6 +21015,34 @@
       "habit-forming",
       "common"
     ],
+    "combos": {
+      "diphenhydramine": {
+        "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
+        "sources": [
+          {
+            "author": "William J Tharion, Donna J. McMenemy, Terry M. Rauch",
+            "title": "Antihistamine Effects on the Central Nervous System, Cognitive Performance and Subjective States. ",
+            "url": "https://doi.org/10.1159/000119069"
+          },
+          {
+            "author": "Sicari V, Zabbo CP. Diphenhydramine.",
+            "title": "Diphenhydramine",
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK526010/"
+          },
+          {
+            "author": "Couper FJ, Marinetti LJ.",
+            "title": "γ-Hydroxybutyrate (GHB) - Effects on Human Performance and Behavior ",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26256488/"
+          },
+          {
+            "author": "Busardò FP, Jones AW.",
+            "title": "GHB Pharmacology and Toxicology: Acute Intoxication, Concentrations in Blood and Urine in Forensic Cases and Treatment of the Withdrawal Syndrome",
+            "url": "https://doi.org/10.2174%2F1570159X13666141210215423"
+          }
+        ],
+        "status": "Dangerous"
+      }
+    },
     "dose_note": " NOTE: Tends to induce heavy sedation from about the 3g mark.",
     "formatted_aftereffects": {
       "_unit": "hours",
@@ -21981,7 +22024,7 @@
       "duration": "Oral: 3-4 hours | Insufflated: 2-3 hours | Intravenous: 1-2 hours.",
       "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil Constriction, Analgesia.",
       "onset": "Oral 30-60 minutes | Insufflated 5-10 minutes | Intravenous 0-1 minutes",
-      "summary": "An opioid that is roughly 5x the potency of IV Morphine. Only comes in IR tablets in the US, and is given mostly as XR in other countries. It is frequently used in hospitals for short, but immediate pain relief during procedures requiring the patient to be awake. Also frequently used as a recreational opiate."
+      "summary": "An opioid that is roughly 5x the potency of IV Morphine. Only comes in IR tablets in the US, and is given mostly as XR in other countries. It is frequently used in hospitals for short immediate pain relief during procedures, requiring the patient to be awake. Also frequently used as a recreational opiate."
     }
   },
   "hydroxyzine": {
@@ -22661,10 +22704,6 @@
         "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
         "status": "Caution"
       },
-      "benzos": {
-        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
-        "status": "Caution"
-      },
       "caffeine": {
         "note": "No unexpected interactions.",
         "status": "Low Risk & No Synergy"
@@ -22676,14 +22715,7 @@
         "note": "No unexpected interactions, though likely to increase blood pressure but not an issue with sensible doses. Moving around on high doses of this combination may be ill advised due to risk of physical injury.",
         "status": "Caution"
       },
-      "dmt": {
-        "status": "Low Risk & Synergy"
-      },
-      "dox": {
-        "note": "Ketamine and psychedelics tend to potentiate each other - go slowly.",
-        "status": "Low Risk & Synergy"
-      },
-      "dxm": {
+      "dextromethorphan": {
         "note": "Both substances primarily exert their effects through NMDA antagonism. Currently, there is no evidence regarding mechanisms that might reduce these effects.",
         "sources": [
           {
@@ -22717,6 +22749,13 @@
             "url": "https://doi.org/10.1177/000348940211100107"
           }
         ],
+        "status": "Low Risk & Synergy"
+      },
+      "dmt": {
+        "status": "Low Risk & Synergy"
+      },
+      "dox": {
+        "note": "Ketamine and psychedelics tend to potentiate each other - go slowly.",
         "status": "Low Risk & Synergy"
       },
       "ghb/gbl": {
@@ -23508,6 +23547,47 @@
           }
         ],
         "status": "Low Risk & No Synergy"
+      },
+      "tramadol": {
+        "note": "Tramadol and Lithium both increase the risk of seizures and serotonin syndrome.",
+        "sources": [
+          {
+            "author": "Steven C. Julius, Richard P. Brenner",
+            "title": "Myoclonic seizures with lithium",
+            "url": "https://doi.org/10.1016/0006-3223(87)90026-6"
+          },
+          {
+            "author": "Charles DeBattista, Mehmet Sofuoglu, and Alan F. Schatzberg",
+            "title": "Serotonergic Synergism: The Risks and Benefits of Combining the Selective Serotonin Reuptake Inhibitors with Other Serotonergic Drugs",
+            "url": "https://doi.org/10.1016/s0006-3223(98)00161-9"
+          },
+          {
+            "author": "Massot, O., Rousselle, JC., Fillion, MP. et al.",
+            "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders",
+            "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+          },
+          {
+            "author": "Sameer Hassamal, Karen Miotto, William Dale, Itai Danovitch ",
+            "title": "Tramadol: Understanding the Risk of Serotonin Syndrome and Seizures",
+            "url": "https://doi.org/10.1016/j.amjmed.2018.04.025"
+          },
+          {
+            "author": "Boostani R, Derakhshan S.",
+            "title": "Tramadol induced seizure: A 3-year study.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24009919/"
+          },
+          {
+            "author": "Lagard, C.; Vodovar, D.; Chevillard, L.; Callebert, J.; Caillé, F.; Pottier, G.; Liang, H.; Risède, P.; Tournier, N.; Mégarbane, B.",
+            "title": "Investigation of the Mechanisms of Tramadol-Induced Seizures in Overdose in the Rat ",
+            "url": "https://doi.org/10.3390/ph15101254 "
+          },
+          {
+            "author": "Sansone RA, Sansone LA.",
+            "title": "Tramadol",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19724727"
+          }
+        ],
+        "status": "Dangerous"
       }
     },
     "name": "lithium",
@@ -23846,9 +23926,6 @@
       "benzodiazepines": {
         "status": "Low Risk & Decrease"
       },
-      "benzos": {
-        "status": "Low Risk & Decrease"
-      },
       "caffeine": {
         "status": "Low Risk & No Synergy"
       },
@@ -23860,13 +23937,13 @@
         "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
         "status": "Caution"
       },
+      "dextromethorphan": {
+        "status": "Low Risk & Synergy"
+      },
       "dmt": {
         "status": "Low Risk & Synergy"
       },
       "dox": {
-        "status": "Low Risk & Synergy"
-      },
-      "dxm": {
         "status": "Low Risk & Synergy"
       },
       "ghb/gbl": {
@@ -23922,6 +23999,13 @@
         "status": "Low Risk & Synergy"
       },
       "nbomes": {
+        "sources": [
+          {
+            "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
+            "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. Academic Forensic Pathology",
+            "url": "https://doi.org/10.23907/2015.009"
+          }
+        ],
         "status": "Low Risk & Synergy"
       },
       "nitrous": {
@@ -24209,10 +24293,6 @@
     "formatted_duration": {
       "_unit": "hours",
       "Oral": "4-12"
-    },
-    "formatted_onset": {
-      "_unit": "hours",
-      "value": "Oral"
     },
     "name": "marinol",
     "pretty_name": "Marinol",
@@ -24576,11 +24656,8 @@
       "benzodiazepines": {
         "status": "Low Risk & Decrease"
       },
-      "benzos": {
-        "status": "Low Risk & Decrease"
-      },
       "caffeine": {
-        "note": "Caffeine increases side effects and increases any neurotoxic effects from MDMA",
+        "note": "Caffiene is not really necessary with MDMA and increases any neurotoxic effects from MDMA",
         "status": "Caution"
       },
       "cannabis": {
@@ -24591,15 +24668,15 @@
         "note": "Cocaine blocks some of the desirable effects of MDMA while increasing the risk of heart attack.",
         "status": "Caution"
       },
+      "dextromethorphan": {
+        "status": "Dangerous"
+      },
       "dmt": {
         "status": "Low Risk & Synergy"
       },
       "dox": {
         "note": "The combined stimulating effects of the two can be uncomfortable. Coming down on the MDMA while the DOx is still active can be quite anxiogenic. ",
         "status": "Caution"
-      },
-      "dxm": {
-        "status": "Dangerous"
       },
       "ghb/gbl": {
         "note": "Large amounts of GHB/GBL may overwhelm the effects of MDMA on the comedown.",
@@ -25303,10 +25380,6 @@
       "confusion",
       "insomnia"
     ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Within"
-    },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_MEM.shtml",
       "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal122.shtml"
@@ -25420,6 +25493,47 @@
           }
         ],
         "status": "Caution"
+      },
+      "dextromethorphan": {
+        "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. In addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
+        "sources": [
+          {
+            "author": "J Kehr,  F Ichinose,  S Yoshitake,  M Goiny,  T Sievertsson,  F Nyberg,  T Yoshitake",
+            "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
+            "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+          },
+          {
+            "author": "Gregory C. Hadlock, Katy M. Webb, Lisa M. McFadden, Pei Wen Chu, Jonathan D. Ellis, Scott C. Allen, David M. Andrenyak, Paula L. Vieira-Brock, Christopher L. German, Kevin M. Conrad, Amanda J. Hoonakker, James W. Gibb, Diana G. Wilkins, Glen R. Hanson and Annette E. Fleckenstein",
+            "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse",
+            "url": "https://doi.org/10.1124/jpet.111.184119 "
+          },
+          {
+            "author": "Anna R. Schwartz, Anthony F. Pizon & Daniel E. Brooks",
+            "title": "Dextromethorphan-induced serotonin syndrome",
+            "url": "https://doi.org/10.1080/15563650701668625"
+          },
+          {
+            "author": "DrugBank",
+            "title": "Dextromethorphan",
+            "url": "https://go.drugbank.com/drugs/DB00514"
+          },
+          {
+            "author": "Henderson MG, Fuller RW",
+            "title": "Dextromethorphan antagonizes the acute depletion of brain serotonin by p-chloroamphetamine and H75/12 in rats",
+            "url": "https://doi.org/10.1016/0006-8993(92)91144-4"
+          },
+          {
+            "author": "Reissig CJ, Carter LP, Johnson MW, Mintzer MZ, Klinedinst MA, Griffiths RR",
+            "title": "High doses of dextromethorphan, an NMDA antagonist, produce effects similar to classic hallucinogens ",
+            "url": "https://doi.org/10.1007/s00213-012-2680-6"
+          },
+          {
+            "author": "Meng H, Cao J, Kang J, Ying X, Ji J, Reynolds W, Rampe D.",
+            "title": "Mephedrone, a new designer drug of abuse, produces acute hemodynamic effects in the rat ",
+            "url": "https://doi.org/10.1016/j.toxlet.2011.10.010"
+          }
+        ],
+        "status": "Dangerous"
       }
     },
     "formatted_aftereffects": {
@@ -25632,9 +25746,6 @@
       "benzodiazepines": {
         "status": "Low Risk & Decrease"
       },
-      "benzos": {
-        "status": "Low Risk & Decrease"
-      },
       "caffeine": {
         "note": "High doses of caffeine are uncomfortable and this will be magnified by psychedelics",
         "status": "Low Risk & No Synergy"
@@ -25647,14 +25758,14 @@
         "note": "The focus and anxiety caused by stimulants is magnified by psychedelics and results in an increased risk of thought loops",
         "status": "Caution"
       },
+      "dextromethorphan": {
+        "status": "Low Risk & Synergy"
+      },
       "dmt": {
         "status": "Low Risk & Synergy"
       },
       "dox": {
         "status": "Caution"
-      },
-      "dxm": {
-        "status": "Low Risk & Synergy"
       },
       "ghb/gbl": {
         "status": "Low Risk & Decrease"
@@ -25934,10 +26045,6 @@
         "Light": "9.5mg-18.75mg",
         "Strong": "35-50mg+"
       }
-    },
-    "formatted_onset": {
-      "_unit": "hours",
-      "value": "duration"
     },
     "name": "metaclazepam",
     "pretty_name": "Metaclazepam",
@@ -26312,7 +26419,7 @@
         "desoxyn",
         "tik"
       ],
-      "avoid": "Rinsing mouth with mouthwash high in alcohol due to drying effects; using sugar filled chewing gum; usage within 14 days of MAOI - Also: Just avoid meth in the first place. Please.",
+      "avoid": "Rinsing mouth with mouthwash high in alcohol due to drying effects; using sugar filled chewing gum; usage within 14 days of MAOI.",
       "bioavailability": "Oral 55-62.7% | Insufflated 75-80% | Vapourized 67-90.3%.",
       "categories": [
         "stimulant",
@@ -27595,14 +27702,6 @@
         "Strong": "20-35mg"
       }
     },
-    "formatted_duration": {
-      "_unit": "hours",
-      "value": "Oral"
-    },
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Oral"
-    },
     "name": "morpheridine",
     "pretty_name": "Morpheridine",
     "properties": {
@@ -27891,9 +27990,6 @@
       "benzodiazepines": {
         "status": "Low Risk & Decrease"
       },
-      "benzos": {
-        "status": "Low Risk & Decrease"
-      },
       "caffeine": {
         "status": "Low Risk & No Synergy"
       },
@@ -27905,13 +28001,13 @@
         "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
         "status": "Caution"
       },
+      "dextromethorphan": {
+        "status": "Low Risk & Synergy"
+      },
       "dmt": {
         "status": "Low Risk & Synergy"
       },
       "dox": {
-        "status": "Low Risk & Synergy"
-      },
-      "dxm": {
         "status": "Low Risk & Synergy"
       },
       "ghb/gbl": {
@@ -28128,11 +28224,7 @@
         "status": "Dangerous"
       },
       "benzodiazepines": {
-        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place affected patients in the recovery position to prevent vomit aspiration from excess.",
-        "status": "Caution"
-      },
-      "benzos": {
-        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place affected patients in the recovery position to prevent vomit aspiration from excess.",
+        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess.",
         "status": "Caution"
       },
       "caffeine": {
@@ -28146,6 +28238,37 @@
         "note": "Stimulants taken with MXE can lead to hypermanic states much more easily, especially if sleep is avoided.",
         "status": "Caution"
       },
+      "dextromethorphan": {
+        "note": "There is a risk of serotonin syndrome when combining DXM with MXE, due to DXM and MXE both being SRI’s. MXE and DXM having notable affinities for the serotonin transporter.",
+        "sources": [
+          {
+            "author": "Bryan L. Roth, Simon Gibbons, Warunya Arunotayanun, Xi-Ping Huang, Vincent Setola, Ric Treble, Les Iversen",
+            "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor",
+            "url": "https://doi.org/10.1371/journal.pone.0059334"
+          },
+          {
+            "author": "Matteo Marti, Giuseppe Talani, Cristina Miliano, Sabrine Bilel, Francesca Biggio, Jessica Bratzu, Marco Diana, Maria Antonietta De Luca, Liana Fattore",
+            "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat ",
+            "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+          },
+          {
+            "author": "Laura Hondebrink, Emma E.J. Kasteel, Anke M. Tukker, Fiona M.J. Wijnolts, Anouk H.A. Verboven, Remco H.S. Westerink",
+            "title": "Neuropharmacological characterization of the new psychoactive substance methoxetamine",
+            "url": "https://doi.org/10.1016/j.neuropharm.2017.04.035"
+          },
+          {
+            "author": "Linda L. Werling, Ashleigh Keller, Julie G. Frank, Samer J. Nuwayhid",
+            "title": "A comparison of the binding profiles of dextromethorphan, memantine, fluoxetine and amitriptyline: Treatment of involuntary emotional expression disorder",
+            "url": "https://doi.org/10.1016/j.expneurol.2007.06.013"
+          },
+          {
+            "author": "Linda Nguyen, Kelan L. Thomas, Brandon P. Lucke-Wold, John Z. Cavendish, Molly S. Crowe, Rae R. Matsumoto",
+            "title": "Dextromethorphan: An update on its utility for neurological and neuropsychiatric disorders",
+            "url": "https://doi.org/10.1016/j.pharmthera.2016.01.016"
+          }
+        ],
+        "status": "Unsafe"
+      },
       "dmt": {
         "status": "Low Risk & Synergy"
       },
@@ -28153,24 +28276,8 @@
         "note": "As an NMDA antagonist MXE potentiates DOx which can be unpleasantly intense",
         "status": "Caution"
       },
-      "dxm": {
-        "note": "There is a risk of serotonin syndrome when combining DXM with MXE, as DXM can induce serotonin syndrome in conjunction with other serotonin reuptake inhibitors, and MXE has shown a notable affinity for the serotonin transporter.",
-        "sources": [
-          {
-            "author": "Matteo Marti, Giuseppe Talani, Cristina Miliano, Sabrine Bilel, Francesca Biggio, Jessica Bratzu, Marco Diana,Maria Antonietta De Luca, Liana Fattore ",
-            "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor",
-            "url": "https://doi.org/10.1371/journal.pone.0059334"
-          },
-          {
-            "author": "Bryan L. Roth, Simon Gibbons, Warunya Arunotayanun, Xi-Ping Huang, Vincent Setola, Ric Treble, Les Iversen",
-            "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat ",
-            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0014488621002442"
-          }
-        ],
-        "status": "Unsafe"
-      },
       "ghb/gbl": {
-        "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the patient falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
+        "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
         "status": "Dangerous"
       },
       "ketamine": {
@@ -28377,10 +28484,6 @@
       "_unit": "hours",
       "value": "3-5"
     },
-    "formatted_onset": {
-      "_unit": "hours",
-      "value": "Varying"
-    },
     "name": "mxm",
     "pretty_name": "MXM",
     "properties": {
@@ -28415,10 +28518,6 @@
     "formatted_duration": {
       "_unit": "hours",
       "value": "6-12"
-    },
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Within"
     },
     "name": "naphyrone",
     "pretty_name": "Naphyrone",
@@ -29043,9 +29142,6 @@
       "benzodiazepines": {
         "status": "Low Risk & Decrease"
       },
-      "benzos": {
-        "status": "Low Risk & Decrease"
-      },
       "caffeine": {
         "status": "Low Risk & No Synergy"
       },
@@ -29055,13 +29151,13 @@
       "cocaine": {
         "status": "Low Risk & Synergy"
       },
+      "dextromethorphan": {
+        "status": "Low Risk & Synergy"
+      },
       "dmt": {
         "status": "Low Risk & Synergy"
       },
       "dox": {
-        "status": "Low Risk & Synergy"
-      },
-      "dxm": {
         "status": "Low Risk & Synergy"
       },
       "ghb/gbl": {
@@ -30074,10 +30170,6 @@
       "Pupil constriction",
       "Analgesia"
     ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Insufflated"
-    },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_4Fluorobutyrfentanyl.shtml"
     },
@@ -30199,10 +30291,6 @@
       "_unit": "hours",
       "value": "2-5"
     },
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "Insufflated"
-    },
     "name": "pce",
     "pretty_name": "PCE",
     "properties": {
@@ -30259,10 +30347,6 @@
         "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely",
         "status": "Unsafe"
       },
-      "benzos": {
-        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely",
-        "status": "Unsafe"
-      },
       "caffeine": {
         "note": "Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.",
         "status": "Caution"
@@ -30274,15 +30358,15 @@
         "note": "This combination can easily lead to hypermanic states",
         "status": "Unsafe"
       },
+      "dextromethorphan": {
+        "status": "Dangerous"
+      },
       "dmt": {
         "status": "Low Risk & Synergy"
       },
       "dox": {
         "note": "Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.",
         "status": "Unsafe"
-      },
-      "dxm": {
-        "status": "Dangerous"
       },
       "ghb/gbl": {
         "note": "Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.",
@@ -30828,7 +30912,7 @@
     ],
     "formatted_aftereffects": {
       "_unit": "hours",
-      "value": "36+"
+      "value": "36"
     },
     "formatted_dose": {
       "Oral": {
@@ -30839,7 +30923,7 @@
     },
     "formatted_duration": {
       "_unit": "hours",
-      "value": "18+"
+      "value": "18"
     },
     "formatted_effects": [
       "Anxiolytic",
@@ -32545,10 +32629,6 @@
     "categories": [
       "depressant"
     ],
-    "formatted_aftereffects": {
-      "_unit": "hours",
-      "value": "Can"
-    },
     "formatted_dose": {
       "Oral": {
         "Common": "50mg-150mg",
@@ -32571,10 +32651,6 @@
       "appetite change",
       "increased blood pressure"
     ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "Oral": "IR"
-    },
     "name": "quetiapine",
     "pretty_name": "Quetiapine",
     "properties": {
@@ -33577,7 +33653,7 @@
     },
     "formatted_onset": {
       "_unit": "minutes",
-      "Insufflated": "5-15mg.",
+      "Insufflated": "5-15",
       "Oral": "15-45"
     },
     "name": "thiopropamine",
@@ -33774,10 +33850,6 @@
       "research-chemical",
       "tentative"
     ],
-    "formatted_aftereffects": {
-      "_unit": "hours",
-      "value": "Possibility"
-    },
     "formatted_dose": {
       "Oral": {
         "Common": "20-40mg",
@@ -33837,10 +33909,6 @@
       "research-chemical",
       "tentative"
     ],
-    "formatted_aftereffects": {
-      "_unit": "hours",
-      "value": "Possibility"
-    },
     "formatted_dose": {
       "Oral": {
         "Common": "30-40mg",
@@ -33935,7 +34003,7 @@
         "status": "Unsafe"
       },
       "alcohol": {
-        "note": "Heavy CNS depressants, risk of seizures. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place affected patients in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely.",
+        "note": "Heavy CNS depressants, risk of seizures. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely.",
         "status": "Dangerous"
       },
       "amphetamines": {
@@ -33946,11 +34014,7 @@
         "status": "Dangerous"
       },
       "benzodiazepines": {
-        "note": "Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present. Vomit aspiration a risk when passed out, lay down in recovery position if ingested.",
-        "status": "Dangerous"
-      },
-      "benzos": {
-        "note": "Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present. Vomit aspiration a risk when passed out, lay down in recovery position if ingested.",
+        "note": "Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present. Vomit aspiration is a risk when passed out, lay down in recovery position if ingested.",
         "status": "Dangerous"
       },
       "caffeine": {
@@ -33963,6 +34027,9 @@
         "note": "Tramadol and stimulants both increase the risk of seizures.",
         "status": "Dangerous"
       },
+      "dextromethorphan": {
+        "status": "Dangerous"
+      },
       "dmt": {
         "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
         "status": "Unsafe"
@@ -33971,14 +34038,52 @@
         "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
         "status": "Unsafe"
       },
-      "dxm": {
-        "status": "Dangerous"
-      },
       "ghb/gbl": {
         "note": "The sedative effects of this combination can lead to dangerous respiratory depression.",
         "status": "Dangerous"
       },
       "ketamine": {
+        "status": "Dangerous"
+      },
+      "lithium": {
+        "note": "Tramadol and Lithium both increase the risk of seizures and serotonin syndrome.",
+        "sources": [
+          {
+            "author": "Steven C. Julius, Richard P. Brenner",
+            "title": "Myoclonic seizures with lithium",
+            "url": "https://doi.org/10.1016/0006-3223(87)90026-6"
+          },
+          {
+            "author": "Charles DeBattista, Mehmet Sofuoglu, and Alan F. Schatzberg",
+            "title": "Serotonergic Synergism: The Risks and Benefits of Combining the Selective Serotonin Reuptake Inhibitors with Other Serotonergic Drugs",
+            "url": "https://doi.org/10.1016/s0006-3223(98)00161-9"
+          },
+          {
+            "author": "Massot, O., Rousselle, JC., Fillion, MP. et al.",
+            "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders",
+            "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+          },
+          {
+            "author": "Sameer Hassamal, Karen Miotto, William Dale, Itai Danovitch ",
+            "title": "Tramadol: Understanding the Risk of Serotonin Syndrome and Seizures",
+            "url": "https://doi.org/10.1016/j.amjmed.2018.04.025"
+          },
+          {
+            "author": "Boostani R, Derakhshan S.",
+            "title": "Tramadol induced seizure: A 3-year study.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24009919/"
+          },
+          {
+            "author": "Lagard, C.; Vodovar, D.; Chevillard, L.; Callebert, J.; Caillé, F.; Pottier, G.; Liang, H.; Risède, P.; Tournier, N.; Mégarbane, B.",
+            "title": "Investigation of the Mechanisms of Tramadol-Induced Seizures in Overdose in the Rat ",
+            "url": "https://doi.org/10.3390/ph15101254 "
+          },
+          {
+            "author": "Sansone RA, Sansone LA.",
+            "title": "Tramadol",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19724727"
+          }
+        ],
         "status": "Dangerous"
       },
       "lsd": {
@@ -34012,7 +34117,7 @@
         "status": "Caution"
       },
       "opioids": {
-        "note": "Concomitant use of tramadol increases the seizure risk in patients taking other opioids. These agents are often individually epileptogenic and may have additive effects on seizure threshold during coadministration. Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present",
+        "note": "Concomitant use of tramadol increases the seizure risk in individuals taking other opioids. These agents are often individually epileptogenic and may have additive effects on seizure threshold during coadministration. Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present",
         "status": "Dangerous"
       },
       "pcp": {
