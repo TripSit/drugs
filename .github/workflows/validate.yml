@@ -1,6 +1,14 @@
 name: Validate changes
 
-on: [pull_request]
+on:
+  pull_request:
+    branches:
+      - main
+      - development
+    types:
+      - opened
+      - synchronize
+      - reopened
 
 jobs:
   check-drug-updates:
