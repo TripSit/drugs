@@ -1,0 +1,31 @@
+name: Validate changes
+
+on:
+  pull_request:
+    branches:
+      - main
+      - development
+    types:
+      - opened
+      - synchronize
+      - reopened
+
+jobs:
+  check-drug-updates:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v2
+    
+    - name: Set up Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '21' # Use whatever node version your project requires
+    
+    - name: Install Dependencies
+      run: npm install
+      
+    - name: Run validation script
+      run: npx ts-node ./scripts/combosToDrugs.ts --github-check
+      env:
+        CI: true
