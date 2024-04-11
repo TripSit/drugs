@@ -194,7 +194,7 @@ export interface Interactions {
 //   status: Status;
 // };
 
-export interface ComboData {
+export interface Combo {
   note?: string;
   sources?: {
     author: string;

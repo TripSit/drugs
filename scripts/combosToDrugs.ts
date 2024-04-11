@@ -135,25 +135,29 @@ export default async function compareData(): Promise<boolean>{
 
       // Combos.json stuff
 
-      // Double check the reverse interaction
-      if (!comboData[drugBName][drugAName]) {
-        // If the reverse interaction does not exist, create it
-        comboData[drugBName][drugAName] = {
-          status: interaction.status,
-          note: interaction.note,
-          sources: interaction.sources,
-        };
-        dataChanged = true;
-        log(`+ ${drugBName} + ${drugAName}`);
-      }
-      
-      if (JSON.stringify(comboData[drugBName][drugAName]) != JSON.stringify(interaction)) {
-        // If the status does not match, update it
-        log(`~ ${drugAName} + ${drugBName}`);
-        log(`drugACombo: ${JSON.stringify(interaction)}`);
-        log(`drugBCombo: ${JSON.stringify(comboData[drugBName][drugAName])}`);
-        comboData[drugBName][drugAName] = interaction;
-        dataChanged = true;
+      const reverseDrug = comboData[drugBName];
+
+      if (reverseDrug) {
+        // Double check the reverse interaction
+        if (!reverseDrug[drugAName]) {
+          // If the reverse interaction does not exist, create it
+          reverseDrug[drugAName] = {
+            status: interaction.status,
+            note: interaction.note,
+            sources: interaction.sources,
+          };
+          dataChanged = true;
+          log(`+ ${drugBName} + ${drugAName}`);
+        }
+        
+        if (JSON.stringify(reverseDrug[drugAName]) != JSON.stringify(interaction)) {
+          // If the status does not match, update it
+          log(`~ ${drugAName} + ${drugBName}`);
+          log(`drugACombo: ${JSON.stringify(interaction)}`);
+          log(`drugBCombo: ${JSON.stringify(reverseDrug[drugAName])}`);
+          reverseDrug[drugAName] = interaction;
+          dataChanged = true;
+        }
       }
 
       // Drugs.json stuff
