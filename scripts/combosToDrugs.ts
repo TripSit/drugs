@@ -83,7 +83,10 @@ function isWildcardCombo(comboName: keyof Combos): comboName is keyof typeof Wil
 function isAlphabetized(object: Record<string, any>): boolean {
   const keys = Object.keys(object);
   for (let i = 0; i < keys.length - 1; i++) {
-    if (keys[i].localeCompare(keys[i + 1]) > 0) {
+    // Using localeCompare with numeric option
+    if (keys[i].localeCompare(keys[i + 1], undefined, {numeric: true, sensitivity: 'base'}) > 0) {
+      console.log(`Key ${keys[i]} is greater than ${keys[i + 1]}`);
+      console.log(`Keys: ${keys}`);
       return false; // If a key is greater than the next one, it's not alphabetized
     }
   }
