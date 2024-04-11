@@ -33,14 +33,14 @@
       "note": "Cocaine and 2c-t-x both provide considerable stimulation. When combined they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.",
       "status": "Unsafe"
     },
+    "dextromethorphan": {
+      "status": "Unsafe"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
       "status": "Caution"
-    },
-    "dxm": {
-      "status": "Unsafe"
     },
     "ghb/gbl": {
       "status": "Low Risk & Decrease"
@@ -151,14 +151,14 @@
       "note": "The anxiogenic and focusing effects of stimulants increase the chance of unpleasant thought loops. The combination is generally unnecessary because of the stimulating effects of psychedelics. Combination of the stimulating effects may be uncomfortable.",
       "status": "Caution"
     },
+    "dextromethorphan": {
+      "status": "Low Risk & Synergy"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
       "status": "Caution"
-    },
-    "dxm": {
-      "status": "Low Risk & Synergy"
     },
     "ghb/gbl": {
       "status": "Low Risk & Decrease"
@@ -270,16 +270,16 @@
       "note": "The anxiogenic and focusing effects of stimulants increase the chance of unpleasant thought loops. The combination is generally unnecessary because of the stimulating effects of psychedelics. ",
       "status": "Unsafe"
     },
+    "dextromethorphan": {
+      "note": "Little information exists about this combination.",
+      "status": "Unsafe"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
       "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions, particularly increasing the risk of unpleasant physical side effects.",
       "status": "Caution"
-    },
-    "dxm": {
-      "note": "Little information exists about this combination.",
-      "status": "Unsafe"
     },
     "ghb/gbl": {
       "status": "Low Risk & Decrease"
@@ -359,8 +359,34 @@
       "status": "Low Risk & Synergy"
     },
     "cocaine": {
-      "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also allow you to drink past a point where you might normally pass out, increasing the risk. If you do decide to do this then you should set a limit of how much you will drink each hour and stick to it, bearing in mind that you will feel the alcohol less. Cocaine is potentiated somewhat by alcohol because of the formation of cocaethylene.",
+      "note": "Cocaine can decrease some of the intoxicating effects of alcohol, causing some people to drink more than they otherwise would, which leads to greater behavioral and physical health risks. There is also some debate about cocaethylene, a metabolite produced when combining alcohol and cocaine, with some researchers positing that it is more cardiotoxic than cocaine on its own. Use moderation when combining these substances.",
+      "sources": [
+        {
+          "author": "McCance-Katz, E. F., Kosten, T. R., & Jatlow, P. ",
+          "title": "Concurrent use of cocaine and alcohol is more potent and potentially more toxic than use of either alone—A multiple-dose study.",
+          "url": "https://doi.org/10.1016/S0006-3223(97)00426-5"
+        },
+        {
+          "author": "Pergolizzi, J., Breve, F., Magnusson, P., LeQuang, J. A. K., & Varrassi, G.",
+          "title": "Cocaethylene: When cocaine and alcohol are taken together.  (2022)",
+          "url": "https://doi.org/10.7759/cureus.22498"
+        },
+        {
+          "author": "Shastry, S., Manoochehri, O., Richardson, L. D., & Manini, A. F. ",
+          "title": "Cocaethylene cardiotoxicity in emergency department patients with acute drug overdose.",
+          "url": "https://doi.org/10.1111/acem.14584"
+        },
+        {
+          "author": "Wiener, S. E., Sutijono, D., Moon, C. H., Subramanian, R. A., Calaycay, J., Rushbrook, J. I., & Zehtabchi, S.",
+          "title": "Patients with detectable cocaethylene are more likely to require intensive care unit admission after trauma. ",
+          "url": "https://doi.org/10.1016/j.ajem.2009.06.014"
+        }
+      ],
       "status": "Unsafe"
+    },
+    "dextromethorphan": {
+      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Additionally, CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
+      "status": "Dangerous"
     },
     "dmt": {
       "status": "Low Risk & Decrease"
@@ -368,10 +394,6 @@
     "dox": {
       "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also  allow you to drink past a point where you might normally pass out, increasing the risk.",
       "status": "Low Risk & Decrease"
-    },
-    "dxm": {
-      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Additionally, CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
-      "status": "Dangerous"
     },
     "ghb/gbl": {
       "note": "Even in very low doses this combination rapidly leads to memory loss, severe ataxia and unconsciousness. There is a high risk of vomit aspiration while unconscious.",
@@ -389,7 +411,29 @@
       "status": "Unsafe"
     },
     "mdma": {
-      "note": "Both MDMA and alcohol cause dehydration. Approach this combination with caution, moderation and sufficient hydration. More than a small amount of alcohol will dull the euphoria of MDMA",
+      "note": "The combination of MDMA and alcohol may increase strain on the cardiovascular system and lead to increased alcohol consumption. MDMA may also impair one's ability to recognize their level of drunkenness, leading to increased alcohol consumption and poor decision-making. Alcohol may also increase the risk of dehydration and hyperthermia (increased body temperature) when combined with MDMA.",
+      "sources": [
+        {
+          "author": "Hamida, S. B., Plute, E., Cosquer, B., Kelche, C., Jones, B. C., & Cassel, J.-C. ",
+          "title": "Interactions between ethanol and cocaine, amphetamine, or MDMA in the rat: thermoregulatory and locomotor effects. (2008)",
+          "url": "https://doi.org/10.1007/s00213-007-1007-5"
+        },
+        {
+          "author": "Ramaekers, J. G., & Kuypers, K. P. C.",
+          "title": "Acute Effects of 3,4-Methylenedioxymethamphetamine (MDMA) on Behavioral Measures of Impulsivity: Alone and in Combination with Alcohol. (2006)",
+          "url": "https://doi.org/10.1038/sj.npp.1300894"
+        },
+        {
+          "author": "Hernández-López, C., Farré, M., Roset, P. N., Menoyo, E., Pizarro, N., Ortuño, J., Torrens, M., Camı́, J., & Torre, R. de la.",
+          "title": "3,4-Methylenedioxymethamphetamine (Ecstasy) and Alcohol Interactions in Humans: Psychomotor Performance, Subjective Effects, and Pharmacokinetics. (2002)",
+          "url": "https://doi.org/10.1124/jpet.300.1.236"
+        },
+        {
+          "author": "van Amsterdam, J., Brunt, T. M., Pierce, M., & van den Brink, W.",
+          "title": "Hard Boiled: Alcohol Use as a Risk Factor for MDMA-Induced Hyperthermia: a Systematic Review. (2021)",
+          "url": "https://doi.org/10.1007/s12640-021-00416-z"
+        }
+      ],
       "status": "Caution"
     },
     "mescaline": {
@@ -462,16 +506,16 @@
       "note": "This combination of stimulants will increase strain on the heart. It is not generally worth it as cocaine has a mild blocking effect on dopamine releasers like amphetamine",
       "status": "Caution"
     },
+    "dextromethorphan": {
+      "note": "Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues.",
+      "status": "Unsafe"
+    },
     "dmt": {
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
     },
     "dox": {
       "note": "The combined stimulating effects of the two can lead to an uncomfortable body-load, while the focusing effects of amphetamine can easily lead to thought loops. Coming down from amphetamines while the DOx is still active can be quite anxiogenic. ",
-      "status": "Unsafe"
-    },
-    "dxm": {
-      "note": "Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues.",
       "status": "Unsafe"
     },
     "ghb/gbl": {
@@ -481,6 +525,32 @@
     "ketamine": {
       "note": "No unexpected interactions, though likely to increase blood pressure but not an issue with sensible doses. Moving around on high doses of this combination may be ill advised due to risk of physical injury.",
       "status": "Caution"
+    },
+    "lithium": {
+      "note": "Lithium may be neuroprotective when taken with amphetamines and Lithium may decrease the hyperactive effects of amphetamines. Studies indicate this combination is safe.",
+      "sources": [
+        {
+          "author": "Ago, Y., Tanaka, T., Kita, Y., Tokumoto, H., Takuma, K., & Matsuda, T.",
+          "title": "Lithium attenuates methamphetamine-induced hyperlocomotion and behavioral sensitization via modulation of prefrontal monoamine release. (2012)",
+          "url": "https://doi.org/10.1016/j.neuropharm.2011.10.004"
+        },
+        {
+          "author": "Gould, T. D., O’Donnell, K. C., Picchini, A. M., & Manji, H. K.",
+          "title": "Strain Differences in Lithium Attenuation of d-Amphetamine-Induced Hyperlocomotion: A Mouse Model for the Genetics of Clinical Response to Lithium.  (2007)",
+          "url": "https://doi.org/10.1038/sj.npp.1301254"
+        },
+        {
+          "author": "Zhou, Z., Wang, Y., Tan, H., Bharti, V., Che, Y., & Wang, J.-F. ",
+          "title": "Chronic treatment with mood stabilizer lithium inhibits amphetamine-induced risk-taking manic-like behaviors. (2015)",
+          "url": "https://doi.org/10.1016/j.neulet.2015.07.027"
+        },
+        {
+          "author": "Silverstone, P. H., Pukhovsky, A., & Rotzinger, S.",
+          "title": "Lithium does not attenuate the effects of d-amphetamine in healthy volunteers. (1998)",
+          "url": "https://doi.org/10.1016/S0165-1781(98)00037-7"
+        }
+      ],
+      "status": "Low Risk & No Synergy"
     },
     "lsd": {
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
@@ -577,13 +647,13 @@
     "cocaine": {
       "status": "Dangerous"
     },
+    "dextromethorphan": {
+      "status": "Dangerous"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
-      "status": "Dangerous"
-    },
-    "dxm": {
       "status": "Dangerous"
     },
     "ghb/gbl": {
@@ -661,15 +731,15 @@
     "cocaine": {
       "status": "Low Risk & Decrease"
     },
+    "dextromethorphan": {
+      "note": "Small doses of benzos can end a bad trip, but both substances potentiate the ataxia and sedation caused by the other and this can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
+      "status": "Caution"
+    },
     "dmt": {
       "status": "Low Risk & Decrease"
     },
     "dox": {
       "status": "Low Risk & Decrease"
-    },
-    "dxm": {
-      "note": "Small doses of benzos can end a bad trip, but both substances potentiate the ataxia and sedation caused by the other and this can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
-      "status": "Caution"
     },
     "ghb/gbl": {
       "note": "The two substances potentiate each other strongly and unpredictably, very rapidly leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
@@ -716,7 +786,7 @@
       "status": "Low Risk & No Synergy"
     },
     "tramadol": {
-      "note": "Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present. Vomit aspiration a risk when passed out, lay down in recovery position if ingested.",
+      "note": "Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present. Vomit aspiration is a risk when passed out, lay down in recovery position if ingested.",
       "status": "Dangerous"
     }
   },
@@ -754,14 +824,7 @@
       "note": "Both stimulants, risk of tachycardia, hypertension, and in extreme cases heart failure.",
       "status": "Caution"
     },
-    "dmt": {
-      "status": "Low Risk & No Synergy"
-    },
-    "dox": {
-      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating it may cause some physical discomfort.",
-      "status": "Caution"
-    },
-    "dxm": {
+    "dextromethorphan": {
       "note": "High doses of caffeine can potentially exacerbate anxiety, especially during a dissociative experience, due to its stimulating effects. This combination might also lead to physical discomfort. However, individual responses to caffeine can vary significantly, often influenced by factors like habitual versus occasional usage.",
       "sources": [
         {
@@ -780,6 +843,13 @@
           "url": "https://www.nature.com/articles/1600899"
         }
       ],
+      "status": "Caution"
+    },
+    "dmt": {
+      "status": "Low Risk & No Synergy"
+    },
+    "dox": {
+      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating it may cause some physical discomfort.",
       "status": "Caution"
     },
     "ghb/gbl": {
@@ -866,6 +936,9 @@
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
     },
+    "dextromethorphan": {
+      "status": "Low Risk & Synergy"
+    },
     "dmt": {
       "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
       "status": "Caution"
@@ -873,9 +946,6 @@
     "dox": {
       "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
       "status": "Caution"
-    },
-    "dxm": {
-      "status": "Low Risk & Synergy"
     },
     "ghb/gbl": {
       "status": "Low Risk & Synergy"
@@ -939,7 +1009,29 @@
       "status": "Unsafe"
     },
     "alcohol": {
-      "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also allow you to drink past a point where you might normally pass out, increasing the risk. If you do decide to do this then you should set a limit of how much you will drink each hour and stick to it, bearing in mind that you will feel the alcohol less. Cocaine is potentiated somewhat by alcohol because of the formation of cocaethylene.",
+      "note": "Cocaine can decrease some of the intoxicating effects of alcohol, causing some people to drink more than they otherwise would, which leads to greater behavioral and physical health risks. There is also some debate about cocaethylene, a metabolite produced when combining alcohol and cocaine, with some researchers positing that it is more cardiotoxic than cocaine on its own. Use moderation when combining these substances.",
+      "sources": [
+        {
+          "author": "McCance-Katz, E. F., Kosten, T. R., & Jatlow, P. ",
+          "title": "Concurrent use of cocaine and alcohol is more potent and potentially more toxic than use of either alone—A multiple-dose study.",
+          "url": "https://doi.org/10.1016/S0006-3223(97)00426-5"
+        },
+        {
+          "author": "Pergolizzi, J., Breve, F., Magnusson, P., LeQuang, J. A. K., & Varrassi, G.",
+          "title": "Cocaethylene: When cocaine and alcohol are taken together.  (2022)",
+          "url": "https://doi.org/10.7759/cureus.22498"
+        },
+        {
+          "author": "Shastry, S., Manoochehri, O., Richardson, L. D., & Manini, A. F. ",
+          "title": "Cocaethylene cardiotoxicity in emergency department patients with acute drug overdose.",
+          "url": "https://doi.org/10.1111/acem.14584"
+        },
+        {
+          "author": "Wiener, S. E., Sutijono, D., Moon, C. H., Subramanian, R. A., Calaycay, J., Rushbrook, J. I., & Zehtabchi, S.",
+          "title": "Patients with detectable cocaethylene are more likely to require intensive care unit admission after trauma. ",
+          "url": "https://doi.org/10.1016/j.ajem.2009.06.014"
+        }
+      ],
       "status": "Unsafe"
     },
     "amphetamines": {
@@ -960,16 +1052,16 @@
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
     },
+    "dextromethorphan": {
+      "note": "Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues",
+      "status": "Unsafe"
+    },
     "dmt": {
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
     },
     "dox": {
       "note": "The combined stimulating effects of the two can lead to an uncomfortable body-load, while the focusing effects of cocaine can easily lead to thought loops. Coming down from cocaine while the DOx is still active can be quite anxiogenic",
-      "status": "Unsafe"
-    },
-    "dxm": {
-      "note": "Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues",
       "status": "Unsafe"
     },
     "ghb/gbl": {
@@ -979,6 +1071,22 @@
     "ketamine": {
       "note": "No unexpected interactions, though likely to increase blood pressure but not an issue with sensible doses. Moving around on high doses of this combination may be ill advised due to risk of physical injury.",
       "status": "Caution"
+    },
+    "lithium": {
+      "note": "Lithium may inhibit some of the recreational effects of cocaine.",
+      "sources": [
+        {
+          "author": "Flemenbaum, A.",
+          "title": "Antagonism of behavioral effects of cocaine by lithium. (1977)",
+          "url": "https://doi.org/10.1016/0091-3057(77)90015-6"
+        },
+        {
+          "author": "Cronson, A. J., & Flemenbaum, A.",
+          "title": "Antagonism of Cocaine Highs by Lithium. (1981)",
+          "url": "https://doi.org/10.1007/978-1-4684-3614-3_132"
+        }
+      ],
+      "status": "Low Risk & Decrease"
     },
     "lsd": {
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
@@ -1028,247 +1136,7 @@
       "status": "Dangerous"
     }
   },
-  "dmt": {
-    "2c-t-x": {
-      "status": "Low Risk & Synergy"
-    },
-    "2c-x": {
-      "status": "Low Risk & Synergy"
-    },
-    "5-meo-xxt": {
-      "status": "Low Risk & Synergy"
-    },
-    "alcohol": {
-      "status": "Low Risk & Decrease"
-    },
-    "amphetamines": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
-      "status": "Caution"
-    },
-    "amt": {
-      "status": "Low Risk & Synergy"
-    },
-    "benzodiazepines": {
-      "status": "Low Risk & Decrease"
-    },
-    "caffeine": {
-      "status": "Low Risk & No Synergy"
-    },
-    "cannabis": {
-      "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
-      "status": "Caution"
-    },
-    "cocaine": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
-      "status": "Caution"
-    },
-    "dox": {
-      "status": "Low Risk & Synergy"
-    },
-    "dxm": {
-      "status": "Low Risk & Synergy"
-    },
-    "ghb/gbl": {
-      "status": "Low Risk & Decrease"
-    },
-    "ketamine": {
-      "status": "Low Risk & Synergy"
-    },
-    "lithium": {
-      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
-      "sources": [
-        {
-          "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
-          "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
-          "url": "https://doi.org/10.1055/a-1524-2794"
-        },
-        {
-          "author": "Erowid",
-          "title": "Erowid Interactions",
-          "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
-        },
-        {
-          "author": "freshboi88",
-          "title": "I Was Only on One Dose",
-          "url": "https://erowid.org/experiences/exp.php?ID=93681"
-        },
-        {
-          "author": "YouWerentYouAnymore",
-          "title": "Brought My Worst Thoughts to Life",
-          "url": "https://erowid.org/experiences/exp.php?ID=110780"
-        },
-        {
-          "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
-          "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
-          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
-        }
-      ],
-      "status": "Dangerous"
-    },
-    "lsd": {
-      "status": "Low Risk & Synergy"
-    },
-    "maois": {
-      "status": "Low Risk & Synergy"
-    },
-    "mdma": {
-      "status": "Low Risk & Synergy"
-    },
-    "mescaline": {
-      "status": "Low Risk & Synergy"
-    },
-    "mushrooms": {
-      "status": "Low Risk & Synergy"
-    },
-    "mxe": {
-      "status": "Low Risk & Synergy"
-    },
-    "nbomes": {
-      "status": "Low Risk & Synergy"
-    },
-    "nitrous": {
-      "status": "Low Risk & Synergy"
-    },
-    "opioids": {
-      "status": "Low Risk & No Synergy"
-    },
-    "pcp": {
-      "status": "Low Risk & Synergy"
-    },
-    "ssris": {
-      "status": "Low Risk & Decrease"
-    },
-    "tramadol": {
-      "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
-      "status": "Unsafe"
-    }
-  },
-  "dox": {
-    "2c-t-x": {
-      "status": "Caution"
-    },
-    "2c-x": {
-      "status": "Caution"
-    },
-    "5-meo-xxt": {
-      "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions, particularly increasing the risk of unpleasant physical side effects.",
-      "status": "Caution"
-    },
-    "alcohol": {
-      "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also  allow you to drink past a point where you might normally pass out, increasing the risk.",
-      "status": "Low Risk & Decrease"
-    },
-    "amphetamines": {
-      "note": "The combined stimulating effects of the two can lead to an uncomfortable body-load, while the focusing effects of amphetamine can easily lead to thought loops. Coming down from amphetamines while the DOx is still active can be quite anxiogenic. ",
-      "status": "Unsafe"
-    },
-    "amt": {
-      "status": "Dangerous"
-    },
-    "benzodiazepines": {
-      "status": "Low Risk & Decrease"
-    },
-    "caffeine": {
-      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating it may cause some physical discomfort.",
-      "status": "Caution"
-    },
-    "cannabis": {
-      "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
-      "status": "Caution"
-    },
-    "cocaine": {
-      "note": "The combined stimulating effects of the two can lead to an uncomfortable body-load, while the focusing effects of cocaine can easily lead to thought loops. Coming down from cocaine while the DOx is still active can be quite anxiogenic",
-      "status": "Unsafe"
-    },
-    "dmt": {
-      "status": "Low Risk & Synergy"
-    },
-    "dxm": {
-      "note": "The DOx class as psychedelic stimulants have the potential to mask the effects of DXM and could lead to redosing to an unsafe level. DXM can also potentiate DOx resulting in an unpleasantly intense experience.",
-      "status": "Unsafe"
-    },
-    "ghb/gbl": {
-      "status": "Low Risk & Decrease"
-    },
-    "ketamine": {
-      "note": "Ketamine and psychedelics tend to potentiate each other - go slowly.",
-      "status": "Low Risk & Synergy"
-    },
-    "lithium": {
-      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
-      "sources": [
-        {
-          "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
-          "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
-          "url": "https://doi.org/10.1055/a-1524-2794"
-        },
-        {
-          "author": "Erowid",
-          "title": "Erowid Interactions",
-          "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
-        },
-        {
-          "author": "freshboi88",
-          "title": "I Was Only on One Dose",
-          "url": "https://erowid.org/experiences/exp.php?ID=93681"
-        },
-        {
-          "author": "YouWerentYouAnymore",
-          "title": "Brought My Worst Thoughts to Life",
-          "url": "https://erowid.org/experiences/exp.php?ID=110780"
-        },
-        {
-          "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
-          "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
-          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
-        }
-      ],
-      "status": "Dangerous"
-    },
-    "lsd": {
-      "status": "Low Risk & Synergy"
-    },
-    "maois": {
-      "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably",
-      "status": "Caution"
-    },
-    "mdma": {
-      "note": "The combined stimulating effects of the two can be uncomfortable. Coming down on the MDMA while the DOx is still active can be quite anxiogenic. ",
-      "status": "Caution"
-    },
-    "mescaline": {
-      "status": "Caution"
-    },
-    "mushrooms": {
-      "status": "Low Risk & Synergy"
-    },
-    "mxe": {
-      "note": "As an NMDA antagonist MXE potentiates DOx which can be unpleasantly intense",
-      "status": "Caution"
-    },
-    "nbomes": {
-      "status": "Caution"
-    },
-    "nitrous": {
-      "status": "Low Risk & Synergy"
-    },
-    "opioids": {
-      "note": "No unexpected interactions.",
-      "status": "Low Risk & No Synergy"
-    },
-    "pcp": {
-      "note": "Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.",
-      "status": "Unsafe"
-    },
-    "ssris": {
-      "status": "Low Risk & Decrease"
-    },
-    "tramadol": {
-      "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
-      "status": "Unsafe"
-    }
-  },
-  "dxm": {
+  "dextromethorphan": {
     "2c-t-x": {
       "status": "Unsafe"
     },
@@ -1464,7 +1332,7 @@
       "status": "Low Risk & Synergy"
     },
     "opioids": {
-      "note": "CNS depression, difficult breathing, heart issues, hepatoxic, just very unsafe combination all around. Additionally if one takes dxm, their tolerance of opiates goes down slightly, thus causing additional synergistic effects.",
+      "note": "CNS depression, difficult breathing, heart issues, hepatoxic, just very unsafe combination all around. Additionally if one takes DXM, their tolerance of opiates goes down slightly, thus causing additional synergistic effects.",
       "status": "Dangerous"
     },
     "pcp": {
@@ -1476,6 +1344,274 @@
     },
     "tramadol": {
       "status": "Dangerous"
+    }
+  },
+  "diphenhydramine": {
+    "ghb/gbl": {
+      "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
+      "sources": [
+        {
+          "author": "William J Tharion, Donna J. McMenemy, Terry M. Rauch",
+          "title": "Antihistamine Effects on the Central Nervous System, Cognitive Performance and Subjective States. ",
+          "url": "https://doi.org/10.1159/000119069"
+        },
+        {
+          "author": "Sicari V, Zabbo CP. Diphenhydramine.",
+          "title": "Diphenhydramine",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526010/"
+        },
+        {
+          "author": "Couper FJ, Marinetti LJ.",
+          "title": "γ-Hydroxybutyrate (GHB) - Effects on Human Performance and Behavior ",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26256488/"
+        },
+        {
+          "author": "Busardò FP, Jones AW.",
+          "title": "GHB Pharmacology and Toxicology: Acute Intoxication, Concentrations in Blood and Urine in Forensic Cases and Treatment of the Withdrawal Syndrome",
+          "url": "https://doi.org/10.2174%2F1570159X13666141210215423"
+        }
+      ],
+      "status": "Dangerous"
+    }
+  },
+  "dmt": {
+    "2c-t-x": {
+      "status": "Low Risk & Synergy"
+    },
+    "2c-x": {
+      "status": "Low Risk & Synergy"
+    },
+    "5-meo-xxt": {
+      "status": "Low Risk & Synergy"
+    },
+    "alcohol": {
+      "status": "Low Risk & Decrease"
+    },
+    "amphetamines": {
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "status": "Caution"
+    },
+    "amt": {
+      "status": "Low Risk & Synergy"
+    },
+    "benzodiazepines": {
+      "status": "Low Risk & Decrease"
+    },
+    "caffeine": {
+      "status": "Low Risk & No Synergy"
+    },
+    "cannabis": {
+      "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
+      "status": "Caution"
+    },
+    "cocaine": {
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "status": "Caution"
+    },
+    "dextromethorphan": {
+      "status": "Low Risk & Synergy"
+    },
+    "dox": {
+      "status": "Low Risk & Synergy"
+    },
+    "ghb/gbl": {
+      "status": "Low Risk & Decrease"
+    },
+    "ketamine": {
+      "status": "Low Risk & Synergy"
+    },
+    "lithium": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "sources": [
+        {
+          "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+          "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+          "url": "https://doi.org/10.1055/a-1524-2794"
+        },
+        {
+          "author": "Erowid",
+          "title": "Erowid Interactions",
+          "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+        },
+        {
+          "author": "freshboi88",
+          "title": "I Was Only on One Dose",
+          "url": "https://erowid.org/experiences/exp.php?ID=93681"
+        },
+        {
+          "author": "YouWerentYouAnymore",
+          "title": "Brought My Worst Thoughts to Life",
+          "url": "https://erowid.org/experiences/exp.php?ID=110780"
+        },
+        {
+          "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+          "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+        }
+      ],
+      "status": "Dangerous"
+    },
+    "lsd": {
+      "status": "Low Risk & Synergy"
+    },
+    "maois": {
+      "status": "Low Risk & Synergy"
+    },
+    "mdma": {
+      "status": "Low Risk & Synergy"
+    },
+    "mescaline": {
+      "status": "Low Risk & Synergy"
+    },
+    "mushrooms": {
+      "status": "Low Risk & Synergy"
+    },
+    "mxe": {
+      "status": "Low Risk & Synergy"
+    },
+    "nbomes": {
+      "status": "Low Risk & Synergy"
+    },
+    "nitrous": {
+      "status": "Low Risk & Synergy"
+    },
+    "opioids": {
+      "status": "Low Risk & No Synergy"
+    },
+    "pcp": {
+      "status": "Low Risk & Synergy"
+    },
+    "ssris": {
+      "status": "Low Risk & Decrease"
+    },
+    "tramadol": {
+      "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
+      "status": "Unsafe"
+    }
+  },
+  "dox": {
+    "2c-t-x": {
+      "status": "Caution"
+    },
+    "2c-x": {
+      "status": "Caution"
+    },
+    "5-meo-xxt": {
+      "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions, particularly increasing the risk of unpleasant physical side effects.",
+      "status": "Caution"
+    },
+    "alcohol": {
+      "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also  allow you to drink past a point where you might normally pass out, increasing the risk.",
+      "status": "Low Risk & Decrease"
+    },
+    "amphetamines": {
+      "note": "The combined stimulating effects of the two can lead to an uncomfortable body-load, while the focusing effects of amphetamine can easily lead to thought loops. Coming down from amphetamines while the DOx is still active can be quite anxiogenic. ",
+      "status": "Unsafe"
+    },
+    "amt": {
+      "status": "Dangerous"
+    },
+    "benzodiazepines": {
+      "status": "Low Risk & Decrease"
+    },
+    "caffeine": {
+      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating it may cause some physical discomfort.",
+      "status": "Caution"
+    },
+    "cannabis": {
+      "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
+      "status": "Caution"
+    },
+    "cocaine": {
+      "note": "The combined stimulating effects of the two can lead to an uncomfortable body-load, while the focusing effects of cocaine can easily lead to thought loops. Coming down from cocaine while the DOx is still active can be quite anxiogenic",
+      "status": "Unsafe"
+    },
+    "dextromethorphan": {
+      "note": "The DOx class as psychedelic stimulants have the potential to mask the effects of DXM and could lead to redosing to an unsafe level. DXM can also potentiate DOx resulting in an unpleasantly intense experience.",
+      "status": "Unsafe"
+    },
+    "dmt": {
+      "status": "Low Risk & Synergy"
+    },
+    "ghb/gbl": {
+      "status": "Low Risk & Decrease"
+    },
+    "ketamine": {
+      "note": "Ketamine and psychedelics tend to potentiate each other - go slowly.",
+      "status": "Low Risk & Synergy"
+    },
+    "lithium": {
+      "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
+      "sources": [
+        {
+          "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+          "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+          "url": "https://doi.org/10.1055/a-1524-2794"
+        },
+        {
+          "author": "Erowid",
+          "title": "Erowid Interactions",
+          "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+        },
+        {
+          "author": "freshboi88",
+          "title": "I Was Only on One Dose",
+          "url": "https://erowid.org/experiences/exp.php?ID=93681"
+        },
+        {
+          "author": "YouWerentYouAnymore",
+          "title": "Brought My Worst Thoughts to Life",
+          "url": "https://erowid.org/experiences/exp.php?ID=110780"
+        },
+        {
+          "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+          "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+          "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+        }
+      ],
+      "status": "Dangerous"
+    },
+    "lsd": {
+      "status": "Low Risk & Synergy"
+    },
+    "maois": {
+      "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably",
+      "status": "Caution"
+    },
+    "mdma": {
+      "note": "The combined stimulating effects of the two can be uncomfortable. Coming down on the MDMA while the DOx is still active can be quite anxiogenic. ",
+      "status": "Caution"
+    },
+    "mescaline": {
+      "status": "Caution"
+    },
+    "mushrooms": {
+      "status": "Low Risk & Synergy"
+    },
+    "mxe": {
+      "note": "As an NMDA antagonist MXE potentiates DOx which can be unpleasantly intense",
+      "status": "Caution"
+    },
+    "nbomes": {
+      "status": "Caution"
+    },
+    "nitrous": {
+      "status": "Low Risk & Synergy"
+    },
+    "opioids": {
+      "note": "No unexpected interactions.",
+      "status": "Low Risk & No Synergy"
+    },
+    "pcp": {
+      "note": "Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.",
+      "status": "Unsafe"
+    },
+    "ssris": {
+      "status": "Low Risk & Decrease"
+    },
+    "tramadol": {
+      "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
+      "status": "Unsafe"
     }
   },
   "ghb/gbl": {
@@ -1510,18 +1646,44 @@
       "status": "Low Risk & Synergy"
     },
     "cocaine": {
-      "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If the stimulant wears off first then the opiate may overcome the individual and cause respiratory arrest. Likewise the ghb/gbl can wear off and leave a dangerous concentration of cocaine behind",
+      "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If the stimulant wears off first the opiate may overcome the individual and cause respiratory arrest. Likewise the ghb/gbl can wear off and leave a dangerous concentration of cocaine behind",
       "status": "Caution"
+    },
+    "dextromethorphan": {
+      "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
+      "status": "Dangerous"
+    },
+    "diphenhydramine": {
+      "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
+      "sources": [
+        {
+          "author": "William J Tharion, Donna J. McMenemy, Terry M. Rauch",
+          "title": "Antihistamine Effects on the Central Nervous System, Cognitive Performance and Subjective States. ",
+          "url": "https://doi.org/10.1159/000119069"
+        },
+        {
+          "author": "Sicari V, Zabbo CP. Diphenhydramine.",
+          "title": "Diphenhydramine",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526010/"
+        },
+        {
+          "author": "Couper FJ, Marinetti LJ.",
+          "title": "γ-Hydroxybutyrate (GHB) - Effects on Human Performance and Behavior ",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26256488/"
+        },
+        {
+          "author": "Busardò FP, Jones AW.",
+          "title": "GHB Pharmacology and Toxicology: Acute Intoxication, Concentrations in Blood and Urine in Forensic Cases and Treatment of the Withdrawal Syndrome",
+          "url": "https://doi.org/10.2174%2F1570159X13666141210215423"
+        }
+      ],
+      "status": "Dangerous"
     },
     "dmt": {
       "status": "Low Risk & Decrease"
     },
     "dox": {
       "status": "Low Risk & Decrease"
-    },
-    "dxm": {
-      "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
-      "status": "Dangerous"
     },
     "ketamine": {
       "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
@@ -1606,14 +1768,7 @@
       "note": "No unexpected interactions, though likely to increase blood pressure but not an issue with sensible doses. Moving around on high doses of this combination may be ill advised due to risk of physical injury.",
       "status": "Caution"
     },
-    "dmt": {
-      "status": "Low Risk & Synergy"
-    },
-    "dox": {
-      "note": "Ketamine and psychedelics tend to potentiate each other - go slowly.",
-      "status": "Low Risk & Synergy"
-    },
-    "dxm": {
+    "dextromethorphan": {
       "note": "Both substances primarily exert their effects through NMDA antagonism. Currently, there is no evidence regarding mechanisms that might reduce these effects.",
       "sources": [
         {
@@ -1647,6 +1802,13 @@
           "url": "https://doi.org/10.1177/000348940211100107"
         }
       ],
+      "status": "Low Risk & Synergy"
+    },
+    "dmt": {
+      "status": "Low Risk & Synergy"
+    },
+    "dox": {
+      "note": "Ketamine and psychedelics tend to potentiate each other - go slowly.",
       "status": "Low Risk & Synergy"
     },
     "ghb/gbl": {
@@ -1756,6 +1918,22 @@
       ],
       "status": "Dangerous"
     },
+    "cocaine": {
+      "note": "Lithium may inhibit some of the recreational effects of cocaine.",
+      "sources": [
+        {
+          "author": "Flemenbaum, A.",
+          "title": "Antagonism of behavioral effects of cocaine by lithium. (1977)",
+          "url": "https://doi.org/10.1016/0091-3057(77)90015-6"
+        },
+        {
+          "author": "Cronson, A. J., & Flemenbaum, A.",
+          "title": "Antagonism of Cocaine Highs by Lithium. (1981)",
+          "url": "https://doi.org/10.1007/978-1-4684-3614-3_132"
+        }
+      ],
+      "status": "Low Risk & Decrease"
+    },
     "dmt": {
       "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
       "sources": [
@@ -1845,6 +2023,11 @@
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
           "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+        },
+        {
+          "author": "Edwards, C., Van Gerpen, S., & Anand, V.",
+          "title": "New-Onset Seizures in an Adolescent Following Use of LSD while on Low-Dose Lithium Therapy: A Case Study. (2024)",
+          "url": "https://doi.org/10.1177%2F1941874414528939"
         }
       ],
       "status": "Dangerous"
@@ -1964,6 +2147,11 @@
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
           "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+        },
+        {
+          "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
+          "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. (2015)",
+          "url": "https://doi.org/10.23907/2015.009"
         }
       ],
       "status": "Dangerous"
@@ -1978,6 +2166,73 @@
         }
       ],
       "status": "Low Risk & No Synergy"
+    },
+    "ssris": {
+      "note": "This interaction is used in medical settings without reported issues. If this combination is taken, caution would be recommended if any other drugs are planned to be taken on top of these that may have serotonergic activity.",
+      "sources": [
+        {
+          "author": "Finley, P. R.",
+          "title": "Drug Interactions with Lithium: An Update. (2016)",
+          "url": "https://doi.org/10.1007/s40262-016-0370-y"
+        },
+        {
+          "author": "Hawley CJ, Loughlin PJ, Quick SJ, Gale TM, Sivakumaran T, Hayes J, McPhee S.",
+          "title": "Efficacy, safety and tolerability of combined administration of lithium and selective serotonin reuptake inhibitors: a review of the current evidence. (2000)",
+          "url": "https://doi.org/10.1097/00004850-200015040-00002"
+        },
+        {
+          "author": "Müller-Oerlinghausen, B.",
+          "title": "Drug Interactions with Lithium. (1999)",
+          "url": "https://doi.org/10.2165/00023210-199911010-00004"
+        },
+        {
+          "author": "Bauer, Michael PhD, MD; Linden, Michael MD; Schaaf, Berthold; Weber, Hans J. MD.",
+          "title": "Adverse Events and Tolerability of the Combination of Fluoxetine/Lithium Compared With Fluoxetine. (1996)",
+          "url": "https://doi.org/10.1097/00004714-199604000-00005"
+        }
+      ],
+      "status": "Low Risk & No Synergy"
+    },
+    "tramadol": {
+      "note": "Tramadol and Lithium both increase the risk of seizures and serotonin syndrome.",
+      "sources": [
+        {
+          "author": "Steven C. Julius, Richard P. Brenner",
+          "title": "Myoclonic seizures with lithium",
+          "url": "https://doi.org/10.1016/0006-3223(87)90026-6"
+        },
+        {
+          "author": "Charles DeBattista, Mehmet Sofuoglu, and Alan F. Schatzberg",
+          "title": "Serotonergic Synergism: The Risks and Benefits of Combining the Selective Serotonin Reuptake Inhibitors with Other Serotonergic Drugs",
+          "url": "https://doi.org/10.1016/s0006-3223(98)00161-9"
+        },
+        {
+          "author": "Massot, O., Rousselle, JC., Fillion, MP. et al.",
+          "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders",
+          "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+        },
+        {
+          "author": "Sameer Hassamal, Karen Miotto, William Dale, Itai Danovitch ",
+          "title": "Tramadol: Understanding the Risk of Serotonin Syndrome and Seizures",
+          "url": "https://doi.org/10.1016/j.amjmed.2018.04.025"
+        },
+        {
+          "author": "Boostani R, Derakhshan S.",
+          "title": "Tramadol induced seizure: A 3-year study.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24009919/"
+        },
+        {
+          "author": "Lagard, C.; Vodovar, D.; Chevillard, L.; Callebert, J.; Caillé, F.; Pottier, G.; Liang, H.; Risède, P.; Tournier, N.; Mégarbane, B.",
+          "title": "Investigation of the Mechanisms of Tramadol-Induced Seizures in Overdose in the Rat ",
+          "url": "https://doi.org/10.3390/ph15101254 "
+        },
+        {
+          "author": "Sansone RA, Sansone LA.",
+          "title": "Tramadol",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19724727"
+        }
+      ],
+      "status": "Dangerous"
     }
   },
   "lsd": {
@@ -2014,13 +2269,13 @@
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
     },
+    "dextromethorphan": {
+      "status": "Low Risk & Synergy"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
-      "status": "Low Risk & Synergy"
-    },
-    "dxm": {
       "status": "Low Risk & Synergy"
     },
     "ghb/gbl": {
@@ -2056,6 +2311,11 @@
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
           "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+        },
+        {
+          "author": "Edwards, C., Van Gerpen, S., & Anand, V.",
+          "title": "New-Onset Seizures in an Adolescent Following Use of LSD while on Low-Dose Lithium Therapy: A Case Study. (2024)",
+          "url": "https://doi.org/10.1177%2F1941874414528939"
         }
       ],
       "status": "Dangerous"
@@ -2076,6 +2336,13 @@
       "status": "Low Risk & Synergy"
     },
     "nbomes": {
+      "sources": [
+        {
+          "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
+          "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. Academic Forensic Pathology",
+          "url": "https://doi.org/10.23907/2015.009"
+        }
+      ],
       "status": "Low Risk & Synergy"
     },
     "nitrous": {
@@ -2132,16 +2399,16 @@
       "note": "This combination is poorly explored",
       "status": "Dangerous"
     },
+    "dextromethorphan": {
+      "note": "High risk of serotonin syndrome",
+      "status": "Dangerous"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
       "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably",
       "status": "Caution"
-    },
-    "dxm": {
-      "note": "High risk of serotonin syndrome",
-      "status": "Dangerous"
     },
     "ghb/gbl": {
       "status": "Low Risk & Synergy"
@@ -2201,7 +2468,29 @@
       "status": "Caution"
     },
     "alcohol": {
-      "note": "Both MDMA and alcohol cause dehydration. Approach this combination with caution, moderation and sufficient hydration. More than a small amount of alcohol will dull the euphoria of MDMA",
+      "note": "The combination of MDMA and alcohol may increase strain on the cardiovascular system and lead to increased alcohol consumption. MDMA may also impair one's ability to recognize their level of drunkenness, leading to increased alcohol consumption and poor decision-making. Alcohol may also increase the risk of dehydration and hyperthermia (increased body temperature) when combined with MDMA.",
+      "sources": [
+        {
+          "author": "Hamida, S. B., Plute, E., Cosquer, B., Kelche, C., Jones, B. C., & Cassel, J.-C. ",
+          "title": "Interactions between ethanol and cocaine, amphetamine, or MDMA in the rat: thermoregulatory and locomotor effects. (2008)",
+          "url": "https://doi.org/10.1007/s00213-007-1007-5"
+        },
+        {
+          "author": "Ramaekers, J. G., & Kuypers, K. P. C.",
+          "title": "Acute Effects of 3,4-Methylenedioxymethamphetamine (MDMA) on Behavioral Measures of Impulsivity: Alone and in Combination with Alcohol. (2006)",
+          "url": "https://doi.org/10.1038/sj.npp.1300894"
+        },
+        {
+          "author": "Hernández-López, C., Farré, M., Roset, P. N., Menoyo, E., Pizarro, N., Ortuño, J., Torrens, M., Camı́, J., & Torre, R. de la.",
+          "title": "3,4-Methylenedioxymethamphetamine (Ecstasy) and Alcohol Interactions in Humans: Psychomotor Performance, Subjective Effects, and Pharmacokinetics. (2002)",
+          "url": "https://doi.org/10.1124/jpet.300.1.236"
+        },
+        {
+          "author": "van Amsterdam, J., Brunt, T. M., Pierce, M., & van den Brink, W.",
+          "title": "Hard Boiled: Alcohol Use as a Risk Factor for MDMA-Induced Hyperthermia: a Systematic Review. (2021)",
+          "url": "https://doi.org/10.1007/s12640-021-00416-z"
+        }
+      ],
       "status": "Caution"
     },
     "amphetamines": {
@@ -2232,7 +2521,7 @@
       "status": "Low Risk & Decrease"
     },
     "caffeine": {
-      "note": "Caffeine increases side effects and increases any neurotoxic effects from MDMA",
+      "note": "Caffiene is not really necessary with MDMA and increases any neurotoxic effects from MDMA",
       "status": "Caution"
     },
     "cannabis": {
@@ -2243,15 +2532,15 @@
       "note": "Cocaine blocks some of the desirable effects of MDMA while increasing the risk of heart attack.",
       "status": "Caution"
     },
+    "dextromethorphan": {
+      "status": "Dangerous"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
       "note": "The combined stimulating effects of the two can be uncomfortable. Coming down on the MDMA while the DOx is still active can be quite anxiogenic. ",
       "status": "Caution"
-    },
-    "dxm": {
-      "status": "Dangerous"
     },
     "ghb/gbl": {
       "note": "Large amounts of GHB/GBL may overwhelm the effects of MDMA on the comedown.",
@@ -2326,7 +2615,7 @@
     }
   },
   "mephedrone": {
-    "dxm": {
+    "dextromethorphan": {
       "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. In addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
       "sources": [
         {
@@ -2404,14 +2693,14 @@
       "note": "The focus and anxiety caused by stimulants is magnified by psychedelics and results in an increased risk of thought loops",
       "status": "Caution"
     },
+    "dextromethorphan": {
+      "status": "Low Risk & Synergy"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
       "status": "Caution"
-    },
-    "dxm": {
-      "status": "Low Risk & Synergy"
     },
     "ghb/gbl": {
       "status": "Low Risk & Decrease"
@@ -2519,13 +2808,13 @@
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
     },
+    "dextromethorphan": {
+      "status": "Low Risk & Synergy"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
-      "status": "Low Risk & Synergy"
-    },
-    "dxm": {
       "status": "Low Risk & Synergy"
     },
     "ghb/gbl": {
@@ -2637,28 +2926,43 @@
       "note": "Stimulants taken with MXE can lead to hypermanic states much more easily, especially if sleep is avoided.",
       "status": "Caution"
     },
+    "dextromethorphan": {
+      "note": "There is a risk of serotonin syndrome when combining DXM with MXE, due to DXM and MXE both being SRI’s. MXE and DXM having notable affinities for the serotonin transporter.",
+      "sources": [
+        {
+          "author": "Bryan L. Roth, Simon Gibbons, Warunya Arunotayanun, Xi-Ping Huang, Vincent Setola, Ric Treble, Les Iversen",
+          "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor",
+          "url": "https://doi.org/10.1371/journal.pone.0059334"
+        },
+        {
+          "author": "Matteo Marti, Giuseppe Talani, Cristina Miliano, Sabrine Bilel, Francesca Biggio, Jessica Bratzu, Marco Diana, Maria Antonietta De Luca, Liana Fattore",
+          "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat ",
+          "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+        },
+        {
+          "author": "Laura Hondebrink, Emma E.J. Kasteel, Anke M. Tukker, Fiona M.J. Wijnolts, Anouk H.A. Verboven, Remco H.S. Westerink",
+          "title": "Neuropharmacological characterization of the new psychoactive substance methoxetamine",
+          "url": "https://doi.org/10.1016/j.neuropharm.2017.04.035"
+        },
+        {
+          "author": "Linda L. Werling, Ashleigh Keller, Julie G. Frank, Samer J. Nuwayhid",
+          "title": "A comparison of the binding profiles of dextromethorphan, memantine, fluoxetine and amitriptyline: Treatment of involuntary emotional expression disorder",
+          "url": "https://doi.org/10.1016/j.expneurol.2007.06.013"
+        },
+        {
+          "author": "Linda Nguyen, Kelan L. Thomas, Brandon P. Lucke-Wold, John Z. Cavendish, Molly S. Crowe, Rae R. Matsumoto",
+          "title": "Dextromethorphan: An update on its utility for neurological and neuropsychiatric disorders",
+          "url": "https://doi.org/10.1016/j.pharmthera.2016.01.016"
+        }
+      ],
+      "status": "Unsafe"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
       "note": "As an NMDA antagonist MXE potentiates DOx which can be unpleasantly intense",
       "status": "Caution"
-    },
-    "dxm": {
-      "note": "There is a risk of serotonin syndrome when combining DXM with MXE, as DXM can induce serotonin syndrome in conjunction with other serotonin reuptake inhibitors, and MXE has shown a notable affinity for the serotonin transporter.",
-      "sources": [
-        {
-          "author": "Matteo Marti, Giuseppe Talani, Cristina Miliano, Sabrine Bilel, Francesca Biggio, Jessica Bratzu, Marco Diana,Maria Antonietta De Luca, Liana Fattore ",
-          "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor",
-          "url": "https://doi.org/10.1371/journal.pone.0059334"
-        },
-        {
-          "author": "Bryan L. Roth, Simon Gibbons, Warunya Arunotayanun, Xi-Ping Huang, Vincent Setola, Ric Treble, Les Iversen",
-          "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat ",
-          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0014488621002442"
-        }
-      ],
-      "status": "Unsafe"
     },
     "ghb/gbl": {
       "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
@@ -2743,14 +3047,14 @@
       "note": "Cocaine and NBOMes both provide considerable stimulation. When combined they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.",
       "status": "Unsafe"
     },
+    "dextromethorphan": {
+      "status": "Unsafe"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
       "status": "Caution"
-    },
-    "dxm": {
-      "status": "Unsafe"
     },
     "ghb/gbl": {
       "status": "Low Risk & Decrease"
@@ -2785,11 +3089,23 @@
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
           "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+        },
+        {
+          "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
+          "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. (2015)",
+          "url": "https://doi.org/10.23907/2015.009"
         }
       ],
       "status": "Dangerous"
     },
     "lsd": {
+      "sources": [
+        {
+          "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
+          "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. Academic Forensic Pathology",
+          "url": "https://doi.org/10.23907/2015.009"
+        }
+      ],
       "status": "Low Risk & Synergy"
     },
     "maois": {
@@ -2858,13 +3174,13 @@
     "cocaine": {
       "status": "Low Risk & Synergy"
     },
+    "dextromethorphan": {
+      "status": "Low Risk & Synergy"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
-      "status": "Low Risk & Synergy"
-    },
-    "dxm": {
       "status": "Low Risk & Synergy"
     },
     "ghb/gbl": {
@@ -2958,16 +3274,16 @@
       "note": "Stimulants increase respiration rate allowing for a higher dose of opiates than normal. If the stimulant wears off first then the opiate may overcome the individual and cause respiratory arrest.",
       "status": "Dangerous"
     },
+    "dextromethorphan": {
+      "note": "CNS depression, difficult breathing, heart issues, hepatoxic, just very unsafe combination all around. Additionally if one takes DXM, their tolerance of opiates goes down slightly, thus causing additional synergistic effects.",
+      "status": "Dangerous"
+    },
     "dmt": {
       "status": "Low Risk & No Synergy"
     },
     "dox": {
       "note": "No unexpected interactions.",
       "status": "Low Risk & No Synergy"
-    },
-    "dxm": {
-      "note": "CNS depression, difficult breathing, heart issues, hepatoxic, just very unsafe combination all around. Additionally if one takes dxm, their tolerance of opiates goes down slightly, thus causing additional synergistic effects.",
-      "status": "Dangerous"
     },
     "ghb/gbl": {
       "note": "The two substances potentiate each other strongly and unpredictably, very rapidly leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position",
@@ -3053,15 +3369,15 @@
       "note": "This combination can easily lead to hypermanic states",
       "status": "Unsafe"
     },
+    "dextromethorphan": {
+      "status": "Dangerous"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
     "dox": {
       "note": "Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.",
       "status": "Unsafe"
-    },
-    "dxm": {
-      "status": "Dangerous"
     },
     "ghb/gbl": {
       "note": "Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.",
@@ -3142,20 +3458,46 @@
       "note": "May reduce each others' effectiveness. Cocaine can reduce mental stability and therefore exacerbate conditions which SSRIs are used to treat.",
       "status": "Low Risk & No Synergy"
     },
+    "dextromethorphan": {
+      "note": "High risk of serotonin syndrome.",
+      "status": "Dangerous"
+    },
     "dmt": {
       "status": "Low Risk & Decrease"
     },
     "dox": {
       "status": "Low Risk & Decrease"
     },
-    "dxm": {
-      "note": "High risk of serotonin syndrome.",
-      "status": "Dangerous"
-    },
     "ghb/gbl": {
       "status": "Low Risk & No Synergy"
     },
     "ketamine": {
+      "status": "Low Risk & No Synergy"
+    },
+    "lithium": {
+      "note": "This interaction is used in medical settings without reported issues. If this combination is taken, caution would be recommended if any other drugs are planned to be taken on top of these that may have serotonergic activity.",
+      "sources": [
+        {
+          "author": "Finley, P. R.",
+          "title": "Drug Interactions with Lithium: An Update. (2016)",
+          "url": "https://doi.org/10.1007/s40262-016-0370-y"
+        },
+        {
+          "author": "Hawley CJ, Loughlin PJ, Quick SJ, Gale TM, Sivakumaran T, Hayes J, McPhee S.",
+          "title": "Efficacy, safety and tolerability of combined administration of lithium and selective serotonin reuptake inhibitors: a review of the current evidence. (2000)",
+          "url": "https://doi.org/10.1097/00004850-200015040-00002"
+        },
+        {
+          "author": "Müller-Oerlinghausen, B.",
+          "title": "Drug Interactions with Lithium. (1999)",
+          "url": "https://doi.org/10.2165/00023210-199911010-00004"
+        },
+        {
+          "author": "Bauer, Michael PhD, MD; Linden, Michael MD; Schaaf, Berthold; Weber, Hans J. MD.",
+          "title": "Adverse Events and Tolerability of the Combination of Fluoxetine/Lithium Compared With Fluoxetine. (1996)",
+          "url": "https://doi.org/10.1097/00004714-199604000-00005"
+        }
+      ],
       "status": "Low Risk & No Synergy"
     },
     "lsd": {
@@ -3231,6 +3573,9 @@
       "note": "Tramadol and stimulants both increase the risk of seizures.",
       "status": "Dangerous"
     },
+    "dextromethorphan": {
+      "status": "Dangerous"
+    },
     "dmt": {
       "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
       "status": "Unsafe"
@@ -3239,14 +3584,52 @@
       "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
       "status": "Unsafe"
     },
-    "dxm": {
-      "status": "Dangerous"
-    },
     "ghb/gbl": {
       "note": "The sedative effects of this combination can lead to dangerous respiratory depression.",
       "status": "Dangerous"
     },
     "ketamine": {
+      "status": "Dangerous"
+    },
+    "lithium": {
+      "note": "Tramadol and Lithium both increase the risk of seizures and serotonin syndrome.",
+      "sources": [
+        {
+          "author": "Steven C. Julius, Richard P. Brenner",
+          "title": "Myoclonic seizures with lithium",
+          "url": "https://doi.org/10.1016/0006-3223(87)90026-6"
+        },
+        {
+          "author": "Charles DeBattista, Mehmet Sofuoglu, and Alan F. Schatzberg",
+          "title": "Serotonergic Synergism: The Risks and Benefits of Combining the Selective Serotonin Reuptake Inhibitors with Other Serotonergic Drugs",
+          "url": "https://doi.org/10.1016/s0006-3223(98)00161-9"
+        },
+        {
+          "author": "Massot, O., Rousselle, JC., Fillion, MP. et al.",
+          "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders",
+          "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+        },
+        {
+          "author": "Sameer Hassamal, Karen Miotto, William Dale, Itai Danovitch ",
+          "title": "Tramadol: Understanding the Risk of Serotonin Syndrome and Seizures",
+          "url": "https://doi.org/10.1016/j.amjmed.2018.04.025"
+        },
+        {
+          "author": "Boostani R, Derakhshan S.",
+          "title": "Tramadol induced seizure: A 3-year study.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24009919/"
+        },
+        {
+          "author": "Lagard, C.; Vodovar, D.; Chevillard, L.; Callebert, J.; Caillé, F.; Pottier, G.; Liang, H.; Risède, P.; Tournier, N.; Mégarbane, B.",
+          "title": "Investigation of the Mechanisms of Tramadol-Induced Seizures in Overdose in the Rat ",
+          "url": "https://doi.org/10.3390/ph15101254 "
+        },
+        {
+          "author": "Sansone RA, Sansone LA.",
+          "title": "Tramadol",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19724727"
+        }
+      ],
       "status": "Dangerous"
     },
     "lsd": {
