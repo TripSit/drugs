@@ -18,10 +18,16 @@
                 "alcohol": {
                     "$ref": "#/definitions/Interactions"
                 },
+                "ethanol": {
+                    "$ref": "#/definitions/Interactions"
+                },
                 "amphetamines": {
                     "$ref": "#/definitions/Interactions"
                 },
                 "amt": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "alpha-methyltryptamine": {
                     "$ref": "#/definitions/Interactions"
                 },
                 "benzodiazepines": {
@@ -45,10 +51,19 @@
                 "dmt": {
                     "$ref": "#/definitions/Interactions"
                 },
+                "dimethyltryptamine": {
+                    "$ref": "#/definitions/Interactions"
+                },
                 "dox": {
                     "$ref": "#/definitions/Interactions"
                 },
                 "ghb/gbl": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "gamma hydroxybutyrate": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "gamma-butyrolactone": {
                     "$ref": "#/definitions/Interactions"
                 },
                 "ketamine": {
@@ -60,10 +75,16 @@
                 "lsd": {
                     "$ref": "#/definitions/Interactions"
                 },
+                "lysergic acid diethylamide": {
+                    "$ref": "#/definitions/Interactions"
+                },
                 "maois": {
                     "$ref": "#/definitions/Interactions"
                 },
                 "mdma": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "3,4-methylenedioxymethamphetamine": {
                     "$ref": "#/definitions/Interactions"
                 },
                 "mephedrone": {
@@ -75,7 +96,13 @@
                 "mushrooms": {
                     "$ref": "#/definitions/Interactions"
                 },
+                "psilocybin mushrooms": {
+                    "$ref": "#/definitions/Interactions"
+                },
                 "mxe": {
+                    "$ref": "#/definitions/Interactions"
+                },
+                "methoxetamine": {
                     "$ref": "#/definitions/Interactions"
                 },
                 "nbomes": {
@@ -90,6 +117,9 @@
                 "pcp": {
                     "$ref": "#/definitions/Interactions"
                 },
+                "phencyclidine": {
+                    "$ref": "#/definitions/Interactions"
+                },
                 "ssris": {
                     "$ref": "#/definitions/Interactions"
                 },
@@ -101,31 +131,32 @@
                 "2c-t-x",
                 "2c-x",
                 "5-meo-xxt",
-                "alcohol",
+                "ethanol",
                 "amphetamines",
-                "amt",
+                "alpha-methyltryptamine",
                 "benzodiazepines",
                 "caffeine",
                 "cannabis",
                 "cocaine",
                 "dextromethorphan",
                 "diphenhydramine",
-                "dmt",
+                "dimethyltryptamine",
                 "dox",
-                "ghb/gbl",
+                "gamma hydroxybutyrate",
+                "gamma-butyrolactone",
                 "ketamine",
                 "lithium",
-                "lsd",
+                "lysergic acid diethylamide",
                 "maois",
-                "mdma",
+                "3,4-methylenedioxymethamphetamine",
                 "mephedrone",
                 "mescaline",
-                "mushrooms",
-                "mxe",
+                "psilocybin mushrooms",
+                "methoxetamine",
                 "nbomes",
                 "nitrous",
                 "opioids",
-                "pcp",
+                "phencyclidine",
                 "ssris",
                 "tramadol"
             ],
@@ -147,10 +178,16 @@
                 "alcohol": {
                     "$ref": "#/definitions/ComboData"
                 },
+                "ethanol": {
+                    "$ref": "#/definitions/ComboData"
+                },
                 "amphetamines": {
                     "$ref": "#/definitions/ComboData"
                 },
                 "amt": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "alpha-methyltryptamine": {
                     "$ref": "#/definitions/ComboData"
                 },
                 "benzodiazepines": {
@@ -174,10 +211,19 @@
                 "dmt": {
                     "$ref": "#/definitions/ComboData"
                 },
+                "dimethyltryptamine": {
+                    "$ref": "#/definitions/ComboData"
+                },
                 "dox": {
                     "$ref": "#/definitions/ComboData"
                 },
                 "ghb/gbl": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "gamma hydroxybutyrate": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "gamma-butyrolactone": {
                     "$ref": "#/definitions/ComboData"
                 },
                 "ketamine": {
@@ -189,10 +235,16 @@
                 "lsd": {
                     "$ref": "#/definitions/ComboData"
                 },
+                "lysergic acid diethylamide": {
+                    "$ref": "#/definitions/ComboData"
+                },
                 "maois": {
                     "$ref": "#/definitions/ComboData"
                 },
                 "mdma": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "3,4-methylenedioxymethamphetamine": {
                     "$ref": "#/definitions/ComboData"
                 },
                 "mephedrone": {
@@ -204,7 +256,13 @@
                 "mushrooms": {
                     "$ref": "#/definitions/ComboData"
                 },
+                "psilocybin mushrooms": {
+                    "$ref": "#/definitions/ComboData"
+                },
                 "mxe": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "methoxetamine": {
                     "$ref": "#/definitions/ComboData"
                 },
                 "nbomes": {
@@ -217,6 +275,9 @@
                     "$ref": "#/definitions/ComboData"
                 },
                 "pcp": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "phencyclidine": {
                     "$ref": "#/definitions/ComboData"
                 },
                 "ssris": {
