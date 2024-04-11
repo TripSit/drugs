@@ -24844,6 +24844,52 @@
         "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably. MAO-A inhibitors with MDMA will lead to hypertensive crises.",
         "status": "Dangerous"
       },
+      "mephedrone": {
+        "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. Stimulants also increase the neurotoxic effects of MDMA, in addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
+        "sources": [
+          {
+            "author": "J Kehr,  F Ichinose,  S Yoshitake,  M Goiny,  T Sievertsson,  F Nyberg,  T Yoshitake",
+            "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
+            "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+          },
+          {
+            "author": "Gregory C. Hadlock, Katy M. Webb, Lisa M. McFadden, Pei Wen Chu, Jonathan D. Ellis, Scott C. Allen, David M. Andrenyak, Paula L. Vieira-Brock, Christopher L. German, Kevin M. Conrad, Amanda J. Hoonakker, James W. Gibb, Diana G. Wilkins, Glen R. Hanson and Annette E. Fleckenstein",
+            "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse",
+            "url": "https://doi.org/10.1124/jpet.111.184119 "
+          },
+          {
+            "author": "Gough B, Ali SF, Slikker W Jr, Holson RR. ",
+            "title": "Acute effects of 3,4-methylenedioxymethamphetamine (MDMA) on monoamines in rat caudate. (1991)",
+            "url": "https://doi.org/10.1016/0091-3057(91)90137-q"
+          },
+          {
+            "author": "Schmidt CJ, Levin JA, Lovenberg W. ",
+            "title": "In vitro and in vivo neurochemical effects of methylenedioxymethamphetamine on striatal monoaminergic systems in the rat brain. (1987)",
+            "url": "https://doi.org/10.1016/0006-2952(87)90729-5"
+          },
+          {
+            "author": "Bankson MG, Cunningham KA.",
+            "title": "3,4-Methylenedioxymethamphetamine (MDMA) as a unique model of serotonin receptor function and serotonin-dopamine interactions. (2001)",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11356903/"
+          },
+          {
+            "author": "A.C. Parrott",
+            "title": "Recreational Ecstasy/MDMA, the serotonin syndrome, and serotonergic neurotoxicity (2002)",
+            "url": "https://doi.org/10.1016/S0091-3057(01)00711-0"
+          },
+          {
+            "author": "Lisa H. Gold & George F. Koob ",
+            "title": "MDMA produces stimulant-like conditioned locomotor activity. (1989)",
+            "url": "https://doi.org/10.1007/BF00445556"
+          },
+          {
+            "author": "Meng H, Cao J, Kang J, Ying X, Ji J, Reynolds W, Rampe D.",
+            "title": "Mephedrone, a new designer drug of abuse, produces acute hemodynamic effects in the rat ",
+            "url": "https://doi.org/10.1016/j.toxlet.2011.10.010"
+          }
+        ],
+        "status": "Dangerous"
+      },
       "mescaline": {
         "status": "Low Risk & Synergy"
       },
@@ -25615,6 +25661,52 @@
             "author": "Reissig CJ, Carter LP, Johnson MW, Mintzer MZ, Klinedinst MA, Griffiths RR",
             "title": "High doses of dextromethorphan, an NMDA antagonist, produce effects similar to classic hallucinogens ",
             "url": "https://doi.org/10.1007/s00213-012-2680-6"
+          },
+          {
+            "author": "Meng H, Cao J, Kang J, Ying X, Ji J, Reynolds W, Rampe D.",
+            "title": "Mephedrone, a new designer drug of abuse, produces acute hemodynamic effects in the rat ",
+            "url": "https://doi.org/10.1016/j.toxlet.2011.10.010"
+          }
+        ],
+        "status": "Dangerous"
+      },
+      "mdma": {
+        "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. Stimulants also increase the neurotoxic effects of MDMA, in addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
+        "sources": [
+          {
+            "author": "J Kehr,  F Ichinose,  S Yoshitake,  M Goiny,  T Sievertsson,  F Nyberg,  T Yoshitake",
+            "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
+            "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+          },
+          {
+            "author": "Gregory C. Hadlock, Katy M. Webb, Lisa M. McFadden, Pei Wen Chu, Jonathan D. Ellis, Scott C. Allen, David M. Andrenyak, Paula L. Vieira-Brock, Christopher L. German, Kevin M. Conrad, Amanda J. Hoonakker, James W. Gibb, Diana G. Wilkins, Glen R. Hanson and Annette E. Fleckenstein",
+            "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse",
+            "url": "https://doi.org/10.1124/jpet.111.184119 "
+          },
+          {
+            "author": "Gough B, Ali SF, Slikker W Jr, Holson RR. ",
+            "title": "Acute effects of 3,4-methylenedioxymethamphetamine (MDMA) on monoamines in rat caudate. (1991)",
+            "url": "https://doi.org/10.1016/0091-3057(91)90137-q"
+          },
+          {
+            "author": "Schmidt CJ, Levin JA, Lovenberg W. ",
+            "title": "In vitro and in vivo neurochemical effects of methylenedioxymethamphetamine on striatal monoaminergic systems in the rat brain. (1987)",
+            "url": "https://doi.org/10.1016/0006-2952(87)90729-5"
+          },
+          {
+            "author": "Bankson MG, Cunningham KA.",
+            "title": "3,4-Methylenedioxymethamphetamine (MDMA) as a unique model of serotonin receptor function and serotonin-dopamine interactions. (2001)",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11356903/"
+          },
+          {
+            "author": "A.C. Parrott",
+            "title": "Recreational Ecstasy/MDMA, the serotonin syndrome, and serotonergic neurotoxicity (2002)",
+            "url": "https://doi.org/10.1016/S0091-3057(01)00711-0"
+          },
+          {
+            "author": "Lisa H. Gold & George F. Koob ",
+            "title": "MDMA produces stimulant-like conditioned locomotor activity. (1989)",
+            "url": "https://doi.org/10.1007/BF00445556"
           },
           {
             "author": "Meng H, Cao J, Kang J, Ying X, Ji J, Reynolds W, Rampe D.",
