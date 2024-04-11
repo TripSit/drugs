@@ -2,9 +2,6 @@ name: Validate changes
 
 on:
   pull_request:
-    branches:
-      - main
-      - development
     types:
       - opened
       - synchronize
