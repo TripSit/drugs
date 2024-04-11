@@ -16890,6 +16890,47 @@
       },
       "tramadol": {
         "status": "Dangerous"
+      },
+      "mephedrone": {
+        "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. In addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
+        "sources": [
+          {
+            "author": "J Kehr,  F Ichinose,  S Yoshitake,  M Goiny,  T Sievertsson,  F Nyberg,  T Yoshitake",
+            "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
+            "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+          },
+          {
+            "author": "Gregory C. Hadlock, Katy M. Webb, Lisa M. McFadden, Pei Wen Chu, Jonathan D. Ellis, Scott C. Allen, David M. Andrenyak, Paula L. Vieira-Brock, Christopher L. German, Kevin M. Conrad, Amanda J. Hoonakker, James W. Gibb, Diana G. Wilkins, Glen R. Hanson and Annette E. Fleckenstein",
+            "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse",
+            "url": "https://doi.org/10.1124/jpet.111.184119 "
+          },
+          {
+            "author": "Anna R. Schwartz, Anthony F. Pizon & Daniel E. Brooks",
+            "title": "Dextromethorphan-induced serotonin syndrome",
+            "url": "https://doi.org/10.1080/15563650701668625"
+          },
+          {
+            "author": "DrugBank",
+            "title": "Dextromethorphan",
+            "url": "https://go.drugbank.com/drugs/DB00514"
+          },
+          {
+            "author": "Henderson MG, Fuller RW",
+            "title": "Dextromethorphan antagonizes the acute depletion of brain serotonin by p-chloroamphetamine and H75/12 in rats",
+            "url": "https://doi.org/10.1016/0006-8993(92)91144-4"
+          },
+          {
+            "author": "Reissig CJ, Carter LP, Johnson MW, Mintzer MZ, Klinedinst MA, Griffiths RR",
+            "title": "High doses of dextromethorphan, an NMDA antagonist, produce effects similar to classic hallucinogens ",
+            "url": "https://doi.org/10.1007/s00213-012-2680-6"
+          },
+          {
+            "author": "Meng H, Cao J, Kang J, Ying X, Ji J, Reynolds W, Rampe D.",
+            "title": "Mephedrone, a new designer drug of abuse, produces acute hemodynamic effects in the rat ",
+            "url": "https://doi.org/10.1016/j.toxlet.2011.10.010"
+          }
+        ],
+        "status": "Dangerous"
       }
     },
     "dose_note": " NOTE: See http://dxm.tripsit.me for mg/lb doses, among other things. Deaths have been reported at 25mg/kg",
@@ -23378,6 +23419,11 @@
             "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
             "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
             "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+          },
+          {
+            "author": "Edwards, C., Van Gerpen, S., & Anand, V.",
+            "title": "New-Onset Seizures in an Adolescent Following Use of LSD while on Low-Dose Lithium Therapy: A Case Study. (2024)",
+            "url": "https://doi.org/10.1177%2F1941874414528939"
           }
         ],
         "status": "Dangerous"
@@ -23497,6 +23543,11 @@
             "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
             "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
             "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+          },
+          {
+            "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
+            "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. (2015)",
+            "url": "https://doi.org/10.23907/2015.009"
           }
         ],
         "status": "Dangerous"
@@ -23508,6 +23559,32 @@
             "author": "Drugbank",
             "title": "Lithium Carbonate",
             "url": "https://go.drugbank.com/drugs/DB14509"
+          }
+        ],
+        "status": "Low Risk & No Synergy"
+      },
+      "ssris": {
+        "note": "This interaction is used in medical settings without reported issues. If this combination is taken, caution would be recommended if any other drugs are planned to be taken on top of these that may have serotonergic activity.",
+        "sources": [
+          {
+            "author": "Finley, P. R.",
+            "title": "Drug Interactions with Lithium: An Update. (2016)",
+            "url": "https://doi.org/10.1007/s40262-016-0370-y"
+          },
+          {
+            "author": "Hawley CJ, Loughlin PJ, Quick SJ, Gale TM, Sivakumaran T, Hayes J, McPhee S.",
+            "title": "Efficacy, safety and tolerability of combined administration of lithium and selective serotonin reuptake inhibitors: a review of the current evidence. (2000)",
+            "url": "https://doi.org/10.1097/00004850-200015040-00002"
+          },
+          {
+            "author": "Müller-Oerlinghausen, B.",
+            "title": "Drug Interactions with Lithium. (1999)",
+            "url": "https://doi.org/10.2165/00023210-199911010-00004"
+          },
+          {
+            "author": "Bauer, Michael PhD, MD; Linden, Michael MD; Schaaf, Berthold; Weber, Hans J. MD.",
+            "title": "Adverse Events and Tolerability of the Combination of Fluoxetine/Lithium Compared With Fluoxetine. (1996)",
+            "url": "https://doi.org/10.1097/00004714-199604000-00005"
           }
         ],
         "status": "Low Risk & No Synergy"
@@ -23943,6 +24020,11 @@
             "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
             "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
             "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+          },
+          {
+            "author": "Edwards, C., Van Gerpen, S., & Anand, V.",
+            "title": "New-Onset Seizures in an Adolescent Following Use of LSD while on Low-Dose Lithium Therapy: A Case Study. (2024)",
+            "url": "https://doi.org/10.1177%2F1941874414528939"
           }
         ],
         "status": "Dangerous"
@@ -25422,6 +25504,47 @@
       "empathogen"
     ],
     "combos": {
+      "dextromethorphan": {
+        "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. In addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
+        "sources": [
+          {
+            "author": "J Kehr,  F Ichinose,  S Yoshitake,  M Goiny,  T Sievertsson,  F Nyberg,  T Yoshitake",
+            "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
+            "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+          },
+          {
+            "author": "Gregory C. Hadlock, Katy M. Webb, Lisa M. McFadden, Pei Wen Chu, Jonathan D. Ellis, Scott C. Allen, David M. Andrenyak, Paula L. Vieira-Brock, Christopher L. German, Kevin M. Conrad, Amanda J. Hoonakker, James W. Gibb, Diana G. Wilkins, Glen R. Hanson and Annette E. Fleckenstein",
+            "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse",
+            "url": "https://doi.org/10.1124/jpet.111.184119 "
+          },
+          {
+            "author": "Anna R. Schwartz, Anthony F. Pizon & Daniel E. Brooks",
+            "title": "Dextromethorphan-induced serotonin syndrome",
+            "url": "https://doi.org/10.1080/15563650701668625"
+          },
+          {
+            "author": "DrugBank",
+            "title": "Dextromethorphan",
+            "url": "https://go.drugbank.com/drugs/DB00514"
+          },
+          {
+            "author": "Henderson MG, Fuller RW",
+            "title": "Dextromethorphan antagonizes the acute depletion of brain serotonin by p-chloroamphetamine and H75/12 in rats",
+            "url": "https://doi.org/10.1016/0006-8993(92)91144-4"
+          },
+          {
+            "author": "Reissig CJ, Carter LP, Johnson MW, Mintzer MZ, Klinedinst MA, Griffiths RR",
+            "title": "High doses of dextromethorphan, an NMDA antagonist, produce effects similar to classic hallucinogens ",
+            "url": "https://doi.org/10.1007/s00213-012-2680-6"
+          },
+          {
+            "author": "Meng H, Cao J, Kang J, Ying X, Ji J, Reynolds W, Rampe D.",
+            "title": "Mephedrone, a new designer drug of abuse, produces acute hemodynamic effects in the rat ",
+            "url": "https://doi.org/10.1016/j.toxlet.2011.10.010"
+          }
+        ],
+        "status": "Dangerous"
+      },
       "dextromethorphan": {
         "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. In addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
         "sources": [
