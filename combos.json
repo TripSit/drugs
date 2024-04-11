@@ -2420,7 +2420,6 @@
       "status": "Unsafe"
     },
     "ssris": {
-      "status": "Low Risk & Decrease",
       "sources": [
         {
           "author": "Feduccia, A. A., Jerome, L., Mithoefer, M. C., & Holland, J.",
@@ -2437,7 +2436,8 @@
           "title": "Serotonin toxicity of serotonergic psychedelics.",
           "url": "https://doi.org/10.1007/s00213-021-05876-x"
         }
-      ]
+      ],
+      "status": "Low Risk & Decrease"
     },
     "tramadol": {
       "note": "Tramadol and stimulants both increase the risk of seizures.",
@@ -3306,7 +3306,6 @@
       "status": "Dangerous"
     },
     "mdma": {
-      "status": "Low Risk & Decrease",
       "sources": [
         {
           "author": "Feduccia, A. A., Jerome, L., Mithoefer, M. C., & Holland, J.",
@@ -3323,7 +3322,8 @@
           "title": "Serotonin toxicity of serotonergic psychedelics.",
           "url": "https://doi.org/10.1007/s00213-021-05876-x"
         }
-      ]
+      ],
+      "status": "Low Risk & Decrease"
     },
     "mescaline": {
       "status": "Low Risk & Decrease"
