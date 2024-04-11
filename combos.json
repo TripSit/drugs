@@ -411,7 +411,29 @@
       "status": "Unsafe"
     },
     "mdma": {
-      "note": "Both MDMA and alcohol cause dehydration. Approach this combination with caution, moderation and sufficient hydration. More than a small amount of alcohol will dull the euphoria of MDMA",
+      "note": "The combination of MDMA and alcohol may increase strain on the cardiovascular system and lead to increased alcohol consumption. MDMA may also impair one's ability to recognize their level of drunkenness, leading to increased alcohol consumption and poor decision-making. Alcohol may also increase the risk of dehydration and hyperthermia (increased body temperature) when combined with MDMA.",
+      "sources": [
+        {
+          "author": "Hamida, S. B., Plute, E., Cosquer, B., Kelche, C., Jones, B. C., & Cassel, J.-C. ",
+          "title": "Interactions between ethanol and cocaine, amphetamine, or MDMA in the rat: thermoregulatory and locomotor effects. (2008)",
+          "url": "https://doi.org/10.1007/s00213-007-1007-5"
+        },
+        {
+          "author": "Ramaekers, J. G., & Kuypers, K. P. C.",
+          "title": "Acute Effects of 3,4-Methylenedioxymethamphetamine (MDMA) on Behavioral Measures of Impulsivity: Alone and in Combination with Alcohol. (2006)",
+          "url": "https://doi.org/10.1038/sj.npp.1300894"
+        },
+        {
+          "author": "Hernández-López, C., Farré, M., Roset, P. N., Menoyo, E., Pizarro, N., Ortuño, J., Torrens, M., Camı́, J., & Torre, R. de la.",
+          "title": "3,4-Methylenedioxymethamphetamine (Ecstasy) and Alcohol Interactions in Humans: Psychomotor Performance, Subjective Effects, and Pharmacokinetics. (2002)",
+          "url": "https://doi.org/10.1124/jpet.300.1.236"
+        },
+        {
+          "author": "van Amsterdam, J., Brunt, T. M., Pierce, M., & van den Brink, W.",
+          "title": "Hard Boiled: Alcohol Use as a Risk Factor for MDMA-Induced Hyperthermia: a Systematic Review. (2021)",
+          "url": "https://doi.org/10.1007/s12640-021-00416-z"
+        }
+      ],
       "status": "Caution"
     },
     "mescaline": {
@@ -503,6 +525,32 @@
     "ketamine": {
       "note": "No unexpected interactions, though likely to increase blood pressure but not an issue with sensible doses. Moving around on high doses of this combination may be ill advised due to risk of physical injury.",
       "status": "Caution"
+    },
+    "lithium": {
+      "note": "Lithium may be neuroprotective when taken with amphetamines and Lithium may decrease the hyperactive effects of amphetamines. Studies indicate this combination is safe.",
+      "sources": [
+        {
+          "author": "Ago, Y., Tanaka, T., Kita, Y., Tokumoto, H., Takuma, K., & Matsuda, T.",
+          "title": "Lithium attenuates methamphetamine-induced hyperlocomotion and behavioral sensitization via modulation of prefrontal monoamine release. (2012)",
+          "url": "https://doi.org/10.1016/j.neuropharm.2011.10.004"
+        },
+        {
+          "author": "Gould, T. D., O’Donnell, K. C., Picchini, A. M., & Manji, H. K.",
+          "title": "Strain Differences in Lithium Attenuation of d-Amphetamine-Induced Hyperlocomotion: A Mouse Model for the Genetics of Clinical Response to Lithium.  (2007)",
+          "url": "https://doi.org/10.1038/sj.npp.1301254"
+        },
+        {
+          "author": "Zhou, Z., Wang, Y., Tan, H., Bharti, V., Che, Y., & Wang, J.-F. ",
+          "title": "Chronic treatment with mood stabilizer lithium inhibits amphetamine-induced risk-taking manic-like behaviors. (2015)",
+          "url": "https://doi.org/10.1016/j.neulet.2015.07.027"
+        },
+        {
+          "author": "Silverstone, P. H., Pukhovsky, A., & Rotzinger, S.",
+          "title": "Lithium does not attenuate the effects of d-amphetamine in healthy volunteers. (1998)",
+          "url": "https://doi.org/10.1016/S0165-1781(98)00037-7"
+        }
+      ],
+      "status": "Low Risk & No Synergy"
     },
     "lsd": {
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
@@ -1943,6 +1991,11 @@
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
           "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+        },
+        {
+          "author": "Edwards, C., Van Gerpen, S., & Anand, V.",
+          "title": "New-Onset Seizures in an Adolescent Following Use of LSD while on Low-Dose Lithium Therapy: A Case Study. (2024)",
+          "url": "https://doi.org/10.1177%2F1941874414528939"
         }
       ],
       "status": "Dangerous"
@@ -2062,6 +2115,11 @@
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
           "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+        },
+        {
+          "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
+          "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. (2015)",
+          "url": "https://doi.org/10.23907/2015.009"
         }
       ],
       "status": "Dangerous"
@@ -2073,6 +2131,32 @@
           "author": "Drugbank",
           "title": "Lithium Carbonate",
           "url": "https://go.drugbank.com/drugs/DB14509"
+        }
+      ],
+      "status": "Low Risk & No Synergy"
+    },
+    "ssris": {
+      "note": "This interaction is used in medical settings without reported issues. If this combination is taken, caution would be recommended if any other drugs are planned to be taken on top of these that may have serotonergic activity.",
+      "sources": [
+        {
+          "author": "Finley, P. R.",
+          "title": "Drug Interactions with Lithium: An Update. (2016)",
+          "url": "https://doi.org/10.1007/s40262-016-0370-y"
+        },
+        {
+          "author": "Hawley CJ, Loughlin PJ, Quick SJ, Gale TM, Sivakumaran T, Hayes J, McPhee S.",
+          "title": "Efficacy, safety and tolerability of combined administration of lithium and selective serotonin reuptake inhibitors: a review of the current evidence. (2000)",
+          "url": "https://doi.org/10.1097/00004850-200015040-00002"
+        },
+        {
+          "author": "Müller-Oerlinghausen, B.",
+          "title": "Drug Interactions with Lithium. (1999)",
+          "url": "https://doi.org/10.2165/00023210-199911010-00004"
+        },
+        {
+          "author": "Bauer, Michael PhD, MD; Linden, Michael MD; Schaaf, Berthold; Weber, Hans J. MD.",
+          "title": "Adverse Events and Tolerability of the Combination of Fluoxetine/Lithium Compared With Fluoxetine. (1996)",
+          "url": "https://doi.org/10.1097/00004714-199604000-00005"
         }
       ],
       "status": "Low Risk & No Synergy"
@@ -2195,6 +2279,11 @@
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
           "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+        },
+        {
+          "author": "Edwards, C., Van Gerpen, S., & Anand, V.",
+          "title": "New-Onset Seizures in an Adolescent Following Use of LSD while on Low-Dose Lithium Therapy: A Case Study. (2024)",
+          "url": "https://doi.org/10.1177%2F1941874414528939"
         }
       ],
       "status": "Dangerous"
@@ -2347,7 +2436,29 @@
       "status": "Caution"
     },
     "alcohol": {
-      "note": "Both MDMA and alcohol cause dehydration. Approach this combination with caution, moderation and sufficient hydration. More than a small amount of alcohol will dull the euphoria of MDMA",
+      "note": "The combination of MDMA and alcohol may increase strain on the cardiovascular system and lead to increased alcohol consumption. MDMA may also impair one's ability to recognize their level of drunkenness, leading to increased alcohol consumption and poor decision-making. Alcohol may also increase the risk of dehydration and hyperthermia (increased body temperature) when combined with MDMA.",
+      "sources": [
+        {
+          "author": "Hamida, S. B., Plute, E., Cosquer, B., Kelche, C., Jones, B. C., & Cassel, J.-C. ",
+          "title": "Interactions between ethanol and cocaine, amphetamine, or MDMA in the rat: thermoregulatory and locomotor effects. (2008)",
+          "url": "https://doi.org/10.1007/s00213-007-1007-5"
+        },
+        {
+          "author": "Ramaekers, J. G., & Kuypers, K. P. C.",
+          "title": "Acute Effects of 3,4-Methylenedioxymethamphetamine (MDMA) on Behavioral Measures of Impulsivity: Alone and in Combination with Alcohol. (2006)",
+          "url": "https://doi.org/10.1038/sj.npp.1300894"
+        },
+        {
+          "author": "Hernández-López, C., Farré, M., Roset, P. N., Menoyo, E., Pizarro, N., Ortuño, J., Torrens, M., Camı́, J., & Torre, R. de la.",
+          "title": "3,4-Methylenedioxymethamphetamine (Ecstasy) and Alcohol Interactions in Humans: Psychomotor Performance, Subjective Effects, and Pharmacokinetics. (2002)",
+          "url": "https://doi.org/10.1124/jpet.300.1.236"
+        },
+        {
+          "author": "van Amsterdam, J., Brunt, T. M., Pierce, M., & van den Brink, W.",
+          "title": "Hard Boiled: Alcohol Use as a Risk Factor for MDMA-Induced Hyperthermia: a Systematic Review. (2021)",
+          "url": "https://doi.org/10.1007/s12640-021-00416-z"
+        }
+      ],
       "status": "Caution"
     },
     "amphetamines": {
@@ -2946,6 +3057,11 @@
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
           "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+        },
+        {
+          "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
+          "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. (2015)",
+          "url": "https://doi.org/10.23907/2015.009"
         }
       ],
       "status": "Dangerous"
@@ -3324,6 +3440,32 @@
       "status": "Low Risk & No Synergy"
     },
     "ketamine": {
+      "status": "Low Risk & No Synergy"
+    },
+    "lithium": {
+      "note": "This interaction is used in medical settings without reported issues. If this combination is taken, caution would be recommended if any other drugs are planned to be taken on top of these that may have serotonergic activity.",
+      "sources": [
+        {
+          "author": "Finley, P. R.",
+          "title": "Drug Interactions with Lithium: An Update. (2016)",
+          "url": "https://doi.org/10.1007/s40262-016-0370-y"
+        },
+        {
+          "author": "Hawley CJ, Loughlin PJ, Quick SJ, Gale TM, Sivakumaran T, Hayes J, McPhee S.",
+          "title": "Efficacy, safety and tolerability of combined administration of lithium and selective serotonin reuptake inhibitors: a review of the current evidence. (2000)",
+          "url": "https://doi.org/10.1097/00004850-200015040-00002"
+        },
+        {
+          "author": "Müller-Oerlinghausen, B.",
+          "title": "Drug Interactions with Lithium. (1999)",
+          "url": "https://doi.org/10.2165/00023210-199911010-00004"
+        },
+        {
+          "author": "Bauer, Michael PhD, MD; Linden, Michael MD; Schaaf, Berthold; Weber, Hans J. MD.",
+          "title": "Adverse Events and Tolerability of the Combination of Fluoxetine/Lithium Compared With Fluoxetine. (1996)",
+          "url": "https://doi.org/10.1097/00004714-199604000-00005"
+        }
+      ],
       "status": "Low Risk & No Synergy"
     },
     "lsd": {
