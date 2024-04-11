@@ -1,0 +1,13 @@
+combos.json @utaninja @zelixir25
+drugs.json @utaninja @zelixir25
+combo_definitions.json @utaninja @zelixir25
+/.github/ @LunaUrsa
+/.vscode/ @LunaUrsa
+/schemas/ @LunaUrsa
+/scripts/ @LunaUrsa
+/translations @LunaUrsa
+/types/ @LunaUrsa
+.gitignore @LunaUrsa
+package.json @LunaUrsa
+README.md @LunaUrsa
+tsconfig.json @LunaUrsa
