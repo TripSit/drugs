@@ -389,7 +389,29 @@
       "status": "Unsafe"
     },
     "mdma": {
-      "note": "Both MDMA and alcohol cause dehydration. Approach this combination with caution, moderation and sufficient hydration. More than a small amount of alcohol will dull the euphoria of MDMA",
+      "note": "The combination of MDMA and alcohol may increase strain on the cardiovascular system and lead to increased alcohol consumption. MDMA may also impair one's ability to recognize their level of drunkenness, leading to increased alcohol consumption and poor decision-making. Alcohol may also increase the risk of dehydration and hyperthermia (increased body temperature) when combined with MDMA.",
+      "sources": [
+        {
+          "author": "Hamida, S. B., Plute, E., Cosquer, B., Kelche, C., Jones, B. C., & Cassel, J.-C. ",
+          "title": "Interactions between ethanol and cocaine, amphetamine, or MDMA in the rat: thermoregulatory and locomotor effects. (2008)",
+          "url": "https://doi.org/10.1007/s00213-007-1007-5"
+        },
+        {
+          "author": "Ramaekers, J. G., & Kuypers, K. P. C.",
+          "title": "Acute Effects of 3,4-Methylenedioxymethamphetamine (MDMA) on Behavioral Measures of Impulsivity: Alone and in Combination with Alcohol. (2006)",
+          "url": "https://doi.org/10.1038/sj.npp.1300894"
+        },
+        {
+          "author": "Hernández-López, C., Farré, M., Roset, P. N., Menoyo, E., Pizarro, N., Ortuño, J., Torrens, M., Camı́, J., & Torre, R. de la.",
+          "title": "3,4-Methylenedioxymethamphetamine (Ecstasy) and Alcohol Interactions in Humans: Psychomotor Performance, Subjective Effects, and Pharmacokinetics. (2002)",
+          "url": "https://doi.org/10.1124/jpet.300.1.236"
+        },
+        {
+          "author": "van Amsterdam, J., Brunt, T. M., Pierce, M., & van den Brink, W.",
+          "title": "Hard Boiled: Alcohol Use as a Risk Factor for MDMA-Induced Hyperthermia: a Systematic Review. (2021)",
+          "url": "https://doi.org/10.1007/s12640-021-00416-z"
+        }
+      ],
       "status": "Caution"
     },
     "mescaline": {
@@ -2370,7 +2392,29 @@
       "status": "Caution"
     },
     "alcohol": {
-      "note": "Both MDMA and alcohol cause dehydration. Approach this combination with caution, moderation and sufficient hydration. More than a small amount of alcohol will dull the euphoria of MDMA",
+      "note": "The combination of MDMA and alcohol may increase strain on the cardiovascular system and lead to increased alcohol consumption. MDMA may also impair one's ability to recognize their level of drunkenness, leading to increased alcohol consumption and poor decision-making. Alcohol may also increase the risk of dehydration and hyperthermia (increased body temperature) when combined with MDMA.",
+      "sources": [
+        {
+          "author": "Hamida, S. B., Plute, E., Cosquer, B., Kelche, C., Jones, B. C., & Cassel, J.-C. ",
+          "title": "Interactions between ethanol and cocaine, amphetamine, or MDMA in the rat: thermoregulatory and locomotor effects. (2008)",
+          "url": "https://doi.org/10.1007/s00213-007-1007-5"
+        },
+        {
+          "author": "Ramaekers, J. G., & Kuypers, K. P. C.",
+          "title": "Acute Effects of 3,4-Methylenedioxymethamphetamine (MDMA) on Behavioral Measures of Impulsivity: Alone and in Combination with Alcohol. (2006)",
+          "url": "https://doi.org/10.1038/sj.npp.1300894"
+        },
+        {
+          "author": "Hernández-López, C., Farré, M., Roset, P. N., Menoyo, E., Pizarro, N., Ortuño, J., Torrens, M., Camı́, J., & Torre, R. de la.",
+          "title": "3,4-Methylenedioxymethamphetamine (Ecstasy) and Alcohol Interactions in Humans: Psychomotor Performance, Subjective Effects, and Pharmacokinetics. (2002)",
+          "url": "https://doi.org/10.1124/jpet.300.1.236"
+        },
+        {
+          "author": "van Amsterdam, J., Brunt, T. M., Pierce, M., & van den Brink, W.",
+          "title": "Hard Boiled: Alcohol Use as a Risk Factor for MDMA-Induced Hyperthermia: a Systematic Review. (2021)",
+          "url": "https://doi.org/10.1007/s12640-021-00416-z"
+        }
+      ],
       "status": "Caution"
     },
     "amphetamines": {
