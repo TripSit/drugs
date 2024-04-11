@@ -482,6 +482,32 @@
       "note": "No unexpected interactions, though likely to increase blood pressure but not an issue with sensible doses. Moving around on high doses of this combination may be ill advised due to risk of physical injury.",
       "status": "Caution"
     },
+    "lithium": {
+      "note": "Lithium may be neuroprotective when taken with amphetamines and Lithium may decrease the hyperactive effects of amphetamines. Studies indicate this combination is safe.",
+      "sources": [
+        {
+          "author": "Ago, Y., Tanaka, T., Kita, Y., Tokumoto, H., Takuma, K., & Matsuda, T.",
+          "title": "Lithium attenuates methamphetamine-induced hyperlocomotion and behavioral sensitization via modulation of prefrontal monoamine release. (2012)",
+          "url": "https://doi.org/10.1016/j.neuropharm.2011.10.004"
+        },
+        {
+          "author": "Gould, T. D., O’Donnell, K. C., Picchini, A. M., & Manji, H. K.",
+          "title": "Strain Differences in Lithium Attenuation of d-Amphetamine-Induced Hyperlocomotion: A Mouse Model for the Genetics of Clinical Response to Lithium.  (2007)",
+          "url": "https://doi.org/10.1038/sj.npp.1301254"
+        },
+        {
+          "author": "Zhou, Z., Wang, Y., Tan, H., Bharti, V., Che, Y., & Wang, J.-F. ",
+          "title": "Chronic treatment with mood stabilizer lithium inhibits amphetamine-induced risk-taking manic-like behaviors. (2015)",
+          "url": "https://doi.org/10.1016/j.neulet.2015.07.027"
+        },
+        {
+          "author": "Silverstone, P. H., Pukhovsky, A., & Rotzinger, S.",
+          "title": "Lithium does not attenuate the effects of d-amphetamine in healthy volunteers. (1998)",
+          "url": "https://doi.org/10.1016/S0165-1781(98)00037-7"
+        }
+      ],
+      "status": "Low Risk & No Synergy"
+    },
     "lsd": {
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
