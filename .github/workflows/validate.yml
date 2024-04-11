@@ -26,6 +26,6 @@ jobs:
       run: npm install
       
     - name: Run validation script
-      run: npx ts-node combosToDrugs.ts --github-check
+      run: npx ts-node ./scripts/combosToDrugs.ts --github-check
       env:
         CI: true
