@@ -2069,6 +2069,32 @@
       ],
       "status": "Low Risk & No Synergy"
     },
+    "ssris": {
+      "note": "This interaction is used in medical settings without reported issues. If this combination is taken, caution would be recommended if any other drugs are planned to be taken on top of these that may have serotonergic activity.",
+      "sources": [
+        {
+          "author": "Finley, P. R.",
+          "title": "Drug Interactions with Lithium: An Update. (2016)",
+          "url": "https://doi.org/10.1007/s40262-016-0370-y"
+        },
+        {
+          "author": "Hawley CJ, Loughlin PJ, Quick SJ, Gale TM, Sivakumaran T, Hayes J, McPhee S.",
+          "title": "Efficacy, safety and tolerability of combined administration of lithium and selective serotonin reuptake inhibitors: a review of the current evidence. (2000)",
+          "url": "https://doi.org/10.1097/00004850-200015040-00002"
+        },
+        {
+          "author": "Müller-Oerlinghausen, B.",
+          "title": "Drug Interactions with Lithium. (1999)",
+          "url": "https://doi.org/10.2165/00023210-199911010-00004"
+        },
+        {
+          "author": "Bauer, Michael PhD, MD; Linden, Michael MD; Schaaf, Berthold; Weber, Hans J. MD.",
+          "title": "Adverse Events and Tolerability of the Combination of Fluoxetine/Lithium Compared With Fluoxetine. (1996)",
+          "url": "https://doi.org/10.1097/00004714-199604000-00005"
+        }
+      ],
+      "status": "Low Risk & No Synergy"
+    },
     "tramadol": {
       "note": "Tramadol and Lithium both increase the risk of seizures and serotonin syndrome.",
       "sources": [
@@ -3326,6 +3352,32 @@
       "status": "Low Risk & No Synergy"
     },
     "ketamine": {
+      "status": "Low Risk & No Synergy"
+    },
+    "lithium": {
+      "note": "This interaction is used in medical settings without reported issues. If this combination is taken, caution would be recommended if any other drugs are planned to be taken on top of these that may have serotonergic activity.",
+      "sources": [
+        {
+          "author": "Finley, P. R.",
+          "title": "Drug Interactions with Lithium: An Update. (2016)",
+          "url": "https://doi.org/10.1007/s40262-016-0370-y"
+        },
+        {
+          "author": "Hawley CJ, Loughlin PJ, Quick SJ, Gale TM, Sivakumaran T, Hayes J, McPhee S.",
+          "title": "Efficacy, safety and tolerability of combined administration of lithium and selective serotonin reuptake inhibitors: a review of the current evidence. (2000)",
+          "url": "https://doi.org/10.1097/00004850-200015040-00002"
+        },
+        {
+          "author": "Müller-Oerlinghausen, B.",
+          "title": "Drug Interactions with Lithium. (1999)",
+          "url": "https://doi.org/10.2165/00023210-199911010-00004"
+        },
+        {
+          "author": "Bauer, Michael PhD, MD; Linden, Michael MD; Schaaf, Berthold; Weber, Hans J. MD.",
+          "title": "Adverse Events and Tolerability of the Combination of Fluoxetine/Lithium Compared With Fluoxetine. (1996)",
+          "url": "https://doi.org/10.1097/00004714-199604000-00005"
+        }
+      ],
       "status": "Low Risk & No Synergy"
     },
     "lsd": {
