@@ -8,6 +8,7 @@ combo_definitions.json @utaninja @zelixir25
 /translations @LunaUrsa
 /types/ @LunaUrsa
 .gitignore @LunaUrsa
+package-lock.json @LunaUrsa
 package.json @LunaUrsa
 README.md @LunaUrsa
 tsconfig.json @LunaUrsa

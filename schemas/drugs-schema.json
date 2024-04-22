@@ -1,5 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "object",
   "additionalProperties": {
       "$ref": "#/definitions/Drug"
@@ -55,10 +55,7 @@
                   "type": "object",
                   "additionalProperties": {
                       "type": "string",
-                      "format": "uri",
-                      "qt-uri-protocols": [
-                          "https"
-                      ]
+                      "format": "uri"
                   }
               },
               "dose_note": {
@@ -305,33 +302,15 @@
           "properties": {
               "experiences": {
                   "type": "string",
-                  "format": "uri",
-                  "qt-uri-protocols": [
-                      "https"
-                  ],
-                  "qt-uri-extensions": [
-                      ".shtml"
-                  ]
+                  "format": "uri"
               },
               "pihkal": {
                   "type": "string",
-                  "format": "uri",
-                  "qt-uri-protocols": [
-                      "https"
-                  ],
-                  "qt-uri-extensions": [
-                      ".shtml"
-                  ]
+                  "format": "uri"
               },
               "tihkal": {
                   "type": "string",
-                  "format": "uri",
-                  "qt-uri-protocols": [
-                      "https"
-                  ],
-                  "qt-uri-extensions": [
-                      ".shtml"
-                  ]
+                  "format": "uri"
               }
           },
           "required": [
@@ -381,14 +360,7 @@
               },
               "experiences": {
                   "type": "string",
-                  "format": "uri",
-                  "qt-uri-protocols": [
-                      "https"
-                  ],
-                  "qt-uri-extensions": [
-                      ".php",
-                      ".shtml"
-                  ]
+                  "format": "uri"
               },
               "warning": {
                   "type": "string"
@@ -413,10 +385,7 @@
               },
               "wiki": {
                   "type": "string",
-                  "format": "uri",
-                  "qt-uri-protocols": [
-                      "http"
-                  ]
+                  "format": "uri"
               },
               "mdma": {
                   "type": "string"
@@ -462,34 +431,18 @@
               },
               "molecule": {
                   "type": "string",
-                  "format": "uri",
-                  "qt-uri-protocols": [
-                      "http"
-                  ],
-                  "qt-uri-extensions": [
-                      ".jpg",
-                      ".png"
-                  ]
+                  "format": "uri"
               },
               "vaporization": {
                   "type": "string"
               },
               "calculator": {
                   "type": "string",
-                  "format": "uri",
-                  "qt-uri-protocols": [
-                      "http"
-                  ]
+                  "format": "uri"
               },
               "chart": {
                   "type": "string",
-                  "format": "uri",
-                  "qt-uri-protocols": [
-                      "http"
-                  ],
-                  "qt-uri-extensions": [
-                      ".png"
-                  ]
+                  "format": "uri"
               },
               "Oral": {
                   "type": "string"
@@ -569,65 +522,35 @@
               "_general": {
                   "type": "array",
                   "items": {
-                      "type": "string",
-                      "qt-uri-protocols": [
-                          "http",
-                          "https"
-                      ]
+                      "type": "string"
                   }
               },
               "dose": {
                   "type": "array",
                   "items": {
                       "type": "string",
-                      "format": "uri",
-                      "qt-uri-protocols": [
-                          "http"
-                      ],
-                      "qt-uri-extensions": [
-                          ".full"
-                      ]
+                      "format": "uri"
                   }
               },
               "duration": {
                   "type": "array",
                   "items": {
                       "type": "string",
-                      "format": "uri",
-                      "qt-uri-protocols": [
-                          "http"
-                      ],
-                      "qt-uri-extensions": [
-                          ".full"
-                      ]
+                      "format": "uri"
                   }
               },
               "bioavailability": {
                   "type": "array",
                   "items": {
                       "type": "string",
-                      "format": "uri",
-                      "qt-uri-protocols": [
-                          "https"
-                      ]
+                      "format": "uri"
                   }
               },
               "legality": {
                   "type": "array",
                   "items": {
                       "type": "string",
-                      "format": "uri",
-                      "qt-uri-protocols": [
-                          "http",
-                          "https"
-                      ],
-                      "qt-uri-extensions": [
-                          ".asp",
-                          ".aspx",
-                          ".cfm",
-                          ".html",
-                          ".pdf"
-                      ]
+                      "format": "uri"
                   }
               },
               "onset": {

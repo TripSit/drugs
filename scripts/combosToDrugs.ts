@@ -28,92 +28,150 @@ import { ComboData, Combos, Interactions } from '../types/combos';
 import drugsData from '../drugs.json';
 import combosData from '../combos.json';
 import { log } from 'console';
+import * as fsSync from 'fs';
+import Ajv, { JSONSchemaType } from 'ajv';
+import addFormats from 'ajv-formats';
 
 const drugData = drugsData as {
   [key: string]: Drug
 };
+console.log(`Drugs  ${Object.keys(drugData).length}`);
 
 const comboData = combosData as {
   [key in keyof Combos]: Interactions
 };
+console.log(`Combos ${Object.keys(combosData).length}`);
 
-enum WildcardDrugs {
-  "2c-t-x" = "2c-t-x",
-  "2c-x" = "2c-x",
-  "5-meo-xxt" = "5-meo-xxt",
-  dox = "dox",
-}
+function schemaAlphabetized(): boolean {
+  let alphabetized = true;
 
-const wildcardDrugs: (keyof Combos)[]  = [
-  '2c-t-x',
-  '2c-x',
-  '5-meo-xxt',
-  'dox',
-]
-
-enum CategoryDrugs {
-  amphetamines = "amphetamines",
-  benzodiazepines = "benzodiazepines",
-  maois = "maois",
-  nbomes = "nbomes",
-  opioids = "opioids",
-  ssris = "ssris",
-  "ghb/gbl" = "ghb/gbl",
-}
-
-const categoryDrugs: (keyof Combos)[] = [
-  'amphetamines',
-  'benzodiazepines',
-  'maois',
-  'nbomes',
-  'opioids',
-  'ssris',
-  'ghb/gbl',
-]
-
-function isCategoryCombo(comboName: keyof Combos): comboName is keyof typeof CategoryDrugs {
-  return categoryDrugs.includes(comboName as any);
-}
-
-function isWildcardCombo(comboName: keyof Combos): comboName is keyof typeof WildcardDrugs {
-  return wildcardDrugs.includes(comboName as any);
-}
-
-// Function to check if an object's keys are alphabetized
-function isAlphabetized(object: Record<string, any>): boolean {
-  const keys = Object.keys(object);
-  for (let i = 0; i < keys.length - 1; i++) {
-    // Using localeCompare with numeric option
-    if (keys[i].localeCompare(keys[i + 1], undefined, {numeric: true, sensitivity: 'base'}) > 0) {
-      console.log(`Key ${keys[i]} is greater than ${keys[i + 1]}`);
-      console.log(`Keys: ${keys}`);
-      return false; // If a key is greater than the next one, it's not alphabetized
-    }
-  }
-  return true;
-}
-
-// Function to recursively check each object in the JSON
-function checkObject(obj: Record<string, any>): boolean {
-  if (!isAlphabetized(obj)) {
-    return false;
-  }
-  for (const key of Object.keys(obj)) {
-    if (typeof obj[key] === 'object' && !Array.isArray(obj[key])) {
-      if (!checkObject(obj[key])) {
-        return false; // Recursively check nested objects
+  // Function to check if an object's keys are alphabetized
+  function isAlphabetized(object: Record<string, any>): boolean {
+    const keys = Object.keys(object);
+    for (let i = 0; i < keys.length - 1; i++) {
+      // Using localeCompare with numeric option
+      if (keys[i].localeCompare(keys[i + 1], undefined, { numeric: true, sensitivity: 'base' }) > 0) {
+        console.log(`Key ${keys[i]} is greater than ${keys[i + 1]}`);
+        console.log(`Keys: ${keys}`);
+        return false; // If a key is greater than the next one, it's not alphabetized
       }
     }
+    return true;
   }
-  return true;
+
+  // Function to recursively check each object in the JSON
+  function checkObject(obj: Record<string, any>): boolean {
+    if (!isAlphabetized(obj)) {
+      return false;
+    }
+    for (const key of Object.keys(obj)) {
+      if (typeof obj[key] === 'object' && !Array.isArray(obj[key])) {
+        if (!checkObject(obj[key])) {
+          return false; // Recursively check nested objects
+        }
+      }
+    }
+    return true;
+  }
+
+  // Check the drugs.json file for alphabetization
+  if (!checkObject(drugData)) {
+    console.error('Drugs.json is not alphabetized!');
+    alphabetized = false;
+  } else {
+    console.error('Drugs.json is alphabetized!');
+  }
+
+  // Check the combos.json file for alphabetization
+  if (!checkObject(comboData)) {
+    console.error('Combos.json is not alphabetized!');
+    alphabetized = false;
+  } else {
+    console.error('Combos.json is alphabetized!');
+  }
+
+  return alphabetized;
 }
 
-export default async function compareData(): Promise<boolean>{
-  console.log(`Drugs  ${Object.keys(drugData).length}`);
-  console.log(`Combos ${Object.keys(combosData).length}`);
-  let dataChanged = false;
+function schemaValidated(): boolean {
+  let valid = true;
+  // Initialize AJV
+  const ajv = new Ajv();
+  addFormats(ajv);
 
-  // for (const [comboKey, comboEntry] of Object.entries(comboData)) {
+  // Load and parse the schema and data
+  const drugsSchema: JSONSchemaType<Drug> = JSON.parse(fsSync.readFileSync(
+    path.join(__dirname, '..', 'schemas', 'drugs-schema.json'), 'utf8'));
+
+  const drugsValidate = ajv.compile(drugsSchema);
+  const drugsValidated = drugsValidate(drugData);
+  if (!drugsValidated) {
+    log(`Drugs.json is not valid!`)
+    log(drugsValidate.errors);
+    valid = false;
+  } else {
+    log(`Drugs.json is valid!`)
+  }
+
+  const comboSchema: JSONSchemaType<Combo> = JSON.parse(fsSync.readFileSync(
+    path.join(__dirname, '..', 'schemas', 'combos-schema.json'), 'utf8'));
+
+  const comboValidate = ajv.compile(comboSchema);
+  const comboValidated = comboValidate(comboData);
+  if (!comboValidated) {
+    log(`Combos.json is not valid!`)
+    log(comboValidate.errors);
+    valid = false;
+  } else {
+    log(`Combos.json is valid!`)
+  }
+  return valid;
+}
+
+async function compareData(): Promise<boolean> {
+  enum WildcardDrugs {
+    "2c-t-x" = "2c-t-x",
+    "2c-x" = "2c-x",
+    "5-meo-xxt" = "5-meo-xxt",
+    dox = "dox",
+  }
+
+  const wildcardDrugs: (keyof Combos)[] = [
+    '2c-t-x',
+    '2c-x',
+    '5-meo-xxt',
+    'dox',
+  ]
+
+  enum CategoryDrugs {
+    amphetamines = "amphetamines",
+    benzodiazepines = "benzodiazepines",
+    maois = "maois",
+    nbomes = "nbomes",
+    opioids = "opioids",
+    ssris = "ssris",
+    "ghb/gbl" = "ghb/gbl",
+  }
+
+  const categoryDrugs: (keyof Combos)[] = [
+    'amphetamines',
+    'benzodiazepines',
+    'maois',
+    'nbomes',
+    'opioids',
+    'ssris',
+    'ghb/gbl',
+  ]
+
+  function isCategoryCombo(comboName: keyof Combos): comboName is keyof typeof CategoryDrugs {
+    return categoryDrugs.includes(comboName as any);
+  }
+
+  function isWildcardCombo(comboName: keyof Combos): comboName is keyof typeof WildcardDrugs {
+    return wildcardDrugs.includes(comboName as any);
+  }
+
+  let dataMatches = true;
   Object.entries(comboData).forEach(async ([comboKey, comboEntry]) => {
     const drugAName = comboKey as keyof Combos;
 
@@ -127,8 +185,7 @@ export default async function compareData(): Promise<boolean>{
       return;
     }
 
-    console.log(`@ ${drugAName}`);
-    // for (const [interactionKey, interactionEntry] of Object.entries(comboEntry)) {
+    // console.log(`@ ${drugAName}`);
     Object.entries(comboEntry).forEach(async ([interactionKey, interactionEntry]) => {
       const drugBName = interactionKey as keyof Interactions;
       const interaction = interactionEntry as ComboData;
@@ -143,21 +200,21 @@ export default async function compareData(): Promise<boolean>{
           note: interaction.note,
           sources: interaction.sources,
         };
-        dataChanged = true;
+        dataMatches = false;
         log(`+ ${drugBName} + ${drugAName}`);
       }
-      
+
       if (JSON.stringify(comboData[drugBName][drugAName]) != JSON.stringify(interaction)) {
         // If the status does not match, update it
         log(`~ ${drugAName} + ${drugBName}`);
         log(`drugACombo: ${JSON.stringify(interaction)}`);
         log(`drugBCombo: ${JSON.stringify(comboData[drugBName][drugAName])}`);
         comboData[drugBName][drugAName] = interaction;
-        dataChanged = true;
+        dataMatches = false;
       }
 
       // Drugs.json stuff
-      
+
       // If drugA doesn't exist in the drugs.json file, create it
       // The pretty_name may not always be correct
       if (!drugData[drugAName]) {
@@ -169,14 +226,14 @@ export default async function compareData(): Promise<boolean>{
             [drugBName]: interaction as Combo
           }
         };
-        dataChanged = true;
+        dataMatches = false;
         log(`+ ${drugAName} entry in drugs.json`);
         log(`${JSON.stringify(drugData[drugAName])}`);
       }
       // If drugA exists, but doesn't have a combos section, create it
       if (!drugData[drugAName].combos) {
         drugData[drugAName].combos = {};
-        dataChanged = true;
+        dataMatches = false;
         console.log(`+ ${drugAName}.combos`);
       }
 
@@ -188,10 +245,10 @@ export default async function compareData(): Promise<boolean>{
       // If the combo interaction does not exist, create it
       if (!drugACombos[drugBName]) {
         drugACombos[drugBName] = interaction as Combo;
-        dataChanged = true;
+        dataMatches = false;
         log(`+ ${drugBName} + ${drugAName}`);
       }
-      
+
       // If the entry exists, but the data is different, update it
       if (JSON.stringify(drugACombos[drugBName]) !== JSON.stringify(interaction)) {
         log(`~ ${drugAName} + ${drugBName}`);
@@ -199,50 +256,50 @@ export default async function compareData(): Promise<boolean>{
         log(`drugs.json: ${JSON.stringify(drugACombos[drugBName])}`);
         // Update the drugBInfo with the new data from interaction
         drugACombos[drugBName] = interaction as Combo;
-        dataChanged = true;
+        dataMatches = false;
       }
     });
-
   });
-
-  // Check the drugs.json file for alphabetization
-  if (!checkObject(drugData)) {
-    console.error('Drugs.json is not alphabetized!');
-    dataChanged = true;
-  }
-
-  // Check the combos.json file for alphabetization
-  if (!checkObject(comboData)) {
-    console.error('Combos.json is not alphabetized!');
-    dataChanged = true;
-  }
-
-  return dataChanged;
+  return dataMatches;
 }
 
 // If the command is 'npx ts-node ./scripts/combosToDrugs.ts --github-check' then it will do a check to see if the data has changed
 if (process.argv.slice(2).includes('--github-check')) {
-  compareData()
-    .then(async (dataChanged) => {
-      if (dataChanged) {
-        console.error(`Changes were made, unable to merge!`);
-        process.exit(1);
-      }
-      log('No changes were made, able to merge!');
-    })
-    .catch((err) => {
-      console.error(err);
-    });
+  console.log('GitHub Check');
+  if (!schemaValidated()) {
+    console.error('Schema is not valid!');
+    process.exit(1);
+  }
+  if (!schemaAlphabetized()) {
+    console.error('Schema is not alphabetized!');
+    process.exit(1);
+  }
+  if (!compareData()) {
+    console.error('Data does not match!');
+    process.exit(1);
+  }
+  console.log('Data matches, you can commit and merge!');
+  process.exit(0);
 } else {
+  console.log('Local Check');
+  if (!schemaValidated()) {
+    console.error('Schema is not valid!');
+    process.exit(1);
+  }
+  if (!schemaAlphabetized()) {
+    console.error('Schema is not alphabetized!');
+    process.exit(1);
+  }
+
   compareData()
-    .then(async (dataChanged) => {
-      if (dataChanged) {
-        await fs.writeFile(path.resolve(__dirname, '../drugs.json'), JSON.stringify(drugData, null, 2));
-        await fs.writeFile(path.resolve(__dirname, '../combos.json'), JSON.stringify(comboData, null, 2));
-        console.log('Updated files!');
+    .then(async (dataMatches) => {
+      if (dataMatches) {
+        console.log('No changes were made');
         return;
       }
-      console.log('No changes were made');
+      await fs.writeFile(path.resolve(__dirname, '../drugs.json'), JSON.stringify(drugData, null, 2));
+      await fs.writeFile(path.resolve(__dirname, '../combos.json'), JSON.stringify(comboData, null, 2));
+      console.log('Updated files!');
     })
     .catch((err) => {
       console.error(err);
