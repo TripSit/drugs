@@ -23,8 +23,7 @@ The steps to achieve this are:
 
 import fs from 'fs/promises';
 import path from 'path';
-import { Combo, Drug } from '../types/drugs';
-import { ComboData, Combos, Interactions } from '../types/combos';
+import { Drug, ComboData, Combos, Interactions } from '../types/tripsit';
 import drugsData from '../drugs.json';
 import combosData from '../combos.json';
 import { log } from 'console';
@@ -113,7 +112,7 @@ function schemaValidated(): boolean {
     log(`Drugs.json is valid!`)
   }
 
-  const comboSchema: JSONSchemaType<Combo> = JSON.parse(fsSync.readFileSync(
+  const comboSchema: JSONSchemaType<ComboData> = JSON.parse(fsSync.readFileSync(
     path.join(__dirname, '..', 'schemas', 'combos-schema.json'), 'utf8'));
 
   const comboValidate = ajv.compile(comboSchema);
@@ -223,7 +222,7 @@ async function compareData(): Promise<boolean> {
           pretty_name: drugAName.slice(0, 1).toUpperCase() + drugAName.slice(1),
           properties: {},
           combos: {
-            [drugBName]: interaction as Combo
+            [drugBName]: interaction
           }
         };
         dataMatches = false;
@@ -239,12 +238,12 @@ async function compareData(): Promise<boolean> {
 
       // Need to declare the type for drugACombos
       const drugACombos = drugData[drugAName].combos as {
-        [key: string]: Combo;
+        [key: string]: ComboData;
       };
 
       // If the combo interaction does not exist, create it
       if (!drugACombos[drugBName]) {
-        drugACombos[drugBName] = interaction as Combo;
+        drugACombos[drugBName] = interaction;
         dataMatches = false;
         log(`+ ${drugBName} + ${drugAName}`);
       }
@@ -255,7 +254,7 @@ async function compareData(): Promise<boolean> {
         log(`combo.json: ${JSON.stringify(interaction)}`);
         log(`drugs.json: ${JSON.stringify(drugACombos[drugBName])}`);
         // Update the drugBInfo with the new data from interaction
-        drugACombos[drugBName] = interaction as Combo;
+        drugACombos[drugBName] = interaction;
         dataMatches = false;
       }
     });
