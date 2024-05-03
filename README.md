@@ -40,6 +40,7 @@ Join the [#content](https://discord.com/channels/179641883222474752/946833118269
 * Remember to select the Content Crew role in role selections!
 
 You can also join the [#combo-chart](https://discord.com/channels/179641883222474752/1168216953924624464) channel!
+* Don't forget to check pinned messages and join the the Combo Crew role!
 
 # TripSit Combo Chart Expansion
 
