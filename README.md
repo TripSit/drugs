@@ -18,10 +18,10 @@ If you are familiar with GitHub, you can fork the repository, make your changes,
 
 If you are NOT familiar with GitHub, don't worry! You can propose a change in less than 5 minutes:
 
-1. Sign up with github if you don't already have an account. It's free and useful!
+1. Sign up with GitHub if you don't already have an account. It's free and useful!
 1. Navigate to the file you want to edit, likely either drugs.json or combos.json.
 1. Click the pencil icon under "history" to edit the file.
-1. Make your changes. You may want to copy into an external text editor like Notepad++ and paste back into github.
+1. Make your changes. You may want to copy into an external text editor like Notepad++ and paste back into GitHub.
 1. Click the green "Commit changes" button at the top right of the page.
 1. In the modal, update the commit message to describe your changes. For example, "Modified dosage on LSD".
 1. In the modal, update the extended description with your sources/references.
@@ -40,16 +40,16 @@ Join the [#content](https://discord.com/channels/179641883222474752/946833118269
 * Remember to select the Content Crew role in role selections!
 
 You can also join the [#combo-chart](https://discord.com/channels/179641883222474752/1168216953924624464) channel!
-* Don't forget to check pinned messages and join the the Combo Crew role!
+* Don't forget to check pinned messages and join the Combo Crew role!
 
 # TripSit Combo Chart Expansion
 
-It has been a while since the combo chart had a substantial update. New substances have risen in popularity and combo information is lacking. There is currently no good way to modify the TripSit database. We would like to fix all that. 
+It has been a while since the combo chart had a substantial update. New substances have risen in popularity and combo information is lacking. There is currently no good way to modify the TripSit database. We plan to fix all of that. 
 
 We’re creating a process that allows people to suggest changes to the TripSit database. The priority will be to add combo information, but this process will apply to all database information. 
 
-There are multiple things that will be done through the project, they are as following
-* Add “DPH” “Mephedrone” “Pregabalin” "Lithium" to the combo chart
+There are multiple things that will be done through the project, they are as following:
+* Add “DPH” “Mephedrone/4mmc” “Pregabalin” "Lithium" to the combo chart
 * Code needs to be cleaned up
 * Website interface development
 * Adjustments Combo chart generator needs to be updated 
