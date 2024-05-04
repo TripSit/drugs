@@ -105,7 +105,7 @@
       "status": "Low Risk & Synergy"
     },
     "opioids": {
-      "note": "No expected interactions, some opioids have serotonin action, and could lead to Serotonin Syndrome or a seizure. These are pretty much only to Pentazocine, Methadone, Tramadol, Tapenatdol.",
+      "note": "There may be a risk with some opioids, namely serotonergic ones.",
       "status": "Low Risk & No Synergy"
     },
     "pcp": {
@@ -3239,7 +3239,7 @@
   },
   "opioids": {
     "2c-t-x": {
-      "note": "No expected interactions, some opioids have serotonin action, and could lead to Serotonin Syndrome or a seizure. These are pretty much only to Pentazocine, Methadone, Tramadol, Tapenatdol.",
+There may be a risk with some opioids, namely serotonergic ones.
       "status": "Low Risk & No Synergy"
     },
     "2c-x": {
