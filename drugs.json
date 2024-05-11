@@ -10975,7 +10975,29 @@
         "status": "Low Risk & Synergy"
       },
       "cocaine": {
-        "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also allow you to drink past a point where you might normally pass out, increasing the risk. If you do decide to do this then you should set a limit of how much you will drink each hour and stick to it, bearing in mind that you will feel the alcohol less. Cocaine is potentiated somewhat by alcohol because of the formation of cocaethylene.",
+        "note": "Cocaine can decrease some of the intoxicating effects of alcohol, causing some people to drink more than they otherwise would, which leads to greater behavioral and physical health risks. There is also some debate about cocaethylene, a metabolite produced when combining alcohol and cocaine, with some researchers positing that it is more cardiotoxic than cocaine on its own. Use moderation when combining these substances.",
+        "sources": [
+          {
+            "author": "McCance-Katz, E. F., Kosten, T. R., & Jatlow, P. ",
+            "title": "Concurrent use of cocaine and alcohol is more potent and potentially more toxic than use of either alone—A multiple-dose study.",
+            "url": "https://doi.org/10.1016/S0006-3223(97)00426-5"
+          },
+          {
+            "author": "Pergolizzi, J., Breve, F., Magnusson, P., LeQuang, J. A. K., & Varrassi, G.",
+            "title": "Cocaethylene: When cocaine and alcohol are taken together.  (2022)",
+            "url": "https://doi.org/10.7759/cureus.22498"
+          },
+          {
+            "author": "Shastry, S., Manoochehri, O., Richardson, L. D., & Manini, A. F. ",
+            "title": "Cocaethylene cardiotoxicity in emergency department patients with acute drug overdose.",
+            "url": "https://doi.org/10.1111/acem.14584"
+          },
+          {
+            "author": "Wiener, S. E., Sutijono, D., Moon, C. H., Subramanian, R. A., Calaycay, J., Rushbrook, J. I., & Zehtabchi, S.",
+            "title": "Patients with detectable cocaethylene are more likely to require intensive care unit admission after trauma. ",
+            "url": "https://doi.org/10.1016/j.ajem.2009.06.014"
+          }
+        ],
         "status": "Unsafe"
       },
       "dextromethorphan": {
@@ -11005,7 +11027,29 @@
         "status": "Unsafe"
       },
       "mdma": {
-        "note": "Both MDMA and alcohol cause dehydration. Approach this combination with caution, moderation and sufficient hydration. More than a small amount of alcohol will dull the euphoria of MDMA",
+        "note": "The combination of MDMA and alcohol may increase strain on the cardiovascular system and lead to increased alcohol consumption. MDMA may also impair one's ability to recognize their level of drunkenness, leading to increased alcohol consumption and poor decision-making. Alcohol may also increase the risk of dehydration and hyperthermia (increased body temperature) when combined with MDMA.",
+        "sources": [
+          {
+            "author": "Hamida, S. B., Plute, E., Cosquer, B., Kelche, C., Jones, B. C., & Cassel, J.-C. ",
+            "title": "Interactions between ethanol and cocaine, amphetamine, or MDMA in the rat: thermoregulatory and locomotor effects. (2008)",
+            "url": "https://doi.org/10.1007/s00213-007-1007-5"
+          },
+          {
+            "author": "Ramaekers, J. G., & Kuypers, K. P. C.",
+            "title": "Acute Effects of 3,4-Methylenedioxymethamphetamine (MDMA) on Behavioral Measures of Impulsivity: Alone and in Combination with Alcohol. (2006)",
+            "url": "https://doi.org/10.1038/sj.npp.1300894"
+          },
+          {
+            "author": "Hernández-López, C., Farré, M., Roset, P. N., Menoyo, E., Pizarro, N., Ortuño, J., Torrens, M., Camı́, J., & Torre, R. de la.",
+            "title": "3,4-Methylenedioxymethamphetamine (Ecstasy) and Alcohol Interactions in Humans: Psychomotor Performance, Subjective Effects, and Pharmacokinetics. (2002)",
+            "url": "https://doi.org/10.1124/jpet.300.1.236"
+          },
+          {
+            "author": "van Amsterdam, J., Brunt, T. M., Pierce, M., & van den Brink, W.",
+            "title": "Hard Boiled: Alcohol Use as a Risk Factor for MDMA-Induced Hyperthermia: a Systematic Review. (2021)",
+            "url": "https://doi.org/10.1007/s12640-021-00416-z"
+          }
+        ],
         "status": "Caution"
       },
       "mescaline": {
@@ -15225,7 +15269,29 @@
         "status": "Unsafe"
       },
       "alcohol": {
-        "note": "Drinking on stimulants is risky because the sedative effects of the alcohol are reduced, and these are what the body uses to gauge drunkenness. This typically leads to excessive drinking with greatly reduced inhibitions, high risk of liver damage and increased dehydration. They will also allow you to drink past a point where you might normally pass out, increasing the risk. If you do decide to do this then you should set a limit of how much you will drink each hour and stick to it, bearing in mind that you will feel the alcohol less. Cocaine is potentiated somewhat by alcohol because of the formation of cocaethylene.",
+        "note": "Cocaine can decrease some of the intoxicating effects of alcohol, causing some people to drink more than they otherwise would, which leads to greater behavioral and physical health risks. There is also some debate about cocaethylene, a metabolite produced when combining alcohol and cocaine, with some researchers positing that it is more cardiotoxic than cocaine on its own. Use moderation when combining these substances.",
+        "sources": [
+          {
+            "author": "McCance-Katz, E. F., Kosten, T. R., & Jatlow, P. ",
+            "title": "Concurrent use of cocaine and alcohol is more potent and potentially more toxic than use of either alone—A multiple-dose study.",
+            "url": "https://doi.org/10.1016/S0006-3223(97)00426-5"
+          },
+          {
+            "author": "Pergolizzi, J., Breve, F., Magnusson, P., LeQuang, J. A. K., & Varrassi, G.",
+            "title": "Cocaethylene: When cocaine and alcohol are taken together.  (2022)",
+            "url": "https://doi.org/10.7759/cureus.22498"
+          },
+          {
+            "author": "Shastry, S., Manoochehri, O., Richardson, L. D., & Manini, A. F. ",
+            "title": "Cocaethylene cardiotoxicity in emergency department patients with acute drug overdose.",
+            "url": "https://doi.org/10.1111/acem.14584"
+          },
+          {
+            "author": "Wiener, S. E., Sutijono, D., Moon, C. H., Subramanian, R. A., Calaycay, J., Rushbrook, J. I., & Zehtabchi, S.",
+            "title": "Patients with detectable cocaethylene are more likely to require intensive care unit admission after trauma. ",
+            "url": "https://doi.org/10.1016/j.ajem.2009.06.014"
+          }
+        ],
         "status": "Unsafe"
       },
       "amphetamines": {
@@ -15265,6 +15331,22 @@
       "ketamine": {
         "note": "No unexpected interactions, though likely to increase blood pressure but not an issue with sensible doses. Moving around on high doses of this combination may be ill advised due to risk of physical injury.",
         "status": "Caution"
+      },
+      "lithium": {
+        "note": "Lithium may inhibit some of the recreational effects of cocaine.",
+        "sources": [
+          {
+            "author": "Flemenbaum, A.",
+            "title": "Antagonism of behavioral effects of cocaine by lithium. (1977)",
+            "url": "https://doi.org/10.1016/0091-3057(77)90015-6"
+          },
+          {
+            "author": "Cronson, A. J., & Flemenbaum, A.",
+            "title": "Antagonism of Cocaine Highs by Lithium. (1981)",
+            "url": "https://doi.org/10.1007/978-1-4684-3614-3_132"
+          }
+        ],
+        "status": "Low Risk & Decrease"
       },
       "lsd": {
         "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
@@ -23289,6 +23371,22 @@
         ],
         "status": "Dangerous"
       },
+      "cocaine": {
+        "note": "Lithium may inhibit some of the recreational effects of cocaine.",
+        "sources": [
+          {
+            "author": "Flemenbaum, A.",
+            "title": "Antagonism of behavioral effects of cocaine by lithium. (1977)",
+            "url": "https://doi.org/10.1016/0091-3057(77)90015-6"
+          },
+          {
+            "author": "Cronson, A. J., & Flemenbaum, A.",
+            "title": "Antagonism of Cocaine Highs by Lithium. (1981)",
+            "url": "https://doi.org/10.1007/978-1-4684-3614-3_132"
+          }
+        ],
+        "status": "Low Risk & Decrease"
+      },
       "dmt": {
         "note": "There is a large number of reports indicating a high seizure and psychosis risk from this combination.",
         "sources": [
@@ -23378,6 +23476,11 @@
             "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
             "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
             "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+          },
+          {
+            "author": "Edwards, C., Van Gerpen, S., & Anand, V.",
+            "title": "New-Onset Seizures in an Adolescent Following Use of LSD while on Low-Dose Lithium Therapy: A Case Study. (2024)",
+            "url": "https://doi.org/10.1177%2F1941874414528939"
           }
         ],
         "status": "Dangerous"
@@ -23497,6 +23600,11 @@
             "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
             "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
             "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+          },
+          {
+            "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
+            "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. (2015)",
+            "url": "https://doi.org/10.23907/2015.009"
           }
         ],
         "status": "Dangerous"
@@ -23508,6 +23616,32 @@
             "author": "Drugbank",
             "title": "Lithium Carbonate",
             "url": "https://go.drugbank.com/drugs/DB14509"
+          }
+        ],
+        "status": "Low Risk & No Synergy"
+      },
+      "ssris": {
+        "note": "This interaction is used in medical settings without reported issues. If this combination is taken, caution would be recommended if any other drugs are planned to be taken on top of these that may have serotonergic activity.",
+        "sources": [
+          {
+            "author": "Finley, P. R.",
+            "title": "Drug Interactions with Lithium: An Update. (2016)",
+            "url": "https://doi.org/10.1007/s40262-016-0370-y"
+          },
+          {
+            "author": "Hawley CJ, Loughlin PJ, Quick SJ, Gale TM, Sivakumaran T, Hayes J, McPhee S.",
+            "title": "Efficacy, safety and tolerability of combined administration of lithium and selective serotonin reuptake inhibitors: a review of the current evidence. (2000)",
+            "url": "https://doi.org/10.1097/00004850-200015040-00002"
+          },
+          {
+            "author": "Müller-Oerlinghausen, B.",
+            "title": "Drug Interactions with Lithium. (1999)",
+            "url": "https://doi.org/10.2165/00023210-199911010-00004"
+          },
+          {
+            "author": "Bauer, Michael PhD, MD; Linden, Michael MD; Schaaf, Berthold; Weber, Hans J. MD.",
+            "title": "Adverse Events and Tolerability of the Combination of Fluoxetine/Lithium Compared With Fluoxetine. (1996)",
+            "url": "https://doi.org/10.1097/00004714-199604000-00005"
           }
         ],
         "status": "Low Risk & No Synergy"
@@ -23943,6 +24077,11 @@
             "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
             "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
             "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+          },
+          {
+            "author": "Edwards, C., Van Gerpen, S., & Anand, V.",
+            "title": "New-Onset Seizures in an Adolescent Following Use of LSD while on Low-Dose Lithium Therapy: A Case Study. (2024)",
+            "url": "https://doi.org/10.1177%2F1941874414528939"
           }
         ],
         "status": "Dangerous"
@@ -24590,7 +24729,29 @@
         "status": "Caution"
       },
       "alcohol": {
-        "note": "Both MDMA and alcohol cause dehydration. Approach this combination with caution, moderation and sufficient hydration. More than a small amount of alcohol will dull the euphoria of MDMA",
+        "note": "The combination of MDMA and alcohol may increase strain on the cardiovascular system and lead to increased alcohol consumption. MDMA may also impair one's ability to recognize their level of drunkenness, leading to increased alcohol consumption and poor decision-making. Alcohol may also increase the risk of dehydration and hyperthermia (increased body temperature) when combined with MDMA.",
+        "sources": [
+          {
+            "author": "Hamida, S. B., Plute, E., Cosquer, B., Kelche, C., Jones, B. C., & Cassel, J.-C. ",
+            "title": "Interactions between ethanol and cocaine, amphetamine, or MDMA in the rat: thermoregulatory and locomotor effects. (2008)",
+            "url": "https://doi.org/10.1007/s00213-007-1007-5"
+          },
+          {
+            "author": "Ramaekers, J. G., & Kuypers, K. P. C.",
+            "title": "Acute Effects of 3,4-Methylenedioxymethamphetamine (MDMA) on Behavioral Measures of Impulsivity: Alone and in Combination with Alcohol. (2006)",
+            "url": "https://doi.org/10.1038/sj.npp.1300894"
+          },
+          {
+            "author": "Hernández-López, C., Farré, M., Roset, P. N., Menoyo, E., Pizarro, N., Ortuño, J., Torrens, M., Camı́, J., & Torre, R. de la.",
+            "title": "3,4-Methylenedioxymethamphetamine (Ecstasy) and Alcohol Interactions in Humans: Psychomotor Performance, Subjective Effects, and Pharmacokinetics. (2002)",
+            "url": "https://doi.org/10.1124/jpet.300.1.236"
+          },
+          {
+            "author": "van Amsterdam, J., Brunt, T. M., Pierce, M., & van den Brink, W.",
+            "title": "Hard Boiled: Alcohol Use as a Risk Factor for MDMA-Induced Hyperthermia: a Systematic Review. (2021)",
+            "url": "https://doi.org/10.1007/s12640-021-00416-z"
+          }
+        ],
         "status": "Caution"
       },
       "amphetamines": {
@@ -31905,7 +32066,7 @@
       ],
       "dose": "Intravenously Light: 10-30mg Common: 30-60mg Strong: 60-100mg | Note: Do not take this as gospel. Please read ~experiences if you use this substance outside of a hospital setting.",
       "duration": "Intravenous: 10-20 minutes.",
-      "experiences": "https://www.reddit.com/r/Drugs/comments/56n5vq/michael_jackson_the_addict/d8l0qe7 (PM Sleep/Hypnos if you'd like more information)",
+      "experiences": "https://www.reddit.com/r/Drugs/comments/56n5vq/michael_jackson_the_addict/d8l0qe7",
       "onset": "Intravenous: 0-2 minutes.",
       "summary": "A very short acting sedative that is usually given at the start of general anesthesia, and for maintenance of the prior. It should never be used outside of a medical setting. With that in mind, if you do plan to use this drug recreational, please have a very experienced friend with you that has the skills to insert a cannula, and monitor you very closely."
     }
