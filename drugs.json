@@ -24868,6 +24868,23 @@
         "status": "Unsafe"
       },
       "ssris": {
+        "sources": [
+          {
+            "author": "Feduccia, A. A., Jerome, L., Mithoefer, M. C., & Holland, J.",
+            "title": "Discontinuation of medications classified as reuptake inhibitors affects treatment response of MDMA-assisted psychotherapy.",
+            "url": "https://doi.org/10.1007/s00213-020-05710-w"
+          },
+          {
+            "author": "Sarparast, A., Thomas, K., Malcolm, B., & Stauffer, C. S.",
+            "title": "Drug-drug interactions between psychiatric medications and MDMA or psilocybin: a systematic review.",
+            "url": "https://doi.org/10.1007/s00213-022-06083-y"
+          },
+          {
+            "author": "Malcolm, B., & Thomas, K. ",
+            "title": "Serotonin toxicity of serotonergic psychedelics.",
+            "url": "https://doi.org/10.1007/s00213-021-05876-x"
+          }
+        ],
         "status": "Low Risk & Decrease"
       },
       "tramadol": {
