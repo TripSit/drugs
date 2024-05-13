@@ -267,7 +267,7 @@
       "status": "Caution"
     },
     "cocaine": {
-      "note": "The anxiogenic and focusing effects of stimulants increase the chance of unpleasant thought loops. The combination is generally unnecessary because of the stimulating effects of psychedelics. ",
+      "note": "The anxiogenic and focusing effects of stimulants increase the chance of unpleasant thought loops. The combination is generally unnecessary because of the stimulating effects of psychedelics.",
       "status": "Unsafe"
     },
     "dextromethorphan": {
@@ -1537,7 +1537,7 @@
       "status": "Low Risk & Decrease"
     },
     "ketamine": {
-      "note": "Ketamine and psychedelics tend to potentiate each other - go slowly.",
+      "note": "Ketamine and psychedelics tend to potentiate each other and it is be cautious when mixing. Starting with lower dosages is ideal.",
       "status": "Low Risk & Synergy"
     },
     "lithium": {
@@ -2414,7 +2414,7 @@
       "status": "Low Risk & Synergy"
     },
     "ketamine": {
-      "note": "MAO-B inhibitors appear to increase the potency of ketamine. MAO-A inhbitors have some negative reports associated with the combination but there isn't much information available",
+      "note": "MAO-B inhibitors appear to increase the potency of Ketamine. MAO-A inhbitors have some negative reports associated with the combination but there isn't much information available",
       "status": "Caution"
     },
     "lsd": {
@@ -3053,7 +3053,7 @@
       "status": "Low Risk & Decrease"
     },
     "caffeine": {
-      "note": "Caffiene can bring out the natural stimulation from psychedelic drugs to make it uncomfortable. High doses can cause anxiety which can be hard to handle while tripping",
+      "note": "Caffiene can bring out the natural stimulation from psychedelic drugs to make it uncomfortable. High doses can cause anxiety which is hard to handle while tripping",
       "status": "Caution"
     },
     "cannabis": {
@@ -3288,7 +3288,7 @@
       "status": "Low Risk & Synergy"
     },
     "cocaine": {
-      "note": "Stimulants increase respiration rate allowing for a higher dose of opioids than normal. If the stimulant wears off first then the opioids may overcome the individual and cause respiratory arrest.",
+      "note": "Stimulants increase respiration rate allowing for a higher dose of opioids than normal. If the stimulant wears off first then the opioid may overcome the individual and cause respiratory arrest.",
       "status": "Dangerous"
     },
     "dextromethorphan": {
@@ -3453,7 +3453,7 @@
       "status": "Low Risk & Decrease"
     },
     "alcohol": {
-      "note": "Alcohol may potentiate some of the pharmacologic effects of CNS-active agents. Use in combination may result in additive central nervous system depression and/or impairment of judgment, thinking, and psychomotor skills.",
+      "note": "Alcohol may potentiate some of the pharmacologic effects of CNS-active agents. Use in combination may result in additive central nervous system depression and/or impairment of judgment, thinking, and  psychomotor skills.",
       "status": "Caution"
     },
     "amphetamines": {
@@ -3476,7 +3476,7 @@
       "status": "Low Risk & No Synergy"
     },
     "dextromethorphan": {
-      "note": "At recreational dosages, there is a high risk of serotonin syndrome.",
+      "note": "High risk of serotonin syndrome.",
       "status": "Dangerous"
     },
     "dmt": {
@@ -3583,7 +3583,7 @@
       "status": "Unsafe"
     },
     "alcohol": {
-      "note": "Both drugs are heavy CNS depressants, and there is a risk of seizures with this combination. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely.",
+      "note": "Heavy CNS depressants, risk of seizures. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely.",
       "status": "Dangerous"
     },
     "amphetamines": {
@@ -3678,7 +3678,7 @@
       "status": "Dangerous"
     },
     "mescaline": {
-      "note": "This combination can cause seizures due to the lowering of the threshold by tramadol and the potential of mescaline to cause seziures.",
+      "note": "This combination can cause seizures due to the lowering of the seizure threshold by Tramadol and the potential of mescaline to cause seziures.",
       "status": "Unsafe"
     },
     "mushrooms": {

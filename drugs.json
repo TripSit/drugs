@@ -10964,7 +10964,7 @@
         "status": "Caution"
       },
       "benzodiazepines": {
-        "note": "Ethanol ingestion may potentiate the CNS effects of many benzodiazepines. The two substances potentiate each other strongly and unpredictably, very rapidly leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Blacking out and memory loss is almost certain.",
+        "note": "Ethanol ingestion may potentiate the CNS effects of many benzodiazepines. The two substances potentiate each other strongly and unpredictably, often leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position.. Blacking out and memory loss is almost certain.",
         "status": "Dangerous"
       },
       "caffeine": {
@@ -14133,7 +14133,7 @@
         "status": "Low Risk & Synergy"
       },
       "mdma": {
-        "note": "Large amounts of cannabis may cause strong and somewhat unpredictable experiences in combination with MDMA. Cannabis should be saved for towards the end of the experience if possible.",
+        "note": "Large amounts of cannabis may cause strong and somewhat unpredictable experiences in combination with MDMA. It may be suggested to consume cannabis later on in the MDMA once the peak MDMA effects have passed.",
         "status": "Low Risk & Synergy"
       },
       "mescaline": {
@@ -15265,7 +15265,7 @@
         "status": "Caution"
       },
       "5-meo-xxt": {
-        "note": "The anxiogenic and focusing effects of stimulants increase the chance of unpleasant thought loops. The combination is generally unnecessary because of the stimulating effects of psychedelics. ",
+        "note": "The anxiogenic and focusing effects of stimulants increase the chance of unpleasant thought loops. The combination is generally unnecessary because of the stimulating effects of psychedelics.",
         "status": "Unsafe"
       },
       "alcohol": {
@@ -15325,7 +15325,7 @@
         "status": "Unsafe"
       },
       "ghb/gbl": {
-        "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If the stimulant wears off first the opiate may overcome the individual and cause respiratory arrest. Likewise the ghb/gbl can wear off and leave a dangerous concentration of cocaine behind",
+        "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If the stimulant wears off first the opioid may overcome the individual and cause respiratory arrest. Likewise the ghb/gbl can wear off and leave a dangerous concentration of cocaine behind",
         "status": "Caution"
       },
       "ketamine": {
@@ -15380,11 +15380,11 @@
         "status": "Low Risk & Synergy"
       },
       "opioids": {
-        "note": "Stimulants increase respiration rate allowing for a higher dose of opiates than normal. If the stimulant wears off first then the opiate may overcome the individual and cause respiratory arrest.",
+        "note": "Stimulants increase respiration rate allowing for a higher dose of opioids than normal. If the stimulant wears off first then the opioid may overcome the individual and cause respiratory arrest.",
         "status": "Dangerous"
       },
       "pcp": {
-        "note": "This combination can easily lead to hypermanic states",
+        "note": "This combination may lead to hypermanic states",
         "status": "Unsafe"
       },
       "ssris": {
@@ -16822,7 +16822,7 @@
         "status": "Low Risk & Synergy"
       },
       "dox": {
-        "note": "The DOx class as psychedelic stimulants have the potential to mask the effects of DXM and could lead to redosing to an unsafe level. DXM can also potentiate DOx resulting in an unpleasantly intense experience.",
+        "note": "The DOx class as psychedelic stimulants have the potential to mask the effects of dextromethorphan and could lead to redosing to an unsafe level. dextromethorphan can also potentiate DOx resulting in an unpleasantly intense experience.",
         "status": "Unsafe"
       },
       "ghb/gbl": {
@@ -16923,7 +16923,7 @@
         "status": "Low Risk & Synergy"
       },
       "mxe": {
-        "note": "There is a risk of serotonin syndrome when combining DXM with MXE, due to DXM and MXE both being SRI’s. MXE and DXM having notable affinities for the serotonin transporter.",
+        "note": "There is a risk of serotonin syndrome when combining dextromethorphan with MXE, due to dextromethorphan and MXE both being SRI’s. MXE and dextromethorphan having notable affinities for the serotonin transporter.",
         "sources": [
           {
             "author": "Bryan L. Roth, Simon Gibbons, Warunya Arunotayanun, Xi-Ping Huang, Vincent Setola, Ric Treble, Les Iversen",
@@ -16960,7 +16960,7 @@
         "status": "Low Risk & Synergy"
       },
       "opioids": {
-        "note": "CNS depression, difficult breathing, heart issues, hepatoxic, just very unsafe combination all around. Additionally if one takes DXM, their tolerance of opiates goes down slightly, thus causing additional synergistic effects.",
+        "note": "CNS depression, difficult breathing, heart issues, hepatoxic, just very unsafe combination all around. Additionally if one takes dextromethorphan, their tolerance of opioids goes down slightly, thus causing additional synergistic effects.",
         "status": "Dangerous"
       },
       "pcp": {
@@ -22801,7 +22801,7 @@
         "status": "Low Risk & Synergy"
       },
       "dox": {
-        "note": "Ketamine and psychedelics tend to potentiate each other - go slowly.",
+        "note": "Ketamine and psychedelics tend to potentiate each other and it is be cautious when mixing. Starting with lower dosages is ideal.",
         "status": "Low Risk & Synergy"
       },
       "ghb/gbl": {
@@ -22835,7 +22835,7 @@
         "status": "Low Risk & Synergy"
       },
       "opioids": {
-        "note": "Both substances bring a risk of vomiting and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
+        "note": "The two substances potentiate each other strongly and unpredictably, often leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
         "status": "Dangerous"
       },
       "pcp": {
@@ -24786,7 +24786,7 @@
         "status": "Caution"
       },
       "cannabis": {
-        "note": "Large amounts of cannabis may cause strong and somewhat unpredictable experiences in combination with MDMA. Cannabis should be saved for towards the end of the experience if possible.",
+        "note": "Large amounts of cannabis may cause strong and somewhat unpredictable experiences in combination with MDMA. It may be suggested to consume cannabis later on in the MDMA once the peak MDMA effects have passed.",
         "status": "Low Risk & Synergy"
       },
       "cocaine": {
@@ -24800,7 +24800,7 @@
         "status": "Low Risk & Synergy"
       },
       "dox": {
-        "note": "The combined stimulating effects of the two can be uncomfortable. Coming down on the MDMA while the DOx is still active can be quite anxiogenic. ",
+        "note": "The combined stimulating effects of the two can be uncomfortable. Coming down on the MDMA while the DOx is still active can be quite anxiogenic.",
         "status": "Caution"
       },
       "ghb/gbl": {
@@ -24864,7 +24864,7 @@
         "status": "Low Risk & No Synergy"
       },
       "pcp": {
-        "note": "This combination can easily lead to hypermanic states",
+        "note": "This combination may lead to hypermanic states",
         "status": "Unsafe"
       },
       "ssris": {
@@ -25941,7 +25941,7 @@
         "status": "Low Risk & Decrease"
       },
       "tramadol": {
-        "note": "This combination can cause seizures due to the lowering of the threshold by tramadol and the potential of mescaline to cause seziures.",
+        "note": "This combination can cause seizures due to the lowering of the seizure threshold by Tramadol and the potential of mescaline to cause seziures.",
         "status": "Unsafe"
       }
     },
@@ -28345,7 +28345,7 @@
         "status": "Caution"
       },
       "dextromethorphan": {
-        "note": "There is a risk of serotonin syndrome when combining DXM with MXE, due to DXM and MXE both being SRI’s. MXE and DXM having notable affinities for the serotonin transporter.",
+        "note": "There is a risk of serotonin syndrome when combining dextromethorphan with MXE, due to dextromethorphan and MXE both being SRI’s. MXE and dextromethorphan having notable affinities for the serotonin transporter.",
         "sources": [
           {
             "author": "Bryan L. Roth, Simon Gibbons, Warunya Arunotayanun, Xi-Ping Huang, Vincent Setola, Ric Treble, Les Iversen",
@@ -30443,7 +30443,7 @@
         "status": "Unsafe"
       },
       "amphetamines": {
-        "note": "This combination can easily lead to hypermanic states",
+        "note": "This combination may lead to hypermanic states",
         "status": "Unsafe"
       },
       "amt": {
@@ -30461,7 +30461,7 @@
         "status": "Low Risk & Synergy"
       },
       "cocaine": {
-        "note": "This combination can easily lead to hypermanic states",
+        "note": "This combination may lead to hypermanic states",
         "status": "Unsafe"
       },
       "dextromethorphan": {
@@ -30489,7 +30489,7 @@
         "status": "Dangerous"
       },
       "mdma": {
-        "note": "This combination can easily lead to hypermanic states",
+        "note": "This combination may lead to hypermanic states",
         "status": "Unsafe"
       },
       "mescaline": {
@@ -34204,7 +34204,7 @@
         "status": "Dangerous"
       },
       "mescaline": {
-        "note": "This combination can cause seizures due to the lowering of the threshold by tramadol and the potential of mescaline to cause seziures.",
+        "note": "This combination can cause seizures due to the lowering of the seizure threshold by Tramadol and the potential of mescaline to cause seziures.",
         "status": "Unsafe"
       },
       "mushrooms": {
