@@ -1,0 +1,41 @@
+{
+  "title": "راهنمای تداخلات مواد سایکواکتیو",
+  "app": "www.TripSit.Me",
+  "support": "حمایت از ما",
+  "drugs": {
+    "lsd": "ال اس دی",
+    "mushrooms": "قارچ های سیلوسایبین",
+    "dmt": "دی ام تی",
+    "mescaline": "مسکالین",
+    "dox": "سری DOx",
+    "nbomes": "s",
+    "2c-x": "2C-x سری",
+    "2c-t-x": "2C-T-x سری",
+    "5-meo-xxt": "5-MeO-xxT سری",
+    "cannabis": "ماری‌جوانا",
+    "ketamine": "کتامین",
+    "mxe": "متوکستامین",
+    "dxm": "دکسترومتورفان",
+    "nitrous": "نیترو اکسید",
+    "amphetamines": "آمفتامین‌ها",
+    "mdma": "اکستاسی",
+    "cocaine": "کوکائین",
+    "caffeine": "کافئین",
+    "alcohol": "الکل",
+    "ghb/gbl": "GHB/GBL",
+    "opioids": "مواد افیونی",
+    "tramadol": "ترامادول",
+    "benzodiazepines": "بنزودیازپین‌ها",
+    "maois": "مهارکننده‌های مونوآمین اکسیداز",
+    "ssris": "بازدارنده‌های بازجذب سروتونین"
+  },
+  "interactions": {
+    "low risk & synergy": "ریسک پایین و هم‌افزایی",
+    "low risk & no synergy": "ریسک پایین بدون هم‌افزایی",
+    "low risk & decrease": "ریسک پایین و کاهش متقابل",
+    "caution": "احتیاط",
+    "unsafe": "ناامند",
+    "dangerous": "خطرناک",
+    "fallback": "فرار!"
+  }
+}
