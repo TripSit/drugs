@@ -120,7 +120,7 @@
         "research-chemical",
         "psychedelic"
       ],
-      "dose": "Oral Light: 25-50ug Common: 50-125ug's Strong: 125-250ug's. | NOTE: At the time of this chemical's release, the manufacturers claimed 1B-LSD was expected to be slightly less potent than 1P-LSD, supposedly owing to the increased mass of the butanoyl group over the propionyl group, however anecdotes seem to indicate approximate equipotency to 1P-LSD.",
+      "dose": "Oral Light: 25-50ug Common: 50-125ug's Strong: 125-250ug's. | NOTE: At the time of this chemical's release, the manufacturers claimed 1B-LSD was expected to be slightly less potent than 1P-LSD, supposedly owing to the increased mass of the butanoyl group over the propionyl group, however anectodal reports seem to indicate approximate equipotency to 1P-LSD.",
       "duration": "8-12 hours",
       "onset": "45-90 minutes",
       "summary": "1B-LSD (1-butanoyl-lysergic acid diethylamide) is an LSD analogue which appears to be about as potent as 1P-LSD (slightly more potent than LSD) and has a slightly shorter duration than that of LSD, again thought to be about the same as 1P-LSD. Released in late 2018, and marketed agressively as a replacement for 1P-LSD. 1B-LSD does not yet have a clearly established safety profile,"
@@ -222,7 +222,7 @@
       "duration": "6-10 hours.",
       "experiences": "https://erowid.org/experiences/subs/exp_1PETHLAD.shtml",
       "onset": "15-90 minutes",
-      "summary": "A new psychedelic lysergamide which is suspected to be a prodrug of ETH-LAD, which could explain why the doses are very similar. Or it could be active on its own. Scientific studies would need to be written to understand, yet there are none."
+      "summary": "A new psychedelic lysergamide which is suspected to be a prodrug of ETH-LAD, which could explain why the doses are very similar, it alternatively could be active on its own. There are no studies on it currently."
     }
   },
   "1p-lsd": {
@@ -415,7 +415,7 @@
       "experiences": "https://www.erowid.org/experiences/subs/exp_2Aminoindan.shtml",
       "half-life": "1-2 hours.",
       "onset": "10-30 minutes",
-      "summary": "Short acting stimulant that is sometimes compared to the likes of Methamphetamine. It is a rigid analogue of Amphetamine, and also partially substitutes for the prior in rat discrimination studies. ",
+      "summary": "Short acting stimulant that is sometimes compared to the likes of Methamphetamine. It is a rigid analogue of Amphetamine, and also partially substitutes for the prior in rat discrimination studies.",
       "test-kits": "Marquis: Orange > Brown. | Mecke: Yellow. | Mandelin: Blue. | Liebermann: Yellow Brown. | Ehrlich: No colour change."
     },
     "pweffects": {
@@ -494,7 +494,7 @@
       "dose": "Oral Light: 100-130mg Common: 130-175mg Strong: 175-200mg Heavy: 200mg+",
       "duration": "3-6 hours",
       "onset": "10-30 minutes",
-      "summary": "Analogue of Ephenidine. Very little is known about this quite obscure compound. Very likely to exhibit dissociative effects, and is slightly less potent than the parent drug Ephenidine."
+      "summary": "Analogue of Ephenidine. Very little is known about this compound. It is very likely to exhibit dissociative effects, and is slightly less potent than the parent drug Ephenidine."
     }
   },
   "2-dpmp": {
@@ -736,7 +736,7 @@
         "tentative",
         "research-chemical"
       ],
-      "summary": "Stimulant closely related to 2-FMA. Presumably slightly less potent than the prior. Toxicology and the likes are pretty much completely unknown. Tread with caution."
+      "summary": "Stimulant closely related to 2-FMA. Presumably slightly less potent than the prior. Toxicology and the likes are not known at the current moment. Tread with caution."
     }
   },
   "2-fma": {
@@ -799,7 +799,7 @@
         "research-chemical",
         "habit-forming"
       ],
-      "dose": "Oral Light: 15-25mg Common: 25-35mg Strong: 35-65mg Heavy: 65-80mg+ | NOTE: Sensitivity varies from| person-to-person and with usage factors. Higher doses can often result in long crashes and sleepless nights. Always start low and titrate slowly.",
+      "dose": "Oral Light: 15-25mg Common: 25-35mg Strong: 35-65mg Heavy: 65-80mg+ | NOTE: Sensitivity varies from person-to-person and with usage factors. Higher doses can often result in long crashes and sleepless nights. Always start low and titrate slowly.",
       "duration": "6-8 hours",
       "marquis": "Light yellow",
       "onset": "20-60 minutes",
@@ -1114,7 +1114,7 @@
       "dose": "Oral Light: 20-50mg Common: 50-100mg Strong: 100-135mg. | Insufflated Light: 5-15mg Common: 15-40mg Strong: 40-80mg.",
       "duration": "Oral: 3-5 hours. | Insufflated: 2-4 hours.",
       "onset": "Oral: 15-45 minutes. | Insufflated: 2-15 minutes.",
-      "summary": "A cathinone, yet the effects are noted more of the likes of 2-FA or amphetamine. Which apparently left people dissapointed."
+      "summary": "A cathinone, yet the effects are noted more of the likes of 2-FA or amphetamine."
     }
   },
   "2-mppp": {
@@ -1251,7 +1251,7 @@
       "dose": "Oral Light: 10-25mg Common: 25-50mg Strong: 50-100mg Heavy: 100+mg.",
       "duration": "3-5 hours.",
       "onset": "15-45 minutes.",
-      "summary": "Amphetamine with the alpha-methyl replaced by ketone. Very few reports. Also no information on the safety of this compound. As always treat with caution."
+      "summary": "Amphetamine with the alpha-methyl replaced by ketone. There are very few reports and there is limited information about toxicity. As always treat with caution."
     }
   },
   "2-pta": {
@@ -1302,7 +1302,7 @@
       "dose": "Oral Light: 10-20mg Common: 20-40mg Strong: 40-80mg Heavy: 80+mg.",
       "duration": "1-3 hours.",
       "onset": "10-25 minutes.",
-      "summary": "4-Methylamphetamine with the alpha-methyl replaced by ketone. Very few reports. Also no information of the safety of this compound. As always treat with caution."
+      "summary": "4-Methylamphetamine with the alpha-methyl replaced by ketone. There are very few reports and there is limited information about toxicity. As always treat with caution."
     }
   },
   "2c-b": {
@@ -2272,7 +2272,7 @@
       "duration": "4-6 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "15-45 minutes.",
-      "summary": "A relatively uncommon and short-acting psychedelic phenethylamine of the 2C-x family. It behaves much like other 2C-x drugs, but is unique in that it is a yellowish golden-coloured salt. Described by some, namely Shulgin, as being quite underwhelming."
+      "summary": "A relatively uncommon and short-acting psychedelic phenethylamine of the 2C-x family. It behaves much like other 2C-x drugs, but is unique in that it is a yellowish golden-coloured salt. Described by some, namely Alexander Shulgin, as being quite underwhelming."
     }
   },
   "2c-p": {
@@ -2448,7 +2448,7 @@
       "dose": "Light: 50-60mg Common: 60-90mg Strong: 90-120mg",
       "duration": "2-6 hours.",
       "onset": "25-60 minutes.",
-      "summary": "A very rare psychedelic phenylethylamine, that is quite lovely."
+      "summary": "A very rare psychedelic phenylethylamine that many like."
     }
   },
   "2c-t-2": {
@@ -2508,7 +2508,7 @@
       "aliases": [
         "2ct2"
       ],
-      "avoid": "MAOI's as the dangers with 2C-T-7 could also fall into this substance as well (Serotonin Syndrome)",
+      "avoid": "MAOI's as the dangers with 2C-T-7 could also fall into this substance as well (for example serotonin syndrome)",
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -2613,7 +2613,7 @@
         "2-ct4",
         "2ct-4"
       ],
-      "avoid": "MAOI's as the dangers with 2C-T-7 could also fall into this substance as well. (Serotonin Syndrome)",
+      "avoid": "MAOI's as the dangers with 2C-T-7 could also fall into this substance as well (for example serotonin syndrome)",
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -2634,7 +2634,7 @@
       "empathogen",
       "psychedelic"
     ],
-    "dose_note": " NOTE: 2C-T-7 reacts widely in varying ways. Start low, work your way up.",
+    "dose_note": " NOTE: 2C-T-7 reacts widely in varying ways. It is recommended to start low and work your way up.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "4-12"
@@ -2829,7 +2829,7 @@
       "habit-forming",
       "tentative"
     ],
-    "dose_note": " NOTE: These doses are tentative and may need further research.",
+    "dose_note": " NOTE: These doses are tentative and need further research.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "Insufflated": "3-6",
@@ -2958,7 +2958,7 @@
       "duration": "4-6 hours",
       "effects": "Euphoria, increased energy/alertness, decreased need for sleep, increased sociability, mood lift, increased sexuality, excessive talking, decreased appetite, weight loss, sweating, disturbed sleep patterns, bruxism, visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
       "onset": "30-90 minutes (oral) depending on stomach contents.",
-      "summary": "A stimulant that is close to equipotent with methamphetamine and acts as a monoamine releasing agent , but has more selectivity for dopamine/noradrenaline over serotonin."
+      "summary": "A stimulant that is close to equipotent with methamphetamine and acts as a monoamine releasing agent, but has more selectivity for dopamine/noradrenaline over serotonin."
     }
   },
   "3-fea": {
@@ -3000,7 +3000,7 @@
       "dose": "Oral Light: 10-30mg Common: 30-50mg Strong: 50-70mg+",
       "duration": "4-6 hours.",
       "onset": "20-50 minutes.",
-      "summary": "A novel fluorinated amphetamine with serotonergic properties. Effects are similar to 4-FA, in that it provides slight dopamine and norepinephrine release or reuptake inhibition, as well as serotonin release and reuptake inhibition. Effects on the serotonin side are more pronounced than dopamine and norepinephrine, the latter two being almost negligibly."
+      "summary": "A novel fluorinated amphetamine with serotonergic properties. Effects are similar to 4-FA, in that it provides slight dopamine and norepinephrine release, or reuptake inhibition. As well as serotonin release and reuptake inhibition. Effects on the serotonin side are more pronounced than dopamine and norepinephrine, the latter two being almost negligible."
     }
   },
   "3-fma": {
@@ -3137,7 +3137,7 @@
       "research-chemical",
       "habit-forming"
     ],
-    "dose_note": " NOTE: Repeated dosing appears to lengthen after-effects of sleeplessness / insomnia.",
+    "dose_note": " NOTE: Repeated dosing appears to lengthen after-effects of sleeplessness/insomnia.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-12"
@@ -3207,7 +3207,7 @@
       "duration": "Oral: 5-8 hours | Insufflated: 3-6 hours.",
       "effects": "increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Distrubed sleep patterns, Bruxia, Visual and audiotory hallucinations itchiness, agressiveness, moodiness.",
       "onset": "Oral: 20-30 minutes | Insufflated: 1-5 minutes",
-      "summary": "A functional stimulant related to phenmetrazine. Effects similar to amphetamine, but longer and more focused. Observed as being relatively benign in low doses, but seems to cause worrying health effects for heavy users. Pain from insufflation is eye-wateringly intense, but short."
+      "summary": "A functional stimulant related to phenmetrazine. Effects similar to amphetamine, but longer and more focused. Observed as being relatively benign in low doses, but seems to cause worrying health effects for heavier users. Pain from insufflation is intense but short."
     },
     "pweffects": {
       "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
@@ -3274,7 +3274,7 @@
       "dose": "Oral Threshold 1-2mg Light: 2-5mg Common: 5-10mg's Strong: 10-15mg's",
       "duration": "3-4 hours.",
       "onset": "20-40 minutes.",
-      "summary": "A rare and very potent PCP analogue, eight times more potent than PCP as NMDA receptor antagonist and also a μ-opioid receptor agonist. Similar in structure to methoxetamine."
+      "summary": "A rare and very potent PCP analogue, eight times more potent than PCP as a NMDA receptor antagonist. It is also a μ-opioid receptor agonist. Similar in structure to methoxetamine."
     }
   },
   "3-ho-pcp": {
@@ -3322,7 +3322,7 @@
       "dose": "Oral Threshold: ~2mg Light: 2-4mg Common: 4-5mg Strong: 5+mg",
       "duration": "3-4 hours",
       "onset": "20-40 minutes",
-      "summary": "An arylcyclohexamine dissociative analogue of PCP, this drug is relatively uncommon, and little information is available. It is reported to not only have dissociative activity but also be an opioid. Some trip reports suggest very negative side-effects including intense muscle tension."
+      "summary": "An arylcyclohexamine dissociative analogue of PCP, this drug is relatively uncommon, and little information is available. It is reported to not only have dissociative activity but also opioid activity. Some trip reports suggest very negative side-effects including intense muscle tension."
     }
   },
   "3-mec": {
@@ -3371,7 +3371,7 @@
       "dose": "Oral Light: 50-100mg Common: 100-175mg Strong: 175-250mg+ | Insufflated: Light: 25-50mg Common: 50-100mg Strong: 100-150mg+",
       "duration": "Oral: 2-5 hours. | Insufflated: 1-1.5 hours.",
       "onset": "Oral: 45-90 minutes. Insufflated: 5-15 minutes.",
-      "summary": "Another cathinone based stimulant, that is weaker than 4-MEC. Very few reports since it is quite unpopular."
+      "summary": "Another cathinone based stimulant that is weaker than 4-MEC. There are few reports on this drug and it is said to be unpopular compared to alternatives."
     }
   },
   "3-meo-pce": {
@@ -3424,7 +3424,7 @@
       "dose": "Oral Light: 3-5mg Common: 5-10mg Strong: 10-20mg+",
       "duration": "3-5 hours.",
       "onset": "15-30 minutes.",
-      "summary": "3-MeO-PCP with a change of a ring replacement. Slightly more potent than 3-MeO-PCP."
+      "summary": "3-MeO-PCP with a change of a ring replacement. It is slightly more potent than 3-MeO-PCP."
     }
   },
   "3-meo-pcmo": {
@@ -3468,7 +3468,7 @@
       "dose": "Oral Light: 50-80mg Common: 80-125mg Strong: 125-150mg+",
       "duration": "3-5 hours.",
       "onset": "30-60 minutes.",
-      "summary": "A less common dissociative anaesthetic compound related to PCP. An analogue of 3-meo-pcp, but far less potent. Possibly an antitussive and antidepressant. Very little history of human use or pharmacological information."
+      "summary": "A less common dissociative anaesthetic compound related to PCP. An analogue of 3-meo-pcp, but far less potent. Possibly an antitussive and antidepressant. There is very little history of human use or pharmacological information."
     }
   },
   "3-meo-pcp": {
@@ -3531,7 +3531,7 @@
       "dose": "Oral Threshold: 1.5-3mg Light: 3-5mg Common: 5-10mg. Strong: 10-15mg Heavy: 15-18mg+ | Insufflated Threshold: 1-2mg Light: 2-5mg Common: 5-8mg Strong: 8-12mg Heavy: 12-15mg+",
       "duration": "Oral: 3-5 hours +/- an hour dependant on dose. | Insufflated: 2-4 hours +/- ~30 minutes, dependant on dose.",
       "onset": "Oral: 20-90 minutes. | Insufflated: 10-30 minutes. | IM: 3-7 minutes.",
-      "summary": "A potent dissociative often compared to MXE but with a longer duration, much less sedating effects and causing an overall different experience. Users have reported effects as being similar to PCP. Roughtly ten times more potent than 4-MeO-PCP."
+      "summary": "A potent dissociative often compared to MXE but with longer duration, less sedating effects and causing an overall different experience. Users have reported effects being similar to PCP. It is roughly ten times more potent than 4-MeO-PCP."
     },
     "pweffects": {
       "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
@@ -3680,7 +3680,7 @@
       "dose": "Oral Light: 2-4mg Common: 4-8mg Strong: 8-15mg+ | Insufflated Light: 1-3mg Common: 3-6mg Strong: 6-10mg+",
       "duration": "Oral: 3-5 hours. Insufflated: 2-4 hours.",
       "onset": "Oral: 15-45 minutes. Insufflated: 5-20 minutes.",
-      "summary": "3-Methoxy analogue of Rolicyclidine (PCPy) less opioid effects than Phenylcyclidine (PCP) Yet still prominent."
+      "summary": "3-Methoxy analogue of Rolicyclidine (PCPy) and less opioid effects than Phenylcyclidine (PCP) - Yet it is still prominent."
     }
   },
   "3-meomc": {
@@ -3757,9 +3757,10 @@
       "Decreased appetite",
       "Weight loss",
       "Sweating",
-      "Distrubed sleep patterns",
+      "Disturbed sleep patterns",
       "Bruxia",
-      "Visual and audiotory hallucinations itchiness",
+      "Visual and auditory hallucinations",
+      "Itching",
       "agressiveness",
       "moodiness"
     ],
@@ -3785,9 +3786,9 @@
       ],
       "dose": "Light: 25-75mg Common: 75-150mg Strong: 150mg-300mg+",
       "duration": "4-7 hours (dependent on dose/ROA/lots of stuff)",
-      "effects": "increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Distrubed sleep patterns, Bruxia, Visual and audiotory hallucinations itchiness, agressiveness, moodiness.",
+      "effects": "increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and Auditory hallucinations, Itching, agressiveness, moodiness.",
       "onset": "Within an hour.",
-      "summary": "A euphoric stimulant similar to mephedrone but said to lack much of the \"magic.\" Never gained the same popularity. Slightly less potent."
+      "summary": "A euphoric stimulant similar to mephedrone but said to lack much of the \"magic.\" Slightly less potent. Some prefer 3mmc over 4mmc due to it's more dopaminergic effects."
     }
   },
   "3-oh-phenazepam": {
@@ -3852,7 +3853,7 @@
       "dose": "Light: 0.5-1mg Common: 1-2mg Heavy: 2-4mg",
       "duration": "10-24 hours.",
       "onset": "30-90 minutes.",
-      "summary": "The 3-OH analogue of Phenazepam, which cuts the half life down quite a bit. Psychoactive effects are mostly lead by its metabolites, rather than the drug itself."
+      "summary": "The 3-OH analogue of Phenazepam, which cuts the half life down quite a bit. Psychoactive effects are mostly led by its metabolites, rather than the drug itself."
     }
   },
   "3,4-ctmp": {
@@ -3940,7 +3941,7 @@
         "tentative",
         "research-chemical"
       ],
-      "summary": "Stimulant that is related to Phenmetrazine. Nearly no information on dose or effects."
+      "summary": "Stimulant that is related to Phenmetrazine. There is limited information on this drug."
     }
   },
   "3c-e": {
@@ -4073,7 +4074,7 @@
       "duration": "10-18 hours",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "60-150 minutes.",
-      "summary": "Rather new and uncommon stimulant, psychedelic and amphetamine with properties similar to the 2Cx class of drugs. 3-carbon homologue of proscaline."
+      "summary": "Rather new and uncommon stimulant, psychedelic and amphetamine with properties similar to the 2C-x class of drugs. 3-carbon homologue of proscaline."
     }
   },
   "4-aco-dalt": {
@@ -4200,7 +4201,7 @@
       "dose": "Oral Threshold: 2-5mg's Light: 5-15mg's Common: 10-15mg's. Strong: 15-30mg's+\"",
       "duration": "Oral: 2-6 hours.",
       "onset": "15-60 minutes (Dependant on form and stomach contents)",
-      "summary": "Rare drug that is of the tryptamine family, can be comparable to Psilocybin. Expected to quickly hydrolyzed into the free phenolic 4-HO-DET."
+      "summary": "Rare drug that is of the tryptamine family, comparable to Psilocybin. Expected to quickly hydrolyzed into the free phenolic 4-HO-DET."
     }
   },
   "4-aco-dipt": {
@@ -4215,7 +4216,7 @@
       "psychedelic",
       "research-chemical"
     ],
-    "dose_note": " NOTE: The freebase salt form of 4-AcO-DiPT is 10% more potent than the HCl salt form. These dosages are provided for the freebase salt",
+    "dose_note": " NOTE: The freebase salt form of 4-AcO-DiPT is 10% more potent than the HC1 salt form. These dosages are provided for the freebase salt",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-8"
@@ -4276,7 +4277,7 @@
       "duration": "2-5 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "20-90 minutes. (Dependant on form and stomach contents)",
-      "summary": "An uncommon psychedelic tryptamine with a short history of human use, also known as Ipracetin. Possibly first synthesised by Alexander Shulgin. Some reports of heavy nausea, with effects comparable to 2c-b and mushrooms."
+      "summary": "An uncommon psychedelic tryptamine with a short history of human use, also known as Ipracetin. Possibly first synthesised by Alexander Shulgin. Some reports of heavy nausea, with effects comparable to 2C-b and Psilocybin Mushrooms."
     }
   },
   "4-aco-dmt": {
@@ -4309,7 +4310,7 @@
     "formatted_effects": [
       "4-aco-dmt is a psilocin analog",
       "so effects are very similar to mushrooms",
-      "Some users report very little difference between 4-aco-dmt and mushrooms"
+      "Some users report very little difference between 4-aco-dmt and psilocybin mushrooms"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -4336,9 +4337,9 @@
       "comeup": "Slow comeup, some users report it taking nearly 2 hours until first effects are felt.",
       "dose": "Oral Light: 5-10mg Common: 10-25mg Heavy: 25-40mg",
       "duration": "4-8 hours.",
-      "effects": "4-aco-dmt is a psilocin analog, so effects are very similar to mushrooms. Some users report very little difference between 4-aco-dmt and mushrooms.",
+      "effects": "4-aco-dmt is a psilocin analog, so effects are very similar to Psilocybin mushrooms. Some users report very little difference between 4-aco-dmt and Psilocybin mushrooms.",
       "onset": "20-90 minutes. (dependant on form and stomach contents)",
-      "summary": "A prodrug for Psilocin with extremely similar effects as Mushrooms."
+      "summary": "A prodrug for Psilocin with extremely similar effects as Psilocybin Mushrooms."
     },
     "pweffects": {
       "8B Geometry - Exposure to inner mechanics of consciousness": "https://psychonautwiki.org/wiki/8B_Geometry_-_Exposure_to_inner_mechanics_of_consciousness",
@@ -4424,7 +4425,7 @@
       "aliases": [
         "4acodpt"
       ],
-      "avoid": "Please, don't mix this substance with another psychedelic/dissociative/stimulant. Respect drugs especially ones that have very few reports and may interact differently than the more common 4-subbed tryptamines.",
+      "avoid": "This trpytamine may work differently than other tryptamines. Caution is recommended for all mixes with it.",
       "categories": [
         "psychedelic",
         "tentative",
@@ -4434,7 +4435,7 @@
       "duration": "Insufflated 60-120 minutes.",
       "note": "It seems that everyone is in favour of taking this substance intranasally, due to a quite poor oral BA.",
       "onset": "Insufflated: 5-10 minutes.",
-      "summary": "Research chemical of the Tryptamine class. First noted being sold in 2012, yet never recieved much attention. Conflicting reports. Doesn't dissolve well at all in nearly all solutions it was tested in."
+      "summary": "Research chemical of the tryptamine class. First noted being sold in 2012, yet never recieved much attention. There are conflicting reports on it's workings. Doesn't dissolve well at all in nearly all solutions it was tested in."
     }
   },
   "4-aco-met": {
@@ -4504,7 +4505,7 @@
       "duration": "4-6 hours",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "20-40 minutes.",
-      "summary": "A rare psychedelic tryptamine which is thought to be metabolised into 4-HO-MET. Onset and duration, intensity will vary but effect profile is largely the same."
+      "summary": "A rare psychedelic tryptamine which is thought to be metabolised into 4-HO-MET. During the onset and duration the intensity will vary but effect profile is largely the same."
     },
     "pweffects": {
       "8A Geometry - Exposure to semantic concept network": "https://psychonautwiki.org/wiki/8A_Geometry_-_Exposure_to_semantic_concept_network",
@@ -4598,7 +4599,7 @@
       "dose": "Oral Light: 5-10mg Common: 10-20mg Strong: 20-40mg. | Vapourized Light: 2-5mg Common: 5-10mg Strong: 10-15 mg.",
       "duration": "Oral: 4-9 hours. | Vapourized: 1-2 hours.",
       "onset": "Oral: 15-45 minutes. | Vapourized: 1-2 minutes.",
-      "summary": "A quite potent tryptamine that has be related to having \"shroom-like\" visuals. Yet without much bodyload. Very hydroscopic. Seems to be quite safe in dosing. Similar to the likes of 2C-B."
+      "summary": "A potent tryptamine that has be related to having \"Psilocybin mushroom-like\" visuals - yet without much bodyload. The drug is said to be very hydroscopic. There are reports of it being safely dosed, similar to the likes of 2C-B."
     }
   },
   "4-benzylpiperidine": {
@@ -4702,7 +4703,7 @@
     "pretty_name": "4-CBC",
     "properties": {
       "after-effects": "2-6 hours.",
-      "avoid": "Other stimulants, pretty much everything that can raise your blood pressure.",
+      "avoid": "Drugs that can raise blood pressure, such as stimulants.",
       "categories": [
         "stimulant",
         "research-chemical",
@@ -4712,7 +4713,7 @@
       "dose": "Oral Light: 40-70mg Common: 70-100mg Strong: 100-130mg | Insufflated: Light: 30-50mg Common: 50-80mg Strong: 80-100mg. | Note: Be careful and read the summary before ingesting this substance.",
       "duration": "Oral: 2-4 hours. | Insufflated: 1-3 hours.",
       "onset": "Oral: 30-60mg | Insufflated: 5-20 minutes.",
-      "summary": "Is a potentially very neurotoxic Cathinone. Obviously no scientic reports have been noted on the neurotoxicity or cardiotoxicity, so please move on with extreme caution."
+      "summary": "It is a potentially very neurotoxic cathinone. No scientic reports have been noted on the neurotoxicity or cardiotoxicity, please use with extreme caution."
     }
   },
   "4-chlorodiazepam": {
@@ -4735,7 +4736,7 @@
         "research-chemical",
         "tentative"
       ],
-      "summary": "A benzodiazepine derivative of Diazepam, yet lacks affinity for GABA(a) receptors, yet is still a sedative, that has pro-convulsant effects. Yet at lower doses it has been proven to be neuroprotective."
+      "summary": "A benzodiazepine derivative of Diazepam, yet lacks affinity for GABA(a) receptors, yet is a sedative that has pro-convulsant effects. At lower doses it has been shown to be neuroprotective."
     }
   },
   "4-cic": {
@@ -4748,7 +4749,7 @@
       "categories": [
         "inactive"
       ],
-      "summary": "Inactive."
+      "summary": "reportedly inactive."
     }
   },
   "4-cma": {
@@ -4811,7 +4812,7 @@
     "name": "4-cmc",
     "pretty_name": "4-CMC",
     "properties": {
-      "after-effects": "Few hours like most stimulants.",
+      "after-effects": "2-3 hours",
       "aliases": [
         "4cmc"
       ],
@@ -4824,7 +4825,7 @@
       "duration": "Oral: 2-4 hours Insufflated 1-3 hours.",
       "effects": "Euphoria, increased energy/alertness, decreased need for sleep, increased sociability, mood lift, increased sexuality, excessive talking, decreased appetite, weight loss, sweating, disturbed sleep patterns, bruxism, visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
       "onset": "Oral: 20-60 minutes. Insufflated: 10-40 minutes.",
-      "summary": "(Note this work is going off just a few users inputs, so take all of this with a grain of salt) The cathinone analogue of 4-CMA which is highly neurotoxic. It is not known if the cathinone family holds the same neurotoxicity problem as with the parent compound."
+      "summary": "This summary is written based on few sources: The cathinone analogue of 4-CMA, which is highly neurotoxic. It is not known if the cathinone family holds the same neurotoxicity concern as with the parent compound."
     }
   },
   "4-emc": {
@@ -4938,7 +4939,7 @@
       "dose": "Insufflated Light: 10-20mg Common: 20-30mg Strong: 30-50mg's.",
       "duration": "1-3 hours.",
       "onset": "Insufflated: 10-30 minutes.",
-      "summary": "An obscure analogue of Pentedrone, which means very little information on this chemical. It is likely is shares the same general effects of the other Pentedrone family."
+      "summary": "An obscure analogue of Pentedrone, there is very little information on this chemical. It is likely is shares the same general effects of the other Pentedrone family."
     }
   },
   "4-fa": {
@@ -5006,7 +5007,7 @@
         "4-fmp",
         "4-fluoroamphetamine"
       ],
-      "avoid": "Other stimulants, and depressants. MXE is also to be avoided (possibility of serotonin syndrome). See combo information for more.",
+      "avoid": "Other stimulants and depressants. MXE is also to be avoided (possibility of serotonin syndrome). See combination information for more.",
       "categories": [
         "stimulant",
         "research-chemical",
@@ -5165,7 +5166,7 @@
       "habit-forming",
       "tentative"
     ],
-    "dose_note": " Note: There has been a range of different reactions to similar doses, particularly some users have reported 15mg being too intense. It is advisable to start low with this drug.",
+    "dose_note": " Note: There has been a range of different reactions to similar doses, in particular some users have reported 15mg being too intense. It is advisable to start low with this drug.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "5-10"
@@ -5207,7 +5208,7 @@
       "dose": "Oral Threshold: 1-5mg Light: 5-10mg Common: 10-15mg Strong: 15-20mg Heavy: 20-25mg | Note: There has been a range of different reactions to similar doses, particularly some users have reported 15mg being too intense. It is advisable to start low with this drug.",
       "duration": "4-8 hours",
       "onset": "25-40 minutes",
-      "summary": "A relatively uncommon, more serotonergic RC derivative of methylphenidate. A dopamine reuptake inhibitor possessing similar effects to associated stimulant compounds."
+      "summary": "A relatively uncommon, more serotonergic derivative of methylphenidate. A dopamine reuptake inhibitor possessing similar effects to associated stimulant compounds."
     }
   },
   "4-fluoropentedrone": {
@@ -5385,7 +5386,7 @@
       "duration": "Oral: 2-4 hours. Insufflated: 1-3 hours.",
       "effects": "Euphoria, increased energy/alertness, decreased need for sleep, increased sociability, mood lift, increased sexuality, excessive talking, decreased appetite, weight loss, sweating, disturbed sleep patterns, bruxism, visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
       "onset": "Oral: 15-30 minutes. Insufflated 1-5 minutes.",
-      "summary": "A cathinone stimulant also known as flephedrone, appeared in 2008 marketed as a mephedrone replacement. With some mild empathogenic effects, it failed to achieve widespread popularity."
+      "summary": "A cathinone stimulant also known as flephedrone, appeared in 2008 marketed as a mephedrone replacement. Reportedly mild empathogenic effects."
     }
   },
   "4-fpm": {
@@ -5403,7 +5404,7 @@
       "categories": [
         "research-chemical"
       ],
-      "summary": "Seems to be a substance, that was just made to get money. High doses needed to feel any effects. Would avoid."
+      "summary": "Some users report high dosages are needed to feel the effects of this drug"
     }
   },
   "4-fpp": {
@@ -5440,7 +5441,7 @@
       "dose": "Light: 20-40mg Common: 40-80mg Strong: 80-150mg+",
       "duration": "4-8 hours.",
       "onset": "15-45 minutes.",
-      "summary": "A piperazine derivative that has been reported to have mild pyschedelic effects, and also empathogen qualities. It has been sold in many branded legal highs."
+      "summary": "A piperazine derivative that has been reported to have mild pyschedelic effects and empathogenic qualities. It has been sold in many branded legal highs."
     }
   },
   "4-ho-det": {
@@ -5509,7 +5510,7 @@
       "duration": "3-7 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "30-60 minutes.",
-      "summary": "A rare compound first produced by Albert Hoffman, also known as ethocin. Structurally related to 4-HO-MET (metocin) and psilocin (4-HO-DMT), this drug has similar psychedelic effects but little recorded human usage. Probably similar to mushrooms. Potentially stimulating."
+      "summary": "A rare compound first produced by Albert Hoffman, also known as ethocin. Structurally related to 4-HO-MET (metocin) and psilocin (4-HO-DMT), this drug has similar psychedelic effects but little recorded human usage. Probably similar to psilocybin mushrooms. It has potentially stimulating effects."
     }
   },
   "4-ho-dipt": {
@@ -5623,7 +5624,7 @@
       "dose": "Light: 25-50mg Moderate: 50-75mg Strong: 75-100mg Heavy: 100mg +",
       "duration": "Insufflated: 2-4 hours.",
       "onset": "Insufflated: 10-20 minutes.",
-      "summary": "A psychedelic hallucinogenic first synthesized by alexander shulgin. At light doses it causes enhanced cognition and appreciation for things like art and music while high doses cause visuals. The drug is known to cause a bodyload."
+      "summary": "A psychedelic hallucinogenic first synthesized by Alexander Shulgin. Light dosages are said to enhance appreciation and mental state, while higher dosages are said to induce visuals. The drug is said to cause a bodyload."
     }
   },
   "4-ho-ept": {
@@ -5683,7 +5684,7 @@
         "research-chemical"
       ],
       "onset": "20-40 minutes.",
-      "summary": "Novel synthetic tryptamine that is the cyclopropyl homologue of Psilocin. Not much is known about anything."
+      "summary": "Novel synthetic tryptamine that is the cyclopropyl homologue of Psilocin. There is limited information on this drug."
     }
   },
   "4-ho-met": {
@@ -5828,10 +5829,10 @@
       "Brightened colors",
       "visual distortions",
       "altered perception",
-      "a sense of conectedness with the world around you",
-      "heightend emotions",
+      "a sense of connectedness with the world around you",
+      "heightened emotions",
       "paranoia",
-      "unwanted thoughts"
+      "intrusive thoughts"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -5858,9 +5859,9 @@
       ],
       "dose": "Oral Threshold: 5-10mg Light: 10-15mg Common: 15-20mg Strong: 20-30mg Heavy: 40mg+",
       "duration": "3-6 hours",
-      "effects": "Brightened colors, visual distortions, altered perception, a sense of conectedness with the world around you, heightend emotions, paranoia, unwanted thoughts.",
+      "effects": "Brightened colors, visual distortions, altered perception, a sense of conectedness with the world around you, heightened emotions, paranoia, intrusive thoughts.",
       "onset": "20-90 minutes depending on stomach contents.",
-      "summary": "A reasonably popular tryptamine deriviative and Psilocin analogue, first synthesised by Alexander Shulgin. It has been reported as having comparable effects to psychedelic mushrooms, though with a shorter duration."
+      "summary": "A reasonably popular tryptamine deriviative and Psilocin analogue, first synthesised by Alexander Shulgin. It has been reported as having comparable effects to psilocybin mushrooms, though with a shorter duration."
     },
     "pweffects": {
       "8B Geometry - Exposure to inner mechanics of consciousness": "https://psychonautwiki.org/wiki/8B_Geometry_-_Exposure_to_inner_mechanics_of_consciousness",
@@ -5918,7 +5919,7 @@
       "research-chemical",
       "tentative"
     ],
-    "dose_note": " Note, this substance has never been reported on past 2mg's. Use you're judgement; It's near eqipotent to DOI.",
+    "dose_note": " Note: As of writing this note, this substance has not been reported on dosages past 2mg. Caution should be given when dosing. The drug is near eqipotent to DOI.",
     "formatted_dose": {
       "Oral": {
         "Common": "1-2mg.",
@@ -5967,7 +5968,7 @@
       "duration": "6-8 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "15-60 minutes.",
-      "summary": "A rare tryptamine derivative first synthesised by David Nichols. This drug, also known as lucigenol, has rarely been documented outside the lab. It is known to be a psychedelic similar to other psychoactive tryptamines, with a potency similar to DOI, but little else is known."
+      "summary": "A rare tryptamine derivative first synthesised by David Nichols. This drug, also known as lucigenol, has rarely been documented outside the lab. It is known to be a psychedelic similar to other psychoactive tryptamines, with a potency similar to DOI. Little else is known about the drug."
     }
   },
   "4-ho-mpt": {
@@ -5979,7 +5980,7 @@
       "tentative",
       "research-chemical"
     ],
-    "dose_note": " Note: I couldn't find a report that taking this substance rectally produced any effects.",
+    "dose_note": " NOTE: The drug does not appear to be active rectally.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-6"
@@ -6140,7 +6141,7 @@
       ],
       "duration": "Oral: 45-120 minutes. | Insufflated: 30-75 minutes.",
       "onset": "Oral: 5-15 minutes. | Insufflated: 1-2 minutes.",
-      "summary": "Rare and basically unknown opioid and fentanyl analogue (not to be confused with Butyrfentanyl). Virtually no reliable information exists, safe dosages are unknown. Exercise extreme caution. Overdose may result in respiratory depression. Do not mix with stimulants or depressants."
+      "summary": "Rare opioid and fentanyl analogue (not to be confused with Butyrfentanyl). There is very limited information online and little to no dosage information. Exercise extreme caution when using this drug. Overdose may result in respiratory depression. Do not mix with stimulants or depressants."
     }
   },
   "4-meo-mipt": {
@@ -6203,7 +6204,7 @@
       "duration": "3-7 hours",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "20-60 minutes",
-      "summary": "A rare psychedelic tryptamine first synthesised by Alexander Shulgin, said to the be \"little brother\" of 5-MeO-MiPT. Said to be relatively mild with lighter visual effects than most tryptamines."
+      "summary": "A rare psychedelic tryptamine first synthesised by Alexander Shulgin, known as the \"little brother\" of 5-MeO-MiPT. There are reports of it to be mild with lighter visual effects than most tryptamines."
     }
   },
   "4-meo-pcp": {
@@ -6215,7 +6216,7 @@
       "research-chemical",
       "habit-forming"
     ],
-    "dose_note": " NOTE: These doses are tentative and may need further research.",
+    "dose_note": " NOTE: These doses are very tentative.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-24"
@@ -6254,7 +6255,7 @@
       "dose": "Oral Threshold: 25-50mg Light: 50-100mg Common: 100-150mg Strong: 150mg+ | NOTE: These doses are tentative and may need further research.",
       "duration": "8-15 hours.",
       "onset": "45-90 minutes.",
-      "summary": "An arylcyclohexamine dissociative anaesthetic related to PCP. First discovered in the 1960s by Parke-Davis, it was introduced to the RC market in 2008. Reported to be less potent than PCP. It is not commonly seen, but has seen some increase in popularity with the inavailability of other dissociatives."
+      "summary": "An arylcyclohexamine dissociative anaesthetic related to PCP. First discovered in the 1960s by Parke-Davis, it was introduced to the RC market in 2008. There are reports of it being less potent than PCP. There is said to be an increase in usage due to the limited availability of other dissociatives."
     }
   },
   "4-methylaminorex": {
@@ -6300,7 +6301,7 @@
       "dose": "Threshold: 1mg Light: 1-5mg Common: 5-10mg Strong: 10-15mg Dangerous: 15-20mg+",
       "duration": "14-18 hours.",
       "onset": "5-15 minutes.",
-      "summary": "A very potent stimulant that has quite a long duration of action at around 16 hours."
+      "summary": "A very potent stimulant that has a long duration of action at around 16 hours."
     }
   },
   "4-methylmethylphenidate": {
@@ -24844,52 +24845,6 @@
         "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably. MAO-A inhibitors with MDMA will lead to hypertensive crises.",
         "status": "Dangerous"
       },
-      "mephedrone": {
-        "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. Stimulants also increase the neurotoxic effects of MDMA, in addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
-        "sources": [
-          {
-            "author": "J Kehr,  F Ichinose,  S Yoshitake,  M Goiny,  T Sievertsson,  F Nyberg,  T Yoshitake",
-            "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
-            "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
-          },
-          {
-            "author": "Gregory C. Hadlock, Katy M. Webb, Lisa M. McFadden, Pei Wen Chu, Jonathan D. Ellis, Scott C. Allen, David M. Andrenyak, Paula L. Vieira-Brock, Christopher L. German, Kevin M. Conrad, Amanda J. Hoonakker, James W. Gibb, Diana G. Wilkins, Glen R. Hanson and Annette E. Fleckenstein",
-            "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse",
-            "url": "https://doi.org/10.1124/jpet.111.184119 "
-          },
-          {
-            "author": "Gough B, Ali SF, Slikker W Jr, Holson RR. ",
-            "title": "Acute effects of 3,4-methylenedioxymethamphetamine (MDMA) on monoamines in rat caudate. (1991)",
-            "url": "https://doi.org/10.1016/0091-3057(91)90137-q"
-          },
-          {
-            "author": "Schmidt CJ, Levin JA, Lovenberg W. ",
-            "title": "In vitro and in vivo neurochemical effects of methylenedioxymethamphetamine on striatal monoaminergic systems in the rat brain. (1987)",
-            "url": "https://doi.org/10.1016/0006-2952(87)90729-5"
-          },
-          {
-            "author": "Bankson MG, Cunningham KA.",
-            "title": "3,4-Methylenedioxymethamphetamine (MDMA) as a unique model of serotonin receptor function and serotonin-dopamine interactions. (2001)",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/11356903/"
-          },
-          {
-            "author": "A.C. Parrott",
-            "title": "Recreational Ecstasy/MDMA, the serotonin syndrome, and serotonergic neurotoxicity (2002)",
-            "url": "https://doi.org/10.1016/S0091-3057(01)00711-0"
-          },
-          {
-            "author": "Lisa H. Gold & George F. Koob ",
-            "title": "MDMA produces stimulant-like conditioned locomotor activity. (1989)",
-            "url": "https://doi.org/10.1007/BF00445556"
-          },
-          {
-            "author": "Meng H, Cao J, Kang J, Ying X, Ji J, Reynolds W, Rampe D.",
-            "title": "Mephedrone, a new designer drug of abuse, produces acute hemodynamic effects in the rat ",
-            "url": "https://doi.org/10.1016/j.toxlet.2011.10.010"
-          }
-        ],
-        "status": "Dangerous"
-      },
       "mescaline": {
         "status": "Low Risk & Synergy"
       },
@@ -25678,52 +25633,6 @@
             "author": "Reissig CJ, Carter LP, Johnson MW, Mintzer MZ, Klinedinst MA, Griffiths RR",
             "title": "High doses of dextromethorphan, an NMDA antagonist, produce effects similar to classic hallucinogens ",
             "url": "https://doi.org/10.1007/s00213-012-2680-6"
-          },
-          {
-            "author": "Meng H, Cao J, Kang J, Ying X, Ji J, Reynolds W, Rampe D.",
-            "title": "Mephedrone, a new designer drug of abuse, produces acute hemodynamic effects in the rat ",
-            "url": "https://doi.org/10.1016/j.toxlet.2011.10.010"
-          }
-        ],
-        "status": "Dangerous"
-      },
-      "mdma": {
-        "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. Stimulants also increase the neurotoxic effects of MDMA, in addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
-        "sources": [
-          {
-            "author": "J Kehr,  F Ichinose,  S Yoshitake,  M Goiny,  T Sievertsson,  F Nyberg,  T Yoshitake",
-            "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
-            "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
-          },
-          {
-            "author": "Gregory C. Hadlock, Katy M. Webb, Lisa M. McFadden, Pei Wen Chu, Jonathan D. Ellis, Scott C. Allen, David M. Andrenyak, Paula L. Vieira-Brock, Christopher L. German, Kevin M. Conrad, Amanda J. Hoonakker, James W. Gibb, Diana G. Wilkins, Glen R. Hanson and Annette E. Fleckenstein",
-            "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse",
-            "url": "https://doi.org/10.1124/jpet.111.184119 "
-          },
-          {
-            "author": "Gough B, Ali SF, Slikker W Jr, Holson RR. ",
-            "title": "Acute effects of 3,4-methylenedioxymethamphetamine (MDMA) on monoamines in rat caudate. (1991)",
-            "url": "https://doi.org/10.1016/0091-3057(91)90137-q"
-          },
-          {
-            "author": "Schmidt CJ, Levin JA, Lovenberg W. ",
-            "title": "In vitro and in vivo neurochemical effects of methylenedioxymethamphetamine on striatal monoaminergic systems in the rat brain. (1987)",
-            "url": "https://doi.org/10.1016/0006-2952(87)90729-5"
-          },
-          {
-            "author": "Bankson MG, Cunningham KA.",
-            "title": "3,4-Methylenedioxymethamphetamine (MDMA) as a unique model of serotonin receptor function and serotonin-dopamine interactions. (2001)",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/11356903/"
-          },
-          {
-            "author": "A.C. Parrott",
-            "title": "Recreational Ecstasy/MDMA, the serotonin syndrome, and serotonergic neurotoxicity (2002)",
-            "url": "https://doi.org/10.1016/S0091-3057(01)00711-0"
-          },
-          {
-            "author": "Lisa H. Gold & George F. Koob ",
-            "title": "MDMA produces stimulant-like conditioned locomotor activity. (1989)",
-            "url": "https://doi.org/10.1007/BF00445556"
           },
           {
             "author": "Meng H, Cao J, Kang J, Ying X, Ji J, Reynolds W, Rampe D.",
