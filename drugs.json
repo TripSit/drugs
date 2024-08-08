@@ -7503,7 +7503,7 @@
       "dose": "Oral Light: 10-20mg Common: 20-40mg Strong: 40-60mg+ | Insufflated Light: 5-10mg Common: 10-15mg Strong: 15-20mg+",
       "duration": "Oral 8-12 hours. | Insufflated 6-8 hours.",
       "onset": "Oral: 20-90 minutes. | Insufflated: 5-45 minutes.",
-      "summary": "An uncommon and new psychedelic drug related to tryptamine; the Benzofuran analogue of 5-MeO-DiPT. Probably a serotonin receptor partial agonist. Little history of human use."
+      "summary": "The drug is related to tryptamine, it is the Benzofuran analogue of 5-MeO-DiPT. The drug is suspected to be a serotonin receptor partial agonist by some. There is limited information on this drug."
     }
   },
   "5-meo-dipt": {
@@ -7577,7 +7577,7 @@
       "duration": "4-8 hours",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "20-40 minutes",
-      "summary": "5-methoxy-di isopropyl tryptamine, also known as 'foxy', a psychedelic tryptamine related to DMT, which distorts visual and audio perception. Reported to have a heavy body load at high doses, it behaves similarly to other drugs of its class."
+      "summary": "5-methoxy-di isopropyl tryptamine, also known as 'foxy', a psychedelic tryptamine related to DMT. The drug is reported to distort visual and audio perception. The drug is also reported to have a heavy body load at higher dosages. The drug is reported to be similar to those structurally similar to it."
     }
   },
   "5-meo-dmt": {
@@ -7649,7 +7649,7 @@
       "duration": "Smoked: 5-15 minutes | Insufflated: 15-45 minutes",
       "effects": "Smoked: short duration, powerful rushing of sensation, overwhelming fear, panic, experience of \"the void\", ego death",
       "onset": "Smoked: 0-1 minutes | Insufflated: 1-5 minutes",
-      "summary": "A powerful psychedelic tryptamine found in many species of plants and some toad venom, with a history of use by native South Americans spanning thousands of years. Has similar qualities to DMT and related tryptamines. Very potent. Orally active in combination with an MAOI."
+      "summary": "A powerful psychedelic tryptamine found in many species of plants and some toad venom. There is a reported history of use by native South Americans spanning thousands of years. The drug has similar qualities to DMT and related tryptamines. The drug is reported to be very potent and orally active in combination with an MAOI."
     },
     "pweffects": {
       "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
@@ -7826,7 +7826,7 @@
       "duration": "Oral: 5-10 hours. | Insufflated: 3-6 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "Oral: 15-45 minutes. | Insufflated: 1-10 minutes.",
-      "summary": "A little known and little studied tryptamine and analogue of EiPT, also related to DiPT and DET. Probably a psychedelic. Few reports of effects."
+      "summary": "Little is known about this compound. It is a tryptamine and analogue of EiPT, and is also related to DiPT and DET. Probably a psychedelic. There are few reports of it's effects."
     }
   },
   "5-meo-malt": {
@@ -7834,7 +7834,7 @@
       "psychedelic",
       "research-chemical"
     ],
-    "dose_note": " Note: Due to the massive amount of reports not correlating to the others please start very low and titrate up.",
+    "dose_note": " NOTE: There are inconsistent reports on the drugs effects. It is recommended to start low and raise dosages slowly.",
     "formatted_dose": {
       "Insufflated": {
         "Common": "10-20mg",
@@ -7889,11 +7889,11 @@
         "psychedelic",
         "research-chemical"
       ],
-      "dose": "Oral Light: 15-25mg Common: 25-50mg Strong: 50mg+ | Insufflated Light: 5-10mg Common: 10-20mg Strong: 20mg+ | Vapourized Light: 5-10mg Common: 10-15mg Strong: 15-20mg | Note: Due to the massive amount of reports not correlating to the others please start very low and titrate up.",
+      "dose": "Oral Light: 15-25mg Common: 25-50mg Strong: 50mg+ | Insufflated Light: 5-10mg Common: 10-20mg Strong: 20mg+ | Vapourized Light: 5-10mg Common: 10-15mg Strong: 15-20mg | There are inconsistent reports on the drugs effects. It is recommended to start low and raise dosages slowly.",
       "duration": "Oral: 2-4 hours. | Insufflated: 1-3 hours. | Vapourized: 0.5-1.5 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "Oral: 5-30 minutes. | Insufflated: 5-15 minutes. | Vapourized: 1-5 minutes.",
-      "summary": "A new and uncommon psychedelic tryptamine related to 5-MeO-DALT. Little is known about it, but its effects are probably similar to other psychedelic tryptamines."
+      "summary": "A new and uncommon psychedelic tryptamine related to 5-MeO-DALT. Little is known about the drug, however its effects are likely similar to other psychedelic tryptamines."
     }
   },
   "5-meo-met": {
@@ -7956,7 +7956,7 @@
       "duration": "Oral: 2-3 hours. Vapourized 60-90 minutes.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "Oral: 10-45 minutes. | Vapourized: 1-5 minutes.",
-      "summary": "An obscure psychedelic drug similar in structure to 5-MeO-DMT. Possibly first synthesised by Alexander Shulgin. Likely to have similar effects to other tryptamine psychedelics."
+      "summary": "An obscure psychedelic drug similar in structure to 5-MeO-DMT. The drug is suspected to be first synthesised by Alexander Shulgin. The drug is likely to have similar effects to other psychedelic tryptamines."
     }
   },
   "5-meo-mipt": {
@@ -8032,7 +8032,7 @@
       "duration": "3-7 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "<30 minutes.",
-      "summary": "A potent, stimulating psychedelic tryptamine, sometimes compared to 5-MeO-DiPT.  Has an unusually strong body component and weak visual effects. Often said to be very empathogenic."
+      "summary": "A potent, stimulating psychedelic tryptamine, sometimes compared to 5-MeO-DiPT. The drug is reported to have a unusually strong body component and weak visual effects. The drug is reported to be very empathogenic."
     },
     "pweffects": {
       "8B Geometry - Exposure to inner mechanics of consciousness": "https://psychonautwiki.org/wiki/8B_Geometry_-_Exposure_to_inner_mechanics_of_consciousness",
