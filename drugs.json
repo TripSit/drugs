@@ -3174,7 +3174,7 @@
       "Sweating",
       "Disturbed sleep patterns",
       "Bruxia",
-      "Visual and auditory hallucinations itchiness",
+      "Visual and auditory hallucinations, itchiness",
       "agressiveness",
       "moodiness"
     ],
@@ -3205,7 +3205,7 @@
       ],
       "dose": "Oral Threshold: 5-10mg Light: 10-25mg Common: 25-50mg Strong: 50-70mg. Heavy: 70-100mg | Insufflated Light: 10-20mg Common: 20-35mg Strong: 35-50mg Heavy: 50mg-70mg | NOTE: Repeated dosing appears to lengthen after-effects of sleeplessness / insomnia.",
       "duration": "Oral: 5-8 hours | Insufflated: 3-6 hours.",
-      "effects": "increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations itchiness, agressiveness, moodiness.",
+      "effects": "increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, agressiveness, moodiness.",
       "onset": "Oral: 20-30 minutes | Insufflated: 1-5 minutes",
       "summary": "A functional stimulant related to phenmetrazine. Effects similar to amphetamine, but longer and more focused. Observed as being relatively benign in low doses, but seems to cause worrying health effects for heavier users. Pain from insufflation is intense but short."
     },
@@ -6679,7 +6679,7 @@
       "Sweating",
       "Disturbed sleep patterns",
       "Bruxia",
-      "Visual and auditory hallucinations itchiness",
+      "Visual and auditory hallucinations, itchiness",
       "agressiveness",
       "moodiness"
     ],
@@ -6702,7 +6702,7 @@
       ],
       "dose": "Oral Light: 50-75mg Common: 75-125mg Heavy: 125-200mg+",
       "duration": "4-8 hours",
-      "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations itchiness, agressiveness, moodiness.",
+      "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, agressiveness, moodiness.",
       "onset": "20-60 minutes",
       "summary": "An entactogenic amphetamine stimulant with similar structure and effects to MDMA. An analogue of MDA, it is a highly selective serotonin releaser but inhibits reuptake of serotonin (weakly), dopamine and norepinephrine."
     }
@@ -6744,7 +6744,7 @@
       "Sweating",
       "Disturbed sleep patterns",
       "Bruxia",
-      "Visual and auditory hallucinations itchiness",
+      "Visual and auditory hallucinations, itchiness",
       "agressiveness",
       "moodiness"
     ],
@@ -7180,7 +7180,8 @@
       "Sweating",
       "Disturbed sleep patterns",
       "Bruxia",
-      "Visual and auditory hallucinations itchiness",
+      "Visual and auditory hallucinations",
+      "itchiness",
       "agressiveness",
       "moodiness"
     ],
@@ -7207,9 +7208,9 @@
       ],
       "dose": "Oral Light: 40-60mg Common: 60-80mg Heavy: 80-100mg+",
       "duration": "5-8 hours",
-      "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations itchiness, agressiveness, moodiness.",
+      "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, agressiveness, moodiness.",
       "onset": "45-60 minutes",
-      "summary": "An empathogen structurally similar to MDMA. Typically more visual than MDMA. Often reported to be much less stimulating and more relaxing than most other stimulating empathogens. Less psychedelic than 6-APB. Much longer lasting than MDMA."
+      "summary": "Empathogen structurally similar to MDMA. The drug is reported to be more visual and less stimulating than other empathogens. The drug is also reported to have less psychedelic effects than 6-APB. The drug lasts longer than MDMA."
     }
   },
   "5-mapdb": {
@@ -7250,7 +7251,8 @@
       "Sweating",
       "Disturbed sleep patterns",
       "Bruxia",
-      "Visual and auditory hallucinations itchiness",
+      "Visual and auditory hallucinations",
+      "itchiness",
       "agressiveness",
       "moodiness"
     ],
@@ -7261,7 +7263,7 @@
     "name": "5-mapdb",
     "pretty_name": "5-MAPDB",
     "properties": {
-      "after-effects": "2-4 hours. (dependant on dose)",
+      "after-effects": "2-4 hours. (depending on the dose)",
       "aliases": [
         "5mapdb"
       ],
@@ -7273,9 +7275,9 @@
       ],
       "dose": "Oral Light: 50-75mg Common: 75-120mg Strong: 120-150mg+",
       "duration": "5-8 hours.",
-      "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations itchiness, agressiveness, moodiness.",
+      "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, agressiveness, moodiness.",
       "onset": "45-70 minutes.",
-      "summary": "An entactogenic drug with similar effects to MDMA, it is related to 5-MAPB. Likely to release serotonin and show neurotoxicity in the same way as MDMA"
+      "summary": "An entactogenic drug with similar effects to MDMA. The drug is structurally related to 5-MAPB. The drug is suspected to release serotonin and have neurotoxicity concerns similar to MDMA."
     }
   },
   "5-meo-amt": {
@@ -7348,7 +7350,7 @@
       "duration": "Oral: 12-18 hours. | Insufflated: 8-12 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "30-120 minutes.",
-      "summary": "A long-acting psychedelic and entactogenic tryptamine, related to aMT. Very potent and may be sold on blotters. Possibly has been missold as LSD in the past, however this is uncommon. Possibly an MAOI."
+      "summary": "A long-acting psychedelic and entactogenic tryptamine. The drug is structurally related to aMT. The drug is reported to be very potent and is sometimes sold on blotters. There have been a few reports of the drug being sold as LSD, however it seems this is rare. The drug may be an MAOI, caution is advised when dosing."
     }
   },
   "5-meo-dalt": {
@@ -7421,7 +7423,7 @@
       "duration": "Oral: 2-4 hours. Smoked: 20-30 minutes.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "oral: 15-30 minutes. Smoked: 1-2 minutes.",
-      "summary": "A strange drug with an unknown mechanism of action. Some psychedelic effects alongside some effects non-characteristic of psychedelics like appetite enhancement. Reported as having rapid, intense and short acting entheogenic effects."
+      "summary": "The drug is reported to have psychedelic effects alongside atypical psychedelic effects. There are some reports of the drug having short intense entactogenic effects."
     },
     "pweffects": {
       "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
@@ -8210,7 +8212,7 @@
       "Sweating",
       "Disturbed sleep patterns",
       "Bruxia",
-      "Visual and auditory hallucinations itchiness",
+      "Visual and auditory hallucinations, itchiness",
       "agressiveness",
       "moodiness"
     ],
@@ -8231,7 +8233,7 @@
       ],
       "dose": "Oral Light: 50-100mg Common: 100-250mg Strong: 250-400mg+ | Insufflated Light: 30-60mg Common: 60-150mg Strong: 150-300mg+",
       "duration": "Oral: 2-4 hours. | Insufflated: 2-3 hours.",
-      "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations itchiness, agressiveness, moodiness.",
+      "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, agressiveness, moodiness.",
       "onset": "Oral: 20-40 minutes.",
       "summary": "Also known as 5-methyl ethylone or 5-ME, this is a cathinone drug and analogue of ethylone. Little is known about this obscure compound but it is reasonable to assume it has an effect profile similar to other stimulants of the cathionone class, with a slightly higher potency than ethylone. Potentially entactogenic and a monoamine releasing agent."
     }
@@ -8272,7 +8274,7 @@
       "Sweating",
       "Disturbed sleep patterns",
       "Bruxia",
-      "Visual and auditory hallucinations itchiness",
+      "Visual and auditory hallucinations, itchiness",
       "agressiveness",
       "moodiness"
     ],
@@ -8482,7 +8484,7 @@
       "Sweating",
       "Disturbed sleep patterns",
       "Bruxia",
-      "Visual and auditory hallucinations itchiness",
+      "Visual and auditory hallucinations, itchiness",
       "agressiveness",
       "moodiness"
     ],
@@ -8509,7 +8511,7 @@
       ],
       "dose": "Oral Threshold: 25-30mg Low: 30-40mg Medium: 40-75mg Heavy: 75-100+mg",
       "duration": "7-9 hours, up to 12 reported",
-      "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations itchiness, agressiveness, moodiness.",
+      "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, agressiveness, moodiness.",
       "onset": "60-90 minutes.",
       "summary": "A stimulant and entactogen related to MDMA and an analogue of MDA. Reported as being fairly psychedlic at higher doses. It is a triple monoamine reuptake inhibitor. Potent full agonist of serotonin 2B receptors."
     }
@@ -8550,7 +8552,7 @@
       "Sweating",
       "Disturbed sleep patterns",
       "Bruxia",
-      "Visual and auditory hallucinations itchiness",
+      "Visual and auditory hallucinations, itchiness",
       "agressiveness",
       "moodiness"
     ],
@@ -8571,7 +8573,7 @@
       ],
       "dose": "Light: 50-75mg Common: 75-100mg Strong: 100-150mg+",
       "duration": "4-7~ hours.",
-      "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations itchiness, agressiveness, moodiness.",
+      "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, agressiveness, moodiness.",
       "onset": "20-40 minutes.",
       "summary": "A rare entactogen benzofuran structurally related to MDMA and 6-APB, though weaker in effects. the pharmacology of this compound is unclear. Likely to be a monoamine releaser, monoamine reuptake inhibitor or both."
     }
@@ -8617,7 +8619,7 @@
       "Sweating",
       "Disturbed sleep patterns",
       "Bruxia",
-      "Visual and auditory hallucinations itchiness",
+      "Visual and auditory hallucinations, itchiness",
       "agressiveness",
       "moodiness"
     ],
@@ -8637,7 +8639,7 @@
       ],
       "dose": "Oral Light: 20-40mg Common: 40-80mg Strong: 80-100mg | Insufflated Light: 10-20mg Common: 20-40mg Strong: 40-100mg+",
       "duration": "5-10 hours. Dependant on dose.",
-      "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations itchiness, agressiveness, moodiness.",
+      "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, agressiveness, moodiness.",
       "onset": "Orally: Within an hour. | Insufflated: Within 15 minutes.",
       "summary": "Empathogen drug that is structurally related to 6-APB and MDMA."
     }
@@ -10017,7 +10019,7 @@
       "Sweating",
       "Disturbed sleep patterns",
       "Bruxia",
-      "Visual and auditory hallucinations itchiness",
+      "Visual and auditory hallucinations, itchiness",
       "agressiveness",
       "moodiness"
     ],
@@ -10048,7 +10050,7 @@
       ],
       "dose": "Light: 5-10mg Common: 10-25mg Heavy: 25-50mg+",
       "duration": "2-5 hours.",
-      "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations itchiness, agressiveness, moodiness.",
+      "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, agressiveness, moodiness.",
       "onset": "5-15 minutes.",
       "summary": "A potent, short-lasting pyrovalerone-type stimulant which became popular despite often being said to not be particularly euphoric, perhaps due to its propensity to cause compulsive redosing. Effects should be similar to MDPV."
     },
@@ -11555,7 +11557,7 @@
       "Sweating",
       "Disturbed sleep patterns",
       "Bruxia",
-      "Visual and auditory hallucinations itchiness",
+      "Visual and auditory hallucinations, itchiness",
       "agressiveness",
       "moodiness"
     ],
@@ -11585,7 +11587,7 @@
       ],
       "dose": "Light: 5-10mg Common: 10-20mg Strong: 20-40mg+",
       "duration": "2-8 hours dependant on ROA.",
-      "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations itchiness, agressiveness, moodiness.",
+      "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, agressiveness, moodiness.",
       "onset": "1-10 minutes.",
       "summary": "A powerful stimulant cathinone, analogue of alpha-PVP and related to pyrovalerone. Said to have high addictive potential, compulsive redosing and relatively short duration. Often insufflated or vapourised."
     }
@@ -11806,7 +11808,7 @@
       "Sweating",
       "Disturbed sleep patterns",
       "Bruxia",
-      "Visual and auditory hallucinations itchiness",
+      "Visual and auditory hallucinations, itchiness",
       "agressiveness",
       "moodiness"
     ],
@@ -11832,7 +11834,7 @@
       ],
       "dose": "Threshold: 2-4mg Common: 4-10mg Strong: 10mg+",
       "duration": "Oral: 8-12 hours. | Insufflated: 6-10 hours.",
-      "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations itchiness, agressiveness, moodiness.",
+      "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, agressiveness, moodiness.",
       "onset": "Oral: 30-45 minutes. | Insufflated: 5-15 minutes.",
       "summary": "A dopaminergic stimulant discovered by Sterling-Winthrop accidentally while developing antibiotics. Discontinued due to undesirable stimulant effects, it has had some popularity as a recreational drug."
     }
@@ -26504,7 +26506,7 @@
       "Sweating",
       "Disturbed sleep patterns",
       "Bruxia",
-      "Visual and auditory hallucinations itchiness",
+      "Visual and auditory hallucinations, itchiness",
       "agressiveness",
       "moodiness",
       "fatal kidney disorder",
@@ -26538,7 +26540,7 @@
       ],
       "dose": "Oral Light: 5-10mg Common: 10-30mg Strong: 20-40mg Heavy: 40-100mg | Insufflated Light: 5-10mg Common: 10-30mg Strong: 30-50mg Heavy: 50mg+ | Smoked Light: 5-10mg Common: 10-20mg Strong: 30-60mg Heavy: 50mg+ | IV Light: 5-10mg Common: 10-20mg Strong: 20-40mg Heavy: 40mg+",
       "duration": "Oral: 10-12 hours | Insufflated: 8-10 hours | Smoked: 3-8 hours | IV: 6-10 hours *NOTE: Check ~after-effects*",
-      "effects": "increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations itchiness, agressiveness, moodiness, fatal kidney disorder, possible brain damage liver damage.",
+      "effects": "increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase sexuality, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, agressiveness, moodiness, fatal kidney disorder, possible brain damage liver damage.",
       "marquis": "Deep reddish orange - Dark reddish brown",
       "onset": "Oral: 20-70 minutes | Insufflated: 5-10 minutes | Smoked: 0-2 minutes | IV: 0-2 minutes",
       "summary": "A fairly common and very strong CNS stimulant. It is sometimes prescribed in the form of desoxyn for ADHD and severe obesity. In low doses, methamphetamine can elevate mood, increase alertness, concentration, energy and reduces appetite. At higher doses, it can induce mania, psychosis and muscle degeneration among other issues. Tolerant users may report much higher doses than new users."
