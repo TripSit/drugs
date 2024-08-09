@@ -9436,7 +9436,7 @@
         "Threshold": "100ug-400ug",
         "Light": "400ug-800ug",
         "Common": "800ug-1400ug",
-        "Strong": "1400ug-2000ug+",
+        "Strong": "1400ug-2000ug+"
       }
     },
     "formatted_duration": {
