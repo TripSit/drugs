@@ -4435,7 +4435,7 @@
       "duration": "Insufflated 60-120 minutes.",
       "note": "It seems that everyone is in favour of taking this substance intranasally, due to a quite poor oral BA.",
       "onset": "Insufflated: 5-10 minutes.",
-      "summary": "Research chemical of the tryptamine class. First noted being sold in 2012, yet never recieved much attention. There are conflicting reports on it's workings. Doesn't dissolve well at all in nearly all solutions it was tested in."
+      "summary": "Research chemical of tryptamine class. First noted being sold in 2012. There are conflicting reports on it's effects. The drug does not dissolve well in all solutions it was tested."
     }
   },
   "4-aco-met": {
@@ -8122,7 +8122,7 @@
       "dose": "Threshold: 2-4mg Common: 4-8mg Common: 8-15mg Strong: 15-25mg",
       "duration": "4-6 hours.",
       "onset": "30-60 minutes.",
-      "summary": "A little known and little studied tryptamine and analogue of NiPT, also related to DiPT and DET. Psychedelic, that is generally regarded as not worth the time."
+      "summary": "The drug has limited information on it. It is a psychedelic tryptamine and analogue of NiPT. The drug is structurally related to DiPT and DET."
     }
   },
   "5-meo-pyr-t": {
@@ -8168,9 +8168,9 @@
       ],
       "dose": "Oral Light: 0.5-1mg Common: 1-1.5mg Strong: 1.5-2mg's. | Vapourised Light: 0.5-1.5mg Common: 1.5-2mg Strong: 2-3mg's.",
       "duration": "Oral: 2-6 hours. | Vapourised: 1-5 hours.",
-      "note": "Please have a tripsitter with you in person if you do indeed to consume this substance. Some may feel better the next morning and feel fine, and in some accounts, week plus until all the residual effects wore off. Be extremely cautious with this substance.",
+      "note": "The drug has been reported in some cases to have residual effects that last over a week after dosing. It is recommended to have a tripsitter when consuming this substance and to be very cautious when using it.",
       "onset": "Oral: 5-20 minutes. | Vapourised: 1-2 minutes.",
-      "summary": "A very odd acting tryptamine, that is very potent. With doses as low as 3mg vapourised causing complete blocks of memory loss."
+      "summary": "The drug is a tryptamine that is atypical with its potency and more. There are reports of 3mg being vapourised that caused memory loss/blackouts."
     }
   },
   "5-methyl-bk-mdea": {
@@ -8212,7 +8212,8 @@
       "Sweating",
       "Disturbed sleep patterns",
       "Bruxia",
-      "Visual and auditory hallucinations, itchiness",
+      "Visual and auditory hallucinations",
+      "itchiness",
       "agressiveness",
       "moodiness"
     ],
