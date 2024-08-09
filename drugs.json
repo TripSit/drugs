@@ -10058,7 +10058,7 @@
       "duration": "2-5 hours.",
       "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increased libido, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
       "onset": "5-15 minutes.",
-      "summary": "A potent, short-lasting pyrovalerone-type stimulant which became popular despite being said to be minimally euphoric, perhaps due to its propensity to cause compulsive redosing. Effects should be similar to MDPV."
+      "summary": "A potent, short-lasting pyrovalerone-type stimulant which became popular despite reports saying it is minimally euphoric, perhaps due to its propensity to cause compulsive redosing. Effects are likely to be similar to MDPV."
     },
     "pweffects": {
       "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
@@ -10133,7 +10133,7 @@
       ],
       "duration": "Oral 2-4 hours. | Insufflated 2-4 hours. | Vapourized 1-2 hours.",
       "onset": "Oral 10-30 minutes. | Insufflated 1-10 minutes. | Vapourized 1-2 minutes.",
-      "summary": "A rare stimulant drug related to a-PVP. The drug is very uncommon. Probably less potent than a-PVP, however little data exists on this compound and its effects on humans. Consume with caution."
+      "summary": "A rare stimulant drug related to a-PVP. The drug is very uncommon. The drug is suspected to be less potent than a-PVP, however little data exists on this compound and its effects on humans. Consume with caution."
     }
   },
   "ab-chminaca": {
@@ -10177,7 +10177,7 @@
       "dose": "Light: 50-100µg Common: 100-250µg Strong: 250-400µg Heavy: 400µg+",
       "duration": "Vapourized: 1-2 hours | Oral: 5-12 hours",
       "onset": "Vapourized: 1-5 minutes | Oral: 20-80 minutes",
-      "summary": "A synthetic cannabinoid related to AB-FUBINACA which has had some mild popularity. There have been reports of death in overdose, similar to AB-FUBINACA and it has a low threshold dose. Exercise caution."
+      "summary": "A synthetic cannabinoid related to AB-FUBINACA. There have been reports of death in overdose, similar to AB-FUBINACA and it has a low threshold dose. Exercise caution."
     }
   },
   "ab-fubinaca": {
@@ -10218,8 +10218,8 @@
       "Euphoric",
       "stimulating high",
       "increases creativity and appetite",
-      "also short term memory deficits",
-      "similar to Cannabis"
+      "short term memory deficits",
+      "similar to cannabis"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -10244,7 +10244,7 @@
       ],
       "dose": "Vapourized Light: 0.25-0.5mg  Common: 0.5-1.5mg  Strong: 1.5-3mg  Heavy: 3+mg | Oral Light: 0.25-0.5mg  Common: 0.5-1.5mg  Strong: 1.5-3mg  Heavy: 3+mg",
       "duration": "Vapourized: 1-2 hours | Oral: 5-15 hours",
-      "effects": "Euphoric, stimulating high, increases creativity and appetite, also short term memory deficits, similar to Cannabis",
+      "effects": "Euphoric, stimulating high, increases creativity and appetite, short term memory deficits, similar to cannabis",
       "onset": "Vapourized: 1-5 minutes | Oral: 30-240 minutes",
       "summary": "Arguably the most common synthetic cannabinoid, AB-FUBINACA was originally developed by Pfizer as an analgesic, but has since abandoned for medical use. It has since found a following in the RC community, however it's extremely high potency and inclusion in synthetic blends makes it dangerous, and it has killed in overdose. Exercise caution."
     }
@@ -10465,7 +10465,8 @@
       "Reduced appetite",
       "Flushing of the face",
       "Increased body temperature",
-      "Tachycardia (Incrased heart rate) Paranoia",
+      "Tachycardia (increased heart rate)",
+      "Paranoia",
       "Insomnia"
     ],
     "formatted_onset": {
@@ -10495,7 +10496,7 @@
       "duration": "Oral-IR: 4-6 hours. | Oral-XR: 6-12 hours. | Insufflated: 2-5 hours. | Note: Highly dependant on dose.",
       "effects": "Increased alertness, Euphoria, Increased motivation, Reduced appetite, Flushing of the face, Increased body temperature, Tachycardia (Incrased heart rate) Paranoia, Insomnia.",
       "onset": "Oral-IR: 10-30 minutes | Oral-XR: 20-60 minutes | Insufflated-XR: 10-45 minutes | Insufflated-IR: 0-10 minutes",
-      "summary": "A mixture of 75% dextroamphetamine and 25% levoamphetamine. Commonly used to treat obesity, narcolepsy and ADHD. It is also used widely either as a recreational stimulant or study-aid, particularly in the USA where it is frequently prescribed."
+      "summary": "A mixture of 75% dextroamphetamine and 25% levoamphetamine. Commonly used to treat obesity, narcolepsy, and ADHD. It is also used widely either as a recreational stimulant or study-aid, particularly in the USA where it is frequently prescribed."
     },
     "pweffects": {
       "Abnormal heartbeat": "https://psychonautwiki.org/wiki/Abnormal_heartbeat",
@@ -10577,7 +10578,7 @@
       "dose": "Light: 5-15mg Common: 15-30mg Strong: 30-50mg+",
       "duration": "2-5 hours.",
       "onset": "10-25 minutes.",
-      "summary": "Benzodiazepine derivative that has some antidepressant properties. Never FDA approved, yet however has been sold as a research chemical."
+      "summary": "Benzodiazepine derivative that has some antidepressant properties. has been sold as a research chemical."
     }
   },
   "adrafinil": {
@@ -10645,7 +10646,7 @@
       "dose": "Threshold: 100-150mg Light: 150-250mg Common: 250-400mg Strong:400-600mg Heavy: 600mg+",
       "duration": "8-12 hours.",
       "effects": "Stimulation, Dehydration, Headaches, Photophobia, Appetite suppression, Increased heart rate, Dizziness, Nausea, Body odor alteration, Wakefulness, Irritability, Focus enhancement, Thought acceleration, Memory enhancement, Motivation enhancement, Emotion enhancement, Anxiety, Time distortion, Increased music appreciation",
-      "onset": "45-120 minutes depending on stomach contents/ect.",
+      "onset": "45-120 minutes depending on stomach contents/etc.",
       "summary": "A prodrug to modafinil, this compound is often used to increase wakefulness and alertness. Due to hepatic metabolism it has a slower onset than modafinil and may cause liver damage in excess. Some users have reported acne as an adverse effect. Unregulated in the US."
     }
   },
