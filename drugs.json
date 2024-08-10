@@ -10724,7 +10724,7 @@
       "duration": "5-10 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "60-120 minutes.",
-      "summary": "A quite rare substance of the tryptamine class, was first made by Upjohn as an antidepressant. Please use extreme caution if you get the pleasure of trying this drug."
+      "summary": "A quite rare substance of the tryptamine class, was first made by Upjohn as an antidepressant. Please use extreme caution with this drug."
     }
   },
   "afloqualone": {
@@ -10869,7 +10869,7 @@
       "open and closed eye visuals are common",
       "Auditory hallucinations are reported as common",
       "A sense of connectedness with people and the environment around you",
-      "A strong sense of wellbeing"
+      "A strong sense of well-being"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -10892,9 +10892,9 @@
       ],
       "dose": "Light: 40-75ug Common: 75-175ug Strong: 175-250ug Heavy: 250ug+",
       "duration": "4-6 hours",
-      "effects": "Similar in effect to LSD, open and closed eye visuals are common. Auditory hallucinations are reported as common. A sense of connectedness with people and the environment around you. A strong sense of wellbeing.",
+      "effects": "Similar in effect to LSD, open and closed eye visuals are common. Auditory hallucinations are reported as common. A sense of connectedness with people and the environment around you. A strong sense of well-being.",
       "onset": "45-120 minutes.",
-      "summary": "AL-LAD is a hallucinogenic drug, lysergamide and an analogue of LSD. It is reported as having some subtle experiential differences to LSD (such as increased visuals), and also appears to be slightly shorter lasting. AL-LAD doses are similar to those of LSD, depending on purity. Its availability on the Internet since 2013 has lead to strong popularity among the drug community."
+      "summary": "AL-LAD is a hallucinogenic drug, lysergamide and an analogue of LSD. It is reported as having some subtle experiential differences to LSD (such as increased visuals), and also appears to be slightly shorter lasting. AL-LAD doses are similar to those of LSD, depending on purity. Its availability on the Internet since 2013 has led to strong popularity among the drug community."
     },
     "pweffects": {
       "8A Geometry - Exposure to semantic concept network": "https://psychonautwiki.org/wiki/8A_Geometry_-_Exposure_to_semantic_concept_network",
@@ -11251,7 +11251,7 @@
         "1alsd",
         "1a-lsd"
       ],
-      "avoid": "marijuana (can potentiate effects)",
+      "avoid": "cannabis (can potentiate effects)",
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -11302,7 +11302,6 @@
         "dot",
         "para-dot"
       ],
-      "avoid": "All other drugs as this is a one of kind.",
       "categories": [
         "psychedelic",
         "empathogen",
@@ -11312,7 +11311,7 @@
       "dose": "Oral Light: 2-4mg Common: 4-6mg Strong: 6-12mg.",
       "duration": "5-10 hours.",
       "onset": "30-90 minutes.",
-      "summary": "The first sulphur-containing Phenethylamine to have been evaluated for CNS activity for Stimulant or Psychedelic purposes."
+      "summary": "The first sulphur-containing Phenethylamine to have been evaluated for CNS activity for stimulant or psychedelic purposes."
     }
   },
   "aleph-2": {
@@ -11373,7 +11372,7 @@
       "duration": "6-18 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "40-120 minutes",
-      "summary": "A very rare Phenethylamine, also known as DOT-2, it is the DOx analogue of 2C-T-2. Very little human use recorded. Described as being quite long and highly visual. Likely to be potent, with a reported threshold dose of 3mg."
+      "summary": "A very rare Phenethylamine, also known as DOT-2, it is the DOx analogue of 2C-T-2. There is very little human use reported. Described as being quite long and highly visual. The drug is suspected to be potent, with a reported threshold dose of 3mg."
     }
   },
   "allobarbital": {
@@ -18565,7 +18564,7 @@
       "aliases": [
         "stp"
       ],
-      "avoid": "marijuana (Can potentiate effects)",
+      "avoid": "cannabis (Can potentiate effects)",
       "categories": [
         "psychedelic",
         "stimulant",
@@ -24186,7 +24185,7 @@
         "cid",
         "lucy"
       ],
-      "avoid": "marijuana (Can potentiate effects)",
+      "avoid": "cannabis (Can potentiate effects)",
       "categories": [
         "psychedelic",
         "common"
