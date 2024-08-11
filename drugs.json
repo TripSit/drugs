@@ -2829,7 +2829,7 @@
       "habit-forming",
       "tentative"
     ],
-    "dose_note": " NOTE: These doses are tentative and need further research.",
+    "dose_note": " NOTE: These doses are tentative and it is recommended to do further research.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "Insufflated": "3-6",
@@ -6252,7 +6252,7 @@
         "research-chemical",
         "habit-forming"
       ],
-      "dose": "Oral Threshold: 25-50mg Light: 50-100mg Common: 100-150mg Strong: 150mg+ | NOTE: These doses are tentative and may need further research.",
+      "dose": "Oral Threshold: 25-50mg Light: 50-100mg Common: 100-150mg Strong: 150mg+ | NOTE: These doses are tentative and it is recommended to do further research.",
       "duration": "8-15 hours.",
       "onset": "45-90 minutes.",
       "summary": "An arylcyclohexamine dissociative anaesthetic related to PCP. First discovered in the 1960s by Parke-Davis, it was introduced to the RC market in 2008. There are reports of it being less potent than PCP. There is said to be an increase in usage due to the limited availability of other dissociatives."
@@ -7695,7 +7695,7 @@
       "psychedelic",
       "research-chemical"
     ],
-    "dose_note": " NOTE: These doses are tentative and may need further research.",
+    "dose_note": " NOTE: These doses are tentative and it is recommended to do further research.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-2"
@@ -7747,7 +7747,7 @@
         "psychedelic",
         "research-chemical"
       ],
-      "dose": "Oral Light: 3mg Common: 3-5mg Strong: 5-10mg+ | NOTE: These doses are tentative and may need further research.",
+      "dose": "Oral Light: 3mg Common: 3-5mg Strong: 5-10mg+ | NOTE: These doses are tentative and it is recommended to do further research.",
       "duration": "2-5 hours",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "30-60 minutes.",
@@ -7763,7 +7763,7 @@
       "research-chemical",
       "tentative"
     ],
-    "dose_note": " NOTE: These doses are tentative and may need further research.",
+    "dose_note": " NOTE: These doses are tentative and it is recommended to do further research.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-12"
@@ -12717,7 +12717,7 @@
       "dose": "Oral Light: 10-20mg Common: 20-50 Strong: 50-75 Heavy: 75-125mg | NOTE: Past 125mg's you may run into the issue of blacking out.",
       "duration": "3-6 hours.",
       "onset": "15-45 minutes.",
-      "summary": "Also known as Lioresal, Baclofen is a GABAb receptor agonist and central nervous system depressant used to treat spasticity, and holds promise as a treatment for alcoholism. It exhibits mild intoxicating effects similar to phenibut or pregabalin."
+      "summary": "Also known as Lioresal, Baclofen is a GABAb receptor agonist and central nervous system depressant used to treat spasticity, and holds promise as a treatment for alcoholism. It exhibits mild intoxicating effects similar to phenibut or Pregabalin."
     },
     "sources": {
       "_general": [
@@ -12769,7 +12769,7 @@
       "depressant",
       "habit-forming"
     ],
-    "dose_note": " NOTE: Liver damage has been reported a fair amount, so get your livers checked out regularly if using this substance over a prolonged amount of time.",
+    "dose_note": " NOTE: Liver damage has been reported by users. If you are using this substance for a prolonged period of time it is recommended to get testing done on your liver.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-8"
@@ -12803,10 +12803,10 @@
         "depressant",
         "habit-forming"
       ],
-      "dose": "Light: 15-30mg Common: 30-50mg Strong: 50-75mg+ | NOTE: Liver damage has been reported a fair amount, so get your livers checked out regularly if using this substance over a prolonged amount of time.",
+      "dose": "Light: 15-30mg Common: 30-50mg Strong: 50-75mg+ | NOTE: Liver damage has been reported by users. If you are using this substance for a prolonged period of time it is recommended to get testing done on your liver.",
       "duration": "3-6 hours.",
       "onset": "15-45 minutes.",
-      "summary": "Thienodiazepine that is an effective anxiolyric. Liver damage among other nasty things have been reported."
+      "summary": "Thienodiazepine that is an effective anxiolyric. Liver damage among other concerns have been reported."
     },
     "sources": {
       "_general": [
@@ -12830,7 +12830,7 @@
         "research-chemical",
         "tentative"
       ],
-      "summary": "An analogue of Fentanyl that is not found in literature."
+      "summary": "An analogue of Fentanyl."
     }
   },
   "benzydamine": {
@@ -12924,7 +12924,7 @@
       "research-chemical",
       "common"
     ],
-    "dose_note": " NOTE: These doses are tentative and may need further research.",
+    "dose_note": " NOTE: These doses are tentative and it is recommended to do further research.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-12"
@@ -12989,7 +12989,7 @@
       "duration": "8-12 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "20-70 minutes.",
-      "summary": "A long-acting psychedelic and empathogen with unpredictable effectiveness. Roughly double the duration of 2c-b. Inactivated by high pH."
+      "summary": "A long-acting psychedelic and empathogen with unpredictable effectiveness. Roughly double the duration of 2C-B. Inactivated by high pH."
     }
   },
   "bk-2c-i": {
@@ -13036,8 +13036,8 @@
       "duration": "4-6 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "20-40 minutes.",
-      "summary": "Novel psychedelic that is the Beta-Ketone derivative of 2C-I.",
-      "warning": "If you have thyroid problems, do not take this substance."
+      "summary": "Novel psychedelic that is the beta-ketone derivative of 2C-I.",
+      "warning": "It is not recommended to do this substance if you have thyroid issues."
     }
   },
   "bk-ivp": {
@@ -13069,7 +13069,7 @@
       "dose": "Light: 60-100mg Common: 100-150mg Strong: 150-200mg+",
       "duration": "1-3 hours.",
       "onset": "Rapid.",
-      "summary": "The beta-ketone analogue of IVP, this is a rare RC stimulant in the same family as MDPV. Little is known but effects are probably similar to MDPV or more generally amphetamine or high dose caffeine."
+      "summary": "The beta-ketone analogue of IVP, this is a rare RC stimulant in the same family as MDPV. Little is known but it is suspected that the effects are similar to MDPV, amphetamine, or high dose caffeine."
     }
   },
   "bod": {
@@ -13133,7 +13133,7 @@
       "duration": "8-14~ hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "60-120 minutes",
-      "summary": "Beta-methoxy analogue of 2C-D, seems to be more \"mild\" than the likes of 2C-X and DOX compounds. Is 50/50 whether the body load is barely there, or overpowering the experience."
+      "summary": "Beta-methoxy analogue of 2C-D, seems to be more \"mild\" than the likes of 2C-x and DOx compounds. There are reports at times of the body load being mild, and sometimes overpowering the experience."
     }
   },
   "bromadol": {
@@ -13249,7 +13249,7 @@
       "habit-forming",
       "depressant"
     ],
-    "dose_note": " NOTE: 6mg of Bromazepam is approximately equivelant to 10mg Diazepam",
+    "dose_note": " NOTE: 6mg of Bromazepam is approximately equivalent to 10mg Diazepam",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-16"
@@ -13294,7 +13294,7 @@
         "habit-forming",
         "depressant"
       ],
-      "dose": "Oral Light: 2.5-5mg Common: 5-10mg Heavy: 10-15mg+ | NOTE: 6mg of Bromazepam is approximately equivelant to 10mg Diazepam",
+      "dose": "Oral Light: 2.5-5mg Common: 5-10mg Heavy: 10-15mg+ | NOTE: 6mg of Bromazepam is approximately equivalent to 10mg Diazepam",
       "dose_to_diazepam": "Bromazepam - 5-6mg's ~=10mg Diazepam.",
       "duration": "4-8 hours.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia.",
@@ -13419,7 +13419,7 @@
       "duration": "16-30 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "Up to 6 hours.",
-      "summary": "A psychedelic phenethylamine and benzofuran that is very potent and has a long duration. Was briefly sold as \"2C-B-FLY\" in 2005/6 and has lead to multiple deaths."
+      "summary": "A psychedelic phenethylamine and benzofuran that is very potent and has a long duration. Was briefly sold as \"2C-B-FLY\" in 2005/6 and has led to multiple deaths."
     }
   },
   "brotizolam": {
@@ -16017,7 +16017,7 @@
       "habit-forming",
       "tentative"
     ],
-    "dose_note": " NOTE: These doses are tentative and may need further research.",
+    "dose_note": " NOTE: These doses are tentative and it is recommended to do further research.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-6"
@@ -16050,7 +16050,7 @@
         "habit-forming",
         "tentative"
       ],
-      "dose": "Light: 15-20mg Common: 20-35mg Strong: 35-50mg+ | NOTE: These doses are tentative and may need further research.",
+      "dose": "Light: 15-20mg Common: 20-35mg Strong: 35-50mg+ | NOTE: These doses are tentative and it is recommended to do further research.",
       "duration": "2-5 hours.",
       "onset": "20-30 minutes",
       "summary": "An NDRI, which is reported as being rather lackluster."
@@ -17338,7 +17338,7 @@
       "tentative",
       "habit-forming"
     ],
-    "dose_note": " NOTE: These doses are tentative and may need further research.",
+    "dose_note": " NOTE: These doses are tentative and it is recommended to do further research.",
     "formatted_dose": {
       "Oral": {
         "Common": "40-60mg",
@@ -17363,7 +17363,7 @@
         "tentative",
         "habit-forming"
       ],
-      "dose": "Threshold: 12-15mg Low: 30-40mg Common: 40-60mg Heavy: 60-80mg | NOTE: These doses are tentative and may need further research.",
+      "dose": "Threshold: 12-15mg Low: 30-40mg Common: 40-60mg Heavy: 60-80mg | NOTE: These doses are tentative and it is recommended to do further research.",
       "duration": "4-6 hours",
       "summary": "A triple monoamine reuptake inhibitor developed by Hoffman-LaRoche in the 1970s as an antidepressant but discontinued, probably due to high abuse potential. Has not become popular as a recreational drug at this time. Acts as an SNDRI, mostly inhibits dopamine and noradrenaline."
     }
@@ -18350,7 +18350,7 @@
       "research-chemical",
       "tentative"
     ],
-    "dose_note": " NOTE: These doses are tentative and may need further research.",
+    "dose_note": " NOTE: These doses are tentative and it is recommended to do further research.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "12-72"
@@ -18405,7 +18405,7 @@
         "research-chemical",
         "tentative"
       ],
-      "dose": "Oral Threshold: 1mg Light: 2-4mg Common: 4-6mg Strong: 6-10mg | NOTE: These doses are tentative and may need further research.",
+      "dose": "Oral Threshold: 1mg Light: 2-4mg Common: 4-6mg Strong: 6-10mg | NOTE: These doses are tentative and it is recommended to do further research.",
       "duration": "12-30 hours (Dependant on dose)",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "1-3 hours.",
@@ -18587,7 +18587,7 @@
       "research-chemical",
       "tentative"
     ],
-    "dose_note": " NOTE: These doses are tentative and may need further research.",
+    "dose_note": " NOTE: These doses are tentative and it is recommended to do further research.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "12-24"
@@ -18639,7 +18639,7 @@
         "research-chemical",
         "tentative"
       ],
-      "dose": "Threshold: 2mg Light: 3mg Common: 3-5mg Heavy: 5mg+ | NOTE: These doses are tentative and may need further research.",
+      "dose": "Threshold: 2mg Light: 3mg Common: 3-5mg Heavy: 5mg+ | NOTE: These doses are tentative and it is recommended to do further research.",
       "duration": "14-22 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "30-120 minutes.",
@@ -20254,7 +20254,7 @@
       "habit-forming",
       "depressant"
     ],
-    "dose_note": " NOTE: These doses are tentative and may need further research.",
+    "dose_note": " NOTE: These doses are tentative and it is recommended to do further research.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "6-24"
@@ -20301,7 +20301,7 @@
         "habit-forming",
         "depressant"
       ],
-      "dose": "Oral Threshold: 80ug Light: 100-200ug Common: 200-400ug Strong: 400-600ug+ | NOTE: These doses are tentative and may need further research.",
+      "dose": "Oral Threshold: 80ug Light: 100-200ug Common: 200-400ug Strong: 400-600ug+ | NOTE: These doses are tentative and it is recommended to do further research.",
       "dose_to_diazepam": "Flubromazolam - 0.25mg ~=10mg Diazepam.",
       "duration": "6-12 hours",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
@@ -21543,7 +21543,7 @@
       "tentative",
       "habit-forming"
     ],
-    "dose_note": " NOTE: These doses are tentative and may need further research.",
+    "dose_note": " NOTE: These doses are tentative and it is recommended to do further research.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-12"
@@ -21575,7 +21575,7 @@
         "tentative",
         "habit-forming"
       ],
-      "dose": "Threshold: 30-50mg Light: 50-70mg Common: 70-100mg Strong: 100-125mg+ | NOTE: These doses are tentative and may need further research.",
+      "dose": "Threshold: 30-50mg Light: 50-70mg Common: 70-100mg Strong: 100-125mg+ | NOTE: These doses are tentative and it is recommended to do further research.",
       "duration": "1-4 hours.",
       "onset": "15-30 minutes.",
       "summary": "A rare mephedrone analogue also known as MACP, a cathinone stimulant with similar effects to pentedrone."
