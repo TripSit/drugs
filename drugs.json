@@ -13479,7 +13479,7 @@
       "duration": "Oral: 4-8 hours. Insufflated: 2-6 hours.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia.",
       "onset": "Oral: 10-30 minutes. Insufflated: 2-10 minutes.",
-      "summary": "Benzodiazepine analogue which is sedating, hypnotic and anxiolytic. It is available as prescription medicine in much of Europe, and is an extremely potent drug active at only 80ug. May cause amnesia and lowered inhibitions in overdose. Danger of respiratory depression when combined with other depressants. Short half life."
+      "summary": "Benzodiazepine analogue which is sedating, hypnotic and anxiolytic. It is available as prescription medicine in much of Europe, and is an extremely potent drug active at only 80ug. May cause amnesia and lowered inhibitions in overdose. Danger of respiratory depression when combined with other depressants. Short half-life."
     },
     "sources": {
       "_general": [
@@ -13525,7 +13525,7 @@
       "dose": "Oral Light: 10-30mg Common: 30-50mg Heavy: 50-80mg",
       "duration": "Oral: 2-3 hours | Insufflated: 1-2 hours",
       "onset": "10-20 minutes",
-      "summary": "A cathinone stimulant first discovered in 1928, has gained some modest popularity as a mephedrone replacement. Said to be to be around 2-3x more potent than methcathinone."
+      "summary": "A cathinone stimulant first discovered in 1928, has gained some modest popularity as a mephedrone replacement. It is reported to be to be around 2-3x more potent than methcathinone."
     }
   },
   "buprenorphine": {
@@ -13539,7 +13539,7 @@
       "habit-forming",
       "depressant"
     ],
-    "dose_note": " NOTE: The ceiling dose for Buprenorphine is usually between 16mg and 32mg, anything above this will not produce any increase in effects. Also, after dosing 4mg your opioid receptors are completely covered.",
+    "dose_note": " NOTE: The ceiling dose for Buprenorphine is typically between 16mg and 32mg, anything above this will not produce any increase in effects. After dosing 4mg your opioid receptors are completely covered.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-16"
@@ -13723,7 +13723,7 @@
       "tentative",
       "depressant"
     ],
-    "dose_note": " Note: It's a potent drug, be careful.",
+    "dose_note": " Note: It's a potent drug, it is recommended to be cautious with this drug.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-4"
@@ -13759,7 +13759,7 @@
         "tentative",
         "depressant"
       ],
-      "dose": "Oral Light: 400-800ug Common: 800-1500ug Strong: 1.5-3mg || Note: It's a potent drug, be careful.",
+      "dose": "Oral Light: 400-800ug Common: 800-1500ug Strong: 1.5-3mg || Note: It's a potent drug, it is recommended to be cautious with this drug.",
       "duration": "Oral: 3-4 hours. Insufflated: 2-3 hours.",
       "onset": "Oral: 15-30 minutes. Insufflated: 5-10 minutes.",
       "summary": "Potent short-acting opioid and fentanyl analogue. Often dispensed in a nasal spray. This is an highly potent drug - exercise extreme caution. May cause respiratory depression and death in overdose."
@@ -13803,7 +13803,7 @@
       "dose": "Oral Light: 40-70mg Common: 70-100mg Strong: 100-130mg Heavy: 130mg+",
       "duration": "4-6 hours.",
       "onset": "30-45 minutes.",
-      "summary": "A stimulant that was sold as \"legal ecstasy\" in the late 2000s, and was one of the first drugs widely marketed as a \"research chemical.\" It has a much less favourable effect profile and has fallen out of popularity greatly since it was banned in many countries."
+      "summary": "A stimulant that was sold as \"legal ecstasy\" in the late 2000s, and was one of the first drugs widely marketed as a \"research chemical.\" It has a reportdly less favourable effect profile and has fallen out of popularity greatly since it was banned in many countries."
     }
   },
   "c30-nbome": {
