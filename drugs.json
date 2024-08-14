@@ -14666,7 +14666,7 @@
         "ssri"
       ],
       "dose": "20-40mg Once a day.",
-      "summary": "Citalopram is an SSRI that is used to treat depression. It does not lead to a high and causes a wide range of negative psychological and physical effects when people attempt to abuse it and can lead to serotonin syndrome and cause suicidal ideation. Those with bipolar disorder tend to go into a mixed state or manic states when trying SSRI's."
+      "summary": "Citalopram is an SSRI that is used to treat depression. It does not lead to a high and causes a wide range of negative psychological and physical effects when people attempt to abuse it. These include nausea, serotonin syndrome, and suicidal ideation. Those with bipolar disorder tend to go into a mixed state or manic states when trying SSRI's."
     }
   },
   "clobazam": {
@@ -14782,8 +14782,8 @@
       "duration": "5-8 hours. ",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "15-40 minutes. ",
-      "summary": "Structurally related to Thiamine (vitamin B1), but with binding potential at the GABAa site, which causes it to produce effects most like those of a barbiturate: an effective sedative and hypnotic. Originally developed by Hoffman-LaRoche in the 1930s, it has seen use as a treatment for acute alcohol withdrawal.",
-      "warning": "The normal amount in capsules is 192mg's. Treat this more as a barbiturate than a benzodiazepine, as the toxicology for this substance is rather lacking."
+      "summary": "Structurally related to Thiamine (vitamin B1), but with binding potential at the GABAa site. This causes it to produce effects most like those of a barbiturate: an effective sedative and hypnotic. Originally developed by Hoffman-LaRoche in the 1930s, it has seen use as a treatment for acute alcohol withdrawal.",
+      "warning": "The normal amount in capsules is 192mg's. It is recommended to view this drug more as a barbiturate than a benzodiazepine. There is limited information on the drugs toxicology."
     }
   },
   "clonazepam": {
@@ -14846,7 +14846,7 @@
       "duration": "8-12 hours.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "20-45 minutes",
-      "summary": "A medium-length common prescription benzodiazepine, often used to treat panic attacks because of its relatively fast sublingual onset. Primarily anxiolytic, but also possessing of other benzo traits."
+      "summary": "A medium-length common prescription benzodiazepine, often used to treat panic attacks because of its relatively fast sublingual onset. Primarily anxiolytic, but also possessing of other benzodiazepine traits."
     },
     "pweffects": {
       "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
@@ -14937,7 +14937,7 @@
       "duration": "6-10 hours.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "10-30 minutes",
-      "summary": "A long lasting benzodiazepine with heavily hypnotic effects. The safety profile is not well established, and there have been reports that people taking it three days in a row have had a seizure. Most comparable to Triazolam, but with a much longer half-life."
+      "summary": "A long lasting benzodiazepine with heavily hypnotic effects. The safety profile is not well established, there have been reports that people taking it three days in a row have had a seizure. Most comparable to Triazolam, but with a much longer half-life."
     },
     "pweffects": {
       "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
@@ -15002,7 +15002,7 @@
       "dose": "Oral Light: 25-50ug Common: 50-100ug Strong: 100-250ug.",
       "duration": "8-16 hours.",
       "onset": "15-45 minutes.",
-      "summary": "Is a medication that is used to treat high blood pressure, anxiety, withdrawal (Typically from Alcohol, Opioids, Smoking) and many other uses."
+      "summary": "Is a medication that is used to treat high blood pressure, anxiety, withdrawal (typically from alcohol, opioids, smoking) and many other uses."
     },
     "sources": {
       "_general": [
@@ -15156,7 +15156,7 @@
       "duration": "8-12 hours.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "20-80 minutes.",
-      "summary": "Is a prodrug for Desmethyldiazepam which is responsible for most of the therapeutic effects. Has a long half life, with the addition of Desmethyldiazepam as the main metabolite, which makes it much longer."
+      "summary": "Is a prodrug for desmethyldiazepam which is responsible for most of the therapeutic effects. Has a long half life, with the addition of desmethyldiazepam as the main metabolite, which makes it much longer."
     },
     "sources": {
       "_general": [
@@ -15257,7 +15257,7 @@
       "dose": "Light: 1.5-3mg Common: 3-6mg Strong: 6-12mg+",
       "duration": "7-12 hours.",
       "onset": "15-45 minutes.",
-      "summary": "Benzodiazepine derivate that is metabolised into Delorazepam. Which is where most of its effects come from."
+      "summary": "Benzodiazepine derivate that is metabolised into delorazepam. Which is where most of its effects come from."
     }
   },
   "cocaine": {
@@ -15524,7 +15524,7 @@
       "depressant",
       "common"
     ],
-    "dose_note": " NOTE: The ceiling effect differs from person to person, but it seems to fall between 400-600mg",
+    "dose_note": " NOTE: The ceiling effect differs from person to person, but reports indicate it falls between 400-600mg",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-12"
