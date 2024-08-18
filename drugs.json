@@ -15574,7 +15574,7 @@
       "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
       "marquis": "Very dark purple",
       "onset": "30-45 minutes",
-      "summary": "Codeine is a weaker opioid used to treat mild to moderate pain and to relieve cough. In many countries it is available over the counter in combination with paracetamol, which can easily be extracted to retrieve near-pure codeine. For this reason, it is used widely as a recreational opioid. It is metabolised into morphine in the body at a rate of 5% mg for mg.",
+      "summary": "Codeine is a weaker opioid used to treat mild to moderate pain and to treat coughs. In many countries it is available over the counter in combination with acetaminophen, which can easily be extracted to retrieve near-pure codeine. For this reason, it is used widely as a recreational opioid. It is metabolised into morphine in the body at a rate of 5% mg for mg.",
       "warning": "You must only use this drug orally due to the risk of severe immune system responses. It needs to pass through the liver to be activated anyway so IV, nasal, plugging etc do not offer an advantage"
     },
     "pweffects": {
@@ -15648,7 +15648,7 @@
       "dose": "Oral Light: 3-5mg Common: 5-10mg Strong: 10-20mg+ | Sublingual/Insufflated Light: 2-5mg Common: 5-10mg Strong: 10mg+",
       "duration": "3-6 hours depending on stomach contents/ROA/ect.",
       "onset": "Oral: 15-30 minutes. | Sublingual: 5-10 minutes. | Intranasal: 1-5 minutes",
-      "summary": "A nootropic drug of the racetam class, originally developed to treat Alzheimer's disease, it is currently being investigated as a treatment for major depressive disorder and generalised anxiety disorder. May be a modulator of the AMPA receptor. Limited recreational value."
+      "summary": "A nootropic drug of the racetam class, originally developed to treat Alzheimer's disease, it is currently being investigated as a treatment for major depressive disorder and generalised anxiety disorder. The drug has some indications that it may be a modulator of the AMPA receptor. Reports indicate that there is limited recreational value."
     },
     "pweffects": {
       "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
@@ -15735,7 +15735,7 @@
       "dose": "Light: 20-40mg Common: 40-75mg Strong: 75-150mg.",
       "duration": "6-12 hours.",
       "onset": "30-45 minutes.",
-      "summary": "Bisfluoro analogue Modafinil. Has been sold online as a research chemical. Was patented in 2013. Is slightly more potent than Armodafinil."
+      "summary": "Bisfluoro analogue Modafinil. Sold sometimes online as a research chemical. The drug was patented in 2013. It is slightly more potent than Armodafinil."
     }
   },
   "crl-40-941": {
@@ -15814,7 +15814,7 @@
       "urinary retention",
       "blurred vision",
       "dermatitis",
-      "and gastrointestinal disturbances"
+      "gastrointestinal disturbances"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -15832,8 +15832,8 @@
       "duration": "Oral 4-8 hours.",
       "onset": "10-30 minutes.",
       "pharmacodynamics": "H1 receptor inverse agonist; mACh receptor antagonist",
-      "side-effects": "drowsiness, dry mouth, headache, psychomotor impairment, urinary retention, blurred vision, dermatitis, and gastrointestinal disturbances",
-      "summary": "First generation antihistamine and anticholinergic drug used to combat nausea and vomiting. Causes drowsiness. Like most antihistamines in high doses it induces delirium and vivid realistic hallucinations. Probably uncomfortable and not enjoyable."
+      "side-effects": "drowsiness, dry mouth, headache, psychomotor impairment, urinary retention, blurred vision, dermatitis, gastrointestinal disturbances",
+      "summary": "First generation antihistamine and anticholinergic drug used to combat nausea and vomiting. Causes drowsiness. Similar to most other antihistamines, it typically induces delirium and vivid realistic hallucinations at high dosages. The drug is reported to be uncomfortable and not enjoyable at these dosages."
     }
   },
   "cyclo-methiodrone": {
@@ -15926,7 +15926,7 @@
       "dose": "Light: 2-5mg Common: 5-10mg Strong: 10-15mg Heavy: 15mg+",
       "duration": "6-12 hours",
       "onset": "15-45 minutes. ",
-      "summary": "Muscle relaxant and CNS depressant used to relieve skeletal muscle spasms and associated pain in acute musculoskeletal conditions. Sometimes prescribed off-label for treatment of fibromyalgia or as a sleep aid. Has little recreational value alone, but may potentiate some opioids. May cause drowsiness, dry mouth and dizziness.",
+      "summary": "Muscle relaxant and CNS depressant used to relieve skeletal muscle spasms and associated pain in acute musculoskeletal conditions. Sometimes prescribed off-label for treatment of fibromyalgia or as a sleep aid. The drug is reported to have little recreational value alone, but may potentiate some opioids. May cause drowsiness, dry mouth and dizziness.",
       "warning": "Do not mix with other CNS depressants, or within two weeks of a MAOI. "
     }
   },
@@ -15956,7 +15956,7 @@
         "depressant",
         "habit-forming"
       ],
-      "summary": "An analogue of fentanyl that is unknown in literature, seems to be less potent than its former being Acetyl-Fentanyl. Yet reports have yet to surface. Be careful."
+      "summary": "An analogue of fentanyl that is unknown in scientific literature. The drug is suspected to be less potent than its former being Acetyl-Fentanyl. There is limited information on this drug, caution is recommended."
     }
   },
   "cyclopropylmescaline": {
@@ -16004,8 +16004,8 @@
       "dose": "Light: 50-60mg Common: 60-70mg: Strong: 70-80mg",
       "duration": "12-18 hours",
       "onset": "10-30 minutes",
-      "summary": "Cyclopropylmescaline, AKA CPM, is a psychedelic/hallucinogenic that was produced by Alexander Shulgin. It causes visual and auditory hallucinations and lasts quite a long time. Little is known about it so caution must be used when trying out this substance.",
-      "warning": "Caution: not much is known about how CPM affects the body, be cautious with doses and how you use it."
+      "summary": "Cyclopropylmescaline, AKA CPM, is a psychedelic/hallucinogenic that was produced by Alexander Shulgin. It causes visual and auditory hallucinations and is reported to have a long duration. There is limited information on this drug, caution is advised",
+      "warning": "Caution: There is limited information on how CPM interacts with the body. Caution with usage/dosage is advised."
     }
   },
   "d2pm": {
@@ -16053,7 +16053,7 @@
       "dose": "Light: 15-20mg Common: 20-35mg Strong: 35-50mg+ | NOTE: These doses are tentative and it is recommended to do further research.",
       "duration": "2-5 hours.",
       "onset": "20-30 minutes",
-      "summary": "An NDRI, which is reported as being rather lackluster."
+      "summary": "An NDRI, which is reported as being rather lackluster in subjective effects."
     }
   },
   "dalt": {
@@ -16168,8 +16168,8 @@
       "duration": "12-72+ hours.",
       "effects": "surreal interactions with world, hallucinations, dry mouth, nausea, fear, anxiety, amnesia, difficulty breathing, confusion, delirium",
       "onset": "60-120 minutes",
-      "summary": "A family of plants containing various Tropane alkaloids. Produces long-lasting deliriant effects including very realistic and often unpleasant hallucinations along with short-term amnesia. Datura plants are toxic to humans, and potency varies greatly from plant-to-plant, making the drug extremely difficult to dose safely. Not typically regarded as recreational.",
-      "warning": "Datura can be incredibly dangerous, dosing can be hard to determine and caution should be used. In general this drug should be avoided."
+      "summary": "A family of plants containing various Tropane alkaloids. Produces long-lasting deliriant effects including very realistic and often unpleasant hallucinations along with short-term amnesia. Datura plants are toxic to humans, and potency varies greatly from plant-to-plant, making the drug extremely difficult to dose safely. The drug typically in reports is not regarded as recreational.",
+      "warning": "Datura can be incredibly dangerous, dosing can be hard to determine and extreme caution should be used."
     },
     "pweffects": {
       "Abnormal heartbeat": "https://psychonautwiki.org/wiki/Abnormal_heartbeat",
@@ -16275,7 +16275,7 @@
       "dose": "Threshold 25-50mg Light: 50-100mg Common: 100-150mg Strong: 150-200mg+",
       "duration": "5-8 hours.",
       "onset": "30-60 minutes.",
-      "summary": "Nootropic of the benzhydryl class. Closely related to Adrafinil and Modafinil. Was branded as \"Modafiendz\" through some research chemical vendors."
+      "summary": "Nootropic of the benzhydryl class. Closely related to Adrafinil and Modafinil. Branded as \"Modafiendz\" by some research chemical vendors."
     }
   },
   "delorazepam": {
@@ -16333,7 +16333,7 @@
       "duration": "12-16 hours",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "30-60 minutes.",
-      "summary": "Also known as chlordesmethyldiazepam, this uncommon benzodiazepine compound is primarily used for treatment of anxiety and alcohol withdrawal, due to its long half-life (60-140 hours). It is also the active metabolite of diclazepam and cloxazolam."
+      "summary": "THe drug is also known as chlordesmethyldiazepam. This uncommon benzodiazepine compound is primarily used for treatment of anxiety disorders and alcohol withdrawal, due to its long half-life (60-140 hours). It is also the active metabolite of diclazepam and cloxazolam."
     }
   },
   "demerol": {
@@ -16394,7 +16394,7 @@
       "duration": "4-6 hours.",
       "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
       "onset": "30-60 minutes",
-      "summary": "A phenylpiperidine opioid first synthesised by Otto Eisleb in 1939, better known by the names meperidine and pethidine. An analgesic, once widely prescribed it has since declined in usage due to the discovery of a toxic metabolite - norpethidine. Also reacts dangerously with many drugs."
+      "summary": "A phenylpiperidine opioid first synthesised by Otto Eisleb in 1939, better known by the names meperidine and pethidine. An analgesic once widely prescribed, it has since declined in usage due to the discovery of a toxic metabolite - norpethidine. The drug additionally reacts dangerously with many drugs."
     }
   },
   "deschloroetizolam": {
@@ -16530,7 +16530,7 @@
       "dose": "Light: 5-15mg Common: 15-25mg Strong: 25-40mg Heavy: 40+mg.",
       "duration": "3-6 hours",
       "onset": "Insufflated: 2-20 minutes.",
-      "summary": "A novel analogue of Ketamine which is much more potent and has a longer duration."
+      "summary": "A novel analogue of ketamine which is much more potent and has a longer duration."
     },
     "pweffects": {
       "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
@@ -16707,7 +16707,7 @@
       "duration": "2-4 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "Vapourized: 1-5 minutes. | Oral: 30-90 minutes.",
-      "summary": "A surprisingly uncommon analogue of DMT with similar effects and reported oral activity without the aid of an MAOI."
+      "summary": "A uncommon analogue of DMT with similar effects and reported oral activity without the aid of an MAOI."
     }
   },
   "dexedrine": {
@@ -16756,7 +16756,7 @@
       "dose": "Light: 5-10mg Common: 10-20mg Strong: 20-30mg.",
       "duration": "3-6 hours.",
       "onset": "20-60 minutes.",
-      "summary": "A highly abusable stimulant. It is rarely prescribed in the US to treat ADHD, and is very similar in effects to Adderall, as its main ingredient is 75% of what adderall is."
+      "summary": "A highly abusable stimulant. It is rarely prescribed in the US to treat ADHD, and is very similar in effects to Adderall, as its main ingredient is 75% of what Adderall is."
     },
     "sources": {
       "_general": [
@@ -16771,7 +16771,8 @@
       "syrup",
       "robotussin",
       "dex",
-      "robitussin"
+      "robitussin",
+      "DM"
     ],
     "categories": [
       "dissociative",
@@ -16988,7 +16989,7 @@
         "status": "Dangerous"
       }
     },
-    "dose_note": " NOTE: See http://dxm.tripsit.me for mg/lb doses, among other things. Deaths have been reported at 25mg/kg",
+    "dose_note": " NOTE: See http://dxm.tripsit.me for mg/weight doses, among other things. Deaths have been reported at 25mg/kg",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-12"
@@ -17022,7 +17023,8 @@
         "syrup",
         "robotussin",
         "dex",
-        "robitussin"
+        "robitussin",
+        "DM"
       ],
       "calculator": "http://dxm.tripsit.me",
       "categories": [
@@ -17034,7 +17036,7 @@
       "dose": "Oral First-Plateau: 1.5-2.5mg/kg Second-Plateau: 2.5-7.5mg/kg Third-Plateau: 7.5-15mg/kg Fourth: 15-20mg/kg | NOTE: See http://dxm.tripsit.me for mg/lb doses, among other things. Deaths have been reported at 25mg/kg",
       "duration": "6-8 hours",
       "onset": "20-60 minutes",
-      "summary": "Commonly found in certain over the counter cough medicines. Has dissociative effects similar to ketamine or MXE, though also shares properties with opioids and alcohol. Make sure DXM is the only active ingredient in the preparation."
+      "summary": "Commonly found in certain over the counter cough medicines. Has dissociative effects similar to ketamine or MXE, though also shares properties with opioids and alcohol. It is recommended to dose DXM through direct ingestion of the drug, without other active ingrediants such as guaifenesin or doxylamine."
     },
     "pweffects": {
       "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
