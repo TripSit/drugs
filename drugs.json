@@ -15561,7 +15561,7 @@
     "pretty_name": "Codeine",
     "properties": {
       "after-effects": "1-12 hours.",
-      "avoid": "People seeking codeine experiences from medications that contain acetaminophen (paracetamol) may be putting themselves at risk for acetaminophen-related complications such as liver damage.",
+      "avoid": "Dosing other medications/drugs that contain acetaminophen or consuming too high dosages of acetaminophen that is often found mixed with codeine. Acetaminophen is also known as Tylenol, Panadol, and paracetamol.",
       "bioavailability": "Oral 90% | Rectal 90%",
       "categories": [
         "opioid",
@@ -15569,7 +15569,7 @@
         "depressant",
         "common"
       ],
-      "dose": "Oral Light: 50-100mg Common: 100-150mg Heavy: 150-200mg | NOTE: The ceiling effect differs from person to person, but it seems to fall between 400-600mg",
+      "dose": "Oral Light: 50-100mg Common: 100-150mg Heavy: 150-200mg | NOTE: The ceiling effect differs from person to person, but reports indicate it generally falls between 400-600mg",
       "duration": "3-6 hours",
       "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
       "marquis": "Very dark purple",
