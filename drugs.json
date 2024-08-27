@@ -17390,7 +17390,7 @@
     "name": "diethyl-ether",
     "pretty_name": "Diethyl ether",
     "properties": {
-      "after-effects": "1-6 hours | NOTE: The smell will linger for days afterwards.",
+      "after-effects": "1-6 hours | NOTE: The smell from the Diethyl ether will linger on the individual for days afterwards.",
       "aliases": [
         "ether"
       ],
@@ -17403,7 +17403,7 @@
       "duration": "Short.",
       "obtain": "Air.",
       "onset": "Rapid",
-      "summary": "An industrial solvent which is sometimes used recreationally as a dissociative anaesthetic.It has a short length of action. Effects are similar to alcohol. Leaves one's breath tasting and smelling strongly of ether for much longer than the experience lasts."
+      "summary": "An industrial solvent which is sometimes used recreationally as a dissociative anaesthetic. It has a short length of action. Effects are similar to alcohol. Leaves one's breath tasting and smelling strongly of Diethyl ether for much longer than the experience lasts."
     }
   },
   "dihydrocodeine": {
@@ -17415,7 +17415,7 @@
       "habit-forming",
       "depressant"
     ],
-    "dose_note": " NOTE: Cold Water Extract the DHC out if the pills are in combination with other substances",
+    "dose_note": " NOTE: It is recommended to cold water extract the dihydrocodeine out if the pills are in combination with other substances",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-8"
@@ -17458,7 +17458,7 @@
         "habit-forming",
         "depressant"
       ],
-      "dose": "Light: 50-100mg Common: 100-150mg Heavy: 150-200mg+ | NOTE: Cold Water Extract the DHC out if the pills are in combination with other substances",
+      "dose": "Light: 50-100mg Common: 100-150mg Heavy: 150-200mg+ | NOTE: It is recommended to cold water extract the dihydrocodeine out if the pills are in combination with other substances",
       "duration": "3-4 hours.",
       "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
       "onset": "30-45 minutes.",
@@ -17519,7 +17519,7 @@
       "dose": "Light: 25-50mg Common: 50-75mg Strong: 75-125mg.",
       "duration": "4-6 hours.",
       "onset": "10-40 minutes.",
-      "summary": "Related in structure to 5-MeO-DMT, yet much less potent. Described as feeling somewhat similar to mushrooms, with some empathogenic effects."
+      "summary": "Related in structure to 5-MeO-DMT, yet much less potent. Described as feeling somewhat similar to psilocybin mushrooms, with some additional empathogenic effects."
     }
   },
   "dimethylone": {
@@ -17618,7 +17618,7 @@
         "dph",
         "benadryl"
       ],
-      "avoid": "Many oral diphenhydramine preparations contain analgesics such as acetaminophen/paracetamol or aspirin, which can be toxic to the liver in high doses.",
+      "avoid": "Many oral diphenhydramine preparations contain analgesics such as acetaminophen or aspirin, which can be toxic to the liver in high doses.",
       "categories": [
         "depressant",
         "deliriant",
