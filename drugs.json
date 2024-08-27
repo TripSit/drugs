@@ -17148,7 +17148,7 @@
       "dose": "Light: 30-65mg Common: 65-100mg Strong: 100-200mg NOTE: It was taken off the market in some countries due to issues relating to the Kidney, Liver, Heart and Respiratory Disorders.",
       "duration": "1-3 hours.",
       "onset": "20-30 minutes.",
-      "summary": "An opioid analgesic that is an optical isomer of levopropoxyphene. Used to treat mild pain and often used for its antitussive properties. It has been taken off the market in Europe and US due to concerns of health issues relating to the Kidney, Liver, Heart and Respiratory Disorders. Just a bit stronger than Tramadol."
+      "summary": "An opioid analgesic that is an optical isomer of levopropoxyphene. Used to treat mild pain and often used for its antitussive properties. It has been taken off the market in Europe and theUS due to concerns of health issues relating to the Kidney, Liver, Heart and Respiratory Disorders. Just a bit stronger than Tramadol."
     }
   },
   "diazepam": {
@@ -17258,7 +17258,7 @@
       "categories": [
         "inactive"
       ],
-      "summary": "Inactive."
+      "summary": "Reports indicate the drug is inactive"
     }
   },
   "diclazepam": {
@@ -17311,7 +17311,7 @@
       "duration": "8-12 hours (~42 hour half-life)",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "15-90 minutes.",
-      "summary": "A benzodiazepine drug and analogue of diazepam first synthesised by Leo Sternbach at Hoffman-LaRoche in 1960, it has become prominent as an RC benzodiazepine on the grey market in recent years, particularly with the decline in etizolam availability. A sedative and hypnotic it is of intermediate to long half life with similar effects to diazepam, though 10x more potent."
+      "summary": "A benzodiazepine drug and analogue of diazepam first synthesised by Leo Sternbach at Hoffman-LaRoche in 1960. It has become prominent as an RC benzodiazepine on the grey market in recent years, particularly with the decline in etizolam availability. A sedative and hypnotic it is of intermediate to long half-life with similar effects to diazepam, though it is 10x more potent."
     },
     "pweffects": {
       "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
@@ -17367,7 +17367,7 @@
       ],
       "dose": "Threshold: 12-15mg Low: 30-40mg Common: 40-60mg Heavy: 60-80mg | NOTE: These doses are tentative and it is recommended to do further research.",
       "duration": "4-6 hours",
-      "summary": "A triple monoamine reuptake inhibitor developed by Hoffman-LaRoche in the 1970s as an antidepressant but discontinued, probably due to high abuse potential. Has not become popular as a recreational drug at this time. Acts as an SNDRI, mostly inhibits dopamine and noradrenaline."
+      "summary": "A triple monoamine reuptake inhibitor developed by Hoffman-LaRoche in the 1970s as an antidepressant but discontinued. It is suspected that it was discontinued due to high abuse potential. Acts as an SNDRI, the drug mainly inhibits dopamine and noradrenaline."
     }
   },
   "diethyl-ether": {
@@ -17403,7 +17403,7 @@
       "duration": "Short.",
       "obtain": "Air.",
       "onset": "Rapid",
-      "summary": "An industrial solvent which is sometimes used recreationally as a dissociative anaesthetic, with a short length of action. Effects are similar to alcohol. Leaves one's breath tasting and smelling strongly of ether for much longer than the experience lasts."
+      "summary": "An industrial solvent which is sometimes used recreationally as a dissociative anaesthetic.It has a short length of action. Effects are similar to alcohol. Leaves one's breath tasting and smelling strongly of ether for much longer than the experience lasts."
     }
   },
   "dihydrocodeine": {
