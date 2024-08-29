@@ -17697,7 +17697,7 @@
       "habit-forming",
       "tentative"
     ],
-    "dose_note": " NOTE: Diphenidine is an extremely new substance with very little record of human use. Start low, work your way up.",
+    "dose_note": " NOTE: Diphenidine is an extremely new substance with very little record of human use. It is recommended to start low and increase dosages slowly.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "4-24"
@@ -17737,7 +17737,7 @@
       "dose": "Oral Threshold: 50mg Light: 70-85mg Common: 85-110mg Heavy: 110-150mg | NOTE: Diphenidine is an extremely new substance with very little record of human use. Start low, work your way up.",
       "duration": "4-6 hours",
       "onset": "15-30 minutes",
-      "summary": "A dissociative anaesthetic related to ephenidine with similar qualities to PCP and ketamine. Has seen some popularity as a recreational RC. Dosage curve has been reported as particularly steep, so care should be taken."
+      "summary": "A dissociative anaesthetic related to ephenidine with similar qualities to PCP and ketamine. The drug has seen some popularity as a recreational research chemical. The drug dosage curve has been reported as particularly steep, caution is recommended when using this drug."
     },
     "pweffects": {
       "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
@@ -17858,7 +17858,7 @@
       "psychedelic",
       "research-chemical"
     ],
-    "dose_note": " NOTE: This is a very new substance with very little history of human use. Start low and work your way up, doses are not to be taken as reccomended values.",
+    "dose_note": " NOTE: This is a very new substance with very little history of human use. It is recommended to start low and increase dosage slowly. The dosages given are tentative, further research is recommended and caution is advised.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "12-24"
@@ -17912,11 +17912,11 @@
         "psychedelic",
         "research-chemical"
       ],
-      "dose": "Threshold: 15mg Light: 15-25mg Common: 30-50mg Heavy: 50mg+ | NOTE: This is a very new substance with very little history of human use. Start low and work your way up, doses are not to be taken as reccomended values.",
+      "dose": "Threshold: 15mg Light: 15-25mg Common: 30-50mg Heavy: 50mg+ | NOTE: This is a very new substance with very little history of human use. It is recommended to start low and increase dosage slowly. The dosages given are tentative, further research is recommended and caution is advised.",
       "duration": "3-5 hours",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "30-60 minutes.",
-      "summary": "A rare tryptamine psychedelic closely related to DMT, with the interesting property of having little visual hallucinations, but strong auditory effects."
+      "summary": "A rare psychedelic tryptamine closely related to DMT, with the interesting property of having little visual hallucinations, but strong auditory effects."
     },
     "pweffects": {
       "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
@@ -18090,7 +18090,7 @@
         "status": "Unsafe"
       }
     },
-    "dose_note": " NOTE: These figures are for 100% effective vaporization methods. Most methods are not 100% effective. Likelyhood of having a \"breakthrough\" experience increases with dose.",
+    "dose_note": " NOTE: These figures are for 100% effective vaporization methods. Typical methods of vaporization are not 100% effective. The likelihood of having a \"breakthrough\" experience increases with dosages. Caution is advised.",
     "formatted_aftereffects": {
       "_unit": "minutes",
       "value": "15-60"
@@ -18164,7 +18164,7 @@
       "marquis": "Orange",
       "molecule": "http://www.erowid.org/chemicals/dmt/images/archive/dmt_3d_mid.jpg",
       "onset": "Vapourized/smoked: 0-2 minutes | Oral_MAOI: 20-45 minutes | Insufflated: 3-5 minutes",
-      "summary": "A popular and powerful psychedelic, typically used in two ways; either it is vapourised for a short 'breakthrough' experience, or it is taken in combination with an enzyme inhibitor for a long, intense trip (this is also known as ayahuasca or pharmahuasca).",
+      "summary": "A popular and powerful psychedelic, typically used in two ways: either it is vapourised for a short 'breakthrough' experience, or it is taken in combination with an enzyme inhibitor for a long, intense trip (this is also known as ayahuasca or pharmahuasca).",
       "vaporization": "60-80C (140-176F)"
     },
     "pweffects": {
