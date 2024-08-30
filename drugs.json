@@ -18274,7 +18274,7 @@
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "marquis": "Olive Green - Yellow",
       "onset": "30-120 minutes.",
-      "summary": "DOB is a relatively uncommon synthetic psychedelic. It is best known for its very low doses and long duration. Historically it has rarely been taken deliberately, but in place of LSD, however it has recently found its own place in the research chemical scene."
+      "summary": "DOB is a relatively uncommon synthetic psychedelic. It is best known for its very high potency and long duration. Historically it has rarely been taken deliberately, but in place of LSD, however it has recently found its own place in the research chemical scene."
     }
   },
   "doc": {
@@ -18337,7 +18337,7 @@
         "common"
       ],
       "dose": "Oral Light: 1-1.5mg Common: 1.5-2mg Strong: 2-4mg Heavy: 4mg+",
-      "duration": "10-20 hours. (Dependant on dose)",
+      "duration": "10-20 hours. (Depending on dose)",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "30-150 minutes (Highly dependant on dose)",
       "summary": "A potent stimulating psychedelic with a long action, a phenethylamine and substituted amphetamine. Sometimes sold as LSD but also enjoyed on its own merits by many. Usually sold on blotters slightly larger than those LSD is found on, but can also be bought in powder form."
@@ -18580,7 +18580,7 @@
       "duration": "8-30 hours.",
       "effects": "visual distortions, a 'stoned' feeling, sense of well being.",
       "onset": "2-4 hours",
-      "summary": "The most popular psychedelic amphetamine due to its pleasant effects, lower potency and shorter duration. Effects have been described as 'sillier' than LSD and related DOX chemicals"
+      "summary": "The most popular psychedelic amphetamine due to its pleasant effects, lower potency and shorter duration. Effects have been described as 'sillier' than LSD and related DOx chemicals"
     }
   },
   "don": {
@@ -18645,7 +18645,7 @@
       "duration": "14-22 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "30-120 minutes.",
-      "summary": "A very rare psychedelic Amphetamine. That is more rough on the body then other DOx compounds. Making it physically painful in some cases."
+      "summary": "A very rare psychedelic amphetamine. Anectodal reports indicate that the subjective effects are more rough on the body then other DOx compounds. There are some reports of experiencing physical pain from these rough bodily feelings."
     }
   },
   "dopr": {
@@ -18700,7 +18700,7 @@
     "pretty_name": "DOPR",
     "properties": {
       "after-effects": "1-24 hours.",
-      "avoid": "Double dosing, as it is a DOx compound, and any other amphetamine related drug.",
+      "avoid": "Redosing/double dosing the drug. It is also recommended to avoid all other amphetamines.",
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -18710,7 +18710,7 @@
       "duration": "18-30 hours",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "90-240 minutes",
-      "summary": "A rare psychedelic amphetamine of the same class as DOM. This is a powerful and potent psychedelic with all the effects you would expect from an amphetamine. Described by Shulgin as a 'heavy duty psychedelic'. Analogue of 2C-P."
+      "summary": "A rare psychedelic amphetamine of the same class as DOM. This is a powerful potent psychedelic with all the effects you would expect from an amphetamine. Described by Shulgin as a 'heavy duty psychedelic'. Analogue of 2C-P."
     }
   },
   "doxylamine": {
@@ -18750,7 +18750,7 @@
       "duration": "6-8 hours",
       "onset": "20-30 minutes",
       "summary": "A first generation antihistamine and anticholinergic, originally used to treat nausea and itching, and later as a sleep aid. Causes drowsiness, and delirium in overdose. Sometimes used with opioids to combat nausea and potentiate effects.",
-      "warning": "As with other first generation antihistamines, if you take too much you could have a delirant like experience."
+      "warning": "As with other first generation antihistamines, if you take too much you could have a deliriant like experience."
     }
   },
   "dpt": {
@@ -18828,7 +18828,7 @@
       "duration": "Oral: 2-4 hours | Insufflated: 3-4 hours. | IM: 3-4 hours. | Smoked: 0.5-1.5 hours.",
       "effects": "A psychedelic tryptamine with \"a wide range of effects at any particular dose depending on the individual\"",
       "onset": "Oral: 20-60 minutes | Insufflated: 5-20 minutes | IM: 2-10 minutes | Smoked: 0-1 minutes",
-      "summary": "N,N-Dipropyltryptamine, a psychedelic tryptamine compound and lesser-known analogue of DMT, with similar psychedelic effects. Like DMT it is a partial serotonin receptor agonist."
+      "summary": "N,N-Dipropyltryptamine, a psychedelic tryptamine compound and lesser-known analogue of DMT, with similar psychedelic effects. Like DMT, it is a partial serotonin receptor agonist."
     },
     "pweffects": {
       "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
@@ -18877,7 +18877,7 @@
       "deliriant",
       "common"
     ],
-    "dose_note": " NOTE: since this is a delirant, we advise against taking it, yet we can't stop you from ingesting it.",
+    "dose_note": " NOTE: Greater caution is recommended with this drug due to it being a deliriant.",
     "formatted_dose": {
       "Oral": {
         "Common": "250mg-400mg",
@@ -18914,7 +18914,7 @@
         "dimenhydrinate",
         "gravol"
       ],
-      "avoid": "A fair amount of oral dramamine preparations contain NSAID's Which can be toxic to your liver at high doses.",
+      "avoid": "A fair amount of oral dramamine preparations contain NSAID's which can be toxic to your liver at high doses.",
       "categories": [
         "depressant",
         "deliriant",
