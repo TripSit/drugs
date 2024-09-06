@@ -18920,11 +18920,11 @@
         "deliriant",
         "common"
       ],
-      "dose": "Oral Light: 100-250mg Common: 250mg-400mg Strong: 400mg-600mg+ | NOTE: since this is a delirant, we advise against taking it, yet we can't stop you from ingesting it.",
+      "dose": "Oral Light: 100-250mg Common: 250mg-400mg Strong: 400mg-600mg+ | NOTE: Greater caution is recommended with this drug due to it being a deliriant.",
       "duration": "5-8 hours.",
       "effects": "Delirium, Dream-Like-Experiences, Paranoia, Visual and audio distortions, dry mouth, muscle cramps, Nausea, Dysphoria, Tremors.",
       "onset": "30-90 minutes",
-      "summary": "A combination of diphenhydramine and a mild stimulant to counteract the drowsiness accompanied by typical medical use of diphenhydramine. Roughly half the potency of DPH. Small doses can relieve motion sickness, reduce body load from opioids or DXM. Becomes a deliriant in high doses, keeping the user awake and often causing dysphoric, realistic hallucinations."
+      "summary": "A combination of diphenhydramine and a mild stimulant to counteract the drowsiness accompanied by typical medical use of diphenhydramine. Roughly half the potency of diphenhydramine. Small doses can relieve motion sickness, reduce body load from opioids or dextromethorphan. The drug produces deliriant effects in higher doses, keeping the user awake and often causing dysphoric, realistic hallucinations."
     }
   },
   "eflea": {
@@ -18984,7 +18984,7 @@
         "stimulant",
         "habit-forming"
       ],
-      "contraindications": "Closed-angle glaucoma, phaeochromocytoma, asymmetric septal hypertrophy (idiopathic hypertrophic subaortic stenosis), concomitant or recent (previous 14 days) monoamine oxidase inhibitor (MAOI) therapy, general anaesthesia with halogenated hydrocarbons (particularly halothane), tachyarrhythmias or ventricular fibrillation, and hypersensitivity to ephedrine",
+      "contraindications": "Closed-angle glaucoma, phaeochromocytoma, asymmetric septal hypertrophy (idiopathic hypertrophic subaortic stenosis), concomitant or recent (previous 14 days) monoamine oxidase inhibitor (MAOI) therapy, general anaesthesia with halogenated hydrocarbons (particularly halothane), tachyarrhythmias or ventricular fibrillation, and hypersensitivity to ephedrine or other stimulants.",
       "dose": "Oral Threshold: 5-10mg Light: 10-20mg Common: 20-30mg Strong: 30-50mg Heavy: 50mg+",
       "duration": "3 - 6 hours",
       "legal": "Australia: Prescription Only (S4) | Canada: Schedule VI | United Kingdom: P | United States: List I OTC",
@@ -19037,7 +19037,7 @@
       "dose": "Oral Light: 50-75mg Common: 75-110mg Strong: 110-150mg Heavy: 150mg+",
       "duration": "3-6 hours",
       "onset": "10-30 minutes.",
-      "summary": "A dissociative drug which is less potent and less confusing than MXE but with otherwise similar properties. Reported as causing light stimulant effects at lower doses."
+      "summary": "A dissociative drug which is less potent and less confusing than MXE but with otherwise similar properties. Reported to cause light stimulant effects at lower doses."
     },
     "pweffects": {
       "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
@@ -19197,7 +19197,7 @@
       "duration": "8-12 hours",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "1.5-2 hours",
-      "summary": "First synthesised in the 50s, this uncommon drug was reexamined by David Nichols in the 1990s. It is an analogue of mescaline which is roughly six times more potent, and is thus a powerful psychedelic phenethylamine. Subjective effects may include stimulation and hallucinations."
+      "summary": "First synthesised in the 1950s, this uncommon drug was reexamined by David Nichols in the 1990s. It is an analogue of mescaline and is roughly six times more potent than it. It is a powerful psychedelic phenethylamine. Subjective effects may include stimulation and hallucinations."
     },
     "pweffects": {
       "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
@@ -19322,7 +19322,7 @@
       "duration": "7-12 hours.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "30-60 minutes.",
-      "summary": "A rarely prescribed medium-duration prescription benzodiazepine. Mainly used as a hypnotic, it can cause amnesia and lowered inhibitions in excess."
+      "summary": "A rarely prescribed medium-duration prescription benzodiazepine. Mainly used as a hypnotic, it can cause amnesia and lowered inhibitions in higher dosages."
     }
   },
   "eszopiclone": {
@@ -19370,7 +19370,7 @@
       "duration": "6-10 hours.",
       "effects": "anxiolytic, sedative, muscle relaxant, amnesia, dystaxia, hypnotic",
       "onset": "15-30 minutes.",
-      "summary": "The d-isomer of Zopiclone, this drug is a potent hypnotic 'Z' drug often used to treat insomnia. High doses may cause amnesia, delirium and lowered inhibitions. Should not be combined with any depressants. Limited recreational value."
+      "summary": "The D-isomer of Zopiclone, this drug is a potent hypnotic 'Z' drug often used to treat insomnia. High doses may cause amnesia, delirium and lowered inhibitions. The drug should not be combined with any depressants. Limited recreational value."
     }
   },
   "eth-lad": {
@@ -19419,7 +19419,7 @@
       "dose": "Oral Threshold: 20-30ug Light: 30-60ug Common: 60-100ug Strong: 100-200ug+",
       "duration": "6-14 hours",
       "onset": "15-90 minutes",
-      "summary": "A psychedelic drug and slightly more potent analogue of LSD, first synthesised by Alexander Shulgin - sometimes described as being less 'abrasive' than LSD. Less common than the associated AL-LAD, though has seen some popularity since its release on the Internet research chemical scene in 2015."
+      "summary": "A psychedelic drug and slightly more potent analogue of LSD. First synthesised by Alexander Shulgin, the drug is sometimes described as being less 'abrasive' than LSD. Less common than the associated AL-LAD, though has seen some popularity since its release on the Internet research chemical scene in 2015."
     }
   },
   "ethaqualone": {
@@ -19480,7 +19480,7 @@
       "duration": "Oral: 4-6 hours.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "Oral: 30-45 minutes.",
-      "summary": "Analogue of Methaqualone that was mostly marketed in France. Slightly weaker and shorter acting than the prior."
+      "summary": "Analogue of Methaqualone that was mainly marketed in France. Slightly weaker and shorter acting than Methaqualone."
     }
   },
   "ethketamine": {
@@ -19533,7 +19533,7 @@
       "dose": "Light: 15-40mg Common: 40-90mg Strong: 90-160mg.",
       "duration": "Oral: 2-4 hours | Insufflated: 1-3 hours.",
       "onset": "Oral: 15-30 minutes. | Insufflated: 5-15 minutes.",
-      "summary": "Ethketamine is a research chemical with properties similar to ketamine. While ketamine is a dissociative anesthetic producing hallucinogenic and sedative effects, recreational users have reported euphoria and dissociation when using NENK."
+      "summary": "Ethketamine is a research chemical with properties similar to ketamine. While ketamine is a dissociative anesthetic, producing hallucinogenic and sedative effects, recreational users have reported euphoria and dissociation when using NENK."
     }
   },
   "ethyl-pentedrone": {
@@ -19585,7 +19585,7 @@
       "dose": "Insufflated Light: 10-20mg Common: 20-40 Strong: 40-60mg.",
       "duration": "Oral: 3-6 hours. | Insufflated: 2-4 hours.",
       "onset": "Oral: 10-20 minutes. | Insufflated: 5-10 minutes.",
-      "summary": "A stimulant that came out around the same time as Ethyl-Hexedrone, not much information on it. Is in the cathinone family of substances. Related to Pentedrone."
+      "summary": "A stimulant that came out around the same time as Ethyl-Hexedrone, there is limited information on the drug. It is in the cathinone family of substances. Related to Pentedrone."
     }
   },
   "ethylcathinone": {
