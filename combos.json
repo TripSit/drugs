@@ -1343,7 +1343,7 @@
       "status": "Dangerous"
     },
     "tramadol": {
-      "note": "This combination can dangerously increase serotonin levels in the brain leading to serotonin syndrome in addition to increased CNS depression."
+      "note": "This combination can dangerously increase serotonin levels in the brain leading to serotonin syndrome in addition to increased CNS depression.",
       "status": "Dangerous"
     }
   },
@@ -3661,7 +3661,7 @@
       "status": "Unsafe"
     },
     "tramadol": {
-      "note": "Increased risk of serotonin syndrome."
+      "note": "Increased risk of serotonin syndrome.",
       "status": "Dangerous"
     }
   },
