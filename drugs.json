@@ -120,7 +120,7 @@
         "research-chemical",
         "psychedelic"
       ],
-      "dose": "Oral Light: 25-50ug Common: 50-125ug's Strong: 125-250ug's. | NOTE: At the time of this chemical's release, the manufacturers claimed 1B-LSD was expected to be slightly less potent than 1P-LSD, supposedly owing to the increased mass of the butanoyl group over the propionyl group, however anectodal reports seem to indicate approximate equipotency to 1P-LSD.",
+      "dose": "Oral Light: 25-50ug Common: 50-125ug's Strong: 125-250ug's. | NOTE: At the time of this chemical's release, the manufacturers claimed 1B-LSD was expected to be slightly less potent than 1P-LSD, supposedly owing to the increased mass of the butanoyl group over the propionyl group, however anecdotal reports seem to indicate approximate equipotency to 1P-LSD.",
       "duration": "8-12 hours",
       "onset": "45-90 minutes",
       "summary": "1B-LSD (1-butanoyl-lysergic acid diethylamide) is an LSD analogue which appears to be about as potent as 1P-LSD (slightly more potent than LSD) and has a slightly shorter duration than that of LSD, again thought to be about the same as 1P-LSD. Released in late 2018, and marketed agressively as a replacement for 1P-LSD. 1B-LSD does not yet have a clearly established safety profile,"
@@ -6953,7 +6953,7 @@
       "duration": "Oral: 5-6 hours Insufflated: 3-4 hours.",
       "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increased libido, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
       "onset": "Oral 30-60 minutes Insufflated 5-10 minutes.",
-      "summary": "Initally sold as a replacement to 5-MAPB, the drug seems to be less enjoyable than the former."
+      "summary": "Initially sold as a replacement to 5-MAPB, the drug seems to be less enjoyable than the former."
     }
   },
   "5-htp": {
@@ -8236,7 +8236,7 @@
       "duration": "Oral: 2-4 hours. | Insufflated: 2-3 hours.",
       "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increase libido, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
       "onset": "Oral: 20-40 minutes.",
-      "summary": "The drug is also known as 5-methyl-ethylone, or 5-ME. This is a cathinone drug and a analogue of ethylone. The drug is suspected to be similar to other stimulants of the cathinone class, with a slightly higher potency than ethylone. The drug is possibly entactogenic and a monamine releasing agent."
+      "summary": "The drug is also known as 5-methyl-ethylone, or 5-ME. This is a cathinone drug and a analogue of ethylone. The drug is suspected to be similar to other stimulants of the cathinone class, with a slightly higher potency than ethylone. The drug is possibly entactogenic and a monoamine releasing agent."
     }
   },
   "5-ppdi": {
@@ -11968,7 +11968,7 @@
       "habit-forming",
       "common"
     ],
-    "dose_note": " NOTE: Street amphetamine is generally very impure, if you're working with a more pure chemical, lower doses will have greater effects.",
+    "dose_note": " NOTE: Street amphetamine is typically very impure, if you're working with a more pure chemical, lower doses will have greater effects.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-12"
@@ -12350,7 +12350,7 @@
       "dose": "Pain-relief Common: 200-400mg | Fever Common: 300-500mg | NOTE: Maximum daily dose is 4g",
       "duration": "4-6 hours",
       "onset": "60-60 minutes",
-      "summary": "A common, over the counter, fever reducer and painkiller. It is mixed with many common opiods. Can cause liver damage and failure in higher doses. No recreational value."
+      "summary": "A common over the counter fever reducer and painkiller. It is mixed with many common opioids. May cause liver damage and failure in higher doses. The drug is reported to not have recreational value."
     },
     "sources": {
       "_general": [],
@@ -19650,7 +19650,7 @@
       "dose": "Oral Threshold: 30-50mg Light: 50-80mg Common: 80-150mg Strong: 150-300mg+ | Insufflated Threshold: 5-20mg Light: 15-30mg Common: 35-70mg Strong: 75-100mg+",
       "duration": "Oral: 2-5 hours | Insufflated: 1-2 hours.",
       "onset": "Oral: 15-60 minutes. | Insufflated: 5-15 minutes.",
-      "summary": "Ethylcathinone is a synthetic stimulant. It has similar effects as MDMA in regards to euphoric effects, feelings of empathy and openness, and a desire to talk with others. Similarly, it has negative effects that are associated with MDMA, such as insomnia, tightened jaw muscles, and grinding of the teeth."
+      "summary": "Ethylcathinone is a synthetic stimulant. It has similar effects as MDMA in regards to euphoric effects, feelings of empathy and openness, and desire to talk with others. Similarly, it has negative effects that are associated with MDMA, such as insomnia, tightened jaw muscles, and grinding of the teeth."
     }
   },
   "ethylmorphine": {
@@ -19771,7 +19771,7 @@
       "dose": "Oral Light: 125-175mg Common: 200-250mg Strong: 250-400mg",
       "duration": "2-4 hours.",
       "onset": "30-45 minutes.",
-      "summary": "A euphoric stimulant often sold in place of MDMA since methylone was banned. Slightly less potent and empathogenic than methylone, it is often described as more of a 'straight stimulant.'"
+      "summary": "A euphoric stimulant often sold in place of MDMA since methylone was banned. Slightly less potent and empathogenic than methylone, it is often described as more of a 'clean stimulant.'"
     }
   },
   "ethylphenidate": {
@@ -19784,7 +19784,7 @@
       "habit-forming",
       "common"
     ],
-    "dose_note": " NOTE: Ethylphenidate should NOT be insufflated (see summary for more details). This drug reacts with users in varying ways, so start low and work your way up.",
+    "dose_note": " NOTE: Ethylphenidate should NOT be insufflated as it is known to be highly caustic and will cause serious harm to the nasal septum, even with light usage. This drug reacts with users in varying ways, it is recommended to start low and increase dosages slowly.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-12"
@@ -19960,7 +19960,7 @@
       "duration": "5-8 hours.",
       "effects": "anxiolytic, hypnotic, sedative, muscle relaxant, amnesia, dystaxia",
       "onset": "10-40 minutes",
-      "summary": "A thienodiazepine anxiolytic. Similar in action to benzodiazepine drugs. Relieves anxiety, causes sedation and mild euphoria. High doses can lead to losing memory of what happened while on the drug. Users often compulsively re-dose frequently leading to accidental blackouts. Can be found in pressed pharmaceutical pills from various countries, clandestine pill presses, or as a powder",
+      "summary": "A thienodiazepine anxiolytic. Similar in action to benzodiazepine drugs. Relieves anxiety, causes sedation and mild euphoria. High doses can lead to losing memory of what happened while on the drug. Users often compulsively redose frequently leading to accidental blackouts. Can be found in pressed pharmaceutical pills from various countries, clandestine pill presses, powder, or liquid solutions. It is prescribed in a variety of countries such as Italy and India.",
       "tolerance": "Slower than other benzos, also observed to have reverse-tolerance effect."
     },
     "pweffects": {
@@ -20043,7 +20043,7 @@
       "dose": "Low: 2.5-5mg Common: 5-10mg Strong: 10-25mg.",
       "duration": "4-8 hours.",
       "onset": "10-45 minutes.",
-      "summary": "A substance in the racetam family. Appears to be a GABA(B) agonist, and has shown to block memory disruptions caused by Baclofen, another GABA(B) Agonist. Similar to another compound in the racetam family Coluracetam, it enhances High affinity choline reuptake (HACU). Also research is conducted if it helps with ADHD and Congitive impairment."
+      "summary": "A substance in the racetam family. The drug has been shown to reverse memory impairment caused by baclofen, a potent GABA(B) agonist. It additionally has been shown to inhibit baclofen-induced suppression of cyclic AMP formation. The drug is indicated to have a type of GABA(B) antagonistic action. The drug has been shown to reverse high-affinity choline uptake induced by electrolytic lesions of the basal forebrain and pentobarbital anesthesia. It additionally has indications of having antidepressant activity and through repeated dosage, up-regulation of GABA(B) receptors. Notably, the indications of antidepressant activity were noted to be isolated, not affecting monoamine uptake nor central monoaminergic transmission. In addition to not affecting B-adrenoceptors and 5HT2 receptors. Clinical studies of the drug have failed to show statistical signifigance in treatments for a variety of disorders, but further clinical trials are underway."
     }
   },
   "fentanyl": {
@@ -20055,7 +20055,7 @@
       "habit-forming",
       "depressant"
     ],
-    "dose_note": " NOTE: Due to Fentanyl's high potency, it is incredibly difficult to measure safely, and so can easily lead to overdose.",
+    "dose_note": " NOTE: Due to Fentanyl's high potency, it is incredibly difficult to measure safely, which failure to do so can easily lead to overdose.",
     "formatted_dose": {
       "Insufflated": {
         "Common": "25-50ug",
@@ -20115,7 +20115,7 @@
       "duration": "Transdermal: 48-72 hours. | Buccal: 1-4 hours. | Insufflated: 1-4 hours.",
       "effects": "Analgesia, euphoria, feelings of relaxation, sedative effects, changes in focus, attention, respiratory depression, nausea, constipation, dry mouth, somnolence, confusion, weakness, sweating, fatigue, dizziness, anxiety",
       "onset": "Transdermal: 90-180 minutes. | Buccal: 15-30 ninutes | Insufflated: 5-15 minutes.",
-      "summary": "Fentanyl is a synthetic opiate analgesic with a rapid onset and short duration of action. It is a strong agonist at the μ-opioid receptors and is historically used to treat breakthrough pain. Fentanyl is approximately 100 times more potent than Morphine, and is commonly used as a patch. Sometimes used as an adulterant for heroin, which has led to many overdose deaths.",
+      "summary": "Fentanyl is a synthetic opiate analgesic with a rapid onset and short duration of action. It is a strong agonist at the μ-opioid receptors and historically it is used to treat breakthrough pain. Fentanyl is approximately 100 times more potent than Morphine and is used as a transdermal skin pach, buccal tablet, nasal spray, inhalers, and more. It is often laced in other drugs, especailly opioids, leading to a high amount of deaths associated with this drug.",
       "warning": "Risk of post-acute withdrawal effects, including depression, anxiety disorder, psychosis, suicidal ideation in extreme cases."
     },
     "pweffects": {
@@ -20174,7 +20174,7 @@
       "dose": "Oral Light: 0.125-0.25mg Common: 0.25-0.5mg Strong: 0.5-1mg Heavy: 1-2mg",
       "duration": "6-14 hours.",
       "onset": "10-30 minutes.",
-      "summary": "Fluorinated alprazolam, that likely has a longer half-life and higher potency than its parent compound."
+      "summary": "Fluorinated alprazolam that likely has a longer half-life and higher potency than its parent compound."
     }
   },
   "flubromazepam": {
