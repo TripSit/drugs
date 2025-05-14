@@ -20174,7 +20174,11 @@
       "dose": "Oral Light: 0.125-0.25mg Common: 0.25-0.5mg Strong: 0.5-1mg Heavy: 1-2mg",
       "duration": "6-14 hours.",
       "onset": "10-30 minutes.",
+<<<<<<< Updated upstream
       "summary": "Fluorinated alprazolam that likely has a longer half-life and higher potency than its parent compound."
+=======
+      "summary": "Fluorinated alprazolam has nearly double the half-life compared to its parent compound alprazolam. Additionally, the drugs potency has been reported to range from 1.5-5x stronger than alprazolam."
+>>>>>>> Stashed changes
     }
   },
   "flubromazepam": {
