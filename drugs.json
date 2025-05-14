@@ -20226,7 +20226,7 @@
       "duration": "12-18 hours",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "15-90 minutes",
-      "summary": "A somewhat common benzodiazepine drug known for its extreme duration, with effects for larger doses reaching up to three days. Sedative, hypnotic and anxiolytic, this compound is an analogue of Phenazepam. First discovered in the 1960s, it was never marketed as a licit drug, but has recently become available as an RC. Not to be confused with Flubromazolam."
+      "summary": "A benzodiazepine drug known for its extreme duration, with effects for larger doses reaching up to three days. The drugs effects are reported to be sedative, hypnotic and anxiolytic in nature. This compound is an analogue of Phenazepam. First discovered in the 1960s, it was never marketed as a licit drug, but has recently become available as a research chemical. Caution is recommended to not confuse it with Flubromazolam."
     },
     "pweffects": {
       "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
@@ -20256,7 +20256,7 @@
       "habit-forming",
       "depressant"
     ],
-    "dose_note": " NOTE: These doses are tentative and it is recommended to do further research.",
+    "dose_note": " NOTE: These doses are tentatively  reported and it is highly recommended to do further research.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "6-24"
@@ -20303,12 +20303,12 @@
         "habit-forming",
         "depressant"
       ],
-      "dose": "Oral Threshold: 80ug Light: 100-200ug Common: 200-400ug Strong: 400-600ug+ | NOTE: These doses are tentative and it is recommended to do further research.",
+      "dose": "Oral Threshold: 80ug Light: 100-200ug Common: 200-400ug Strong: 400-600ug+ | NOTE: These doses are tentatively reported and it is highly recommended to do further research.",
       "dose_to_diazepam": "Flubromazolam - 0.25mg ~=10mg Diazepam.",
       "duration": "6-12 hours",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "20-45 minutes.",
-      "summary": "A very potent benzodiazepine derivative that is related to Triazolam and Pyrazolam. Popular in the research chemical scene, it is a potent sedative, hypnotic and anxiolytic. Potential for amnesia and reduced inhibitions in higher dose. Not to be confused with Flubromazepam, which is much less potent and has a much longer half-life."
+      "summary": "A very potent benzodiazepine derivative that is related to Triazolam and Pyrazolam. Popular in the research chemical scene, it is a potent sedative, hypnotic and anxiolytic drug. It has been reported to have potential effects of amnesia and reduced inhibitions in higher dosages. Caution is recommended to not confuse it with Flubromazepam."
     },
     "pweffects": {
       "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
@@ -20334,7 +20334,7 @@
       "research-chemical",
       "habit-forming"
     ],
-    "dose_note": " Note: These doses are extremely tentative and will vary from user to user depending on many factors including but not limited to tolerance.",
+    "dose_note": " Note: These doses are extremely tentative and will vary from user to user depending on many factors including, but not limited to, tolerance.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-14"
@@ -20368,7 +20368,7 @@
       "dose": "Oral Light: 250ug Common: 250-500ug Strong: 500-750ug Heavy: 750ug+ | Note: These doses are extremely tentative and will vary from user to user depending on many factors including but not limited to tolerance.",
       "duration": "3-6 hours.",
       "onset": "10-30 minutes.",
-      "summary": "A derivative of Etizolam. There are conflicting reports on its dosage, though claims have been made that it is approximately 3x the potency of Etizolam, with a shorter half-life."
+      "summary": "A derivative of Etizolam. There are conflicting reports on its dosage, though reports have suggested that it is approximately 3x the potency of Etizolam, with a shorter half-life."
     }
   },
   "flunitrazepam": {
@@ -20426,7 +20426,7 @@
       "duration": "4-8 hours.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "15-30 minutes.",
-      "summary": "Known as Rohypnol or 'roofies,' this infamous drug has similar qualities to most other benzodiazepines; sedating with strong hypnotic effects. Despite being known as a 'date rape drug' has only been implicated in a small number of such crimes. Danger of respiratory depression in combination with other depressants. May cause amnesia and lowered inhibitions in overdose."
+      "summary": "Known as Rohypnol or 'roofies,' this infamous drug has similar qualities to most other benzodiazepines; sedating with strong hypnotic effects. Despite being known as a 'date rape drug,' it has only been implicated in a small number of such crimes. The drug has risks of CNS depression that is increased in combination with other depressants. The drug may cause amnesia and lowered inhibitions in overdose."
     }
   },
   "flunitrazolam": {
@@ -20472,7 +20472,7 @@
     "name": "flunitrazolam",
     "pretty_name": "Flunitrazolam",
     "properties": {
-      "after-effects": "Oral: 1-16 hours. | Sublingual: 1-12 hours. | Note: This can be much longer on higher doses (Between 0.5-1mg after-effects can last up to around 36 hours)",
+      "after-effects": "Oral: 1-16 hours. | Sublingual: 1-12 hours. | Note: This can be much longer on higher doses. Dosages between 0.5-1mg may cause after-effects that last up to roughly 36 hours.",
       "aliases": [
         "fln"
       ],
@@ -20570,7 +20570,7 @@
       "dose": "Light: 50-100mg Common: 100-150mg Strong: 200-250mg+",
       "duration": "8-12 hours.",
       "onset": "60-120 minutes.",
-      "summary": "An anxiolytic analogue of GABA and Phenibut, with similar activity to the latter. Expected to be 5-10 times as potent as phenibut, some preliminary reports suggest tolerance builds more slowly."
+      "summary": "An anxiolytic analogue of GABA and phenibut, with similar activity to the latter. Suggested to be 5-10x potent as phenibut, with some preliminary reports indicating tolerance builds more slowly."
     }
   },
   "fluoxetine": {
@@ -20648,7 +20648,7 @@
       "duration": "12-16 hours.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "45-90 minutes.",
-      "summary": "Benzodiazepine with an extremely long half life, between 40 and 250 hours. Mainly used for general anxiety disorder. Sedating, hypnotic, anxiolytic. Potential for amnesia and reduced inhibitions in overdose."
+      "summary": "Benzodiazepine with an extremely long half-life, between 40-250 hours. The drug is typically used for general anxiety disorder, and is reported to be sedating, hypnotic, anxiolytic. The drug may cause effects of amnesia and reduced inhibitions."
     }
   },
   "flutazolam": {
@@ -20698,7 +20698,7 @@
       "duration": "3-8 hours.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "10-30 minutes.",
-      "summary": "A benzodiazepine derivative. It was invented in Japan, and has mainly stayed in that area. Similar potency to Diazepam, yet produces a more marked sedation and impaired coordination. Usually used as a treatment for Insomnia. A hypnotic and sedative which may cause amnesia and lowered inhibitions in high doses."
+      "summary": "A benzodiazepine derivative. It was invented in Japan, and has it reported to mainly be used there. The drug has similar potency to Diazepam, yet produces a more marked sedation and impaired coordination. The drug is typically used as a treatment for insomnia. The drug is reported to have hypnotic and sedative effects and may cause amnesia and lowered inhibitions in high dosages."
     }
   },
   "flutoprazepam": {
@@ -20755,7 +20755,7 @@
       "duration": "12-16 hours",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "15-45 minutes.",
-      "summary": "A potent benzodiazepine that is roughly 4-5x the potency of Diazepam and has a longer duration, rarely seen outside of Japan. Sedative, hypnotic and anxiolytic. May cause amnesia and loss of inhibitions in excess. Do not mix with other depressants."
+      "summary": "A potent benzodiazepine that is roughly 4-5x the potency of diazepam and has a longer duration. The drug is rarely seen outside of Japan. The drug is reported to have sedative, hypnotic and anxiolytic effects. The drug may cause amnesia and loss of inhibitions in excess. It is not recommended to mix with other depressants."
     }
   },
   "fluvoxamine": {
@@ -20824,7 +20824,7 @@
       "dose": "Oral Light: 10-20mg Common: 20-30mg Strong: 30-40mg Heavy: 40-50mg",
       "duration": "9-12 hours",
       "onset": "45-90 minutes.",
-      "summary": "The psychoactive isomer of methylphenidate, mostly used to treat ADHD. Twice as potent as methylphenidate, and is said to have cleaner psychostimulant effects with fewer side effects."
+      "summary": "The psychoactive isomer of methylphenidate, the drug is mainly used to treat ADHD. Twice as potent as methylphenidate, and is said to have cleaner psychostimulant effects with fewer side effects."
     }
   },
   "furanylfentanyl": {
