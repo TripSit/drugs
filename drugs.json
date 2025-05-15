@@ -21304,7 +21304,7 @@
       "duration": "8-14 hours.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "15-45 minutes.",
-      "summary": "A less common prescription benzodiazepine and derivative of Nordazepam. Also known as Paxipam, it is no longer prescribed in the USA. Sedating, hypnotic and anxiolytic. High doses may induce amnesia and lowered inhibitions."
+      "summary": "A less common prescription benzodiazepine and derivative of Nordazepam. Also known as Paxipam, it is no longer prescribed in the USA. The drug is reported to have sedating, hypnotic and anxiolytic effects. Doses may induce amnesia and lowered inhibitions."
     }
   },
   "halothane": {
@@ -21322,7 +21322,7 @@
         "depressant",
         "tentative"
       ],
-      "summary": "A powerful inhalant anaesthetic generally used in a medical setting to induce unconsciousness, as a supplement with ketamine or fentanyl."
+      "summary": "A powerful inhalant anaesthetic generally used in a medical setting to induce unconsciousness as a supplement with ketamine or fentanyl."
     }
   },
   "hdep-28": {
@@ -21376,7 +21376,7 @@
       "dose": "Oral Light: 15-30mg Common: 30-50mg Strong: 50-100mg | Insufflated Light: 5-15mg Common: 15-35mg Strong: 35-60mg",
       "duration": "2-5 hours.",
       "onset": "1-15 minutes.",
-      "summary": "Most likely a TRI, such as HDMP-28, short history of human use."
+      "summary": "The drug is suspected to be a SNDRI like HDMP-28 is proposed to be, there is a short history of human use."
     }
   },
   "hdmp-28": {
@@ -21429,7 +21429,7 @@
       "dose": "Oral Threshold: 8-10mg Light: 10-15 Common: 15-30mg Strong: 30-50mg+",
       "duration": "2-4 hours. (Dose dependent)",
       "onset": "1-10 minutes.",
-      "summary": "Also commonly known as methylnapthidate. A functional stimulant similar to methylphenidate but with a longer duration. Not especially recreational."
+      "summary": "The drug is commonly known as methylnapthidate. A functional stimulant similar to methylphenidate but with a longer duration. The drug is reported to not be especially recreational."
     }
   },
   "heroin": {
@@ -21545,7 +21545,7 @@
       "tentative",
       "habit-forming"
     ],
-    "dose_note": " NOTE: These doses are tentative and it is recommended to do further research.",
+    "dose_note": " NOTE: These doses are tentative and it is highly recommended to do further research.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-12"
@@ -21577,10 +21577,10 @@
         "tentative",
         "habit-forming"
       ],
-      "dose": "Threshold: 30-50mg Light: 50-70mg Common: 70-100mg Strong: 100-125mg+ | NOTE: These doses are tentative and it is recommended to do further research.",
+      "dose": "Threshold: 30-50mg Light: 50-70mg Common: 70-100mg Strong: 100-125mg+ | NOTE: These doses are tentative and it is highly recommended to do further research.",
       "duration": "1-4 hours.",
       "onset": "15-30 minutes.",
-      "summary": "A rare mephedrone analogue also known as MACP, a cathinone stimulant with similar effects to pentedrone."
+      "summary": "A rare mephedrone analogue also known as MACP, it is a cathinone stimulant with similar effects to pentedrone."
     }
   },
   "hexen": {
@@ -21637,7 +21637,7 @@
         "hex-en",
         "n-ethyl-hexedrone"
       ],
-      "avoid": "Other stimulants. 2C-X compounds. All CNS depressants. Tramadol. DXM. MXE.",
+      "avoid": "Stimulants, 2C-X compounds, CNS depressants, Tramadol, DXM, MXE.",
       "categories": [
         "tentative",
         "stimulant",
@@ -21648,7 +21648,7 @@
       "duration": "1-4 hours",
       "effects": "Stimulation, Dehydration, Hypertension, Tachychardia, Increased alertness, Euphoria, Bruxism, Loss of Inhibition, Increase in energy",
       "onset": "15-30 minutes.",
-      "summary": "A cathinone based stimulant. Hexen (aka Ethyl-Hexedrone) acts as an NDRI to produce it's effects, and as with most cathinones has a fast onset and short duration. This drug has very little history of human consumption and next to no research/data, and therefor should be treated with caution as a research chemical."
+      "summary": "A cathinone based stimulant. Hexen (aka Ethyl-Hexedrone) acts as an NDRI to produce it's effects, and as with most cathinones, it has a fast onset and short duration. This drug has very little history of human consumption and little to no clinical research. Further research and caution is advised."
     }
   },
   "hexobarbital": {
@@ -21658,7 +21658,7 @@
       "habit-forming",
       "tentative"
     ],
-    "dose_note": " Note: Take this with a grain of salt maybe.",
+    "dose_note": " Note: These dosages are extremely tentative.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-4"
@@ -21682,17 +21682,17 @@
     "pretty_name": "Hexobarbital",
     "properties": {
       "after-effects": "1-4 hours.",
-      "avoid": "All other CNS depressants.",
+      "avoid": "All CNS depressants.",
       "categories": [
         "barbiturate",
         "depressant",
         "habit-forming",
         "tentative"
       ],
-      "dose": "Light: 10-15mg Common: 15-20mg Strong: 20-30mg | Note: Take this with a grain of salt maybe.",
+      "dose": "Light: 10-15mg Common: 15-20mg Strong: 20-30mg | Note: These dosages are extremely tentative.",
       "duration": "30-45 minutes.",
       "onset": "1-2 minutes.",
-      "summary": "Is a barbiturate that was once used for inducing anesthesia for surgery. It has a very rapid onset, and a short duration of effects."
+      "summary": "The drug is barbiturate that was used for anesthesia during surgery. The drug has a very rapid onset and a short duration of effects."
     }
   },
   "homomazindol": {
@@ -21738,7 +21738,7 @@
       "dose": "Oral Light: 10-25mg Common: 25-50mg Strong: 50-100mg",
       "duration": "5-9 hours.",
       "Oral": "Light: 10-25mg Common: 25-50mg Strong: 50-100mg.",
-      "summary": "An analogue of sildenafil (viagra) with similar effects. Has been missold in certain 'herbal' blends and dietary supplements for sexual potency. Little is known about the pharmacology or safety profile of this drug in humans, potentially less potent than sildenafil."
+      "summary": "An analogue of sildenafil (Viagra) reported to have similar effects. The drug has been missold in certain 'herbal' blends and dietary supplements for sexual potency. THere is little known about the pharmacology or safety profile of the drug in humans. The drug is potentially less potent than sildenafil."
     }
   },
   "hot-2": {
@@ -21799,7 +21799,7 @@
       "aliases": [
         "hot2"
       ],
-      "avoid": "It will have some 2C-T-2 in it unless the synth went perfectly and went in your body quite fast, thus you will most likely have some 2C-T-2 in your concoction which might hold the same MAOI properties of 2C-T-7.",
+      "avoid": "The drug is reported to have traces of 2C-T-2 in imperfect synthesis. As a result, individuals ingesting HOT-2 may run the risk of additionally ingesting 2C-T-2, which notably has MAOI properties.",
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -21809,7 +21809,7 @@
       "duration": "5-12 hours",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "20-40 minutes",
-      "summary": "A rather rare psychedelic phenylethylamine that is the hydroxylated version and prodrug for 2C-T-2."
+      "summary": "A rare psychedelic phenylethylamine that is the hydroxylated version and prodrug for 2C-T-2."
     }
   },
   "hot-7": {
@@ -21822,7 +21822,7 @@
       "tentative",
       "empathogen"
     ],
-    "dose_note": " NOTE: Start low as there is a weird dose curve with this substance, and there also could be possible MAOI effect just like with 2C-T-7.",
+    "dose_note": " NOTE: The dose curve is reported to be abnormal. As such, additional caution is advised when dosing. It is suggested that there may be MAOI effects as similiar with 2C-T-7.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-12"
@@ -21874,7 +21874,7 @@
         "tentative",
         "empathogen"
       ],
-      "dose": "Oral Threshold: 15mg Light: 15-20mg Common: 20-30mg Strong: 30-40mg+ | NOTE: Start low as there is a weird dose curve with this substance, and there also could be possible MAOI effect just like with 2C-T-7.",
+      "dose": "Oral Threshold: 15mg Light: 15-20mg Common: 20-30mg Strong: 30-40mg+ | NOTE: The dose curve is reported to be abnormal. As such, additional caution is advised when dosing. It is suggested that there may be MAOI effects as similiar with 2C-T-7.",
       "duration": "5-8 hours",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "60-180 minutes.",
@@ -21889,7 +21889,7 @@
       "nootropic",
       "tentative"
     ],
-    "dose_note": " Note: This substance is usually taken once a day, and is usually \"cycled\" off after 2-4 weeks. The optimal amount of time to break for in unknown as of yet. The doses are the same as for Oral.",
+    "dose_note": " Note: This substance is typically taken once a day and \"cycled\" off after 2-4 weeks. The optimal dosing regime is unknown. Insufflated dosages are the same as oral.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-14"
