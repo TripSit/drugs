@@ -21918,12 +21918,12 @@
       "aliases": [
         "h-a"
       ],
-      "avoid": "Anticholinergic drugs, which include many first generation antihistamines. Acetylcholinesterase inhibitors. Cholinergic drugs. As it may add to the negative side-effects.",
+      "avoid": "Anticholinergic drugs, including first-generation antihistamines such as diphenhydramine. Acetylcholinesterase inhibitors. Cholinergic drugs, as it may add to the negative side-effects.",
       "categories": [
         "nootropic",
-        "tentative"
+        "tentative"Insufflated
       ],
-      "dose": "Insufflted Light: 50-75ug Common: 75-150ug Strong: 150ug-200ug. | Note: This substance is usually taken once a day, and is usually \"cycled\" off after 2-4 weeks. The optimal amount of time to break for in unknown as of yet. The doses are the same as for Oral.",
+      "dose": "Insufflated Light: 50-75ug Common: 75-150ug Strong: 150ug-200ug. | Note: This substance is usually taken once a day, and is usually \"cycled\" off after 2-4 weeks. The optimal amount of time to break for in unknown as of yet. The doses are the same as for Oral.",
       "duration": "Oral: 8-14 hours. | Insufflated: 6-12 hours.",
       "onset": "Oral: 10-20 minutes. | Insufflated: 1-2 minutes.",
       "summary": "A compound that is extracted from the herbs of Huperziceae family. Is known as an acetylcholinesterase inhibitor, which stops an enzyme from breaking down acetylcholine which results in increases in acetylcholine. Is currently in preliminary trials for Alzheimer's."
