@@ -20824,7 +20824,7 @@
       "dose": "Oral Light: 10-20mg Common: 20-30mg Strong: 30-40mg Heavy: 40-50mg",
       "duration": "9-12 hours",
       "onset": "45-90 minutes.",
-      "summary": "The psychoactive isomer of methylphenidate, the drug is mainly used to treat ADHD. Twice as potent as methylphenidate, and is said to have cleaner psychostimulant effects with fewer side effects."
+      "summary": "The psychoactive isomer of methylphenidate, the drug is mainly used to treat ADHD. It is 2x as potent as methylphenidate, and is reported to have cleaner psychostimulant effects with fewer side effects."
     }
   },
   "furanylfentanyl": {
@@ -20882,7 +20882,7 @@
       "dose": "Oral Light: 300-500ug Common: 500-900ug Strong: 900-1600ug+. | Insufflated Light: 200-400ug Common: 400-800ug Strong: 800-1600ug+ | NOTE: Very potent opioid, be very careful while dosing.",
       "duration": "1-3 hours.",
       "onset": "1-10 minutes.",
-      "summary": "An extremely potent opioid analgesic and analogue of fentanyl. Concrete information is difficult to obtain about even basic properties like active dose, though it is believed to be slightly less potent and shorter in duration than butyrfentanyl. Exercise extreme caution. Will cause respiratory depression in overdose."
+      "summary": "An extremely potent opioid analgesic and analogue of fentanyl. There is extremely limited information about this drug. It is believed to be slightly less potent and shorter in duration than butyrfentanyl. Exercising extreme caution is strongly recommended."
     }
   },
   "g-130": {
@@ -20899,7 +20899,7 @@
         "tentative",
         "research-chemical"
       ],
-      "summary": "Stimulant that is related to Phenmetrazine. Nearly no information on dose or effects."
+      "summary": "Stimulant that is related to Phenmetrazine. There is limited information about this drug."
     }
   },
   "gaba": {
@@ -20940,7 +20940,7 @@
       "dose": "Oral Light: 200-400mg Common: 400-800mg Strong: 800-1600mg+",
       "duration": "Oral: 5-8 hours.",
       "onset": "Oral: 15-60 minutes.",
-      "summary": "Gamma-Aminobutyric Acid. Supplement used in calming some down. Does not pass the brain blood barrier."
+      "summary": "Gamma-Aminobutyric Acid. The supplement is often used for its calming effects. There is conflicting research if the drug crosses the blood brain barrier."
     }
   },
   "gabapentin": {
@@ -20995,7 +20995,7 @@
       "duration": "5-12 hours.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "30-90 minutes",
-      "summary": "An analogue of GABA also known as Neurontin, originally developed to treat epilepsy. Commonly prescribed for neuropathic pain, it also has pronounced anxiolytic effects leading to its use in treating anxiety disorders."
+      "summary": "An analogue of GABA also known as Neurontin, the drug was originally developed to treat epilepsy. It is commonly prescribed for neuropathic pain. The drug has pronounced anxiolytic effects and is occasionally used to help treat anxiety disorders."
     },
     "pweffects": {
       "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
@@ -21016,7 +21016,7 @@
       "habit-forming",
       "common"
     ],
-    "dose_note": " NOTE: 1ml = 1.6g GHB. Tends to induce heavy sleep as you pass the 2ml mark.",
+    "dose_note": " NOTE: 1ml = 1.66 grams of GHB. Dosages above 2ml may induce heavy sleep.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-2"
@@ -21058,17 +21058,17 @@
     "pretty_name": "GBL",
     "properties": {
       "after-effects": "1-2 hours",
-      "avoid": "Alcohol, other depressants.",
+      "avoid": "Alcohol and other depressants.",
       "categories": [
         "depressant",
         "habit-forming",
         "common"
       ],
-      "dose": "Oral Light: 0.3-0.9ml Common: 0.6-1.5ml Strong: 1.2-2ml Heavy: 2-3ml Dangerous: 5ml+ | NOTE: 1ml = 1.6g GHB. Tends to induce heavy sleep as you pass the 2ml mark.",
+      "dose": "Oral Light: 0.3-0.9ml Common: 0.6-1.5ml Strong: 1.2-2ml Heavy: 2-3ml Dangerous: 5ml+ | NOTE: 1ml = 1.66g GHB. Tends to induce heavy sleep at 2ml and higher.",
       "duration": "1-2 hours",
       "effects": "relaxation, mood lift, happiness, sociability, increased sex drive, lowered inhibitions, analgesia, dystaxia, drowsiness, sleep, amnesia",
       "onset": "10-30 minutes",
-      "summary": "A pro-drug to GHB whose rapid absorption leads it to have a faster onset and shorter duration. Used in a similar manner to GHB, as a less-toxic alternative to alcohol. Consume slowly instead of as a \"shot\" to hugely improve safety and reduce overdose risk."
+      "summary": "A pro-drug to GHB whose rapid absorption leads it to have a faster onset and shorter duration."
     }
   },
   "ghb": {
@@ -21079,7 +21079,7 @@
     ],
     "combos": {
       "diphenhydramine": {
-        "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
+        "note": "Both substances are CNS depressants and may potentiate each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction may cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
         "sources": [
           {
             "author": "William J Tharion, Donna J. McMenemy, Terry M. Rauch",
@@ -21105,7 +21105,7 @@
         "status": "Dangerous"
       }
     },
-    "dose_note": " NOTE: Tends to induce heavy sedation from about the 3g mark.",
+    "dose_note": " NOTE: Tends to induce heavy sedation roughly at 3g and higher.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "2-4"
@@ -21125,7 +21125,7 @@
     },
     "formatted_effects": [
       "Similar to alcohol",
-      "but subjectively 'cleaner'"
+      "but reported to feel 'cleaner'"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -21138,13 +21138,13 @@
     "pretty_name": "GHB",
     "properties": {
       "after-effects": "2-4 hours",
-      "avoid": "Alcohol, benzos and other depressants",
+      "avoid": "Alcohol, benzodiazepines, and other depressants",
       "categories": [
         "depressant",
         "habit-forming",
         "common"
       ],
-      "dose": "Oral Light: 0.5-1.5g Common: 1-2.5g Strong: 2-3.5g Heavy: 3.5-5g Dangerous: 7g+ | NOTE: Tends to induce heavy sedation from about the 3g mark.",
+      "dose": "Oral Light: 0.5-1.5g Common: 1-2.5g Strong: 2-3.5g Heavy: 3.5-5g Dangerous: 7g+ | NOTE: Tends to induce heavy sedation roughly at 3g and higher.",
       "duration": "1.5-2.5 hours",
       "effects": "Similar to alcohol, but subjectively 'cleaner'",
       "onset": "20-60 minutes",
@@ -21196,7 +21196,7 @@
       "dose": "Oral Light: 50-100mg Common: 100-150mg Strong: 150-200mg+",
       "duration": "6-8 hours.",
       "onset": "45-90 minutes.",
-      "summary": "An alkaloid that is found in several different scpecies in the Papaveraceae family. It has antiinflammatory and antitussive effects. Can also be referred to as Yellow Horned Poppy."
+      "summary": "An alkaloid that is found in several different scpecies in the Papaveraceae family. It has anti inflammatory and antitussive effects."
     }
   },
   "glutethimide": {
@@ -21247,7 +21247,7 @@
       "dose": "Light: 250mg Common: 500mg Strong: 750mg+",
       "duration": "2-8 hours.",
       "onset": "30-45 minutes.",
-      "summary": "Is a hypnotic sedative that was introduced in 1954, as a \"safe\" alternative to barbiturates to treat insomnia. Anecdotally long term use has had effects similar to withdrawal, while still on a stable dose of the drug."
+      "summary": "The drug is a hypnotic sedative that was introduced in 1954, as a \"safe\" alternative to barbiturates to treat insomnia."
     }
   },
   "halazepam": {
