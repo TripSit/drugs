@@ -21918,15 +21918,15 @@
       "aliases": [
         "h-a"
       ],
-      "avoid": "Anticholinergic drugs, including first-generation antihistamines such as diphenhydramine. Acetylcholinesterase inhibitors. Cholinergic drugs, as it may add to the negative side-effects.",
+      "avoid": "Anticholinergic drugs, including first-generation antihistamines, acetylcholinesterase inhibitors, cholinergic drugs- as it may add to the negative side-effects.",
       "categories": [
         "nootropic",
         "tentative"
       ],
-      "dose": "Insufflated Light: 50-75ug Common: 75-150ug Strong: 150ug-200ug. | Note: This substance is usually taken once a day, and is usually \"cycled\" off after 2-4 weeks. The optimal amount of time to break for in unknown as of yet. The doses are the same as for Oral.",
+      "dose": "Insufflated Light: 50-75ug Common: 75-150ug Strong: 150ug-200ug. | Note: This substance is typically taken once a day, and \"cycled\" off after 2-4 weeks. The optimal dosing regime is unknown. Insufflated dosages are the same as oral.",
       "duration": "Oral: 8-14 hours. | Insufflated: 6-12 hours.",
       "onset": "Oral: 10-20 minutes. | Insufflated: 1-2 minutes.",
-      "summary": "A compound that is extracted from the herbs of Huperziceae family. Is known as an acetylcholinesterase inhibitor, which stops an enzyme from breaking down acetylcholine which results in increases in acetylcholine. Is currently in preliminary trials for Alzheimer's."
+      "summary": "A compound that is extracted from the herbs of Huperziceae family. Is known as an acetylcholinesterase inhibitor, which stops an enzyme from breaking down acetylcholine which results in increased acetylcholine. The drug is currently in preliminary trials for treating Alzheimer's."
     }
   },
   "hydrocodone": {
@@ -21981,7 +21981,7 @@
         "vicodin",
         "hydro"
       ],
-      "avoid": "Alcohol (Can cause dangerous respiratory depression, which may result in death) Grapefruit juice (Inhibits enzymes in your small intestine, increasing absorption rate to a possible dangerous amount)",
+      "avoid": "Alcohol due to CNS depression. Grapefruit juice, which inhibits enzymes that leads to increased abosrbtion rate, risking possible overdose.",
       "bioavailability": "Oral 70-85%",
       "categories": [
         "depressant",
@@ -21994,7 +21994,7 @@
       "duration": "4-8 hours",
       "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
       "onset": "10-60 minutes depending on stomach contents.",
-      "summary": "A codeine-derived opioid generally unheard of outside the United States. Generally mild in effects, used as an analgesic and cough-supressant. Sometimes used recreationally."
+      "summary": "A codeine-derived opioid generally unheard of outside the United States. Reported to be weaker in subjective effects, the drug is used as an analgesic, cough-suppresant, and recreationally."
     },
     "pweffects": {
       "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
@@ -22086,7 +22086,7 @@
       "duration": "Oral: 3-4 hours | Insufflated: 2-3 hours | Intravenous: 1-2 hours.",
       "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil Constriction, Analgesia.",
       "onset": "Oral 30-60 minutes | Insufflated 5-10 minutes | Intravenous 0-1 minutes",
-      "summary": "An opioid that is roughly 5x the potency of IV Morphine. Only comes in IR tablets in the US, and is given mostly as XR in other countries. It is frequently used in hospitals for short immediate pain relief during procedures, requiring the patient to be awake. Also frequently used as a recreational opiate."
+      "summary": "An opioid that is roughly 5x the potency of IV Morphine. The drug comes in IR tablets in the US, and XR in most other countries. It is frequently used in hospitals for short immediate pain relief during procedures that require the patient to be awake. The drug is also used recreationally."
     }
   },
   "hydroxyzine": {
@@ -22133,7 +22133,7 @@
       "dose": "Oral Common: 25-100mg",
       "duration": "3-5 hours.",
       "onset": "20-60 minutes.",
-      "summary": "An antihistamine drug commonly prescribed for anxiety, itchiness, nausea, and insomnia. Hydroxyzine has also been used to potentiate the analgesia of opioids as well as diminishing the negative effects of opioids, such as itchiness."
+      "summary": "A antihistamine drug commonly prescribed for anxiety, itchiness, nausea, and insomnia. Hydroxyzine has also been used to potentiate the analgesia of opioids as well as diminishing negative effects of opioids, such as itchiness."
     }
   },
   "ibogaine": {
@@ -22199,11 +22199,11 @@
         "dissociative",
         "depressant"
       ],
-      "dose": "Oral Common: 16-22mg/kg NOTE: Doses are for Ibogaine Hcl. Potency of ibogaine root bark can vary from roughly 2.5-6% ibogaine content",
+      "dose": "Oral Common: 16-22mg/kg NOTE: Doses are for Ibogaine HCL. Potency of ibogaine root bark can vary from roughly 2.5-6% ibogaine content.",
       "duration": "24-30 hours",
       "effects": "Addiction help, Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil constriction, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "45-180 minutes",
-      "summary": "An alkaloid found in many African plants most famously Iboga, with psychedelic and hallucinogenic properties. May be unpleasant. Traditionally used in tribal environments for coming-of-age rituals, it has recently been used as an alternative treatment for drug addiction although this usage has not been backed by conclusive data in humans. Has killed in overdose."
+      "summary": "An alkaloid found in many plants in Africa, most famously Iboga, that has psychedelic and hallucinogenic properties. Reported to often be unpleasant. Traditionally used in tribal environments for coming-of-age rituals, it has recently been used as an alternative treatment for substance use disorders. There is on-going research on the efficacy of this. The drug has numerous risks and has killed in overdose. Further research and caution is strongly advised."
     },
     "sources": {
       "_general": [
@@ -22232,14 +22232,14 @@
     "name": "ibuprofen",
     "pretty_name": "Ibuprofen",
     "properties": {
-      "avoid": "Alcoholic beverages.",
+      "avoid": "Alcoholic beverages, other NSAIDs.",
       "categories": [
         "common"
       ],
       "dose": "Common: 400-800mg's.",
-      "duration": "4-6 hours. ER forumulations up to 12 hours.",
+      "duration": "4-6 hours. ER formulations up to 12 hours.",
       "onset": "within an hour.",
-      "summary": "A ubiquitously available pain reliever/fever reducer. Ibuprofen is a nonsteroidal anti-inflammatory drug, available in many forms. It is sometimes used to reduce the body-load caused by certain drugs, such as stimulants."
+      "summary": "A ubiquitously available pain reliever/fever reducer. Ibuprofen is a nonsteroidal anti-inflammatory drug that is available in many forms. It is occasionally used to reduce the body-load caused by certain drugs, such as stimulants."
     },
     "sources": {
       "_general": [
@@ -22257,7 +22257,7 @@
       "research-chemical",
       "tentative"
     ],
-    "dose_note": " Note: Very odd dosing curve. So be careful.",
+    "dose_note": " Note: Very atypical dosing curve, caution is advised.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-8"
