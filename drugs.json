@@ -22908,7 +22908,7 @@
         "kitty",
         "kittens"
       ],
-      "avoid": "Driving. Moving and walking if possible. Mixing with other depressants like alcohol, benzos and opioids.",
+      "avoid": "Driving, walking, motor activity. Mixing with other depressants such as alcohol, benzodiazepines, and opioids.",
       "categories": [
         "dissociative",
         "habit-forming",
@@ -22919,7 +22919,7 @@
       "effects": "A feeling of drunkenness and well being at low doses. As dose increases the user may begin to feel a disconnection from their body. At 'khole' doses the user may become completely disconnected from both body and mind.",
       "molecule": "http://wiki.tripsit.me/images/7/76/Ketamine.png",
       "onset": "Insufflated: 7.5-20 minutes | Oral: 10-75 minutes | Intramuscular: 2-7.5 minutes | Intravenous: 0-2 minutes",
-      "summary": "A short acting dissociative anaesthetic and hallucinogen commonly used in emergency medicine. It is the prototypical dissociative, and is widely used at sub-anesthetic doses recreationally. Small doses are comparable with alcohol, while larger doses are immobilising and lead to psychedelic experiences: the \"K-Hole.\""
+      "summary": "A short acting dissociative anaesthetic and hallucinogen commonly used in medicine. It is the prototypical dissociative, and is widely used at sub-anesthetic doses recreationally. Small doses are comparable with alcohol, while larger doses are immobilising and lead to psychedelic experiences: the \"K-Hole.\""
     },
     "pweffects": {
       "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
@@ -23039,7 +23039,7 @@
       "dose_to_diazepam": "Ketazolam - 15-30mg's roughly equal to 10mg Diazepam.",
       "duration": "8-12 hours.",
       "onset": "30-90 minutes.",
-      "summary": "Benzodiazepine derivative that has most of the common benzodiazepine effects. Has been seen to have similar effectiveness when compared to Diazepam, with milder side-effects. The drug is marketed in a few countries."
+      "summary": "The drug is a benzodiazepine derivative, that is reported to have similar effects to Diazepam, with reportedly milder side-effects. The drug is marketed in a few countries."
     }
   },
   "ketobemidone": {
@@ -23146,7 +23146,7 @@
       "depressant",
       "common"
     ],
-    "dose_note": " Note: This is for plain leaf only. Some users experience stronger effects from lower doses compared to higher doses. It also is very different person to person, just use this as an outline, as it will change batch to batch and even dose to dose.",
+    "dose_note": " Note: This is for plain leaf only. Some users experience stronger effects from lower doses compared to higher doses. It also is very different person to person, it is recommended to use this as an outline, as it will change batch to batch and even dose to dose.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-12"
@@ -23189,9 +23189,9 @@
         "common"
       ],
       "detection": "Kratom use is not detected by typical drug screening tests, but its metabolites can be detected by more specialized testing.",
-      "dose": "Light: 0.5-1.5g Common: 1.5-3g Strong: 3-6g | Note: This is for plain leaf only. Some users experience stronger effects from lower doses compared to higher doses. It also is very different person to person, just use this as an outline, as it will change batch to batch and even dose to dose.",
+      "dose": "Light: 0.5-1.5g Common: 1.5-3g Strong: 3-6g | Note: This is for plain leaf only. Some users experience stronger effects from lower doses compared to higher doses. It also is very different person to person, it is recommended to use this as an outline, as it will change batch to batch and even dose to dose.",
       "duration": "2-5 hours",
-      "effects": "Simultaneous stimulation & sedation. Feelings of empathy. Feelings of euphoria. Aphrodisiac qualities for some people. Vivid waking dreams. Useful with physical labor",
+      "effects": "Simultaneous stimulation & sedation. Feelings of empathy. Feelings of euphoria. Aphrodisiac qualities for some people. Vivid waking dreams. Some individuals find it beneficial when doing physical labor.",
       "onset": "10-40 minutes.",
       "summary": "A drug made out of the leaves of Mitragyna Speciosa, which is related to coffee. Stimulating at lower doses, with opioid effects at higher doses. Frequent heavy use can cause physical addiction and withdrawals."
     },
