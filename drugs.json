@@ -23189,11 +23189,11 @@
         "common"
       ],
       "detection": "Kratom use is not detected by typical drug screening tests, but its metabolites can be detected by more specialized testing.",
-      "dose": "Light: 0.5-1.5g Common: 1.5-3g Strong: 3-6g | Note: This is for plain leaf only. Some users experience stronger effects from lower doses compared to higher doses. It also is very different person to person, it is recommended to use this as an outline, as it will change batch to batch and even dose to dose.",
+      "dose": "Light: 0.5-1.5g Common: 1.5-3g Strong: 3-6g | Note: This is for plain leaf only. Some users experience stronger effects from lower doses in contrast to higher doses. It also is varies between person to person. The doses here are recommended for use as an outline, as it will change batch to batch and even dose to dose.",
       "duration": "2-5 hours",
       "effects": "Simultaneous stimulation & sedation. Feelings of empathy. Feelings of euphoria. Aphrodisiac qualities for some people. Vivid waking dreams. Some individuals find it beneficial when doing physical labor.",
       "onset": "10-40 minutes.",
-      "summary": "A drug made out of the leaves of Mitragyna Speciosa, which is related to coffee. Stimulating at lower doses, with opioid effects at higher doses. Frequent heavy use can cause physical addiction and withdrawals."
+      "summary": "A drug made out of the leaves of Mitragyna Speciosa, which is related to coffee. Stimulating at lower doses, with opioid effects at higher doses. Frequent heavy use can cause physical addiction and ."
     },
     "pweffects": {
       "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
@@ -23262,7 +23262,7 @@
       "dose": "Common: 100-200mg.",
       "duration": "3-6 hours.",
       "onset": "10-30 minutes.",
-      "summary": "An Amino acid that is structural similar to Glutamine. Most report it as a relaxing agent without much sedation. Most commonly found tea. Usually mixed with Caffeine."
+      "summary": "An amino acid that is structural similar to Glutamine. Subjective reports indicate it as a relaxing agent without much sedation. The drug is most commonly found tea, and often mixed with caffeine."
     }
   },
   "librium": {
@@ -23321,7 +23321,7 @@
       "duration": "6-10 hours",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "20-40 minutes",
-      "summary": "Chlordiazepoxide, a medium-acting benzodiazepine drug prescribed mostly for sleep purposes. Sedative and hypnotic, it may cause lowered inhibitions and amnesia in high doses."
+      "summary": "Chlordiazepoxide, a medium-acting benzodiazepine drug typically prescribed for sleep purposes. The drug is reported to be sedative and hypnotic. The drug may  lower inhibitions and cause amnesia."
     },
     "sources": {
       "_general": [
@@ -23756,7 +23756,7 @@
       "dose_to_diazepam": "Lopazolam - 1-2mg's ~=10mg Diazepam.",
       "duration": "6-10 hours.",
       "onset": "30-50 minutes.",
-      "summary": "Is an Imidazolobenzidazepine derivative that has all the classic benzodiazepine effects. Is usually only prescribed for a short amount of time for insomnia."
+      "summary": "The drug is a imidazobenzodiazepine that is reported to have similar subjective effects of diazepam. It is typically prescribed for short amounts of time for insomnia."
     }
   },
   "lorazepam": {
@@ -23769,7 +23769,7 @@
       "depressant",
       "common"
     ],
-    "dose_note": " NOTE: Warning - higher doses increase the chances of blacking out. Also 1mg Lorazepam ~= 10mg Diazepam.",
+    "dose_note": " NOTE: There is a risk of blacking out at higher dosages. 1mg Lorazepam ~= 10mg Diazepam.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-12"
@@ -23818,7 +23818,7 @@
       "duration": "4-8 hours",
       "effects": "Anxiolytic, sedative, high muscle relaxant properties.",
       "onset": "5-30 minutes",
-      "summary": "An intermediate acting benzodiazepine commonly known as Ativan, commonly prescribed as an alternative to Xanax. Sedating, hypnotic and anxiolytic. Potential to induce amnesia and lowered inhibitions in overdose. Do not combine with other depressants."
+      "summary": "An intermediate acting benzodiazepine commonly known as Ativan. The drug is often prescribed as an alternative to alprazolam. The drug is reported to have sedating, hypnotic and anxiolytic effects. The drug may induce amnesia and lower inhibitions. The drug is not recommended to combine with other depressants."
     },
     "pweffects": {
       "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
@@ -23875,7 +23875,7 @@
     "name": "lormetazepam",
     "pretty_name": "Lormetazepam",
     "properties": {
-      "after-effects": "1-24 hours (Heavily dependant on dose)",
+      "after-effects": "1-24 hours depending on dosages",
       "aliases": [
         "noctamid"
       ],
