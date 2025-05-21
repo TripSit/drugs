@@ -23818,7 +23818,7 @@
       "duration": "4-8 hours",
       "effects": "Anxiolytic, sedative, high muscle relaxant properties.",
       "onset": "5-30 minutes",
-      "summary": "An intermediate acting benzodiazepine commonly known as Ativan. The drug is often prescribed as an alternative to alprazolam. The drug is reported to have sedating, hypnotic and anxiolytic effects. The drug may induce amnesia and lower inhibitions. The drug is not recommended to combine with other depressants."
+      "summary": "An intermediate acting benzodiazepine commonly known as Ativan. The drug is often prescribed as an alternative to alprazolam. The drug is reported to have sedating, hypnotic, and anxiolytic effects. The drug may induce amnesia and lower inhibitions. It is recommended not to combine the drug with other depressants"
     },
     "pweffects": {
       "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
@@ -23888,9 +23888,9 @@
       ],
       "dose": "Light: 0.5-1mg Common: 1-2mg Strong: 2-4mg.",
       "dose_to_diazepam": "Lormetazepam - 1-2mg's ~=10mg Diazepam.",
-      "duration": "4-8 hours. (Dependant on dose)",
+      "duration": "4-8 hours depending on dosages",
       "onset": "10-30 minutes.",
-      "summary": "Relatively rare prescription benzodiazepine. Short acting with a short half life. Generally only seen in the Netherlands. Sedative, hypnotic and anxiolytic."
+      "summary": "The drug is a less commonly prescribed benzodiazepine. The drug is short acting with a short half-life. The drug is typically seen in the Netherlands. The drug is reported to have sedative, hypnotic, and anxiolytic effects."
     }
   },
   "lsa": {
@@ -23907,7 +23907,7 @@
       "psychedelic",
       "common"
     ],
-    "dose_note": "Some users report a hangover, characterized by a feeling of mental sluggishness and dulled emotions.",
+    "dose_note": "Some individuals report a hangover, characterized by a feelings of mental sluggishness and dulled emotions.",
     "formatted_dose": {
       "HBWR": {
         "Common": "2-6seeds",
@@ -23954,7 +23954,7 @@
     "name": "lsa",
     "pretty_name": "LSA",
     "properties": {
-      "after-effects": "Some users report a hangover, characterized by a feeling of mental sluggishness and dulled emotions.",
+      "after-effects": "Some individuals report a hangover, characterized by a feelings of mental sluggishness and dulled emotions.",
       "aliases": [
         "hbwr",
         "morningglory",
@@ -23972,7 +23972,7 @@
       "duration": "4-10 hours",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "30-180 minutes",
-      "summary": "A chemical found in Morning Glory and Hawaiian Baby Woodrose seeds, which are often legally available. Has mental effects similar to LSD, although with almost no visual effects. It is famous for being very nauseating, and for causing excessive time dilation at higher doses."
+      "summary": "A chemical found in Morning Glory and Hawaiian Baby Woodrose seeds, which are often sold legally in various stores. The drug is reported to have mental effects similar to LSD, although reportdly little to no visual effects. The drug is reported to frequently cause nausea and causing excessive time dilation at higher dosages."
     },
     "pweffects": {
       "8B Geometry - Exposure to inner mechanics of consciousness": "https://psychonautwiki.org/wiki/8B_Geometry_-_Exposure_to_inner_mechanics_of_consciousness",
@@ -24195,18 +24195,18 @@
         "cid",
         "lucy"
       ],
-      "avoid": "cannabis (Can potentiate effects)",
+      "avoid": "Caution is recommended for cannabis due to potentiation and related change in effects.",
       "categories": [
         "psychedelic",
         "common"
       ],
-      "dose": "Oral Light: 50-100ug Common: 100-150ug Strong: 175-225ug Heavy: 250ug+ | Note: These doses are for pure LSD, note that tabs are often rather a lot weaker than they are advertised.",
+      "dose": "Oral Light: 50-100ug Common: 100-150ug Strong: 175-225ug Heavy: 250ug+ | Note: These doses are for pure LSD, it should be noted that tabs are often a lot weaker than advertised.",
       "duration": "9-14 hours, varying with dosage (heavy doses can lead to much longer trips).",
       "effects": "visual distortions, a sense of childlike wonder, brightening of colors,racing thoughts, hue shifts, euphoria, anxiety, confusion",
       "half-life": "3-5 hours",
       "marquis": "Olive black",
       "onset": "45-90 minutes depending on ROA and stomach contents.",
-      "Oral": "Light: 50-100ug Common: 100-150ug Strong: 175-225ug Heavy 225ug+ | Note: These doses are for pure LSD, note that tabs are often rather a lot weaker than they are advertised.",
+      "Oral": "Light: 50-100ug Common: 100-150ug Strong: 175-225ug Heavy 225ug+ | Note: These doses are for pure LSD, it should be noted that tabs are often a lot weaker than advertised.",
       "summary": "LSD is a popular psychedelic with a relatively long history of use and research, and as such is known to be relatively safe despite its extremely high potency. It is the archetypical psychedelic to which all others are compared, and remains in popular usage."
     },
     "pweffects": {
