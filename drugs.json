@@ -24201,13 +24201,13 @@
         "common"
       ],
       "dose": "Oral Light: 50-100ug Common: 100-150ug Strong: 175-225ug Heavy: 250ug+ | Note: These doses are for pure LSD, it should be noted that tabs are often a lot weaker than advertised.",
-      "duration": "9-14 hours, varying with dosage (heavy doses can lead to much longer trips).",
-      "effects": "visual distortions, a sense of childlike wonder, brightening of colors,racing thoughts, hue shifts, euphoria, anxiety, confusion",
+      "duration": "9-14 hours depending on dosages (heavy doses can lead to much longer trips).",
+      "effects": "visual distortions, a sense of childlike wonder, brightening of colors, racing thoughts, hue shifts, euphoria, anxiety, confusion",
       "half-life": "3-5 hours",
       "marquis": "Olive black",
       "onset": "45-90 minutes depending on ROA and stomach contents.",
       "Oral": "Light: 50-100ug Common: 100-150ug Strong: 175-225ug Heavy 225ug+ | Note: These doses are for pure LSD, it should be noted that tabs are often a lot weaker than advertised.",
-      "summary": "LSD is a popular psychedelic with a relatively long history of use and research, and as such is known to be relatively safe despite its extremely high potency. It is the archetypical psychedelic to which all others are compared, and remains in popular usage."
+      "summary": "LSD is a popular psychedelic drug with a relatively long history of use and research. It is the archetypical psychedelic and remains in popular usage."
     },
     "pweffects": {
       "8A Geometry - Exposure to semantic concept network": "https://psychonautwiki.org/wiki/8A_Geometry_-_Exposure_to_semantic_concept_network",
@@ -24326,7 +24326,7 @@
       "dose": "Light: 0.5-0.75mg Common: 0.75-1mg Strong: 1-1.5mg Heavy: 1.5+mg.",
       "duration": "8-13 hours",
       "onset": "25-45 minutes",
-      "summary": "Psychedelic of the lysergamide class, less potent by weight and produces a rather mild, dreamy and even sedating trip compared to its bigger brother LSD."
+      "summary": "Psychedelic of the lysergamide class, the drug is less potent by weight than LSD. The drug is reported to produce mild, dreamy, sedating effects in contrast to LSD."
     }
   },
   "lsz": {
@@ -24387,7 +24387,7 @@
       "duration": "7-10 hours",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "90-120 minutes.",
-      "summary": "A lysergamide very similar to LSD usually distinguishable only by its shorter duration, though some subjective reports have noted it may be slightly more introspective and slightly less confusing."
+      "summary": "A lysergamide similar to LSD typically distinguishable by its shorter duration. Some subjective reports indicate the drug may have slightly more introspective effects, and may be slightly less confusing of an experience."
     }
   },
   "marinol": {
@@ -24496,7 +24496,7 @@
       "dose": "Light: 150-180mg Common: 180-210mg Strong: 210-250mg+",
       "duration": "3-8 hours",
       "onset": "30-120 minutes.",
-      "summary": "A rare entactogenic drug and analogue of MDMA possibly first synthesised by David Nichols. Potentially less potent than related drugs of its type. Sometimes referred to as a 'watered down MDMA.'"
+      "summary": "A rare entactogenic drug and analogue of MDMA. Suspected to be first synthesised by David E. Nichols. The drug is suspected to be less potent than related drugs of its type. It is sometimes referred to as a 'watered down MDMA.'"
     }
   },
   "mbzp": {
@@ -24532,7 +24532,7 @@
     "name": "mbzp",
     "pretty_name": "MBZP",
     "properties": {
-      "after-effects": "2-4 hours, yet can be much long with extended doses/ect.",
+      "after-effects": "2-4 hours (depending on dosages, the after-effects may last significantly longer).",
       "aliases": [
         "methylbenylpiperazine"
       ],
@@ -24568,7 +24568,7 @@
         "tentative"
       ],
       "onset": "Oral: >60 minutes. Insufflated: >30 minutes.",
-      "summary": "A phenylpiperazine stimulant first developed in the 1970s before being sold in the RC market, often mislabelled as MDMA. Said to have very unpleasant effects such as anxiogenesis and headaches."
+      "summary": "A phenylpiperazine stimulant first developed in the 1970s before being sold in the RC market. The drug is often mislabelled as MDMA. It is reported to have unpleasant effects such as anxiogenesis and headaches."
     }
   },
   "mda": {
@@ -24618,7 +24618,7 @@
       "duration": "2-5 hours",
       "marquis": "Black",
       "onset": "20-90 minutes",
-      "summary": "A stimulant and empathogen. Similar to MDMA but typically produces more visuals than MDMA. Known to be more neurotoxic than MDMA, and is a minor metabolite of MDMA. Duration and onset similar to MDMA. The common Marquis reagent test cannot differentiate MDA and MDMA."
+      "summary": "The drug is a stimulant and empathogen. It is reported to have similar effects to MDMA but typically produces more visuals. THe drug is reportdly more neurotoxic than MDMA, and is a minor metabolite of MDMA. The duration and onset are reported to be similar to MDMA. The common Marquis reagent test cannot differentiate MDA and MDMA."
     },
     "sources": {
       "_general": [
@@ -24671,7 +24671,7 @@
       "dose": "Threshold: 20-40mg Light: 40-100mg Common: 100-150mg Heavy: 150-300mg+",
       "duration": "4-6 hours.",
       "onset": "30-60 minutes",
-      "summary": "A selective serotonin releasing agent which is rarely used without a stimulant to obtain desirable effects. Previously believed not to be neuruotoxic, however MDAI has been implicated in several lethal and non-lethal intoxications, and as such may pose more of a risk to health than previously believed."
+      "summary": "A selective serotonin and norepinephrine releasing agent which is rarely used without a stimulant to obtain desirable effects. Previously believed not to be neuruotoxic, MDAI has been implicated in several lethal and non-lethal intoxications, and as such may pose more of a risk to health than previously believed."
     }
   },
   "mdea": {
@@ -24719,7 +24719,7 @@
       "dose": "Light: 80-100mg Common: 100-150mg Strong: 150-200mg.",
       "duration": "3-6 hours.",
       "onset": "30-60 minutes.",
-      "summary": "A quite rare empathogen closely related to MDMA. Yet is less potent than the prior."
+      "summary": "A rare empathogen structurally related to MDMA. The drug is reportedly less potent than MDMA."
     }
   },
   "mdma": {
@@ -24974,10 +24974,10 @@
       "detection": "1-3 days single use, 3-5 days heavy use",
       "dose": "Oral Light: 40-75mg  Common: 75-125mg  Strong: 125-175mg  Heavy: 175mg+ | Insufflated/Rectal Light: 30-70mg  Common: 70-120mg Strong: 120-165mg  Heavy: 165mg+ | NOTE: Higher doses increase neurotoxic effects",
       "duration": "3-5 hours",
-      "general-advice": "Only roll every 2-3 months.",
+      "general-advice": "It is recommended to wait multiple months between taking MDMA.",
       "marquis": "Black (may have purple tint)",
       "onset": "20-70 minutes",
-      "summary": "The world's most popular empathogen with powerful pro-social effects. Has been strongly linked to cognitive decline in excess. Popular at parties, it is often sold in powder or in pills, and may be adulterated with other similar chemicals.",
+      "summary": "The world's most popular empathogen with powerful pro-social effects. The drug has been strongly associated with symptoms of cognitive decline when taken in excess. The drug is popular at parties, often sold as powder or in pills, and may be adulterated with other similar chemicals.",
       "wiki": "http://wiki.tripsit.me/wiki/MDMA"
     },
     "sources": {
