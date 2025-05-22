@@ -415,7 +415,7 @@
       "experiences": "https://www.erowid.org/experiences/subs/exp_2Aminoindan.shtml",
       "half-life": "1-2 hours.",
       "onset": "10-30 minutes",
-      "summary": "Short acting stimulant that is sometimes compared to the likes of Methamphetamine. It is a rigid analogue of Amphetamine, and also partially substitutes for the prior in rat discrimination studies.",
+      "summary": "Short-acting stimulant that is sometimes compared to the likes of Methamphetamine. It is a rigid analogue of Amphetamine, and also partially substitutes for the prior in rat discrimination studies.",
       "test-kits": "Marquis: Orange > Brown. | Mecke: Yellow. | Mandelin: Blue. | Liebermann: Yellow Brown. | Ehrlich: No colour change."
     },
     "pweffects": {
@@ -9020,7 +9020,7 @@
       "duration": "4-10 hours.",
       "effects": "Mild OEV's, strong CEV's, A sense of well being and contentedness.",
       "onset": "45-90 minutes.",
-      "summary": "A relatively new and popular research chemical. A short acting psychedelic related to 2C-C with similar effects to LSD, though more visual with less of a 'head-trip.' Frequently missold as LSD. Causes an uncomfortable body load and has caused several deaths even within regular dose ranges.",
+      "summary": "A relatively new and popular research chemical. A short-acting psychedelic related to 2C-C with similar effects to LSD, though more visual with less of a 'head-trip.' Frequently missold as LSD. Causes an uncomfortable body load and has caused several deaths even within regular dose ranges.",
       "test-kits": "Marquis: Slow Purple. | Mecke: Brown. | Mandelin: No colour change.  | Froehde: Yellow. | Liebermann: Yellow > Black. | Ehrlich's Reagent: No colour change.",
       "tolerance": "25c has an extremely prevalent tolerence, with users reporting a strong cross tolerence with LSD, mushrooms, 2c-X, 25x, and DOx chemicals. Tolerence lasts roughly 2 weeks, depending on the user."
     },
@@ -13803,7 +13803,7 @@
       "dose": "Oral Light: 40-70mg Common: 70-100mg Strong: 100-130mg Heavy: 130mg+",
       "duration": "4-6 hours.",
       "onset": "30-45 minutes.",
-      "summary": "A stimulant that was sold as \"legal ecstasy\" in the late 2000s, and was one of the first drugs widely marketed as a \"research chemical.\" It has a reportedly less favourable effect profile and has fallen out of popularity greatly since it was banned in many countries."
+      "summary": "A stimulant that was sold as \"legal ecstasy (MDMA)\" in the late 2000s, and was one of the first drugs widely marketed as a \"research chemical.\" It has a reportedly less favourable effect profile and has fallen out of popularity greatly since it was banned in many countries."
     }
   },
   "c30-nbome": {
@@ -15459,7 +15459,7 @@
       "effects": "Elevated mood. Increase in irritability, hyper-inflated ego, euphoria, stimulation, raised heartrate, numbing effects depending on ROA, nausea (particularly at high doses)",
       "marquis": "Clear (No change)",
       "onset": "Rapid.",
-      "summary": "A highly popular, short acting CNS stimulant that works by blocking the reuptake of dopamine, serotonin, and norepinephrine. It is known to increase euphoria, confidence, sex-drive, focus, body temperature, and heart rate. Cocaine can cause severe vasoconstriction and is known to be cardiotoxic and have a high potential for compulsive redosing and addiction."
+      "summary": "A highly popular, short-acting CNS stimulant that works by blocking the reuptake of dopamine, serotonin, and norepinephrine. It is known to increase euphoria, confidence, sex-drive, focus, body temperature, and heart rate. Cocaine can cause severe vasoconstriction and is known to be cardiotoxic and have a high potential for compulsive redosing and addiction."
     },
     "pweffects": {
       "Abnormal heartbeat": "https://psychonautwiki.org/wiki/Abnormal_heartbeat",
@@ -20698,7 +20698,7 @@
       "duration": "3-8 hours.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "10-30 minutes.",
-      "summary": "A benzodiazepine derivative. It was invented in Japan, and has it reported to mainly be used there. The drug has similar potency to Diazepam, yet produces a more marked sedation and impaired coordination. The drug is typically used as a treatment for insomnia. The drug is reported to have hypnotic and sedative effects and may cause amnesia and lowered inhibitions in high dosages."
+      "summary": "A benzodiazepine derivative. It was invented in Japan, and has it reported to mainly be used there. The drug has similar potency to diazepam, yet produces a more marked sedation and impaired coordination. The drug is typically used as a treatment for insomnia. The drug is reported to have hypnotic and sedative effects and may cause amnesia and lowered inhibitions in high dosages."
     }
   },
   "flutoprazepam": {
@@ -22919,7 +22919,7 @@
       "effects": "A feeling of drunkenness and well being at low doses. As dose increases the user may begin to feel a disconnection from their body. At 'khole' doses the user may become completely disconnected from both body and mind.",
       "molecule": "http://wiki.tripsit.me/images/7/76/Ketamine.png",
       "onset": "Insufflated: 7.5-20 minutes | Oral: 10-75 minutes | Intramuscular: 2-7.5 minutes | Intravenous: 0-2 minutes",
-      "summary": "A short acting dissociative anaesthetic and hallucinogen commonly used in medicine. It is the prototypical dissociative, and is widely used at sub-anesthetic doses recreationally. Small doses are comparable with alcohol, while larger doses are immobilising and lead to psychedelic experiences: the \"K-Hole.\""
+      "summary": "A short-acting dissociative anaesthetic and hallucinogen commonly used in medicine. It is the prototypical dissociative, and is widely used at sub-anesthetic doses recreationally. Small doses are comparable with alcohol, while larger doses are immobilising and lead to psychedelic experiences: the \"K-Hole.\""
     },
     "pweffects": {
       "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
@@ -23039,7 +23039,7 @@
       "dose_to_diazepam": "Ketazolam - 15-30mg's roughly equal to 10mg Diazepam.",
       "duration": "8-12 hours.",
       "onset": "30-90 minutes.",
-      "summary": "The drug is a benzodiazepine derivative, that is reported to have similar effects to Diazepam, with reportedly milder side-effects. The drug is marketed in a few countries."
+      "summary": "The drug is a benzodiazepine derivative, that is reported to have similar effects to diazepam, with reportedly milder side-effects. The drug is marketed in a few countries."
     }
   },
   "ketobemidone": {
@@ -23890,7 +23890,7 @@
       "dose_to_diazepam": "Lormetazepam - 1-2mg's ~=10mg Diazepam.",
       "duration": "4-8 hours depending on dosages",
       "onset": "10-30 minutes.",
-      "summary": "The drug is a less commonly prescribed benzodiazepine. The drug is short acting with a short half-life. The drug is typically seen in the Netherlands. The drug is reported to have sedative, hypnotic, and anxiolytic effects."
+      "summary": "The drug is a less commonly prescribed benzodiazepine. The drug is short-acting with a short half-life. The drug is typically seen in the Netherlands. The drug is reported to have sedative, hypnotic, and anxiolytic effects."
     }
   },
   "lsa": {
@@ -23972,7 +23972,7 @@
       "duration": "4-10 hours",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "30-180 minutes",
-      "summary": "A chemical found in Morning Glory and Hawaiian Baby Woodrose seeds, which are often sold legally in various stores. The drug is reported to have mental effects similar to LSD, although reportdly little to no visual effects. The drug is reported to frequently cause nausea and causing excessive time dilation at higher dosages."
+      "summary": "A chemical found in Morning Glory and Hawaiian Baby Woodrose seeds, which are often sold legally in various stores. The drug is reported to have mental effects similar to LSD, although reportedly little to no visual effects. The drug is reported to frequently cause nausea and causing excessive time dilation at higher dosages."
     },
     "pweffects": {
       "8B Geometry - Exposure to inner mechanics of consciousness": "https://psychonautwiki.org/wiki/8B_Geometry_-_Exposure_to_inner_mechanics_of_consciousness",
@@ -24618,7 +24618,7 @@
       "duration": "2-5 hours",
       "marquis": "Black",
       "onset": "20-90 minutes",
-      "summary": "The drug is a stimulant and empathogen. It is reported to have similar effects to MDMA but typically produces more visuals. THe drug is reportdly more neurotoxic than MDMA, and is a minor metabolite of MDMA. The duration and onset are reported to be similar to MDMA. The common Marquis reagent test cannot differentiate MDA and MDMA."
+      "summary": "The drug is a stimulant and empathogen. It is reported to have similar effects to MDMA but typically produces more visuals. The drug is reportedly more neurotoxic than MDMA, and is a minor metabolite of MDMA. The duration and onset are reported to be similar to MDMA. The common Marquis reagent test cannot differentiate MDA and MDMA."
     },
     "sources": {
       "_general": [
@@ -25264,7 +25264,7 @@
       "effects": "stimulation (mental and physical), euphoria, increased mental clarity, elevated heart rate, headache, confusion, paranoia, loss of apetite, muscle tension",
       "marquis": "Yellow",
       "onset": "Oral: 15-30 minutes | Insufflated: 5-20 minutes",
-      "summary": "MDPV is a potent, and extremely compulsive synthetic euphoric stimulant, which shares some empathogenic effects with MDMA. Has a reputation for causing psychosis. MDPV has been found in products sold as \"bath salts\", \"plant food/fertilizer\", and in some \"ecstasy.\""
+      "summary": "MDPV is a potent stimulant, that often induces compulsive tendencies and euphoric effects.which shares some empathogenic effects with MDMA. The drug has reportedly caused an abnormal amount of psychosis cases. MDPV has been found in products sold as \"bath salts\", \"plant food/fertilizer\", and in products sold as \"MDMA.\""
     },
     "sources": {
       "_general": [
@@ -25339,7 +25339,7 @@
       "duration": "Oral: 60-120 minutes. | Sublingual: 45-90 minutes. | Insufflated: 30-60 minutes. | Vapourized: 20-40 minutes.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "Oral: 10-20 minutes. | Sublingual: 5-15 minutes. | Insufflated: 5-10 minutes. | Vapourized: 1-2 minutes.",
-      "summary": "A short acting analogue of Methaqualone, that is much more potent."
+      "summary": "A short-acting analogue of Methaqualone that is much more potent."
     }
   },
   "meclonazepam": {
@@ -25390,7 +25390,7 @@
       "duration": "9-15 hours.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "20-60 minutes",
-      "summary": "A benzodiazepine related to clonazepam discovered by Hoffman-LaRoche in the 1960s. Potentially useful in treating schistosomiasis. Has been sold on the grey market as a recreational drug but has not seen widespread popularity."
+      "summary": "A benzodiazepine related to clonazepam discovered by Hoffman-LaRoche in the 1960s. The drug is suspected to be useful in treating schistosomiasis. The drug been sold on the grey market as a recreational drug but has not seen widespread popularity."
     }
   },
   "medazepam": {
@@ -25448,7 +25448,7 @@
       "dose_to_diazepam": "Medazepam - 10mg ~=10mg Diazepam.",
       "duration": "8-16 hours.",
       "onset": "30-120 minutes.",
-      "summary": "Benzodiazepine derivative that has all of the classic benzodiazepine effects. Is a long-acting benzodiazepine drug (Half life of 36-200 hours) Is rarely prescribed in most countries. Is also a prodrug for Diazepam. Think of it as Desoxy-Diazepam if you'd like to."
+      "summary": "The drug is a benzodiazepine derivative, it is described to have similar effects as diazepam. It is a long-acting benzodiazepine drug with a half-life of 36-200 hours. The drug is rarely prescribed and is a prodrug for diazepam. The drug has been described by anectodal reports as a sort of '/Desoxy-Diazepam/'."
     }
   },
   "melatonin": {
@@ -25482,10 +25482,10 @@
         "common",
         "supplement"
       ],
-      "dose": "Common: .3-1mg",
+      "dose": "Common: 0.3-1mg",
       "duration": "6-8 hours.",
       "onset": "Within an hour.",
-      "summary": "A naturally occurring hormone produced in the body, which promotes sleep at certain times in the day based on the circadian rhythm. It is also commonly available as a drug to treat insomnia and promote a proper sleep cycle. It can be used to promote sleepfulness at the tail-end of drug experiences, though it is not particularly hypnotic."
+      "summary": "A naturally occurring hormone produced in the body which promotes sleep at certain times in the day based on the circadian rhythm. It is also commonly available as a drug to treat insomnia and promote a proper sleep cycle. It can be used to promote sleepfulness at the tail-end of drug experiences, though it is not particularly hypnotic."
     },
     "pweffects": {
       "Dream potentiation": "https://psychonautwiki.org/wiki/Dream_potentiation"
@@ -26289,7 +26289,7 @@
       "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
       "half-life": "12-18 hours on the first dose 13-47 on concurrent",
       "onset": "45-120 minutes.",
-      "summary": "A synthetic opioid drug used as an analgesic and is often used in detoxification off of other opioids. As it has a much longer half-life."
+      "summary": "An opioid drug used as an analgesic and is often used in detoxification off of other opioids. As it has a much longer half-life."
     },
     "sources": {
       "_general": [
@@ -32090,7 +32090,7 @@
       "duration": "Intravenous: 10-20 minutes.",
       "experiences": "https://www.reddit.com/r/Drugs/comments/56n5vq/michael_jackson_the_addict/d8l0qe7",
       "onset": "Intravenous: 0-2 minutes.",
-      "summary": "A very short acting sedative that is usually given at the start of general anesthesia, and for maintenance of the prior. It should never be used outside of a medical setting. With that in mind, if you do plan to use this drug recreational, please have a very experienced friend with you that has the skills to insert a cannula, and monitor you very closely."
+      "summary": "A very short-acting sedative that is usually given at the start of general anesthesia, and for maintenance of the prior. It should never be used outside of a medical setting. With that in mind, if you do plan to use this drug recreational, please have a very experienced friend with you that has the skills to insert a cannula, and monitor you very closely."
     }
   },
   "propoxyphene": {
@@ -32303,7 +32303,7 @@
       "dose": "Oral Light: 15-25mg Common: 25-60mg Strong: 60-100mg Heavy: 100mg+",
       "duration": "1.5-3 hours.",
       "onset": "15-25 minutes.",
-      "summary": "Propylphenidate is a short acting stimulant."
+      "summary": "Propylphenidate is a short-acting stimulant."
     }
   },
   "proscaline": {
@@ -34417,7 +34417,7 @@
       "duration": "Oral: 4-7 hours. | Insufflated: 3-5 hours.",
       "effects": "Anxiolytic, but primarily sedative or hypnotic.",
       "onset": "10-20 minutes.",
-      "summary": "An uncommon and very short acting benzodiazepine. Sedating and hypnotic, and may induce amnesia and lowered inhibitions at high doses."
+      "summary": "An uncommon and very short-acting benzodiazepine. Sedating and hypnotic, and may induce amnesia and lowered inhibitions at high doses."
     }
   },
   "troparil": {
