@@ -173,7 +173,7 @@
       "dose": "Oral Light: 25-50ug Common: 50-100ug Strong: 100-200ug",
       "duration": "8-10 hours",
       "onset": "30-90 minutes",
-      "summary": "1cP-LSD (1-cyclopropionyl-lysergic acid diethylamide) is a novel lysergamide with little to no history of use. It is said to be a less pushy and shorter lasting version of LSD. Described as having a more gradual onset than 1P-LSD, with a less visual more meditative headspace when compared with LSD.*NOTE: This is a very new research chemical - take all info with a grain of salt.*"
+      "summary": "1cP-LSD (1-cyclopropionyl-lysergic acid diethylamide) is a novel lysergamide with little to no history of use. It is said to be a less pushy and shorter lasting version of LSD. Described as having a more gradual onset than 1P-LSD, with a less visual more meditative headspace when compared with LSD. *NOTE: This is a very new research chemical - take all info with a grain of salt.*"
     }
   },
   "1p-eth-lad": {
@@ -24914,7 +24914,7 @@
         "status": "Dangerous"
       }
     },
-    "dose_note": " NOTE: Higher doses increase neurotoxic effects",
+    "dose_note": " NOTE: Higher dosages may increase neurotoxic effects",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-72"
@@ -24972,9 +24972,9 @@
         "common"
       ],
       "detection": "1-3 days single use, 3-5 days heavy use",
-      "dose": "Oral Light: 40-75mg  Common: 75-125mg  Strong: 125-175mg  Heavy: 175mg+ | Insufflated/Rectal Light: 30-70mg  Common: 70-120mg Strong: 120-165mg  Heavy: 165mg+ | NOTE: Higher doses increase neurotoxic effects",
+      "dose": "Oral Light: 40-75mg  Common: 75-125mg  Strong: 125-175mg  Heavy: 175mg+ | Insufflated/Rectal Light: 30-70mg  Common: 70-120mg Strong: 120-165mg  Heavy: 165mg+ | NOTE: Higher doses may increase neurotoxic effects",
       "duration": "3-5 hours",
-      "general-advice": "It is recommended to wait multiple months between taking MDMA.",
+      "general-advice": "It is recommended to wait multiple months between MDMA rolls.",
       "marquis": "Black (may have purple tint)",
       "onset": "20-70 minutes",
       "summary": "The world's most popular empathogen with powerful pro-social effects. The drug has been strongly associated with symptoms of cognitive decline when taken in excess. The drug is popular at parties, often sold as powder or in pills, and may be adulterated with other similar chemicals.",
@@ -25072,7 +25072,7 @@
       "dose": "Threshold: 80mg Light: 100-120mg Common: 120-150mg Heavy: 150mg+ (Tentative)",
       "duration": "4-6 hours",
       "onset": "20-40 minutes.",
-      "summary": "An entactogen, stimulant and psychedelic first synthesised by Alexander Shulgin, MDOH is an analogue of MDA. Described as highly psychedelic, it is likely a serotonin releasing agent. It has not seen widespread use, perhaps due to a number of reported negative side effects such as urinary retention and a heavy comedown."
+      "summary": "An entactogen, stimulant, and psychedelic first synthesised by Alexander Shulgin. MDOH is an analogue of MDA. The drug is described as having highly psychedelic effects. The drug is suspected to be a serotonin releasing agent. The drug has not seen widespread use. The drug is reported to have a number of side effects such as urinary retention and a heavy comedown."
     }
   },
   "mdpa": {
@@ -25116,7 +25116,7 @@
       "dose": "Oral Light: 75-125mg Common: 125-175mg Strong: 175-250mg Heavy: 250+mg.",
       "duration": "2-4 hours",
       "onset": "15-45 minutes.",
-      "summary": "An obscure substituted methylenedioxyphenethylamine with practically no history of human use. Its pharmacological profile is largely unknown, but potentially exhibits similar properties to other MDxx compounds. May be a monoamine releaser, reuptake inhibitor or both."
+      "summary": "An obscure substituted methylenedioxyphenethylamine with little history of human use. The drugs pharmacological profile is largely unknown, but it is suspected it may exhibit similar properties to other MDxx compounds. The drug may be a monoamine releaser, reuptake inhibitor, or both."
     }
   },
   "mdphp": {
@@ -25129,7 +25129,7 @@
       "habit-forming",
       "research-chemical"
     ],
-    "dose_note": "NOTE: Dose data is tentative; There is a large variance in potency and composition of batches, and as such caution should be used when taking MDPHP. See ~mdphp summary ",
+    "dose_note": "NOTE: The dosage data is tentative. There is a large variance in potency and composition of batches and as such caution should be used when taking MDPHP. See ~mdphp summary",
     "formatted_aftereffects": {
       "_unit": "hours",
       "Insufflated": "2-36",
@@ -25183,11 +25183,11 @@
         "habit-forming",
         "research-chemical"
       ],
-      "dose": "NOTE: Dose data is tentative; There is a large variance in potency and composition of batches, and as such caution should be used when taking MDPHP. See ~mdphp summary | Oral Light: 10-20mg Common: 20-35mg Strong: 35+mg | Insufflated Light: 5-10mg Common: 10-20mg Strong: 20+mg",
+      "dose": "NOTE: The dosage data is tentative. There is a large variance in potency and composition of batches and as such caution should be used when taking MDPHP. See ~mdphp summary | Oral Light: 10-20mg Common: 20-35mg Strong: 35+mg | Insufflated Light: 5-10mg Common: 10-20mg Strong: 20+mg",
       "duration": "Oral: 3-6 hours | Insufflated: 2-4 hours",
       "effects": "Stimulation, Incresed Motivation, Mood Enhancement, Euphoria, Sexual Enhancement, Anxiety, Paranoia, Dry Mouth, Muscle Tension, Restlessness, Uncomfortable Stimulation",
       "onset": "Oral: 30-60 minutes | Insufflated: 5-15 minutes",
-      "summary": "MDPHP aka 'Monkey-Dust' is a substituted cathinone and pyrovalerone which has been sold as an alternative to a-PHP and MDPV. Said to be less intense than MDPV with similar effects. MDPHP potency is said to vary widely, and there are reports of mixed composition batches containing other drugs. Very little is known about MDPHP in terms of toxicity, pharmacology and metabolism."
+      "summary": "MDPHP aka 'Monkey-Dust' is a substituted cathinone and pyrovalerone which has been sold as an alternative to a-PHP and MDPV. The drug is reported to be less intense than MDPV with similar effects. MDPHP potency is said to vary widely, and there are reports of mixed composition batches containing other drugs. There is little is known about MDPHP in terms of toxicity, pharmacology, and metabolism."
     }
   },
   "mdpv": {
