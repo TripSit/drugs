@@ -25485,7 +25485,7 @@
       "dose": "Common: 0.3-1mg",
       "duration": "6-8 hours.",
       "onset": "Within an hour.",
-      "summary": "A naturally occurring hormone produced in the body which promotes sleep at certain times in the day based on the circadian rhythm. It is also commonly available as a drug to treat insomnia and promote a proper sleep cycle. It can be used to promote sleepfulness at the tail-end of drug experiences, though it is not particularly hypnotic."
+      "summary": "A naturally occurring hormone produced in the body which promotes sleep at certain times in the day based on the circadian rhythm. It is also commonly available as a drug to treat insomnia and to promote a proper sleep cycle. It can be used to promote sleepfulness at the tail-end of drug experiences, though it is reported to be not particularly hypnotic."
     },
     "pweffects": {
       "Dream potentiation": "https://psychonautwiki.org/wiki/Dream_potentiation"
@@ -25560,8 +25560,8 @@
       "dose": "Threshold: 15mg Low: 15-25mg Common: 25-35mg Strong: 35-45mg+.",
       "duration": "8-16 hours (Highly dependant on dose)",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
-      "onset": "Within 60 minutes.",
-      "summary": "A rare stimulant, psychedelic, amphetamine discovered by Alexander Shulgin. Related to the DOx class of drugs, \ is known about this obscure compound's pharmacology, however it is likely to be potent and have a long duration."
+      "onset": "Typically within 60 minutes.",
+      "summary": "A rare stimulant, psychedelic amphetamine discovered by Alexander Shulgin. Related to the DOx class of drugs, there is little known about this obscure compounds pharmacology, however it is suspected to be potent and have a long duration."
     }
   },
   "memantine": {
@@ -25599,18 +25599,19 @@
       "dose": "Oral Low: 10-20mg Common: 20-40mg Heavy: 40-80mg+",
       "duration": "12-72 hours",
       "onset": "30-90 minutes.",
-      "summary": "An NMDA-antagonist that if used recreationally can cause to a very prolonged \"hole\" lasting up to 16+ hours."
+      "summary": "An NMDA-antagonist that may produce a  prolonged dissociative \"hole\" experience lasting up to 16+ hours. The drug is used clinically to slow the progression of moderate-to-severe Alzheimer's disease, among other treatments."
     },
     "sources": {
       "_general": [
-        "Memantine prevents aluminum-induced cognitive deficit in rats. - https://www.ncbi.nlm.nih.gov/pubmed/21741993"
+        "Memantine prevents aluminum-induced cognitive deficit in rats - https://www.ncbi.nlm.nih.gov/pubmed/21741993",
+        "Classics in Chemical Neuroscience: Memantine - https://doi.org/10.1021/acschemneuro.7b00270"
       ]
     }
   },
   "mephedrone": {
     "aliases": [
       "4-mmc",
-      "meow",
+      "meow meow",
       "m-cat",
       "4-methylmethcathinone",
       "4mmc"
@@ -25687,7 +25688,7 @@
       "value": "2-3"
     },
     "formatted_effects": [
-      "Generally described as being more intense of a stimulant than MDMA but with somewhat less of an empathogenic feel"
+      "Generally described as being more intense of a stimulant than MDMA but with less of an empathogenic feel"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -25702,7 +25703,7 @@
       "after-effects": "6-24 hours",
       "aliases": [
         "4-mmc",
-        "meow",
+        "meow meow",
         "m-cat",
         "4-methylmethcathinone",
         "4mmc"
@@ -25716,9 +25717,9 @@
       "detection": "Mixed reports on whether the drug shows positive on standard drug tests.",
       "dose": "Oral  Light: 50-100mg Common: 100-200mg Strong: 150-300mg Heavy: 300mg+ | Insufflated  Light: 15-25mg Common: 20-80mg Strong: 75-125mg Heavy: 125mg+",
       "duration": "2-3 hours",
-      "effects": "Generally described as being more intense of a stimulant than MDMA but with somewhat less of an empathogenic feel.",
+      "effects": "Generally described as being more intense of a stimulant than MDMA but with less of an empathogenic feel.",
       "onset": "15-45 minutes",
-      "summary": "A shortlived euphoric stimulant, developed as an analogue of MDMA, which was extremely popular in the research chemical scene before being banned. Commonly seen on street markets but rarer online. Very strong urge to redose compulsively."
+      "summary": "A short-lived euphoric stimulant, developed as an analogue of MDMA, which was extremely popular in the research chemical scene before being banned. The drug is commonly seen on street markets but rarer online. Reports indicate a strong urge to compulsively redose."
     },
     "pweffects": {
       "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
@@ -25814,7 +25815,7 @@
       "dose": "Oral Light: 5-15mg Common: 15-25mg Strong: 25-40mg. | Insufflated Light: 5-10mg Common: 10-20mg Strong: 20-25mg's.",
       "duration": "Oral: 3-5 hours. | Insufflated 2-3 hours.",
       "onset": "Oral: 15-30 minutes. | Insufflated: 5-10 minutes.",
-      "summary": "4-Methylphenmetrazine is an empathogen of the phenylmorpholine class that seems to have a very rapid tolerance build up."
+      "summary": "4-Methylphenmetrazine is an empathogen of the phenylmorpholine class. Reports indicate tolerance for this drug builds very fast."
     }
   },
   "mephtetramine": {
@@ -25835,8 +25836,8 @@
         "research-chemical",
         "tentative"
       ],
-      "summary": "Has a Phenpropylamine backbone like Methylphenidate. Seems barely active past negative physical effects. Only reports that include activity past the prior were mixing it with another substance.",
-      "warning": "Probably inactive. Please pm \"Hypnos\" if you have a trip report saying otherwise."
+      "summary": "There is limited information on the substance. Reports have conflicting information on the drug as well. Some reports indicate the drug is inactive, while others indicate that the drug effects such as talkativeness, euphoria, and mental stimulation.",
+      "warning": ""
     }
   },
   "mescaline": {
@@ -26029,7 +26030,7 @@
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "marquis": "Strong orange",
       "onset": "60-180 minutes, sometimes longer.",
-      "summary": "A psychedelic of the phenethylamine family. Found in psychedelic cacti that have long been used by peoples native to the Southwestern US and Mexico, including Peyote and San Pedro cacti, among others. Can be found as cactus pulp, as an extract from cacti, or as a synthetic substance created in a lab."
+      "summary": "A psychedelic of the phenethylamine family. The drug is found in many cacti, such as Peyote and San Pedro, and has a long history of use. Mescaline can be found naturally and is often syntheized as a synthetic compound."
     },
     "pweffects": {
       "8B Geometry - Exposure to inner mechanics of consciousness": "https://psychonautwiki.org/wiki/8B_Geometry_-_Exposure_to_inner_mechanics_of_consciousness",
@@ -26154,7 +26155,7 @@
       "duration": "Oral: 4-6 hours. | Insufflated: 2-3 hours. | Smoked: 0.5-1 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "Oral: 60-90 minutes. | Insufflated: 10-15 minutes. | Smoked: 5-10 minutes.",
-      "summary": "A rare psychedelic tryptamine, related to DMT and DET. Little information exists about the effects or pharmacology of this drug."
+      "summary": "A rare psychedelic tryptamine, related to DMT and DET. There is little known information about this drug, further research is highly recommended."
     }
   },
   "metaclazepam": {
@@ -26186,7 +26187,7 @@
       ],
       "dose": "Oral Light: 9.5mg-18.75mg's. Common: 18.75mg's-35mg Strong: 35-50mg+",
       "onset": "duration 6-16 hours.",
-      "summary": "A benzodiazepine derivative. Which is mostly an anxiolytic substance, without strong hypnotic properties that most benzodiazepines have. Its active metabolite is N-desmethylmetaclazepam, which is the main metabolite. Slightly more effective as an anxiolytic than Bromazepam."
+      "summary": "A benzodiazepine derivative, reports indicate anxiolytic effects while lacking hypnotic effects associated with common benzodiazepines. It has an active metabolite N-desmethylmetaclazepam which is the main metabolite of metaclazepam. The drug is indicated as slightly more effective as an anxiolytic than bromazepam."
     }
   },
   "metaxalone": {
@@ -26231,7 +26232,7 @@
       "dose": "Oral Light: 400-800mg. Common: 800-1600mg. Strong: 1600-2400mg.",
       "duration": "4-8 hours.",
       "onset": "15-45 minutes.",
-      "summary": "Muscle relaxant, that is used to relieve pain from general pain, and other musculoskeletal conditions."
+      "summary": "The drug is a muscle relaxant that is used to relieve pain from strains, sprains, and other musculosketetal conditions. The exact mechanism of action is not known."
     }
   },
   "methadone": {
@@ -26276,16 +26277,16 @@
     "pretty_name": "Methadone",
     "properties": {
       "after-effects": "1-48 hours.",
-      "avoid": "All other CNS depressants",
-      "bioavailability": "Oral 75-97% (Mean 86%) | Rectal 70-81% (Mean 76%)",
+      "avoid": "All other CNS depressants.",
+      "bioavailability": "Oral 70-90% | Rectal (aqueous liquid) ~80%",
       "categories": [
         "opioid",
         "habit-forming",
         "depressant",
         "common"
       ],
-      "dose": "Light: 5-10mg Common: 10-20mg Strong: 20-35mg+ NOTE: these doses are not intended for opioid-naïve users. 40mg could be lethal for a naïve user. Always start low and titrate /slowly/",
-      "duration": "Oral 6-12 hours. NOTE: Can last much longer. Mostly dependant if using Chronically or not.",
+      "dose": "Light: 5-10mg Common: 10-20mg Strong: 20-35mg+ NOTE: these doses are not intended for opioid naïve users. 30mg could be lethal for an opioid naïve user. Please note opioid naïve refers to recent usage, not opioid experience. It is recommended, as always, to start low and increase dosage /slowly/",
+      "duration": "Oral 6-12 hours. NOTE: The duration may last much longer depending on a variety of factors, such as physical and mental drug dependence.",
       "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
       "half-life": "12-18 hours on the first dose 13-47 on concurrent",
       "onset": "45-120 minutes.",
@@ -26293,7 +26294,8 @@
     },
     "sources": {
       "_general": [
-        "Methadone trials have proven successful in treating Heroin addiction - http://jamanetwork.com/journals/jama/article-abstract/656315"
+        "Methadone trials have proven successful in treating Heroin addiction - http://jamanetwork.com/journals/jama/article-abstract/656315",
+        "Pharmacogenetics of chronic pain management - https://doi.org/10.1016/j.clinbiochem.2014.05.065"
       ]
     }
   },
