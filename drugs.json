@@ -24496,8 +24496,8 @@
       "dose": "Light: 150-180mg Common: 180-210mg Strong: 210-250mg+",
       "duration": "3-8 hours",
       "onset": "30-120 minutes.",
-      "summary": "A rare entactogenic drug and analogue of MDMA. Suspected to be first synthesised by David E. Nichols. The drug is suspected to be less potent than related drugs of its type. It is sometimes referred to as a 'watered down MDMA.'"
-    }
+      "summary": "A rare entactogenic drug and analogue of MDMA. Suspected to be first synthesised by David E. Nichols. The drug is suspected to be less potent than related drugs of its type. It is sometimes referred to as a 'watered down MDMA'."
+      }
   },
   "mbzp": {
     "aliases": [
@@ -24618,7 +24618,7 @@
       "duration": "2-5 hours",
       "marquis": "Black",
       "onset": "20-90 minutes",
-      "summary": "The drug is a stimulant and empathogen. It is reported to have similar effects to MDMA but typically produces more visuals. The drug is reportedly more neurotoxic than MDMA, and is a minor metabolite of MDMA. The duration and onset are reported to be similar to MDMA. The common Marquis reagent test cannot differentiate MDA and MDMA."
+      "summary": "The drug is a stimulant and empathogen. It is reported to have similar effects to MDMA but typically produces more visuals. The drug is reportedly more neurotoxic than MDMA, and is a minor metabolite of MDMA. The duration and onset are reported to be similar to MDMA. The common Marquis reagent test is unable to differentiate MDA and MDMA."
     },
     "sources": {
       "_general": [
@@ -24671,7 +24671,7 @@
       "dose": "Threshold: 20-40mg Light: 40-100mg Common: 100-150mg Heavy: 150-300mg+",
       "duration": "4-6 hours.",
       "onset": "30-60 minutes",
-      "summary": "A selective serotonin and norepinephrine releasing agent which is rarely used without a stimulant to obtain desirable effects. Previously believed not to be neuruotoxic, MDAI has been implicated in several lethal and non-lethal intoxications, and as such may pose more of a risk to health than previously believed."
+      "summary": "A selective serotonin and norepinephrine releasing agent which is rarely used without a stimulant to obtain desirable effects. The drug was previously believed to not be neuruotoxic, MDAI has been implicated in several lethal and non-lethal intoxications, and as such may pose more of a risk to one's health than previously believed."
     }
   },
   "mdea": {
@@ -24863,7 +24863,7 @@
         "status": "Low Risk & Synergy"
       },
       "maois": {
-        "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably. MAO-A inhibitors with MDMA will lead to hypertensive crises.",
+        "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably. MAO-A inhibitors with MDMA will likely lead to hypertensive crises.",
         "status": "Dangerous"
       },
       "mescaline": {
@@ -24974,10 +24974,10 @@
       "detection": "1-3 days single use, 3-5 days heavy use",
       "dose": "Oral Light: 40-75mg  Common: 75-125mg  Strong: 125-175mg  Heavy: 175mg+ | Insufflated/Rectal Light: 30-70mg  Common: 70-120mg Strong: 120-165mg  Heavy: 165mg+ | NOTE: Higher doses may increase neurotoxic effects",
       "duration": "3-5 hours",
-      "general-advice": "It is recommended to wait multiple months between MDMA rolls.",
+      "general-advice": "It is recommended to wait at minimu multiple months between MDMA rolls.",
       "marquis": "Black (may have purple tint)",
       "onset": "20-70 minutes",
-      "summary": "The world's most popular empathogen with powerful pro-social effects. The drug has been strongly associated with symptoms of cognitive decline when taken in excess. The drug is popular at parties, often sold as powder or in pills, and may be adulterated with other similar chemicals.",
+      "summary": "The drug has been associated with cognitive decline when taken in excess. The drug is used in a variety of ways, such as parties, music festivals, psychedelic therapy, and more. The drug often sold as powder or in pressed pills, and may be adulterated with other similar chemicals.",
       "wiki": "http://wiki.tripsit.me/wiki/MDMA"
     },
     "sources": {
@@ -25116,7 +25116,7 @@
       "dose": "Oral Light: 75-125mg Common: 125-175mg Strong: 175-250mg Heavy: 250+mg.",
       "duration": "2-4 hours",
       "onset": "15-45 minutes.",
-      "summary": "An obscure substituted methylenedioxyphenethylamine with little history of human use. The drugs pharmacological profile is largely unknown, but it is suspected it may exhibit similar properties to other MDxx compounds. The drug may be a monoamine releaser, reuptake inhibitor, or both."
+      "summary": "An obscure substituted methylenedioxyphenethylamine with little history of human use. The drugs pharmacological profile is largely unknown, it is suspected to exhibit similar properties to other MDxx compounds. The drug may be a monoamine releaser and or a reuptake inhibitor."
     }
   },
   "mdphp": {
@@ -25129,7 +25129,7 @@
       "habit-forming",
       "research-chemical"
     ],
-    "dose_note": "NOTE: The dosage data is tentative. There is a large variance in potency and composition of batches and as such caution should be used when taking MDPHP. See ~mdphp summary",
+    "dose_note": "NOTE: The dosage data is tentative. Potency and composition of batches vary significantly and as such caution should be used when taking MDPHP. See ~mdphp summary",
     "formatted_aftereffects": {
       "_unit": "hours",
       "Insufflated": "2-36",
@@ -25183,11 +25183,11 @@
         "habit-forming",
         "research-chemical"
       ],
-      "dose": "NOTE: The dosage data is tentative. There is a large variance in potency and composition of batches and as such caution should be used when taking MDPHP. See ~mdphp summary | Oral Light: 10-20mg Common: 20-35mg Strong: 35+mg | Insufflated Light: 5-10mg Common: 10-20mg Strong: 20+mg",
+      "dose": "NOTE: The dosage data is tentative. Potency and composition of batches vary significantly and as such caution should be used when taking MDPHP. See ~mdphp summary | Oral Light: 10-20mg Common: 20-35mg Strong: 35+mg | Insufflated Light: 5-10mg Common: 10-20mg Strong: 20+mg",
       "duration": "Oral: 3-6 hours | Insufflated: 2-4 hours",
       "effects": "Stimulation, Incresed Motivation, Mood Enhancement, Euphoria, Sexual Enhancement, Anxiety, Paranoia, Dry Mouth, Muscle Tension, Restlessness, Uncomfortable Stimulation",
       "onset": "Oral: 30-60 minutes | Insufflated: 5-15 minutes",
-      "summary": "MDPHP aka 'Monkey-Dust' is a substituted cathinone and pyrovalerone which has been sold as an alternative to a-PHP and MDPV. The drug is reported to be less intense than MDPV with similar effects. MDPHP potency is said to vary widely, and there are reports of mixed composition batches containing other drugs. There is little is known about MDPHP in terms of toxicity, pharmacology, and metabolism."
+      "summary": "MDPHP aka 'Monkey-Dust' is a substituted cathinone and pyrovalerone which has often been sold as an alternative to a-PHP and MDPV. The drug is reported to be less intense than MDPV while having similar subjective effects. MDPHP potency is reported to vary wildly, and there are reports of mixed composition batches containing other drugs. There is little known about MDPHP in terms of toxicity, pharmacology, and metabolism."
     }
   },
   "mdpv": {
@@ -25264,7 +25264,7 @@
       "effects": "stimulation (mental and physical), euphoria, increased mental clarity, elevated heart rate, headache, confusion, paranoia, loss of apetite, muscle tension",
       "marquis": "Yellow",
       "onset": "Oral: 15-30 minutes | Insufflated: 5-20 minutes",
-      "summary": "MDPV is a potent stimulant, that often induces compulsive tendencies and euphoric effects.which shares some empathogenic effects with MDMA. The drug has reportedly caused an abnormal amount of psychosis cases. MDPV has been found in products sold as \"bath salts\", \"plant food/fertilizer\", and in products sold as \"MDMA.\""
+      "summary": "MDPV is a potent stimulant, that often promotes compulsive behavior and euphoric effects. The drug is reported to share similar empathogenic effects with MDMA. The drug is associated with an abnormal amount of psychosis cases. MDPV has been found in products sold as \"bath salts\", \"plant food/fertilizer\", and in products sold as \"MDMA.\""
     },
     "sources": {
       "_general": [
