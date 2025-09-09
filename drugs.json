@@ -25448,7 +25448,7 @@
       "dose_to_diazepam": "Medazepam - 10mg ~=10mg Diazepam.",
       "duration": "8-16 hours.",
       "onset": "30-120 minutes.",
-      "summary": "The drug is a benzodiazepine derivative and is described to have similar effects as diazepam. The drug is long-acting with a half-life of 36-200 hours. The drug is rarely prescribed and is a prodrug to diazepam. The drug has been described by anectodal reports as a sort of '/Desoxy-Diazepam/'."
+      "summary": "The drug is a benzodiazepine derivative and is described to have similar effects as diazepam. The drug is reportedly long-acting with a half-life of 36-200 hours. The drug is rarely prescribed and is a prodrug to diazepam. The drug has been described by anectodal reports as a sort of '/Desoxy-Diazepam/'."
     }
   },
   "melatonin": {
@@ -25485,7 +25485,7 @@
       "dose": "Common: 0.3-1mg",
       "duration": "6-8 hours.",
       "onset": "Within an hour.",
-      "summary": "A naturally occurring hormone produced in the body that promotes sleep at certain times in the day based on the circadian rhythm. It is also commonly available as a drug to treat insomnia and to promote a healthier sleep cycle. It can be used to promote sleepfulness at the tail-end of drug experiences, though it is reported to be not particularly hypnotic."
+      "summary": "A naturally occurring hormone produced in the body that promotes sleep at certain times in the day based on the circadian rhythm. It is commonly available as a drug to treat insomnia and to promote a healthier sleep cycle. It is sometimes used to promote sleepfulness at the tail-end of drug experiences, though it is reported to be not particularly hypnotic."
     },
     "pweffects": {
       "Dream potentiation": "https://psychonautwiki.org/wiki/Dream_potentiation"
@@ -25561,7 +25561,7 @@
       "duration": "8-16 hours (Highly dependant on dose)",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "Typically within 60 minutes.",
-      "summary": "A rare stimulant, psychedelic amphetamine discovered by Alexander Shulgin. Related to the DOx class of drugs, there is little known about the obscure compounds pharmacology. However, it is suspected to have a high potentebcy and to have a long duration."
+      "summary": "A rare psychedelic amphetamine discovered by Alexander Shulgin. Related to the DOx class of drugs, there is little known about the obscure compounds pharmacology. However, it is suspected to have a high potency and to have a long duration."
     }
   },
   "memantine": {
@@ -25599,7 +25599,7 @@
       "dose": "Oral Low: 10-20mg Common: 20-40mg Heavy: 40-80mg+",
       "duration": "12-72 hours",
       "onset": "30-90 minutes.",
-      "summary": "An NMDA-antagonist that may produce a  prolonged dissociative \"hole\" experience lasting up to 16+ hours. The drug is used clinically to slow the progression of moderate-to-severe Alzheimer's disease, among other treatments."
+      "summary": "An NMDA-antagonist that may produce a  prolonged dissociative \"hole\" experience lasting up to 16+ hours. The drug is used clinically to slow the progression of moderate-to-severe Alzheimer's disease, among other uses=."
     },
     "sources": {
       "_general": [
@@ -25688,7 +25688,7 @@
       "value": "2-3"
     },
     "formatted_effects": [
-      "Generally described as being more intense of a stimulant than MDMA but with less of an empathogenic feel"
+      "The drug is reported as being more of an intense stimulant than MDMA but with less of an empathogenic feel."
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -25714,12 +25714,12 @@
         "habit-forming",
         "empathogen"
       ],
-      "detection": "Mixed reports on whether the drug shows positive on standard drug tests.",
+      "detection": "There are conflicting reports on whether the drug shows positive on standard drug tests.",
       "dose": "Oral  Light: 50-100mg Common: 100-200mg Strong: 150-300mg Heavy: 300mg+ | Insufflated  Light: 15-25mg Common: 20-80mg Strong: 75-125mg Heavy: 125mg+",
       "duration": "2-3 hours",
-      "effects": "Generally described as being more intense of a stimulant than MDMA but with less of an empathogenic feel.",
+      "effects": "The drug is reported as being more of an intense stimulant than MDMA but with less of an empathogenic feel.",
       "onset": "15-45 minutes",
-      "summary": "A short-lived euphoric stimulant, developed as an analogue of MDMA, which was extremely popular in the research chemical scene before being banned. The drug is commonly seen on street markets but rarer online. Reports indicate a strong urge to compulsively redose."
+      "summary": "A short-lived euphoric stimulant that was developed as an analogue of MDMA. Reports indicate a strong urge to compulsively redose."
     },
     "pweffects": {
       "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
@@ -25815,7 +25815,7 @@
       "dose": "Oral Light: 5-15mg Common: 15-25mg Strong: 25-40mg. | Insufflated Light: 5-10mg Common: 10-20mg Strong: 20-25mg's.",
       "duration": "Oral: 3-5 hours. | Insufflated 2-3 hours.",
       "onset": "Oral: 15-30 minutes. | Insufflated: 5-10 minutes.",
-      "summary": "4-Methylphenmetrazine is an empathogen of the phenylmorpholine class. Reports indicate tolerance for this drug builds very fast."
+      "summary": "4-Methylphenmetrazine is an empathogen of the phenylmorpholine class. Reports indicate tolerance for the drug builds fast."
     }
   },
   "mephtetramine": {
@@ -25836,7 +25836,7 @@
         "research-chemical",
         "tentative"
       ],
-      "summary": "There is limited information on the substance. Reports have conflicting information on the drug as well. Some reports indicate the drug is inactive, while others indicate that the drug effects such as talkativeness, euphoria, and mental stimulation.",
+      "summary": "There is limited information on the substance while additionally having conflicting reports. Some reports indicate the drug is inactive, while others indicate the drug is active and bears effects such as talkativeness, euphoria, and mental stimulation.",
       "warning": ""
     }
   },
