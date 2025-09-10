@@ -27998,7 +27998,7 @@
       "dose": "Oral Threshold: 10mg Light: 20-40mg Common: 40-60mg Strong: 60-80mg+ Insufflated Threshold: 5mg Light: 5-15mg Common: 20-40mg Strong: 40-60mg+",
       "duration": "Oral: 4-6 hours | Insufflated 3-4 hours.",
       "onset": "Oral: 30-60 minutes. | Insufflated: 15-30 minutes.",
-      "summary": "An analogue of methamphetamine with effects close to amphetamine. Some users report negative side effects including stomach discomfort and sweating. Acts as a selective NDRI."
+      "summary": "An analogue of methamphetamine with effects close to amphetamine. Some users report negative side effects including stomach discomfort and sweating. The drug acts as a selective NDRI."
     },
     "pweffects": {
       "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
@@ -28084,7 +28084,7 @@
       "duration": "4-6 hours",
       "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
       "onset": "30-45 minutes",
-      "summary": "A synthetic opioid drug that was rumoured to be roughly 80% the potency of Morphine orally. Was created by Dainippon Pharmaceutical in the 1970's. It has been used as a lead compound for the design of related substances. It has been associated with hearing loss and hair loss. Structurally unrelated to most other opioid drugs. Treat with caution, especially long term use."
+      "summary": "A synthetic opioid drug with the racemic potency being 80% potency of morphine orally. The drug was created by Dainippon Pharmaceutical in the 1970s. It has been used as a lead compound for the design of related substances. It has been associated with hearing and hair loss among other negative side effects. Structurally unrelated to most other opioid drugs. Caution is recommended especially with long-term use."
     }
   },
   "mushrooms": {
@@ -28213,7 +28213,7 @@
         "status": "Unsafe"
       }
     },
-    "dose_note": " NOTE: Dosage ranges will vary between fungus strains. The doses given are for *dried* mushrooms, which are many times more potent by weight than those consumed when wet. Onset varies depending on dosage, common doses are normally felt within one hour.",
+    "dose_note": " NOTE: Dosage ranges will vary between fungus strains. The doses given are for *dried* psilocybe cubensis mushrooms. The mushrooms are substantially more potent per-weight when dry.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-24"
@@ -28233,7 +28233,7 @@
       "visual distortion",
       "color enhancement",
       "sense of connectedness with nature",
-      "sense of well being",
+      "sense of well-being",
       "sense of wonder"
     ],
     "formatted_onset": {
@@ -28251,18 +28251,19 @@
         "psilocybin",
         "shrooms",
         "mushroom",
+        "magic mushrooms",
         "psylocybin"
       ],
       "categories": [
         "psychedelic",
         "common"
       ],
-      "dose": "Oral Light: 0.5-1.5g Common: 1.5-3.5g Strong: 3.5g+ | NOTE: Dosage ranges will vary between fungus strains. The doses given are for *dried* mushrooms, which are many times more potent by weight than those consumed when wet.",
+      "dose": "Oral Light: 0.5-1.5g Common: 1.5-3.5g Strong: 3.5g+ | NOTE: Dosage ranges will vary between fungus strains. The doses given are for *dried* psilocybe cubensis mushrooms. The mushrooms are substantially more potent per-weight when dry.",
       "duration": "4-6 hours",
-      "effects": "visual distortion, color enhancement, sense of connectedness with nature, sense of well being, sense of wonder",
+      "effects": "visual distortion, color enhancement, sense of connectedness with nature, sense of well-being, sense of wonder",
       "half-life": "1-4 hours",
-      "onset": "Varies depending on dosage, common doses (See ~drug mushrooms dose) are normally felt within one hour",
-      "summary": "Fungi containing psilocybin, a prototypical psychedelic with similar effects to LSD, but with a shorter duration; also considered as being more confusing, introspective and entheogenic. Usually refers to psilocybe mushrooms rather than Amanitas, which have different effects. Are considered physically safe if properly identified, which should always be done by an expert."
+      "onset": "Varies depending on dosage, common doses (see ~drug mushrooms dose) are often felt within two hours. However, reports indicate it may often take up to three hours.",
+      "summary": "Fungi containing psilocybin, a prototypical psychedelic. It should be noted there are multiple kinds of psychoactive mushrooms and proper identification is essential for safety. The dosages listed are in respects to psilocybe cubensis, one of the most common and popular psilocybin mushroom species."
     },
     "pweffects": {
       "8B Geometry - Exposure to inner mechanics of consciousness": "https://psychonautwiki.org/wiki/8B_Geometry_-_Exposure_to_inner_mechanics_of_consciousness",
@@ -28501,7 +28502,7 @@
         "methoxetamine",
         "3-meo-2'oxo-pce"
       ],
-      "avoid": "Alcohol, Benzodiazepines, Opioids, Other CNS depressants, including substances that have an effect on Serotonin (For example, yet not limited to MDMA, Amphetamine, and other stimulants)",
+      "avoid": "CNS depressants such as alcohol, benzodiazepines, and opioids. Additionally substances that have an effect on serotonin such as MDMA, methamphetamine, and dextromethorphan (DXM).",
       "categories": [
         "dissociative",
         "research-chemical",
@@ -28509,9 +28510,9 @@
       ],
       "dose": "Insufflated Threshold: 5-10mg Light: 10-20mg Common: 20-35mg Strong: 35-60mg Heavy: 60mg+ M-Hole: 70mg+ | Oral Threshold: 10-15mg Light: 15-25mg Common: 25-35 Strong: 40-65mg M-Hole: 75mg+ | Sublingual Threshold: 5-10mg Low: 10-20mg Common: 40-60mg Strong: 60-75mg M-Hole: 75-100mg | NOTE: Bodyweight plays a slight factor in MXE dosing, these are values for a 175lb (80kg) male",
       "duration": "3-6 hours",
-      "legal": "Methoxetamine is illegal in the US states Arizona, Florida, Indiana, Louisiana, Minnesota, North Dakota, Ohio and Virginia. It is also banned in Brazil, France, Germany, Japan, Russia and the UK.",
+      "legal": "Methoxetamine is scheduled and or controlled in Brazil, Canada, China, EU, Finland, Israel, Japan, Poland, Russia, United Kingdom, United Nations, and the United States (among others).",
       "onset": "Insufflated: 5-20 minutes | Oral: 30-60 minutes | Sublingual: 15-45 minutes",
-      "summary": "A popular dissociative drug which is an analogue of ketamine, though less sedating and more potent by weight, with a subjectively more 'complicated' set of effects."
+      "summary": "A dissociative drug which is an analogue of ketamine. It is reported to be less sedating and more potent by weight. Anectodal reports indicate it has a subjectively more 'complicated' set of effects."
     },
     "pweffects": {
       "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
@@ -28598,7 +28599,7 @@
       "research-chemical",
       "habit-forming"
     ],
-    "dose_note": " NOTE: (Once again, do not take this as a catch all.)",
+    "dose_note": " NOTE: These dosages are extremely tentative.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "2-4"
@@ -28629,9 +28630,9 @@
         "habit-forming"
       ],
       "dose": "Threshold: 10-20mg Light: 20-40mg Common: 40-60mg Strong: 60-100mg+",
-      "duration": "3-5 hours. (Dependant on dose/ROA)",
-      "onset": "Varying widely from reports of 30 minutes up to four hours.",
-      "summary": "An arylcyclohexamine, dissociative and anaesthetic closely related to methoxetamine, ketamine and PCP. It has seen some popularity among RC users, being advertised as an MXE replacement after its illegalisation in many parts of the world - however, users report a more stimulating experience closer to those caused by PCP and its analogues."
+      "duration": "3-5 hours depending on dose/ROA",
+      "onset": "Varying widely from anectodal reports of 30 minutes up to four hours.",
+      "summary": "A arylcyclohexylamine dissociative anaesthetic closely related to methoxetamine, ketamine, and PCP. It has seen some popularity among drug users, often being advertised as an MXE replacement after its illegalisation in many parts of the world. Anectodal reports indicate a more stimulating experience closer to those associated with PCP and PCP analogues."
     }
   },
   "naphyrone": {
@@ -28659,16 +28660,16 @@
         "habit-forming"
       ],
       "dose": "Oral: Light: 10-20mg Common: 20-35mg Strong: 35-50mg+",
-      "duration": "6-12 hours (Very dependant on dose)",
+      "duration": "6-12 hours (highly dependant on dose)",
       "onset": "Within 30 minutes.",
-      "summary": "A drug derived from pyrovalerone which acts as a TRI, producing stimulating effects. Had been sold in a blend called \"NRG-1\" Little information exists about the safety profile of this drug."
+      "summary": "A drug derived from pyrovalerone which acts as a TRI, producing stimulating effects. The drug has been sold in a blend called \"NRG-1\". There is limited information on the drug's safety profile."
     }
   },
   "naproxen": {
     "categories": [
       "common"
     ],
-    "dose_note": " Note: Maximum recommended daily dose is 1500mg.",
+    "dose_note": " Note: The maximum recommended daily dose is 1500mg.",
     "formatted_dose": {
       "Oral": {
         "Common": "250-500mg"
@@ -28688,14 +28689,14 @@
     "name": "naproxen",
     "pretty_name": "Naproxen",
     "properties": {
-      "avoid": "Alcoholic beverages.",
+      "avoid": "Alcohol",
       "categories": [
         "common"
       ],
-      "dose": "Common: 250-500mg | Note: Maximum recommended daily dose is 1500mg.",
+      "dose": "Common: 250-500mg | Note: The maximum recommended daily dose is 1500mg.",
       "duration": "4-6 hours. ER forumulations up to 12 hours.",
       "onset": "1 hour.",
-      "summary": "A very common pain reliever/fever reducer also known as Aleve. Naproxen is in the same category as Ibuprofen, which is also a nonsteroidal anti-inflammatory. This drug is available in most places over the counter. Is sometimes used to reduce the body-load of certain drugs."
+      "summary": "A very common pain and fever reducer. It is also known as Aleve. Naproxen is in the same drug category as ibuprofen, which is also a nonsteroidal anti-inflammatory. This drug is available in most places over the counter. Is sometimes used to reduce the body-load of certain drugs."
     }
   },
   "neb": {
@@ -28749,7 +28750,7 @@
       "dose": "Oral Threshold: 30mg Light: 30-50mg Common: 50-80mg Strong: 80-100mg+ | Insufflated Light: 10-15mg Common: 15-30mg Strong: 30-45mg",
       "duration": "Oral: 90-180 minutes. | Insufflated: 90-120 minutes.",
       "onset": "Oral: 20-30 minutes | Insufflated: 5-10 minutes.",
-      "summary": "N-Ethylbuphedrone, an uncommon substituted cathinone. First appeared around 2011 but has not become popular. Effects should somewhat resemble other cathinones generally. Short-acting stimulating with more dopamine action than serotonin."
+      "summary": "N-Ethylbuphedrone, an uncommon substituted cathinone. The drug was first being reported around 2011 but did not rise reportedly to great popularity. The drug's effects are suggested by anectodal reports to partially resemble other cathinones. The drug is a short-acting stimulant with more dopamine action than serotonin."
     }
   },
   "nefiracetam": {
@@ -28761,7 +28762,7 @@
       "tentative",
       "research-chemical"
     ],
-    "dose_note": " NOTE: Usually divided into three doses. Roughly around 0.5mg-1.6mg/kg.",
+    "dose_note": " NOTE: The drug is typically divided into three doses. Roughly 0.5mg-1.6mg/kg.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-8"
@@ -28791,10 +28792,10 @@
         "tentative",
         "research-chemical"
       ],
-      "dose": "Common: 150-450mg. | NOTE: Usually divided into three doses. Roughly around 0.5mg-1.6mg/kg.",
+      "dose": "Common: 150-450mg. | NOTE: The drug is typically divided into three doses. Roughly 0.5mg-1.6mg/kg.",
       "duration": "6-12 hours.",
       "onset": "30-60 minutes.",
-      "summary": "Nootropic compound of the racetam family. Seems to enhance both GABAergic and cholinergic signalling. Long term use appears to be neuroprotective. Fat soluble."
+      "summary": "Nootropic compound of the racetam family. The drug is reported to enhance both GABAergic and cholinergic signaling. Long-term use is suggested to be neuroprotective. The drug is fat soluble."
     }
   },
   "nicomorphine": {
@@ -28839,7 +28840,7 @@
       "dose": "Oral Light: 2.5-5mg Common: 5-10mg Strong: 10-20mg+",
       "duration": "Oral: 4-6 hours | Intravenously: 2-4 hours.",
       "onset": "Oral: 15-30 minutes | Intravenously: 1-2 minutes.",
-      "summary": "Opioid agonist that is 2-3x the potency of Morphine. Is used in few countries. Rapid onset of effects, due to the increased lipid solubility."
+      "summary": "Opioid agonist that is 2-3x the potency of morphine. The drug is used in a few countries medically. The drug has a rapid onset of effects due to its increased lipid solubility."
     }
   },
   "nicotine": {
@@ -28859,7 +28860,7 @@
         "nootropic",
         "common"
       ],
-      "summary": "A chemical found in tobacco, aubergines and tomatoes which is considered one of the most addictive drugs in existence. It is a mild stimulant, with stress relieving effects. It is widely used in the form of cigarettes, the use of which carries a high risk of causing cancer or heart issues over time. Increasingly, it is 'vaped' as a purportedly safer alternative to smoking."
+      "summary": "A chemical found in tobacco, aubergines and tomatoes. It is considered one of the most addictive drugs in existence. It is a mild stimulant, with nootropic and stress relieving effects. Nicotine is used in a variety of forms and is a large-part of what makes cigarettes and other tobacco products so addictive. Nicotine is suggested to be safer when ingested in isolation, such as nicotine vapes (in addition to the lack of combution and associated harm via cigarette smoking)."
     },
     "pweffects": {
       "Abnormal heartbeat": "https://psychonautwiki.org/wiki/Abnormal_heartbeat",
@@ -28942,7 +28943,7 @@
       "duration": "10-18 hours. ",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "10-75 minutes.",
-      "summary": "An uncommon and relatively new RC benzodiazepine, and metabolite of the hypnotic benzodiazepine flunitrazepam. Little information about the pharmacological properties of this drug exists. Likely to be a strong sedative and hypnotic."
+      "summary": "An uncommon relatively new research chemical benzodiazepine. The drug is a metabolite of the hypnotic benzodiazepine flunitrazepam. There is little known about it's pharmacological propertie. The drug is suggested to be a strong sedative hypnotic."
     },
     "pweffects": {
       "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
@@ -29015,7 +29016,7 @@
       "duration": "5-8 hours",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "15-30 minutes.",
-      "summary": "A pharmaceutical benzodiazepine with hypnotic and sedative effects. Rarely seen in the West but reportedly very frequently abused in Malaysia."
+      "summary": "A pharmaceutical benzodiazepine with hypnotic sedative effects. The drug is reported to have high amounts of use and abuse in Malaysia."
     }
   },
   "nitemazepam": {
@@ -29063,7 +29064,7 @@
       "dose": "Light: 1-1.5mg Common: 1.5-3mg Strong: 3-5mg+",
       "duration": "6-12 hours.",
       "onset": "15-45 minutes.",
-      "summary": "A new RC benzodiazepine based off the chemical structure of Nimetazepam. It is relatively new and not many experience reports exist on it. It is expected to feel similar to temazepam."
+      "summary": "A new research chemical benzodiazepine based off the chemical structure of nimetazepam. There is very limited information on the drug. The drug is suggested by anectodal reports to be similar to temazepam."
     }
   },
   "nitracaine": {
@@ -29105,7 +29106,7 @@
       "dose": "Oral Low: 100mg Common: 100-150mg Strong: 150-175mg+ | Insufflated Light: 20-30mg Common: 30-40mg Strong: 50mg+",
       "duration": "Insufflated: 2-4 hours | Oral: 3-5 hours.",
       "onset": "Oral: 10-30 minutes. | Insufflated: 5-10 minutes",
-      "summary": "An analogue of dimethocaine with local anaesthetic and stimulant properties, marketed in the RC scene as a Cocaine replacement. Has not seen widespread popularity."
+      "summary": "An analogue of dimethocaine with local anaesthetic and stimulant properties. The drug is often marketed in the research chemical scene as a cocaine replacement. There is little reported use of the drug."
     }
   },
   "nitrazepam": {
@@ -29192,7 +29193,7 @@
       "duration": "5-8 hours.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "10-40 minutes",
-      "summary": "Hypnotic Benzodiazepine, that is used for short term relief of anxiety and insomnia. It has a pronouced affect on respritory action."
+      "summary": "Hypnotic benzodiazepine that is used for short-term relief of anxiety and insomnia. The drug is reported to cause CNS depression."
     }
   },
   "nitrazolam": {
@@ -29235,7 +29236,7 @@
       "dose": "Oral Light: 0.5-1mg Common: 1-2mg Strong: 2-3mg+",
       "duration": "5-10 hours.",
       "onset": "15-30 minutes.",
-      "summary": "Hypnotic benzodiazepine that is the triazolo analogue of Nitrazepam and about 4x more potent compared to the parent compound. Also the dechlorinated derivative of Clonazolam with roughly 1/10 potency."
+      "summary": "Hypnotic benzodiazepine that is the triazolo analogue of Nitrazepam and about 4x more potent compared to the parent compound. It is also  dechlorinated derivative of clonazolam with roughly 1/10 potency."
     }
   },
   "nitrous": {
@@ -29243,7 +29244,9 @@
       "laughing_gas",
       "n20",
       "n2o",
-      "nos"
+      "nos",
+      "nitrous oxide",
+      "hippy crack"
     ],
     "categories": [
       "dissociative",
@@ -29380,7 +29383,8 @@
         "laughing_gas",
         "n20",
         "n2o",
-        "nos"
+        "nos",
+        "hippy crack"
       ],
       "categories": [
         "dissociative",
@@ -29390,7 +29394,7 @@
       "duration": "1-5 minutes",
       "effects": "giggling, mood lift, euphoria, sound distortion, dream like state, minor to strong hallucinations, reduction of external stimuli, analgesia, buzzing sensation in nerve, clumsiness, nausea, headaches, numbness in extremities",
       "onset": "0-1 minutes",
-      "summary": "Nitrous oxide, also known as laughing gas, often inhaled through balloons filled with canisters of the gas.. A short-acting dissociative inhalant with strong visual, mental and auditory effects. Extremely popular especially in combination with other drugs."
+      "summary": "Nitrous oxide, also known as laughing gas, is often inhaled through balloons filled with canisters of the gas. The drug is a short-acting dissociative inhalant with strong visual, mental, and auditory effects. The drug is extremely popular especially in combination with other drugs."
     },
     "pweffects": {
       "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
@@ -29465,9 +29469,9 @@
       ],
       "dose": "Oral Light: 50-100mg Common: 100-150 Strong: 150mg-200mg+",
       "duration": "3-5 hours.",
-      "note": "Most of the reports are in pellets that have more than one drug in them (Namely MPA). So start slow and work your way up.",
+      "note": "Many of the anectodal reports for this drug are suspected to have been using NM-2-AI that has been laced (suggested to often be MPA). As such, the drug is recommended to be used with additional caution and caution on advice given by anectodal reports.",
       "onset": "15-45 minutes.",
-      "summary": "Stimulant that is in the aminoindane class. Is it quite close to it's bigger brother 2-AI. Yet this has a lower potency, has a longer duration though."
+      "summary": "Stimulant that is in the aminoindane class. The drug is structurally similar to it's 'bigger brother' 2-AI. In contrast, it reportedly has a lower potency and longer duration."
     }
   },
   "noctec": {
