@@ -26549,7 +26549,7 @@
         "desoxyn",
         "tik"
       ],
-      "avoid": "Rinsing mouth with mouthwash high in alcohol due to drying effects; using sugar filled chewing gum; usage within 14 days of MAOI.",
+      "avoid": "Rinsing mouth with mouthwash high in alcohol due to drying effects; using sugar filled chewing gum; usage within 14 days of MAOI ingestion.",
       "bioavailability": "Oral 55-62.7% | Insufflated 75-80% | Vapourized 67-90.3%.",
       "categories": [
         "stimulant",
@@ -26614,7 +26614,7 @@
       "depressant",
       "habit-forming"
     ],
-    "dose_note": " NOTE: Do not take more than 300mg without a tolerance.",
+    "dose_note": " NOTE: It is strongly recommended to not take greater than 300mg without a methaqualone tolerance.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "4-6"
@@ -26660,11 +26660,11 @@
         "depressant",
         "habit-forming"
       ],
-      "dose": "Oral Light: 75-150mg Common: 150-300mg Strong: 300mg+ | NOTE: Do not take more than 300mg without a tolerance.",
+      "dose": "Oral Light: 75-150mg Common: 150-300mg Strong: 300mg+ | NOTE: It is strongly recommended to not take greater than 300mg without a methaqualone tolerance.",
       "duration": "5-8 hours.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "30-45 minutes",
-      "summary": "A pharmaceutical depressant and sedative phased out due to the better safety profile of benzodiazepines, part of the Qualone group of substances. Now very rare, except in South Africa."
+      "summary": "A pharmaceutical depressant and sedative phased out due to alternative drugs becoming readily available with greater safety profiles. Part of the Qualone group of substances. The drug is considered extremely rare in all parts of the world except in South Africa, where use and abuse remain high."
     },
     "pweffects": {
       "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
@@ -26710,7 +26710,7 @@
         "research-chemical",
         "habit-forming"
       ],
-      "summary": "BK-PMMA Closely related to PMMA and others. Stimulant."
+      "summary": "BK-PMMA is a stimulant that is closely related to PMMA and other similar drugs."
     }
   },
   "methoxphenidine": {
