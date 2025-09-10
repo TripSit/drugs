@@ -27689,14 +27689,14 @@
       "experiences": "https://www.erowid.org/experiences/subs/exp_Dizocilpine.shtml"
     },
     "name": "mk-801",
-    "pretty_name": "MK-801",
+    "pretty_name": "MK-801", 
     "properties": {
       "after-effects": "1-72 hours.",
       "aliases": [
         "dizocilpine",
         "mk801"
       ],
-      "avoid": "Unnecessary movement due to risk of injury. Mixing with other depressants such as alcohol, benzodiazepines and opiods.",
+      "avoid": "Unnecessary movement due to risk of injury. Mixing with other depressants such as alcohol, benzodiazepines, and opiods.",
       "categories": [
         "dissociative",
         "research-chemical",
@@ -27706,7 +27706,7 @@
       "dose": "Oral Common: 50-100ug",
       "duration": "20-36 hours.",
       "onset": "Oral 15-30mins | IM 45mins",
-      "summary": "Dissociative research chemical similar to PCP, and Ketamine. Dizocilpine, also known as MK-801, is a non-competitive antagonist of the NMDA receptor."
+      "summary": "Dissociative research chemical reported to be similar to PCP and Ketamine. Dizocilpine, also known as MK-801, is a non-competitive antagonist of the NMDA receptor."
     }
   },
   "moclobemide": {
@@ -27734,7 +27734,7 @@
       "dose": "Light: 150mg Common: 300mg Strong: 600mg.",
       "duration": "2-6 hours.",
       "onset": "30-90 minutes.",
-      "summary": "A reversible MAOI which is prescribed to treat depression and anxiety. Its reversibility and short-acting length of effects often means it is used in \"pharmahuasca\" preparations."
+      "summary": "A reversible MAOI which is prescribed to treat depressive and anxiety disorders. Due to its reversibility and short-acting effects it is often used in \"pharmahuasca\" preparations."
     }
   },
   "modafinil": {
@@ -27783,7 +27783,7 @@
       "dose": "Common: 100-300mg",
       "duration": "12-16 hours.",
       "onset": "30-45 minutes",
-      "summary": "A wakefulness promoting, long acting stimulant which is typically only used functionally, because there is no real euphoric component to its effects. Also prescribed for daytime sleeping disorders."
+      "summary": "A wakefulness promoting long-acting stimulant which is rarely used recreationally due to the lack of recreational effects. The drug is often prescribed for daytime sleeping disorders. Additionally, it is used off-label for ADHD and disorders inducing chronic fatigue."
     },
     "pweffects": {
       "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
@@ -27846,8 +27846,8 @@
       "dose": "Oral Light: 5-10mg. Common: 10-20mg Strong: 20-35mg's.",
       "duration": "Oral 4-6 hours.",
       "onset": "Oral 15-35 minutes.",
-      "summary": "Is a 4-Phenylpiperidine derivative that is related to Pehidine. It is roughly 4x as potent as the parent compound, does not cause convulsions such as Pethidine.",
-      "warning": "Do not mix with any other CNS depressants."
+      "summary": "Is a 4-Phenylpiperidine derivative that is related to pehidine. It is roughly 4x as potent as the parent compound and is reported to not cause convulsions that pethidine reportedly does.",
+      "warning": "It is strongly recommended against mixing with other CNS depressants."
     }
   },
   "morphine": {
@@ -27914,7 +27914,7 @@
       "duration": "Oral_IR: 4-6 hours | Oral_ER: 4-10 hours | Insufflated: 4-5 hours | Plugged: 3-4 hours | IV/IM: 2-4 hours.",
       "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
       "onset": "Oral_IR: 10-30 minutes | Oral_ER: 40-80 minutes | Insufflated: 10-30 minutes | Plugged: 10-30 minutes | IV/IM: 0-1 minutes.",
-      "summary": "The prototypical opioid drug, a powerful analgesic with euphoric qualities, found in the seeds and wax of the plant papaver somniferum (opium poppy).  First isolated by Friedrich Sertürner in 1805, named for its sleep-inducing qualities. Do not combine with other depressants, may cause dangerous respiratory depression in overdose."
+      "summary": "The prototypical opioid drug, a powerful analgesic with euphoric qualities. It is found in the seeds and wax of the plant papaver somniferum (opium poppy). First isolated by Friedrich Sertürner in 1805, named for its sleep-inducing qualities. It is recommended against combining with other CNS depressants and may cause dangerous CNS depression in overdose."
     },
     "pweffects": {
       "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
@@ -27995,7 +27995,7 @@
         "research-chemical",
         "habit-forming"
       ],
-      "dose": "Oral Threshold: 10mg Light: 20-40mg Common: 40-60mg Strong:60-80mg+ Insufflated Threshold: 5mg Light: 5-15mg Common: 20-40mg Strong: 40-60mg+",
+      "dose": "Oral Threshold: 10mg Light: 20-40mg Common: 40-60mg Strong: 60-80mg+ Insufflated Threshold: 5mg Light: 5-15mg Common: 20-40mg Strong: 40-60mg+",
       "duration": "Oral: 4-6 hours | Insufflated 3-4 hours.",
       "onset": "Oral: 30-60 minutes. | Insufflated: 15-30 minutes.",
       "summary": "An analogue of methamphetamine with effects close to amphetamine. Some users report negative side effects including stomach discomfort and sweating. Acts as a selective NDRI."
