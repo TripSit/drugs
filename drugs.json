@@ -26029,7 +26029,7 @@
       "duration": "6-12 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "marquis": "Strong orange",
-      "onset": "60-180 minutes, sometimes longer.",
+      "onset": "60-180+ minutes",
       "summary": "A psychedelic of the phenethylamine family. The drug is found in many cacti, such as Peyote and San Pedro, and has a long history of use. Mescaline can be found naturally and is often syntheized as a synthetic compound."
     },
     "pweffects": {
@@ -26155,7 +26155,7 @@
       "duration": "Oral: 4-6 hours. | Insufflated: 2-3 hours. | Smoked: 0.5-1 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "Oral: 60-90 minutes. | Insufflated: 10-15 minutes. | Smoked: 5-10 minutes.",
-      "summary": "A rare psychedelic tryptamine, related to DMT and DET. There is little known information about this drug, further research is highly recommended."
+      "summary": "A rare psychedelic tryptamine related to DMT and DET. There is little known information about this drug, further research is highly recommended."
     }
   },
   "metaclazepam": {
@@ -26290,7 +26290,7 @@
       "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
       "half-life": "12-18 hours on the first dose 13-47 on concurrent",
       "onset": "45-120 minutes.",
-      "summary": "An opioid drug used as an analgesic and is often used in detoxification off of other opioids. As it has a much longer half-life."
+      "summary": "An opioid drug used as an analgesic and is often used during detoxification of other opioids. There are a variety of reasons for this such as methadone's longer half-life duration."
     },
     "sources": {
       "_general": [
@@ -26361,7 +26361,7 @@
         "research-chemical"
       ],
       "dose": "Oral Threshold: 10-15mg Low: 15-25mg Common: 25-40mg Heavy: 40mg+",
-      "duration": "6-12 hours Varies GREATLY on dose.",
+      "duration": "6-12 hours, the range can vary significantly depending on dosages.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "20-60 minutes.",
       "summary": "Mescaline analogue first synthesised by Alexander Shulgin, derived from and less potent than allylescaline. A psychedelic phenethylamine which causes stimulation, euphoria and hallucinatory experiences."
