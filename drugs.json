@@ -16802,7 +16802,7 @@
         "status": "Dangerous"
       },
       "benzodiazepines": {
-        "note": "Small doses of benzos can end a bad trip, but both substances potentiate the ataxia and sedation caused by the other and this can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
+        "note": "Small doses of benzodiazepines can end a bad trip, but both substances potentiate the ataxia and sedation caused by the other and this can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
         "status": "Caution"
       },
       "caffeine": {
@@ -19961,7 +19961,7 @@
       "effects": "anxiolytic, hypnotic, sedative, muscle relaxant, amnesia, dystaxia",
       "onset": "10-40 minutes",
       "summary": "A thienodiazepine anxiolytic. Similar in action to benzodiazepine drugs. Relieves anxiety, causes sedation and mild euphoria. High doses can lead to losing memory of what happened while on the drug. Users often compulsively redose frequently leading to accidental blackouts. Can be found in pressed pharmaceutical pills from various countries, clandestine pill presses, powder, or liquid solutions. It is prescribed in a variety of countries such as Italy and India.",
-      "tolerance": "Slower than other benzos, also observed to have reverse-tolerance effect."
+      "tolerance": "Slower than other benzodiazepines, also observed to have reverse-tolerance effect."
     },
     "pweffects": {
       "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
@@ -26752,7 +26752,7 @@
     "name": "methoxphenidine",
     "pretty_name": "Methoxphenidine",
     "properties": {
-      "after-effects": "1-3 hours, but all the time in the world young padawan.",
+      "after-effects": "1-3 hours",
       "aliases": [
         "2-meo-diphenidine",
         "methoxyphenidine",
@@ -26768,7 +26768,7 @@
       "dose": "Threshold: 30-50mg Light: 50-75mg Common: 75-120mg Strong: 120-150mg+",
       "duration": "6-8 hours",
       "onset": "30-60 minutes.",
-      "summary": "A dissociative from the diarylethylamine class, a more potent analogue of diphenidine. Known to be unpredictable, and can cause blackouts."
+      "summary": "A dissociative from the diarylethylamine class and a more potent analogue of diphenidine. The drug is reported to have unpredictable effects and can cause blackouts."
     },
     "pweffects": {
       "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
@@ -26859,7 +26859,7 @@
       "dose": "Light: 0.25-0.5mg Common: 0.5-1.5mg Strong: 1.5mg+",
       "duration": "Insufflated: 10-20 minutes.",
       "onset": "Insufflated: 10-20 minutes.",
-      "summary": "A quite potent fentanyl analogue."
+      "summary": "A highly potent fentanyl analogue."
     }
   },
   "methoxyketamine": {
@@ -26909,7 +26909,7 @@
       "dose": "Insufflated Threshold: 5-15mg Light: 15-60mg Common: 60-130mg Strong: 130-200mg+",
       "duration": "1-2 hours",
       "onset": "10-20 minutes",
-      "summary": "An arylcyclohexylamine drug and analogue of ketamine, though slightly less potent. Produces similar dissociative and anaesthetic effects. Very rare."
+      "summary": "An arylcyclohexylamine drug and analogue of ketamine. The drug is slightly less potent than ketamine. It is reported to have similar dissociative and anasthetic effects to ketamine. The drug is reported to be extremely rare."
     }
   },
   "methoxypiperamide": {
@@ -26928,7 +26928,7 @@
         "inactive",
         "research-chemical"
       ],
-      "summary": "Drug of the Piperazine class. The 4-Methoxy-α-keto analogue of Methylbenzylpiperazine. Seemingly inactive on its own. Was sold in tandem with Mephtetramine."
+      "summary": "Drug of the Piperazine class. The 4-Methoxy-α-keto analogue of Methylbenzylpiperazine. The drug is reported to inactive on its own. The drug was sold in combination with Mephtetramine."
     }
   },
   "methylmethaqualone": {
@@ -26940,7 +26940,7 @@
       "research-chemical",
       "habit-forming"
     ],
-    "dose_note": " NOTE: Remember this substance is known to cause seizures, take much caution with this.",
+    "dose_note": " NOTE: The drug is reported to have caused a high amount of seizures, caution is strongly recommended.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-2"
@@ -26991,11 +26991,11 @@
         "research-chemical",
         "habit-forming"
       ],
-      "dose": "Vapourized/Sublingual Threshold: 2-3mg Light: 3-5mg Common: 5-10mg. Strong: 10-20mg+ | NOTE: Remember this substance is known to cause seizures, take much caution with this.",
+      "dose": "Vapourized/Sublingual Threshold: 2-3mg Light: 3-5mg Common: 5-10mg. Strong: 10-20mg+ | NOTE: The drug is reported to have caused a high amount of seizures, caution is strongly recommended.",
       "duration": "1-2 hours",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "Sublingual: 10 minutes | Vapourized: 0-1 minutes.",
-      "summary": "A more potent analogue of methaqualone with a short duration. Thought to be potentially neurotoxic. Has pro-convulsive effects."
+      "summary": "A more potent analogue of methaqualone with a short duration. The drug is suspected to be  neurotoxic. The drug is reported to have proconvulsive effects."
     }
   },
   "methylmorphenate": {
@@ -27014,7 +27014,7 @@
         "habit-forming",
         "tentative"
       ],
-      "summary": "Stimulant of the phenylmorpholine class, an analogue of Methylphenidate where the piperidine ring has been replaced by a morpholine one, with ~1/10 potency."
+      "summary": "Stimulant of the phenylmorpholine class, an analogue of methylphenidate where the piperidine ring has been replaced by a morpholine one, with ~1/10 potency."
     }
   },
   "methylone": {
@@ -27076,7 +27076,7 @@
       "duration": "2-4 hours",
       "marquis": "Yellow",
       "onset": "15-60 minutes",
-      "summary": "βk-MDMA is a cathinone stimulant and empathogen, similar in structure to MDMA, though more stimulating and less empathogenic in comparison. Was very commonly mis-sold as MDMA on the street until it was banned in 2013. The Marquis reagent can differentiate βk-MDMA from MDMA. Less potent than MDMA with a slightly shorter duration."
+      "summary": "βk-MDMA (methylone) is a cathinone stimulant and empathogen. It has a structure to MDMA, and is reported to have more stimulating and less empathogenic effects in comparison. The drug was mis-sold as MDMA on the street until it was banned by many countries in 2013. The Marquis reagent can differentiate βk-MDMA from MDMA. The drug is reported to be less potent than MDMA with a slightly shorter duration."
     },
     "pweffects": {
       "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
@@ -27148,7 +27148,8 @@
       "Reduced appetite",
       "Flushing of the face",
       "Increased body temperature",
-      "Tachycardia (Increased heart rate) Paranoia",
+      "Tachycardia (increased heart rate)",
+      "Paranoia",
       "Insomnia"
     ],
     "formatted_onset": {
@@ -27174,11 +27175,11 @@
         "common"
       ],
       "dose": "Oral Light: 20-40mg  Common: 40-60mg  Strong: 60-80mg  Heavy: 80-100mg+ | Insufflated Light: 5-15mg  Common: 15-40mg  Strong: 40-60mg  Heavy: 60-75mg+",
-      "duration": "Oral-IR: 3-6 hours. | Oral-XR: 8-12 hours. | Insufflated: 2-4 hours. | Note: XR formulations become IR before they can be insufflated, so duration should be mostly the same.",
-      "effects": "Increased alertness, Euphoria, Increased motivation, Reduced appetite, Flushing of the face, Increased body temperature, Tachycardia (Increased heart rate) Paranoia, Insomnia.",
+      "duration": "Oral-IR: 3-6 hours. | Oral-XR: 8-12 hours. | Insufflated: 2-4 hours. | Note: XR formulations when crushed or otherwise changed become IR before they can be insufflated, so the duration of such is roughly the same as typical IR formulations.",
+      "effects": "Increased alertness, Euphoria, Increased motivation, Reduced appetite, Flushing of the face, Increased body temperature, Tachycardia (increased heart rate), Paranoia, Insomnia.",
       "marquis": "Moderate orange yellow ",
       "onset": "Oral-IR: 30-120 minutes | Oral-XR: 30-120 minutes | Insufflated-XR: 5-10 minutes | Insufflated-IR: 5-10 minutes",
-      "summary": "A psychostimulant commonly used in the treatment of ADHD, narcolepsy and obesity, particularly in the EU instead of Adderall. Methylphenidate is also a 5HT1A receptor agonist. Sometimes prescribed off-label to help the withdrawals from cocaine and other stimulants."
+      "summary": "A psychostimulant commonly used in the treatment of ADHD, narcolepsy, and obesity. The drug is particuarly used in the EU instead of Adderall. Methylphenidate is a 5HT1A receptor agonist. The drug is prescribed off-label to help the withdrawals from cocaine and other stimulants."
     },
     "pweffects": {
       "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
@@ -27265,7 +27266,7 @@
       ],
       "dose": "Light: 150-200mg Common: 200-300mg Strong: 300mg+",
       "duration": "6-12 hours.",
-      "summary": "Sedative of the pipeidinedone family. Was used for treating insomnia, yet is rarely used today due to substances with fewer side effects, such as benzodiazepines."
+      "summary": "Sedative of the pipeidinedone family. The drug was used for treating insomnia, but is rarely used today due to alternatives with fewer side effects, such as benzodiazepines."
     }
   },
   "metizolam": {
@@ -27318,7 +27319,7 @@
       "dose": "Light: 1-2mg Common: 2-4mg Strong: 4-6mg Heavy: 6mg+",
       "duration": "5-8 hours",
       "onset": "30-90 minutes",
-      "summary": "Also known as desmethyletizolam, a thienodiazepine similar in effects and structure to etizolam, but around half as potent and with around a 60% longer half-life. A sedative, and hypnotic, it may cause amnesia and lowered inhibitions in excess."
+      "summary": "The drug is also known as desmethyletizolam. It is a thienodiazepine with similar effects and structure to etizolam. In comparison to etizolam it is roughly half as potent with around a 60% longer half-life. The drug is a sedative hypnotic and may cause amnesia and lowered inhibitions in excess."
     },
     "pweffects": {
       "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
@@ -27369,7 +27370,7 @@
         "tentative"
       ],
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
-      "summary": "5-Methoxytryptamine, a tryptamine derivative that naturally occurs in the body at low levels. No evidence of recreational use. Apparently enhances dreams."
+      "summary": "5-Methoxytryptamine, a tryptamine derivative that naturally occurs in the body at low levels. There are no reports of recreational use. The drug is reported anectodally to enhances dreams."
     }
   },
   "mexazolam": {
@@ -27416,7 +27417,7 @@
       "dose": "Oral Light: 0.25-0.5mg Common: 0.5-1.5mg Strong: 1.5-2mg Heavy: 2-3mg.",
       "duration": "4-8 hours.",
       "onset": "5-45 minutes.",
-      "summary": "Benzodiazepine derivative that has been trialed for anxiety and was found to be effective for anxiety at one week week follow-ups yet after three weeks it had lost its therapeutic anxiolytic properties and becoming no more effective than placebo."
+      "summary": "Benzodiazepine derivative that had been trialed for anxiety and was found to be effective for anxiety at one week week follow-ups, but after three weeks it had lost its associated therapeutic anxiolytic properties and was reported to be no more effective than the placebo."
     }
   },
   "mexedrone": {
@@ -27473,8 +27474,8 @@
       "dose": "Oral Light: 75-150mg Common: 150-200 Strong: 200-300mg+ | Insufflated Light: 50-80mg Common: 80-120mg Strong: 120-200mg+",
       "duration": "1-3 hours.",
       "onset": "Oral: 30-60 minutes. | Insufflated: 3-10 minutes.",
-      "summary": "Mexedrone is a stimulant drug of the cathinone class. It alters the reuptake of serotonin, dopamine, and norepinephrine to cause euphoria,  and is similar in effects to mephedrone. It is considered a designer drug and is in a legally grey area globally.",
-      "warning": "Caution: not much is known about how mexedrone affects the body as it is relatively new, be cautious with doses and how you use it."
+      "summary": "Mexedrone is a stimulant drug of the cathinone class. It alters the reuptake of serotonin, dopamine, and norepinephrine to cause euphoria,  and is reported to have similar effects to mephedrone. It is often called a designer drug.",
+      "warning": "Caution: There is limited information on the drug, caution is highly recommended.."
     },
     "pweffects": {
       "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
@@ -27563,8 +27564,8 @@
       "dose_to_diazepam": "Midazolam - 10mg ~=10mg Diazepam.",
       "duration": "4-8 hours.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
-      "onset": "oral 10-40 minutes | Insufflated: 1-5 minutes | Rectal: 15-25 minutes. | IV: 0-1 minutes | IM: 10-20 minutes.",
-      "summary": "A common hypnotic, sedative and anxiolytic benzodiazepine. High doses may cause amnesia and loss of inhibitions. Unusually, it is water soluble, and commonly used as a premedication for sedation as the solubility makes it better for IV use than other benzodiazepines."
+      "onset": "Oral 10-40 minutes | Insufflated: 1-5 minutes | Rectal: 15-25 minutes. | IV: 0-1 minutes | IM: 10-20 minutes.",
+      "summary": "A common hypnotic, sedative, and anxiolytic benzodiazepine. High doses may cause amnesia and loss of inhibitions. Atypical to other common benzodiazepines, it is water soluble and commonly used as a premedication for sedation as the solubility makes it better for IV use than other benzodiazepines."
     },
     "sources": {
       "bioavailability": [
@@ -27652,7 +27653,7 @@
       "duration": "Oral: 2-5 hours. | Insufflated 3-5 hours. | Vapourized 2-3 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "Oral: 30-45 minutes. | Insufflated: 0-2 minutes | Vapourized: 0-1 minutes",
-      "summary": "N-Methyl-N-isopropyltryptamine, a tryptamine analogue of DMT, a very uncommon drug with very few reports of human use. Described as 'more psychedelic than hallucinogenic' users report only mild visuals with some stimulation and cognitive effects. One of the more stable tryptamines."
+      "summary": "N-Methyl-N-isopropyltryptamine, a tryptamine analogue of DMT. The drug is reportedly are with very few reports of use. The drug is described as 'more psychedelic than hallucinogenic,' users report mild visual hallucinations with some stimulant and cognitive effects. The drug is considered one of of the more stable tryptamines."
     }
   },
   "mk-801": {
@@ -27695,7 +27696,7 @@
         "dizocilpine",
         "mk801"
       ],
-      "avoid": "Driving. Moving and walking if possible. Mixing with other depressants like alcohol, benzos and opiates.",
+      "avoid": "Unnecessary movement due to risk of injury. Mixing with other depressants such as alcohol, benzodiazepines and opiods.",
       "categories": [
         "dissociative",
         "research-chemical",
