@@ -30095,7 +30095,7 @@
       "marquis": "Pale violet",
       "onset": "Oral_IR: 20 minutes | Oral_ER: 40 minutes | Insufflated: 2-5 minutes | IV: 0-1 minutes",
       "potentiators": "Avoid grapefruit juice, depressants, and diphenhydramine (DPH). These products may react negatively and can cause an overdose. Additionally, it is strongly recommended against consuming greater than 4g APAP (acetaminophen) in a day.",
-      "summary": "A semisynthetic opioid analgesic developed in 1917, prescribed primarily for pain management. It has become extremely popular as a recreational drug in some areas, and carries a high potential for addiction. Reported as being a little more 'stimulating' than other opioids."
+      "summary": "A semisynthetic opioid analgesic developed in 1917, prescribed primarily for pain management. It has become extremely popular as a recreational drug in some areas and carries a high potential for substance use disorder. Anectodal reports indicate the drug being a more 'stimulating' than other opioids."
     },
     "pweffects": {
       "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
@@ -30199,8 +30199,8 @@
       "duration": "Oral_IR: 4-8 hours | Oral_ER: 6-14 hours | Insufflated 5-8 hours | Plugged: 4-7 hours | IV: 2-4 hours. | Note: Tolerance + contents in your stomach can cause this to be quite different.",
       "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
       "onset": "Oral_IR: 20-40 minutes | Oral_ER: 60-90 minutes. | Insufflated: 1-5 minutes | Plugged: 15-30 minutes. | IV: 0-1 minutes",
-      "summary": "A powerful semisynthetic opioid analgesic also known as opana. A derivative of morphine it is approximately ten times as potent. Has a low oral bioavailability, and as such it is usually insufflated or taken rectally.",
-      "warning": "NOTE: There has been reports of a rare blood disorder from Intravenous use of Oxymorphone ER. Take this into consideration before taking the drug this way."
+      "summary": "A powerful semisynthetic opioid analgesic also known as Opana. A derivative of morphine, it is approximately ten times as potent as morphine. The drug has a low oral bioavailability and as such it is usually insufflated or taken rectally.",
+      "warning": "NOTE: There have been reports of a rare blood disorder from intravenous use of Oxymorphone ER. It is strongly recommended to take this into consideration before taking the drug this way."
     }
   },
   "pagoclone": {
@@ -30219,7 +30219,7 @@
         "tentative",
         "research-chemical"
       ],
-      "summary": "An anxiolytic drug related to zopiclone with no sedative or hypnotic qualities. Has been investigated as a possible alcohol replacement. Related in structure and effect to Zopiclone and Zolpidem."
+      "summary": "An anxiolytic drug related to zopiclone with reportedly no sedative or hypnotic qualities. The drug has been investigated as a possible alcohol replacement. Related in structure and effect to zopiclone and zolpidem."
     }
   },
   "palfium": {
@@ -30231,7 +30231,7 @@
       "habit-forming",
       "depressant"
     ],
-    "dose_note": " NOTE: Read ~summary before you take this drug. It's very unpredictable.",
+    "dose_note": " NOTE: The drug is reportedly highly unpredicable and having a strange, rapid, tolerance behaviour.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-12"
@@ -30266,7 +30266,7 @@
         "habit-forming",
         "depressant"
       ],
-      "dose": "Oral Light: 2.5-5mg Common: 5-7.5mg Strong: 7.5-10mg+ | NOTE: Read ~summary before you take this drug. It's very unpredictable.",
+      "dose": "Oral Light: 2.5-5mg Common: 5-7.5mg Strong: 7.5-10mg+ | NOTE: The drug is reportedly highly unpredicable and having a strange, rapid, tolerance behaviour.",
       "duration": "Oral 3-5 hours. | Intravenously: 2-3 hours.",
       "onset": "Oral: 5-15 minutes. | Intravenously: 1-2 minutes.",
       "summary": "Dextromoramide, a rare and powerful opioid analgesic approximately three times as potent as morphine with a shorter duration. Generally only seen in the Netherlands. Reported as having strange and rapid tolerance behaviour."
@@ -30326,7 +30326,7 @@
       "duration": "30-60 minutes.",
       "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
       "onset": "Insufflated <5 minutes.",
-      "summary": "Rare, little known and extremely potent RC analogue of Fentanyl. This powerful opioid is generally only dispensed as a nasal spray. Handle with extreme caution and never mix with other depressants."
+      "summary": "The drug is reportedly rare and there is little known about it. It is an extremely potent research chemical analogue of fentanyl. This powerful opioid is generally only dispensed as a nasal spray. It is strongly recommended to handle with extreme caution and to avoid mixing it with other depressants."
     }
   },
   "parafluorofentanyl": {
@@ -30379,7 +30379,7 @@
       "dose": "Insufflated Light: 10-25ug Common: 25-40ug Strong: 40-65ug+",
       "duration": "Oral: 3-4 hours. | Insufflated: 2-3 hours.",
       "onset": "Oral: 5-10 minutes. | Insufflated: 0-1 minute.",
-      "summary": "Rare, little known and extremely potent analogue of Fentanyl developed by Janssen Pharmaceutica in the 1960s. Use with extreme caution and never mix with other depressants."
+      "summary": "The drug is reportedly rare and there is little known about it. It is an extremely potent research chemical analogue of fentanyl developed by Janssen Pharmaceutica in the 1960s. It is strongly recommended to handle with extreme caution and to avoid mixing it with other depressants."
     }
   },
   "paroxetine": {
@@ -30441,7 +30441,7 @@
       "dose": "Insufflated Light: 1-3mg Common: 3-7mg Strong: 7-15mg+",
       "duration": "2-5 hours.",
       "onset": "Insufflated 5-15 minutes.",
-      "summary": "Eticyclidine (PCE) is a Dissociative anesthetic that has hallucinogenic effects. Slightly more potent than Phencyclidine."
+      "summary": "Eticyclidine (PCE) is a dissociative anesthetic that has hallucinogenic effects. It is reported to be slightly more potent than (PCP)."
     }
   },
   "pcp": {
@@ -30549,7 +30549,7 @@
         "status": "Dangerous"
       }
     },
-    "dose_note": " NOTE: Be cautious with dosing, this drug is known to cause mania.",
+    "dose_note": " NOTE: Caution is strongly recommended, there are a high amount of reports for the drug inducing manic episodes and or related psychosis.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "12-24"
@@ -30593,10 +30593,10 @@
         "dissociative",
         "habit-forming"
       ],
-      "dose": "Oral Light: 2-5mg Common: 5-10mg Strong: 10-15mg+ | Insufflated Light: 2-4mg Common: 4-8mg Strong: 8-15mg+ | NOTE: Be cautious with dosing, this drug is known to cause mania.",
+      "dose": "Oral Light: 2-5mg Common: 5-10mg Strong: 10-15mg+ | Insufflated Light: 2-4mg Common: 4-8mg Strong: 8-15mg+ | NOTE: Caution is strongly recommended, there are a high amount of reports for the drug inducing manic episodes and or related psychosis.",
       "duration": "4-6 hours",
-      "onset": "2-20mins",
-      "summary": "A strong dissociative drug.  PCP works primarily as an NMDA receptor antagonist. Also referred to as \"wet\" or \"angel dust\". Best known for stories of the strange and sometimes violent behaviour of those under its influence, though it is likely these are only in overdose cases."
+      "onset": "2-20 minutes",
+      "summary": "A strong dissociative drug.  PCP works primarily as an NMDA receptor antagonist. It is also referred to as \"wet\" or \"angel dust\". The drug is best known for stories of  strange and sometimes violent behaviour of those under its influence, though it is likely these are only in overdose cases. Caution is strongly recommended, there are a high amount of reports for the drug inducing manic episodes and or related psychosis."
     },
     "pweffects": {
       "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
@@ -30680,7 +30680,7 @@
       "dose": "Low: 10-20mg Common: 20-40mg Strong: 40-80mg.",
       "duration": "4-6 hours.",
       "onset": "15-30 minutes.",
-      "summary": "A stimulant of the 4-oxazolidinone class. Was used as a medication for ADHD and Narcolepsy, yet was pulled from most markets due to liver failures among children."
+      "summary": "A stimulant of the 4-oxazolidinone class. The drug was used as a medication for ADHD and narcolepsy, but it was pulled from most markets due to liver failures among children."
     }
   },
   "pentazocine": {
@@ -30732,11 +30732,11 @@
         "depressant",
         "opioid"
       ],
-      "dose": "IM Light: 10-20mg Common: 20mg-30mg Strong: 30-60mg ( Do NOT Exceed 60mg) | IV Light: 5-10mg Common: 10-20mg Strong: 30mg (Do NOT Exceed 30mg)",
+      "dose": "IM Light: 10-20mg Common: 20mg-30mg Strong: 30-60mg (it is strongly recommended not to exceed 60mg) | IV Light: 5-10mg Common: 10-20mg Strong: 30mg (it is strongly recommended not to exceed 30mg)",
       "duration": "IM: 2-3 hours | IV: 2-3 hours",
       "onset": "IM 15-20 minutes | IV 2-3 minutes",
       "summary": "A synthetic opioid used as an analgesic. It is only used IM and IV in the medical field and has respiratory depressant effects. It is pregnancy category C and schedule IV in the US.",
-      "warning": "When mixed with a barbituate in a syringe it will crystallize which can be fatal."
+      "warning": "When mixed with a barbituate in a syringe it will crystallize which can be fatal. Caution is strongly recommended"
     },
     "sources": {
       "_general": [
@@ -30797,7 +30797,7 @@
       "dose": "Oral Light: 5-10mg Common: 10-15mg Strong: 15-25mg | Insufflated Light: 2-5mg Common: 5-10mg Strong: 10-20mg | Rectal Light: 2-5mg Common: 5-10mg strong: 10-20mg.",
       "duration": "Oral: 2-6 hours. | Insufflated: 1-4 hours.",
       "onset": "Oral: 15-30 minutes. | Insufflated: 5-10 minutes.",
-      "summary": "A potent NDRI cathinone-type stimulant with more-ish effects but not thought to be especially enjoyable."
+      "summary": "A potent NDRI cathinone-type stimulant with anectodal reports indicating the drugs effects not to be greatly recreational."
     }
   },
   "pentobarbital": {
@@ -30851,7 +30851,7 @@
         "nembutal",
         "novopentobarb"
       ],
-      "avoid": "All other CNS depressants, also avoid if you have respiratory issues or liver issues as barbiturates are harsh on the liver.",
+      "avoid": "All other CNS depressants. It is additionally recommended to be avoided if one has respiratory or liver issues as barbiturates are harsh on the liver.",
       "categories": [
         "depressant",
         "habit-forming",
@@ -30860,7 +30860,7 @@
       "dose": "Oral Light: 50-100mg Common: 100-200mg Heavy: 200-300mg | IM Light: 100-150mg Common: 150-200mg Heavy: 200mg+ | IV Light: 50-60mg Common: 60-100mg Heavy: 100mg+",
       "duration": "Oral 3-4 hours | IM 3-4 hours | IV 15-20 minutes",
       "onset": "Oral 15-60 minutes | IM 10-25 minutes | IV 1 minute",
-      "summary": "A CNS depressant drug that is of the barbituate class. Typically not used often as it is easier to OD on than benzodiazepines, the new alternative to barbituates. Used often for insomnia, to cause sedation."
+      "summary": "A CNS depressant drug that is of the barbituate class. The drug is not used often used medically due to it's high overdose potential in contrast to a lesser overdose risk with benzodiazipines. The drug is used for the treatment of insomnia"
     },
     "sources": {
       "_general": [
@@ -30918,7 +30918,7 @@
       "dose": "Light: 10-20mg Common: 20-40mg Strong: 40-80mg+",
       "duration": "3-4 hours.",
       "onset": "Oral: 20-40 minutes | Insufflated: 10 minutes",
-      "summary": "A stimulant, empathogen and substituted cathinone. It was first synthesised in the 1960s, and re-appeared on the research chemical scene in 2010. Still, very little is known about the pharmacology or effects of this compound."
+      "summary": "A stimulant, empathogen, and substituted cathinone. It was first synthesised in the 1960s, and re-appeared on the research chemical scene in 2010. There is very little known about the pharmacology or effects of this compound."
     }
   },
   "peyote": {
@@ -30961,11 +30961,10 @@
       "changes in time and reality",
       "changes in self control",
       "ego softening",
-      "pupil dialation",
+      "pupil dilation",
       "body tremors",
       "nausea",
-      "chest and neck pain",
-      "shortness of"
+      "chest and neck pain"
     ],
     "formatted_onset": {
       "_unit": "minutes",
@@ -30984,9 +30983,9 @@
       ],
       "dose": "Fresh Light: 50-100g  Common: 100-150g  Strong 150-200g  Heavy: 200g+ | Dried  Light: 10-20g  Common: 20-30g Strong: 30-40g  Heavy: 40g+",
       "duration": "4-8 hrs",
-      "effects": "feelings of insight, brightening of colors, mood lift, closed and open eye visuals, giggling, increase in energy happy feelings, change in consciousness, loss of appettite, unusla thoughts and speech, mild to extreme distractability, changes in time and reality, changes in self control, ego softening, pupil dialation, body tremors, nausea, chest and neck pain, shortness of",
+      "effects": "feelings of insight, brightening of colors, mood lift, closed and open eye visuals, giggling, increase in energy happy feelings, change in consciousness, loss of appettite, unusla thoughts and speech, mild to extreme distractability, changes in time and reality, changes in self control, ego softening, pupil dilation, body tremors, nausea, chest and neck pain",
       "onset": "60-120 minutes",
-      "summary": "Peyote is a small, spineless cactus that contains mescaline as its primary active chemical. It has a long history of use among the natives of northern Mexico and SW United States."
+      "summary": "Peyote is a small, spineless cactus that contains mescaline as its primary active chemical. It has a long history of use among the natives of Northern Mexico and Southwestern United States."
     }
   },
   "pfbt": {
@@ -31035,7 +31034,7 @@
       "dose": "Insufflated Threshold: 10-20mg Light: 20-50mg Common: 50-70mg Strong: 70-110mg+",
       "duration": "Insufflated: 1-2 hours.",
       "onset": "Insufflated: 1-10 minutes.",
-      "summary": "Tropane derivative substance that supposedly has around ~30% the potency of Cocaine as a stimulant. While also having properties of a local anasthetic."
+      "summary": "Tropane derivative substance that is suggested to have around ~30% the potency of cocaine as a stimulant, while also having properties of a local anasthetic."
     }
   },
   "phenazepam": {
@@ -31083,12 +31082,12 @@
         "habit-forming",
         "depressant"
       ],
-      "dose": "Light: 0.5-1mg Common: 1-2mg Heavy: 2-4mg WARNING Blacking out is very likely past 4mg's, don't tempt this one.",
+      "dose": "Light: 0.5-1mg Common: 1-2mg Heavy: 2-4mg - Blacking out is reported to happen often above 4mg. Caution is strongly recommended.",
       "dose_to_diazepam": "Phenazepam - ~1mg ~=10mg Diazepam.",
       "duration": "18+ hours",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "15-60 minutes",
-      "summary": "A very long acting, potent and subtle benzodiazepine. Infamous for the calamitous experiences it tends to produce in people dosing unknown amounts. Prescribed in certain countries for epilepsy and alcohol withdrawal."
+      "summary": "A very long-acting, potent, subtle benzodiazepine. Infamous for the calamitous experiences, many anectodal reports indicate the drugs suggestibility for redosing and reckless usage. The drug is prescribed in certain countries for epilepsy and alcohol withdrawal."
     }
   },
   "phenethylamine": {
@@ -31130,7 +31129,7 @@
       "dose": "Common: 300-500mg.",
       "duration": "1-4 hours.",
       "onset": "15-30 minutes.",
-      "summary": "Organic compound, which is a name of a class of chemicals that are quite well known for psychoactive and/or stimulant effects. Normally not used as a supplement as it is rapidly broken down into inactive compounds. Is found in many foods."
+      "summary": "Organic compound, which is the name of a class of chemicals that are known for psychoactive and/or stimulant effects. The compound is typically not used as a supplement as it is rapidly broken down into inactive compounds. The compound is found in many foods."
     }
   },
   "phenetrazine": {
@@ -31163,7 +31162,7 @@
         "tentative"
       ],
       "dose": "Oral Threshold: 5-10mg Light: 10-25mg Common: 25-50mg Strong: 50-70mg. Heavy: 70mg+ | Insufflated Light: 10-20mg Common: 20-35mg Strong: 35-50mg Heavy: 50mg+",
-      "summary": "A rare phenethylamine stimulant related to 3-FPM. Virtually nothing is known about the pharmacology or effects of this compound but it is likely to have similar properties to other stimulants of its type. Not to be confused with phenmetrazine."
+      "summary": "A rare phenethylamine stimulant related to 3-FPM. There is limited information on the drugs pharmacology and effects. It is suspected to have similar properties to structurally similar compounds. Caution is recommended to not confuse it with phenmetrazine."
     }
   },
   "phenibut": {
@@ -31173,7 +31172,7 @@
       "habit-forming",
       "nootropic"
     ],
-    "dose_note": " NOTE: This substance has a very fast tolerance raise, and also seems to vary a lot person to person. Start low and work your way up. We would recommend starting with a low dose and working it up every 50-100mg's every two weeks.",
+    "dose_note": " NOTE: The substance reportedly has a very fast increase in tolerance which seems to vary significantly person-to-person. Caution is recommended start slowly and increase dosages incrementally. There are suggestions to start with lower dosages (50-100mg's) and to wait two weeks before dosage increasement.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-24"
@@ -31205,18 +31204,18 @@
     "pretty_name": "Phenibut",
     "properties": {
       "after-effects": "1-24 hours.",
-      "avoid": "Other CNS depressants such as alcohol",
+      "avoid": " CNS depressants such as alcohol, opioids, and benzodiazepines.",
       "categories": [
         "depressant",
         "research-chemical",
         "habit-forming",
         "nootropic"
       ],
-      "dose": "Light: 300-600mg's Common: 600-1200mg Strong: 1200-1800mg+ | NOTE: This substance has a very fast tolerance raise, and also seems to vary a lot person to person. Start low and work your way up. We would recommend starting with a low dose and working it up every 50-100mg's every two weeks.",
+      "dose": "Light: 300-600mg's Common: 600-1200mg Strong: 1200-1800mg+ | NOTE: The substance reportedly has a very fast increase in tolerance which seems to vary significantly person-to-person. Caution is recommended start slowly and increase dosages incrementally. There are suggestions to start with lower dosages (50-100mg's) and to wait two weeks before dosage increasement.",
       "duration": "9-16 hours.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
-      "onset": "30-120 mins to feel it, peak around t+3-4h",
-      "summary": "A derivative of GABA with the addition of a phenyl ring which allows it to cross the Blood Brain Barrier. Is mostly used as an anti-anxiety and anti-insomnia medication. Tolerance and physical dependency builds very quickly."
+      "onset": "30-120 minutes, peak around t+3-4h",
+      "summary": "A derivative of GABA with the addition of a phenyl ring which allows it to cross the blood brain barrier. The drug is typically used as an anxiety and insomnia medication. Tolerance and physical dependency builds quickly."
     },
     "pweffects": {
       "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
@@ -31283,9 +31282,9 @@
         "habit-forming"
       ],
       "dose": "Common: 25-50mg Dangerous: 80mg+",
-      "duration": "4-8 hours. More or less dependent on stomach contents and metabolism.",
+      "duration": "4-8 hours.",
       "onset": "15-30 minutes.",
-      "summary": "Stimulant drug that was previously used as an appetite suppresant, has been withdrawn from the market, due to concerns of abuse and addiction. Usually produces less nervousness, euphoria, and insomnia than drugs of the amphetamine family. Also as a study concluded, it is slightly more effective than dextroamphetamine as a weight loss agent."
+      "summary": "Stimulant drug that was previously used as an appetite suppressant and has since been withdrawn from the market, due to concerns of abuse and addiction. It is reported to produce less negative side effects than ones associated with common amphetamines. A study has reported it is slightly more effective than dextroamphetamine as a weight loss agent."
     }
   },
   "phenobarbital": {
@@ -31338,7 +31337,7 @@
       "dose": "Oral Light: 50-100mg's Common: 100-150mg's Strong: 150-300mg's+",
       "duration": "Oral: 5-8 hours. | Intravenous: 4-6 hours.",
       "onset": "Oral: 15-45 minutes. | Intravenous: 1-5 minutes.",
-      "summary": "CNS depressant that is used mostly for insomnia (In older patients) and epliepsy (in younger patients) And it a very strong narcotic, that can be taken most ways. It's used less as \"safer\" alternatives have been made (Benzodiazepines)."
+      "summary": "CNS depressant that is typically used for insomnia in older patients and epliepsy in younger patients. Phenobarbital has been used less medically as benzodiazepines have been associated with less side effects and further concerns such as abuse."
     }
   },
   "phentermine": {
@@ -31371,7 +31370,7 @@
       ],
       "dose": "Low: 15-20mg Common: 20-40mg Strong: 40-70mg's.",
       "onset": "4-6 hours.",
-      "summary": "Psychostimulant of the substituted amphetamine class. Used in medicine as an appetite suppressant."
+      "summary": "Psychostimulant of the substituted amphetamine class. The drug is used medically as an appetite suppressant."
     }
   },
   "picamilon": {
@@ -31414,7 +31413,7 @@
       "dose": "Oral Light: 40-80mg Common: 80-140mg Strong: 140-250mg.",
       "duration": "2-4 hours.",
       "onset": "10-45 minutes.",
-      "summary": "An analogue of GABA that does pass the brain blood barrier, which is then hydrolyzed into GABA and Niacin. In which the GABA could produce an anxiolytic effect. The Niacin as a vasodilator. And is usually used as part of a nootropic stack."
+      "summary": "An analogue of GABA that passes the brain blood barrier, which is then hydrolyzed into GABA and niacin. It is suggested GABA is the producer of an anxiolytic effect from this action. In contrast, it is suggested niacin acts as a vasodilator. Picamilon is often used in nootropic 'stacks'."
     }
   },
   "pinazepam": {
@@ -31461,7 +31460,7 @@
       "dose": "Light: 2.5-5mg Common: 5-10mg Strong: 10-20mg+",
       "duration": "6-16 hours.",
       "onset": "15-90 minutes.",
-      "summary": "Benzodiazepine that is solely an anxiolytic drug that lacks the hypnotic and motor impairment that most benzodiazepines do. The main metabolite of this is Nordazepam and to a lesser effect Oxazepam, which is where it gets most of its effects"
+      "summary": "Benzodiazepine that is solely an anxiolytic drug that lacks the hypnotic and significant motor impairment that typical benzodiazepines do. The main metabolite of this drug is nordazepam and to a lesser effect oxazepam, which is where it is suggested to get most of its effects"
     }
   },
   "pipt": {
@@ -31523,7 +31522,7 @@
       "duration": "Oral: 3-4 hours | Vapourized: 2 hours",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "Vapourized: 5 minutes. | Oral: 1 hour.",
-      "summary": "A rare psychedelic tryptamine related to DPT. Little is known about the effects or safety profile of this compound."
+      "summary": "A rare psychedelic tryptamine related to DPT. There is little known about the effects or safety profile of this compound."
     }
   },
   "piracetam": {
@@ -31539,7 +31538,7 @@
     "categories": [
       "nootropic"
     ],
-    "dose_note": " Note: Doses are normally split up to be taken 3x a day.",
+    "dose_note": " Note: Doses are typically split up to be taken 3x a day.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-6"
@@ -31579,7 +31578,7 @@
       "dose": "Common: 1200-4800mg | Note: Doses are normally split up to be taken 3x a day.",
       "duration": "3-6 hours.",
       "onset": "15-35 minutes.",
-      "summary": "A racetam nootropic claimed by many to have cognitive benefits however this has never been strongly supported in healthy individuals. Prescribed in the UK as a treatment for myoclonus. Potentially an ampakine. One of the first popular 'nootropics.'"
+      "summary": "A racetam nootropic suggested to have cognitive benefits but has limited clinical research on it. The racetam is prescribed in the United Kingdom as a treatment for myoclonus. Piracetam is potentially an ampakine. It has been known to be one of the more popular nootropics."
     },
     "pweffects": {
       "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
@@ -31645,7 +31644,7 @@
       "dose": "Oral Light: 100-200mg Common: 200-500mg Strong: 500-750mg +",
       "duration": "6-9 hours",
       "onset": "15-45 minutes.",
-      "summary": "Sedative Hypnotic medication made in the 50's. It was used for short term help for insomnia (No longer than two weeks)"
+      "summary": "Sedative-hypnotic medication made in the 1950's. The drug was used for treatment of short-term insomnia (two weeks)."
     }
   },
   "pma": {
@@ -31663,15 +31662,15 @@
         "stimulant",
         "tentative"
       ],
-      "summary": "An empathogen with a slow onset and very strong serotonin release. This, combined with its lack of dopamine release, often leads users to dose more for the pleasurable effects which never come, leading to hospitalisations and deaths. Sometimes mis-sold as MDMA.",
-      "warning": "A deadly neurotoxin found in some MDMA presses."
+      "summary": "An empathogen with a slow onset and strong serotonin release. This, combined with its lack of dopamine release, often leads users to dose more for the pleasurable effects which reportedly do not appear. This often leading to hospitalisations and deaths. The drug has been missold as MDMA.",
+      "warning": "The drug is a deadly neurotoxin found in some MDMA presses."
     }
   },
   "pramiracetam": {
     "categories": [
       "nootropic"
     ],
-    "dose_note": " Note: Usually taken two or three times a day. So 400mg taken three times a day. Or 600mg three times a day.",
+    "dose_note": " Note: Usually taken two or three times a day. 400mg taken three times a day, or 600mg three times a day.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-2"
@@ -31696,10 +31695,10 @@
       "categories": [
         "nootropic"
       ],
-      "dose": "Common: 400-1200mg | Note: Usually taken two or three times a day. So 400mg taken three times a day. Or 600mg three times a day.",
+      "dose": "Common: 400-1200mg | Note: Usually taken two or three times a day. So 400mg taken three times a day, or 600mg three times a day.",
       "duration": "4-6 hours.",
       "onset": "15-30 minutes.",
-      "summary": "A CNS stimulant that is a nootropic, that belongs to the racetam family of compounds. Much more potent than Piracetam while appearing to work on similar mechanisms."
+      "summary": "A CNS stimulant nootropic that belongs to the racetam family of compounds. The nootropic is significantly more potent than piracetam while appearing to have a similar mechanism of action."
     }
   },
   "prazepam": {
@@ -31770,7 +31769,7 @@
       "duration": "8-20 hours.",
       "effects": "Anxiolytic, Anticonvulsant, Sedative, Skeletal Muscle Relaxant",
       "onset": "45-120 minutes.",
-      "summary": "Benzodiazepine dervative. Has all the normal benzodiazepine-like quality (Anxiolytic/anticonvulsant/sedative/Skeletal muscle relaxant) It is also a prodrug for Desmethyldiazepam which is responsible for most if not all of the effects of Prazepam."
+      "summary": "Benzodiazepine dervative. It is suggested to have effects typical to common benzodiazepines such as anxiolytic, anticonvulsant, sedation, and skeletal muscle releaxent. It is a prodrug for desmethyldiazepam which is suggested to be the causer of the majority, if not all of the effects to prazepam."
     }
   },
   "pre-084": {
@@ -31792,9 +31791,9 @@
         "tentative"
       ],
       "duration": "6-10 hours.",
-      "note": "Not much is known about this drug, so be cautious.",
+      "note": "There is limited information on the substance, caution is strongly advised.",
       "onset": "15-30 minutes.",
-      "summary": "A sigma-1 receptor agonist derived structurally from PCP. It has cognitive enhancing effects as well as antidepressant effects, and shows promise in treating many nervous system diseases such as ALS and parkinsons."
+      "summary": "A sigma-1 receptor agonist derived structurally from PCP. It is reported to have cognitive enhancing effects as well as antidepressant effects. Studies are being conduced on its potential use in treating many nervous system diseases such as ALS and parkinsons."
     }
   },
   "pregabalin": {
@@ -31851,7 +31850,7 @@
       "duration": "6-14 hours (dependant on dose)",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "90-150 minutes.",
-      "summary": "Pregabalin (Lyrica) is a GABA derivative that is used to treat neuropathic pain and seizures, as well as anxiety."
+      "summary": "Pregabalin (Lyrica) is a GABA derivative that is used to treat neuropathic pain, seizures, and anxiety. Pregabalin independently has seizure concerns at higher dosages and concerns at lower dosages with preexisting risk factors and conditions."
     },
     "pweffects": {
       "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
@@ -31889,7 +31888,7 @@
       "nootropic",
       "tentative"
     ],
-    "dose_note": " NOTE: start low and work your way up.",
+    "dose_note": " NOTE: It is strongly recommend to start with low dosages and increase slowly.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-12"
@@ -31923,10 +31922,10 @@
         "nootropic",
         "tentative"
       ],
-      "dose": "Oral: 2-3mg Low: 3-5mg Common: 5-10mg Strong: 10-20mg+ | NOTE: start low and work your way up.",
+      "dose": "Oral: 2-3mg Low: 3-5mg Common: 5-10mg Strong: 10-20mg+ | NOTE: It is strongly recommend to start with low dosages and increase slowly.",
       "duration": "Oral: 4-6 hours | Sublingual: 3-5 hours | Insufflated: 2-4 hours.",
-      "onset": "Oral: Within 30 minutes. | Sublingual: Within 15 minutes. | Insufflated: Within 5 minutes.",
-      "summary": "A nootropic research chemical first synthesized in the 70s. One study shows a drastic improvement in mid-term memory among users, but otherwise it is severely lacking in information surrounding it. It has no recreational potential."
+      "onset": "Oral: 30 minutes. | Sublingual: 15 minutes. | Insufflated: 5 minutes.",
+      "summary": "A nootropic research chemical first synthesized in the 1970's. There is a single clinical study showing drastic improvement in mid-term memory among users, but otherwise it is severely under researched and caution should be given to any singular study. The reportedly does not have recreational value."
     }
   },
   "pro-lad": {
@@ -31959,7 +31958,7 @@
       "dose": "Light: 50-100ug Common: 100-150ug Strong: 150-200ug.",
       "duration": "6-10 hours.",
       "onset": "30-45 minutes.",
-      "summary": "A very rare lysergamide that is slightly less potent than LSD, yet with a shorter duration of action."
+      "summary": "A rare lysergamide that is slightly less potent than LSD with a shorter duration of action."
     }
   },
   "prolintane": {
