@@ -32010,16 +32010,16 @@
         "habit-forming"
       ],
       "dose": "Threshold: 5-10mg Light: 10-15 Common: 15-30mg Strong: 30-50mg+",
-      "duration": "3-6 hours (Highly dependant on dose)",
+      "duration": "3-6 hours depending on dosages",
       "onset": "15-30 minutes.",
-      "summary": "A stimulant drug which is a dopamine reuptake inhibitor, related to MDPV and Pyrovalerone. It was first developed in the 1950s, and has seen some light usage in rave culture, though it remains relatively uncommon. Believed to have a relatively forgiving safety profile."
+      "summary": "A stimulant drug which is a dopamine reuptake inhibitor related to MDPV and pyrovalerone. The drug was first developed in the 1950's and there are many reported cases of abuse for this drug."
     }
   },
   "promethazine": {
     "categories": [
       "common"
     ],
-    "dose_note": " NOTE: This is what is normally used in medicinal settings, and is usually what is prescribed to you, since it has anticholinergic properties; IE; Delirant.",
+    "dose_note": " NOTE: The drug has deliriant effects at higher dosages.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "0-3"
@@ -32044,10 +32044,10 @@
       "categories": [
         "common"
       ],
-      "dose": "Common: 25-75mg's. | NOTE: This is what is normally used in medicinal settings, and is usually what is prescribed to you, since it has anticholinergic properties; IE; Delirant.",
+      "dose": "Common: 25-75mg's. | NOTE: The drug has deliriant effects at higher dosages.",
       "duration": "4-8 hours.",
       "onset": "15-30 minutes.",
-      "summary": "A first generation antihistamine,  which also possesses anticholinergic, strong sedative and antipsychotic properties. Once commonly used as a treatment for psychosis, it is now more commonly seen as a component of codeine cough syrups as an anti-nausea agent."
+      "summary": "A first generation antihistamine,  which possesses anticholinergic, strong sedative and antipsychotic properties. The drug was commonly used as a treatment for psychosis, and is now more typically used as a component of codeine cough syrups as an anti-nausea agent."
     }
   },
   "propofol": {
@@ -32059,7 +32059,7 @@
       "depressant",
       "habit-forming"
     ],
-    "dose_note": " Note: Do not take this as gospel. Please read ~experiences if you use this substance outside of a hospital setting.",
+    "dose_note": " Note: These dosages are extremely tentative. The drug has a high risk outside of medical settings, extensive research is strongly recommended.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "Intravenous": "1-3"
@@ -32087,16 +32087,16 @@
         "milk-of-amnesia",
         "diprivan"
       ],
-      "avoid": "If in a non-hospital setting, nearly all substances should be avoided. If you use this drug outside of a medical setting, have your partner or a friend monitor your pulse/breathing/etc. If your pulse drops below 50, or if you are taking less than 10 breaths per minute, call an ambulance. In some cases the user's body may be discoloured, in which case they are likely unconscious.",
+      "avoid": "If in a non-hospital setting, nearly all substances should be avoided. If one is to use this drug outside of a medical setting, it is strongly recommended having another experienced individual in-person to monitor ones pulse and breathing among other concerns. If your pulse drops below 50, or if you are taking less than 10 breaths per minute, it is strongly recommended to call an ambulance. In some cases the user's body may be discoloured, in which case they are likely unconscious.",
       "categories": [
         "depressant",
         "habit-forming"
       ],
-      "dose": "Intravenously Light: 10-30mg Common: 30-60mg Strong: 60-100mg | Note: Do not take this as gospel. Please read ~experiences if you use this substance outside of a hospital setting.",
+      "dose": "Intravenously Light: 10-30mg Common: 30-60mg Strong: 60-100mg | Note: These dosages are extremely tentative. The drug has a high risk outside of medical settings, extensive research is strongly recommended.",
       "duration": "Intravenous: 10-20 minutes.",
       "experiences": "https://www.reddit.com/r/Drugs/comments/56n5vq/michael_jackson_the_addict/d8l0qe7",
       "onset": "Intravenous: 0-2 minutes.",
-      "summary": "A very short-acting sedative that is usually given at the start of general anesthesia, and for maintenance of the prior. It should never be used outside of a medical setting. With that in mind, if you do plan to use this drug recreational, please have a very experienced friend with you that has the skills to insert a cannula, and monitor you very closely."
+      "summary": "A very short-acting sedative that is usually given at the start of general anesthesia and for maintenance of the prior. This drug is extremely dangerous to use outside of medical settings If one is to use this drug outside of a medical setting, it is strongly recommended having another experienced individual in-person to monitor ones pulse and breathing among other concerns."
     }
   },
   "propoxyphene": {
@@ -32133,10 +32133,10 @@
         "depressant",
         "habit-forming"
       ],
-      "dose": "Light: 30-65mg Common: 65-100 Strong: 100-200mg. NOTE: Just don't take this drug. <3",
+      "dose": "Light: 30-65mg Common: 65-100 Strong: 100-200mg. NOTE: The drug is reported to have a high risk factor and is considered extremely dangerous.",
       "duration": "1-3 hours.",
       "onset": "20-30 minutes.",
-      "summary": "Is an analgesic in the opioid family. It is intended for mild pain and for its antitussive effects. Has been taken off the market in Europe and the US due to concerns of fatal overdoses and heart arrhythmias."
+      "summary": "The drug is an analgesic in the opioid family. It is intended for mild pain and for its antitussive effects. The drug has been taken off the market in Europe and the US due to concerns of fatal overdoses and heart arrhythmias."
     }
   },
   "propranolol": {
@@ -32185,7 +32185,7 @@
       "dose": "Oral Light: 10-30mg Common: 40-80mg Strong: 80-140mg.",
       "duration": "3-7 hours.",
       "onset": "10-45 minutes.",
-      "summary": "Is a nonselective beta blocker. It is used in medication for high blood pressure, anxiety, and tremors. Also fun fact, it was the first successful beta-blocker developed."
+      "summary": "The drug is a nonselective beta blocker. It is used in medication for high blood pressure, anxiety, and tremors."
     }
   },
   "propylhexedrine": {
@@ -32199,7 +32199,7 @@
       "habit-forming",
       "common"
     ],
-    "dose_note": " Note: Be aware of potency difference between pure HCl substance and cottons.",
+    "dose_note": " Note: There are potency differences between pure HCl and cottons.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-16"
@@ -32245,21 +32245,20 @@
         "propylhexadrine",
         "hexahdromethamphetamine"
       ],
-      "avoid": "Other stimulants, it is known to raise heart rate much higher than what is safe.",
+      "avoid": "Stimulants due to side effect concerns such as heart rate.",
       "categories": [
         "stimulant",
         "habit-forming",
         "common"
       ],
-      "dose": "Oral(Pure) Light: 10-20mg Common: 20-50mg Strong: 50mg+ | Insufflated(Pure) Light: 5-15mg Common: 15-30mg Strong: 30-50mg+ | Oral(Benzedrex) Light: 20-60mg Common: 60-125mg Strong: 125-250mg Heavy: 250mg+ | Insufflated (Benzedrex) Light: 10-30mg's Common: 30-75mg's Strong: 75-100mg+ | Note: Be aware of potency difference between pure HCl substance and cottons.",
+      "dose": "Oral(Pure) Light: 10-20mg Common: 20-50mg Strong: 50mg+ | Insufflated(Pure) Light: 5-15mg Common: 15-30mg Strong: 30-50mg+ | Oral (Benzedrex) Light: 20-60mg Common: 60-125mg Strong: 125-250mg Heavy: 250mg+ | Insufflated (Benzedrex) Light: 10-30mg's Common: 30-75mg's Strong: 75-100mg+ | Note: There are potency differences between pure HCl and cottons.",
       "duration": "4-8 hours",
       "onset": "Oral: 5-15 minutes | Insufflated: 5-10 minutes.",
-      "summary": "A relatively common CNS stimulant sold over the counter in benzedrex inhalers."
+      "summary": "A relatively common CNS stimulant sold over the counter in Benzedrex inhalers."
     },
     "sources": {
       "_general": [
-        "A drug toxicity death involving propylhexedrine and mitragynine. - https://www.ncbi.nlm.nih.gov/pubmed/21219704",
-        "A drug toxicity death involving propylhexedrine and mitragynine - https://www.ncbi.nlm.nih.gov/pubmed/21219704"
+        "A drug toxicity death involving propylhexedrine and mitragynine. - https://www.ncbi.nlm.nih.gov/pubmed/21219704"
       ]
     }
   },
