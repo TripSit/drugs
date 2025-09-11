@@ -29758,7 +29758,7 @@
       "duration": "3-6 hours",
       "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
       "onset": "Oral: 20-40 minutes | Insufflated: 20 minutes.",
-      "summary": "A opioid analgesic which is the main active metabolite of Tramadol. Alone, it is a few times more potent than Tramadol and has additional affinity for δ and κ-opioid receptors. Has proven popular when sold, but these occasions have been rare due to patent rights."
+      "summary": "An opioid analgesic which is the main active metabolite of tramadol. The drug is a u(mu) full agonist and has additional affinity for δ (delta) and κ-opioid receptors."
     }
   },
   "o-pce": {
@@ -29815,7 +29815,7 @@
       "dose": "Oral Light: 3-6mg Common: 6-11mg Strong: 10-20mg. Insufflated Light: 3-5mg Common: 5-10mg Strong: 10-20mg.",
       "duration": "Oral 3-6 hours. | Insufflated 2-5 hours.",
       "onset": "Oral 25-75 minutes. | Insufflated 15-45 minutes.",
-      "summary": "Dissociative of the Arylcyclohexylamine class. Structurally related to Deschloroketamine."
+      "summary": "Dissociative of the arylcyclohexylamine class. Structurally related to deschloroketamine."
     }
   },
   "opium": {
@@ -29861,7 +29861,7 @@
       "aliases": [
         "O"
       ],
-      "avoid": "Easy to overdose. Don't smoke from aluminum foil.",
+      "avoid": "The drug has a high rate of overdoses and it is strongly recommended against using foil to smoke it.",
       "categories": [
         "opioid",
         "habit-forming",
@@ -29869,7 +29869,7 @@
         "common"
       ],
       "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
-      "marquis": "Dark grayish reddish Brown",
+      "marquis": "Dark grayish reddish brown",
       "summary": "Opium is a naturally occurring analgesic harvested as a latex from ripe Papaver somniferum (opium poppy) pods. The sap of the poppy plant primarily contains codeine and morphine with the amounts varying by plant, which can be made into a tea and consumed raw, or further processed."
     }
   },
@@ -29898,7 +29898,7 @@
       "value": "4-6"
     },
     "formatted_effects": [
-      "Typical benzodiazepine effects",
+      "The drug is reported to have effects associated with typical common benzodiazepines",
       "Amnesic",
       "anxiolytic",
       "anticonvulsant",
@@ -29925,7 +29925,7 @@
       "dose": "Light: 5-10mg Common: 10-30mg Strong: 30-45mg+",
       "dose_to_diazepam": "Oxazepam - 20mg ~=10mg Diazepam.",
       "duration": "4-6 hours.",
-      "effects": "Typical benzodiazepine effects. Amnesic, anxiolytic, anticonvulsant, hypnotic, sedative.",
+      "effects": "The drug is reported to have effects associated with typical common benzodiazepines. Some of these effects include but are not limited to, amnesic, anxiolytic, anticonvulsant, hypnotic, and sedative.",
       "onset": "60-120 minutes.",
       "summary": "A prescription benzodiazepine with intermediate duration and half life. A sedative and hypnotic which may cause lowered inhibitions and amnesia in higher doses."
     }
@@ -30006,7 +30006,7 @@
       "experiences": "https://erowid.org/experiences/subs/exp_Smarts_Oxiracetam.shtml",
       "note": "The doses listed are for over the course of a 24 hour period. 2-3x daily, such as 400-800mg three times a day.",
       "onset": "15-30 minutes.",
-      "summary": "Oxiracetam is a racetam nootropic, having a hydroxyl group being the only difference between this and Piracetam. It used as a nootropic, namely for increased cognitive function. It is usually used two to three times a day. This substance is normally taken with Choline, can cause headaches without the addition of Choline."
+      "summary": "Oxiracetam is a racetam nootropic, having a hydroxyl group being the only difference between this and piracetam. It used as a nootropic, namely for increased cognitive function. It is typically used two to three times a day. This substance is typically taken with choline and is reported to cause headaches without the addition of it."
     }
   },
   "oxycodone": {
@@ -30022,7 +30022,7 @@
       "depressant",
       "common"
     ],
-    "dose_note": " Note: Dosages reflect that, while nasal bioavailability (BA) may be less than oral BA, nasal administration causes an additional 'rush' (due to quicker onset); this may lead to a subjective experience of greater strength than an equivalent oral dose.",
+    "dose_note": " Note: Dosages reflect that while nasal bioavailability (BA) may be less than oral BA, nasal administration can cause an additional 'rush' (due to quicker onset); this may lead to a subjective experience of greater strength than an equivalent oral dose.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-24"
@@ -30094,7 +30094,7 @@
       "half-life": "2-4 hours",
       "marquis": "Pale violet",
       "onset": "Oral_IR: 20 minutes | Oral_ER: 40 minutes | Insufflated: 2-5 minutes | IV: 0-1 minutes",
-      "potentiators": "Avoid grapefruit juice, alcohol, and diphenhydramine. These products may react negatively and cause an overdose. Also do not consume more than 4g APAP (acetaminophen) in a day.",
+      "potentiators": "Avoid grapefruit juice, depressants, and diphenhydramine (DPH). These products may react negatively and can cause an overdose. Additionally, it is strongly recommended against consuming greater than 4g APAP (acetaminophen) in a day.",
       "summary": "A semisynthetic opioid analgesic developed in 1917, prescribed primarily for pain management. It has become extremely popular as a recreational drug in some areas, and carries a high potential for addiction. Reported as being a little more 'stimulating' than other opioids."
     },
     "pweffects": {
