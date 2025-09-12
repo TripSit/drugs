@@ -30860,7 +30860,7 @@
       "dose": "Oral Light: 50-100mg Common: 100-200mg Heavy: 200-300mg | IM Light: 100-150mg Common: 150-200mg Heavy: 200mg+ | IV Light: 50-60mg Common: 60-100mg Heavy: 100mg+",
       "duration": "Oral 3-4 hours | IM 3-4 hours | IV 15-20 minutes",
       "onset": "Oral 15-60 minutes | IM 10-25 minutes | IV 1 minute",
-      "summary": "A CNS depressant drug that is of the barbituate class. The drug is not used often used medically due to it's high overdose potential in contrast to a lesser overdose risk with benzodiazipines. The drug is used for the treatment of insomnia"
+      "summary": "A CNS depressant drug that is of the barbituate class. The drug is not used often used medically due to it's high overdose potential in contrast to a lesser overdose risk with benzodiazepine. The drug is used for the treatment of insomnia"
     },
     "sources": {
       "_general": [
@@ -31769,7 +31769,7 @@
       "duration": "8-20 hours.",
       "effects": "Anxiolytic, Anticonvulsant, Sedative, Skeletal Muscle Relaxant",
       "onset": "45-120 minutes.",
-      "summary": "Benzodiazepine dervative. It is suggested to have effects typical to common benzodiazepines such as anxiolytic, anticonvulsant, sedation, and skeletal muscle releaxent. It is a prodrug for desmethyldiazepam which is suggested to be the causer of the majority, if not all of the effects to prazepam."
+      "summary": "Benzodiazepine dervative. It is suggested to have effects typical to common benzodiazepines such as anxiolytic, anticonvulsant, sedation, and skeletal muscle relaxant. It is a prodrug for desmethyldiazepam which is suggested to be the causer of the majority, if not all of the effects to prazepam."
     }
   },
   "pre-084": {
@@ -32366,7 +32366,7 @@
       "duration": "6-12 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "30-60 minutes",
-      "summary": "A very uncommon psychedelic stimulant and phenethylamine and analogue on mescaline with similar effects. Roughly 5-7 times more potent than mescaline by weight."
+      "summary": "An uncommon psychedelic stimulant phenethylamine and analogue of mescaline with reportedly similar effects. The drug is roughly 5-7 times more potent than mescaline by weight."
     }
   },
   "pseudoephedrine": {
@@ -32395,7 +32395,7 @@
     "name": "pseudoephedrine",
     "pretty_name": "Pseudoephrine",
     "properties": {
-      "avoid": "If you're prone to a pre-exisiting condition regarding your heart.",
+      "avoid": "If one is prone to or has a pre-exisiting condition relating to the heart.",
       "categories": [
         "stimulant",
         "common"
@@ -32403,7 +32403,7 @@
       "dose": "Oral Light: 30-60mg. Common: 60-90mg. Strong: 90-120mg.",
       "duration": "2-12 hours.",
       "onset": "10-90 minutes.",
-      "summary": "Widely sold as a decongestant, and one isomer of Ephedrine. It is not generally considered to have any recreational value. Is also used in the synthesis of Methcathinone and Methamphetamine."
+      "summary": "The drug is widely sold as a decongestant and is one isomer of ephedrine. The drug reportedly lacks in recreational effects. It is used in the synthesis of methcathinone and methamphetamine."
     }
   },
   "psilocin": {
@@ -32460,7 +32460,7 @@
       "dose": "Oral Light: 5-10mg Common: 10-15mg Strong: 15-25mg | Insufflated Light: 2.5-5mg Common: 5-10mg Strong: 10-15mg",
       "duration": "Oral: 3-6 hours | Insufflated: 2-4 hours.",
       "onset": "Oral: 15-30 minutes. | Insufflated: 5-10 minutes.",
-      "summary": "Psilocin is a substutued tryptamine alkaloid, that is present in most psychedelic mushrooms. It is relatively unstable in solution due to the -OH group."
+      "summary": "Psilocin is a substutued tryptamine alkaloid that is present in most psilocybin mushrooms. It is relatively unstable in solution due to the -OH group."
     }
   },
   "pst": {
@@ -32493,16 +32493,16 @@
         "poppy-seed-tea",
         "poppy-tea"
       ],
-      "avoid": "All other CNS depressants.",
+      "avoid": "All CNS depressants.",
       "categories": [
         "opioid",
         "depressant",
         "habit-forming"
       ],
-      "duration": "Oral: 8-24 hours. | Note: Higher doses, usually will last around 18-24 hours. Yet, on the other side, lower doses last a fair bit shorter.",
+      "duration": "Oral: 8-24 hours. | Note: Higher doses will typically last roughly 18-24 hours. Lower doses are reported to last shorter periods of time.",
       "note": "The doses of this are very inconsistent. Use with caution.",
       "onset": "30-90 minutes.",
-      "summary": "Poppy Tea can be made from poppy pods, stalks and seeds, and contains various opium alkaloids including primarily Morphine, as well as Codeine and others. There is great variation in Poppy Tea potency and therefor doses are indicated for opioid naive users."
+      "summary": "Poppy tea can be made from poppy pods, stalks, and seeds. It contains various opium alkaloids primarily including morphine, as well as codeine and among others. There is great variation in poppy tea potency and therefore doses are indicated for opioid naive users. There are many reports of overdoses due to inconsistent, unpredicable, dosing."
     }
   },
   "pv-8": {
@@ -32557,7 +32557,7 @@
       "dose": "Light: 10-20mg Common: 20-40mg Strong: 40-60mg Heavy: 60+mg.",
       "duration": "Oral: 3-6 hours | Insufflated: 2-5 hours. | Vapourized: 0.5-1.5 hours.",
       "onset": "Oral: 15-45 minutes. | Insufflated: 5-10 minutes | Vapourized: 1-2 minutes.",
-      "summary": "Stimulant of the pyrrolidinophenone class that is a higher homologue of α-PHP and generally less potent and less effective."
+      "summary": "Stimulant of the pyrrolidinophenone class that is a higher homologue of α-PHP. Reportedly less potent and less effects."
     }
   },
   "pv-9": {
@@ -32583,7 +32583,7 @@
       "categories": [
         "inactive"
       ],
-      "summary": "Inactive."
+      "summary": "Reportedly inactive."
     }
   },
   "pyrazolam": {
@@ -32639,7 +32639,7 @@
       "duration": "Oral: 5-8 hours. | Insufflated: 3-5 hours.",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia.",
       "onset": "Oral: 10-15 minutes. | Insufflated: 5 minutes.",
-      "summary": "RC benzodiazepine discovered by Hoffman-LaRoche in the 1970s. Came to the RC market in the early 2010s. At lower doses it is mainly an anxiolytic compound, yet at higher doses can be quite sedating, hypnotic, amnesic, and can cause loss of inhibitions. Structurally similar to Alprazolam, Bromazepam, and Triazolam. Is 12x as potent as Diazepam."
+      "summary": "Research chemical benzodiazepine discovered by Hoffman-LaRoche in the 1970's. It has been reported to be sold on the research chemical market in the early 2010's. At lower doses it acts mainly as an anxiolytic compound, and at higher doses it has been reported to have sedating, hypnotic, amnesic effects while also lowering inhibitions. The drug is structurally similar to alprazolam, bromazepam, and triazolam. The drug is 12x as potent as diazepam."
     },
     "pweffects": {
       "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
@@ -32704,7 +32704,7 @@
       "dose": "Vapourized Light: 5-10mg Common: 10-25mg Strong: 25-50mg Heavy: 50mg+. | Insufflated Light: 20-40mg Common: 40-60mg Strong: 60-90mg Heavy: 90mg+",
       "duration": "Vapourized: 1-1.5 hours | Insufflated: 1-3 hours",
       "onset": "Vapourized 1-30 seconds. | Insufflated 5-15 minutes.",
-      "summary": "An NDRI pyrovalerone derivative reported to have very similar subjective effects. Virtually no information exists about this drug's effects in humans."
+      "summary": "An NDRI pyrovalerone derivative reported to have similar subjective effects to pyrovalerone. There is very limited information on the drug, further research is strongly recommended."
     }
   },
   "quazepam": {
@@ -32752,7 +32752,7 @@
       "dose_to_diazepam": "Quazepam - 20mg ~=10mg Diazepam.",
       "duration": "6-12 hours.",
       "onset": "10-30 minutes.",
-      "summary": "Benzodiazepine derivate drug, noral is prescribed for short term treatment of insomnia, and sleep maintenance. its MOA is very similar to Ambien and Sonata and substitutes for those in animal studies."
+      "summary": "Benzodiazepine derivate drug, Doral is prescribed for short term treatment of insomnia and sleep maintenance. It's method of action is reportedly similar to zolpedim and zaleplon (and substitutes) when tested in animal studies."
     }
   },
   "quetiapine": {
@@ -32787,8 +32787,8 @@
     "name": "quetiapine",
     "pretty_name": "Quetiapine",
     "properties": {
-      "adverse-effects": "dizziness, fatigue, extrapyramidal symptoms, increased diastolic blood pressure, increased triglycerides, increased total cholesterol, increased appetite, constipation, dry mouth, headache, and somnolence",
-      "after-effects": "Can last up to 24 hours after one use.",
+      "adverse-effects": "dizziness, fatigue, extrapyramidal symptoms, increased diastolic blood pressure, increased triglycerides, increased total cholesterol, increased appetite, constipation, dry mouth, headache, somnolence",
+      "after-effects": "The drug may last up to 24 hours.",
       "aliases": [
         "seroquel"
       ],
@@ -32800,11 +32800,11 @@
       "dose": "Oral Light: 25mg-50mg Common: 50mg-150mg Strong: 150mg-300mg Heavy: 300mg-800mg",
       "duration": "7-12 hours.",
       "effects": "sedation, dizziness, fatigue, constipation, dry mouth, headache, appetite change, increased blood pressure",
-      "legal": "Australia: Prescription Only (S4) | United Kingdom: POM | United States: ?-only",
+      "legal": "Australia: Prescription Only (S4) | United Kingdom: POM | United States: Prescription only",
       "onset": "Oral IR: 15-30 minutes. Oral XR: 30-60 minutes.",
       "overdose-symptoms": "sedation, hypotension, tachycardia, cardiac arrhythmia, coma, and death",
       "pharmacology": "D1, D2, D3, and D4 receptor antagonist; 5-HT1A receptor partial agonist; 5-HT2A, 5-HT2C, and 5-HT7 receptor antagonist; α1-adrenergic and α2-adrenergic receptor antagonist; H1 receptor antagonist; mACh receptor antagonist",
-      "summary": "An atypical antipsychotic medication under the brand name Seroquel. Also used to treat insomnia and mood swings. This drug is very sedating and can stop/slow down psychedelic drug trips. Infrequently abused."
+      "summary": "An atypical antipsychotic medication under the brand name Seroquel. Used to treat insomnia and mood swings among other uses. The drug is reported to be very sedating and can stop/slow down psychedelic drug trips. Reports of abuse are rare."
     },
     "pweffects": {
       "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
@@ -32874,7 +32874,7 @@
       "duration": "6-8 hours. ",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia.",
       "onset": "30-60 minutes",
-      "summary": "Unique to Japan, this drug, also known as Rhythmy, is a benzodiazepine pro-drug which while inactive itself, is metabolised into the active compound in-vivo. Soluble in water."
+      "summary": "The drug is prescribed in Japan for insomnia. The drug, also known as Rhythmy, is a benzodiazepine pro-drug which while inactive itself, is metabolised into the active compound in-vivo. The drug is soluble in water."
     }
   },
   "rolicyclidine": {
@@ -32924,7 +32924,7 @@
       "dose": "Light: 2-4mg Common: 4-8mg Strong: 8mg+",
       "duration": "2-6 hours",
       "onset": "Oral: 30-60 minutes | Insufflated 30 minutes.",
-      "summary": "Rolicyclidine, also known as PCPy, is a dissociative with effects similar to PCP. While this dissociative anesthetic has hallucinogenic and sedative effects, it is said to be much less stimulating than PCP. In this sense it is more similar to opioids, or other central nervous system depressants."
+      "summary": "Rolicyclidine, also known as PCPy, is a dissociative with effects similar to PCP. The drug is reported to have less stimulating effects than PCP while keeping similarities with hallucinogenic and sedative effects. In this sense, it has been anecdotally reported to be more similar to opioids regarding effects, or other central nervous system depressants."
     }
   },
   "ronlax": {
@@ -32965,7 +32965,7 @@
         "meilax",
         "victan"
       ],
-      "avoid": "All CNS depressants. Also  if using the antidepressant Fluvoxamine may potentiate the adverse effects.",
+      "avoid": "All CNS depressants. The antidepressant fluvoxamine (Luvox) may potentiate the adverse effects.",
       "categories": [
         "depressant",
         "habit-forming"
@@ -32973,7 +32973,7 @@
       "dose": "Oral Light: 0.5-1mg Common: 1-2mg Strong: 2-4mg.",
       "duration": "8-16 hours.",
       "onset": "45-90 minutes.",
-      "summary": "A benzodiazepine derivative that posses the standard benzodiazepine effects. It has a very long half life (51-103 hours) it metabolizes into an active compound. (Descarboxyloflazepate) Is sold in Mexico."
+      "summary": "A benzodiazepine derivative that posses the common benzodiazepine effects such as sedation, amnesia, and hypnotic effects. It has a long half life (51-103 hours) and metabolizes into an active compound (descarboxyloflazepate). The drug is commercialized in Mexico."
     }
   },
   "rti-111": {
@@ -32986,7 +32986,7 @@
       "tentative",
       "habit-forming"
     ],
-    "dose_note": " Note, this is not nice on the nose, and the duration between Oral and Insufflated are roughly around the same length.",
+    "dose_note": " Note, the drug is reportedly painful to insufflate. The duration between oral and insufflation are roughly around the same.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-6"
