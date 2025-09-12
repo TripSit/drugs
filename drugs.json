@@ -10218,7 +10218,7 @@
       "Euphoric",
       "stimulating high",
       "increases creativity and appetite",
-      "short term memory deficits",
+      "short-term memory deficits",
       "similar to cannabis"
     ],
     "formatted_onset": {
@@ -10244,7 +10244,7 @@
       ],
       "dose": "Vapourized Light: 0.25-0.5mg  Common: 0.5-1.5mg  Strong: 1.5-3mg  Heavy: 3+mg | Oral Light: 0.25-0.5mg  Common: 0.5-1.5mg  Strong: 1.5-3mg  Heavy: 3+mg",
       "duration": "Vapourized: 1-2 hours | Oral: 5-15 hours",
-      "effects": "Euphoric, stimulating high, increases creativity and appetite, short term memory deficits, similar to cannabis",
+      "effects": "Euphoric, stimulating high, increases creativity and appetite, short-term memory deficits, similar to cannabis",
       "onset": "Vapourized: 1-5 minutes | Oral: 30-240 minutes",
       "summary": "Arguably the most common synthetic cannabinoid, AB-FUBINACA was originally developed by Pfizer as an analgesic, but has since abandoned for medical use. It has since found a following in the RC community, however it's extremely high potency and inclusion in synthetic blends makes it dangerous, and it has killed in overdose. Exercise caution."
     }
@@ -32752,7 +32752,7 @@
       "dose_to_diazepam": "Quazepam - 20mg ~=10mg Diazepam.",
       "duration": "6-12 hours.",
       "onset": "10-30 minutes.",
-      "summary": "Benzodiazepine derivate drug, Doral is prescribed for short term treatment of insomnia and sleep maintenance. It's method of action is reportedly similar to zolpedim and zaleplon (and substitutes) when tested in animal studies."
+      "summary": "Benzodiazepine derivate drug, Doral is prescribed for short-term treatment of insomnia and sleep maintenance. It's method of action is reportedly similar to zolpedim and zaleplon (and substitutes) when tested in animal studies."
     }
   },
   "quetiapine": {
@@ -32986,7 +32986,7 @@
       "tentative",
       "habit-forming"
     ],
-    "dose_note": " Note, the drug is reportedly painful to insufflate. The duration between oral and insufflation are roughly around the same.",
+    "dose_note": "Note, the drug is reportedly painful to insufflate. The duration between oral and insufflation are roughly around the same.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-6"
@@ -33026,10 +33026,10 @@
         "tentative",
         "habit-forming"
       ],
-      "dose": "Oral Light: 10-15mg Common: 15-30mg Strong: 30-50mg | Insufflated Light: 5-10mg Common: 10-20mg Strong: 20-40mg. | Note, this is not nice on the nose, and the duration between Oral and Insufflated are roughly around the same length.",
+      "dose": "Oral Light: 10-15mg Common: 15-30mg Strong: 30-50mg | Insufflated Light: 5-10mg Common: 10-20mg Strong: 20-40mg. | Note, the drug is reportedly painful to insufflate. The duration between oral and insufflation are roughly around the same.",
       "duration": "Oral: 2-4 hours. | Insufflated: 2-4 hours.",
       "onset": "Oral: 10-30 minutes. | Insufflated 5-15 minutes.",
-      "summary": "Stimulant of the Phenyltropane class that acts as a SNDRI. Presumably it will have a slightly slower onset and bit longer duration than its parent compound Cocaine. Yet being the Tropane analogue of 3,4-CTMP."
+      "summary": "Stimulant of the phenyltropane class that acts as a SNDRI. The drug is suspected to have slightly slower onset and slightly longer duration than its parent compound cocaine. The drug is the tropane analogue of 3,4-CTMP."
     }
   },
   "salvia": {
@@ -33078,7 +33078,7 @@
       "duration": "Sublingual: 30-60 minutes | Smoked: 5-30 minutes",
       "effects": "radical shift in perspective and perception, creative dreamlike experience, increase in sensual and aesthetic appreciation, introspective insight, powerful closed/open eye visuals, general change in consciousness, dissociation, panic, perspiration, inability to control muscles",
       "onset": "Sublingual: 10-20 minutes | Smoked: 0-2 minutes",
-      "summary": "A plant which, when smoked, causes short but very intense psychedelic experiences. It is considered physically safe, though users of high dosages often experience bizarre other-worldly scenarios which may be confusing or terrifying."
+      "summary": "A plant which, when smoked, causes short but very intense psychedelic experience. It is considered physically safe, though users of high dosages often experience bizarre, other-worldly scenarios which may be confusing or terrifying. Caution is highly recommended."
     },
     "pweffects": {
       "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
@@ -33119,12 +33119,12 @@
     "name": "scopolamine",
     "pretty_name": "Scopolamine",
     "properties": {
-      "avoid": "Yes. Just avoid it. One of the active substances in Datura.",
+      "avoid": "One of the active substances in datura, caution is strongly recommended with this drug.",
       "categories": [
         "deliriant",
         "tentative"
       ],
-      "summary": "The main active compound in datura, medium and high doses have serious side effects and cause extremely unpleasant deleriant hallucinations. Avoid it."
+      "summary": "The main active compound in datura. Medium and high doses may have significant negative side effects and can cause extreme deliriant hallucinations. Caution is strongly recommended."
     },
     "pweffects": {
       "Abnormal heartbeat": "https://psychonautwiki.org/wiki/Abnormal_heartbeat",
@@ -33216,7 +33216,7 @@
       "dose": "Oral Light: 25-50mg Common: 50-150mg Strong: 150-300mg",
       "duration": "6-10 hours.",
       "onset": "15-30 minutes.",
-      "summary": "A Barbiturate derivative that possesses all the classic effects of todays Benzodiazepines, and the old Barbiturates. It's used in the treatment of Epilepsy, short term treatment for insomnia, and a preoperative medication for anaesthesia and anxiolysis for short surgical/diagnostic/therapeutic procedures."
+      "summary": "A barbiturate derivative that is reported to have amnesic, hypnotic, and sedative properties, along with having similarties to other barbiturates. The drug is used in the treatment of epilepsy, short-term treatment for insomnia, and a preoperative medication for anaesthesia and anxiolysis for short surgical/diagnostic/therapeutic procedures."
     }
   },
   "sertraline": {
@@ -33275,8 +33275,8 @@
       ],
       "duration": "15-45 minutes.",
       "onset": "1-5 minutes.",
-      "summary": "A perennial shrub with small narrow leaves and yellow flowers growing up to ~1.5 meters. Known under many different names. Has been used for Shamanic purposes by natives in Central America and Mexico. Mostly auditory based.",
-      "warning": "A fair amount of people after smoking this compound have reported to have fairly bad side-effects such as night fever, night sweats, and muscle pains."
+      "summary": "A perennial shrub with small narrow leaves and yellow flowers growing up to ~1.5 meters. The drug is known under many different names. The drug been used for shamanic purposes by indigenous people in Central America and Mexico. The drug is reported to be mainly auditory based.",
+      "warning": "There are a series of anecdotal reports that report users after smoking this compound having reported to have fairly negative side-effects such as night fevers, night sweats, and muscle pains."
     }
   },
   "sonata": {
@@ -33323,7 +33323,7 @@
       "dose": "Oral Light: 2.5-5mg Common: 5-10mg Strong: 10-20mg.",
       "duration": "3-6 hours.",
       "onset": "10-30 minutes.",
-      "summary": "Sedative-Hypnotic of the nonbenzodiazepine from the Pyrazolopyramide class. It is used mostly for short term insomnia."
+      "summary": "Sedative-hypnotic of the nonbenzodiazepine (Z-drug) of the pyrazolopyramide class. The drug is mainly used medically for short-term insomnia."
     }
   },
   "sufentanil": {
@@ -33363,7 +33363,7 @@
       "dose": "Light: 1-5ug Common: 5-10ug Strong: 10-25ug.",
       "duration": "5-10 minutes.",
       "onset": "1-2 minutes.",
-      "summary": "An synthetic analgesic drug that is roughly between 5-10x the potency of it's parent drug, (Fentanyl); It's use is very contained to surgery and post-operative pain."
+      "summary": "A synthetic analgesic drug that is roughly between 5-10x the potency of its parent drug fentanyl. The drug medically is very restricted to surgery and post-operative pain."
     }
   },
   "sulbutiamine": {
@@ -33422,7 +33422,7 @@
       "habit-forming",
       "depressant"
     ],
-    "dose_note": " NOTE: Doses are for no tolerance. Insufflated administration is ineffective.",
+    "dose_note": " NOTE: Insufflated administration is ineffective.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-12"
@@ -33467,11 +33467,11 @@
         "habit-forming",
         "depressant"
       ],
-      "dose": "Oral Light: 25-50mg Common: 50-75mg Strong: 75-150mg+ | NOTE: Doses are for no tolerance. Insufflated administration is ineffective.",
+      "dose": "Oral Light: 25-50mg Common: 50-75mg Strong: 75-150mg+ | NOTE: Insufflated administration is ineffective.",
       "duration": "Oral_IR: 3-5 hours | Oral_ER: 5-8 hours.",
       "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
       "onset": "Oral_IR: 20-40 minutes. | Oral_ER: 60-120 minutes.",
-      "summary": "An opioid analgesic drug with potency somewhere between tramadol and morphine, and with a similar action to Tramadol. Also an adrenergic reuptake inhibitor. High addiction potential. Potential for respiratory depression in overdose. Should not be combined with depressants or stimulants."
+      "summary": "An opioid analgesic drug with potency roughly between tramadol and morphine. The drug has a similar pharmacological action to tramadol. The drug is an adrenergic reuptake inhibitor. The drug is reported to have a high addiction potential. There is a great potential for respiratory depression in overdose. The drug is highly recommended to not be combined with depressants and or stimulants."
     }
   },
   "temazepam": {
@@ -33529,7 +33529,7 @@
       "duration": "6-10 hours",
       "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
       "onset": "20-90 minutes",
-      "summary": "Temazepam's brand name is Restoril. It is a hypnotic benzodiazepine with effects similar to clonazepam, frequently prescribed as a sleep aid. Some users report mild euphoria alongside the hypnotic effects."
+      "summary": "Temazepam's brand name is Restoril. It is a hypnotic benzodiazepine with effects similar to clonazepam. The drug is frequently prescribed as a sleep aid. There are some anectodal reports that indicate it has mild euphoria alongside the hypnotic effects."
     },
     "sources": {
       "_general": [
@@ -33561,7 +33561,7 @@
         "depressant",
         "research-chemical"
       ],
-      "summary": "An analogue of fentanyl that is unknown in literature. Is most likely less potent than most other analogues. Yet very few reports are around. Be careful."
+      "summary": "An analogue of fentanyl with extremely limited information in medical literature. The drug is suspected to be less potent than similar analogues. Caution and further research is strongly recommended."
     }
   },
   "tetrazepam": {
@@ -33602,7 +33602,7 @@
       "dose": "Light: 25-50mg Common: 50-100mg Strong: 100-200mg+",
       "duration": "Oral: 6-10 hours.",
       "onset": "Oral: 15-35 minutes.",
-      "summary": "A benzodiazepine that has most of the properties of more common benzodiazepines. Yet was taken off the market in 2013. Has been noted to be more euphoric than most others."
+      "summary": "A benzodiazepine that has anticonvulsant, anxiolytic, muscle relaxant, and slightly hypnotic properties. The drug was taken off the market in 2013 due to cutaneous toxicity and allergic reactions, among other reasons. The drug has been noted to be more euphoric than similar ones of it's type."
     }
   },
   "th-pvp": {
@@ -33653,7 +33653,7 @@
       "dose": "Oral Light: 20-30mg Common: 30-50mg Strong: 50-70mg | Insufflated Light: 10-15mg Common: 15-25mg Strong: 25-35mg+ | Vapourized Light: 10-15mg Common: 15-25mg Strong: 25-35mg",
       "duration": "Oral: 3-5 hours. | Insufflated: 2-3 hours. | Vapourized: 1 hour.",
       "onset": "Oral: 20-30 minutes. | Insufflated: 5-15 minutes. | Vapourized: 1-2 minutes.",
-      "summary": "A pyrovalerone stimulant related to a-PVP and naphyrone. Very little information about effects or safety profile, virtually no evidence of human use."
+      "summary": "A pyrovalerone stimulant related to a-PVP and naphyrone. There is limited information about the drugs effects and safety profile. There is little evidence of human use of this drug."
     }
   },
   "theacrine": {
@@ -33686,7 +33686,7 @@
       "dose": "Oral Light: 10-25mg Common: 25-50mg Strong: 50-100mg+",
       "duration": "2-6 hours.",
       "onset": "15-30 minutes.",
-      "summary": "Small alkaloid which can be seen as a structurally modified version of caffeine, with similar stimulating effects. It also shares anti-inflammatory and analgesic effects with caffeine."
+      "summary": "Small alkaloid which can be seen as a structurally modified version of caffeine, with similarly stimulating effects. The drug also shares anti-inflammatory and analgesic effects with caffeine."
     }
   },
   "theobromine": {
