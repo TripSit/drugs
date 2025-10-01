@@ -527,7 +527,7 @@
       "status": "Caution"
     },
     "lithium": {
-      "note": "Lithium may be neuroprotective when taken with amphetamines and Lithium may decrease the hyperactive effects of amphetamines. Studies indicate this combination is safe.",
+      "note": "Lithium may be neuroprotective when taken with amphetamines and lithium may decrease the hyperactive and euphoric effects of amphetamines. Lithium may also decrease some negative side effects of amphetamines. Studies indicate this combination is safe.",
       "sources": [
         {
           "author": "Ago, Y., Tanaka, T., Kita, Y., Tokumoto, H., Takuma, K., & Matsuda, T.",
@@ -540,6 +540,10 @@
           "url": "https://doi.org/10.1038/sj.npp.1301254"
         },
         {
+          "author": "van Kammen, D. P., Docherty, J. P., Marder, S. R., Rosenblatt, J. E., & Bunney, W. E..",
+          "title": "Lithium attenuates the activation-euphoria but not the psychosis induced by d-amphetamine in schizophrenia. (1985)",
+          "url": "https://doi.org/10.1007/BF00431789"
+        },        {
           "author": "Zhou, Z., Wang, Y., Tan, H., Bharti, V., Che, Y., & Wang, J.-F. ",
           "title": "Chronic treatment with mood stabilizer lithium inhibits amphetamine-induced risk-taking manic-like behaviors. (2015)",
           "url": "https://doi.org/10.1016/j.neulet.2015.07.027"
