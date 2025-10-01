@@ -253,7 +253,7 @@
               "Smoked": {
                   "type": "string"
               },
-              "ORAL_ER": {
+              "Oral_ER": {
                   "type": "string"
               },
               "Oral_IR": {
@@ -281,9 +281,6 @@
                   "type": "string"
               },
               "Sublingual": {
-                  "type": "string"
-              },
-              "Oral_ER": {
                   "type": "string"
               },
               "Insufflated_IR": {
