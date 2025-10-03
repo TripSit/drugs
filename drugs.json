@@ -9433,10 +9433,10 @@
     },
     "formatted_dose": {
       "Oral": {
-        "Threshold": "100ug-400ug",
-        "Light": "400ug-800ug",
         "Common": "800ug-1400ug",
-        "Strong": "1400ug-2000ug+"
+        "Light": "400ug-800ug",
+        "Strong": "1400ug-2000ug+",
+        "Threshold": "100ug-400ug"
       }
     },
     "formatted_duration": {
