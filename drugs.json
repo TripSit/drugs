@@ -2829,7 +2829,7 @@
       "habit-forming",
       "tentative"
     ],
-    "dose_note": " NOTE: These doses are tentative and it is recommended to do further research.",
+    "dose_note": " NOTE: These doses are tentative and further research is recommended.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "Insufflated": "3-6",
@@ -5386,7 +5386,7 @@
       "duration": "Oral: 2-4 hours. Insufflated: 1-3 hours.",
       "effects": "Euphoria, increased energy/alertness, decreased need for sleep, increased sociability, mood lift, increased libido, excessive talking, decreased appetite, weight loss, sweating, disturbed sleep patterns, bruxism, visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
       "onset": "Oral: 15-30 minutes. Insufflated 1-5 minutes.",
-      "summary": "A cathinone stimulant also known as flephedrone, appeared in 2008 marketed as a mephedrone replacement. reportedly mild empathogenic effects."
+      "summary": "A cathinone stimulant also known as flephedrone, appeared in 2008 marketed as a mephedrone replacement. Reportedly mild empathogenic effects."
     }
   },
   "4-fpm": {
@@ -6502,7 +6502,7 @@
       "dose": "Oral Light: 75-100mg Common: 100-150mg Strong: 150-300mg | Insufflated Light: 50-75 Common: 75-150mg Strong: 150-250mg.",
       "duration": "Oral: 90-180 minutes. | Insufflated: 50-100 minutes.",
       "onset": "Oral: 15-30 minutes. | Insufflated: 5-10 minutes.",
-      "summary": "The 4-Fluoro analogue of N-Ethylbuphedrone (NEB) is apart of the cathinone class."
+      "summary": "The 4-Fluoro analogue of N-Ethylbuphedrone (NEB) is a part of the cathinone class."
     }
   },
   "4f-php": {
@@ -13133,7 +13133,7 @@
       "duration": "8-14~ hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "60-120 minutes",
-      "summary": "Beta-methoxy analogue of 2C-D, seems to be more \"mild\" than the likes of 2C-x and DOx compounds. There are reports at times of the body load being mild, and sometimes overpowering the experience."
+      "summary": "Beta-methoxy analogue of 2C-D, reports indicate it to be a more \"mild\" than the likes of 2C-x and DOx compounds. Reports on the bodyload are highly variable amongst users. Some experience an intense bodyload while others barely feel anything at all."
     }
   },
   "bromadol": {
@@ -13539,7 +13539,7 @@
       "habit-forming",
       "depressant"
     ],
-    "dose_note": " NOTE: The ceiling dose for Buprenorphine is typically between 16mg and 32mg, anything above this will not produce any increase in effects. After dosing 4mg your opioid receptors are completely covered.",
+    "dose_note": " NOTE: The ceiling dose for Buprenorphine is typically between 24-32mg, anything above this will not produce any increase in effects. After dosing 4mg approximately 95-98% of opioid receptors are occupied.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-16"
@@ -13723,7 +13723,7 @@
       "tentative",
       "depressant"
     ],
-    "dose_note": " Note: It's a potent drug, it is recommended to be cautious with this drug.",
+    "dose_note": " Note: The drug is reported to be potent, caution is recommended.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-4"
@@ -13759,7 +13759,7 @@
         "tentative",
         "depressant"
       ],
-      "dose": "Oral Light: 400-800ug Common: 800-1500ug Strong: 1.5-3mg || Note: It's a potent drug, it is recommended to be cautious with this drug.",
+      "dose": "Oral Light: 400-800ug Common: 800-1500ug Strong: 1.5-3mg || Note: The drug is reported to be potent, caution is recommended.",
       "duration": "Oral: 3-4 hours. Insufflated: 2-3 hours.",
       "onset": "Oral: 15-30 minutes. Insufflated: 5-10 minutes.",
       "summary": "Potent short-acting opioid and fentanyl analogue. Often dispensed in a nasal spray. This is an highly potent drug - exercise extreme caution. May cause respiratory depression and death in overdose."
@@ -18641,7 +18641,7 @@
         "research-chemical",
         "tentative"
       ],
-      "dose": "Threshold: 2mg Light: 3mg Common: 3-5mg Heavy: 5mg+ | NOTE: These doses are tentative and it is recommended to do further research.",
+      "dose": "Threshold: 2mg Light: 3mg Common: 3-5mg Heavy: 5mg+ | NOTE: These doses are tentative and further research is recommended.",
       "duration": "14-22 hours.",
       "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
       "onset": "30-120 minutes.",
@@ -18700,7 +18700,7 @@
     "pretty_name": "DOPR",
     "properties": {
       "after-effects": "1-24 hours.",
-      "avoid": "Redosing/double dosing the drug. It is also recommended to avoid all other amphetamines.",
+      "avoid": "Redosing/double dosing the drug. It is recommended to avoid all other amphetamines.",
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -29758,7 +29758,7 @@
       "duration": "3-6 hours",
       "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
       "onset": "Oral: 20-40 minutes | Insufflated: 20 minutes.",
-      "summary": "An opioid analgesic which is the main active metabolite of tramadol. The drug is a u(mu) full agonist and has additional affinity for δ (delta) and κ-opioid receptors."
+      "summary": "An opioid analgesic which is the main active metabolite of tramadol. The drug is a µ full agonist and has additional affinity for δ (delta) and κ-opioid receptors."
     }
   },
   "o-pce": {
@@ -30231,7 +30231,7 @@
       "habit-forming",
       "depressant"
     ],
-    "dose_note": " NOTE: The drug is reportedly highly unpredicable and having a strange, rapid, tolerance behaviour.",
+    "dose_note": " NOTE: The drug is reportedly highly unpredicable and has a strange, rapid, tolerance behaviour.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "1-12"
@@ -30596,7 +30596,7 @@
       "dose": "Oral Light: 2-5mg Common: 5-10mg Strong: 10-15mg+ | Insufflated Light: 2-4mg Common: 4-8mg Strong: 8-15mg+ | NOTE: Caution is strongly recommended, there are a high amount of reports for the drug inducing manic episodes and or related psychosis.",
       "duration": "4-6 hours",
       "onset": "2-20 minutes",
-      "summary": "A strong dissociative drug.  PCP works primarily as an NMDA receptor antagonist. It is also referred to as \"wet\" or \"angel dust\". The drug is best known for stories of  strange and sometimes violent behaviour of those under its influence, though it is likely these are only in overdose cases. Caution is strongly recommended, there are a high amount of reports for the drug inducing manic episodes and or related psychosis."
+      "summary": "A strong dissociative drug.  PCP works primarily as an NMDA receptor antagonist. It is also referred to as \"wet\" or \"angel dust\". The drug is best known for stories of  strange and sometimes violent behaviour of those under its influence, though it is likely these are only in overdose cases. Caution is recommended due to reports of mania and psychosis."
     },
     "pweffects": {
       "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
@@ -31284,7 +31284,7 @@
       "dose": "Common: 25-50mg Dangerous: 80mg+",
       "duration": "4-8 hours.",
       "onset": "15-30 minutes.",
-      "summary": "Stimulant drug that was previously used as an appetite suppressant and has since been withdrawn from the market, due to concerns of abuse and addiction. It is reported to produce less negative side effects than ones associated with common amphetamines. A study has reported it is slightly more effective than dextroamphetamine as a weight loss agent."
+      "summary": "Stimulant drug that was previously used as an appetite suppressant and has since been withdrawn from the market, due to concerns of abuse and addiction. Reportedly produces fewer negative side effects than common amphetamines. A study has reported it is slightly more effective than dextroamphetamine as a weight loss agent."
     }
   },
   "phenobarbital": {
@@ -31337,7 +31337,7 @@
       "dose": "Oral Light: 50-100mg's Common: 100-150mg's Strong: 150-300mg's+",
       "duration": "Oral: 5-8 hours. | Intravenous: 4-6 hours.",
       "onset": "Oral: 15-45 minutes. | Intravenous: 1-5 minutes.",
-      "summary": "CNS depressant that is typically used for insomnia in older patients and epliepsy in younger patients. Phenobarbital has been used less medically as benzodiazepines have been associated with less side effects and further concerns such as abuse."
+      "summary": "CNS depressant that is typically used for insomnia in older patients and epliepsy in younger patients. Less commonlly used now medically due to a popular preference for benzodiazepines."
     }
   },
   "phentermine": {
