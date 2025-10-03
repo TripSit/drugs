@@ -1199,7 +1199,7 @@
       "status": "Unsafe"
     },
     "ghb/gbl": {
-      "note": "Both substances cause ataxia and bring a risk of physical accidents, vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
+      "note": "Both substances cause ataxia and bring a risk of physical accidents, vomiting, and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
       "status": "Dangerous"
     },
     "ketamine": {
@@ -1651,7 +1651,7 @@
       "status": "Caution"
     },
     "dextromethorphan": {
-      "note": "Both substances cause ataxia and bring a risk of physical accidents, vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
+      "note": "Both substances cause ataxia and bring a risk of physical accidents, vomiting, and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
       "status": "Dangerous"
     },
     "diphenhydramine": {
@@ -1687,7 +1687,7 @@
       "status": "Low Risk & Decrease"
     },
     "ketamine": {
-      "note": "Both substances cause ataxia and bring a risk of physical accidents, vomiting and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
+      "note": "Both substances cause ataxia and bring a risk of physical accidents, vomiting, and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
       "status": "Dangerous"
     },
     "lsd": {
@@ -1707,7 +1707,7 @@
       "status": "Low Risk & Decrease"
     },
     "mxe": {
-      "note": "Both substances cause ataxia and bring a risk of physical accidents, vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
+      "note": "Both substances cause ataxia and bring a risk of physical accidents, vomiting, and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
       "status": "Dangerous"
     },
     "nbomes": {
@@ -1814,7 +1814,7 @@
       "status": "Low Risk & Synergy"
     },
     "ghb/gbl": {
-      "note": "Both substances cause ataxia and bring a risk of physical accidents, vomiting and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
+      "note": "Both substances cause ataxia and bring a risk of physical accidents, vomiting, and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
       "status": "Dangerous"
     },
     "lsd": {
@@ -3076,7 +3076,7 @@
       "status": "Caution"
     },
     "ghb/gbl": {
-      "note": "Both substances cause ataxia and bring a risk of physical accidents, vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
+      "note": "Both substances cause ataxia and bring a risk of physical accidents, vomiting, and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
       "status": "Dangerous"
     },
     "ketamine": {
