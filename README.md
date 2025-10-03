@@ -12,7 +12,7 @@ Reliable sources include:
 * Journals
 * etc.
 
-We're actively gathering trip reports for the combinations  on our current drug combination chart, and for the four additional ones we plan to be adding. While we are prioritizing collecting these reports, we're open to receiving reports of any combinations.
+We're actively gathering trip reports for the combinations on our current drug combination chart, and for the four additional ones we plan to be adding. While we are prioritizing collecting these reports, we're open to receiving reports of any combinations.
 
 ## Create a pull request.
 
@@ -57,6 +57,24 @@ There are multiple things that will be done through the project, they are as fol
 * Typescript conversion from JavaScript
 * Database/architecture work
 * Dynamic custom chart
+
+## Interaction Template
+X Substance + Y Substance = Z Interaction
+Interaction type
+Message
+Sources
+*Reasoning (as warrented)
+
+## Drug Interaction Categorizations
+Low Risk & Synergy - These drugs work together to cause an effect greater than the sum of its parts, and they aren't likely to cause an adverse or undesirable reaction when used carefully. Additional research should always be done before combining drugs.
+Low Risk & No Synergy - Effects are just additive. The combination is unlikely to cause any adverse or undesirable reaction beyond those that might ordinarily be expected from these drugs.
+Caution - These combinations are not usually physically harmful, but may produce undesirable effects, such as physical discomfort or overstimulation. Extreme use may cause physical health issues. Synergistic effects may be unpredictable. Care should be taken when choosing to use this combination.
+Unsafe - There is considerable risk of physical harm when taking these combinations, they should be avoided where possible.
+Dangerous - These combinations are considered extremely harmful and should always be avoided. Reactions to these drugs taken in combination are highly unpredictable and have a potential to cause death.
+
+Synergy: the combination of each drug leads to a greater effect than one of the drug in isolation.
+X + Y = Z
+Z > X + Y
 
 ## External Links
 * [Combination Chart Addition Main Document](https://docs.google.com/document/d/1_n65NibeMNNMBahocEjLe-630hwpSlibbZgDQeDf7Y4/edit?usp=sharing)
