@@ -170,6 +170,7 @@ export interface Combos {
   nitrous:          Interactions;
   opioids:          Interactions;
   pcp:              Interactions;
+  pregabalin:       Interactions;
   ssris:            Interactions;
   tramadol:         Interactions;
 }
@@ -203,6 +204,7 @@ export interface Interactions {
   nitrous?:          ComboData;
   opioids?:          ComboData;
   pcp?:              ComboData;
+  pregabalin?:       ComboData;
   ssris?:            ComboData;
   tramadol?:         ComboData;
 }
