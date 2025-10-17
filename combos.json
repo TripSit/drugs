@@ -2366,6 +2366,67 @@
     "mdma": {
       "status": "Low Risk & Synergy"
     },
+    "mephedrone": {
+      "note": "The anxiogenic and focusing effects of stimulants increase the chance of unpleasant thought loops, in addition to the possible negative side effects of coming down from said stimulant while on a psychedelic. In extreme cases, stimulants, especially in combination can result in severe vasoconstriction, tachycardia, hypertension, and heart failure. (open to this sentence getting adjusted)",
+      "sources": [
+        {
+          "author": "Gregory C. Hadlock, Katy M. Webb, Lisa M. McFadden, Pei Wen Chu, Jonathan D. Ellis, Scott C. Allen, David M. Andrenyak, Paula L. Vieira-Brock, Christopher L. German, Kevin M. Conrad, Amanda J. Hoonakker, James W. Gibb, Diana G. Wilkins, Glen R. Hanson and Annette E. Fleckenstein",
+          "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse",
+          "url": "https://doi.org/10.1124/jpet.111.184119"
+        },
+        {
+          "author": "Michael H Baumann, Mario A Ayestas Jr, John S Partilla, Jacqueline R Sink, Alexander T Shulgin, Paul F Daley, Simon D Brandt, Richard B Rothman, Arnold E Ruoho, Nicholas V Cozzi",
+          "title": "The designer methcathinone analogs, mephedrone and methylone, are substrates for monoamine transporters in brain tissue ",
+          "url": "https://doi.org/10.1038/npp.2011.304"
+        },
+        {
+          "author": "MJ Wright, Jr, SA Vandewater, D Angrish, 2 TJ Dickerson, and MA Taffe",
+          "title": "Mephedrone (4-methylmethcathinone) and d-methamphetamine improve visuospatial associative memory, but not spatial working memory, in rhesus macaques",
+          "url": "https://doi.org/10.1111%2Fj.1476-5381.2012.02091.x"
+        },
+        {
+          "author": "J Kehr, F Ichinose, S Yoshitake, M Goiny,1, T Sievertsson, F Nyberg, and T Yoshitake",
+          "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
+          "url": "https://doi.org/10.1111%2Fj.1476-5381.2011.01499.x"
+        },
+        {
+          "author": "Jolanta Opacka-Juffry, Thomas Pinnell, Nisha Patel, Melissa Bevan, Meghan Meintel, Colin Davidson",
+          "title": "Stimulant mechanisms of cathinones - effects of mephedrone and other cathinones on basal and electrically evoked dopamine efflux in rat accumbens brain slices ",
+          "url": "https://doi.org/10.1016/j.pnpbp.2014.04.009"
+        },
+        {
+          "author": "Schmid Y, Enzler F, Gasser P, Grouzmann E, Preller KH, Vollenweider FX, Brenneisen R, Müller F, Borgwardt S, Liechti ME",
+          "title": "Acute Effects of Lysergic Acid Diethylamide in Healthy Subjects ",
+          "url": "https://doi.org/10.1016/j.biopsych.2014.11.015"
+        },
+        {
+          "author": "Holze F, Vizeli P, Müller F, Ley L, Duerig R, Varghese N, Eckert A, Borgwardt S, Liechti ME",
+          "title": "Distinct acute effects of LSD, MDMA, and D-amphetamine in healthy subjects ",
+          "url": "https://doi.org/10.1038/s41386-019-0569-3"
+        },
+        {
+          "author": "Kenneth J Broadley",
+          "title": "The vascular effects of trace amines and amphetamines ",
+          "url": "https://doi.org/10.1016/j.pharmthera.2009.11.005"
+        },
+        {
+          "author": "James R. Docherty,  Hadeel A. Alsufyani",
+          "title": "Cardiovascular and temperature adverse actions of stimulants",
+          "url": "https://doi.org/10.1111/bph.15465"
+        },
+        {
+          "author": "James R. Docherty DSc,  Hadeel A. Alsufyani MB, PhD",
+          "title": "Pharmacology of Drugs Used as Stimulants",
+          "url": "https://doi.org/10.1002/jcph.1918"
+        },
+        {
+          "author": "Breier Y, Azrak E, Banks W, Kushmakov R, Aleshinskaya I",
+          "title": "Management of New Onset Amphetamine-Induced Acute Decompensated Heart Failure in a Young Adult: Case Report",
+          "url": "https://doi.org/10.7759%2Fcureus.43854"
+        }
+      ],
+      "status": "Caution"
+    },
     "mescaline": {
       "status": "Low Risk & Synergy"
     },
@@ -2795,6 +2856,66 @@
       ],
       "status": "Dangerous"
     },
+    "lsd": {
+      "note": "The anxiogenic and focusing effects of stimulants increase the chance of unpleasant thought loops, in addition to the possible negative side effects of coming down from said stimulant while on a psychedelic. In extreme cases, stimulants, especially in combination can result in severe vasoconstriction, tachycardia, hypertension, and heart failure. (open to this sentence getting adjusted)",
+      "sources": [
+        {
+          "author": "Gregory C. Hadlock, Katy M. Webb, Lisa M. McFadden, Pei Wen Chu, Jonathan D. Ellis, Scott C. Allen, David M. Andrenyak, Paula L. Vieira-Brock, Christopher L. German, Kevin M. Conrad, Amanda J. Hoonakker, James W. Gibb, Diana G. Wilkins, Glen R. Hanson and Annette E. Fleckenstein",
+          "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse",
+          "url": "https://doi.org/10.1124/jpet.111.184119"
+        },
+        {
+          "author": "Michael H Baumann, Mario A Ayestas Jr, John S Partilla, Jacqueline R Sink, Alexander T Shulgin, Paul F Daley, Simon D Brandt, Richard B Rothman, Arnold E Ruoho, Nicholas V Cozzi",
+          "title": "The designer methcathinone analogs, mephedrone and methylone, are substrates for monoamine transporters in brain tissue ",
+          "url": "https://doi.org/10.1038/npp.2011.304"
+        },
+        {
+          "author": "MJ Wright, Jr, SA Vandewater, D Angrish, 2 TJ Dickerson, and MA Taffe",
+          "title": "Mephedrone (4-methylmethcathinone) and d-methamphetamine improve visuospatial associative memory, but not spatial working memory, in rhesus macaques",
+          "url": "https://doi.org/10.1111%2Fj.1476-5381.2012.02091.x"
+        },
+        {
+          "author": "J Kehr, F Ichinose, S Yoshitake, M Goiny,1, T Sievertsson, F Nyberg, and T Yoshitake",
+          "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
+          "url": "https://doi.org/10.1111%2Fj.1476-5381.2011.01499.x"
+        },
+        {
+          "author": "Jolanta Opacka-Juffry, Thomas Pinnell, Nisha Patel, Melissa Bevan, Meghan Meintel, Colin Davidson",
+          "title": "Stimulant mechanisms of cathinones - effects of mephedrone and other cathinones on basal and electrically evoked dopamine efflux in rat accumbens brain slices ",
+          "url": "https://doi.org/10.1016/j.pnpbp.2014.04.009"
+        },
+        {
+          "author": "Schmid Y, Enzler F, Gasser P, Grouzmann E, Preller KH, Vollenweider FX, Brenneisen R, Müller F, Borgwardt S, Liechti ME",
+          "title": "Acute Effects of Lysergic Acid Diethylamide in Healthy Subjects ",
+          "url": "https://doi.org/10.1016/j.biopsych.2014.11.015"
+        },
+        {
+          "author": "Holze F, Vizeli P, Müller F, Ley L, Duerig R, Varghese N, Eckert A, Borgwardt S, Liechti ME",
+          "title": "Distinct acute effects of LSD, MDMA, and D-amphetamine in healthy subjects ",
+          "url": "https://doi.org/10.1038/s41386-019-0569-3"
+        },
+        {
+          "author": "Kenneth J Broadley",
+          "title": "The vascular effects of trace amines and amphetamines ",
+          "url": "https://doi.org/10.1016/j.pharmthera.2009.11.005"
+        },
+        {
+          "author": "James R. Docherty,  Hadeel A. Alsufyani",
+          "title": "Cardiovascular and temperature adverse actions of stimulants",
+          "url": "https://doi.org/10.1111/bph.15465"
+        },
+        {
+          "author": "James R. Docherty DSc,  Hadeel A. Alsufyani MB, PhD",
+          "title": "Pharmacology of Drugs Used as Stimulants",
+          "url": "https://doi.org/10.1002/jcph.1918"
+        },
+        {
+          "author": "Breier Y, Azrak E, Banks W, Kushmakov R, Aleshinskaya I",
+          "title": "Management of New Onset Amphetamine-Induced Acute Decompensated Heart Failure in a Young Adult: Case Report",
+          "url": "https://doi.org/10.7759%2Fcureus.43854"
+        }
+      ],
+      "status": "Caution"
     "mdma": {
       "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. Stimulants also increase the neurotoxic effects of MDMA, in addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
       "sources": [
