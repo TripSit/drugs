@@ -400,7 +400,7 @@
       "status": "Dangerous"
     },
     "ketamine": {
-      "note": "Both substances cause ataxia and bring a very high risk of vomiting and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
+      "note": "Both substances cause ataxia and bring a very high risk of physical accidents, vomiting and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
       "status": "Dangerous"
     },
     "lsd": {
@@ -921,7 +921,7 @@
       "status": "Low Risk & No Synergy"
     },
     "nbomes": {
-      "note": "Caffiene can bring out the natural stimulation from psychedelic drugs to make it uncomfortable. High doses can cause anxiety which is hard to handle while tripping",
+      "note": "Caffeine can bring out the natural stimulation from psychedelic drugs to make it uncomfortable. High doses can cause anxiety which is hard to handle while tripping",
       "status": "Caution"
     },
     "nitrous": {
@@ -991,7 +991,8 @@
       "status": "Low Risk & Synergy"
     },
     "ketamine": {
-      "status": "Low Risk & Synergy"
+      "status": "Caution",
+      "note": "Both substances strongly potentiate each other. Be careful to avoid bad suprises when smoking when on Ketamine." 
     },
     "lsd": {
       "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
@@ -1238,7 +1239,7 @@
       "status": "Unsafe"
     },
     "ghb/gbl": {
-      "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
+      "note": "Both substances cause ataxia and bring a risk of physical accidents, vomiting, and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
       "status": "Dangerous"
     },
     "ketamine": {
@@ -1690,7 +1691,7 @@
       "status": "Caution"
     },
     "dextromethorphan": {
-      "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
+      "note": "Both substances cause ataxia and bring a risk of physical accidents, vomiting, and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
       "status": "Dangerous"
     },
     "diphenhydramine": {
@@ -1726,7 +1727,7 @@
       "status": "Low Risk & Decrease"
     },
     "ketamine": {
-      "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
+      "note": "Both substances cause ataxia and bring a risk of physical accidents, vomiting, and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
       "status": "Dangerous"
     },
     "lsd": {
@@ -1746,7 +1747,7 @@
       "status": "Low Risk & Decrease"
     },
     "mxe": {
-      "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
+      "note": "Both substances cause ataxia and bring a risk of physical accidents, vomiting, and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
       "status": "Dangerous"
     },
     "nbomes": {
@@ -1783,7 +1784,7 @@
       "status": "Low Risk & Synergy"
     },
     "alcohol": {
-      "note": "Both substances cause ataxia and bring a very high risk of vomiting and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
+      "note": "Both substances cause ataxia and bring a very high risk of physical accidents, vomiting, and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
       "status": "Dangerous"
     },
     "amphetamines": {
@@ -1802,7 +1803,8 @@
       "status": "Low Risk & No Synergy"
     },
     "cannabis": {
-      "status": "Low Risk & Synergy"
+      "status": "Caution",
+      "note": "Both substances strongly potentiate each other. Be careful to avoid bad suprises when smoking when on Ketamine." 
     },
     "cocaine": {
       "note": "No unexpected interactions, though likely to increase blood pressure but not an issue with sensible doses. Moving around on high doses of this combination may be ill advised due to risk of physical injury.",
@@ -1852,7 +1854,7 @@
       "status": "Low Risk & Synergy"
     },
     "ghb/gbl": {
-      "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
+      "note": "Both substances cause ataxia and bring a risk of physical accidents, vomiting, and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
       "status": "Dangerous"
     },
     "lsd": {
@@ -3271,7 +3273,7 @@
       "status": "Caution"
     },
     "ghb/gbl": {
-      "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
+      "note": "Both substances cause ataxia and bring a risk of physical accidents, vomiting, and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
       "status": "Dangerous"
     },
     "ketamine": {
