@@ -13,7 +13,7 @@ export type Drug = {
   pweffects?: { [key: string]: string };
   dose_note?: string;
   sources?: Sources;
-  combos?: { [key: string]: Combo };
+  combos?: Interactions;
 };
 
 export enum Category {
@@ -36,15 +36,27 @@ export enum Category {
   Tentative = "tentative",
 }
 
-export type Dosage = {
-  common?: string;
-  light?: string;
-  strong?: string;
-  threshold?: string;
-  heavy?: string;
-  dangerous?: string;
-  fatal?: string;
-  note?: string;
+export type Duration = {
+  _unit: Unit;
+  value?: string;
+  insufflated?: string;
+  oral?: string;
+  rectal?: string;
+  vapourized?: string;
+  smoked?: string;
+  Oral_ER?: string;
+  Oral_IR?: string;
+  Oral_MAOI?: string;
+  intramuscular?: string;
+  intravenous?: string;
+  metabolites?: string;
+  parent?: string;
+  oralMAOI?: string;
+  buccal?: string;
+  transdermal?: string;
+  sublingual?: string;
+  Insufflated_IR?: string;
+  Insufflated_XR?: string;
 };
 
 export type Dose = {
@@ -69,27 +81,15 @@ export type Dose = {
   wet?: Dosage;
 };
 
-export type Duration = {
-  _unit: Unit;
-  value?: string;
-  insufflated?: string;
-  oral?: string;
-  rectal?: string;
-  vapourized?: string;
-  smoked?: string;
-  Oral_ER?: string;
-  Oral_IR?: string;
-  Oral_MAOI?: string;
-  intramuscular?: string;
-  intravenous?: string;
-  metabolites?: string;
-  parent?: string;
-  oralMAOI?: string;
-  buccal?: string;
-  transdermal?: string;
-  sublingual?: string;
-  Insufflated_IR?: string;
-  Insufflated_XR?: string;
+export type Dosage = {
+  common?: string;
+  light?: string;
+  strong?: string;
+  threshold?: string;
+  heavy?: string;
+  dangerous?: string;
+  fatal?: string;
+  note?: string;
 };
 
 export type Links = {
@@ -141,7 +141,73 @@ export type Properties = {
   potentiators?: string;
 };
 
-export type Combo = {
+export interface Combos {
+  "2c-t-x":         Interactions;
+  "2c-x":           Interactions;
+  "5-meo-xxt":      Interactions;
+  alcohol:          Interactions;
+  amphetamines:     Interactions;
+  amt:              Interactions;
+  benzodiazepines:  Interactions;
+  caffeine:         Interactions;
+  cannabis:         Interactions;
+  cocaine:          Interactions;
+  diphenhydramine:  Interactions;
+  dextromethorphan: Interactions;
+  dmt:              Interactions;
+  dox:              Interactions;
+  "ghb/gbl":        Interactions;
+  ketamine:         Interactions;
+  lithium:          Interactions;
+  lsd:              Interactions;
+  maois:            Interactions;
+  mdma:             Interactions;
+  mephedrone:       Interactions;
+  mescaline:        Interactions;
+  mushrooms:        Interactions;
+  mxe:              Interactions;
+  nbomes:           Interactions;
+  nitrous:          Interactions;
+  opioids:          Interactions;
+  pcp:              Interactions;
+  ssris:            Interactions;
+  tramadol:         Interactions;
+}
+
+export interface Interactions {
+  "2c-t-x"?:         ComboData;
+  "2c-x"?:           ComboData;
+  "5-meo-xxt"?:      ComboData;
+  alcohol?:          ComboData;
+  amphetamines?:     ComboData;
+  amt?:              ComboData;
+  benzodiazepines?:  ComboData;
+  caffeine?:         ComboData;
+  cannabis?:         ComboData;
+  cocaine?:          ComboData;
+  diphenhydramine?:  ComboData;
+  dextromethorphan?: ComboData;
+  dmt?:              ComboData;
+  dox?:              ComboData;
+  "ghb/gbl"?:        ComboData;
+  lithium?:          ComboData;
+  ketamine?:         ComboData;
+  lsd?:              ComboData;
+  maois?:            ComboData;
+  mdma?:             ComboData;
+  mephedrone?:       ComboData;
+  mescaline?:        ComboData;
+  mushrooms?:        ComboData;
+  mxe?:              ComboData;
+  nbomes?:           ComboData;
+  nitrous?:          ComboData;
+  opioids?:          ComboData;
+  pcp?:              ComboData;
+  ssris?:            ComboData;
+  tramadol?:         ComboData;
+}
+
+export interface ComboData {
   note?: string;
   sources?: {
     author: string;
@@ -149,7 +215,7 @@ export type Combo = {
     url: string;
   }[];
   status: Status;
-};
+}
 
 export enum Status {
   Caution = "Caution",
@@ -157,7 +223,16 @@ export enum Status {
   LowRiskDecrease = "Low Risk & Decrease",
   LowRiskNoSynergy = "Low Risk & No Synergy",
   LowRiskSynergy = "Low Risk & Synergy",
+  Self = "Self",
   Unsafe = "Unsafe",
+}
+
+export type ComboDefinitions = {
+  status:     Status;
+  emoji:      string;
+  color:      string;
+  definition: string;
+  thumbnail:  string;
 }
 
 export enum Unit {

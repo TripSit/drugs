@@ -2,9 +2,6 @@ name: Validate changes
 
 on:
   pull_request:
-    branches:
-      - main
-      - development
     types:
       - opened
       - synchronize
@@ -29,3 +26,14 @@ jobs:
       run: npx ts-node ./scripts/combosToDrugs.ts --github-check
       env:
         CI: true
+
+    - name: Assign Pull Request
+      uses: actions/github-script@v5
+      with:
+        script: |
+          github.rest.issues.addAssignees({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            issue_number: context.issue.number,
+            assignees: ['LunaUrsa']
+          })

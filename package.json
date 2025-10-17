@@ -1,8 +1,8 @@
 {
   "name": "tripsit_drug_db",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "TripSit's Drug Database",
-  "main": "index.ts",
+  "main": "./scripts/index.ts",
   "scripts": {
     "compare": "ts-node ./scripts/combosToDrugs.ts"
   },
@@ -26,8 +26,10 @@
     "url": "https://github.com/TripSit/drugs/issues"
   },
   "homepage": "https://github.com/TripSit/drugs#readme",
-  "types": "types/drugs.d.ts",
+  "types": "types/tripsit.d.ts",
   "devDependencies": {
+    "ajv": "^8.12.0",
+    "ajv-formats": "^3.0.1",
     "@types/node": "^20.11.10",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
