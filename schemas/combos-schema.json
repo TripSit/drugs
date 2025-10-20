@@ -129,9 +129,9 @@
                 "nitrous",
                 "opioids",
                 "pcp",
+                "pregabalin",
                 "ssris",
-                "tramadol",
-                "pregabalin"
+                "tramadol"
             ],
             "title": "Combos"
         },
@@ -223,13 +223,13 @@
                 "pcp": {
                     "$ref": "#/definitions/ComboData"
                 },
+                "pregabalin": {
+                    "$ref": "#/definitions/ComboData"
+                },
                 "ssris": {
                     "$ref": "#/definitions/ComboData"
                 },
                 "tramadol": {
-                    "$ref": "#/definitions/ComboData"
-                },
-                "pregabalin": {
                     "$ref": "#/definitions/ComboData"
                 }
             },

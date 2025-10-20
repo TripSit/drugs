@@ -3732,6 +3732,11 @@
       "status": "Dangerous"
     }
   },
+  "pregabalin": {
+    "opioids": {
+      "status": "Dangerous"
+    }
+  },
   "ssris": {
     "2c-t-x": {
       "status": "Low Risk & Decrease"
@@ -3996,5 +4001,6 @@
     "ssris": {
       "status": "Dangerous"
     }
-  }
+  },
+
 }
