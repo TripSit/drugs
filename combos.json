@@ -519,7 +519,7 @@
       "status": "Unsafe"
     },
     "ghb/gbl": {
-      "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives. If the stimulant wears off first then the opioid may overcome the individual and cause respiratory arrest.",
+      "note": "Stimulants increase respiration rate, allowing for a higher dose of sedatives. If the stimulant wears off first then the opioid may overcome the individual and cause respiratory arrest.",
       "status": "Caution"
     },
     "ketamine": {
@@ -605,7 +605,7 @@
       "status": "Low Risk & Synergy"
     },
     "opioids": {
-      "note": "Stimulants increase respiration rate, which can allow for a higher dose of opioids normal . If the stimulant wears off first then the opioid may overcome the individual and cause respiratory arrest.",
+      "note": "Stimulants increase respiration rate, which can allow for a higher dose of opioids normal. If the stimulant wears off first then the opioid may overcome the individual and cause respiratory arrest.",
       "status": "Caution"
     },
     "pcp": {
@@ -1105,7 +1105,7 @@
       "status": "Unsafe"
     },
     "ghb/gbl": {
-      "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If the stimulant wears off first the opioid may overcome the individual and cause respiratory arrest. Likewise the ghb/gbl can wear off and leave a dangerous concentration of cocaine behind",
+      "note": "Stimulants increase respiration rate, allowing for a higher dose of sedatives than normal. If the stimulant wears off first the opioid may overcome the individual and cause respiratory arrest. Likewise the ghb/gbl can wear off and leave a dangerous concentration of cocaine behind",
       "status": "Caution"
     },
     "ketamine": {
@@ -1160,7 +1160,7 @@
       "status": "Low Risk & Synergy"
     },
     "opioids": {
-      "note": "Stimulants increase respiration rate allowing for a higher dose of opioids than normal. If the stimulant wears off first then the opioid may overcome the individual and cause respiratory arrest.",
+      "note": "Stimulants increase respiration rate, allowing for a higher dose of opioids than normal. If the stimulant wears off first then the opioid may overcome the individual and cause respiratory arrest.",
       "status": "Dangerous"
     },
     "pcp": {
@@ -1669,7 +1669,7 @@
       "status": "Dangerous"
     },
     "amphetamines": {
-      "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If the stimulant wears off first the opioid may overcome the individual and cause respiratory arrest.",
+      "note": "Stimulants increase respiration rate, allowing for a higher dose of sedatives than normal. If the stimulant wears off first the opioid may overcome the individual and cause respiratory arrest.",
       "status": "Caution"
     },
     "amt": {
@@ -1686,7 +1686,7 @@
       "status": "Low Risk & Synergy"
     },
     "cocaine": {
-      "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If the stimulant wears off first the opioid may overcome the individual and cause respiratory arrest. Likewise the ghb/gbl can wear off and leave a dangerous concentration of cocaine behind",
+      "note": "Stimulants increase respiration rate, allowing for a higher dose of sedatives than normal. If the stimulant wears off first the opioid may overcome the individual and cause respiratory arrest. Likewise the ghb/gbl can wear off and leave a dangerous concentration of cocaine behind",
       "status": "Caution"
     },
     "dextromethorphan": {
@@ -3559,7 +3559,7 @@
       "status": "Dangerous"
     },
     "amphetamines": {
-      "note": "Stimulants increase respiration rate allowing for a higher dose of opioids than normal. If the stimulant wears off first then the opioid may overcome the individual and cause respiratory arrest.",
+      "note": "Stimulants increase respiration rate, allowing for a higher dose of opioids than normal. If the stimulant wears off first then the opioid may overcome the individual and cause respiratory arrest.",
       "status": "Caution"
     },
     "amt": {
@@ -3577,7 +3577,7 @@
       "status": "Low Risk & Synergy"
     },
     "cocaine": {
-      "note": "Stimulants increase respiration rate allowing for a higher dose of opioids than normal. If the stimulant wears off first then the opioid may overcome the individual and cause respiratory arrest.",
+      "note": "Stimulants increase respiration rate, allowing for a higher dose of opioids than normal. If the stimulant wears off first then the opioid may overcome the individual and cause respiratory arrest.",
       "status": "Dangerous"
     },
     "dextromethorphan": {
