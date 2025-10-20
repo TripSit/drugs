@@ -96,7 +96,8 @@
                     "opioids": { "$ref": "#/definitions/Combo" },
                     "pcp": { "$ref": "#/definitions/Combo" },
                     "ssris": { "$ref": "#/definitions/Combo" },
-                    "tramadol": { "$ref": "#/definitions/Combo" }
+                    "tramadol": { "$ref": "#/definitions/Combo" },
+                    "pregabalin": { "$ref": "#/definitions/Combo" }
                   },
                   "additionalProperties": false
               }

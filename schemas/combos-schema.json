@@ -95,6 +95,9 @@
                 },
                 "tramadol": {
                     "$ref": "#/definitions/Interactions"
+                },
+                "pregabalin": {
+                    "$ref": "#/definitions/Interactions"
                 }
             },
             "required": [
@@ -127,7 +130,8 @@
                 "opioids",
                 "pcp",
                 "ssris",
-                "tramadol"
+                "tramadol",
+                "pregabalin"
             ],
             "title": "Combos"
         },
@@ -223,6 +227,9 @@
                     "$ref": "#/definitions/ComboData"
                 },
                 "tramadol": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "pregabalin": {
                     "$ref": "#/definitions/ComboData"
                 }
             },
