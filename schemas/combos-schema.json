@@ -90,13 +90,13 @@
                 "pcp": {
                     "$ref": "#/definitions/Interactions"
                 },
+                "pregabalin": {
+                    "$ref": "#/definitions/Interactions"
+                },
                 "ssris": {
                     "$ref": "#/definitions/Interactions"
                 },
                 "tramadol": {
-                    "$ref": "#/definitions/Interactions"
-                },
-                "pregabalin": {
                     "$ref": "#/definitions/Interactions"
                 }
             },
