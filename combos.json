@@ -2917,6 +2917,37 @@
       ],
       "status": "Caution"
     },
+    "mxe": {
+      "note": "There is a high risk of serotonin syndrome from this combination.",
+      "sources": [
+        {
+          "author": "Hondebrink, L., Kasteel, E. E. J., Tukker, A. M., Wijnolts, F. M. J., Verboven, A. H. A., & Westerink, R. H. S.",
+          "title": "Neuropharmacological characterization of the new psychoactive substance methoxetamine. Neuropharmacology",
+          "url": "https://doi.org/10.1016/j.neuropharm.2017.04.035"
+        },
+        {
+          "author": "Marti, M., Talani, G., Miliano, C., Bilel, S., Biggio, F., Bratzu, J., Diana, M., De Luca, M. A., & Fattore, L. ",
+          "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat.",
+          "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+        },
+        {
+          "author": "Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., & Iversen, L.",
+          "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor",
+          "url": "https://doi.org/10.1371/journal.pone.0059334"
+        },
+        {
+          "author": "DeLarge, A. F., Erwin, L. L., & Winsauer, P. J.",
+          "title": "Atypical binding at dopamine and serotonin transporters contribute to the discriminative stimulus effects of mephedrone",
+          "url": "https://doi.org/10.1016/j.neuropharm.2017.04.006"
+        },
+        {
+          "author": "Kehr, J., Ichinose, F., Yoshitake, S., Goiny, M., Sievertsson, T., Nyberg, F., & Yoshitake, T",
+          "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats: Mephedrone increases both DA and 5-HT in rat brain",
+          "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+        }
+      ],
+      "status": "Dangerous"
+    },
     "mdma": {
       "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. Stimulants also increase the neurotoxic effects of MDMA, in addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
       "sources": [
@@ -3288,6 +3319,37 @@
     "mdma": {
       "note": "There have been reports of risky serotonergic interactions when the two are taken at the same time, but MXE taken to the end of an MDMA experience does not appear to cause the same issues.",
       "status": "Caution"
+    },
+    "mephedrone": {
+      "note": "There is a high risk of serotonin syndrome from this combination.",
+      "sources": [
+        {
+          "author": "Hondebrink, L., Kasteel, E. E. J., Tukker, A. M., Wijnolts, F. M. J., Verboven, A. H. A., & Westerink, R. H. S.",
+          "title": "Neuropharmacological characterization of the new psychoactive substance methoxetamine. Neuropharmacology",
+          "url": "https://doi.org/10.1016/j.neuropharm.2017.04.035"
+        },
+        {
+          "author": "Marti, M., Talani, G., Miliano, C., Bilel, S., Biggio, F., Bratzu, J., Diana, M., De Luca, M. A., & Fattore, L. ",
+          "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat.",
+          "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+        },
+        {
+          "author": "Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., & Iversen, L.",
+          "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor",
+          "url": "https://doi.org/10.1371/journal.pone.0059334"
+        },
+        {
+          "author": "DeLarge, A. F., Erwin, L. L., & Winsauer, P. J.",
+          "title": "Atypical binding at dopamine and serotonin transporters contribute to the discriminative stimulus effects of mephedrone",
+          "url": "https://doi.org/10.1016/j.neuropharm.2017.04.006"
+        },
+        {
+          "author": "Kehr, J., Ichinose, F., Yoshitake, S., Goiny, M., Sievertsson, T., Nyberg, F., & Yoshitake, T",
+          "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats: Mephedrone increases both DA and 5-HT in rat brain",
+          "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+        }
+      ],
+      "status": "Dangerous"
     },
     "mescaline": {
       "status": "Low Risk & Synergy"
