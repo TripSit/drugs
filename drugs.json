@@ -10024,7 +10024,7 @@
       "Sweating",
       "Disturbed sleep patterns",
       "Bruxia",
-      "Visual and auditory hallucinations", 
+      "Visual and auditory hallucinations",
       "itchiness",
       "aggressiveness",
       "moodiness"
@@ -16838,7 +16838,7 @@
         "status": "Dangerous"
       },
       "benzodiazepines": {
-        "note": "Small doses of benzodiazepines can end a bad trip, but both substances potentiate the ataxia and sedation caused by the other and this can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
+        "note": "Small doses of benzos can end a bad trip, but both substances potentiate the ataxia and sedation caused by the other and this can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
         "status": "Caution"
       },
       "caffeine": {
@@ -23744,6 +23744,42 @@
           }
         ],
         "status": "Dangerous"
+      },
+      "mxe": {
+        "note": "There is a risk of serotonin syndrome when combining Lithium with MXE, as Lithium can induce serotonin syndrome in conjunction with other serotonergic drugs, and MXE has shown a notable affinity for the serotonin transporter.",
+        "sources": [
+          {
+            "author": "Lenox, R. H., & Hahn, C. G.",
+            "title": "Overview of the mechanism of action of lithium in the brain: fifty-year update (2000)",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10826655/"
+          },
+          {
+            "author": "Shahani, L.",
+            "title": "Venlafaxine Augmentation With Lithium Leading to Serotonin Syndrome (2012)",
+            "url": "https://doi.org/10.1176/appi.neuropsych.11080196"
+          },
+          {
+            "author": "DeBattista, C., Sofuoglu, M., & Schatzberg, A. F.",
+            "title": "Serotonergic synergism: the risks and benefits of combining the selective serotonin reuptake inhibitors with other serotonergic drugs (1998)",
+            "url": "https://doi.org/10.1016/S0006-3223(98)00161-9"
+          },
+          {
+            "author": "Massot, O.",
+            "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders (1999)",
+            "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+          },
+          {
+            "author": "Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., & Iversen, L.",
+            "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor (2013)",
+            "url": "https://doi.org/10.1371/journal.pone.0059334"
+          },
+          {
+            "author": "Marti, M., Talani, G., Miliano, C., Bilel, S., Biggio, F., Bratzu, J., Diana, M., De Luca, M. A., & Fattore, L.",
+            "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat (2021)",
+            "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+          }
+        ],
+        "status": "Dangerous"
       }
     },
     "name": "lithium",
@@ -24594,7 +24630,7 @@
       "duration": "3-8 hours",
       "onset": "30-120 minutes.",
       "summary": "A rare entactogenic drug and analogue of MDMA. Suspected to be first synthesised by David E. Nichols. The drug is suspected to be less potent than related drugs of its type. It is sometimes referred to as a 'watered down MDMA'."
-      }
+    }
   },
   "mbzp": {
     "aliases": [
@@ -24960,7 +24996,7 @@
         "status": "Low Risk & Synergy"
       },
       "maois": {
-        "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably. MAO-A inhibitors with MDMA will likely lead to hypertensive crises.",
+        "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably. MAO-A inhibitors with MDMA will lead to hypertensive crises.",
         "status": "Dangerous"
       },
       "mescaline": {
@@ -25008,6 +25044,52 @@
       },
       "tramadol": {
         "note": "Tramadol and stimulants both increase the risk of seizures.",
+        "status": "Dangerous"
+      },
+      "mephedrone": {
+        "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. Stimulants also increase the neurotoxic effects of MDMA, in addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
+        "sources": [
+          {
+            "author": "J Kehr,  F Ichinose,  S Yoshitake,  M Goiny,  T Sievertsson,  F Nyberg,  T Yoshitake",
+            "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
+            "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+          },
+          {
+            "author": "Gregory C. Hadlock, Katy M. Webb, Lisa M. McFadden, Pei Wen Chu, Jonathan D. Ellis, Scott C. Allen, David M. Andrenyak, Paula L. Vieira-Brock, Christopher L. German, Kevin M. Conrad, Amanda J. Hoonakker, James W. Gibb, Diana G. Wilkins, Glen R. Hanson and Annette E. Fleckenstein",
+            "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse",
+            "url": "https://doi.org/10.1124/jpet.111.184119 "
+          },
+          {
+            "author": "Gough B, Ali SF, Slikker W Jr, Holson RR. ",
+            "title": "Acute effects of 3,4-methylenedioxymethamphetamine (MDMA) on monoamines in rat caudate. (1991)",
+            "url": "https://doi.org/10.1016/0091-3057(91)90137-q"
+          },
+          {
+            "author": "Schmidt CJ, Levin JA, Lovenberg W. ",
+            "title": "In vitro and in vivo neurochemical effects of methylenedioxymethamphetamine on striatal monoaminergic systems in the rat brain. (1987)",
+            "url": "https://doi.org/10.1016/0006-2952(87)90729-5"
+          },
+          {
+            "author": "Bankson MG, Cunningham KA.",
+            "title": "3,4-Methylenedioxymethamphetamine (MDMA) as a unique model of serotonin receptor function and serotonin-dopamine interactions. (2001)",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11356903/"
+          },
+          {
+            "author": "A.C. Parrott",
+            "title": "Recreational Ecstasy/MDMA, the serotonin syndrome, and serotonergic neurotoxicity (2002)",
+            "url": "https://doi.org/10.1016/S0091-3057(01)00711-0"
+          },
+          {
+            "author": "Lisa H. Gold & George F. Koob ",
+            "title": "MDMA produces stimulant-like conditioned locomotor activity. (1989)",
+            "url": "https://doi.org/10.1007/BF00445556"
+          },
+          {
+            "author": "Meng H, Cao J, Kang J, Ying X, Ji J, Reynolds W, Rampe D.",
+            "title": "Mephedrone, a new designer drug of abuse, produces acute hemodynamic effects in the rat ",
+            "url": "https://doi.org/10.1016/j.toxlet.2011.10.010"
+          }
+        ],
         "status": "Dangerous"
       }
     },
@@ -25857,6 +25939,52 @@
           }
         ],
         "status": "Caution"
+      },
+      "mdma": {
+        "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. Stimulants also increase the neurotoxic effects of MDMA, in addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
+        "sources": [
+          {
+            "author": "J Kehr,  F Ichinose,  S Yoshitake,  M Goiny,  T Sievertsson,  F Nyberg,  T Yoshitake",
+            "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
+            "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+          },
+          {
+            "author": "Gregory C. Hadlock, Katy M. Webb, Lisa M. McFadden, Pei Wen Chu, Jonathan D. Ellis, Scott C. Allen, David M. Andrenyak, Paula L. Vieira-Brock, Christopher L. German, Kevin M. Conrad, Amanda J. Hoonakker, James W. Gibb, Diana G. Wilkins, Glen R. Hanson and Annette E. Fleckenstein",
+            "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse",
+            "url": "https://doi.org/10.1124/jpet.111.184119 "
+          },
+          {
+            "author": "Gough B, Ali SF, Slikker W Jr, Holson RR. ",
+            "title": "Acute effects of 3,4-methylenedioxymethamphetamine (MDMA) on monoamines in rat caudate. (1991)",
+            "url": "https://doi.org/10.1016/0091-3057(91)90137-q"
+          },
+          {
+            "author": "Schmidt CJ, Levin JA, Lovenberg W. ",
+            "title": "In vitro and in vivo neurochemical effects of methylenedioxymethamphetamine on striatal monoaminergic systems in the rat brain. (1987)",
+            "url": "https://doi.org/10.1016/0006-2952(87)90729-5"
+          },
+          {
+            "author": "Bankson MG, Cunningham KA.",
+            "title": "3,4-Methylenedioxymethamphetamine (MDMA) as a unique model of serotonin receptor function and serotonin-dopamine interactions. (2001)",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11356903/"
+          },
+          {
+            "author": "A.C. Parrott",
+            "title": "Recreational Ecstasy/MDMA, the serotonin syndrome, and serotonergic neurotoxicity (2002)",
+            "url": "https://doi.org/10.1016/S0091-3057(01)00711-0"
+          },
+          {
+            "author": "Lisa H. Gold & George F. Koob ",
+            "title": "MDMA produces stimulant-like conditioned locomotor activity. (1989)",
+            "url": "https://doi.org/10.1007/BF00445556"
+          },
+          {
+            "author": "Meng H, Cao J, Kang J, Ying X, Ji J, Reynolds W, Rampe D.",
+            "title": "Mephedrone, a new designer drug of abuse, produces acute hemodynamic effects in the rat ",
+            "url": "https://doi.org/10.1016/j.toxlet.2011.10.010"
+          }
+        ],
+        "status": "Dangerous"
       }
     },
     "formatted_aftereffects": {
@@ -27883,7 +28011,7 @@
       "experiences": "https://www.erowid.org/experiences/subs/exp_Dizocilpine.shtml"
     },
     "name": "mk-801",
-    "pretty_name": "MK-801", 
+    "pretty_name": "MK-801",
     "properties": {
       "after-effects": "1-72 hours.",
       "aliases": [
@@ -28646,6 +28774,42 @@
         "status": "Caution"
       },
       "tramadol": {
+        "status": "Dangerous"
+      },
+      "lithium": {
+        "note": "There is a risk of serotonin syndrome when combining Lithium with MXE, as Lithium can induce serotonin syndrome in conjunction with other serotonergic drugs, and MXE has shown a notable affinity for the serotonin transporter.",
+        "sources": [
+          {
+            "author": "Lenox, R. H., & Hahn, C. G.",
+            "title": "Overview of the mechanism of action of lithium in the brain: fifty-year update (2000)",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10826655/"
+          },
+          {
+            "author": "Shahani, L.",
+            "title": "Venlafaxine Augmentation With Lithium Leading to Serotonin Syndrome (2012)",
+            "url": "https://doi.org/10.1176/appi.neuropsych.11080196"
+          },
+          {
+            "author": "DeBattista, C., Sofuoglu, M., & Schatzberg, A. F.",
+            "title": "Serotonergic synergism: the risks and benefits of combining the selective serotonin reuptake inhibitors with other serotonergic drugs (1998)",
+            "url": "https://doi.org/10.1016/S0006-3223(98)00161-9"
+          },
+          {
+            "author": "Massot, O.",
+            "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders (1999)",
+            "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+          },
+          {
+            "author": "Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., & Iversen, L.",
+            "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor (2013)",
+            "url": "https://doi.org/10.1371/journal.pone.0059334"
+          },
+          {
+            "author": "Marti, M., Talani, G., Miliano, C., Bilel, S., Biggio, F., Bratzu, J., Diana, M., De Luca, M. A., & Fattore, L.",
+            "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat (2021)",
+            "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+          }
+        ],
         "status": "Dangerous"
       }
     },

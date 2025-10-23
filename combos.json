@@ -543,7 +543,8 @@
           "author": "van Kammen, D. P., Docherty, J. P., Marder, S. R., Rosenblatt, J. E., & Bunney, W. E..",
           "title": "Lithium attenuates the activation-euphoria but not the psychosis induced by d-amphetamine in schizophrenia. (1985)",
           "url": "https://doi.org/10.1007/BF00431789"
-        },        {
+        },
+        {
           "author": "Zhou, Z., Wang, Y., Tan, H., Bharti, V., Che, Y., & Wang, J.-F. ",
           "title": "Chronic treatment with mood stabilizer lithium inhibits amphetamine-induced risk-taking manic-like behaviors. (2015)",
           "url": "https://doi.org/10.1016/j.neulet.2015.07.027"
@@ -2160,6 +2161,42 @@
       ],
       "status": "Dangerous"
     },
+    "mxe": {
+      "note": "There is a risk of serotonin syndrome when combining Lithium with MXE, as Lithium can induce serotonin syndrome in conjunction with other serotonergic drugs, and MXE has shown a notable affinity for the serotonin transporter.",
+      "sources": [
+        {
+          "author": "Lenox, R. H., & Hahn, C. G.",
+          "title": "Overview of the mechanism of action of lithium in the brain: fifty-year update (2000)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10826655/"
+        },
+        {
+          "author": "Shahani, L.",
+          "title": "Venlafaxine Augmentation With Lithium Leading to Serotonin Syndrome (2012)",
+          "url": "https://doi.org/10.1176/appi.neuropsych.11080196"
+        },
+        {
+          "author": "DeBattista, C., Sofuoglu, M., & Schatzberg, A. F.",
+          "title": "Serotonergic synergism: the risks and benefits of combining the selective serotonin reuptake inhibitors with other serotonergic drugs (1998)",
+          "url": "https://doi.org/10.1016/S0006-3223(98)00161-9"
+        },
+        {
+          "author": "Massot, O.",
+          "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders (1999)",
+          "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+        },
+        {
+          "author": "Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., & Iversen, L.",
+          "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor (2013)",
+          "url": "https://doi.org/10.1371/journal.pone.0059334"
+        },
+        {
+          "author": "Marti, M., Talani, G., Miliano, C., Bilel, S., Biggio, F., Bratzu, J., Diana, M., De Luca, M. A., & Fattore, L.",
+          "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat (2021)",
+          "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+        }
+      ],
+      "status": "Dangerous"
+    },
     "nbomes": {
       "note": "There are a large number of reports indicating a high seizure and psychosis risk from this combination.",
       "sources": [
@@ -3315,6 +3352,42 @@
       "status": "Caution"
     },
     "tramadol": {
+      "status": "Dangerous"
+    },
+    "lithium": {
+      "note": "There is a risk of serotonin syndrome when combining Lithium with MXE, as Lithium can induce serotonin syndrome in conjunction with other serotonergic drugs, and MXE has shown a notable affinity for the serotonin transporter.",
+      "sources": [
+        {
+          "author": "Lenox, R. H., & Hahn, C. G.",
+          "title": "Overview of the mechanism of action of lithium in the brain: fifty-year update (2000)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10826655/"
+        },
+        {
+          "author": "Shahani, L.",
+          "title": "Venlafaxine Augmentation With Lithium Leading to Serotonin Syndrome (2012)",
+          "url": "https://doi.org/10.1176/appi.neuropsych.11080196"
+        },
+        {
+          "author": "DeBattista, C., Sofuoglu, M., & Schatzberg, A. F.",
+          "title": "Serotonergic synergism: the risks and benefits of combining the selective serotonin reuptake inhibitors with other serotonergic drugs (1998)",
+          "url": "https://doi.org/10.1016/S0006-3223(98)00161-9"
+        },
+        {
+          "author": "Massot, O.",
+          "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders (1999)",
+          "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+        },
+        {
+          "author": "Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., & Iversen, L.",
+          "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor (2013)",
+          "url": "https://doi.org/10.1371/journal.pone.0059334"
+        },
+        {
+          "author": "Marti, M., Talani, G., Miliano, C., Bilel, S., Biggio, F., Bratzu, J., Diana, M., De Luca, M. A., & Fattore, L.",
+          "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat (2021)",
+          "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+        }
+      ],
       "status": "Dangerous"
     }
   },
