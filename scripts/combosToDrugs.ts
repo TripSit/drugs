@@ -127,6 +127,20 @@ function schemaValidated(): boolean {
   return valid;
 }
 
+function alphabetizeObject(obj: any): any {
+  if (Array.isArray(obj)) {
+    return obj.map(alphabetizeObject);
+  } else if (obj && typeof obj === 'object') {
+    return Object.keys(obj)
+      .sort((a, b) => a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' }))
+      .reduce((acc, key) => {
+        acc[key] = alphabetizeObject(obj[key]);
+        return acc;
+      }, {} as typeof obj);
+  }
+  return obj;
+}
+
 async function compareData(): Promise<boolean> {
   enum WildcardDrugs {
     "2c-t-x" = "2c-t-x",
@@ -296,8 +310,18 @@ if (process.argv.slice(2).includes('--github-check')) {
         console.log('No changes were made');
         return;
       }
-      await fs.writeFile(path.resolve(__dirname, '../drugs.json'), JSON.stringify(drugData, null, 2));
-      await fs.writeFile(path.resolve(__dirname, '../combos.json'), JSON.stringify(comboData, null, 2));
+      // Alphabetize before writing
+      const alphabetizedDrugData = alphabetizeObject(drugData);
+      const alphabetizedComboData = alphabetizeObject(comboData);
+
+      await fs.writeFile(
+        path.resolve(__dirname, '../drugs.json'),
+        JSON.stringify(alphabetizedDrugData, null, 2)
+      );
+      await fs.writeFile(
+        path.resolve(__dirname, '../combos.json'),
+        JSON.stringify(alphabetizedComboData, null, 2)
+      );
       console.log('Updated files!');
     })
     .catch((err) => {
