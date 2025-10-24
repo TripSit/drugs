@@ -17640,6 +17640,32 @@
         ],
         "status": "Dangerous"
       },
+      "ketamine": {
+        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Ketamine has a high likelihood of increasing DPH's deliriant effects at higher dosages and can greatly increase the risk of injury, mania, and psychosis. Medical dosages of both substances are unlikely to cause concern.",
+        "sources": [
+          {
+            "author": "Bylund, W., Delahanty, L., & Cooper, M.",
+            "title": "The Case of Ketamine Allergy. Clinical Practice and Cases in Emergency Medicine, 1(4), 323–325. (2017)",
+            "url": "https://doi.org/10.5811/cpcem.2017.7.34405"
+          },
+          {
+            "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M.",
+            "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027. (2025)",
+            "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+          },
+          {
+            "author": "Rosenbaum, S. B., Gupta, V., Patel, P., & Palacios, J. L.",
+            "title": "Ketamine. In StatPearls. StatPearls Publishing. (2025)",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK470357/"
+          },
+          {
+            "author": "Sicari, V., Patel, P., & Zabbo, C. P.",
+            "title": "Diphenhydramine. In StatPearls. StatPearls Publishing. (2025)",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+          }
+        ],
+        "status": "Dangerous"
+      },
       "lithium": {
         "note": "There is a concern of serotonin syndrome at higher dosages of this combination. Caution is recommended in restricting diphenhydramine to medical dosages (25-50mg). Lithium and diphenhydramine both have concerns of QT prolongation which may be increased when taken in combination; risks increase due to a variety of factors such as the health of the user and drug dosages. Additionally, the combination may increase each drug's side effects, such as dizziness and loss of consciousness.",
         "sources": [
@@ -22946,6 +22972,32 @@
           }
         ],
         "status": "Low Risk & Synergy"
+      },
+      "diphenhydramine": {
+        "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Ketamine has a high likelihood of increasing DPH's deliriant effects at higher dosages and can greatly increase the risk of injury, mania, and psychosis. Medical dosages of both substances are unlikely to cause concern.",
+        "sources": [
+          {
+            "author": "Bylund, W., Delahanty, L., & Cooper, M.",
+            "title": "The Case of Ketamine Allergy. Clinical Practice and Cases in Emergency Medicine, 1(4), 323–325. (2017)",
+            "url": "https://doi.org/10.5811/cpcem.2017.7.34405"
+          },
+          {
+            "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M.",
+            "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027. (2025)",
+            "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+          },
+          {
+            "author": "Rosenbaum, S. B., Gupta, V., Patel, P., & Palacios, J. L.",
+            "title": "Ketamine. In StatPearls. StatPearls Publishing. (2025)",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK470357/"
+          },
+          {
+            "author": "Sicari, V., Patel, P., & Zabbo, C. P.",
+            "title": "Diphenhydramine. In StatPearls. StatPearls Publishing. (2025)",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+          }
+        ],
+        "status": "Dangerous"
       },
       "dmt": {
         "status": "Low Risk & Synergy"
