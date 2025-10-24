@@ -17639,6 +17639,72 @@
           }
         ],
         "status": "Dangerous"
+      },
+      "lithium": {
+        "note": "There is a concern of serotonin syndrome at higher dosages of this combination. Caution is recommended in restricting diphenhydramine to medical dosages (25-50mg). Lithium and diphenhydramine both have concerns of QT prolongation which may be increased when taken in combination; risks increase due to a variety of factors such as the health of the user and drug dosages. Additionally, the combination may increase each drug's side effects, such as dizziness and loss of consciousness.",
+        "sources": [
+          {
+            "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M.",
+            "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027. (2025)",
+            "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+          },
+          {
+            "author": "Crouch, M. A., Limon, L., & Cassano, A. T.",
+            "title": "Clinical Relevance and Management of Drug‐Related QT Interval Prolongation. Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy, 23(7), 881–908. (2003)",
+            "url": "https://doi.org/10.1592/phco.23.7.881.32730"
+          },
+          {
+            "author": "Farzam, K., & Tivakaran, V. S.",
+            "title": "QT Prolonging Drugs. In StatPearls. StatPearls Publishing. (2025)",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK534864/"
+          },
+          {
+            "author": "Finley, P. R.",
+            "title": "Drug Interactions with Lithium: An Update. Clinical Pharmacokinetics, 55(8), 925–941. (2016)",
+            "url": "https://doi.org/10.1007/s40262-016-0370-y"
+          },
+          {
+            "author": "Hawley, C. J., Loughlin, P. J., Quick, S. J., Gale, T. M., Sivakumaran, T., Hayes, J., & McPhee, S.",
+            "title": "Efficacy, safety and tolerability of combined administration of lithium and selective serotonin reuptake inhibitors: a review of the current evidence. International Clinical Psychopharmacology, 15(4), 197–206. (2000)",
+            "url": "https://doi.org/10.1097/00004850-200015040-00002"
+          },
+          {
+            "author": "Husain, Z., Hussain, K., Nair, R., & Steinman, R.",
+            "title": "Diphenhydramine induced QT prolongation and torsade de pointes: An uncommon effect of a common drug. Cardiology Journal, 17(5), 509–511. (2010)",
+            "url": "https://journals.viamedica.pl/cardiology_journal/article/view/21341"
+          },
+          {
+            "author": "Khan, S., Saud, S., Khan, I., Asif, M., Ismail, O., Salam, A., Yang, T. J., & Norville, K. J.",
+            "title": "Serotonin Syndrome Presenting with Concomitant Tramadol and Diphenhydramine Use: A Case Report of an Unlikely Side-Effect. Cureus. (2018)",
+            "url": "https://doi.org/10.7759/cureus.2421"
+          },
+          {
+            "author": "Massot, O., Rousselle, J.-C., Fillion, M.-P., Januel, D., Plantefol, M., & Fillion, G.",
+            "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders. Neuropsychopharmacology, 21(4), 530–541. (1999)",
+            "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+          },
+          {
+            "author": "Mehta, N., & Vannozzi, R.",
+            "title": "Lithium‐induced electrocardiographic changes: A complete review. Clinical Cardiology, 40(12), 1363–1367. (2017)",
+            "url": "https://doi.org/10.1002/clc.22822"
+          },
+          {
+            "author": "Müller-Oerlinghausen, B.",
+            "title": "Drug Interactions with Lithium: A Guide for Clinicians. CNS Drugs, 11(1), 41–48. (1999)",
+            "url": "https://doi.org/10.2165/00023210-199911010-00004"
+          },
+          {
+            "author": "Rosenberg, A. E., Wang, R., & Rosenberg, M. H.",
+            "title": "Serotonin Syndrome Associated With High-dose Diphenhydramine Use Complicating Abdominoplasty and Mastopexy. Plastic and Reconstructive Surgery - Global Open, 13(3), e6634. (2025)",
+            "url": "https://doi.org/10.1097/GOX.0000000000006634"
+          },
+          {
+            "author": "Truedson, P., Ott, M., Lindmark, K., Ström, M., Maripuu, M., Lundqvist, R., & Werneke, U.",
+            "title": "Effects of Toxic Lithium Levels on ECG—Findings from the LiSIE Retrospective Cohort Study. Journal of Clinical Medicine, 11(19), 5941. (2022)",
+            "url": "https://doi.org/10.3390/jcm11195941"
+          }
+        ],
+        "status": "Caution"
       }
     },
     "dose_note": " NOTE: The doses provided are for recreational usage. For use as a sleep aid the dose ranges from 25-100mg, or as specified on the product packaging.",
@@ -23506,6 +23572,72 @@
           }
         ],
         "status": "Dangerous"
+      },
+      "diphenhydramine": {
+        "note": "There is a concern of serotonin syndrome at higher dosages of this combination. Caution is recommended in restricting diphenhydramine to medical dosages (25-50mg). Lithium and diphenhydramine both have concerns of QT prolongation which may be increased when taken in combination; risks increase due to a variety of factors such as the health of the user and drug dosages. Additionally, the combination may increase each drug's side effects, such as dizziness and loss of consciousness.",
+        "sources": [
+          {
+            "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M.",
+            "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027. (2025)",
+            "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+          },
+          {
+            "author": "Crouch, M. A., Limon, L., & Cassano, A. T.",
+            "title": "Clinical Relevance and Management of Drug‐Related QT Interval Prolongation. Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy, 23(7), 881–908. (2003)",
+            "url": "https://doi.org/10.1592/phco.23.7.881.32730"
+          },
+          {
+            "author": "Farzam, K., & Tivakaran, V. S.",
+            "title": "QT Prolonging Drugs. In StatPearls. StatPearls Publishing. (2025)",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK534864/"
+          },
+          {
+            "author": "Finley, P. R.",
+            "title": "Drug Interactions with Lithium: An Update. Clinical Pharmacokinetics, 55(8), 925–941. (2016)",
+            "url": "https://doi.org/10.1007/s40262-016-0370-y"
+          },
+          {
+            "author": "Hawley, C. J., Loughlin, P. J., Quick, S. J., Gale, T. M., Sivakumaran, T., Hayes, J., & McPhee, S.",
+            "title": "Efficacy, safety and tolerability of combined administration of lithium and selective serotonin reuptake inhibitors: a review of the current evidence. International Clinical Psychopharmacology, 15(4), 197–206. (2000)",
+            "url": "https://doi.org/10.1097/00004850-200015040-00002"
+          },
+          {
+            "author": "Husain, Z., Hussain, K., Nair, R., & Steinman, R.",
+            "title": "Diphenhydramine induced QT prolongation and torsade de pointes: An uncommon effect of a common drug. Cardiology Journal, 17(5), 509–511. (2010)",
+            "url": "https://journals.viamedica.pl/cardiology_journal/article/view/21341"
+          },
+          {
+            "author": "Khan, S., Saud, S., Khan, I., Asif, M., Ismail, O., Salam, A., Yang, T. J., & Norville, K. J.",
+            "title": "Serotonin Syndrome Presenting with Concomitant Tramadol and Diphenhydramine Use: A Case Report of an Unlikely Side-Effect. Cureus. (2018)",
+            "url": "https://doi.org/10.7759/cureus.2421"
+          },
+          {
+            "author": "Massot, O., Rousselle, J.-C., Fillion, M.-P., Januel, D., Plantefol, M., & Fillion, G.",
+            "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders. Neuropsychopharmacology, 21(4), 530–541. (1999)",
+            "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+          },
+          {
+            "author": "Mehta, N., & Vannozzi, R.",
+            "title": "Lithium‐induced electrocardiographic changes: A complete review. Clinical Cardiology, 40(12), 1363–1367. (2017)",
+            "url": "https://doi.org/10.1002/clc.22822"
+          },
+          {
+            "author": "Müller-Oerlinghausen, B.",
+            "title": "Drug Interactions with Lithium: A Guide for Clinicians. CNS Drugs, 11(1), 41–48. (1999)",
+            "url": "https://doi.org/10.2165/00023210-199911010-00004"
+          },
+          {
+            "author": "Rosenberg, A. E., Wang, R., & Rosenberg, M. H.",
+            "title": "Serotonin Syndrome Associated With High-dose Diphenhydramine Use Complicating Abdominoplasty and Mastopexy. Plastic and Reconstructive Surgery - Global Open, 13(3), e6634. (2025)",
+            "url": "https://doi.org/10.1097/GOX.0000000000006634"
+          },
+          {
+            "author": "Truedson, P., Ott, M., Lindmark, K., Ström, M., Maripuu, M., Lundqvist, R., & Werneke, U.",
+            "title": "Effects of Toxic Lithium Levels on ECG—Findings from the LiSIE Retrospective Cohort Study. Journal of Clinical Medicine, 11(19), 5941. (2022)",
+            "url": "https://doi.org/10.3390/jcm11195941"
+          }
+        ],
+        "status": "Caution"
       },
       "dmt": {
         "note": "There are a large number of reports indicating a high seizure and psychosis risk from this combination.",
