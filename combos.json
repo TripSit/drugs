@@ -543,7 +543,8 @@
           "author": "van Kammen, D. P., Docherty, J. P., Marder, S. R., Rosenblatt, J. E., & Bunney, W. E..",
           "title": "Lithium attenuates the activation-euphoria but not the psychosis induced by d-amphetamine in schizophrenia. (1985)",
           "url": "https://doi.org/10.1007/BF00431789"
-        },        {
+        },
+        {
           "author": "Zhou, Z., Wang, Y., Tan, H., Bharti, V., Che, Y., & Wang, J.-F. ",
           "title": "Chronic treatment with mood stabilizer lithium inhibits amphetamine-induced risk-taking manic-like behaviors. (2015)",
           "url": "https://doi.org/10.1016/j.neulet.2015.07.027"
@@ -1096,6 +1097,72 @@
       "note": "Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues",
       "status": "Unsafe"
     },
+    "diphenhydramine": {
+      "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If cocaine wears off first, recreational dosages of DPH may overcome the individual and cause respiratory arrest. Both substances at recreational dosages strain the heart and may lead to further dangerous heart complications. When taken together, both substances can potentially be more reinforcing and have greater risk of methemoglobinemia when higher dosages of DPH are combined with cocaine.",
+      "sources": [
+        {
+          "author": "Alanazi, M. Q.",
+          "title": "Drugs may be Induced Methemoglobinemia. Journal of Hematology & Thromboembolic Diseases, 06(01). (2017)",
+          "url": "https://doi.org/10.4172/2329-8790.1000270"
+        },
+        {
+          "author": "Banks, M. L., Andersen, M. L., Murnane, K. S., Meyer, R. C., & Howell, L. L.",
+          "title": "Behavioral and neurochemical effects of cocaine and diphenhydramine combinations in rhesus monkeys. Psychopharmacology, 205(3), 467–474. (2009)",
+          "url": "https://doi.org/10.1007/s00213-009-1555-y"
+        },
+        {
+          "author": "chrisn",
+          "title": "Diphenhydramine [Online post]. Drug-Forum. (2021)",
+          "url": "https://drugs-forum.com/wiki/Diphenhydramine"
+        },
+        {
+          "author": "Eshmandi, M., Mohamed, A., Khalil, B., & Belhaj, A.",
+          "title": "Methaemoglobinaemia Associated With Mixed Cocaine and Amphetamine Overdose: A Case Report. Cureus, 16(1), e51748. (2024)",
+          "url": "https://doi.org/10.7759/cureus.51748"
+        },
+        {
+          "author": "Karch, S. B. ",
+          "title": "Diphenhydramine toxicity: comparisons of postmortem findings in diphenhydramine-, cocaine-, and heroin-related deaths. The American Journal of Forensic Medicine and Pathology, 19(2), 143–147. (1998)",
+          "url": "https://doi.org/10.1097/00000433-199806000-00008"
+        },
+        {
+          "author": "Pennefather, J. N.",
+          "title": "The effects pf cocaine and diphenhydramine upon the reactivity of rat vas deferens to supramaximal doses of noradrenaline and of other agonists: The mode of action of cocaine. European Journal of Pharmacology, 35(2), 333–339. (1976)",
+          "url": "https://doi.org/10.1016/0014-2999(76)90236-3"
+        },
+        {
+          "author": "Pergolizzi, J. V., Magnusson, P., LeQuang, J. A. K., Breve, F., & Varrassi, G.",
+          "title": "Cocaine and Cardiotoxicity: A Literature Review. Cureus, 13(4), e14594. (2021)",
+          "url": "https://doi.org/10.7759/cureus.14594"
+        },
+        {
+          "author": "Sicari, V., Patel, P., & Zabbo, C. P.",
+          "title": "Diphenhydramine. In StatPearls. StatPearls Publishing. (2025)",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+        },
+        {
+          "author": "Tanda, G., Kopajtic, T. A., & Katz, J. L.",
+          "title": "Cocaine-Like Neurochemical Effects of Antihistaminic Medications. Journal of Neurochemistry, 106(1), 147–157. (2008)",
+          "url": "https://doi.org/10.1111/j.1471-4159.2008.05361.x"
+        },
+        {
+          "author": "Wang, Z., & Woolverton, W. L.",
+          "title": "Self-administration of cocaine-antihistamine combinations: Super-additive reinforcing effects. European Journal of Pharmacology, 557(2–3), 159–160. (2007)",
+          "url": "https://doi.org/10.1016/j.ejphar.2006.11.056"
+        },
+        {
+          "author": "Wang, Z., & Woolverton, W. L.",
+          "title": "Super-additive interaction of the reinforcing effects of cocaine and H1-antihistamines in rhesus monkeys. Pharmacology Biochemistry and Behavior, 91(4), 590–595. (2009)",
+          "url": "https://doi.org/10.1016/j.pbb.2008.09.013"
+        },
+        {
+          "author": "Weichert, I.",
+          "title": "Acute Management of Cocaine-Associated Methaemoglobinaemia. Case Reports in Medicine, 2011, 1–3. (2011)",
+          "url": "https://doi.org/10.1155/2011/136396"
+        }
+      ],
+      "status": "Caution"
+    },
     "dmt": {
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
@@ -1277,6 +1344,37 @@
       ],
       "status": "Low Risk & Synergy"
     },
+    "lithium": {
+      "note": "There is a risk of serotonin syndrome when combining Lithium with DXM.",
+      "sources": [
+        {
+          "author": "Lenox, R. H., & Hahn, C. G.",
+          "title": "Overview of the mechanism of action of lithium in the brain: fifty-year update (2000)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10826655/"
+        },
+        {
+          "author": "Shahani, L.",
+          "title": "Venlafaxine Augmentation With Lithium Leading to Serotonin Syndrome (2012)",
+          "url": "https://doi.org/10.1176/appi.neuropsych.11080196"
+        },
+        {
+          "author": "DeBattista, C., Sofuoglu, M., & Schatzberg, A. F.",
+          "title": "Serotonergic synergism: the risks and benefits of combining the selective serotonin reuptake inhibitors with other serotonergic drugs (1998)",
+          "url": "https://doi.org/10.1016/s0006-3223(98)00161-9"
+        },
+        {
+          "author": "Massot, O.",
+          "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders (1999)",
+          "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+        },
+        {
+          "author": "Navarro, A., Perry, C., & Bobo, W. V.",
+          "title": "A case of serotonin syndrome precipitated by abuse of the anticough remedy dextromethorphan in a bipolar patient treated with fluoxetine and lithium. (2006)",
+          "url": "https://doi.org/10.1016/j.genhosppsych.2005.06.008"
+        }
+      ],
+      "status": "Dangerous"
+    },
     "lsd": {
       "status": "Low Risk & Synergy"
     },
@@ -1387,6 +1485,72 @@
     }
   },
   "diphenhydramine": {
+    "cocaine": {
+      "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If cocaine wears off first, recreational dosages of DPH may overcome the individual and cause respiratory arrest. Both substances at recreational dosages strain the heart and may lead to further dangerous heart complications. When taken together, both substances can potentially be more reinforcing and have greater risk of methemoglobinemia when higher dosages of DPH are combined with cocaine.",
+      "sources": [
+        {
+          "author": "Alanazi, M. Q.",
+          "title": "Drugs may be Induced Methemoglobinemia. Journal of Hematology & Thromboembolic Diseases, 06(01). (2017)",
+          "url": "https://doi.org/10.4172/2329-8790.1000270"
+        },
+        {
+          "author": "Banks, M. L., Andersen, M. L., Murnane, K. S., Meyer, R. C., & Howell, L. L.",
+          "title": "Behavioral and neurochemical effects of cocaine and diphenhydramine combinations in rhesus monkeys. Psychopharmacology, 205(3), 467–474. (2009)",
+          "url": "https://doi.org/10.1007/s00213-009-1555-y"
+        },
+        {
+          "author": "chrisn",
+          "title": "Diphenhydramine [Online post]. Drug-Forum. (2021)",
+          "url": "https://drugs-forum.com/wiki/Diphenhydramine"
+        },
+        {
+          "author": "Eshmandi, M., Mohamed, A., Khalil, B., & Belhaj, A.",
+          "title": "Methaemoglobinaemia Associated With Mixed Cocaine and Amphetamine Overdose: A Case Report. Cureus, 16(1), e51748. (2024)",
+          "url": "https://doi.org/10.7759/cureus.51748"
+        },
+        {
+          "author": "Karch, S. B. ",
+          "title": "Diphenhydramine toxicity: comparisons of postmortem findings in diphenhydramine-, cocaine-, and heroin-related deaths. The American Journal of Forensic Medicine and Pathology, 19(2), 143–147. (1998)",
+          "url": "https://doi.org/10.1097/00000433-199806000-00008"
+        },
+        {
+          "author": "Pennefather, J. N.",
+          "title": "The effects pf cocaine and diphenhydramine upon the reactivity of rat vas deferens to supramaximal doses of noradrenaline and of other agonists: The mode of action of cocaine. European Journal of Pharmacology, 35(2), 333–339. (1976)",
+          "url": "https://doi.org/10.1016/0014-2999(76)90236-3"
+        },
+        {
+          "author": "Pergolizzi, J. V., Magnusson, P., LeQuang, J. A. K., Breve, F., & Varrassi, G.",
+          "title": "Cocaine and Cardiotoxicity: A Literature Review. Cureus, 13(4), e14594. (2021)",
+          "url": "https://doi.org/10.7759/cureus.14594"
+        },
+        {
+          "author": "Sicari, V., Patel, P., & Zabbo, C. P.",
+          "title": "Diphenhydramine. In StatPearls. StatPearls Publishing. (2025)",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+        },
+        {
+          "author": "Tanda, G., Kopajtic, T. A., & Katz, J. L.",
+          "title": "Cocaine-Like Neurochemical Effects of Antihistaminic Medications. Journal of Neurochemistry, 106(1), 147–157. (2008)",
+          "url": "https://doi.org/10.1111/j.1471-4159.2008.05361.x"
+        },
+        {
+          "author": "Wang, Z., & Woolverton, W. L.",
+          "title": "Self-administration of cocaine-antihistamine combinations: Super-additive reinforcing effects. European Journal of Pharmacology, 557(2–3), 159–160. (2007)",
+          "url": "https://doi.org/10.1016/j.ejphar.2006.11.056"
+        },
+        {
+          "author": "Wang, Z., & Woolverton, W. L.",
+          "title": "Super-additive interaction of the reinforcing effects of cocaine and H1-antihistamines in rhesus monkeys. Pharmacology Biochemistry and Behavior, 91(4), 590–595. (2009)",
+          "url": "https://doi.org/10.1016/j.pbb.2008.09.013"
+        },
+        {
+          "author": "Weichert, I.",
+          "title": "Acute Management of Cocaine-Associated Methaemoglobinaemia. Case Reports in Medicine, 2011, 1–3. (2011)",
+          "url": "https://doi.org/10.1155/2011/136396"
+        }
+      ],
+      "status": "Caution"
+    },
     "ghb/gbl": {
       "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
       "sources": [
@@ -1409,6 +1573,139 @@
           "author": "Busardò FP, Jones AW.",
           "title": "GHB Pharmacology and Toxicology: Acute Intoxication, Concentrations in Blood and Urine in Forensic Cases and Treatment of the Withdrawal Syndrome",
           "url": "https://doi.org/10.2174%2F1570159X13666141210215423"
+        }
+      ],
+      "status": "Dangerous"
+    },
+    "ketamine": {
+      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Ketamine has a high likelihood of increasing DPH's deliriant effects at higher dosages and can greatly increase the risk of injury, mania, and psychosis. Medical dosages of both substances are unlikely to cause concern.",
+      "sources": [
+        {
+          "author": "Bylund, W., Delahanty, L., & Cooper, M.",
+          "title": "The Case of Ketamine Allergy. Clinical Practice and Cases in Emergency Medicine, 1(4), 323–325. (2017)",
+          "url": "https://doi.org/10.5811/cpcem.2017.7.34405"
+        },
+        {
+          "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M.",
+          "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027. (2025)",
+          "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+        },
+        {
+          "author": "Rosenbaum, S. B., Gupta, V., Patel, P., & Palacios, J. L.",
+          "title": "Ketamine. In StatPearls. StatPearls Publishing. (2025)",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK470357/"
+        },
+        {
+          "author": "Sicari, V., Patel, P., & Zabbo, C. P.",
+          "title": "Diphenhydramine. In StatPearls. StatPearls Publishing. (2025)",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+        }
+      ],
+      "status": "Dangerous"
+    },
+    "lithium": {
+      "note": "There is a concern of serotonin syndrome at higher dosages of this combination. Caution is recommended in restricting diphenhydramine to medical dosages (25-50mg). Lithium and diphenhydramine both have concerns of QT prolongation which may be increased when taken in combination; risks increase due to a variety of factors such as the health of the user and drug dosages. Additionally, the combination may increase each drug's side effects, such as dizziness and loss of consciousness.",
+      "sources": [
+        {
+          "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M.",
+          "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027. (2025)",
+          "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+        },
+        {
+          "author": "Crouch, M. A., Limon, L., & Cassano, A. T.",
+          "title": "Clinical Relevance and Management of Drug‐Related QT Interval Prolongation. Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy, 23(7), 881–908. (2003)",
+          "url": "https://doi.org/10.1592/phco.23.7.881.32730"
+        },
+        {
+          "author": "Farzam, K., & Tivakaran, V. S.",
+          "title": "QT Prolonging Drugs. In StatPearls. StatPearls Publishing. (2025)",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK534864/"
+        },
+        {
+          "author": "Finley, P. R.",
+          "title": "Drug Interactions with Lithium: An Update. Clinical Pharmacokinetics, 55(8), 925–941. (2016)",
+          "url": "https://doi.org/10.1007/s40262-016-0370-y"
+        },
+        {
+          "author": "Hawley, C. J., Loughlin, P. J., Quick, S. J., Gale, T. M., Sivakumaran, T., Hayes, J., & McPhee, S.",
+          "title": "Efficacy, safety and tolerability of combined administration of lithium and selective serotonin reuptake inhibitors: a review of the current evidence. International Clinical Psychopharmacology, 15(4), 197–206. (2000)",
+          "url": "https://doi.org/10.1097/00004850-200015040-00002"
+        },
+        {
+          "author": "Husain, Z., Hussain, K., Nair, R., & Steinman, R.",
+          "title": "Diphenhydramine induced QT prolongation and torsade de pointes: An uncommon effect of a common drug. Cardiology Journal, 17(5), 509–511. (2010)",
+          "url": "https://journals.viamedica.pl/cardiology_journal/article/view/21341"
+        },
+        {
+          "author": "Khan, S., Saud, S., Khan, I., Asif, M., Ismail, O., Salam, A., Yang, T. J., & Norville, K. J.",
+          "title": "Serotonin Syndrome Presenting with Concomitant Tramadol and Diphenhydramine Use: A Case Report of an Unlikely Side-Effect. Cureus. (2018)",
+          "url": "https://doi.org/10.7759/cureus.2421"
+        },
+        {
+          "author": "Massot, O., Rousselle, J.-C., Fillion, M.-P., Januel, D., Plantefol, M., & Fillion, G.",
+          "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders. Neuropsychopharmacology, 21(4), 530–541. (1999)",
+          "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+        },
+        {
+          "author": "Mehta, N., & Vannozzi, R.",
+          "title": "Lithium‐induced electrocardiographic changes: A complete review. Clinical Cardiology, 40(12), 1363–1367. (2017)",
+          "url": "https://doi.org/10.1002/clc.22822"
+        },
+        {
+          "author": "Müller-Oerlinghausen, B.",
+          "title": "Drug Interactions with Lithium: A Guide for Clinicians. CNS Drugs, 11(1), 41–48. (1999)",
+          "url": "https://doi.org/10.2165/00023210-199911010-00004"
+        },
+        {
+          "author": "Rosenberg, A. E., Wang, R., & Rosenberg, M. H.",
+          "title": "Serotonin Syndrome Associated With High-dose Diphenhydramine Use Complicating Abdominoplasty and Mastopexy. Plastic and Reconstructive Surgery - Global Open, 13(3), e6634. (2025)",
+          "url": "https://doi.org/10.1097/GOX.0000000000006634"
+        },
+        {
+          "author": "Truedson, P., Ott, M., Lindmark, K., Ström, M., Maripuu, M., Lundqvist, R., & Werneke, U.",
+          "title": "Effects of Toxic Lithium Levels on ECG—Findings from the LiSIE Retrospective Cohort Study. Journal of Clinical Medicine, 11(19), 5941. (2022)",
+          "url": "https://doi.org/10.3390/jcm11195941"
+        }
+      ],
+      "status": "Caution"
+    },
+    "ssris": {
+      "note": "There is a high risk of serotonin syndrome at recreational dosages. Medical dosages are reported not to be a concern for the general population. The combination may increase each other's side effects, such as dizziness and drowsiness.",
+      "sources": [
+        {
+          "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M.",
+          "title": "Diphenhydramine: It is time to say a final goodbye. The World Allergy Organization Journal, 18(2), 101027 (2025)",
+          "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+        },
+        {
+          "author": "Ener, R. A., Meglathery, S. B., Decker, W. A. V., & Gallagher, R. M.",
+          "title": "Serotonin Syndrome and Other Serotonergic Disorders: Table 1. Pain Medicine, 4(1), 63-74 (2003)",
+          "url": "https://doi.org/10.1046/j.1526-4637.2003.03005.x"
+        },
+        {
+          "author": "Khan, S., Saud, S., Khan, I., Asif, M., Ismail, O., Salam, A., Yang, T. J., & Norville, K. J.",
+          "title": "Serotonin Syndrome Presenting with Concomitant Tramadol and Diphenhydramine Use: A Case Report of an Unlikely Side-Effect. Cureus, 10(4), e2421 (2018)",
+          "url": "https://doi.org/10.7759/cureus.2421"
+        },
+        {
+          "author": "Lane, R., Baldwin, D., & Preskorn, S.",
+          "title": "The SSRIs: advantages, disadvantages and differences. Journal of Psychopharmacology, 9(2 Suppl), 163-178 (1995)",
+          "url": "https://doi.org/10.1177/0269881195009002011"
+        },
+        {
+          "author": "Sproule, B. A., Naranjo, C. A., Brenmer, K. E., & Hassan, P. C.",
+          "title": "Selective serotonin reuptake inhibitors and CNS drug interactions. A critical review of the evidence. Clinical Pharmacokinetics, 33(6), 454-471 (1997)",
+          "url": "https://doi.org/10.2165/00003088-199733060-00004"
+        },
+        {
+          "author": "van Harten, J.",
+          "title": "Clinical pharmacokinetics of selective serotonin reuptake inhibitors. Clinical Pharmacokinetics, 24(3), 203-220 (1993)",
+          "url": "https://doi.org/10.2165/00003088-199324030-00003"
+        },
+        {
+          "author": "Varghese, E., Abate, M. A., Hu, L., Kaplan, J., Kraner, J., Long, D. L., Sorg, M., Mock, A., Greenwald, M., & Andrew, T.",
+          "title": "Characterization of Diphenhydramine-Related Accidental Overdose Deaths. Academic Forensic Pathology, 5(1), 105-115 (2015)",
+          "url": "https://doi.org/10.23907/2015.011"
         }
       ],
       "status": "Dangerous"
@@ -1844,6 +2141,32 @@
       ],
       "status": "Low Risk & Synergy"
     },
+    "diphenhydramine": {
+      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Ketamine has a high likelihood of increasing DPH's deliriant effects at higher dosages and can greatly increase the risk of injury, mania, and psychosis. Medical dosages of both substances are unlikely to cause concern.",
+      "sources": [
+        {
+          "author": "Bylund, W., Delahanty, L., & Cooper, M.",
+          "title": "The Case of Ketamine Allergy. Clinical Practice and Cases in Emergency Medicine, 1(4), 323–325. (2017)",
+          "url": "https://doi.org/10.5811/cpcem.2017.7.34405"
+        },
+        {
+          "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M.",
+          "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027. (2025)",
+          "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+        },
+        {
+          "author": "Rosenbaum, S. B., Gupta, V., Patel, P., & Palacios, J. L.",
+          "title": "Ketamine. In StatPearls. StatPearls Publishing. (2025)",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK470357/"
+        },
+        {
+          "author": "Sicari, V., Patel, P., & Zabbo, C. P.",
+          "title": "Diphenhydramine. In StatPearls. StatPearls Publishing. (2025)",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+        }
+      ],
+      "status": "Dangerous"
+    },
     "dmt": {
       "status": "Low Risk & Synergy"
     },
@@ -1973,6 +2296,103 @@
         }
       ],
       "status": "Low Risk & Decrease"
+    },
+    "dextromethorphan": {
+      "note": "There is a risk of serotonin syndrome when combining Lithium with DXM.",
+      "sources": [
+        {
+          "author": "Lenox, R. H., & Hahn, C. G.",
+          "title": "Overview of the mechanism of action of lithium in the brain: fifty-year update (2000)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10826655/"
+        },
+        {
+          "author": "Shahani, L.",
+          "title": "Venlafaxine Augmentation With Lithium Leading to Serotonin Syndrome (2012)",
+          "url": "https://doi.org/10.1176/appi.neuropsych.11080196"
+        },
+        {
+          "author": "DeBattista, C., Sofuoglu, M., & Schatzberg, A. F.",
+          "title": "Serotonergic synergism: the risks and benefits of combining the selective serotonin reuptake inhibitors with other serotonergic drugs (1998)",
+          "url": "https://doi.org/10.1016/s0006-3223(98)00161-9"
+        },
+        {
+          "author": "Massot, O.",
+          "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders (1999)",
+          "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+        },
+        {
+          "author": "Navarro, A., Perry, C., & Bobo, W. V.",
+          "title": "A case of serotonin syndrome precipitated by abuse of the anticough remedy dextromethorphan in a bipolar patient treated with fluoxetine and lithium. (2006)",
+          "url": "https://doi.org/10.1016/j.genhosppsych.2005.06.008"
+        }
+      ],
+      "status": "Dangerous"
+    },
+    "diphenhydramine": {
+      "note": "There is a concern of serotonin syndrome at higher dosages of this combination. Caution is recommended in restricting diphenhydramine to medical dosages (25-50mg). Lithium and diphenhydramine both have concerns of QT prolongation which may be increased when taken in combination; risks increase due to a variety of factors such as the health of the user and drug dosages. Additionally, the combination may increase each drug's side effects, such as dizziness and loss of consciousness.",
+      "sources": [
+        {
+          "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M.",
+          "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027. (2025)",
+          "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+        },
+        {
+          "author": "Crouch, M. A., Limon, L., & Cassano, A. T.",
+          "title": "Clinical Relevance and Management of Drug‐Related QT Interval Prolongation. Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy, 23(7), 881–908. (2003)",
+          "url": "https://doi.org/10.1592/phco.23.7.881.32730"
+        },
+        {
+          "author": "Farzam, K., & Tivakaran, V. S.",
+          "title": "QT Prolonging Drugs. In StatPearls. StatPearls Publishing. (2025)",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK534864/"
+        },
+        {
+          "author": "Finley, P. R.",
+          "title": "Drug Interactions with Lithium: An Update. Clinical Pharmacokinetics, 55(8), 925–941. (2016)",
+          "url": "https://doi.org/10.1007/s40262-016-0370-y"
+        },
+        {
+          "author": "Hawley, C. J., Loughlin, P. J., Quick, S. J., Gale, T. M., Sivakumaran, T., Hayes, J., & McPhee, S.",
+          "title": "Efficacy, safety and tolerability of combined administration of lithium and selective serotonin reuptake inhibitors: a review of the current evidence. International Clinical Psychopharmacology, 15(4), 197–206. (2000)",
+          "url": "https://doi.org/10.1097/00004850-200015040-00002"
+        },
+        {
+          "author": "Husain, Z., Hussain, K., Nair, R., & Steinman, R.",
+          "title": "Diphenhydramine induced QT prolongation and torsade de pointes: An uncommon effect of a common drug. Cardiology Journal, 17(5), 509–511. (2010)",
+          "url": "https://journals.viamedica.pl/cardiology_journal/article/view/21341"
+        },
+        {
+          "author": "Khan, S., Saud, S., Khan, I., Asif, M., Ismail, O., Salam, A., Yang, T. J., & Norville, K. J.",
+          "title": "Serotonin Syndrome Presenting with Concomitant Tramadol and Diphenhydramine Use: A Case Report of an Unlikely Side-Effect. Cureus. (2018)",
+          "url": "https://doi.org/10.7759/cureus.2421"
+        },
+        {
+          "author": "Massot, O., Rousselle, J.-C., Fillion, M.-P., Januel, D., Plantefol, M., & Fillion, G.",
+          "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders. Neuropsychopharmacology, 21(4), 530–541. (1999)",
+          "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+        },
+        {
+          "author": "Mehta, N., & Vannozzi, R.",
+          "title": "Lithium‐induced electrocardiographic changes: A complete review. Clinical Cardiology, 40(12), 1363–1367. (2017)",
+          "url": "https://doi.org/10.1002/clc.22822"
+        },
+        {
+          "author": "Müller-Oerlinghausen, B.",
+          "title": "Drug Interactions with Lithium: A Guide for Clinicians. CNS Drugs, 11(1), 41–48. (1999)",
+          "url": "https://doi.org/10.2165/00023210-199911010-00004"
+        },
+        {
+          "author": "Rosenberg, A. E., Wang, R., & Rosenberg, M. H.",
+          "title": "Serotonin Syndrome Associated With High-dose Diphenhydramine Use Complicating Abdominoplasty and Mastopexy. Plastic and Reconstructive Surgery - Global Open, 13(3), e6634. (2025)",
+          "url": "https://doi.org/10.1097/GOX.0000000000006634"
+        },
+        {
+          "author": "Truedson, P., Ott, M., Lindmark, K., Ström, M., Maripuu, M., Lundqvist, R., & Werneke, U.",
+          "title": "Effects of Toxic Lithium Levels on ECG—Findings from the LiSIE Retrospective Cohort Study. Journal of Clinical Medicine, 11(19), 5941. (2022)",
+          "url": "https://doi.org/10.3390/jcm11195941"
+        }
+      ],
+      "status": "Caution"
     },
     "dmt": {
       "note": "There are a large number of reports indicating a high seizure and psychosis risk from this combination.",
@@ -2156,6 +2576,42 @@
           "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
           "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
           "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+        }
+      ],
+      "status": "Dangerous"
+    },
+    "mxe": {
+      "note": "There is a risk of serotonin syndrome when combining Lithium with MXE, as Lithium can induce serotonin syndrome in conjunction with other serotonergic drugs, and MXE has shown a notable affinity for the serotonin transporter.",
+      "sources": [
+        {
+          "author": "Lenox, R. H., & Hahn, C. G.",
+          "title": "Overview of the mechanism of action of lithium in the brain: fifty-year update (2000)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10826655/"
+        },
+        {
+          "author": "Shahani, L.",
+          "title": "Venlafaxine Augmentation With Lithium Leading to Serotonin Syndrome (2012)",
+          "url": "https://doi.org/10.1176/appi.neuropsych.11080196"
+        },
+        {
+          "author": "DeBattista, C., Sofuoglu, M., & Schatzberg, A. F.",
+          "title": "Serotonergic synergism: the risks and benefits of combining the selective serotonin reuptake inhibitors with other serotonergic drugs (1998)",
+          "url": "https://doi.org/10.1016/S0006-3223(98)00161-9"
+        },
+        {
+          "author": "Massot, O.",
+          "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders (1999)",
+          "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+        },
+        {
+          "author": "Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., & Iversen, L.",
+          "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor (2013)",
+          "url": "https://doi.org/10.1371/journal.pone.0059334"
+        },
+        {
+          "author": "Marti, M., Talani, G., Miliano, C., Bilel, S., Biggio, F., Bratzu, J., Diana, M., De Luca, M. A., & Fattore, L.",
+          "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat (2021)",
+          "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
         }
       ],
       "status": "Dangerous"
@@ -2916,6 +3372,7 @@
         }
       ],
       "status": "Caution"
+    },
     "mdma": {
       "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. Stimulants also increase the neurotoxic effects of MDMA, in addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
       "sources": [
@@ -3276,6 +3733,42 @@
     },
     "ketamine": {
       "status": "Low Risk & Synergy"
+    },
+    "lithium": {
+      "note": "There is a risk of serotonin syndrome when combining Lithium with MXE, as Lithium can induce serotonin syndrome in conjunction with other serotonergic drugs, and MXE has shown a notable affinity for the serotonin transporter.",
+      "sources": [
+        {
+          "author": "Lenox, R. H., & Hahn, C. G.",
+          "title": "Overview of the mechanism of action of lithium in the brain: fifty-year update (2000)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10826655/"
+        },
+        {
+          "author": "Shahani, L.",
+          "title": "Venlafaxine Augmentation With Lithium Leading to Serotonin Syndrome (2012)",
+          "url": "https://doi.org/10.1176/appi.neuropsych.11080196"
+        },
+        {
+          "author": "DeBattista, C., Sofuoglu, M., & Schatzberg, A. F.",
+          "title": "Serotonergic synergism: the risks and benefits of combining the selective serotonin reuptake inhibitors with other serotonergic drugs (1998)",
+          "url": "https://doi.org/10.1016/S0006-3223(98)00161-9"
+        },
+        {
+          "author": "Massot, O.",
+          "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders (1999)",
+          "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+        },
+        {
+          "author": "Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., & Iversen, L.",
+          "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor (2013)",
+          "url": "https://doi.org/10.1371/journal.pone.0059334"
+        },
+        {
+          "author": "Marti, M., Talani, G., Miliano, C., Bilel, S., Biggio, F., Bratzu, J., Diana, M., De Luca, M. A., & Fattore, L.",
+          "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat (2021)",
+          "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+        }
+      ],
+      "status": "Dangerous"
     },
     "lsd": {
       "status": "Low Risk & Synergy"
@@ -3766,6 +4259,47 @@
     },
     "dextromethorphan": {
       "note": "High risk of serotonin syndrome.",
+      "status": "Dangerous"
+    },
+    "diphenhydramine": {
+      "note": "There is a high risk of serotonin syndrome at recreational dosages. Medical dosages are reported not to be a concern for the general population. The combination may increase each other's side effects, such as dizziness and drowsiness.",
+      "sources": [
+        {
+          "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M.",
+          "title": "Diphenhydramine: It is time to say a final goodbye. The World Allergy Organization Journal, 18(2), 101027 (2025)",
+          "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+        },
+        {
+          "author": "Ener, R. A., Meglathery, S. B., Decker, W. A. V., & Gallagher, R. M.",
+          "title": "Serotonin Syndrome and Other Serotonergic Disorders: Table 1. Pain Medicine, 4(1), 63-74 (2003)",
+          "url": "https://doi.org/10.1046/j.1526-4637.2003.03005.x"
+        },
+        {
+          "author": "Khan, S., Saud, S., Khan, I., Asif, M., Ismail, O., Salam, A., Yang, T. J., & Norville, K. J.",
+          "title": "Serotonin Syndrome Presenting with Concomitant Tramadol and Diphenhydramine Use: A Case Report of an Unlikely Side-Effect. Cureus, 10(4), e2421 (2018)",
+          "url": "https://doi.org/10.7759/cureus.2421"
+        },
+        {
+          "author": "Lane, R., Baldwin, D., & Preskorn, S.",
+          "title": "The SSRIs: advantages, disadvantages and differences. Journal of Psychopharmacology, 9(2 Suppl), 163-178 (1995)",
+          "url": "https://doi.org/10.1177/0269881195009002011"
+        },
+        {
+          "author": "Sproule, B. A., Naranjo, C. A., Brenmer, K. E., & Hassan, P. C.",
+          "title": "Selective serotonin reuptake inhibitors and CNS drug interactions. A critical review of the evidence. Clinical Pharmacokinetics, 33(6), 454-471 (1997)",
+          "url": "https://doi.org/10.2165/00003088-199733060-00004"
+        },
+        {
+          "author": "van Harten, J.",
+          "title": "Clinical pharmacokinetics of selective serotonin reuptake inhibitors. Clinical Pharmacokinetics, 24(3), 203-220 (1993)",
+          "url": "https://doi.org/10.2165/00003088-199324030-00003"
+        },
+        {
+          "author": "Varghese, E., Abate, M. A., Hu, L., Kaplan, J., Kraner, J., Long, D. L., Sorg, M., Mock, A., Greenwald, M., & Andrew, T.",
+          "title": "Characterization of Diphenhydramine-Related Accidental Overdose Deaths. Academic Forensic Pathology, 5(1), 105-115 (2015)",
+          "url": "https://doi.org/10.23907/2015.011"
+        }
+      ],
       "status": "Dangerous"
     },
     "dmt": {
