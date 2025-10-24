@@ -17731,6 +17731,47 @@
           }
         ],
         "status": "Caution"
+      },
+      "ssris": {
+        "note": "There is a high risk of serotonin syndrome at recreational dosages. Medical dosages are reported not to be a concern for the general population. The combination may increase each other's side effects, such as dizziness and drowsiness.",
+        "sources": [
+          {
+            "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M.",
+            "title": "Diphenhydramine: It is time to say a final goodbye. The World Allergy Organization Journal, 18(2), 101027 (2025)",
+            "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+          },
+          {
+            "author": "Ener, R. A., Meglathery, S. B., Decker, W. A. V., & Gallagher, R. M.",
+            "title": "Serotonin Syndrome and Other Serotonergic Disorders: Table 1. Pain Medicine, 4(1), 63-74 (2003)",
+            "url": "https://doi.org/10.1046/j.1526-4637.2003.03005.x"
+          },
+          {
+            "author": "Khan, S., Saud, S., Khan, I., Asif, M., Ismail, O., Salam, A., Yang, T. J., & Norville, K. J.",
+            "title": "Serotonin Syndrome Presenting with Concomitant Tramadol and Diphenhydramine Use: A Case Report of an Unlikely Side-Effect. Cureus, 10(4), e2421 (2018)",
+            "url": "https://doi.org/10.7759/cureus.2421"
+          },
+          {
+            "author": "Lane, R., Baldwin, D., & Preskorn, S.",
+            "title": "The SSRIs: advantages, disadvantages and differences. Journal of Psychopharmacology, 9(2 Suppl), 163-178 (1995)",
+            "url": "https://doi.org/10.1177/0269881195009002011"
+          },
+          {
+            "author": "Sproule, B. A., Naranjo, C. A., Brenmer, K. E., & Hassan, P. C.",
+            "title": "Selective serotonin reuptake inhibitors and CNS drug interactions. A critical review of the evidence. Clinical Pharmacokinetics, 33(6), 454-471 (1997)",
+            "url": "https://doi.org/10.2165/00003088-199733060-00004"
+          },
+          {
+            "author": "van Harten, J.",
+            "title": "Clinical pharmacokinetics of selective serotonin reuptake inhibitors. Clinical Pharmacokinetics, 24(3), 203-220 (1993)",
+            "url": "https://doi.org/10.2165/00003088-199324030-00003"
+          },
+          {
+            "author": "Varghese, E., Abate, M. A., Hu, L., Kaplan, J., Kraner, J., Long, D. L., Sorg, M., Mock, A., Greenwald, M., & Andrew, T.",
+            "title": "Characterization of Diphenhydramine-Related Accidental Overdose Deaths. Academic Forensic Pathology, 5(1), 105-115 (2015)",
+            "url": "https://doi.org/10.23907/2015.011"
+          }
+        ],
+        "status": "Dangerous"
       }
     },
     "dose_note": " NOTE: The doses provided are for recreational usage. For use as a sleep aid the dose ranges from 25-100mg, or as specified on the product packaging.",
