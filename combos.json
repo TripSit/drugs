@@ -2072,6 +2072,37 @@
       ],
       "status": "Low Risk & Decrease"
     },
+    "dextromethorphan": {
+      "note": "There is a risk of serotonin syndrome when combining Lithium with DXM.",
+      "sources": [
+        {
+          "author": "Lenox, R. H., & Hahn, C. G.",
+          "title": "Overview of the mechanism of action of lithium in the brain: fifty-year update (2000)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10826655/"
+        },
+        {
+          "author": "Shahani, L.",
+          "title": "Venlafaxine Augmentation With Lithium Leading to Serotonin Syndrome (2012)",
+          "url": "https://doi.org/10.1176/appi.neuropsych.11080196"
+        },
+        {
+          "author": "DeBattista, C., Sofuoglu, M., & Schatzberg, A. F.",
+          "title": "Serotonergic synergism: the risks and benefits of combining the selective serotonin reuptake inhibitors with other serotonergic drugs (1998)",
+          "url": "https://doi.org/10.1016/s0006-3223(98)00161-9"
+        },
+        {
+          "author": "Massot, O.",
+          "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders (1999)",
+          "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+        },
+        {
+          "author": "Navarro, A., Perry, C., & Bobo, W. V.",
+          "title": "A case of serotonin syndrome precipitated by abuse of the anticough remedy dextromethorphan in a bipolar patient treated with fluoxetine and lithium. (2006)",
+          "url": "https://doi.org/10.1016/j.genhosppsych.2005.06.008"
+        }
+      ],
+      "status": "Dangerous"
+    },
     "diphenhydramine": {
       "note": "There is a concern of serotonin syndrome at higher dosages of this combination. Caution is recommended in restricting diphenhydramine to medical dosages (25-50mg). Lithium and diphenhydramine both have concerns of QT prolongation which may be increased when taken in combination; risks increase due to a variety of factors such as the health of the user and drug dosages. Additionally, the combination may increase each drug's side effects, such as dizziness and loss of consciousness.",
       "sources": [
@@ -2137,37 +2168,6 @@
         }
       ],
       "status": "Caution"
-    },
-    "dextromethorphan": {
-      "note": "There is a risk of serotonin syndrome when combining Lithium with DXM.",
-      "sources": [
-        {
-          "author": "Lenox, R. H., & Hahn, C. G.",
-          "title": "Overview of the mechanism of action of lithium in the brain: fifty-year update (2000)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/10826655/"
-        },
-        {
-          "author": "Shahani, L.",
-          "title": "Venlafaxine Augmentation With Lithium Leading to Serotonin Syndrome (2012)",
-          "url": "https://doi.org/10.1176/appi.neuropsych.11080196"
-        },
-        {
-          "author": "DeBattista, C., Sofuoglu, M., & Schatzberg, A. F.",
-          "title": "Serotonergic synergism: the risks and benefits of combining the selective serotonin reuptake inhibitors with other serotonergic drugs (1998)",
-          "url": "https://doi.org/10.1016/s0006-3223(98)00161-9"
-        },
-        {
-          "author": "Massot, O.",
-          "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders (1999)",
-          "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
-        },
-        {
-          "author": "Navarro, A., Perry, C., & Bobo, W. V.",
-          "title": "A case of serotonin syndrome precipitated by abuse of the anticough remedy dextromethorphan in a bipolar patient treated with fluoxetine and lithium. (2006)",
-          "url": "https://doi.org/10.1016/j.genhosppsych.2005.06.008"
-        }
-      ],
-      "status": "Dangerous"
     },
     "dmt": {
       "note": "There are a large number of reports indicating a high seizure and psychosis risk from this combination.",
