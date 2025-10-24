@@ -1097,6 +1097,62 @@
       "note": "Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues",
       "status": "Unsafe"
     },
+    "diphenhydramine": {
+      "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If the stimulant wears off first recreational dosages of dph may overcome the individual and cause respiratory arrest. Both substances at recreational dosages cause strain of the heart and may lead to further dangerous heart complications. There is a suspected mechanism of increased reinforcement caused by the combination, and greater risk of methemoglobinemia when higher dosages of DPH are combined with cocaine.",
+      "sources": [
+        {
+          "author": "Alanazi, M. Q.",
+          "title": "Drugs may be Induced Methemoglobinemia. Journal of Hematology & Thromboembolic Diseases, 06(01). (2017)",
+          "url": "https://doi.org/10.4172/2329-8790.1000270"
+        },
+        {
+          "author": "Banks, M. L., Andersen, M. L., Murnane, K. S., Meyer, R. C., & Howell, L. L.",
+          "title": "Behavioral and neurochemical effects of cocaine and diphenhydramine combinations in rhesus monkeys. Psychopharmacology, 205(3), 467–474. (2009)",
+          "url": "https://doi.org/10.1007/s00213-009-1555-y"
+        },
+        {
+          "author": "chrisn",
+          "title": "Diphenhydramine [Online post]. Drug-Forum. (2021)",
+          "url": "https://drugs-forum.com/wiki/Diphenhydramine"
+        },
+        {
+          "author": "Eshmandi, M., Mohamed, A., Khalil, B., & Belhaj, A.",
+          "title": "Methaemoglobinaemia Associated With Mixed Cocaine and Amphetamine Overdose: A Case Report. Cureus, 16(1), e51748. (2024)",
+          "url": "https://doi.org/10.7759/cureus.51748"
+        },
+        {
+          "author": "Pennefather, J. N.",
+          "title": "The effects pf cocaine and diphenhydramine upon the reactivity of rat vas deferens to supramaximal doses of noradrenaline and of other agonists: The mode of action of cocaine. European Journal of Pharmacology, 35(2), 333–339. (1976)",
+          "url": "https://doi.org/10.1016/0014-2999(76)90236-3"
+        },
+        {
+          "author": "Pergolizzi, J. V., Magnusson, P., LeQuang, J. A. K., Breve, F., & Varrassi, G.",
+          "title": "Cocaine and Cardiotoxicity: A Literature Review. Cureus, 13(4), e14594. (2021)",
+          "url": "https://doi.org/10.7759/cureus.14594"
+        },
+        {
+          "author": "Sicari, V., Patel, P., & Zabbo, C. P.",
+          "title": "Diphenhydramine. In StatPearls. StatPearls Publishing. (2025)",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+        },
+        {
+          "author": "Wang, Z., & Woolverton, W. L.",
+          "title": "Self-administration of cocaine-antihistamine combinations: Super-additive reinforcing effects. European Journal of Pharmacology, 557(2–3), 159–160. (2007)",
+          "url": "https://doi.org/10.1016/j.ejphar.2006.11.056"
+        },
+        {
+          "author": "Wang, Z., & Woolverton, W. L.",
+          "title": "Super-additive interaction of the reinforcing effects of cocaine and H1-antihistamines in rhesus monkeys. Pharmacology Biochemistry and Behavior, 91(4), 590–595. (2009)",
+          "url": "https://doi.org/10.1016/j.pbb.2008.09.013"
+        },
+        {
+          "author": "Weichert, I.",
+          "title": "Acute Management of Cocaine-Associated Methaemoglobinaemia. Case Reports in Medicine, 2011, 1–3. (2011)",
+          "url": "https://doi.org/10.1155/2011/136396"
+        }
+      ],
+      "status": "Caution"
+    },
     "dmt": {
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
@@ -1419,6 +1475,62 @@
     }
   },
   "diphenhydramine": {
+    "cocaine": {
+      "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If the stimulant wears off first recreational dosages of dph may overcome the individual and cause respiratory arrest. Both substances at recreational dosages cause strain of the heart and may lead to further dangerous heart complications. There is a suspected mechanism of increased reinforcement caused by the combination, and greater risk of methemoglobinemia when higher dosages of DPH are combined with cocaine.",
+      "sources": [
+        {
+          "author": "Alanazi, M. Q.",
+          "title": "Drugs may be Induced Methemoglobinemia. Journal of Hematology & Thromboembolic Diseases, 06(01). (2017)",
+          "url": "https://doi.org/10.4172/2329-8790.1000270"
+        },
+        {
+          "author": "Banks, M. L., Andersen, M. L., Murnane, K. S., Meyer, R. C., & Howell, L. L.",
+          "title": "Behavioral and neurochemical effects of cocaine and diphenhydramine combinations in rhesus monkeys. Psychopharmacology, 205(3), 467–474. (2009)",
+          "url": "https://doi.org/10.1007/s00213-009-1555-y"
+        },
+        {
+          "author": "chrisn",
+          "title": "Diphenhydramine [Online post]. Drug-Forum. (2021)",
+          "url": "https://drugs-forum.com/wiki/Diphenhydramine"
+        },
+        {
+          "author": "Eshmandi, M., Mohamed, A., Khalil, B., & Belhaj, A.",
+          "title": "Methaemoglobinaemia Associated With Mixed Cocaine and Amphetamine Overdose: A Case Report. Cureus, 16(1), e51748. (2024)",
+          "url": "https://doi.org/10.7759/cureus.51748"
+        },
+        {
+          "author": "Pennefather, J. N.",
+          "title": "The effects pf cocaine and diphenhydramine upon the reactivity of rat vas deferens to supramaximal doses of noradrenaline and of other agonists: The mode of action of cocaine. European Journal of Pharmacology, 35(2), 333–339. (1976)",
+          "url": "https://doi.org/10.1016/0014-2999(76)90236-3"
+        },
+        {
+          "author": "Pergolizzi, J. V., Magnusson, P., LeQuang, J. A. K., Breve, F., & Varrassi, G.",
+          "title": "Cocaine and Cardiotoxicity: A Literature Review. Cureus, 13(4), e14594. (2021)",
+          "url": "https://doi.org/10.7759/cureus.14594"
+        },
+        {
+          "author": "Sicari, V., Patel, P., & Zabbo, C. P.",
+          "title": "Diphenhydramine. In StatPearls. StatPearls Publishing. (2025)",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+        },
+        {
+          "author": "Wang, Z., & Woolverton, W. L.",
+          "title": "Self-administration of cocaine-antihistamine combinations: Super-additive reinforcing effects. European Journal of Pharmacology, 557(2–3), 159–160. (2007)",
+          "url": "https://doi.org/10.1016/j.ejphar.2006.11.056"
+        },
+        {
+          "author": "Wang, Z., & Woolverton, W. L.",
+          "title": "Super-additive interaction of the reinforcing effects of cocaine and H1-antihistamines in rhesus monkeys. Pharmacology Biochemistry and Behavior, 91(4), 590–595. (2009)",
+          "url": "https://doi.org/10.1016/j.pbb.2008.09.013"
+        },
+        {
+          "author": "Weichert, I.",
+          "title": "Acute Management of Cocaine-Associated Methaemoglobinaemia. Case Reports in Medicine, 2011, 1–3. (2011)",
+          "url": "https://doi.org/10.1155/2011/136396"
+        }
+      ],
+      "status": "Caution"
+    },
     "ghb/gbl": {
       "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
       "sources": [
