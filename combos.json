@@ -388,6 +388,37 @@
       "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Additionally, CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
       "status": "Dangerous"
     },
+    "diphenhydramine": {
+      "note": "The two substances potentiate each other strongly and unpredictably, and may rapidly lead to unconsciousness. They both increase each other's side effects such as ataxia, sedation, and CNS depression. Blackouts and memory loss are significantly increased. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. Alcohol may also increase the deliriant effects of diphenhydramine. It should also be noted if the individual consuming alcohol typically has a flushing response to alcohol, diphenhydramine may reduce the reaction and mask some of the effects of the alcohol.",
+      "sources": [
+        {
+          "author": "ScienceDirect",
+          "title": "Diphenhydramine - an overview (2024)",
+          "url": "https://www.sciencedirect.com/topics/chemistry/diphenhydramine"
+        },
+        {
+          "author": "ScienceDirect",
+          "title": "Ethanol - an overview (2024)",
+          "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/ethanol"
+        },
+        {
+          "author": "Miller, N. S., Goodwin, D. W., Jones, F. C., Gabrielli, W. F., Pardo, M. P., Anand, M. M., & Hall, T. B.",
+          "title": "Antihistamine blockade of alcohol-induced flushing in orientals. Journal of Studies on Alcohol, 49(1), 16-20 (1988)",
+          "url": "https://doi.org/10.15288/jsa.1988.49.16"
+        },
+        {
+          "author": "Sicari, V., & Zabbo, C. P.",
+          "title": "Diphenhydramine. In StatPearls. StatPearls Publishing (2024)",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+        },
+        {
+          "author": "Weathermon, R., & Crabb, D. W.",
+          "title": "Alcohol and Medication Interactions. Alcohol Research & Health, 23(1), 40-54 (1999)",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6761694/"
+        }
+      ],
+      "status": "Dangerous"
+    },
     "dmt": {
       "status": "Low Risk & Decrease"
     },
@@ -1485,6 +1516,37 @@
     }
   },
   "diphenhydramine": {
+    "alcohol": {
+      "note": "The two substances potentiate each other strongly and unpredictably, and may rapidly lead to unconsciousness. They both increase each other's side effects such as ataxia, sedation, and CNS depression. Blackouts and memory loss are significantly increased. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. Alcohol may also increase the deliriant effects of diphenhydramine. It should also be noted if the individual consuming alcohol typically has a flushing response to alcohol, diphenhydramine may reduce the reaction and mask some of the effects of the alcohol.",
+      "sources": [
+        {
+          "author": "ScienceDirect",
+          "title": "Diphenhydramine - an overview (2024)",
+          "url": "https://www.sciencedirect.com/topics/chemistry/diphenhydramine"
+        },
+        {
+          "author": "ScienceDirect",
+          "title": "Ethanol - an overview (2024)",
+          "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/ethanol"
+        },
+        {
+          "author": "Miller, N. S., Goodwin, D. W., Jones, F. C., Gabrielli, W. F., Pardo, M. P., Anand, M. M., & Hall, T. B.",
+          "title": "Antihistamine blockade of alcohol-induced flushing in orientals. Journal of Studies on Alcohol, 49(1), 16-20 (1988)",
+          "url": "https://doi.org/10.15288/jsa.1988.49.16"
+        },
+        {
+          "author": "Sicari, V., & Zabbo, C. P.",
+          "title": "Diphenhydramine. In StatPearls. StatPearls Publishing (2024)",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+        },
+        {
+          "author": "Weathermon, R., & Crabb, D. W.",
+          "title": "Alcohol and Medication Interactions. Alcohol Research & Health, 23(1), 40-54 (1999)",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6761694/"
+        }
+      ],
+      "status": "Dangerous"
+    },
     "cocaine": {
       "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If cocaine wears off first, recreational dosages of DPH may overcome the individual and cause respiratory arrest. Both substances at recreational dosages strain the heart and may lead to further dangerous heart complications. When taken together, both substances can potentially be more reinforcing and have greater risk of methemoglobinemia when higher dosages of DPH are combined with cocaine.",
       "sources": [
