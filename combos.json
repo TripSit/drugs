@@ -2236,6 +2236,57 @@
       "note": "Large amounts of GHB/GBL may overwhelm the effects of MDMA on the comedown.",
       "status": "Caution"
     },
+    "mephedrone": {
+      "note": "Both can dull each other's effects, so if one wears off before the other it's possible to overdose due to the lack of counteraction. Both substances affect the heart and may lead to further dangerous heart complications at higher dosages. Additionally, the combination may increase the negative side effects of each other.",
+      "sources": [
+        {
+          "author": "Aromatario, M., Bottoni, E., Santoni, M., & Ciallella, C.",
+          "title": "New \"Lethal highs\": A case of a deadly cocktail of GHB and Mephedrone. Forensic Science International, 223(1), e38–e41 (2012)",
+          "url": "https://doi.org/10.1016/j.forsciint.2012.09.014"
+        },
+        {
+          "author": "Drugs.ie",
+          "title": "Drug Combinations \"Mixing Drugs\" - Drug and Alcohol Information and Support in Ireland (2025)",
+          "url": "https://www.drugs.ie/drugs_info/about_drugs/poly_drug_use1/"
+        },
+        {
+          "author": "Felmlee, M. A., Morse, B. L., & Morris, M. E.",
+          "title": "γ-Hydroxybutyric Acid: Pharmacokinetics, Pharmacodynamics, and Toxicology. The AAPS Journal, 23(1), 22 (2021)",
+          "url": "https://doi.org/10.1208/s12248-020-00543-z"
+        },
+        {
+          "author": "Galicia, M., Nogue, S., & Miró, O.",
+          "title": "Liquid ecstasy intoxication: clinical features of 505 consecutive emergency department patients. Emergency Medicine Journal: EMJ, 28(6), 462–466 (2011)",
+          "url": "https://doi.org/10.1136/emj.2008.068403"
+        },
+        {
+          "author": "Kehr, J., Ichinose, F., Yoshitake, S., Goiny, M., Sievertsson, T., Nyberg, F., & Yoshitake, T.",
+          "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats. British Journal of Pharmacology, 164(8), 1949–1958 (2011)",
+          "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+        },
+        {
+          "author": "Kozina, L., Grizelj Benussi, M., & Sutara, N.",
+          "title": "Novel Psychoactive Substances – GHB- and Mephedrone-Induced Delirium Treated with Olanzapine: A Case Report and Literature Review. Medicina Fluminensis, 61(3), 318–326 (2025)",
+          "url": "https://doi.org/10.21860/medflum2025_332196"
+        },
+        {
+          "author": "Mayer, F. P., Niello, M., Bulling, S., Zhang, Y.-W., Li, Y., Kudlacek, O., Holy, M., Kooti, F., Sandtner, W., Rudnick, G., Schmid, D., & Sitte, H. H.",
+          "title": "Mephedrone induces partial release at human dopamine transporters but full release at human serotonin transporters. Neuropharmacology, 240, 109704 (2023)",
+          "url": "https://doi.org/10.1016/j.neuropharm.2023.109704"
+        },
+        {
+          "author": "Papaseit, E., Moltó, J., Muga, R., Torrens, M., de la Torre, R., & Farré, M.",
+          "title": "Clinical Pharmacology of the Synthetic Cathinone Mephedrone. Neuropharmacology of New Psychoactive Substances (NPS): The Science Behind the Headlines, pp. 313–31 (2017)",
+          "url": "https://doi.org/10.1007/7854_2016_61"
+        },
+        {
+          "author": "Wood, D. M., Davies, S., Greene, S. L., Button, J., Holt, D. W., Ramsey, J., & Dargan, P. I.",
+          "title": "Case series of individuals with analytically confirmed acute mephedrone toxicity. Clinical Toxicology, 48(9), 924–927 (2010)",
+          "url": "https://doi.org/10.3109/15563650.2010.531021"
+        }
+      ],
+      "status": "Caution"
+    },
     "mescaline": {
       "status": "Low Risk & Decrease"
     },
@@ -3547,6 +3598,57 @@
         }
       ],
       "status": "Dangerous"
+    },
+    "ghb/gbl": {
+      "note": "Both can dull each other's effects, so if one wears off before the other it's possible to overdose due to the lack of counteraction. Both substances affect the heart and may lead to further dangerous heart complications at higher dosages. Additionally, the combination may increase the negative side effects of each other.",
+      "sources": [
+        {
+          "author": "Aromatario, M., Bottoni, E., Santoni, M., & Ciallella, C.",
+          "title": "New \"Lethal highs\": A case of a deadly cocktail of GHB and Mephedrone. Forensic Science International, 223(1), e38–e41 (2012)",
+          "url": "https://doi.org/10.1016/j.forsciint.2012.09.014"
+        },
+        {
+          "author": "Drugs.ie",
+          "title": "Drug Combinations \"Mixing Drugs\" - Drug and Alcohol Information and Support in Ireland (2025)",
+          "url": "https://www.drugs.ie/drugs_info/about_drugs/poly_drug_use1/"
+        },
+        {
+          "author": "Felmlee, M. A., Morse, B. L., & Morris, M. E.",
+          "title": "γ-Hydroxybutyric Acid: Pharmacokinetics, Pharmacodynamics, and Toxicology. The AAPS Journal, 23(1), 22 (2021)",
+          "url": "https://doi.org/10.1208/s12248-020-00543-z"
+        },
+        {
+          "author": "Galicia, M., Nogue, S., & Miró, O.",
+          "title": "Liquid ecstasy intoxication: clinical features of 505 consecutive emergency department patients. Emergency Medicine Journal: EMJ, 28(6), 462–466 (2011)",
+          "url": "https://doi.org/10.1136/emj.2008.068403"
+        },
+        {
+          "author": "Kehr, J., Ichinose, F., Yoshitake, S., Goiny, M., Sievertsson, T., Nyberg, F., & Yoshitake, T.",
+          "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats. British Journal of Pharmacology, 164(8), 1949–1958 (2011)",
+          "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+        },
+        {
+          "author": "Kozina, L., Grizelj Benussi, M., & Sutara, N.",
+          "title": "Novel Psychoactive Substances – GHB- and Mephedrone-Induced Delirium Treated with Olanzapine: A Case Report and Literature Review. Medicina Fluminensis, 61(3), 318–326 (2025)",
+          "url": "https://doi.org/10.21860/medflum2025_332196"
+        },
+        {
+          "author": "Mayer, F. P., Niello, M., Bulling, S., Zhang, Y.-W., Li, Y., Kudlacek, O., Holy, M., Kooti, F., Sandtner, W., Rudnick, G., Schmid, D., & Sitte, H. H.",
+          "title": "Mephedrone induces partial release at human dopamine transporters but full release at human serotonin transporters. Neuropharmacology, 240, 109704 (2023)",
+          "url": "https://doi.org/10.1016/j.neuropharm.2023.109704"
+        },
+        {
+          "author": "Papaseit, E., Moltó, J., Muga, R., Torrens, M., de la Torre, R., & Farré, M.",
+          "title": "Clinical Pharmacology of the Synthetic Cathinone Mephedrone. Neuropharmacology of New Psychoactive Substances (NPS): The Science Behind the Headlines, pp. 313–331 (2017)",
+          "url": "https://doi.org/10.1007/7854_2016_61"
+        },
+        {
+          "author": "Wood, D. M., Davies, S., Greene, S. L., Button, J., Holt, D. W., Ramsey, J., & Dargan, P. I.",
+          "title": "Case series of individuals with analytically confirmed acute mephedrone toxicity. Clinical Toxicology, 48(9), 924–927 (2010)",
+          "url": "https://doi.org/10.3109/15563650.2010.531021"
+        }
+      ],
+      "status": "Caution"
     },
     "lsd": {
       "note": "The anxiogenic and focusing effects of stimulants increase the chance of unpleasant thought loops, in addition to the possible negative side effects of coming down from said stimulant while on a psychedelic. In extreme cases, stimulants, especially in combination can result in severe vasoconstriction, tachycardia, hypertension, and heart failure. (open to this sentence getting adjusted)",
