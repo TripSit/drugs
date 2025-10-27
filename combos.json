@@ -541,6 +541,57 @@
       "note": "Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues.",
       "status": "Unsafe"
     },
+    "diphenhydramine": {
+      "note": "Amphetamines as a stimulant may mask some of the negative side effects of DPH, leading to delusions of sobriety which is concerning in states of delirium. The combination of stimulants will increase strain on the heart and may cause physical discomfort and potentially life-threatening cardiovascular issues. The combination may also increase each other's neurotoxicity at higher dosages, raise anxiety and the risk of thought loops, and potentiate negative side effects. Medical and common dosages of each substance are reported not to be a concern. DPH may potentiate amphetamine psychomotor activation and interact via CYP2D6 inhibition and histamine H1/H2 receptor effects.",
+      "sources": [
+        {
+          "author": "Berman, S. M.; Kuczenski, R.; McCracken, J. T.; London, E. D.",
+          "title": "Potential adverse effects of amphetamine treatment on brain and behavior: a review. Molecular Psychiatry, 14(2), 123–142 (2009)",
+          "url": "https://doi.org/10.1038/mp.2008.90"
+        },
+        {
+          "author": "Clark, J. H.; Meltzer, E. O.; Naclerio, R. M.",
+          "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027 (2025)",
+          "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+        },
+        {
+          "author": "Martin, D.; Le, J. K.",
+          "title": "Amphetamine. In StatPearls. StatPearls Publishing (2025)",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK556103/"
+        },
+        {
+          "author": "McAtee, K. J.; Brillhart, D.; Barbuto, A. F.; Hiller, H. M.",
+          "title": "Wide complex tachycardia secondary to massive diphenhydramine overdose: a case report. Journal of Emergency and Critical Care Medicine, 6 (2022)",
+          "url": "https://doi.org/10.21037/jeccm-21-33"
+        },
+        {
+          "author": "Mohs, R. C.; Tinklenberg, J. R.; Roth, W. T.; Kopell, B. S.",
+          "title": "Methamphetamine and diphenhydramine effects on the rate of cognitive processing. Psychopharmacology (1978)",
+          "url": "https://doi.org/10.1007/BF00428024"
+        },
+        {
+          "author": "Okuda, T.; Ito, Y.; Nakagawa, N.; Hishinuma, T.; Tsukamoto, H.; Iwabuchi, K.; Watanabe, T.; Kitaichi, K.; Goto, J.; Yanai, K.",
+          "title": "Drug interaction between methamphetamine and antihistamines: behavioral changes and tissue concentrations of methamphetamine in rats. European Journal of Pharmacology, 505(1), 135–144 (2004)",
+          "url": "https://doi.org/10.1016/j.ejphar.2004.10.022"
+        },
+        {
+          "author": "Sicari, V.; Patel, P.; Zabbo, C. P.",
+          "title": "Diphenhydramine. In StatPearls. StatPearls Publishing (2025)",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+        },
+        {
+          "author": "Steinkellner, T.; Freissmuth, M.; Sitte, H. H.; Montgomery, T.",
+          "title": "The ugly side of amphetamines: short- and long-term toxicity of MDMA, methamphetamine and d-amphetamine. Biological Chemistry, 392(0) (2011)",
+          "url": "https://doi.org/10.1515/BC.2011.016"
+        },
+        {
+          "author": "Vasan, S.; Murray, B. P.; Olango, G. J.",
+          "title": "Amphetamine Toxicity. In StatPearls. StatPearls Publishing (2025)",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK470276/"
+        }
+      ],
+      "status": "Caution"
+    },
     "dmt": {
       "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
       "status": "Caution"
@@ -1546,6 +1597,57 @@
         }
       ],
       "status": "Dangerous"
+    },
+    "amphetamines": {
+      "note": "Amphetamines as a stimulant may mask some of the negative side effects of DPH, leading to delusions of sobriety which is concerning in states of delirium. The combination of stimulants will increase strain on the heart and may cause physical discomfort and potentially life-threatening cardiovascular issues. The combination may also increase each other's neurotoxicity at higher dosages, raise anxiety and the risk of thought loops, and potentiate negative side effects. Medical and common dosages of each substance are reported not to be a concern. DPH may potentiate amphetamine psychomotor activation and interact via CYP2D6 inhibition and histamine H1/H2 receptor effects.",
+      "sources": [
+        {
+          "author": "Berman, S. M.; Kuczenski, R.; McCracken, J. T.; London, E. D.",
+          "title": "Potential adverse effects of amphetamine treatment on brain and behavior: a review. Molecular Psychiatry, 14(2), 123–142 (2009)",
+          "url": "https://doi.org/10.1038/mp.2008.90"
+        },
+        {
+          "author": "Clark, J. H.; Meltzer, E. O.; Naclerio, R. M.",
+          "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027 (2025)",
+          "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+        },
+        {
+          "author": "Martin, D.; Le, J. K.",
+          "title": "Amphetamine. In StatPearls. StatPearls Publishing (2025)",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK556103/"
+        },
+        {
+          "author": "McAtee, K. J.; Brillhart, D.; Barbuto, A. F.; Hiller, H. M.",
+          "title": "Wide complex tachycardia secondary to massive diphenhydramine overdose: a case report. Journal of Emergency and Critical Care Medicine, 6 (2022)",
+          "url": "https://doi.org/10.21037/jeccm-21-33"
+        },
+        {
+          "author": "Mohs, R. C.; Tinklenberg, J. R.; Roth, W. T.; Kopell, B. S.",
+          "title": "Methamphetamine and diphenhydramine effects on the rate of cognitive processing. Psychopharmacology (1978)",
+          "url": "https://doi.org/10.1007/BF00428024"
+        },
+        {
+          "author": "Okuda, T.; Ito, Y.; Nakagawa, N.; Hishinuma, T.; Tsukamoto, H.; Iwabuchi, K.; Watanabe, T.; Kitaichi, K.; Goto, J.; Yanai, K.",
+          "title": "Drug interaction between methamphetamine and antihistamines: behavioral changes and tissue concentrations of methamphetamine in rats. European Journal of Pharmacology, 505(1), 135–144 (2004)",
+          "url": "https://doi.org/10.1016/j.ejphar.2004.10.022"
+        },
+        {
+          "author": "Sicari, V.; Patel, P.; Zabbo, C. P.",
+          "title": "Diphenhydramine. In StatPearls. StatPearls Publishing (2025)",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+        },
+        {
+          "author": "Steinkellner, T.; Freissmuth, M.; Sitte, H. H.; Montgomery, T.",
+          "title": "The ugly side of amphetamines: short- and long-term toxicity of MDMA, methamphetamine and d-amphetamine. Biological Chemistry, 392(0) (2011)",
+          "url": "https://doi.org/10.1515/BC.2011.016"
+        },
+        {
+          "author": "Vasan, S.; Murray, B. P.; Olango, G. J.",
+          "title": "Amphetamine Toxicity. In StatPearls. StatPearls Publishing (2025)",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK470276/"
+        }
+      ],
+      "status": "Caution"
     },
     "cocaine": {
       "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If cocaine wears off first, recreational dosages of DPH may overcome the individual and cause respiratory arrest. Both substances at recreational dosages strain the heart and may lead to further dangerous heart complications. When taken together, both substances can potentially be more reinforcing and have greater risk of methemoglobinemia when higher dosages of DPH are combined with cocaine.",
