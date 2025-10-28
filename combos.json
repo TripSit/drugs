@@ -3871,6 +3871,42 @@
       ],
       "status": "Dangerous"
     },
+    "opioids": {
+      "note": "Stimulants increase respiration rate allowing a higher dose of opiates. If the stimulant wears off first then the opiate may overcome the patient and cause respiratory arrest.",
+      "sources": [
+        {
+          "author": "Cohen, B., Ruth, L. J., & Preuss, C. V. (2025)",
+          "title": "Opioid Analgesics. In StatPearls.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK459161/"
+        },
+        {
+          "author": "Dargan, P. I., Sedefov, R., Gallegos, A., & Wood, D. M. (2011)",
+          "title": "The pharmacology and toxicology of the synthetic cathinone mephedrone (4‐methylmethcathinone). Drug Testing and Analysis, 3(7–8), 454–463.",
+          "url": "https://doi.org/10.1002/dta.312"
+        },
+        {
+          "author": "Hadlock, G. C., Webb, K. M., McFadden, L. M., Chu, P. W., Ellis, J. D., Allen, S. C., Andrenyak, D. M., Vieira-Brock, P. L., German, C. L., Conrad, K. M., Hoonakker, A. J., Gibb, J. W., Wilkins, D. G., Hanson, G. R., & Fleckenstein, A. E. (2011)",
+          "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse. The Journal of Pharmacology and Experimental Therapeutics, 339(2), 530–536.",
+          "url": "https://doi.org/10.1124/jpet.111.184119"
+        },
+        {
+          "author": "Kehr, J., Ichinose, F., Yoshitake, S., Goiny, M., Sievertsson, T., Nyberg, F., & Yoshitake, T. (2011)",
+          "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats: Mephedrone increases both DA and 5-HT in rat brain. British Journal of Pharmacology, 164(8), 1949–1958.",
+          "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+        },
+        {
+          "author": "Meng, H., Cao, J., Kang, J., Ying, X., Ji, J., Reynolds, W., & Rampe, D. (2012)",
+          "title": "Mephedrone, a new designer drug of abuse, produces acute hemodynamic effects in the rat. Toxicology Letters, 208(1), 62–68.",
+          "url": "https://doi.org/10.1016/j.toxlet.2011.10.010"
+        },
+        {
+          "author": "Pathan, H., & Williams, J. (2012)",
+          "title": "Basic opioid pharmacology: an update. British Journal of Pain, 6(1), 11–16.",
+          "url": "https://doi.org/10.1177/2049463712438493"
+        }
+      ],
+      "status": "Caution"
+    },
     "tramadol": {
       "note": "There is a high risk of serotonin syndrome and seizures at recreational dosages. Both substances affect the heart and may lead to further dangerous heart complications at higher dosages. Both can dull each other's effects, so if one wears off before the other it's possible to overdose due to the lack of counteraction. The combination may increase each other's side effects, such as dizziness and drowsiness. At higher dosages, the combination may increase each other’s side effects, such as delirium, mania, and psychosis.",
       "sources": [
@@ -4594,6 +4630,42 @@
     },
     "mdma": {
       "status": "Low Risk & No Synergy"
+    },
+    "mephedrone": {
+      "note": "Stimulants increase respiration rate allowing a higher dose of opiates. If the stimulant wears off first then the opiate may overcome the patient and cause respiratory arrest.",
+      "sources": [
+        {
+          "author": "Cohen, B., Ruth, L. J., & Preuss, C. V. (2025)",
+          "title": "Opioid Analgesics. In StatPearls.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK459161/"
+        },
+        {
+          "author": "Dargan, P. I., Sedefov, R., Gallegos, A., & Wood, D. M. (2011)",
+          "title": "The pharmacology and toxicology of the synthetic cathinone mephedrone (4‐methylmethcathinone). Drug Testing and Analysis, 3(7–8), 454–463.",
+          "url": "https://doi.org/10.1002/dta.312"
+        },
+        {
+          "author": "Hadlock, G. C., Webb, K. M., McFadden, L. M., Chu, P. W., Ellis, J. D., Allen, S. C., Andrenyak, D. M., Vieira-Brock, P. L., German, C. L., Conrad, K. M., Hoonakker, A. J., Gibb, J. W., Wilkins, D. G., Hanson, G. R., & Fleckenstein, A. E. (2011)",
+          "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse. The Journal of Pharmacology and Experimental Therapeutics, 339(2), 530–536.",
+          "url": "https://doi.org/10.1124/jpet.111.184119"
+        },
+        {
+          "author": "Kehr, J., Ichinose, F., Yoshitake, S., Goiny, M., Sievertsson, T., Nyberg, F., & Yoshitake, T. (2011)",
+          "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats: Mephedrone increases both DA and 5-HT in rat brain. British Journal of Pharmacology, 164(8), 1949–1958.",
+          "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+        },
+        {
+          "author": "Meng, H., Cao, J., Kang, J., Ying, X., Ji, J., Reynolds, W., & Rampe, D. (2012)",
+          "title": "Mephedrone, a new designer drug of abuse, produces acute hemodynamic effects in the rat. Toxicology Letters, 208(1), 62–68.",
+          "url": "https://doi.org/10.1016/j.toxlet.2011.10.010"
+        },
+        {
+          "author": "Pathan, H., & Williams, J. (2012)",
+          "title": "Basic opioid pharmacology: an update. British Journal of Pain, 6(1), 11–16.",
+          "url": "https://doi.org/10.1177/2049463712438493"
+        }
+      ],
+      "status": "Caution"
     },
     "mescaline": {
       "status": "Low Risk & No Synergy"
