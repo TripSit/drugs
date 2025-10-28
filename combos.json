@@ -2150,6 +2150,32 @@
       "note": "The combined stimulating effects of the two can be uncomfortable. Coming down on the MDMA while the DOx is still active can be quite anxiogenic. ",
       "status": "Caution"
     },
+    "mephedrone": {
+      "note": "The anxiogenic and focusing effects of stimulants increase the chance of unpleasant thought loops, in addition to the possible negative side effects of coming down from said stimulant while on a psychedelic. In extreme cases, stimulants, especially in combination can result in severe vasoconstriction, tachycardia, hypertension, and heart failure.",
+      "sources": [
+        {
+          "author": "ScienceDirect Topics (n.d.)",
+          "title": "2,5-Dimethoxy-4-iodoamphetamine - an overview",
+          "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/2-5-dimethoxy-4-iodoamphetamine"
+        },
+        {
+          "author": "Dargan, P. I., Sedefov, R., Gallegos, A., & Wood, D. M. (2011)",
+          "title": "The pharmacology and toxicology of the synthetic cathinone mephedrone (4‐methylmethcathinone). Drug Testing and Analysis, 3(7–8), 454–463",
+          "url": "https://doi.org/10.1002/dta.312"
+        },
+        {
+          "author": "Kehr, J., Ichinose, F., Yoshitake, S., Goiny, M., Sievertsson, T., Nyberg, F., & Yoshitake, T. (2011)",
+          "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats: Mephedrone increases both DA and 5-HT in rat brain. British Journal of Pharmacology, 164(8), 1949–1958",
+          "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+        },
+        {
+          "author": "Trout, K., & Daley, P. F. (2024)",
+          "title": "The origin of 2,5‐dimethoxy‐4‐methylamphetamine (DOM, STP). Drug Testing and Analysis, 16(12), 1496–1508",
+          "url": "https://doi.org/10.1002/dta.3667"
+        }
+      ],
+      "status": "Caution"
+    },
     "mescaline": {
       "status": "Caution"
     },
@@ -2180,32 +2206,6 @@
     "tramadol": {
       "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
       "status": "Unsafe"
-    },
-    "mephedrone": {
-      "note": "The anxiogenic and focusing effects of stimulants increase the chance of unpleasant thought loops, in addition to the possible negative side effects of coming down from said stimulant while on a psychedelic. In extreme cases, stimulants, especially in combination can result in severe vasoconstriction, tachycardia, hypertension, and heart failure.",
-      "sources": [
-        {
-          "author": "ScienceDirect Topics (n.d.)",
-          "title": "2,5-Dimethoxy-4-iodoamphetamine - an overview",
-          "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/2-5-dimethoxy-4-iodoamphetamine"
-        },
-        {
-          "author": "Dargan, P. I., Sedefov, R., Gallegos, A., & Wood, D. M. (2011)",
-          "title": "The pharmacology and toxicology of the synthetic cathinone mephedrone (4‐methylmethcathinone). Drug Testing and Analysis, 3(7–8), 454–463",
-          "url": "https://doi.org/10.1002/dta.312"
-        },
-        {
-          "author": "Kehr, J., Ichinose, F., Yoshitake, S., Goiny, M., Sievertsson, T., Nyberg, F., & Yoshitake, T. (2011)",
-          "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats: Mephedrone increases both DA and 5-HT in rat brain. British Journal of Pharmacology, 164(8), 1949–1958",
-          "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
-        },
-        {
-          "author": "Trout, K., & Daley, P. F. (2024)",
-          "title": "The origin of 2,5‐dimethoxy‐4‐methylamphetamine (DOM, STP). Drug Testing and Analysis, 16(12), 1496–1508",
-          "url": "https://doi.org/10.1002/dta.3667"
-        }
-      ],
-      "status": "Caution"
     }
   },
   "ghb/gbl": {
