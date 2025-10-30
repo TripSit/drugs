@@ -1111,6 +1111,32 @@
     "pcp": {
       "status": "Low Risk & Synergy"
     },
+    "pregabalin": {
+      "note": "Both substances may increase each other's side effects, such as sedation, lowered blood pressure, and raised heart rate.",
+      "sources": [
+        {
+          "author": "Balachandran, P., Elsohly, M., & Hill, K. P.",
+          "title": "Cannabidiol Interactions with Medications, Illicit Substances, and Alcohol: a Comprehensive Review (2021)",
+          "url": "https://doi.org/10.1007/s11606-020-06504-8"
+        },
+        {
+          "author": "Klein, T. A., & Clark, C. S.",
+          "title": "Therapeutic use of cannabis in the US. The Nurse Practitioner, 47(12) (2022)",
+          "url": "https://doi.org/10.1097/01.NPR.0000884880.81603.c5"
+        },
+        {
+          "author": "Lile, J. A., Alcorn, J. L., Hays, L. R., Kelly, T. H., Stoops, W. W., Wesley, M. J., & Westgate, P. M.",
+          "title": "Influence of Pregabalin Maintenance on Cannabis Effects and Related Behaviors in Daily Cannabis Users. Experimental and Clinical Psychopharmacology, 30(5) (2022)",
+          "url": "https://doi.org/10.1037/pha0000464"
+        },
+        {
+          "author": "Vázquez, M., Guevara, N., Maldonado, C., Guido, P. C., & Schaiquevich, P.",
+          "title": "Potential Pharmacokinetic Drug‐Drug Interactions between Cannabinoids and Drugs Used for Chronic Pain (2020)",
+          "url": "https://doi.org/10.1155/2020/3902740"
+        }
+      ],
+      "status": "Low Risk & Synergy"
+    },
     "ssris": {
       "status": "Low Risk & No Synergy"
     },
@@ -4787,6 +4813,34 @@
     },
     "tramadol": {
       "status": "Dangerous"
+    }
+  },
+  "pregabalin": {
+    "cannabis": {
+      "note": "Both substances may increase each other's side effects, such as sedation, lowered blood pressure, and raised heart rate.",
+      "sources": [
+        {
+          "author": "Balachandran, P., Elsohly, M., & Hill, K. P.",
+          "title": "Cannabidiol Interactions with Medications, Illicit Substances, and Alcohol: a Comprehensive Review (2021)",
+          "url": "https://doi.org/10.1007/s11606-020-06504-8"
+        },
+        {
+          "author": "Klein, T. A., & Clark, C. S.",
+          "title": "Therapeutic use of cannabis in the US. The Nurse Practitioner, 47(12) (2022)",
+          "url": "https://doi.org/10.1097/01.NPR.0000884880.81603.c5"
+        },
+        {
+          "author": "Lile, J. A., Alcorn, J. L., Hays, L. R., Kelly, T. H., Stoops, W. W., Wesley, M. J., & Westgate, P. M.",
+          "title": "Influence of Pregabalin Maintenance on Cannabis Effects and Related Behaviors in Daily Cannabis Users. Experimental and Clinical Psychopharmacology, 30(5) (2022)",
+          "url": "https://doi.org/10.1037/pha0000464"
+        },
+        {
+          "author": "Vázquez, M., Guevara, N., Maldonado, C., Guido, P. C., & Schaiquevich, P.",
+          "title": "Potential Pharmacokinetic Drug‐Drug Interactions between Cannabinoids and Drugs Used for Chronic Pain (2020)",
+          "url": "https://doi.org/10.1155/2020/3902740"
+        }
+      ],
+      "status": "Low Risk & Synergy"
     }
   },
   "ssris": {
