@@ -90,6 +90,9 @@
                 "pcp": {
                     "$ref": "#/definitions/Interactions"
                 },
+                "pregabalin": {
+                    "$ref": "#/definitions/Interactions"
+                },
                 "ssris": {
                     "$ref": "#/definitions/Interactions"
                 },
@@ -126,6 +129,7 @@
                 "nitrous",
                 "opioids",
                 "pcp",
+                "pregabalin",
                 "ssris",
                 "tramadol"
             ],
@@ -217,6 +221,9 @@
                     "$ref": "#/definitions/ComboData"
                 },
                 "pcp": {
+                    "$ref": "#/definitions/ComboData"
+                },
+                "pregabalin": {
                     "$ref": "#/definitions/ComboData"
                 },
                 "ssris": {
