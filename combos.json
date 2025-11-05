@@ -932,6 +932,47 @@
       ],
       "status": "Caution"
     },
+    "diphenhydramine": {
+      "note": "Caffeine as a stimulant may mask some negative side effects of DPH, leading to delusions of sobriety, which has additional concerns in states of delirium. The combination of stimulants will increase strain on the heart and may cause some physical discomfort, and has the chance to cause cardiovascular issues such as complex tachycardia. The combination may increase anxiety levels and risks of thought loops at higher dosages, in addition to increasing each other's negative side effects. Medical dosages are reported to not be a concern.",
+      "sources": [
+        {
+          "author": "Clark, J. H.; Meltzer, E. O.; Naclerio, R. M. (2025)",
+          "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027.",
+          "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+        },
+        {
+          "author": "Evans, J.; Richards, J. R.; Battisti, A. S. (2025)",
+          "title": "Caffeine. In StatPearls. StatPearls Publishing.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK519490/"
+        },
+        {
+          "author": "McAtee, K. J.; Brillhart, D.; Barbuto, A. F.; Hiller, H. M. (2022)",
+          "title": "Wide complex tachycardia secondary to massive diphenhydramine overdose: a case report. Journal of Emergency and Critical Care Medicine, 6(0).",
+          "url": "https://doi.org/10.21037/jeccm-21-33"
+        },
+        {
+          "author": "Murray, A.; Traylor, J. (2025)",
+          "title": "Caffeine Toxicity. In StatPearls. StatPearls Publishing.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK532910/"
+        },
+        {
+          "author": "Institute of Medicine (US) Committee on Military Nutrition Research (2001)",
+          "title": "Pharmacology of Caffeine. In Caffeine for the Sustainment of Mental Task Performance: Formulations for Military Operations. National Academies Press (US).",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK223808/"
+        },
+        {
+          "author": "Sicari, V.; Patel, P.; Zabbo, C. P. (2025)",
+          "title": "Diphenhydramine. In StatPearls. StatPearls Publishing.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+        },
+        {
+          "author": "Tharion, W. J.; Kobrick, J. L.; Lieberman, H. R.; Fine, B. J. (1993)",
+          "title": "Effects of caffeine and diphenhydramine on auditory evoked cortical potentials. Perceptual and Motor Skills, 76(3 Pt 1), 707–715.",
+          "url": "https://doi.org/10.2466/pms.1993.76.3.707"
+        }
+      ],
+      "status": "Caution"
+    },
     "dmt": {
       "status": "Low Risk & No Synergy"
     },
@@ -1671,6 +1712,47 @@
           "author": "Vasan, S.; Murray, B. P.; Olango, G. J.",
           "title": "Amphetamine Toxicity. In StatPearls. StatPearls Publishing (2025)",
           "url": "http://www.ncbi.nlm.nih.gov/books/NBK470276/"
+        }
+      ],
+      "status": "Caution"
+    },
+    "caffeine": {
+      "note": "Caffeine as a stimulant may mask some negative side effects of DPH, leading to delusions of sobriety, which has additional concerns in states of delirium. The combination of stimulants will increase strain on the heart and may cause some physical discomfort, and has the chance to cause cardiovascular issues such as complex tachycardia. The combination may increase anxiety levels and risks of thought loops at higher dosages, in addition to increasing each other's negative side effects. Medical dosages are reported to not be a concern.",
+      "sources": [
+        {
+          "author": "Clark, J. H.; Meltzer, E. O.; Naclerio, R. M. (2025)",
+          "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027.",
+          "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+        },
+        {
+          "author": "Evans, J.; Richards, J. R.; Battisti, A. S. (2025)",
+          "title": "Caffeine. In StatPearls. StatPearls Publishing.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK519490/"
+        },
+        {
+          "author": "McAtee, K. J.; Brillhart, D.; Barbuto, A. F.; Hiller, H. M. (2022)",
+          "title": "Wide complex tachycardia secondary to massive diphenhydramine overdose: a case report. Journal of Emergency and Critical Care Medicine, 6(0).",
+          "url": "https://doi.org/10.21037/jeccm-21-33"
+        },
+        {
+          "author": "Murray, A.; Traylor, J. (2025)",
+          "title": "Caffeine Toxicity. In StatPearls. StatPearls Publishing.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK532910/"
+        },
+        {
+          "author": "Institute of Medicine (US) Committee on Military Nutrition Research (2001)",
+          "title": "Pharmacology of Caffeine. In Caffeine for the Sustainment of Mental Task Performance: Formulations for Military Operations. National Academies Press (US).",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK223808/"
+        },
+        {
+          "author": "Sicari, V.; Patel, P.; Zabbo, C. P. (2025)",
+          "title": "Diphenhydramine. In StatPearls. StatPearls Publishing.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+        },
+        {
+          "author": "Tharion, W. J.; Kobrick, J. L.; Lieberman, H. R.; Fine, B. J. (1993)",
+          "title": "Effects of caffeine and diphenhydramine on auditory evoked cortical potentials. Perceptual and Motor Skills, 76(3 Pt 1), 707–715.",
+          "url": "https://doi.org/10.2466/pms.1993.76.3.707"
         }
       ],
       "status": "Caution"
