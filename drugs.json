@@ -23471,6 +23471,42 @@
         "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
         "status": "Dangerous"
       },
+      "lithium": {
+        "note": "Lithium may enhance and prolong the antidepressant effects of ketamine.",
+        "sources": [
+          {
+            "author": "Costi, S., Soleimani, L., Glasgow, A., Brallier, J., Spivack, J., Schwartz, J., Levitch, C. F., Richards, S., Hoch, M., Stade, E. C., Welch, A., Collins, K. A., Feder, A., Iosifescu, D. V., Charney, D. S., & Murrough, J. W. (2019)",
+            "title": "Lithium continuation therapy following ketamine in patients with treatment resistant unipolar depression: a randomized controlled trial. Neuropsychopharmacology, 44(10), 1812–1819.",
+            "url": "https://doi.org/10.1038/s41386-019-0365-0"
+          },
+          {
+            "author": "Diazgranados, N., Ibrahim, L., Brutsche, N. E., Newberg, A., Kronstein, P., Khalife, S., Kammerer, W. A., Quezado, Z., Luckenbaugh, D. A., Salvadore, G., Machado-Vieira, R., Manji, H. K., & Zarate, C. A. (2010)",
+            "title": "A Randomized Add-on Trial of an N-methyl-D-aspartate Antagonist in Treatment-Resistant Bipolar Depression. Archives of General Psychiatry, 67(8), 793.",
+            "url": "https://doi.org/10.1001/archgenpsychiatry.2010.90"
+          },
+          {
+            "author": "Price, J. B., Yates, C. G., Morath, B. A., Van De Wakker, S. K., Yates, N. J., Butters, K., Frye, M. A., McGee, S. L., & Tye, S. J. (2021)",
+            "title": "Lithium augmentation of ketamine increases insulin signaling and antidepressant-like active stress coping in a rodent model of treatment-resistant depression. Translational Psychiatry, 11(1), 1–12.",
+            "url": "https://doi.org/10.1038/s41398-021-01716-w"
+          },
+          {
+            "author": "Scheuing, L., Chiu, C.-T., Liao, H.-M., & Chuang, D.-M. (2015)",
+            "title": "Antidepressant mechanism of ketamine: perspective from preclinical studies. Frontiers in Neuroscience, 9.",
+            "url": "https://doi.org/10.3389/fnins.2015.00249"
+          },
+          {
+            "author": "Toulany, J., Cunningham, J. E. A., & Nunes, A. (2025)",
+            "title": "Overlap and Divergence in Ketamine and Lithium Response in Bipolar Disorder: A Scoping Review. Pharmaceuticals, 18(11), 1662.",
+            "url": "https://doi.org/10.3390/ph18111662"
+          },
+          {
+            "author": "Wilkowska, A., Szałach, Ł., & Cubała, W. J. (2020)",
+            "title": "Ketamine in Bipolar Disorder: A Review. Neuropsychiatric Disease and Treatment, 16, 2707–2717.",
+            "url": "https://doi.org/10.2147/NDT.S282208"
+          }
+        ],
+        "status": "Low Risk & No Synergy"
+      },
       "lsd": {
         "status": "Low Risk & Synergy"
       },
@@ -24213,6 +24249,42 @@
           }
         ],
         "status": "Dangerous"
+      },
+      "ketamine": {
+        "note": "Lithium may enhance and prolong the antidepressant effects of ketamine.",
+        "sources": [
+          {
+            "author": "Costi, S., Soleimani, L., Glasgow, A., Brallier, J., Spivack, J., Schwartz, J., Levitch, C. F., Richards, S., Hoch, M., Stade, E. C., Welch, A., Collins, K. A., Feder, A., Iosifescu, D. V., Charney, D. S., & Murrough, J. W. (2019)",
+            "title": "Lithium continuation therapy following ketamine in patients with treatment resistant unipolar depression: a randomized controlled trial. Neuropsychopharmacology, 44(10), 1812–1819.",
+            "url": "https://doi.org/10.1038/s41386-019-0365-0"
+          },
+          {
+            "author": "Diazgranados, N., Ibrahim, L., Brutsche, N. E., Newberg, A., Kronstein, P., Khalife, S., Kammerer, W. A., Quezado, Z., Luckenbaugh, D. A., Salvadore, G., Machado-Vieira, R., Manji, H. K., & Zarate, C. A. (2010)",
+            "title": "A Randomized Add-on Trial of an N-methyl-D-aspartate Antagonist in Treatment-Resistant Bipolar Depression. Archives of General Psychiatry, 67(8), 793.",
+            "url": "https://doi.org/10.1001/archgenpsychiatry.2010.90"
+          },
+          {
+            "author": "Price, J. B., Yates, C. G., Morath, B. A., Van De Wakker, S. K., Yates, N. J., Butters, K., Frye, M. A., McGee, S. L., & Tye, S. J. (2021)",
+            "title": "Lithium augmentation of ketamine increases insulin signaling and antidepressant-like active stress coping in a rodent model of treatment-resistant depression. Translational Psychiatry, 11(1), 1–12.",
+            "url": "https://doi.org/10.1038/s41398-021-01716-w"
+          },
+          {
+            "author": "Scheuing, L., Chiu, C.-T., Liao, H.-M., & Chuang, D.-M. (2015)",
+            "title": "Antidepressant mechanism of ketamine: perspective from preclinical studies. Frontiers in Neuroscience, 9.",
+            "url": "https://doi.org/10.3389/fnins.2015.00249"
+          },
+          {
+            "author": "Toulany, J., Cunningham, J. E. A., & Nunes, A. (2025)",
+            "title": "Overlap and Divergence in Ketamine and Lithium Response in Bipolar Disorder: A Scoping Review. Pharmaceuticals, 18(11), 1662.",
+            "url": "https://doi.org/10.3390/ph18111662"
+          },
+          {
+            "author": "Wilkowska, A., Szałach, Ł., & Cubała, W. J. (2020)",
+            "title": "Ketamine in Bipolar Disorder: A Review. Neuropsychiatric Disease and Treatment, 16, 2707–2717.",
+            "url": "https://doi.org/10.2147/NDT.S282208"
+          }
+        ],
+        "status": "Low Risk & No Synergy"
       },
       "lithium": {
         "note": "There is a risk of serotonin syndrome when combining Lithium with MXE, as Lithium can induce serotonin syndrome in conjunction with other serotonergic drugs, and MXE has shown a notable affinity for the serotonin transporter.",
