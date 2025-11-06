@@ -26945,6 +26945,37 @@
         ],
         "status": "Dangerous"
       },
+      "mushrooms": {
+        "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+        "sources": [
+          {
+            "author": "Goel, D. B., & Zilate, S. (2022)",
+            "title": "Potential Therapeutic Effects of Psilocybin: A Systematic Review. Cureus, 14(10), e30214.",
+            "url": "https://doi.org/10.7759/cureus.30214"
+          },
+          {
+            "author": "Kehr, J., Ichinose, F., Yoshitake, S., Goiny, M., Sievertsson, T., Nyberg, F., & Yoshitake, T. (2011)",
+            "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats: Mephedrone increases both DA and 5-HT in rat brain. British Journal of Pharmacology, 164(8), 1949–1958.",
+            "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+          },
+          {
+            "author": "Papaseit, E., Moltó, J., Muga, R., Torrens, M., De La Torre, R., & Farré, M. (2016)",
+            "title": "Clinical Pharmacology of the Synthetic Cathinone Mephedrone. In Neuropharmacology of New Psychoactive Substances (NPS) (Vol. 32, pp. 313–331).",
+            "url": "https://doi.org/10.1007/7854_2016_61"
+          },
+          {
+            "author": "Passie, T., Seifert, J., Schneider, U., & Emrich, H. M. (2002)",
+            "title": "The pharmacology of psilocybin. Addiction Biology, 7(4), 357–364.",
+            "url": "https://doi.org/10.1080/1355621021000005937"
+          },
+          {
+            "author": "Wood, D. M., Davies, S., Greene, S. L., Button, J., Holt, D. W., Ramsey, J., & Dargan, P. I. (2010)",
+            "title": "Case series of individuals with analytically confirmed acute mephedrone toxicity. Clinical Toxicology (Philadelphia, Pa.), 48(9), 924–927.",
+            "url": "https://doi.org/10.3109/15563650.2010.531021"
+          }
+        ],
+        "status": "Low Risk & Synergy"
+      },
       "opioids": {
         "note": "Stimulants increase respiration rate allowing a higher dose of opiates. If the stimulant wears off first then the opiate may overcome the patient and cause respiratory arrest.",
         "sources": [
@@ -29543,6 +29574,37 @@
         "status": "Low Risk & Synergy"
       },
       "mdma": {
+        "status": "Low Risk & Synergy"
+      },
+      "mephedrone": {
+        "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+        "sources": [
+          {
+            "author": "Goel, D. B., & Zilate, S. (2022)",
+            "title": "Potential Therapeutic Effects of Psilocybin: A Systematic Review. Cureus, 14(10), e30214.",
+            "url": "https://doi.org/10.7759/cureus.30214"
+          },
+          {
+            "author": "Kehr, J., Ichinose, F., Yoshitake, S., Goiny, M., Sievertsson, T., Nyberg, F., & Yoshitake, T. (2011)",
+            "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats: Mephedrone increases both DA and 5-HT in rat brain. British Journal of Pharmacology, 164(8), 1949–1958.",
+            "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+          },
+          {
+            "author": "Papaseit, E., Moltó, J., Muga, R., Torrens, M., De La Torre, R., & Farré, M. (2016)",
+            "title": "Clinical Pharmacology of the Synthetic Cathinone Mephedrone. In Neuropharmacology of New Psychoactive Substances (NPS) (Vol. 32, pp. 313–331).",
+            "url": "https://doi.org/10.1007/7854_2016_61"
+          },
+          {
+            "author": "Passie, T., Seifert, J., Schneider, U., & Emrich, H. M. (2002)",
+            "title": "The pharmacology of psilocybin. Addiction Biology, 7(4), 357–364.",
+            "url": "https://doi.org/10.1080/1355621021000005937"
+          },
+          {
+            "author": "Wood, D. M., Davies, S., Greene, S. L., Button, J., Holt, D. W., Ramsey, J., & Dargan, P. I. (2010)",
+            "title": "Case series of individuals with analytically confirmed acute mephedrone toxicity. Clinical Toxicology (Philadelphia, Pa.), 48(9), 924–927.",
+            "url": "https://doi.org/10.3109/15563650.2010.531021"
+          }
+        ],
         "status": "Low Risk & Synergy"
       },
       "mescaline": {
