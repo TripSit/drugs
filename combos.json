@@ -1383,6 +1383,87 @@
       "note": "This combination can easily lead to hypermanic states",
       "status": "Unsafe"
     },
+    "pregabalin": {
+      "note": "There is a significant risk of seizures from this combination. Stimulants increase respiration rate, allowing for a higher dose of sedatives than normal. If cocaine wears off first, recreational dosages of pregabalin may overcome the individual and cause respiratory arrest. Both substances at recreational dosages strain the heart and may lead to further dangerous heart complications. The combination has a greater risk of methemoglobinemia when higher dosages are combined.",
+      "sources": [
+        {
+          "author": "Altair. (n.d.-a)",
+          "title": "Pregabalin (Lyrica) - Erowid Exp - “Heart Arrhythmia, Seizure: Not Recreational.”",
+          "url": "https://www.erowid.org/experiences/exp.php?ID=69917"
+        },
+        {
+          "author": "Barker-Haliski, M., & White, H. S. (2015)",
+          "title": "Glutamatergic Mechanisms Associated with Seizures and Epilepsy. Cold Spring Harbor Perspectives in Medicine, 5(8), a022863.",
+          "url": "https://doi.org/10.1101/cshperspect.a022863"
+        },
+        {
+          "author": "Ben-Menachem, E. (2004)",
+          "title": "Pregabalin pharmacology and its relevance to clinical practice. Epilepsia, 45 Suppl 6, 13–18.",
+          "url": "https://doi.org/10.1111/j.0013-9580.2004.455003.x"
+        },
+        {
+          "author": "Douke, R. (n.d.)",
+          "title": "Pregabalin & Tramadol - Erowid Exp - “Grand Mal Seizures.”",
+          "url": "https://www.erowid.org/experiences/exp.php?ID=83232"
+        },
+        {
+          "author": "French, J., Kwan, P., Fakhoury, T., Pitman, V., DuBrava, S., Knapp, L., & Yurkewicz, L. (2014)",
+          "title": "Pregabalin monotherapy in patients with partial-onset seizures. Neurology, 82(7), 590–597.",
+          "url": "https://doi.org/10.1212/WNL.0000000000000119"
+        },
+        {
+          "author": "Gayatri, N. A., & Livingston, J. H. (2006)",
+          "title": "Aggravation of epilepsy by anti-epileptic drugs. Developmental Medicine and Child Neurology, 48(5), 394–398.",
+          "url": "https://doi.org/10.1017/S0012162206000843"
+        },
+        {
+          "author": "Hitchings, A. W. (2016)",
+          "title": "Drugs that lower the seizure threshold. Adverse Drug Reaction Bulletin, 298(1), 1151–1154.",
+          "url": "https://doi.org/10.1097/FAD.0000000000000016"
+        },
+        {
+          "author": "Hunter, L., Gordge, L., Dargan, P. I., & Wood, D. M. (2011)",
+          "title": "Methaemoglobinaemia associated with the use of cocaine and volatile nitrites as recreational drugs: a review. British Journal of Clinical Pharmacology, 72(1), 18–26.",
+          "url": "https://doi.org/10.1111/j.1365-2125.2011.03950.x"
+        },
+        {
+          "author": "Isoardi, K. Z., Polkinghorne, G., Harris, K., & Isbister, G. K. (2020)",
+          "title": "Pregabalin poisoning and rising recreational use: a retrospective observational series. British Journal of Clinical Pharmacology, 86(12), 2435–2440.",
+          "url": "https://doi.org/10.1111/bcp.14348"
+        },
+        {
+          "author": "Kumar, N., Laferriere, A., Yu, J. S. C., Leavitt, A., & Coderre, T. J. (2010)",
+          "title": "Evidence that pregabalin reduces neuropathic pain by inhibiting the spinal release of glutamate. Journal of Neurochemistry, 113(2), 552–561.",
+          "url": "https://doi.org/10.1111/j.1471-4159.2010.06625.x"
+        },
+        {
+          "author": "Lappin, J. M., & Sara, G. E. (2019)",
+          "title": "Psychostimulant use and the brain. Addiction, 114(11), 2065–2077.",
+          "url": "https://doi.org/10.1111/add.14708"
+        },
+        {
+          "author": "Ludlow, J. T., Wilkerson, R. G., & Nappe, T. M. (2025)",
+          "title": "Methemoglobinemia. In StatPearls. StatPearls Publishing.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK537317/"
+        },
+        {
+          "author": "Pergolizzi, J. V., Magnusson, P., LeQuang, J. A. K., Breve, F., & Varrassi, G. (n.d.)",
+          "title": "Cocaine and Cardiotoxicity: A Literature Review. Cureus, 13(4), e14594.",
+          "url": "https://doi.org/10.7759/cureus.14594"
+        },
+        {
+          "author": "Sean. (n.d.-b)",
+          "title": "Pregabalin - Erowid Exp - “Stay Away.”",
+          "url": "https://www.erowid.org/experiences/exp.php?ID=67302"
+        },
+        {
+          "author": "Slocum, G. W., Schult, R. F., Gorodetsky, R. M., Wiegand, T. J., Kamali, M., & Acquisto, N. M. (2018)",
+          "title": "Pregabalin and paradoxical reaction of seizures in a large overdose. Toxicology Communications, 2(1), 19–20.",
+          "url": "https://doi.org/10.1080/24734306.2018.1458465"
+        }
+      ],
+      "status": "Unsafe"
+    },
     "ssris": {
       "note": "May reduce each others' effectiveness. Cocaine can reduce mental stability and therefore exacerbate conditions which SSRIs are used to treat.",
       "status": "Low Risk & No Synergy"
@@ -2723,6 +2804,87 @@
     },
     "pcp": {
       "status": "Low Risk & Synergy"
+    },
+    "pregabalin": {
+      "note": "Pregabalin and ketamine may synergize and increase each other's negative side effects such as nausea, dizziness, and loss of consciousness. Caution is advised for beyond medical dosages due to seizure concerns, and medical dosages for individuals with higher risk seizure profiles and or behavior.",
+      "sources": [
+        {
+          "author": "Anwar, S., Cooper, J., Rahman, J., Sharma, C., & Langford, R. (2019)",
+          "title": "Prolonged Perioperative Use of Pregabalin and Ketamine to Prevent Persistent Pain after Cardiac Surgery. Anesthesiology, 131(1), 119–131.",
+          "url": "https://doi.org/10.1097/ALN.0000000000002751"
+        },
+        {
+          "author": "Arendt-Nielsen, L., Mansikka, H., Staahl, C., Rees, H., Tan, K., Smart, T. S., Monhemius, R., Suzuki, R., & Drewes, A. M. (2011)",
+          "title": "A Translational Study of the Effects of Ketamine and Pregabalin on Temporal Summation of Experimental Pain. Regional Anesthesia & Pain Medicine, 36(6), 585–591.",
+          "url": "https://doi.org/10.1097/AAP.0b013e31822b0db0"
+        },
+        {
+          "author": "Az, A., & Doğan, Y. (2024)",
+          "title": "Unexpected consequences: A case of ketamine‑induced seizure in procedural sedation. Turkish Journal of Emergency Medicine, 24(4), 259–261.",
+          "url": "https://doi.org/10.4103/tjem.tjem_67_24"
+        },
+        {
+          "author": "Barker-Haliski, M., & White, H. S. (2015)",
+          "title": "Glutamatergic Mechanisms Associated with Seizures and Epilepsy. Cold Spring Harbor Perspectives in Medicine, 5(8), a022863.",
+          "url": "https://doi.org/10.1101/cshperspect.a022863"
+        },
+        {
+          "author": "Ben‐Menachem, E. (2004)",
+          "title": "Pregabalin Pharmacology and Its Relevance to Clinical Practice. Epilepsia, 45(s6), 13–18.",
+          "url": "https://doi.org/10.1111/j.0013-9580.2004.455003.x"
+        },
+        {
+          "author": "French, J., Kwan, P., Fakhoury, T., Pitman, V., DuBrava, S., Knapp, L., & Yurkewicz, L. (2014)",
+          "title": "Pregabalin monotherapy in patients with partial-onset seizures: A historical-controlled trial. Neurology, 82(7), 590–597.",
+          "url": "https://doi.org/10.1212/WNL.0000000000000119"
+        },
+        {
+          "author": "Gayatri, N., & Livingston, J. (2006)",
+          "title": "Aggravation of epilepsy by anti‐epileptic drugs. Developmental Medicine & Child Neurology, 48(5), 394–398.",
+          "url": "https://doi.org/10.1017/S0012162206000843"
+        },
+        {
+          "author": "Hitchings, A. W. (2016)",
+          "title": "Drugs that lower the seizure threshold. Adverse Drug Reaction Bulletin, 298(1), 1151–1154.",
+          "url": "https://doi.org/10.1097/FAD.0000000000000016"
+        },
+        {
+          "author": "Isoardi, K. Z., Polkinghorne, G., Harris, K., & Isbister, G. K. (2020)",
+          "title": "Pregabalin poisoning and rising recreational use: a retrospective observational series. British Journal of Clinical Pharmacology, 86(12), 2435–2440.",
+          "url": "https://doi.org/10.1111/bcp.14348"
+        },
+        {
+          "author": "Kim, J. H., Lee, C. K., Yu, S. H., Min, B. D., Chung, C. E., & Kim, D. C. (2021)",
+          "title": "Ketamine-induced generalized convulsive seizure during procedural sedation. Archives of Craniofacial Surgery, 22(2), 119–121.",
+          "url": "https://doi.org/10.7181/acfs.2021.00094"
+        },
+        {
+          "author": "Kumar, N., Laferriere, A., Yu, J. S. C., Leavitt, A., & Coderre, T. J. (2010)",
+          "title": "Evidence that pregabalin reduces neuropathic pain by inhibiting the spinal release of glutamate. Journal of Neurochemistry, 113(2), 552–561.",
+          "url": "https://doi.org/10.1111/j.1471-4159.2010.06625.x"
+        },
+        {
+          "author": "Martinez, V., Cymerman, A., Ben Ammar, S., Fiaud, J. F., Rapon, C., Poindessous, F., Judet, T., Chauvin, M., Bouhassira, D., Sessler, D., Mazoit, X., & Fletcher, D. (2014)",
+          "title": "The analgesic efficiency of combined pregabalin and ketamine for total hip arthroplasty: a randomised, double‐blind, controlled study. Anaesthesia, 69(1), 46–52.",
+          "url": "https://doi.org/10.1111/anae.12495"
+        },
+        {
+          "author": "Shehata, I. M., Kohaf, N. A., ElSayed, M. W., Latifi, K., Aboutaleb, A. M., & Kaye, A. D. (2024)",
+          "title": "Ketamine: Pro or antiepileptic agent? A systematic review. Heliyon, 10(2), e24433.",
+          "url": "https://doi.org/10.1016/j.heliyon.2024.e24433"
+        },
+        {
+          "author": "Slocum, G. W., Schult, R. F., Gorodetsky, R. M., Wiegand, T. J., Kamali, M., & Acquisto, N. M. (2018)",
+          "title": "Pregabalin and paradoxical reaction of seizures in a large overdose. Toxicology Communications, 2(1), 19–20.",
+          "url": "https://doi.org/10.1080/24734306.2018.1458465"
+        },
+        {
+          "author": "Zhou, Y., Sun, W., Fu, Y., Wang, J., Fan, J., Liang, Y., Jia, W., & Han, R. (2024)",
+          "title": "Effect of esketamine combined with pregabalin on acute postsurgical pain in patients who underwent resection of spinal neoplasms: a randomized controlled trial. Pain, 165(9), e96–e105.",
+          "url": "https://doi.org/10.1097/j.pain.0000000000003211"
+        }
+      ],
+      "status": "Caution"
     },
     "ssris": {
       "status": "Low Risk & No Synergy"
@@ -4860,6 +5022,72 @@
     "pcp": {
       "status": "Low Risk & Synergy"
     },
+    "pregabalin": {
+      "note": "Both substances potentiate the ataxia and sedation caused by the other, and may increase the risk of loss of consciousness at higher dosages. While unconscious, vomit aspiration is a risk if not placed in the recovery position. The combination may increase inhibition and risk of injury. Additionally, abuse of nitrous while under the influence of pregabalin may increase the risk of seizures. Medical dosages are unlikely to be a concern.",
+      "sources": [
+        {
+          "author": "Barker-Haliski, M., & White, H. S. (2015)",
+          "title": "Glutamatergic Mechanisms Associated with Seizures and Epilepsy. Cold Spring Harbor Perspectives in Medicine, 5(8), a022863.",
+          "url": "https://doi.org/10.1101/cshperspect.a022863"
+        },
+        {
+          "author": "Ben‐Menachem, E. (2004)",
+          "title": "Pregabalin Pharmacology and Its Relevance to Clinical Practice. Epilepsia, 45(s6), 13–18.",
+          "url": "https://doi.org/10.1111/j.0013-9580.2004.455003.x"
+        },
+        {
+          "author": "Cross, A. L., Viswanath, O., & Sherman, A. L. (2025)",
+          "title": "Pregabalin. In StatPearls. StatPearls Publishing.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK470341/"
+        },
+        {
+          "author": "Davidson, L. T. (2023)",
+          "title": "Recreational use of nitrous oxide causes seizure, pneumothorax, pneumomediastinum, and pneumopericardium: nitrous oxide and its harm, a case report. Upsala Journal of Medical Sciences, 128, 10.48101/ujms.v128.10281.",
+          "url": "https://doi.org/10.48101/ujms.v128.10281"
+        },
+        {
+          "author": "French, J., Kwan, P., Fakhoury, T., Pitman, V., DuBrava, S., Knapp, L., & Yurkewicz, L. (2014)",
+          "title": "Pregabalin monotherapy in patients with partial-onset seizures: A historical-controlled trial. Neurology, 82(7), 590–597.",
+          "url": "https://doi.org/10.1212/WNL.0000000000000119"
+        },
+        {
+          "author": "Gayatri, N., & Livingston, J. (2006)",
+          "title": "Aggravation of epilepsy by anti‐epileptic drugs. Developmental Medicine & Child Neurology, 48(5), 394–398.",
+          "url": "https://doi.org/10.1017/S0012162206000843"
+        },
+        {
+          "author": "Hitchings, A. W. (2016)",
+          "title": "Drugs that lower the seizure threshold. Adverse Drug Reaction Bulletin, 298(1), 1151–1154.",
+          "url": "https://doi.org/10.1097/FAD.0000000000000016"
+        },
+        {
+          "author": "Isoardi, K. Z., Polkinghorne, G., Harris, K., & Isbister, G. K. (2020)",
+          "title": "Pregabalin poisoning and rising recreational use: a retrospective observational series. British Journal of Clinical Pharmacology, 86(12), 2435–2440.",
+          "url": "https://doi.org/10.1111/bcp.14348"
+        },
+        {
+          "author": "Knuf, K., & Maani, C. V. (2025)",
+          "title": "Nitrous Oxide. In StatPearls. StatPearls Publishing.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK532922/"
+        },
+        {
+          "author": "Kumar, N., Laferriere, A., Yu, J. S. C., Leavitt, A., & Coderre, T. J. (2010)",
+          "title": "Evidence that pregabalin reduces neuropathic pain by inhibiting the spinal release of glutamate. Journal of Neurochemistry, 113(2), 552–561.",
+          "url": "https://doi.org/10.1111/j.1471-4159.2010.06625.x"
+        },
+        {
+          "author": "Slocum, G. W., Schult, R. F., Gorodetsky, R. M., Wiegand, T. J., Kamali, M., & Acquisto, N. M. (2018)",
+          "title": "Pregabalin and paradoxical reaction of seizures in a large overdose. Toxicology Communications, 2(1), 19–20.",
+          "url": "https://doi.org/10.1080/24734306.2018.1458465"
+        },
+        {
+          "author": "Wagner, S., Clark, M., Wesche, D., Doedens, D., & Lloyd, A. (1992)",
+          "title": "Asphyxial Deaths from the Recreational Use of Nitrous Oxide. Journal of Forensic Sciences, 37(4), 1008–1015.",
+          "url": "https://doi.org/10.1520/JFS13286J"
+        }
+      ],
+      "status": "Caution"
+    },
     "ssris": {
       "status": "Low Risk & No Synergy"
     },
@@ -4991,6 +5219,51 @@
       "note": "PCP can reduce opioid tolerance, increasing the risk of overdose",
       "status": "Caution"
     },
+    "pregabalin": {
+      "sources": [
+        {
+          "author": "Eckhardt, K., Ammon, S., Hofmann, U., Riebe, A., Gugeler, N., & Mikus, G. (2000)",
+          "title": "Gabapentin enhances the analgesic effect of morphine in healthy volunteers. Anesthesia and Analgesia, 91(1), 185–191.",
+          "url": "https://doi.org/10.1097/00000539-200007000-00035"
+        },
+        {
+          "author": "Eipe, N., & Penning, J. (2011)",
+          "title": "Postoperative respiratory depression associated with pregabalin: A case series and a preoperative decision algorithm. Pain Research & Management: The Journal of the Canadian Pain Society, 16(5), 353–356.",
+          "url": "https://doi.org/10.1155/2011/561604"
+        },
+        {
+          "author": "Elliott, S. P., Burke, T., & Smith, C. (2017)",
+          "title": "Determining the Toxicological Significance of Pregabalin in Fatalities. Journal of Forensic Sciences, 62(1), 169–173.",
+          "url": "https://doi.org/10.1111/1556-4029.13263"
+        },
+        {
+          "author": "Evoy, K. E., Sadrameli, S., Contreras, J., Covvey, J. R., Peckham, A. M., & Morrison, M. D. (2021)",
+          "title": "Abuse and Misuse of Pregabalin and Gabapentin: A Systematic Review Update. Drugs, 81(1), 125–156.",
+          "url": "https://doi.org/10.1007/s40265-020-01432-7"
+        },
+        {
+          "author": "Gomes, T., Juurlink, D. N., Antoniou, T., Mamdani, M. M., Paterson, J. M., & Brink, W. van den. (2017)",
+          "title": "Gabapentin, opioids, and the risk of opioid-related death: A population-based nested case–control study. PLOS Medicine, 14(10), e1002396.",
+          "url": "https://doi.org/10.1371/journal.pmed.1002396"
+        },
+        {
+          "author": "Lyndon, A., Audrey, S., Wells, C., Burnell, E. S., Ingle, S., Hill, R., Hickman, M., & Henderson, G. (2017)",
+          "title": "Risk to heroin users of polydrug use of pregabalin or gabapentin: Risks in combining gabapentoids with heroin. Addiction, 112(9), 1580–1589.",
+          "url": "https://doi.org/10.1111/add.13843"
+        },
+        {
+          "author": "Peckham, A. M., Evoy, K. E., Covvey, J. R., Ochs, L., Fairman, K. A., & Sclar, D. A. (2018)",
+          "title": "Predictors of Gabapentin Overuse With or Without Concomitant Opioids in a Commercially Insured U.S. Population. Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy, 38(4), 436–443.",
+          "url": "https://doi.org/10.1002/phar.2096"
+        },
+        {
+          "author": "Research, C. for D. E. and. (2020)",
+          "title": "FDA warns about serious breathing problems with seizure and nerve pain medicines gabapentin (Neurontin, Gralise, Horizant) and pregabalin (Lyrica, Lyrica CR). FDA.",
+          "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-warns-about-serious-breathing-problems-seizure-and-nerve-pain-medicines-gabapentin-neurontin"
+        }
+      ],
+      "status": "Dangerous"
+    },
     "ssris": {
       "note": "There have been some case reports of serotonin syndrome in individuals who were given a combination of opioids and SSRIs. Other research has indicated a small increase in overdose risk for people who are prescribed CYP2D6-inhibiting SSRIs (e.g. fluoxetine and paroxetine) with oxycodone. Overall, risk is low with this combination but, as always, be mindful of your consumption.",
       "status": "Low Risk & No Synergy"
@@ -5119,6 +5392,87 @@
       ],
       "status": "Low Risk & Synergy"
     },
+    "cocaine": {
+      "note": "There is a significant risk of seizures from this combination. Stimulants increase respiration rate, allowing for a higher dose of sedatives than normal. If cocaine wears off first, recreational dosages of pregabalin may overcome the individual and cause respiratory arrest. Both substances at recreational dosages strain the heart and may lead to further dangerous heart complications. The combination has a greater risk of methemoglobinemia when higher dosages are combined.",
+      "sources": [
+        {
+          "author": "Altair. (n.d.-a)",
+          "title": "Pregabalin (Lyrica) - Erowid Exp - “Heart Arrhythmia, Seizure: Not Recreational.”",
+          "url": "https://www.erowid.org/experiences/exp.php?ID=69917"
+        },
+        {
+          "author": "Barker-Haliski, M., & White, H. S. (2015)",
+          "title": "Glutamatergic Mechanisms Associated with Seizures and Epilepsy. Cold Spring Harbor Perspectives in Medicine, 5(8), a022863.",
+          "url": "https://doi.org/10.1101/cshperspect.a022863"
+        },
+        {
+          "author": "Ben-Menachem, E. (2004)",
+          "title": "Pregabalin pharmacology and its relevance to clinical practice. Epilepsia, 45 Suppl 6, 13–18.",
+          "url": "https://doi.org/10.1111/j.0013-9580.2004.455003.x"
+        },
+        {
+          "author": "Douke, R. (n.d.)",
+          "title": "Pregabalin & Tramadol - Erowid Exp - “Grand Mal Seizures.”",
+          "url": "https://www.erowid.org/experiences/exp.php?ID=83232"
+        },
+        {
+          "author": "French, J., Kwan, P., Fakhoury, T., Pitman, V., DuBrava, S., Knapp, L., & Yurkewicz, L. (2014)",
+          "title": "Pregabalin monotherapy in patients with partial-onset seizures. Neurology, 82(7), 590–597.",
+          "url": "https://doi.org/10.1212/WNL.0000000000000119"
+        },
+        {
+          "author": "Gayatri, N. A., & Livingston, J. H. (2006)",
+          "title": "Aggravation of epilepsy by anti-epileptic drugs. Developmental Medicine and Child Neurology, 48(5), 394–398.",
+          "url": "https://doi.org/10.1017/S0012162206000843"
+        },
+        {
+          "author": "Hitchings, A. W. (2016)",
+          "title": "Drugs that lower the seizure threshold. Adverse Drug Reaction Bulletin, 298(1), 1151–1154.",
+          "url": "https://doi.org/10.1097/FAD.0000000000000016"
+        },
+        {
+          "author": "Hunter, L., Gordge, L., Dargan, P. I., & Wood, D. M. (2011)",
+          "title": "Methaemoglobinaemia associated with the use of cocaine and volatile nitrites as recreational drugs: a review. British Journal of Clinical Pharmacology, 72(1), 18–26.",
+          "url": "https://doi.org/10.1111/j.1365-2125.2011.03950.x"
+        },
+        {
+          "author": "Isoardi, K. Z., Polkinghorne, G., Harris, K., & Isbister, G. K. (2020)",
+          "title": "Pregabalin poisoning and rising recreational use: a retrospective observational series. British Journal of Clinical Pharmacology, 86(12), 2435–2440.",
+          "url": "https://doi.org/10.1111/bcp.14348"
+        },
+        {
+          "author": "Kumar, N., Laferriere, A., Yu, J. S. C., Leavitt, A., & Coderre, T. J. (2010)",
+          "title": "Evidence that pregabalin reduces neuropathic pain by inhibiting the spinal release of glutamate. Journal of Neurochemistry, 113(2), 552–561.",
+          "url": "https://doi.org/10.1111/j.1471-4159.2010.06625.x"
+        },
+        {
+          "author": "Lappin, J. M., & Sara, G. E. (2019)",
+          "title": "Psychostimulant use and the brain. Addiction, 114(11), 2065–2077.",
+          "url": "https://doi.org/10.1111/add.14708"
+        },
+        {
+          "author": "Ludlow, J. T., Wilkerson, R. G., & Nappe, T. M. (2025)",
+          "title": "Methemoglobinemia. In StatPearls. StatPearls Publishing.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK537317/"
+        },
+        {
+          "author": "Pergolizzi, J. V., Magnusson, P., LeQuang, J. A. K., Breve, F., & Varrassi, G. (n.d.)",
+          "title": "Cocaine and Cardiotoxicity: A Literature Review. Cureus, 13(4), e14594.",
+          "url": "https://doi.org/10.7759/cureus.14594"
+        },
+        {
+          "author": "Sean. (n.d.-b)",
+          "title": "Pregabalin - Erowid Exp - “Stay Away.”",
+          "url": "https://www.erowid.org/experiences/exp.php?ID=67302"
+        },
+        {
+          "author": "Slocum, G. W., Schult, R. F., Gorodetsky, R. M., Wiegand, T. J., Kamali, M., & Acquisto, N. M. (2018)",
+          "title": "Pregabalin and paradoxical reaction of seizures in a large overdose. Toxicology Communications, 2(1), 19–20.",
+          "url": "https://doi.org/10.1080/24734306.2018.1458465"
+        }
+      ],
+      "status": "Unsafe"
+    },
     "ghb/gbl": {
       "note": "The two substances potentiate each other strongly and unpredictably, and may rapidly lead to unconsciousness. They both increase each other's side effects such as ataxia, sedation, and CNS depression. Blackout and memory loss risk is significantly increased. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. There is an increased risk of seizures from this combination.",
       "sources": [
@@ -5176,6 +5530,198 @@
           "author": "Winters, W. D., & Spooner, C. E. (1965)",
           "title": "Various seizure activities following gamma-hydroxybutyrate.",
           "url": "https://doi.org/10.1016/0028-3908(65)90034-1"
+        }
+      ],
+      "status": "Dangerous"
+    },
+    "ketamine": {
+      "note": "Pregabalin and ketamine may synergize and increase each other's negative side effects such as nausea, dizziness, and loss of consciousness. Caution is advised for beyond medical dosages due to seizure concerns, and medical dosages for individuals with higher risk seizure profiles and or behavior.",
+      "sources": [
+        {
+          "author": "Anwar, S., Cooper, J., Rahman, J., Sharma, C., & Langford, R. (2019)",
+          "title": "Prolonged Perioperative Use of Pregabalin and Ketamine to Prevent Persistent Pain after Cardiac Surgery. Anesthesiology, 131(1), 119–131.",
+          "url": "https://doi.org/10.1097/ALN.0000000000002751"
+        },
+        {
+          "author": "Arendt-Nielsen, L., Mansikka, H., Staahl, C., Rees, H., Tan, K., Smart, T. S., Monhemius, R., Suzuki, R., & Drewes, A. M. (2011)",
+          "title": "A Translational Study of the Effects of Ketamine and Pregabalin on Temporal Summation of Experimental Pain. Regional Anesthesia & Pain Medicine, 36(6), 585–591.",
+          "url": "https://doi.org/10.1097/AAP.0b013e31822b0db0"
+        },
+        {
+          "author": "Az, A., & Doğan, Y. (2024)",
+          "title": "Unexpected consequences: A case of ketamine‑induced seizure in procedural sedation. Turkish Journal of Emergency Medicine, 24(4), 259–261.",
+          "url": "https://doi.org/10.4103/tjem.tjem_67_24"
+        },
+        {
+          "author": "Barker-Haliski, M., & White, H. S. (2015)",
+          "title": "Glutamatergic Mechanisms Associated with Seizures and Epilepsy. Cold Spring Harbor Perspectives in Medicine, 5(8), a022863.",
+          "url": "https://doi.org/10.1101/cshperspect.a022863"
+        },
+        {
+          "author": "Ben‐Menachem, E. (2004)",
+          "title": "Pregabalin Pharmacology and Its Relevance to Clinical Practice. Epilepsia, 45(s6), 13–18.",
+          "url": "https://doi.org/10.1111/j.0013-9580.2004.455003.x"
+        },
+        {
+          "author": "French, J., Kwan, P., Fakhoury, T., Pitman, V., DuBrava, S., Knapp, L., & Yurkewicz, L. (2014)",
+          "title": "Pregabalin monotherapy in patients with partial-onset seizures: A historical-controlled trial. Neurology, 82(7), 590–597.",
+          "url": "https://doi.org/10.1212/WNL.0000000000000119"
+        },
+        {
+          "author": "Gayatri, N., & Livingston, J. (2006)",
+          "title": "Aggravation of epilepsy by anti‐epileptic drugs. Developmental Medicine & Child Neurology, 48(5), 394–398.",
+          "url": "https://doi.org/10.1017/S0012162206000843"
+        },
+        {
+          "author": "Hitchings, A. W. (2016)",
+          "title": "Drugs that lower the seizure threshold. Adverse Drug Reaction Bulletin, 298(1), 1151–1154.",
+          "url": "https://doi.org/10.1097/FAD.0000000000000016"
+        },
+        {
+          "author": "Isoardi, K. Z., Polkinghorne, G., Harris, K., & Isbister, G. K. (2020)",
+          "title": "Pregabalin poisoning and rising recreational use: a retrospective observational series. British Journal of Clinical Pharmacology, 86(12), 2435–2440.",
+          "url": "https://doi.org/10.1111/bcp.14348"
+        },
+        {
+          "author": "Kim, J. H., Lee, C. K., Yu, S. H., Min, B. D., Chung, C. E., & Kim, D. C. (2021)",
+          "title": "Ketamine-induced generalized convulsive seizure during procedural sedation. Archives of Craniofacial Surgery, 22(2), 119–121.",
+          "url": "https://doi.org/10.7181/acfs.2021.00094"
+        },
+        {
+          "author": "Kumar, N., Laferriere, A., Yu, J. S. C., Leavitt, A., & Coderre, T. J. (2010)",
+          "title": "Evidence that pregabalin reduces neuropathic pain by inhibiting the spinal release of glutamate. Journal of Neurochemistry, 113(2), 552–561.",
+          "url": "https://doi.org/10.1111/j.1471-4159.2010.06625.x"
+        },
+        {
+          "author": "Martinez, V., Cymerman, A., Ben Ammar, S., Fiaud, J. F., Rapon, C., Poindessous, F., Judet, T., Chauvin, M., Bouhassira, D., Sessler, D., Mazoit, X., & Fletcher, D. (2014)",
+          "title": "The analgesic efficiency of combined pregabalin and ketamine for total hip arthroplasty: a randomised, double‐blind, controlled study. Anaesthesia, 69(1), 46–52.",
+          "url": "https://doi.org/10.1111/anae.12495"
+        },
+        {
+          "author": "Shehata, I. M., Kohaf, N. A., ElSayed, M. W., Latifi, K., Aboutaleb, A. M., & Kaye, A. D. (2024)",
+          "title": "Ketamine: Pro or antiepileptic agent? A systematic review. Heliyon, 10(2), e24433.",
+          "url": "https://doi.org/10.1016/j.heliyon.2024.e24433"
+        },
+        {
+          "author": "Slocum, G. W., Schult, R. F., Gorodetsky, R. M., Wiegand, T. J., Kamali, M., & Acquisto, N. M. (2018)",
+          "title": "Pregabalin and paradoxical reaction of seizures in a large overdose. Toxicology Communications, 2(1), 19–20.",
+          "url": "https://doi.org/10.1080/24734306.2018.1458465"
+        },
+        {
+          "author": "Zhou, Y., Sun, W., Fu, Y., Wang, J., Fan, J., Liang, Y., Jia, W., & Han, R. (2024)",
+          "title": "Effect of esketamine combined with pregabalin on acute postsurgical pain in patients who underwent resection of spinal neoplasms: a randomized controlled trial. Pain, 165(9), e96–e105.",
+          "url": "https://doi.org/10.1097/j.pain.0000000000003211"
+        }
+      ],
+      "status": "Caution"
+    },
+    "nitrous": {
+      "note": "Both substances potentiate the ataxia and sedation caused by the other, and may increase the risk of loss of consciousness at higher dosages. While unconscious, vomit aspiration is a risk if not placed in the recovery position. The combination may increase inhibition and risk of injury. Additionally, abuse of nitrous while under the influence of pregabalin may increase the risk of seizures. Medical dosages are unlikely to be a concern.",
+      "sources": [
+        {
+          "author": "Barker-Haliski, M., & White, H. S. (2015)",
+          "title": "Glutamatergic Mechanisms Associated with Seizures and Epilepsy. Cold Spring Harbor Perspectives in Medicine, 5(8), a022863.",
+          "url": "https://doi.org/10.1101/cshperspect.a022863"
+        },
+        {
+          "author": "Ben‐Menachem, E. (2004)",
+          "title": "Pregabalin Pharmacology and Its Relevance to Clinical Practice. Epilepsia, 45(s6), 13–18.",
+          "url": "https://doi.org/10.1111/j.0013-9580.2004.455003.x"
+        },
+        {
+          "author": "Cross, A. L., Viswanath, O., & Sherman, A. L. (2025)",
+          "title": "Pregabalin. In StatPearls. StatPearls Publishing.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK470341/"
+        },
+        {
+          "author": "Davidson, L. T. (2023)",
+          "title": "Recreational use of nitrous oxide causes seizure, pneumothorax, pneumomediastinum, and pneumopericardium: nitrous oxide and its harm, a case report. Upsala Journal of Medical Sciences, 128, 10.48101/ujms.v128.10281.",
+          "url": "https://doi.org/10.48101/ujms.v128.10281"
+        },
+        {
+          "author": "French, J., Kwan, P., Fakhoury, T., Pitman, V., DuBrava, S., Knapp, L., & Yurkewicz, L. (2014)",
+          "title": "Pregabalin monotherapy in patients with partial-onset seizures: A historical-controlled trial. Neurology, 82(7), 590–597.",
+          "url": "https://doi.org/10.1212/WNL.0000000000000119"
+        },
+        {
+          "author": "Gayatri, N., & Livingston, J. (2006)",
+          "title": "Aggravation of epilepsy by anti‐epileptic drugs. Developmental Medicine & Child Neurology, 48(5), 394–398.",
+          "url": "https://doi.org/10.1017/S0012162206000843"
+        },
+        {
+          "author": "Hitchings, A. W. (2016)",
+          "title": "Drugs that lower the seizure threshold. Adverse Drug Reaction Bulletin, 298(1), 1151–1154.",
+          "url": "https://doi.org/10.1097/FAD.0000000000000016"
+        },
+        {
+          "author": "Isoardi, K. Z., Polkinghorne, G., Harris, K., & Isbister, G. K. (2020)",
+          "title": "Pregabalin poisoning and rising recreational use: a retrospective observational series. British Journal of Clinical Pharmacology, 86(12), 2435–2440.",
+          "url": "https://doi.org/10.1111/bcp.14348"
+        },
+        {
+          "author": "Knuf, K., & Maani, C. V. (2025)",
+          "title": "Nitrous Oxide. In StatPearls. StatPearls Publishing.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK532922/"
+        },
+        {
+          "author": "Kumar, N., Laferriere, A., Yu, J. S. C., Leavitt, A., & Coderre, T. J. (2010)",
+          "title": "Evidence that pregabalin reduces neuropathic pain by inhibiting the spinal release of glutamate. Journal of Neurochemistry, 113(2), 552–561.",
+          "url": "https://doi.org/10.1111/j.1471-4159.2010.06625.x"
+        },
+        {
+          "author": "Slocum, G. W., Schult, R. F., Gorodetsky, R. M., Wiegand, T. J., Kamali, M., & Acquisto, N. M. (2018)",
+          "title": "Pregabalin and paradoxical reaction of seizures in a large overdose. Toxicology Communications, 2(1), 19–20.",
+          "url": "https://doi.org/10.1080/24734306.2018.1458465"
+        },
+        {
+          "author": "Wagner, S., Clark, M., Wesche, D., Doedens, D., & Lloyd, A. (1992)",
+          "title": "Asphyxial Deaths from the Recreational Use of Nitrous Oxide. Journal of Forensic Sciences, 37(4), 1008–1015.",
+          "url": "https://doi.org/10.1520/JFS13286J"
+        }
+      ],
+      "status": "Caution"
+    },
+    "opioids": {
+      "sources": [
+        {
+          "author": "Eckhardt, K., Ammon, S., Hofmann, U., Riebe, A., Gugeler, N., & Mikus, G. (2000)",
+          "title": "Gabapentin enhances the analgesic effect of morphine in healthy volunteers. Anesthesia and Analgesia, 91(1), 185–191.",
+          "url": "https://doi.org/10.1097/00000539-200007000-00035"
+        },
+        {
+          "author": "Eipe, N., & Penning, J. (2011)",
+          "title": "Postoperative respiratory depression associated with pregabalin: A case series and a preoperative decision algorithm. Pain Research & Management: The Journal of the Canadian Pain Society, 16(5), 353–356.",
+          "url": "https://doi.org/10.1155/2011/561604"
+        },
+        {
+          "author": "Elliott, S. P., Burke, T., & Smith, C. (2017)",
+          "title": "Determining the Toxicological Significance of Pregabalin in Fatalities. Journal of Forensic Sciences, 62(1), 169–173.",
+          "url": "https://doi.org/10.1111/1556-4029.13263"
+        },
+        {
+          "author": "Evoy, K. E., Sadrameli, S., Contreras, J., Covvey, J. R., Peckham, A. M., & Morrison, M. D. (2021)",
+          "title": "Abuse and Misuse of Pregabalin and Gabapentin: A Systematic Review Update. Drugs, 81(1), 125–156.",
+          "url": "https://doi.org/10.1007/s40265-020-01432-7"
+        },
+        {
+          "author": "Gomes, T., Juurlink, D. N., Antoniou, T., Mamdani, M. M., Paterson, J. M., & Brink, W. van den. (2017)",
+          "title": "Gabapentin, opioids, and the risk of opioid-related death: A population-based nested case–control study. PLOS Medicine, 14(10), e1002396.",
+          "url": "https://doi.org/10.1371/journal.pmed.1002396"
+        },
+        {
+          "author": "Lyndon, A., Audrey, S., Wells, C., Burnell, E. S., Ingle, S., Hill, R., Hickman, M., & Henderson, G. (2017)",
+          "title": "Risk to heroin users of polydrug use of pregabalin or gabapentin: Risks in combining gabapentoids with heroin. Addiction, 112(9), 1580–1589.",
+          "url": "https://doi.org/10.1111/add.13843"
+        },
+        {
+          "author": "Peckham, A. M., Evoy, K. E., Covvey, J. R., Ochs, L., Fairman, K. A., & Sclar, D. A. (2018)",
+          "title": "Predictors of Gabapentin Overuse With or Without Concomitant Opioids in a Commercially Insured U.S. Population. Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy, 38(4), 436–443.",
+          "url": "https://doi.org/10.1002/phar.2096"
+        },
+        {
+          "author": "Research, C. for D. E. and. (2020)",
+          "title": "FDA warns about serious breathing problems with seizure and nerve pain medicines gabapentin (Neurontin, Gralise, Horizant) and pregabalin (Lyrica, Lyrica CR). FDA.",
+          "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-warns-about-serious-breathing-problems-seizure-and-nerve-pain-medicines-gabapentin-neurontin"
         }
       ],
       "status": "Dangerous"
