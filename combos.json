@@ -4,7 +4,7 @@
       "status": "Caution"
     },
     "5-meo-xxt": {
-      "note": "Both classes of compounds can be unpredictable alone",
+      "note": "Both classes of compounds can be unpredictable alone.",
       "status": "Caution"
     },
     "alcohol": {
@@ -30,7 +30,7 @@
       "status": "Caution"
     },
     "cocaine": {
-      "note": "Cocaine and 2c-t-x both provide considerable stimulation. When combined they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.",
+      "note": "Cocaine and 2C-T-x drugs both provide considerable stimulation. When combined they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.",
       "status": "Unsafe"
     },
     "dextromethorphan": {
@@ -83,7 +83,7 @@
       "status": "Low Risk & Synergy"
     },
     "maois": {
-      "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably, which could be dangerous given the unpredictability of the 2C-T-x series",
+      "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably, which could be dangerous given the unpredictability of the 2C-T-x series.",
       "status": "Caution"
     },
     "mdma": {
@@ -140,7 +140,7 @@
       "status": "Low Risk & Decrease"
     },
     "caffeine": {
-      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+      "note": "High doses of caffeine can increase anxiety which can be less manageable when tripping. Both substances are stimulating and the combination may cause greater physical discomfort.",
       "status": "Low Risk & No Synergy"
     },
     "cannabis": {
@@ -259,7 +259,7 @@
       "status": "Low Risk & Decrease"
     },
     "caffeine": {
-      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+      "note": "High doses of caffeine can increase anxiety which can be less manageable when tripping. Both substances are stimulating and the combination may cause greater physical discomfort.",
       "status": "Low Risk & No Synergy"
     },
     "cannabis": {
@@ -724,7 +724,7 @@
       "status": "Low Risk & Decrease"
     },
     "caffeine": {
-      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+      "note": "High doses of caffeine can increase anxiety which can be less manageable when tripping. Both substances are stimulating and the combination may cause greater physical discomfort.",
       "status": "Caution"
     },
     "cannabis": {
@@ -879,15 +879,15 @@
   },
   "caffeine": {
     "2c-t-x": {
-      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+      "note": "High doses of caffeine can increase anxiety which can be less manageable when tripping. Both substances are stimulating and the combination may cause greater physical discomfort.",
       "status": "Low Risk & No Synergy"
     },
     "2c-x": {
-      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+      "note": "High doses of caffeine can increase anxiety which can be less manageable when tripping. Both substances are stimulating and the combination may cause greater physical discomfort.",
       "status": "Low Risk & No Synergy"
     },
     "5-meo-xxt": {
-      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+      "note": "High doses of caffeine can increase anxiety which can be less manageable when tripping. Both substances are stimulating and the combination may cause greater physical discomfort.",
       "status": "Low Risk & No Synergy"
     },
     "alcohol": {
@@ -898,7 +898,7 @@
       "status": "Caution"
     },
     "amt": {
-      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+      "note": "High doses of caffeine can increase anxiety which can be less manageable when tripping. Both substances are stimulating and the combination may cause greater physical discomfort.",
       "status": "Caution"
     },
     "benzodiazepines": {
@@ -1187,7 +1187,7 @@
   },
   "cocaine": {
     "2c-t-x": {
-      "note": "Cocaine and 2c-t-x both provide considerable stimulation. When combined they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.",
+      "note": "Cocaine and 2C-T-x drugs both provide considerable stimulation. When combined they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.",
       "status": "Unsafe"
     },
     "2c-x": {
@@ -3632,7 +3632,7 @@
   },
   "maois": {
     "2c-t-x": {
-      "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably, which could be dangerous given the unpredictability of the 2C-T-x series",
+      "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably, which could be dangerous given the unpredictability of the 2C-T-x series.",
       "status": "Caution"
     },
     "2c-x": {
