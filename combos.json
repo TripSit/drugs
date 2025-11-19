@@ -105,7 +105,7 @@
       "status": "Low Risk & Synergy"
     },
     "opioids": {
-      "note": "No expected interactions, some opioids have serotonin action, and could lead to Serotonin Syndrome or a seizure. These are pretty much only to Pentazocine, Methadone, Tramadol, Tapenatdol.",
+      "note": "There may concerns of an interaction with opioids that have serotonergic activity. These may lead to serotonin syndrome and or seizures. Notably these are pentazocine, methadone, tramadol, and tapentadol.",
       "status": "Low Risk & No Synergy"
     },
     "pcp": {
@@ -123,7 +123,7 @@
       "status": "Caution"
     },
     "5-meo-xxt": {
-      "note": "The 5-MeO psychedelics can interact unpredictably to potentiate other psychedelics",
+      "note": "The 5-MeO-xxT class can act unpredictably and potentiate other psychedelics.",
       "status": "Caution"
     },
     "alcohol": {
@@ -242,7 +242,7 @@
       "status": "Caution"
     },
     "2c-x": {
-      "note": "The 5-MeO psychedelics can interact unpredictably to potentiate other psychedelics",
+      "note": "The 5-MeO-xxT class can act unpredictably and potentiate other psychedelics.",
       "status": "Caution"
     },
     "alcohol": {
@@ -5098,7 +5098,7 @@
   },
   "opioids": {
     "2c-t-x": {
-      "note": "No expected interactions, some opioids have serotonin action, and could lead to Serotonin Syndrome or a seizure. These are pretty much only to Pentazocine, Methadone, Tramadol, Tapenatdol.",
+      "note": "There may concerns of an interaction with opioids that have serotonergic activity. These may lead to serotonin syndrome and or seizures. Notably these are pentazocine, methadone, tramadol, and tapentadol.",
       "status": "Low Risk & No Synergy"
     },
     "2c-x": {
