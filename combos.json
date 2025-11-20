@@ -2335,6 +2335,22 @@
     "pcp": {
       "status": "Low Risk & Synergy"
     },
+    "pregabalin": {
+      "note": "Pregabalin may reduce the anxiety and other possible side effects of DMT. Additionally, the combination may increase inhibition, dizziness, and risk of injury.",
+      "sources": [
+        {
+          "author": "Carbonaro, T. M., & Gatch, M. B. (2016)",
+          "title": "Neuropharmacology of N,N-Dimethyltryptamine. Brain Research Bulletin, 126(Pt 1), 74–88.",
+          "url": "https://doi.org/10.1016/j.brainresbull.2016.04.016"
+        },
+        {
+          "author": "Cross, A. L., Viswanath, O., & Sherman, A. L. (2025)",
+          "title": "Pregabalin. In StatPearls. StatPearls Publishing.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK470341/"
+        }
+      ],
+      "status": "Low Risk & Synergy"
+    },
     "ssris": {
       "status": "Low Risk & Decrease"
     },
@@ -5975,6 +5991,22 @@
         }
       ],
       "status": "Unsafe"
+    },
+    "dmt": {
+      "note": "Pregabalin may reduce the anxiety and other possible side effects of DMT. Additionally, the combination may increase inhibition, dizziness, and risk of injury.",
+      "sources": [
+        {
+          "author": "Carbonaro, T. M., & Gatch, M. B. (2016)",
+          "title": "Neuropharmacology of N,N-Dimethyltryptamine. Brain Research Bulletin, 126(Pt 1), 74–88.",
+          "url": "https://doi.org/10.1016/j.brainresbull.2016.04.016"
+        },
+        {
+          "author": "Cross, A. L., Viswanath, O., & Sherman, A. L. (2025)",
+          "title": "Pregabalin. In StatPearls. StatPearls Publishing.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK470341/"
+        }
+      ],
+      "status": "Low Risk & Synergy"
     },
     "dox": {
       "note": "Caution should be given due to DOx drugs stimulating effects and pregabalin’s seizure concerns at higher dosages. Pregabalin may reduce the vasoconstriction, anxiety, and other side effects of DOx drugs. Additionally, Pregabalin may increase DOx drugs inhibition and risk of injury.",
