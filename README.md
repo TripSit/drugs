@@ -81,28 +81,28 @@ Dangerous - These combinations are considered extremely harmful and should alway
 
 ## External Links
 
-**Main:**
-[Website](https://tripsit.me/)
-[GitHub](https://github.com/TripSit/drugs)
-[Online Drug Combination Chart](https://combo.tripsit.me/)
-[Image Drug Combination Chart](https://wiki.tripsit.me/wiki/Drug_combinations)
-[Trello *outdated*](https://trello.com/b/EaeSqpKl/tripsit-content)
-[Discord](https://discord.gg/tripsit)
-[Factsheets](https://tripsit.me/factsheets)
-[Research Tools](https://github.com/TripSit/drugs/discussions/292)
+**Main:**   
+[Website](https://tripsit.me/)   
+[GitHub](https://github.com/TripSit/drugs)   
+[Online Drug Combination Chart](https://combo.tripsit.me/)   
+[Image Drug Combination Chart](https://wiki.tripsit.me/wiki/Drug_combinations)   
+[Trello *outdated*](https://trello.com/b/EaeSqpKl/tripsit-content)   
+[Discord](https://discord.gg/tripsit)   
+[Factsheets](https://tripsit.me/factsheets)   
+[Research Tools](https://github.com/TripSit/drugs/discussions/292)   
 
-**Documentation:**
+**Documentation:**   
 [Additional Research Document](https://docs.google.com/document/d/1cT4wONr4GsijbzeYPAFpSpZh0Mq5u7SEQkTHbxDxAVA/edit?usp=sharing
-)
+)   
 [Combination Chart Main Document v1 *outdated*](https://docs.google.com/document/d/1_n65NibeMNNMBahocEjLe-630hwpSlibbZgDQeDf7Y4/edit?usp=sharing
-)
-[Combination Chart Main Document v2 *draft*](https://docs.google.com/document/d/1S57u8rTUDY8AUBg_Cera_OglozadOtiF2wG_LWNpfrE/edit?tab=t.0)
+)   
+[Combination Chart Main Document v2 *draft*](https://docs.google.com/document/d/1S57u8rTUDY8AUBg_Cera_OglozadOtiF2wG_LWNpfrE/edit?tab=t.0)   
 [Long-Term Game Plan Document](https://docs.google.com/document/d/1oEl-ZvfECPmadBxXbwIkP6kOUYJyf01DqBTxvP8O0Iw/edit?usp=sharing
-)
+)   
 [Drug Combination Chart Research Tracker](https://docs.google.com/spreadsheets/d/1aeXuaDRMiAiKihtYT_7GwE7Co1Oj2b4rpKJ3cULCTqQ/edit?usp=sharing
-)
+)   
 
-**Tutorials:**
+**Tutorials:**   
 [Drug Interaction Submission Tutorial](https://www.youtube.com/watch?v=sqnMuyTNHXY)
 
 ## Contact Methods
