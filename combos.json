@@ -2363,6 +2363,97 @@
       ],
       "status": "Dangerous"
     },
+    "pregabalin": {
+      "note": "There is a significant risk of seizures from this combination. The combination is likely to increase each other’s negative side effects, such as nausea, dizziness, and loss of consciousness. At higher dosages, pregabalin is likely to increase diphenhydramine’s deliriant effects, inhibition, and risk of injury. Medical dosages are not reported to be a concern.",
+      "sources": [
+        {
+          "author": "Altair. (n.d.-a)",
+          "title": "Pregabalin (Lyrica) - Erowid Exp - “Heart Arrhythmia, Seizure : Not Recreational.”",
+          "url": "https://www.erowid.org/experiences/exp.php?ID=69917"
+        },
+        {
+          "author": "Barker-Haliski, M., & White, H. S. (2015)",
+          "title": "Glutamatergic Mechanisms Associated with Seizures and Epilepsy. Cold Spring Harbor Perspectives in Medicine, 5(8), a022863.",
+          "url": "https://doi.org/10.1101/cshperspect.a022863"
+        },
+        {
+          "author": "Ben-Menachem, E. (2004)",
+          "title": "Pregabalin pharmacology and its relevance to clinical practice. Epilepsia, 45 Suppl 6, 13–18.",
+          "url": "https://doi.org/10.1111/j.0013-9580.2004.455003.x"
+        },
+        {
+          "author": "Medline Plus Medical Encyclopedia (2023)",
+          "title": "Diphenhydramine overdose",
+          "url": "https://medlineplus.gov/ency/article/002636.htm"
+        },
+        {
+          "author": "Douke, R. (n.d.)",
+          "title": "Pregabalin & Tramadol - Erowid Exp - “Grand Mal Seizures.”",
+          "url": "https://www.erowid.org/experiences/exp.php?ID=83232"
+        },
+        {
+          "author": "Fakhr, M. S., Motamed Chaboki, P., Ashayeri, H., Sahranavard, P., Mohammadipanah, S., & Zamanabadi, M. N. (2023)",
+          "title": "Comparison of the effects of pregabalin and famotidine with pregabalin and diphenhydramine on postoperative abdominal pain. International Journal of Surgery Open, 58, 100674.",
+          "url": "https://doi.org/10.1016/j.ijso.2023.100674"
+        },
+        {
+          "author": "French, J., Kwan, P., Fakhoury, T., Pitman, V., DuBrava, S., Knapp, L., & Yurkewicz, L. (2014)",
+          "title": "Pregabalin monotherapy in patients with partial-onset seizures. Neurology, 82(7), 590–597.",
+          "url": "https://doi.org/10.1212/WNL.0000000000000119"
+        },
+        {
+          "author": "Gayatri, N. A., & Livingston, J. H. (2006)",
+          "title": "Aggravation of epilepsy by anti-epileptic drugs. Developmental Medicine and Child Neurology, 48(5), 394–398.",
+          "url": "https://doi.org/10.1017/S0012162206000843"
+        },
+        {
+          "author": "Hitchings, A. W. (2016)",
+          "title": "Drugs that lower the seizure threshold. Adverse Drug Reaction Bulletin, 298(1), 1151–1154.",
+          "url": "https://doi.org/10.1097/FAD.0000000000000016"
+        },
+        {
+          "author": "Isoardi, K. Z., Polkinghorne, G., Harris, K., & Isbister, G. K. (2020)",
+          "title": "Pregabalin poisoning and rising recreational use: a retrospective observational series. British Journal of Clinical Pharmacology, 86(12), 2435–2440.",
+          "url": "https://doi.org/10.1111/bcp.14348"
+        },
+        {
+          "author": "Jang, D. H., Manini, A. F., Trueger, N. S., Duque, D., Nestor, N. B., Nelson, L. S., & Hoffman, R. S. (2010)",
+          "title": "Status epilepticus and wide-complex tachycardia secondary to diphenhydramine overdose. Clinical Toxicology, 48(9), 945–948.",
+          "url": "https://doi.org/10.3109/15563650.2010.527850"
+        },
+        {
+          "author": "Kim, H., Kim, S. H., & Kim, J. B. (2021)",
+          "title": "Antihistamines as a common cause of new-onset seizures: a single-center observational study. Neurological Sciences: Official Journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology, 42(6), 2505–2508.",
+          "url": "https://doi.org/10.1007/s10072-021-05043-2"
+        },
+        {
+          "author": "Kumar, N., Laferriere, A., Yu, J. S. C., Leavitt, A., & Coderre, T. J. (2010)",
+          "title": "Evidence that pregabalin reduces neuropathic pain by inhibiting the spinal release of glutamate. Journal of Neurochemistry, 113(2), 552–561.",
+          "url": "https://doi.org/10.1111/j.1471-4159.2010.06625.x"
+        },
+        {
+          "author": "Schifano, F., Chiappini, S., Miuli, A., Mosca, A., Santovito, M. C., Corkery, J. M., Guirguis, A., Pettorruso, M., Di Giannantonio, M., & Martinotti, G. (2021)",
+          "title": "Focus on Over-the-Counter Drugs’ Misuse: A Systematic Review on Antihistamines, Cough Medicines, and Decongestants. Frontiers in Psychiatry, 12, 657397.",
+          "url": "https://doi.org/10.3389/fpsyt.2021.657397"
+        },
+        {
+          "author": "Sean. (n.d.-b)",
+          "title": "Pregabalin - Erowid Exp - “Stay Away.”",
+          "url": "https://www.erowid.org/experiences/exp.php?ID=67302"
+        },
+        {
+          "author": "Slocum, G. W., Schult, R. F., Gorodetsky, R. M., Wiegand, T. J., Kamali, M., & Acquisto, N. M. (2018)",
+          "title": "Pregabalin and paradoxical reaction of seizures in a large overdose. Toxicology Communications, 2(1), 19–20.",
+          "url": "https://doi.org/10.1080/24734306.2018.1458465"
+        },
+        {
+          "author": "Wolfson, A. R., Wong, D., Abrams, E. M., Waserman, S., & Sussman, G. L. (2022)",
+          "title": "Diphenhydramine: Time to Move on? The Journal of Allergy and Clinical Immunology: In Practice, 10(12), 3124–3130.",
+          "url": "https://doi.org/10.1016/j.jaip.2022.07.018"
+        }
+      ],
+      "status": "Unsafe"
+    },
     "ssris": {
       "note": "There is a high risk of serotonin syndrome at recreational dosages. Medical dosages are reported not to be a concern for the general population. The combination may increase each other's side effects, such as dizziness and drowsiness.",
       "sources": [
@@ -6572,6 +6663,97 @@
           "author": "Slocum, G. W., Schult, R. F., Gorodetsky, R. M., Wiegand, T. J., Kamali, M., & Acquisto, N. M. (2018)",
           "title": "Pregabalin and paradoxical reaction of seizures in a large overdose. Toxicology Communications, 2(1), 19–20.",
           "url": "https://doi.org/10.1080/24734306.2018.1458465"
+        }
+      ],
+      "status": "Unsafe"
+    },
+    "diphenhydramine": {
+      "note": "There is a significant risk of seizures from this combination. The combination is likely to increase each other’s negative side effects, such as nausea, dizziness, and loss of consciousness. At higher dosages, pregabalin is likely to increase diphenhydramine’s deliriant effects, inhibition, and risk of injury. Medical dosages are not reported to be a concern.",
+      "sources": [
+        {
+          "author": "Altair. (n.d.-a)",
+          "title": "Pregabalin (Lyrica) - Erowid Exp - “Heart Arrhythmia, Seizure : Not Recreational.”",
+          "url": "https://www.erowid.org/experiences/exp.php?ID=69917"
+        },
+        {
+          "author": "Barker-Haliski, M., & White, H. S. (2015)",
+          "title": "Glutamatergic Mechanisms Associated with Seizures and Epilepsy. Cold Spring Harbor Perspectives in Medicine, 5(8), a022863.",
+          "url": "https://doi.org/10.1101/cshperspect.a022863"
+        },
+        {
+          "author": "Ben-Menachem, E. (2004)",
+          "title": "Pregabalin pharmacology and its relevance to clinical practice. Epilepsia, 45 Suppl 6, 13–18.",
+          "url": "https://doi.org/10.1111/j.0013-9580.2004.455003.x"
+        },
+        {
+          "author": "Medline Plus Medical Encyclopedia (2023)",
+          "title": "Diphenhydramine overdose",
+          "url": "https://medlineplus.gov/ency/article/002636.htm"
+        },
+        {
+          "author": "Douke, R. (n.d.)",
+          "title": "Pregabalin & Tramadol - Erowid Exp - “Grand Mal Seizures.”",
+          "url": "https://www.erowid.org/experiences/exp.php?ID=83232"
+        },
+        {
+          "author": "Fakhr, M. S., Motamed Chaboki, P., Ashayeri, H., Sahranavard, P., Mohammadipanah, S., & Zamanabadi, M. N. (2023)",
+          "title": "Comparison of the effects of pregabalin and famotidine with pregabalin and diphenhydramine on postoperative abdominal pain. International Journal of Surgery Open, 58, 100674.",
+          "url": "https://doi.org/10.1016/j.ijso.2023.100674"
+        },
+        {
+          "author": "French, J., Kwan, P., Fakhoury, T., Pitman, V., DuBrava, S., Knapp, L., & Yurkewicz, L. (2014)",
+          "title": "Pregabalin monotherapy in patients with partial-onset seizures. Neurology, 82(7), 590–597.",
+          "url": "https://doi.org/10.1212/WNL.0000000000000119"
+        },
+        {
+          "author": "Gayatri, N. A., & Livingston, J. H. (2006)",
+          "title": "Aggravation of epilepsy by anti-epileptic drugs. Developmental Medicine and Child Neurology, 48(5), 394–398.",
+          "url": "https://doi.org/10.1017/S0012162206000843"
+        },
+        {
+          "author": "Hitchings, A. W. (2016)",
+          "title": "Drugs that lower the seizure threshold. Adverse Drug Reaction Bulletin, 298(1), 1151–1154.",
+          "url": "https://doi.org/10.1097/FAD.0000000000000016"
+        },
+        {
+          "author": "Isoardi, K. Z., Polkinghorne, G., Harris, K., & Isbister, G. K. (2020)",
+          "title": "Pregabalin poisoning and rising recreational use: a retrospective observational series. British Journal of Clinical Pharmacology, 86(12), 2435–2440.",
+          "url": "https://doi.org/10.1111/bcp.14348"
+        },
+        {
+          "author": "Jang, D. H., Manini, A. F., Trueger, N. S., Duque, D., Nestor, N. B., Nelson, L. S., & Hoffman, R. S. (2010)",
+          "title": "Status epilepticus and wide-complex tachycardia secondary to diphenhydramine overdose. Clinical Toxicology, 48(9), 945–948.",
+          "url": "https://doi.org/10.3109/15563650.2010.527850"
+        },
+        {
+          "author": "Kim, H., Kim, S. H., & Kim, J. B. (2021)",
+          "title": "Antihistamines as a common cause of new-onset seizures: a single-center observational study. Neurological Sciences: Official Journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology, 42(6), 2505–2508.",
+          "url": "https://doi.org/10.1007/s10072-021-05043-2"
+        },
+        {
+          "author": "Kumar, N., Laferriere, A., Yu, J. S. C., Leavitt, A., & Coderre, T. J. (2010)",
+          "title": "Evidence that pregabalin reduces neuropathic pain by inhibiting the spinal release of glutamate. Journal of Neurochemistry, 113(2), 552–561.",
+          "url": "https://doi.org/10.1111/j.1471-4159.2010.06625.x"
+        },
+        {
+          "author": "Schifano, F., Chiappini, S., Miuli, A., Mosca, A., Santovito, M. C., Corkery, J. M., Guirguis, A., Pettorruso, M., Di Giannantonio, M., & Martinotti, G. (2021)",
+          "title": "Focus on Over-the-Counter Drugs’ Misuse: A Systematic Review on Antihistamines, Cough Medicines, and Decongestants. Frontiers in Psychiatry, 12, 657397.",
+          "url": "https://doi.org/10.3389/fpsyt.2021.657397"
+        },
+        {
+          "author": "Sean. (n.d.-b)",
+          "title": "Pregabalin - Erowid Exp - “Stay Away.”",
+          "url": "https://www.erowid.org/experiences/exp.php?ID=67302"
+        },
+        {
+          "author": "Slocum, G. W., Schult, R. F., Gorodetsky, R. M., Wiegand, T. J., Kamali, M., & Acquisto, N. M. (2018)",
+          "title": "Pregabalin and paradoxical reaction of seizures in a large overdose. Toxicology Communications, 2(1), 19–20.",
+          "url": "https://doi.org/10.1080/24734306.2018.1458465"
+        },
+        {
+          "author": "Wolfson, A. R., Wong, D., Abrams, E. M., Waserman, S., & Sussman, G. L. (2022)",
+          "title": "Diphenhydramine: Time to Move on? The Journal of Allergy and Clinical Immunology: In Practice, 10(12), 3124–3130.",
+          "url": "https://doi.org/10.1016/j.jaip.2022.07.018"
         }
       ],
       "status": "Unsafe"
