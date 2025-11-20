@@ -92,7 +92,7 @@ Dangerous - These combinations are considered extremely harmful and should alway
 [Research Tools](https://github.com/TripSit/drugs/discussions/292)
 
 **Documentation:**
-[Additional Research Help List](https://docs.google.com/document/d/1FwHhRLPpvoPE3fAmXpBmXB3Jyt6OTvXS1qIwcs7deiE/edit?usp=sharing
+[Additional Research Document](https://docs.google.com/document/d/1cT4wONr4GsijbzeYPAFpSpZh0Mq5u7SEQkTHbxDxAVA/edit?usp=sharing
 )
 [Combination Chart Main Document v1 *outdated*](https://docs.google.com/document/d/1_n65NibeMNNMBahocEjLe-630hwpSlibbZgDQeDf7Y4/edit?usp=sharing
 )
