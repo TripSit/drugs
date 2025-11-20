@@ -21053,7 +21053,8 @@
     "pretty_name": "Fentanyl",
     "properties": {
       "aliases": [
-        "fent"
+        "fent",
+        "TNT"
       ],
       "bioavailability": "Sublingual/Buccal 50% | Insufflated 70% | Transdermal 92%",
       "categories": [
@@ -22450,9 +22451,7 @@
         "big H",
         "black tar",
         "horse",
-        "junk",
-        "thunder",
-        "TNT"
+        "junk"
       ],
       "bioavailability": "Oral 35% | Intramuscular 85%",
       "categories": [
