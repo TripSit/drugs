@@ -26365,6 +26365,67 @@
         "note": "This combination can easily lead to hypermanic states",
         "status": "Unsafe"
       },
+      "pregabalin": {
+        "note": "There is a significant risk of seizures from this combination. Amphetamines increase respiration rate allowing for a higher dose of sedatives than normal. If amphetamines wears off first, recreational dosages of pregabalin may overcome the individual and cause respiratory arrest. Both substances at recreational dosages cause strain of the heart and may lead to further dangerous heart complications. Medical dosages are not reported to be a concern",
+        "sources": [
+          {
+            "author": "Alo, C., & Kioka, M. J. (2024)",
+            "title": "Rave gone wrong: MDMA- induced medical emergency at electrical daisy carnival. A case report. Toxicology Reports, 13, 101739.",
+            "url": "https://doi.org/10.1016/j.toxrep.2024.101739"
+          },
+          {
+            "author": "Altair. (n.d.-a)",
+            "title": "Pregabalin (Lyrica) - Erowid Exp - “Heart Arrhythmia, Seizure : Not Recreational.”",
+            "url": "https://www.erowid.org/experiences/exp.php?ID=69917"
+          },
+          {
+            "author": "Ben-Menachem, E. (2004)",
+            "title": "Pregabalin pharmacology and its relevance to clinical practice. Epilepsia, 45 Suppl 6, 13–18.",
+            "url": "https://doi.org/10.1111/j.0013-9580.2004.455003.x"
+          },
+          {
+            "author": "Christie, D., Yazar-Klosinski, B., Nosova, E., Kryskow, P., Siu, W., Lessor, D., & Argento, E. (2022)",
+            "title": "MDMA-assisted therapy is associated with a reduction in chronic pain among people with post-traumatic stress disorder. Frontiers in Psychiatry, 13.",
+            "url": "https://doi.org/10.3389/fpsyt.2022.939302"
+          },
+          {
+            "author": "Douke, R. (n.d.)",
+            "title": "Pregabalin & Tramadol - Erowid Exp - “Grand Mal Seizures.”",
+            "url": "https://www.erowid.org/experiences/exp.php?ID=83232"
+          },
+          {
+            "author": "French, J., Kwan, P., Fakhoury, T., Pitman, V., DuBrava, S., Knapp, L., & Yurkewicz, L. (2014)",
+            "title": "Pregabalin monotherapy in patients with partial-onset seizures. Neurology, 82(7), 590–597.",
+            "url": "https://doi.org/10.1212/WNL.0000000000000119"
+          },
+          {
+            "author": "Oskouei, Z., Moshiri, M., Raouf-Rahmati, A., Nemati, A., Bemani Naeini, M., Jomehpour, H., Roohbakhsh, A., Salmasi, Z., & Etemad, L. (2025)",
+            "title": "Seizures as an Adverse Effect of Pregabalin Consumption: A Systematic Review. Addiction & Health, 17, 1527.",
+            "url": "https://doi.org/10.34172/ahj.1527"
+          },
+          {
+            "author": "Rietjens, S. J., Sikma, M. A., Hunault, C. C., De Lange, D. W., & Hondebrink, L. (2022)",
+            "title": "Pregabalin poisoning: Evaluation of dose‐toxicity relationship. British Journal of Clinical Pharmacology, 88(3), 1288–1297.",
+            "url": "https://doi.org/10.1111/bcp.15073"
+          },
+          {
+            "author": "Sean. (n.d.-b)",
+            "title": "Pregabalin - Erowid Exp - “Stay Away.”",
+            "url": "https://www.erowid.org/experiences/exp.php?ID=67302"
+          },
+          {
+            "author": "Slocum, G. W., Schult, R. F., Gorodetsky, R. M., Wiegand, T. J., Kamali, M., & Acquisto, N. M. (2018)",
+            "title": "Pregabalin and paradoxical reaction of seizures in a large overdose. Toxicology Communications, 2(1), 19–20.",
+            "url": "https://doi.org/10.1080/24734306.2018.1458465"
+          },
+          {
+            "author": "Vollenweider, F. X., Gamma, A., Liechti, M., & Huber, T. (1998)",
+            "title": "Psychological and cardiovascular effects and short-term sequelae of MDMA (“ecstasy”) in MDMA-naïve healthy volunteers. Neuropsychopharmacology: Official Publication of the American College of Neuropsychopharmacology, 19(4), 241–251.",
+            "url": "https://doi.org/10.1016/S0893-133X(98)00013-X"
+          }
+        ],
+        "status": "Unsafe"
+      },
       "ssris": {
         "sources": [
           {
@@ -34877,6 +34938,67 @@
           }
         ],
         "status": "Caution"
+      },
+      "mdma": {
+        "note": "There is a significant risk of seizures from this combination. Amphetamines increase respiration rate allowing for a higher dose of sedatives than normal. If amphetamines wears off first, recreational dosages of pregabalin may overcome the individual and cause respiratory arrest. Both substances at recreational dosages cause strain of the heart and may lead to further dangerous heart complications. Medical dosages are not reported to be a concern",
+        "sources": [
+          {
+            "author": "Alo, C., & Kioka, M. J. (2024)",
+            "title": "Rave gone wrong: MDMA- induced medical emergency at electrical daisy carnival. A case report. Toxicology Reports, 13, 101739.",
+            "url": "https://doi.org/10.1016/j.toxrep.2024.101739"
+          },
+          {
+            "author": "Altair. (n.d.-a)",
+            "title": "Pregabalin (Lyrica) - Erowid Exp - “Heart Arrhythmia, Seizure : Not Recreational.”",
+            "url": "https://www.erowid.org/experiences/exp.php?ID=69917"
+          },
+          {
+            "author": "Ben-Menachem, E. (2004)",
+            "title": "Pregabalin pharmacology and its relevance to clinical practice. Epilepsia, 45 Suppl 6, 13–18.",
+            "url": "https://doi.org/10.1111/j.0013-9580.2004.455003.x"
+          },
+          {
+            "author": "Christie, D., Yazar-Klosinski, B., Nosova, E., Kryskow, P., Siu, W., Lessor, D., & Argento, E. (2022)",
+            "title": "MDMA-assisted therapy is associated with a reduction in chronic pain among people with post-traumatic stress disorder. Frontiers in Psychiatry, 13.",
+            "url": "https://doi.org/10.3389/fpsyt.2022.939302"
+          },
+          {
+            "author": "Douke, R. (n.d.)",
+            "title": "Pregabalin & Tramadol - Erowid Exp - “Grand Mal Seizures.”",
+            "url": "https://www.erowid.org/experiences/exp.php?ID=83232"
+          },
+          {
+            "author": "French, J., Kwan, P., Fakhoury, T., Pitman, V., DuBrava, S., Knapp, L., & Yurkewicz, L. (2014)",
+            "title": "Pregabalin monotherapy in patients with partial-onset seizures. Neurology, 82(7), 590–597.",
+            "url": "https://doi.org/10.1212/WNL.0000000000000119"
+          },
+          {
+            "author": "Oskouei, Z., Moshiri, M., Raouf-Rahmati, A., Nemati, A., Bemani Naeini, M., Jomehpour, H., Roohbakhsh, A., Salmasi, Z., & Etemad, L. (2025)",
+            "title": "Seizures as an Adverse Effect of Pregabalin Consumption: A Systematic Review. Addiction & Health, 17, 1527.",
+            "url": "https://doi.org/10.34172/ahj.1527"
+          },
+          {
+            "author": "Rietjens, S. J., Sikma, M. A., Hunault, C. C., De Lange, D. W., & Hondebrink, L. (2022)",
+            "title": "Pregabalin poisoning: Evaluation of dose‐toxicity relationship. British Journal of Clinical Pharmacology, 88(3), 1288–1297.",
+            "url": "https://doi.org/10.1111/bcp.15073"
+          },
+          {
+            "author": "Sean. (n.d.-b)",
+            "title": "Pregabalin - Erowid Exp - “Stay Away.”",
+            "url": "https://www.erowid.org/experiences/exp.php?ID=67302"
+          },
+          {
+            "author": "Slocum, G. W., Schult, R. F., Gorodetsky, R. M., Wiegand, T. J., Kamali, M., & Acquisto, N. M. (2018)",
+            "title": "Pregabalin and paradoxical reaction of seizures in a large overdose. Toxicology Communications, 2(1), 19–20.",
+            "url": "https://doi.org/10.1080/24734306.2018.1458465"
+          },
+          {
+            "author": "Vollenweider, F. X., Gamma, A., Liechti, M., & Huber, T. (1998)",
+            "title": "Psychological and cardiovascular effects and short-term sequelae of MDMA (“ecstasy”) in MDMA-naïve healthy volunteers. Neuropsychopharmacology: Official Publication of the American College of Neuropsychopharmacology, 19(4), 241–251.",
+            "url": "https://doi.org/10.1016/S0893-133X(98)00013-X"
+          }
+        ],
+        "status": "Unsafe"
       },
       "mephedrone": {
         "note": "There is a significant risk of seizures from this combination. Mephedrone increases respiration rate allowing for a higher dose of sedatives than normal. If mephedrone wears off first, recreational dosages of pregabalin may overcome the individual and cause respiratory arrest. Both substances at recreational dosages cause strain of the heart and may lead to further dangerous heart complications.",
