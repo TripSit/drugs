@@ -29950,6 +29950,22 @@
       "pcp": {
         "status": "Low Risk & Synergy"
       },
+      "pregabalin": {
+        "note": "Pregabalin may reduce the anxiety and other possible side effects of Psilocybin Mushrooms. Additionally, the combination may increase inhibition, dizziness, and risk of injury.",
+        "sources": [
+          {
+            "author": "Cross, A. L., Viswanath, O., & Sherman, A. L. (2025)",
+            "title": "Pregabalin. In StatPearls. StatPearls Publishing.",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK470341/"
+          },
+          {
+            "author": "Psilocybin - an overview | ScienceDirect Topics. (n.d.)",
+            "title": "Retrieved October 27, 2025, from https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/psilocybin",
+            "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/psilocybin"
+          }
+        ],
+        "status": "Low Risk & Synergy"
+      },
       "ssris": {
         "status": "Low Risk & Decrease"
       },
@@ -34253,6 +34269,22 @@
           }
         ],
         "status": "Caution"
+      },
+      "mushrooms": {
+        "note": "Pregabalin may reduce the anxiety and other possible side effects of Psilocybin Mushrooms. Additionally, the combination may increase inhibition, dizziness, and risk of injury.",
+        "sources": [
+          {
+            "author": "Cross, A. L., Viswanath, O., & Sherman, A. L. (2025)",
+            "title": "Pregabalin. In StatPearls. StatPearls Publishing.",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK470341/"
+          },
+          {
+            "author": "Psilocybin - an overview | ScienceDirect Topics. (n.d.)",
+            "title": "Retrieved October 27, 2025, from https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/psilocybin",
+            "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/psilocybin"
+          }
+        ],
+        "status": "Low Risk & Synergy"
       },
       "nbomes": {
         "note": "NBOMes and pregabalin are reported to have significant seizure concerns that are likely to increase in combination. Therapeutic dosages of pregabalin are unlikely to be of concern and may decrease NBOMes side effects such as vasoconstriction and anxiety.",
