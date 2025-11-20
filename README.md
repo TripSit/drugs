@@ -86,17 +86,35 @@ Dangerous - These combinations are considered extremely harmful and should alway
 [GitHub](https://github.com/TripSit/drugs)
 [Online Drug Combination Chart](https://combo.tripsit.me/)
 [Image Drug Combination Chart](https://wiki.tripsit.me/wiki/Drug_combinations)
-[Trello](https://trello.com/b/EaeSqpKl/tripsit-content)
+[Trello *outdated*](https://trello.com/b/EaeSqpKl/tripsit-content)
 [Discord](https://discord.gg/tripsit)
 [Factsheets](https://tripsit.me/factsheets)
+[Research Tools](https://github.com/TripSit/drugs/discussions/292)
 
 **Documentation:**
 [Additional Research Help List](https://docs.google.com/document/d/1FwHhRLPpvoPE3fAmXpBmXB3Jyt6OTvXS1qIwcs7deiE/edit?usp=sharing
 )
-[Combination Chart Main Document v1 ](https://docs.google.com/document/d/1_n65NibeMNNMBahocEjLe-630hwpSlibbZgDQeDf7Y4/edit?usp=sharing
+[Combination Chart Main Document v1 *outdated*](https://docs.google.com/document/d/1_n65NibeMNNMBahocEjLe-630hwpSlibbZgDQeDf7Y4/edit?usp=sharing
 )
-[Combination Chart Main Document v2 Draft](https://docs.google.com/document/d/1S57u8rTUDY8AUBg_Cera_OglozadOtiF2wG_LWNpfrE/edit?tab=t.0)
+[Combination Chart Main Document v2 *draft*](https://docs.google.com/document/d/1S57u8rTUDY8AUBg_Cera_OglozadOtiF2wG_LWNpfrE/edit?tab=t.0)
 [Long-Term Game Plan Document](https://docs.google.com/document/d/1oEl-ZvfECPmadBxXbwIkP6kOUYJyf01DqBTxvP8O0Iw/edit?usp=sharing
 )
 [Drug Combination Chart Research Tracker](https://docs.google.com/spreadsheets/d/1aeXuaDRMiAiKihtYT_7GwE7Co1Oj2b4rpKJ3cULCTqQ/edit?usp=sharing
 )
+
+**Tutorials:**
+[Drug Interaction Submission Tutorial](https://www.youtube.com/watch?v=sqnMuyTNHXY)
+
+## Contact Methods
+
+Discord is generally the fastest and easiest way to get in contact.
+* Discord Contacts:
+  * Director - "moonbear"
+  * Discord Guy - "hipperooni"
+  * Team Coordinator - "spacelady."
+  * Harm Reduction Coordinator - "zelixir"
+  * Content Coordinator & Combination Chart Project Lead - "utaninja"
+* Email
+  * TripSit Main - "admin@tripsit.me"
+  * Director - "eric@tripsit.me"
+  * Content Coordinator & Combination Chart Project Lead - "gavriel@tripsit.me"
