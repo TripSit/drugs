@@ -228,6 +228,22 @@
     "pcp": {
       "status": "Low Risk & Synergy"
     },
+    "pregabalin": {
+      "note": "Pregabalin may reduce the anxiety and other possible side effects of 2C-X drugs. Additionally, the combination may increase inhibition, dizziness, and risk of injury.",
+      "sources": [
+        {
+          "author": "Cross, A. L., Viswanath, O., & Sherman, A. L. (2025)",
+          "title": "Pregabalin. In StatPearls. StatPearls Publishing.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK470341/"
+        },
+        {
+          "author": "Gil-Martins, E., Barbosa, D. J., Borges, F., Remião, F., & Silva, R. (2025)",
+          "title": "Toxicodynamic insights of 2C and NBOMe drugs – Is there abuse potential? Toxicology Reports, 14, 101890.",
+          "url": "https://doi.org/10.1016/j.toxrep.2025.101890"
+        }
+      ],
+      "status": "Low Risk & Synergy"
+    },
     "ssris": {
       "status": "Low Risk & Decrease"
     },
@@ -5756,6 +5772,22 @@
     }
   },
   "pregabalin": {
+    "2c-x": {
+      "note": "Pregabalin may reduce the anxiety and other possible side effects of 2C-X drugs. Additionally, the combination may increase inhibition, dizziness, and risk of injury.",
+      "sources": [
+        {
+          "author": "Cross, A. L., Viswanath, O., & Sherman, A. L. (2025)",
+          "title": "Pregabalin. In StatPearls. StatPearls Publishing.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK470341/"
+        },
+        {
+          "author": "Gil-Martins, E., Barbosa, D. J., Borges, F., Remião, F., & Silva, R. (2025)",
+          "title": "Toxicodynamic insights of 2C and NBOMe drugs – Is there abuse potential? Toxicology Reports, 14, 101890.",
+          "url": "https://doi.org/10.1016/j.toxrep.2025.101890"
+        }
+      ],
+      "status": "Low Risk & Synergy"
+    },
     "5-meo-xxt": {
       "note": "Caution should be given due to 5-MeO-xxT drugs stimulating effects and pregabalin’s seizure concerns at higher dosages. Pregabalin may reduce the vasoconstriction, anxiety, and other side effects of 5-MeO-xxT drugs. Additionally, Pregabalin may increase 5-MeO-xxT drugs inhibition and risk of injury.",
       "sources": [
