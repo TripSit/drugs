@@ -278,7 +278,7 @@
       "status": "Low Risk & Synergy"
     },
     "dox": {
-      "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions, particularly increasing the risk of unpleasant physical side effects.",
+      "note": "The 5-MeO-xxT class of tryptamines can be unpredictable in their interactions, particularly increasing the risk of unpleasant physical side effects.",
       "status": "Caution"
     },
     "ghb/gbl": {
@@ -298,7 +298,7 @@
       "status": "Caution"
     },
     "mescaline": {
-      "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions",
+      "note": "The 5-MeO-xxT class of tryptamines can be unpredictable in their interactions",
       "status": "Caution"
     },
     "mushrooms": {
@@ -309,7 +309,7 @@
       "status": "Low Risk & Synergy"
     },
     "nbomes": {
-      "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions and the NBOMes are known to be unpredictable even alone. This combination is best avoided",
+      "note": "The 5-MeO-xxT class of tryptamines can be unpredictable in their interactions and the NBOMes are known to be unpredictable even alone. This combination is best avoided",
       "status": "Caution"
     },
     "nitrous": {
@@ -2254,7 +2254,7 @@
       "status": "Caution"
     },
     "5-meo-xxt": {
-      "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions, particularly increasing the risk of unpleasant physical side effects.",
+      "note": "The 5-MeO-xxT class of tryptamines can be unpredictable in their interactions, particularly increasing the risk of unpleasant physical side effects.",
       "status": "Caution"
     },
     "alcohol": {
@@ -4391,7 +4391,7 @@
       "status": "Caution"
     },
     "5-meo-xxt": {
-      "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions",
+      "note": "The 5-MeO-xxT class of tryptamines can be unpredictable in their interactions",
       "status": "Caution"
     },
     "alcohol": {
@@ -4812,7 +4812,7 @@
       "status": "Caution"
     },
     "5-meo-xxt": {
-      "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions and the NBOMes are known to be unpredictable even alone. This combination is best avoided",
+      "note": "The 5-MeO-xxT class of tryptamines can be unpredictable in their interactions and the NBOMes are known to be unpredictable even alone. This combination is best avoided",
       "status": "Caution"
     },
     "alcohol": {
