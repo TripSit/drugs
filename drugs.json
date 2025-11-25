@@ -21053,7 +21053,8 @@
     "pretty_name": "Fentanyl",
     "properties": {
       "aliases": [
-        "fent"
+        "fent",
+        "TNT"
       ],
       "bioavailability": "Sublingual/Buccal 50% | Insufflated 70% | Transdermal 92%",
       "categories": [
@@ -22444,7 +22445,15 @@
     "properties": {
       "after-effects": "1-24 hours.",
       "aliases": [
-        "diamorphine"
+        "diamorphine",
+        "smack",
+        "H",
+        "big H",
+        "black tar",
+        "horse",
+        "junk",
+        "chiva",
+        "hell dust"
       ],
       "bioavailability": "Oral 35% | Intramuscular 85%",
       "categories": [
@@ -28552,7 +28561,8 @@
     "aliases": [
       "meth",
       "desoxyn",
-      "tik"
+      "tik",
+      "ice"
     ],
     "categories": [
       "stimulant",
