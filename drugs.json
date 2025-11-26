@@ -18352,6 +18352,37 @@
         ],
         "status": "Unsafe"
       },
+      "dmt": {
+        "note": "At 25-50mg, DPH may assist with side effects of the DMT such as nausea and anxiety. At higher dosages, the combination of a deliriant (DPH) and DMT is cautioned against. DMT is likely to increase the deliriant and negative effects of DPH, in addition to increasing the risk of severe injury and mental trauma.",
+        "sources": [
+          {
+            "author": "Carbonaro, T. M., & Gatch, M. B. (2016)",
+            "title": "Neuropharmacology of N,N-Dimethyltryptamine. Brain Research Bulletin, 126(Pt 1), 74–88.",
+            "url": "https://doi.org/10.1016/j.brainresbull.2016.04.016"
+          },
+          {
+            "author": "Chapy, H., Smirnova, M., André, P., Schlatter, J., Chiadmi, F., Couraud, P.-O., Scherrmann, J.-M., Declèves, X., & Cisternino, S. (2014)",
+            "title": "Carrier-Mediated Cocaine Transport at the Blood-Brain Barrier as a Putative Mechanism in Addiction Liability. International Journal of Neuropsychopharmacology, 18(1), pyu001.",
+            "url": "https://doi.org/10.1093/ijnp/pyu001"
+          },
+          {
+            "author": "Schaefer, T. S., Patel, P., & Zito, P. M. (2025)",
+            "title": "Antiemetic Histamine H1 Receptor Blockers. In StatPearls. StatPearls Publishing.",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK533003/"
+          },
+          {
+            "author": "Schifano, F., Chiappini, S., Miuli, A., Mosca, A., Santovito, M. C., Corkery, J. M., Guirguis, A., Pettorruso, M., Di Giannantonio, M., & Martinotti, G. (2021)",
+            "title": "Focus on Over-the-Counter Drugs’ Misuse: A Systematic Review on Antihistamines, Cough Medicines, and Decongestants. Frontiers in Psychiatry, 12, 657397.",
+            "url": "https://doi.org/10.3389/fpsyt.2021.657397"
+          },
+          {
+            "author": "Wolfson, A. R., Wong, D., Abrams, E. M., Waserman, S., & Sussman, G. L. (2022)",
+            "title": "Diphenhydramine: Time to Move on? The Journal of Allergy and Clinical Immunology: In Practice, 10(12), 3124–3130.",
+            "url": "https://doi.org/10.1016/j.jaip.2022.07.018"
+          }
+        ],
+        "status": "Caution"
+      },
       "dox": {
         "note": "At 25-50mg, DPH may assist with side effects of DOx drugs such as nausea and anxiety. At higher dosages, the combination of a deliriant (DPH) and DOx drugs is cautioned against. DOx drugs are likely to increase the deliriant and negative effects of DPH, in addition to increasing the risk of severe injury and mental trauma. DOx drugs and DPH at recreational dosages have additional cardiac concerns such as vasoconstriction, tachycardia, hypertension, which in combination may be exacerbated.",
         "sources": [
@@ -19271,6 +19302,37 @@
       },
       "dextromethorphan": {
         "status": "Low Risk & Synergy"
+      },
+      "diphenhydramine": {
+        "note": "At 25-50mg, DPH may assist with side effects of the DMT such as nausea and anxiety. At higher dosages, the combination of a deliriant (DPH) and DMT is cautioned against. DMT is likely to increase the deliriant and negative effects of DPH, in addition to increasing the risk of severe injury and mental trauma.",
+        "sources": [
+          {
+            "author": "Carbonaro, T. M., & Gatch, M. B. (2016)",
+            "title": "Neuropharmacology of N,N-Dimethyltryptamine. Brain Research Bulletin, 126(Pt 1), 74–88.",
+            "url": "https://doi.org/10.1016/j.brainresbull.2016.04.016"
+          },
+          {
+            "author": "Chapy, H., Smirnova, M., André, P., Schlatter, J., Chiadmi, F., Couraud, P.-O., Scherrmann, J.-M., Declèves, X., & Cisternino, S. (2014)",
+            "title": "Carrier-Mediated Cocaine Transport at the Blood-Brain Barrier as a Putative Mechanism in Addiction Liability. International Journal of Neuropsychopharmacology, 18(1), pyu001.",
+            "url": "https://doi.org/10.1093/ijnp/pyu001"
+          },
+          {
+            "author": "Schaefer, T. S., Patel, P., & Zito, P. M. (2025)",
+            "title": "Antiemetic Histamine H1 Receptor Blockers. In StatPearls. StatPearls Publishing.",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK533003/"
+          },
+          {
+            "author": "Schifano, F., Chiappini, S., Miuli, A., Mosca, A., Santovito, M. C., Corkery, J. M., Guirguis, A., Pettorruso, M., Di Giannantonio, M., & Martinotti, G. (2021)",
+            "title": "Focus on Over-the-Counter Drugs’ Misuse: A Systematic Review on Antihistamines, Cough Medicines, and Decongestants. Frontiers in Psychiatry, 12, 657397.",
+            "url": "https://doi.org/10.3389/fpsyt.2021.657397"
+          },
+          {
+            "author": "Wolfson, A. R., Wong, D., Abrams, E. M., Waserman, S., & Sussman, G. L. (2022)",
+            "title": "Diphenhydramine: Time to Move on? The Journal of Allergy and Clinical Immunology: In Practice, 10(12), 3124–3130.",
+            "url": "https://doi.org/10.1016/j.jaip.2022.07.018"
+          }
+        ],
+        "status": "Caution"
       },
       "dox": {
         "status": "Low Risk & Synergy"
