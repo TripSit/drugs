@@ -627,7 +627,7 @@
       "status": "Caution"
     },
     "cannabis": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "cocaine": {
@@ -690,7 +690,7 @@
       "status": "Caution"
     },
     "dmt": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "dox": {
@@ -737,7 +737,7 @@
       "status": "Low Risk & No Synergy"
     },
     "lsd": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "maois": {
@@ -770,7 +770,7 @@
       "status": "Caution"
     },
     "mushrooms": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "mxe": {
@@ -1338,7 +1338,7 @@
       "status": "Low Risk & Synergy"
     },
     "amphetamines": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "amt": {
@@ -1352,7 +1352,7 @@
       "status": "Low Risk & No Synergy"
     },
     "cocaine": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "dextromethorphan": {
@@ -1494,7 +1494,7 @@
       "status": "Caution"
     },
     "cannabis": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "dextromethorphan": {
@@ -1568,7 +1568,7 @@
       "status": "Caution"
     },
     "dmt": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "dox": {
@@ -1600,7 +1600,7 @@
       "status": "Low Risk & Decrease"
     },
     "lsd": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "maois": {
@@ -1616,7 +1616,7 @@
       "status": "Caution"
     },
     "mushrooms": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "mxe": {
@@ -3094,7 +3094,7 @@
       "status": "Low Risk & Decrease"
     },
     "amphetamines": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "amt": {
@@ -3111,7 +3111,7 @@
       "status": "Caution"
     },
     "cocaine": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "dextromethorphan": {
@@ -3198,7 +3198,7 @@
       "status": "Low Risk & Synergy"
     },
     "mephedrone": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "sources": [
         {
           "author": "Carbonaro, T. M., & Gatch, M. B.",
@@ -4610,7 +4610,7 @@
       "status": "Low Risk & Decrease"
     },
     "amphetamines": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "amt": {
@@ -4627,7 +4627,7 @@
       "status": "Caution"
     },
     "cocaine": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "dextromethorphan": {
@@ -5223,7 +5223,7 @@
       "status": "Unsafe"
     },
     "pregabalin": {
-      "note": "There is a significant risk of seizures from this combination. Amphetamines increase respiration rate allowing for a higher dose of sedatives than normal. If amphetamines wears off first, recreational dosages of pregabalin may overcome the individual and cause respiratory arrest. Both substances at recreational dosages cause strain of the heart and may lead to further dangerous heart complications. Medical dosages are not reported to be a concern",
+      "note": "There is a significant risk of seizures from this combination. Amphetamines increase respiration rate allowing for a higher dose of sedatives than normal. If amphetamines wears off first, recreational dosages of pregabalin may overcome the individual and cause respiratory arrest. Both substances at recreational dosages cause strain of the heart and may lead to further dangerous heart complications. Medical dosages are not reported to be a concern.",
       "sources": [
         {
           "author": "Alo, C., & Kioka, M. J. (2024)",
@@ -5423,7 +5423,7 @@
       "status": "Dangerous"
     },
     "dmt": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "sources": [
         {
           "author": "Carbonaro, T. M., & Gatch, M. B.",
@@ -5638,7 +5638,7 @@
       "status": "Dangerous"
     },
     "mushrooms": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "sources": [
         {
           "author": "Goel, D. B., & Zilate, S. (2022)",
@@ -6065,7 +6065,7 @@
       "status": "Low Risk & Decrease"
     },
     "amphetamines": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "amt": {
@@ -6082,7 +6082,7 @@
       "status": "Caution"
     },
     "cocaine": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "dextromethorphan": {
@@ -6177,7 +6177,7 @@
       "status": "Low Risk & Synergy"
     },
     "mephedrone": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "sources": [
         {
           "author": "Goel, D. B., & Zilate, S. (2022)",
@@ -8058,7 +8058,7 @@
       "status": "Caution"
     },
     "mdma": {
-      "note": "There is a significant risk of seizures from this combination. Amphetamines increase respiration rate allowing for a higher dose of sedatives than normal. If amphetamines wears off first, recreational dosages of pregabalin may overcome the individual and cause respiratory arrest. Both substances at recreational dosages cause strain of the heart and may lead to further dangerous heart complications. Medical dosages are not reported to be a concern",
+      "note": "There is a significant risk of seizures from this combination. Amphetamines increase respiration rate allowing for a higher dose of sedatives than normal. If amphetamines wears off first, recreational dosages of pregabalin may overcome the individual and cause respiratory arrest. Both substances at recreational dosages cause strain of the heart and may lead to further dangerous heart complications. Medical dosages are not reported to be a concern.",
       "sources": [
         {
           "author": "Alo, C., & Kioka, M. J. (2024)",
