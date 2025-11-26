@@ -18408,8 +18408,8 @@
         "note": "At 25-50mg, DPH may assist with side effects of DOx drugs such as nausea and anxiety. At higher dosages, the combination of a deliriant (DPH) and DOx drugs is cautioned against. DOx drugs are likely to increase the deliriant and negative effects of DPH, in addition to increasing the risk of severe injury and mental trauma. DOx drugs and DPH at recreational dosages have additional cardiac concerns such as vasoconstriction, tachycardia, hypertension, which in combination may be exacerbated.",
         "sources": [
           {
-            "author": "2,5-Dimethoxy-4-iodoamphetamine - an overview | ScienceDirect Topics. (n.d.)",
-            "title": "Retrieved October 30, 2025, from https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/2-5-dimethoxy-4-iodoamphetamine",
+            "author": "ScienceDirect Topics (n.d.)",
+            "title": "2,5-Dimethoxy-4-iodoamphetamine - an overview",
             "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/2-5-dimethoxy-4-iodoamphetamine"
           },
           {
@@ -18670,6 +18670,42 @@
           }
         ],
         "status": "Dangerous"
+      },
+      "mescaline": {
+        "note": "At 25-50mg, DPH may assist with side effects of the mescaline such as nausea and anxiety. At higher dosages, the combination of a deliriant (DPH) and mescaline is cautioned against. Mescaline is likely to increase the deliriant and negative effects of DPH, in addition to increasing the risk of severe injury and mental trauma.",
+        "sources": [
+          {
+            "author": "Dinis-Oliveira, R. J., Pereira, C. L., & Dias da Silva, D. (2019)",
+            "title": "Pharmacokinetic and Pharmacodynamic Aspects of Peyote and Mescaline: Clinical and Forensic Repercussions. Current Molecular Pharmacology, 12(3), 184–194.",
+            "url": "https://doi.org/10.2174/1874467211666181010154139"
+          },
+          {
+            "author": "ScienceDirect Topics. (n.d.)",
+            "title": "Mescaline - an overview.",
+            "url": "https://www.sciencedirect.com/topics/neuroscience/mescaline"
+          },
+          {
+            "author": "Schaefer, T. S., Patel, P., & Zito, P. M. (2025)",
+            "title": "Antiemetic Histamine H1 Receptor Blockers. In StatPearls. StatPearls Publishing.",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK533003/"
+          },
+          {
+            "author": "Schifano, F., Chiappini, S., Miuli, A., Mosca, A., Santovito, M. C., Corkery, J. M., Guirguis, A., Pettorruso, M., Di Giannantonio, M., & Martinotti, G. (2021)",
+            "title": "Focus on Over-the-Counter Drugs’ Misuse: A Systematic Review on Antihistamines, Cough Medicines, and Decongestants. Frontiers in Psychiatry, 12, 657397.",
+            "url": "https://doi.org/10.3389/fpsyt.2021.657397"
+          },
+          {
+            "author": "Vamvakopoulou, I. A., Narine, K. A. D., Campbell, I., Dyck, J. R. B., & Nutt, D. J. (2023)",
+            "title": "Mescaline: The forgotten psychedelic. Neuropharmacology, 222, 109294.",
+            "url": "https://doi.org/10.1016/j.neuropharm.2022.109294"
+          },
+          {
+            "author": "Wolfson, A. R., Wong, D., Abrams, E. M., Waserman, S., & Sussman, G. L. (2022)",
+            "title": "Diphenhydramine: Time to Move on? The Journal of Allergy and Clinical Immunology: In Practice, 10(12), 3124–3130.",
+            "url": "https://doi.org/10.1016/j.jaip.2022.07.018"
+          }
+        ],
+        "status": "Caution"
       },
       "mushrooms": {
         "note": "At 25-50mg, DPH may assist with side effects of the psilocybin such as nausea and anxiety. At higher dosages, the combination of a deliriant (DPH) and psilocybin is cautioned against. Psilocybin is likely to increase the deliriant and negative effects of DPH, in addition to increasing the risk of severe injury and mental trauma.",
@@ -28501,6 +28537,42 @@
       "dextromethorphan": {
         "status": "Low Risk & Synergy"
       },
+      "diphenhydramine": {
+        "note": "At 25-50mg, DPH may assist with side effects of the mescaline such as nausea and anxiety. At higher dosages, the combination of a deliriant (DPH) and mescaline is cautioned against. Mescaline is likely to increase the deliriant and negative effects of DPH, in addition to increasing the risk of severe injury and mental trauma.",
+        "sources": [
+          {
+            "author": "Dinis-Oliveira, R. J., Pereira, C. L., & Dias da Silva, D. (2019)",
+            "title": "Pharmacokinetic and Pharmacodynamic Aspects of Peyote and Mescaline: Clinical and Forensic Repercussions. Current Molecular Pharmacology, 12(3), 184–194.",
+            "url": "https://doi.org/10.2174/1874467211666181010154139"
+          },
+          {
+            "author": "ScienceDirect Topics. (n.d.)",
+            "title": "Mescaline - an overview.",
+            "url": "https://www.sciencedirect.com/topics/neuroscience/mescaline"
+          },
+          {
+            "author": "Schaefer, T. S., Patel, P., & Zito, P. M. (2025)",
+            "title": "Antiemetic Histamine H1 Receptor Blockers. In StatPearls. StatPearls Publishing.",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK533003/"
+          },
+          {
+            "author": "Schifano, F., Chiappini, S., Miuli, A., Mosca, A., Santovito, M. C., Corkery, J. M., Guirguis, A., Pettorruso, M., Di Giannantonio, M., & Martinotti, G. (2021)",
+            "title": "Focus on Over-the-Counter Drugs’ Misuse: A Systematic Review on Antihistamines, Cough Medicines, and Decongestants. Frontiers in Psychiatry, 12, 657397.",
+            "url": "https://doi.org/10.3389/fpsyt.2021.657397"
+          },
+          {
+            "author": "Vamvakopoulou, I. A., Narine, K. A. D., Campbell, I., Dyck, J. R. B., & Nutt, D. J. (2023)",
+            "title": "Mescaline: The forgotten psychedelic. Neuropharmacology, 222, 109294.",
+            "url": "https://doi.org/10.1016/j.neuropharm.2022.109294"
+          },
+          {
+            "author": "Wolfson, A. R., Wong, D., Abrams, E. M., Waserman, S., & Sussman, G. L. (2022)",
+            "title": "Diphenhydramine: Time to Move on? The Journal of Allergy and Clinical Immunology: In Practice, 10(12), 3124–3130.",
+            "url": "https://doi.org/10.1016/j.jaip.2022.07.018"
+          }
+        ],
+        "status": "Caution"
+      },
       "dmt": {
         "status": "Low Risk & Synergy"
       },
@@ -35310,8 +35382,8 @@
         "note": "Caution should be given due to DOx drugs stimulating effects and pregabalin’s seizure concerns at higher dosages. Pregabalin may reduce the vasoconstriction, anxiety, and other side effects of DOx drugs. Additionally, Pregabalin may increase DOx drugs inhibition and risk of injury.",
         "sources": [
           {
-            "author": "2,5-Dimethoxy-4-iodoamphetamine - an overview | ScienceDirect Topics. (n.d.)",
-            "title": "Retrieved October 27, 2025, from https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/2-5-dimethoxy-4-iodoamphetamine",
+            "author": "ScienceDirect Topics (n.d.)",
+            "title": "2,5-Dimethoxy-4-iodoamphetamine - an overview",
             "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/2-5-dimethoxy-4-iodoamphetamine"
           },
           {
