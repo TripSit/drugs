@@ -18506,6 +18506,47 @@
         ],
         "status": "Caution"
       },
+      "maois": {
+        "note": "There is a significant risk of serotonin syndrome with this combination. Monoamine oxidase A inhibitors may extend and increase the anticholinergic effects of DPH. The combination increases each other’s side effects, such as drowsiness, dizziness, dry mouth, and headaches. Medical dosages are not reported to be of concern.",
+        "sources": [
+          {
+            "author": "Adawi Awdish, R. L., Whitmill, M., Coba, V., & Killu, K. (2008)",
+            "title": "Serotonin Reuptake Inhibition by Diphenhydramine and concomitant Linezolid use can result in Serotonin Syndrome Chest, 134(4), 4C.",
+            "url": "https://doi.org/10.1378/chest.134.4_MeetingAbstracts.c4002"
+          },
+          {
+            "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M. (2025)",
+            "title": "Diphenhydramine: It is time to say a final goodbye. The World Allergy Organization Journal, 18(2), 101027.",
+            "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+          },
+          {
+            "author": "Edinoff, A. N., Swinford, C. R., Odisho, A. S., Burroughs, C. R., Stark, C. W., Raslan, W. A., Cornett, E. M., Kaye, A. M., & Kaye, A. D. (n.d.)",
+            "title": "Clinically Relevant Drug Interactions with Monoamine Oxidase Inhibitors. Health Psychology Research, 10(4), 39576.",
+            "url": "https://doi.org/10.52965/001c.39576"
+          },
+          {
+            "author": "Gillman, P. K. (2005)",
+            "title": "Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity. British Journal of Anaesthesia, 95(4), 434–441.",
+            "url": "https://doi.org/10.1093/bja/aei210"
+          },
+          {
+            "author": "Khan, S., Saud, S., Khan, I., Asif, M., Ismail, O., Salam, A., Yang, T. J., & Norville, K. J. (2018)",
+            "title": "Serotonin Syndrome Presenting with Concomitant Tramadol and Diphenhydramine Use: A Case Report of an Unlikely Side-Effect. Cureus.",
+            "url": "https://doi.org/10.7759/cureus.2421"
+          },
+          {
+            "author": "López-Álvarez, J., Sevilla-Llewellyn-Jones, J., & Agüera-Ortiz, L. (2019)",
+            "title": "Anticholinergic Drugs in Geriatric Psychopharmacology. Frontiers in Neuroscience, 13, 1309.",
+            "url": "https://doi.org/10.3389/fnins.2019.01309"
+          },
+          {
+            "author": "Sub Laban, T., & Saadabadi, A. (2025)",
+            "title": "Monoamine Oxidase Inhibitors (MAOI). In StatPearls. StatPearls Publishing.",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK539848/"
+          }
+        ],
+        "status": "Unsafe"
+      },
       "mephedrone": {
         "note": "There is a high risk of serotonin syndrome at recreational dosages. Both can dull each other's effects, so if one wears off before the other it's possible to overdose due to the lack of counteraction. Medical dosages are reported not to be a concern for the general population. Both substances affect the heart and may lead to further dangerous heart complications at higher dosages. The combination may increase each other's side effects, such as dizziness and drowsiness. At higher dosages, the combination may increase each other's side effects, such as delirium, mania, and psychosis.",
         "sources": [
