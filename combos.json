@@ -2618,6 +2618,67 @@
       ],
       "status": "Caution"
     },
+    "opioids": {
+      "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. DPH reduces histamine release by opioids, which reduces the itching side effect from opioids. DPH may reduce the nausea caused by opioids. DPH inhibits CYP2D6 activity which can lead to a reduction of effects in some opioids and potentiation of effects in others.",
+      "sources": [
+        {
+          "author": "Akutsu, T., Kobayashi, K., Sakurada, K., Ikegaya, H., Furihata, T., & Chiba, K. (2007)",
+          "title": "Identification of human cytochrome p450 isozymes involved in diphenhydramine N-demethylation. Drug Metabolism and Disposition: The Biological Fate of Chemicals, 35(1), 72–78.",
+          "url": "https://doi.org/10.1124/dmd.106.012088"
+        },
+        {
+          "author": "Dinwiddie, A. T., Tanz, L. J., & Bitting, J. (2022)",
+          "title": "Notes from the Field: Antihistamine Positivity and Involvement in Drug Overdose Deaths — 44 Jurisdictions, United States, 2019–2020. Morbidity and Mortality Weekly Report, 71(41), 1308–1310.",
+          "url": "https://doi.org/10.15585/mmwr.mm7141a4"
+        },
+        {
+          "author": "Grönlund, J., Saari, T. I., Hagelberg, N. M., Neuvonen, P. J., Olkkola, K. T., & Laine, K. (2010)",
+          "title": "Exposure to oral oxycodone is increased by concomitant inhibition of CYP2D6 and 3A4 pathways, but not by inhibition of CYP2D6 alone. British Journal of Clinical Pharmacology, 70(1), 78–87.",
+          "url": "https://doi.org/10.1111/j.1365-2125.2010.03653.x"
+        },
+        {
+          "author": "Hamelin, B. (2000)",
+          "title": "Significant interaction between the nonprescription antihistamine diphenhydramine and the CYP2D6 substrate metoprolol in healthy men with high or low CYP2D6 activity. Clinical Pharmacology & Therapeutics, 67(5), 466–477.",
+          "url": "https://doi.org/10.1067/mcp.2000.106464"
+        },
+        {
+          "author": "Heiskanen, T., & Kalso, E. (2012)",
+          "title": "Non-analgesic effects of opioids: interactions between opioids and other drugs. Current Pharmaceutical Design, 18(37), 6079–6089.",
+          "url": "https://doi.org/10.2174/138161212803582423"
+        },
+        {
+          "author": "Nahid, N. A., McDonough, C. W., Wei, Y.-J. J., Cicali, E. J., Gong, Y., Fillingim, R. B., & Johnson, J. A. (2024)",
+          "title": "Use of CYP2D6 Inhibitors with CYP2D6 Opioids: Association with Emergency Department Visits for Pain. Clinical Pharmacology and Therapeutics, 116(4), 1005–1012.",
+          "url": "https://doi.org/10.1002/cpt.3314"
+        },
+        {
+          "author": "Okutani, H., Lo Vecchio, S., & Arendt‐Nielsen, L. (2024)",
+          "title": "Mechanisms and treatment of opioid‐induced pruritus: Peripheral and central pathways. European Journal of Pain, 28(2), 214–230.",
+          "url": "https://doi.org/10.1002/ejp.2180"
+        },
+        {
+          "author": "Sicari, V., Patel, P., & Zabbo, C. P. (2025)",
+          "title": "Diphenhydramine. In StatPearls. StatPearls Publishing.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+        },
+        {
+          "author": "Swegle, J. M., & Logemann, C. (2006)",
+          "title": "Management of common opioid-induced adverse effects. American Family Physician, 74(8), 1347–1354.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17087429/"
+        },
+        {
+          "author": "Wei, Y.-J. J., Winterstein, A. G., Schmidt, S., Fillingim, R. B., Daniels, M. J., DeKosky, S. T., & Schmidt, S. (2025)",
+          "title": "Association of initiating CYP2D6-metabolized opioids with risks of adverse outcomes in older adults receiving antidepressants: A retrospective cohort study. PLOS Medicine, 22(6), e1004620.",
+          "url": "https://doi.org/10.1371/journal.pmed.1004620"
+        },
+        {
+          "author": "Whitt, A., & Jortani, S. (2023)",
+          "title": "B-337 Case Report: Fatal Opioid Overdose Induced by Over-the-Counter Cold Medication Diphenhydramine. Clinical Chemistry, 69(Supplement_1), hvad097.656.",
+          "url": "https://doi.org/10.1093/clinchem/hvad097.656"
+        }
+      ],
+      "status": "Unsafe"
+    },
     "pregabalin": {
       "note": "There is a significant risk of seizures from this combination. The combination is likely to increase each other’s negative side effects, such as nausea, dizziness, and loss of consciousness. At higher dosages, pregabalin is likely to increase diphenhydramine’s deliriant effects, inhibition, and risk of injury. Medical dosages are not reported to be a concern.",
       "sources": [
@@ -6434,6 +6495,67 @@
     "dextromethorphan": {
       "note": "CNS depression, difficult breathing, heart issues, hepatoxic, just very unsafe combination all around. Additionally if one takes DXM, their tolerance of opiates goes down slightly, thus causing additional synergistic effects.",
       "status": "Dangerous"
+    },
+    "diphenhydramine": {
+      "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. DPH reduces histamine release by opioids, which reduces the itching side effect from opioids. DPH may reduce the nausea caused by opioids. DPH inhibits CYP2D6 activity which can lead to a reduction of effects in some opioids and potentiation of effects in others.",
+      "sources": [
+        {
+          "author": "Akutsu, T., Kobayashi, K., Sakurada, K., Ikegaya, H., Furihata, T., & Chiba, K. (2007)",
+          "title": "Identification of human cytochrome p450 isozymes involved in diphenhydramine N-demethylation. Drug Metabolism and Disposition: The Biological Fate of Chemicals, 35(1), 72–78.",
+          "url": "https://doi.org/10.1124/dmd.106.012088"
+        },
+        {
+          "author": "Dinwiddie, A. T., Tanz, L. J., & Bitting, J. (2022)",
+          "title": "Notes from the Field: Antihistamine Positivity and Involvement in Drug Overdose Deaths — 44 Jurisdictions, United States, 2019–2020. Morbidity and Mortality Weekly Report, 71(41), 1308–1310.",
+          "url": "https://doi.org/10.15585/mmwr.mm7141a4"
+        },
+        {
+          "author": "Grönlund, J., Saari, T. I., Hagelberg, N. M., Neuvonen, P. J., Olkkola, K. T., & Laine, K. (2010)",
+          "title": "Exposure to oral oxycodone is increased by concomitant inhibition of CYP2D6 and 3A4 pathways, but not by inhibition of CYP2D6 alone. British Journal of Clinical Pharmacology, 70(1), 78–87.",
+          "url": "https://doi.org/10.1111/j.1365-2125.2010.03653.x"
+        },
+        {
+          "author": "Hamelin, B. (2000)",
+          "title": "Significant interaction between the nonprescription antihistamine diphenhydramine and the CYP2D6 substrate metoprolol in healthy men with high or low CYP2D6 activity. Clinical Pharmacology & Therapeutics, 67(5), 466–477.",
+          "url": "https://doi.org/10.1067/mcp.2000.106464"
+        },
+        {
+          "author": "Heiskanen, T., & Kalso, E. (2012)",
+          "title": "Non-analgesic effects of opioids: interactions between opioids and other drugs. Current Pharmaceutical Design, 18(37), 6079–6089.",
+          "url": "https://doi.org/10.2174/138161212803582423"
+        },
+        {
+          "author": "Nahid, N. A., McDonough, C. W., Wei, Y.-J. J., Cicali, E. J., Gong, Y., Fillingim, R. B., & Johnson, J. A. (2024)",
+          "title": "Use of CYP2D6 Inhibitors with CYP2D6 Opioids: Association with Emergency Department Visits for Pain. Clinical Pharmacology and Therapeutics, 116(4), 1005–1012.",
+          "url": "https://doi.org/10.1002/cpt.3314"
+        },
+        {
+          "author": "Okutani, H., Lo Vecchio, S., & Arendt‐Nielsen, L. (2024)",
+          "title": "Mechanisms and treatment of opioid‐induced pruritus: Peripheral and central pathways. European Journal of Pain, 28(2), 214–230.",
+          "url": "https://doi.org/10.1002/ejp.2180"
+        },
+        {
+          "author": "Sicari, V., Patel, P., & Zabbo, C. P. (2025)",
+          "title": "Diphenhydramine. In StatPearls. StatPearls Publishing.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+        },
+        {
+          "author": "Swegle, J. M., & Logemann, C. (2006)",
+          "title": "Management of common opioid-induced adverse effects. American Family Physician, 74(8), 1347–1354.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17087429/"
+        },
+        {
+          "author": "Wei, Y.-J. J., Winterstein, A. G., Schmidt, S., Fillingim, R. B., Daniels, M. J., DeKosky, S. T., & Schmidt, S. (2025)",
+          "title": "Association of initiating CYP2D6-metabolized opioids with risks of adverse outcomes in older adults receiving antidepressants: A retrospective cohort study. PLOS Medicine, 22(6), e1004620.",
+          "url": "https://doi.org/10.1371/journal.pmed.1004620"
+        },
+        {
+          "author": "Whitt, A., & Jortani, S. (2023)",
+          "title": "B-337 Case Report: Fatal Opioid Overdose Induced by Over-the-Counter Cold Medication Diphenhydramine. Clinical Chemistry, 69(Supplement_1), hvad097.656.",
+          "url": "https://doi.org/10.1093/clinchem/hvad097.656"
+        }
+      ],
+      "status": "Unsafe"
     },
     "dmt": {
       "status": "Low Risk & No Synergy"
