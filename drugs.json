@@ -18352,6 +18352,42 @@
         ],
         "status": "Unsafe"
       },
+      "dox": {
+        "note": "At 25-50mg, DPH may assist with side effects of DOx drugs such as nausea and anxiety. At higher dosages, the combination of a deliriant (DPH) and DOx drugs is cautioned against. DOx drugs are likely to increase the deliriant and negative effects of DPH, in addition to increasing the risk of severe injury and mental trauma. DOx drugs and DPH at recreational dosages have additional cardiac concerns such as vasoconstriction, tachycardia, hypertension, which in combination may be exacerbated.",
+        "sources": [
+          {
+            "author": "2,5-Dimethoxy-4-iodoamphetamine - an overview | ScienceDirect Topics. (n.d.)",
+            "title": "Retrieved October 30, 2025, from https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/2-5-dimethoxy-4-iodoamphetamine",
+            "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/2-5-dimethoxy-4-iodoamphetamine"
+          },
+          {
+            "author": "Barnett, R. Y., Baker, D. D., Kelly, N. E., McGuire, C. E., Fassette, T. C., & Gorniak, J. M. (2014)",
+            "title": "A Fatal Intoxication of 2,5-Dimethoxy-4-Chloroamphetamine: A Case Report. Journal of Analytical Toxicology, 38(8), 589–591.",
+            "url": "https://doi.org/10.1093/jat/bku087"
+          },
+          {
+            "author": "Burish, M. J., Thoren, K. L., Madou, M., Toossi, S., & Shah, M. (2015)",
+            "title": "Hallucinogens Causing Seizures? A Case Report of the Synthetic Amphetamine 2,5-Dimethoxy-4-Chloroamphetamine. The Neurohospitalist, 5(1), 32–34.",
+            "url": "https://doi.org/10.1177/1941874414528939"
+          },
+          {
+            "author": "Schifano, F., Chiappini, S., Miuli, A., Mosca, A., Santovito, M. C., Corkery, J. M., Guirguis, A., Pettorruso, M., Di Giannantonio, M., & Martinotti, G. (2021)",
+            "title": "Focus on Over-the-Counter Drugs’ Misuse: A Systematic Review on Antihistamines, Cough Medicines, and Decongestants. Frontiers in Psychiatry, 12, 657397.",
+            "url": "https://doi.org/10.3389/fpsyt.2021.657397"
+          },
+          {
+            "author": "Trout, K., & Daley, P. F. (2024)",
+            "title": "The origin of 2,5‐dimethoxy‐4‐methylamphetamine (DOM, STP). Drug Testing and Analysis, 16(12), 1496–1508.",
+            "url": "https://doi.org/10.1002/dta.3667"
+          },
+          {
+            "author": "Wolfson, A. R., Wong, D., Abrams, E. M., Waserman, S., & Sussman, G. L. (2022)",
+            "title": "Diphenhydramine: Time to Move on? The Journal of Allergy and Clinical Immunology: In Practice, 10(12), 3124–3130.",
+            "url": "https://doi.org/10.1016/j.jaip.2022.07.018"
+          }
+        ],
+        "status": "Caution"
+      },
       "ghb/gbl": {
         "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
         "sources": [
