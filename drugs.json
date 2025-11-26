@@ -28159,7 +28159,7 @@
         "status": "Low Risk & Synergy"
       },
       "opioids": {
-        "note": "Stimulants increase respiration rate allowing a higher dose of opiates. If the stimulant wears off first then the opiate may overcome the patient and cause respiratory arrest.",
+        "note": "Stimulants increase respiration rate allowing a higher dose of opioids than normal. If the stimulant wears off first then the opioid may overcome the patient and cause respiratory arrest.",
         "sources": [
           {
             "author": "Cohen, B., Ruth, L. J., & Preuss, C. V. (2025)",
@@ -28276,7 +28276,7 @@
           {
             "author": "Boostani, R., & Derakhshan, S.",
             "title": "Tramadol induced seizure: A 3-year study. Caspian Journal of Internal Medicine, 3(3), 484–487 (2012)",
-            "url": "N/A"
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3755854/"
           },
           {
             "author": "Ener, R. A., Meglathery, S. B., Decker, W. A. V., & Gallagher, R. M.",
@@ -28306,7 +28306,7 @@
           {
             "author": "Sansone, R. A., & Sansone, L. A.",
             "title": "Tramadol: seizures, serotonin syndrome, and coadministered antidepressants. Psychiatry (Edgmont (Pa.: Township)), 6(4), 17–21 (2009)",
-            "url": "N/A"
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19724727"
           }
         ],
         "status": "Dangerous"
@@ -38702,7 +38702,7 @@
           {
             "author": "Boostani, R., & Derakhshan, S.",
             "title": "Tramadol induced seizure: A 3-year study. Caspian Journal of Internal Medicine, 3(3), 484–487 (2012)",
-            "url": "N/A"
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3755854/"
           },
           {
             "author": "Ener, R. A., Meglathery, S. B., Decker, W. A. V., & Gallagher, R. M.",
@@ -38732,7 +38732,7 @@
           {
             "author": "Sansone, R. A., & Sansone, L. A.",
             "title": "Tramadol: seizures, serotonin syndrome, and coadministered antidepressants. Psychiatry (Edgmont (Pa.: Township)), 6(4), 17–21 (2009)",
-            "url": "N/A"
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19724727"
           }
         ],
         "status": "Dangerous"
