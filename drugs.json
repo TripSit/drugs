@@ -17185,6 +17185,87 @@
         "note": "Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues",
         "status": "Unsafe"
       },
+      "diphenhydramine": {
+        "note": "The combination is reported to reduce the side effects of each drug and potentiate many of the recreational effects. There is a significant risk of serotonin syndrome, increased delirium, CNS depression, cognitive inhibition, risk of physical injury, hyperthermia, mania, paranoia, and psychosis, especially at higher dosages. There is an additional concern of tachycardia, hypertension, and in extreme cases, heart failure. Diphenhydramine is reported to inhibit the CYP2D6 enzyme which can increase levels of DXM. Medical dosages are not reported to be a concern. Caution is strongly recommended with this combination.",
+        "sources": [
+          {
+            "author": "Abdul Manap, Wright, Gregory, Rostami‐Hodjegan, Meller, Kelm, Lennard, Tucker, & Morice. (1999)",
+            "title": "The antitussive effect of dextromethorphan in relation to CYP2D6 activity. British Journal of Clinical Pharmacology, 48(3), 382–387.",
+            "url": "https://doi.org/10.1046/j.1365-2125.1999.00029.x"
+          },
+          {
+            "author": "Akutsu, T., Kobayashi, K., Sakurada, K., Ikegaya, H., Furihata, T., & Chiba, K. (2007)",
+            "title": "Identification of human cytochrome p450 isozymes involved in diphenhydramine N-demethylation. Drug Metabolism and Disposition: The Biological Fate of Chemicals, 35(1), 72–78.",
+            "url": "https://doi.org/10.1124/dmd.106.012088"
+          },
+          {
+            "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M. (2025)",
+            "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027.",
+            "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+          },
+          {
+            "author": "Crazy Steve. (2004)",
+            "title": "Mind Expansion: An Experience with DXM & Diphenhydramine (exp33999). Erowid.org.",
+            "url": "https://www.erowid.org/experiences/exp.php?ID=33999"
+          },
+          {
+            "author": "De Leon, J., & Nikoloff, D. M. (2008)",
+            "title": "Paradoxical Excitation on Diphenhydramine May Be Associated with Being a CYP2D6 Ultrarapid Metabolizer: Three Case Reports. CNS Spectrums, 13(2), 133–135.",
+            "url": "https://doi.org/10.1017/S109285290001628X"
+          },
+          {
+            "author": "Hamelin, B. (2000a)",
+            "title": "Significant interaction between the nonprescription antihistamine diphenhydramine and the CYP2D6 substrate metoprolol in healthy men with high or low CYP2D6 activity. Clinical Pharmacology & Therapeutics, 67(5), 466–477.",
+            "url": "https://doi.org/10.1067/mcp.2000.106464"
+          },
+          {
+            "author": "HANS. (2022)",
+            "title": "First Overdose: An Experience with DXM & Diphenhydramine (exp116238). Erowid.org.",
+            "url": "https://www.erowid.org/experiences/exp.php?ID=116238"
+          },
+          {
+            "author": "Jun, J. H., Thorndike, E. B., & Schindler, C. W. (2004a)",
+            "title": "Abuse liability and stimulant properties of dextromethorphan and diphenhydramine combinations in rats. Psychopharmacology, 172(3), 277–282.",
+            "url": "https://doi.org/10.1007/s00213-003-1650-4"
+          },
+          {
+            "author": "Josie Kins",
+            "title": "The DXM and DPH combination, broken down and described",
+            "url": "https://disregardeverythingisay.com/post/39670297758/the-dxm-and-dph-combination-broken-down-and"
+          },
+          {
+            "author": "Lessard, E., Yessine, M. A., Hamelin, B. A., Gauvin, C., Labbé, L., O’Hara, G., LeBlanc, J., & Turgeon, J. (2001)",
+            "title": "Diphenhydramine alters the disposition of venlafaxine through inhibition of CYP2D6 activity in humans. Journal of Clinical Psychopharmacology, 21(2), 175–184.",
+            "url": "https://doi.org/10.1097/00004714-200104000-00009"
+          },
+          {
+            "author": "Psychonaut Wiki",
+            "title": "DXM & DPH",
+            "url": "https://psychonautwiki.org/wiki/DXM_%26_DPH"
+          },
+          {
+            "author": "Romanelli, F., & Smith, K. M. (2009)",
+            "title": "Dextromethorphan abuse: Clinical effects and management. Journal of the American Pharmacists Association, 49(2), e20–e27.",
+            "url": "https://doi.org/10.1331/JAPhA.2009.08091"
+          },
+          {
+            "author": "Schwartz, A. R., Pizon, A. F., & Brooks, D. E. (2008)",
+            "title": "Dextromethorphan-induced serotonin syndrome. Clinical Toxicology, 46(8), 771–773.",
+            "url": "https://doi.org/10.1080/15563650701668625"
+          },
+          {
+            "author": "The Salvia Shaman. (2025)",
+            "title": "Delirium Visions and Teleportation: An Experience with DXM & Diphenhydramine (exp113902). Erowid.org.",
+            "url": "https://www.erowid.org/experiences/exp.php?ID=113902"
+          },
+          {
+            "author": "u/syrup_ben_goed (n.d.)",
+            "title": "The \"right way\" to do DXM + DPH combo, from an experienced user",
+            "url": "https://www.reddit.com/r/Drugs/comments/ajlupr/the_right_way_to_do_dxm_dph_comb"
+          }
+        ],
+        "status": "Unsafe"
+      },
       "dmt": {
         "status": "Low Risk & Synergy"
       },
@@ -18189,6 +18270,87 @@
           }
         ],
         "status": "Caution"
+      },
+      "dextromethorphan": {
+        "note": "The combination is reported to reduce the side effects of each drug and potentiate many of the recreational effects. There is a significant risk of serotonin syndrome, increased delirium, CNS depression, cognitive inhibition, risk of physical injury, hyperthermia, mania, paranoia, and psychosis, especially at higher dosages. There is an additional concern of tachycardia, hypertension, and in extreme cases, heart failure. Diphenhydramine is reported to inhibit the CYP2D6 enzyme which can increase levels of DXM. Medical dosages are not reported to be a concern. Caution is strongly recommended with this combination.",
+        "sources": [
+          {
+            "author": "Abdul Manap, Wright, Gregory, Rostami‐Hodjegan, Meller, Kelm, Lennard, Tucker, & Morice. (1999)",
+            "title": "The antitussive effect of dextromethorphan in relation to CYP2D6 activity. British Journal of Clinical Pharmacology, 48(3), 382–387.",
+            "url": "https://doi.org/10.1046/j.1365-2125.1999.00029.x"
+          },
+          {
+            "author": "Akutsu, T., Kobayashi, K., Sakurada, K., Ikegaya, H., Furihata, T., & Chiba, K. (2007)",
+            "title": "Identification of human cytochrome p450 isozymes involved in diphenhydramine N-demethylation. Drug Metabolism and Disposition: The Biological Fate of Chemicals, 35(1), 72–78.",
+            "url": "https://doi.org/10.1124/dmd.106.012088"
+          },
+          {
+            "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M. (2025)",
+            "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027.",
+            "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+          },
+          {
+            "author": "Crazy Steve. (2004)",
+            "title": "Mind Expansion: An Experience with DXM & Diphenhydramine (exp33999). Erowid.org.",
+            "url": "https://www.erowid.org/experiences/exp.php?ID=33999"
+          },
+          {
+            "author": "De Leon, J., & Nikoloff, D. M. (2008)",
+            "title": "Paradoxical Excitation on Diphenhydramine May Be Associated with Being a CYP2D6 Ultrarapid Metabolizer: Three Case Reports. CNS Spectrums, 13(2), 133–135.",
+            "url": "https://doi.org/10.1017/S109285290001628X"
+          },
+          {
+            "author": "Hamelin, B. (2000a)",
+            "title": "Significant interaction between the nonprescription antihistamine diphenhydramine and the CYP2D6 substrate metoprolol in healthy men with high or low CYP2D6 activity. Clinical Pharmacology & Therapeutics, 67(5), 466–477.",
+            "url": "https://doi.org/10.1067/mcp.2000.106464"
+          },
+          {
+            "author": "HANS. (2022)",
+            "title": "First Overdose: An Experience with DXM & Diphenhydramine (exp116238). Erowid.org.",
+            "url": "https://www.erowid.org/experiences/exp.php?ID=116238"
+          },
+          {
+            "author": "Jun, J. H., Thorndike, E. B., & Schindler, C. W. (2004a)",
+            "title": "Abuse liability and stimulant properties of dextromethorphan and diphenhydramine combinations in rats. Psychopharmacology, 172(3), 277–282.",
+            "url": "https://doi.org/10.1007/s00213-003-1650-4"
+          },
+          {
+            "author": "Josie Kins",
+            "title": "The DXM and DPH combination, broken down and described",
+            "url": "https://disregardeverythingisay.com/post/39670297758/the-dxm-and-dph-combination-broken-down-and"
+          },
+          {
+            "author": "Lessard, E., Yessine, M. A., Hamelin, B. A., Gauvin, C., Labbé, L., O’Hara, G., LeBlanc, J., & Turgeon, J. (2001)",
+            "title": "Diphenhydramine alters the disposition of venlafaxine through inhibition of CYP2D6 activity in humans. Journal of Clinical Psychopharmacology, 21(2), 175–184.",
+            "url": "https://doi.org/10.1097/00004714-200104000-00009"
+          },
+          {
+            "author": "Psychonaut Wiki",
+            "title": "DXM & DPH",
+            "url": "https://psychonautwiki.org/wiki/DXM_%26_DPH"
+          },
+          {
+            "author": "Romanelli, F., & Smith, K. M. (2009)",
+            "title": "Dextromethorphan abuse: Clinical effects and management. Journal of the American Pharmacists Association, 49(2), e20–e27.",
+            "url": "https://doi.org/10.1331/JAPhA.2009.08091"
+          },
+          {
+            "author": "Schwartz, A. R., Pizon, A. F., & Brooks, D. E. (2008)",
+            "title": "Dextromethorphan-induced serotonin syndrome. Clinical Toxicology, 46(8), 771–773.",
+            "url": "https://doi.org/10.1080/15563650701668625"
+          },
+          {
+            "author": "The Salvia Shaman. (2025)",
+            "title": "Delirium Visions and Teleportation: An Experience with DXM & Diphenhydramine (exp113902). Erowid.org.",
+            "url": "https://www.erowid.org/experiences/exp.php?ID=113902"
+          },
+          {
+            "author": "u/syrup_ben_goed (n.d.)",
+            "title": "The \"right way\" to do DXM + DPH combo, from an experienced user",
+            "url": "https://www.reddit.com/r/Drugs/comments/ajlupr/the_right_way_to_do_dxm_dph_comb"
+          }
+        ],
+        "status": "Unsafe"
       },
       "ghb/gbl": {
         "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
@@ -30339,8 +30501,8 @@
             "url": "http://www.ncbi.nlm.nih.gov/books/NBK470341/"
           },
           {
-            "author": "Psilocybin - an overview | ScienceDirect Topics. (n.d.)",
-            "title": "Retrieved October 27, 2025, from https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/psilocybin",
+            "author": "ScienceDirect Topics. (n.d.)",
+            "title": "Psilocybin - an overview",
             "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/psilocybin"
           }
         ],
@@ -35171,8 +35333,8 @@
             "url": "http://www.ncbi.nlm.nih.gov/books/NBK470341/"
           },
           {
-            "author": "Psilocybin - an overview | ScienceDirect Topics. (n.d.)",
-            "title": "Retrieved October 27, 2025, from https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/psilocybin",
+            "author": "ScienceDirect Topics. (n.d.)",
+            "title": "Psilocybin - an overview",
             "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/psilocybin"
           }
         ],
