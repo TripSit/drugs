@@ -2633,6 +2633,42 @@
       ],
       "status": "Dangerous"
     },
+    "mushrooms": {
+      "note": "At 25-50mg, DPH may assist with side effects of the psilocybin such as nausea and anxiety. At higher dosages, the combination of a deliriant (DPH) and psilocybin is cautioned against. Psilocybin is likely to increase the deliriant and negative effects of DPH, in addition to increasing the risk of severe injury and mental trauma.",
+      "sources": [
+        {
+          "author": "Goel, D. B., & Zilate, S. (2022)",
+          "title": "Potential Therapeutic Effects of Psilocybin: A Systematic Review. Cureus, 14(10), e30214.",
+          "url": "https://doi.org/10.7759/cureus.30214"
+        },
+        {
+          "author": "Passie, T., Seifert, J., Schneider, U., & Emrich, H. M. (2002)",
+          "title": "The pharmacology of psilocybin. Addiction Biology, 7(4), 357–364.",
+          "url": "https://doi.org/10.1080/1355621021000005937"
+        },
+        {
+          "author": "Schaefer, T. S., Patel, P., & Zito, P. M. (2025)",
+          "title": "Antiemetic Histamine H1 Receptor Blockers. In StatPearls. StatPearls Publishing.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK533003/"
+        },
+        {
+          "author": "Schifano, F., Chiappini, S., Miuli, A., Mosca, A., Santovito, M. C., Corkery, J. M., Guirguis, A., Pettorruso, M., Di Giannantonio, M., & Martinotti, G. (2021)",
+          "title": "Focus on Over-the-Counter Drugs’ Misuse: A Systematic Review on Antihistamines, Cough Medicines, and Decongestants. Frontiers in Psychiatry, 12.",
+          "url": "https://doi.org/10.3389/fpsyt.2021.657397"
+        },
+        {
+          "author": "Wolfson, A. R., Wong, D., Abrams, E. M., Waserman, S., & Sussman, G. L. (2022)",
+          "title": "Diphenhydramine: Time to Move on? The Journal of Allergy and Clinical Immunology: In Practice, 10(12), 3124–3130.",
+          "url": "https://doi.org/10.1016/j.jaip.2022.07.018"
+        },
+        {
+          "author": "Yerubandi, A., Thomas, J. E., Bhuiya, N. M. M. A., Harrington, C., Villa Zapata, L., & Caballero, J. (2024)",
+          "title": "Acute Adverse Effects of Therapeutic Doses of Psilocybin. JAMA Network Open, 7(4), e245960.",
+          "url": "https://doi.org/10.1001/jamanetworkopen.2024.5960"
+        }
+      ],
+      "status": "Caution"
+    },
     "mxe": {
       "note": "There is a high risk of serotonin syndrome from this combination. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. MXE has a high likelihood of increasing DPH's deliriant effects at higher dosages and can greatly increase the risk of injury, mania, and psychosis. Medical dosages are unlikely to be of concern.",
       "sources": [
@@ -5819,6 +5855,42 @@
     },
     "dextromethorphan": {
       "status": "Low Risk & Synergy"
+    },
+    "diphenhydramine": {
+      "note": "At 25-50mg, DPH may assist with side effects of the psilocybin such as nausea and anxiety. At higher dosages, the combination of a deliriant (DPH) and psilocybin is cautioned against. Psilocybin is likely to increase the deliriant and negative effects of DPH, in addition to increasing the risk of severe injury and mental trauma.",
+      "sources": [
+        {
+          "author": "Goel, D. B., & Zilate, S. (2022)",
+          "title": "Potential Therapeutic Effects of Psilocybin: A Systematic Review. Cureus, 14(10), e30214.",
+          "url": "https://doi.org/10.7759/cureus.30214"
+        },
+        {
+          "author": "Passie, T., Seifert, J., Schneider, U., & Emrich, H. M. (2002)",
+          "title": "The pharmacology of psilocybin. Addiction Biology, 7(4), 357–364.",
+          "url": "https://doi.org/10.1080/1355621021000005937"
+        },
+        {
+          "author": "Schaefer, T. S., Patel, P., & Zito, P. M. (2025)",
+          "title": "Antiemetic Histamine H1 Receptor Blockers. In StatPearls. StatPearls Publishing.",
+          "url": "http://www.ncbi.nlm.nih.gov/books/NBK533003/"
+        },
+        {
+          "author": "Schifano, F., Chiappini, S., Miuli, A., Mosca, A., Santovito, M. C., Corkery, J. M., Guirguis, A., Pettorruso, M., Di Giannantonio, M., & Martinotti, G. (2021)",
+          "title": "Focus on Over-the-Counter Drugs’ Misuse: A Systematic Review on Antihistamines, Cough Medicines, and Decongestants. Frontiers in Psychiatry, 12.",
+          "url": "https://doi.org/10.3389/fpsyt.2021.657397"
+        },
+        {
+          "author": "Wolfson, A. R., Wong, D., Abrams, E. M., Waserman, S., & Sussman, G. L. (2022)",
+          "title": "Diphenhydramine: Time to Move on? The Journal of Allergy and Clinical Immunology: In Practice, 10(12), 3124–3130.",
+          "url": "https://doi.org/10.1016/j.jaip.2022.07.018"
+        },
+        {
+          "author": "Yerubandi, A., Thomas, J. E., Bhuiya, N. M. M. A., Harrington, C., Villa Zapata, L., & Caballero, J. (2024)",
+          "title": "Acute Adverse Effects of Therapeutic Doses of Psilocybin. JAMA Network Open, 7(4), e245960.",
+          "url": "https://doi.org/10.1001/jamanetworkopen.2024.5960"
+        }
+      ],
+      "status": "Caution"
     },
     "dmt": {
       "status": "Low Risk & Synergy"
