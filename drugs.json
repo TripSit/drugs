@@ -24681,7 +24681,7 @@
         "status": "Dangerous"
       },
       "nitrous": {
-        "note": "We are unable to find a report of concerns for CNS depression caused by Lithium.",
+        "note": "We are unable to find a report of concerns for CNS depression caused by this interaction.",
         "sources": [
           {
             "author": "Drugbank",
@@ -24692,7 +24692,7 @@
         "status": "Low Risk & No Synergy"
       },
       "ssris": {
-        "note": "This interaction is used in medical settings without reported issues. If this combination is taken, caution would be recommended if any other drugs are planned to be taken on top of these that may have serotonergic activity.",
+        "note": "This interaction is used in medical settings without reported issues. If this combination is taken, caution is recommended if any other drugs are planned to be taken on top of these that may have serotonergic activity.",
         "sources": [
           {
             "author": "Finley, P. R.",
@@ -24718,7 +24718,7 @@
         "status": "Low Risk & No Synergy"
       },
       "tramadol": {
-        "note": "Tramadol and Lithium both increase the risk of seizures and serotonin syndrome.",
+        "note": "Tramadol and lithium both increase the risk of seizures and serotonin syndrome.",
         "sources": [
           {
             "author": "Steven C. Julius, Richard P. Brenner",
@@ -30920,7 +30920,7 @@
         "status": "Low Risk & Synergy"
       },
       "lithium": {
-        "note": "We are unable to find a report of concerns for CNS depression caused by Lithium.",
+        "note": "We are unable to find a report of concerns for CNS depression caused by this interaction.",
         "sources": [
           {
             "author": "Drugbank",
