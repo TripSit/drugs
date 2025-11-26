@@ -18935,6 +18935,52 @@
           }
         ],
         "status": "Dangerous"
+      },
+      "tramadol": {
+        "note": "Both drugs increase the risk of serotonin syndrome. While at medical dosages, this is unlikely to be of concern, recreational doses should be avoided. Diphenhydramine may increase tramadol’s seizure risk.",
+        "sources": [
+          {
+            "author": "Benson, B. E., Farooqi, M. F., Klein-Schwartz, W., Litovitz, T., Webb, A. N., Borys, D. J., Lung, D., Rutherfoord Rose, S., Aleguas, A., Sollee, D. R., & Seifert, S. A. (2010)",
+            "title": "Diphenhydramine dose–response: a novel approach to determine triage thresholds. Clinical Toxicology, 48(8), 820–831.",
+            "url": "https://doi.org/10.3109/15563650.2010.514269"
+          },
+          {
+            "author": "Dhesi, M., Maldonado, K. A., Patel, P., & Maani, C. V. (2025)",
+            "title": "Tramadol. In StatPearls. StatPearls Publishing.",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK537060/"
+          },
+          {
+            "author": "Hughes, A. R., Lin, A., Hendrickson, R. G., & on behalf of Toxicology Investigator’s Consortium (ToxIC). (2021)",
+            "title": "Clinical and patient characteristics associated with severe outcome in diphenhydramine toxicity. Clinical Toxicology, 59(10), 918–925.",
+            "url": "https://doi.org/10.1080/15563650.2021.1891244"
+          },
+          {
+            "author": "Khan, S., Saud, S., Khan, I., Asif, M., Ismail, O., Salam, A., Yang, T. J., & Norville, K. J. (2018)",
+            "title": "Serotonin Syndrome Presenting with Concomitant Tramadol and Diphenhydramine Use: A Case Report of an Unlikely Side-Effect. Cureus.",
+            "url": "https://doi.org/10.7759/cureus.2421"
+          },
+          {
+            "author": "Kim, H., Kim, S. H., & Kim, J. B. (2021)",
+            "title": "Antihistamines as a common cause of new-onset seizures: a single-center observational study. Neurological Sciences: Official Journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology, 42(6), 2505–2508.",
+            "url": "https://doi.org/10.1007/s10072-021-05043-2"
+          },
+          {
+            "author": "Kim, H., Wang, I.-N., Park, J.-S., Kim, K.-T., Kong, J., Kim, J. B., & Kim, D.-J. (2023)",
+            "title": "Inherent seizure susceptibility in patients with antihistamine-induced acute symptomatic seizure: a resting-state EEG analysis. Scientific Reports, 13(1), 9146.",
+            "url": "https://doi.org/10.1038/s41598-023-36415-7"
+          },
+          {
+            "author": "Sanaei-Zadeh, H. (2012)",
+            "title": "Diphenhydramine overdose and serotonin syndrome. Psychiatry and Clinical Neurosciences, 66(3), 244–245.",
+            "url": "https://doi.org/10.1111/j.1440-1819.2012.02320.x"
+          },
+          {
+            "author": "Sicari, V., Patel, P., & Zabbo, C. P. (2025)",
+            "title": "Diphenhydramine. In StatPearls. StatPearls Publishing.",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+          }
+        ],
+        "status": "Dangerous"
       }
     },
     "dose_note": " NOTE: The doses provided are for recreational usage. For use as a sleep aid the dose ranges from 25-100mg, or as specified on the product packaging.",
@@ -38442,6 +38488,52 @@
         "status": "Dangerous"
       },
       "dextromethorphan": {
+        "status": "Dangerous"
+      },
+      "diphenhydramine": {
+        "note": "Both drugs increase the risk of serotonin syndrome. While at medical dosages, this is unlikely to be of concern, recreational doses should be avoided. Diphenhydramine may increase tramadol’s seizure risk.",
+        "sources": [
+          {
+            "author": "Benson, B. E., Farooqi, M. F., Klein-Schwartz, W., Litovitz, T., Webb, A. N., Borys, D. J., Lung, D., Rutherfoord Rose, S., Aleguas, A., Sollee, D. R., & Seifert, S. A. (2010)",
+            "title": "Diphenhydramine dose–response: a novel approach to determine triage thresholds. Clinical Toxicology, 48(8), 820–831.",
+            "url": "https://doi.org/10.3109/15563650.2010.514269"
+          },
+          {
+            "author": "Dhesi, M., Maldonado, K. A., Patel, P., & Maani, C. V. (2025)",
+            "title": "Tramadol. In StatPearls. StatPearls Publishing.",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK537060/"
+          },
+          {
+            "author": "Hughes, A. R., Lin, A., Hendrickson, R. G., & on behalf of Toxicology Investigator’s Consortium (ToxIC). (2021)",
+            "title": "Clinical and patient characteristics associated with severe outcome in diphenhydramine toxicity. Clinical Toxicology, 59(10), 918–925.",
+            "url": "https://doi.org/10.1080/15563650.2021.1891244"
+          },
+          {
+            "author": "Khan, S., Saud, S., Khan, I., Asif, M., Ismail, O., Salam, A., Yang, T. J., & Norville, K. J. (2018)",
+            "title": "Serotonin Syndrome Presenting with Concomitant Tramadol and Diphenhydramine Use: A Case Report of an Unlikely Side-Effect. Cureus.",
+            "url": "https://doi.org/10.7759/cureus.2421"
+          },
+          {
+            "author": "Kim, H., Kim, S. H., & Kim, J. B. (2021)",
+            "title": "Antihistamines as a common cause of new-onset seizures: a single-center observational study. Neurological Sciences: Official Journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology, 42(6), 2505–2508.",
+            "url": "https://doi.org/10.1007/s10072-021-05043-2"
+          },
+          {
+            "author": "Kim, H., Wang, I.-N., Park, J.-S., Kim, K.-T., Kong, J., Kim, J. B., & Kim, D.-J. (2023)",
+            "title": "Inherent seizure susceptibility in patients with antihistamine-induced acute symptomatic seizure: a resting-state EEG analysis. Scientific Reports, 13(1), 9146.",
+            "url": "https://doi.org/10.1038/s41598-023-36415-7"
+          },
+          {
+            "author": "Sanaei-Zadeh, H. (2012)",
+            "title": "Diphenhydramine overdose and serotonin syndrome. Psychiatry and Clinical Neurosciences, 66(3), 244–245.",
+            "url": "https://doi.org/10.1111/j.1440-1819.2012.02320.x"
+          },
+          {
+            "author": "Sicari, V., Patel, P., & Zabbo, C. P. (2025)",
+            "title": "Diphenhydramine. In StatPearls. StatPearls Publishing.",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+          }
+        ],
         "status": "Dangerous"
       },
       "dmt": {
