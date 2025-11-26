@@ -18537,6 +18537,42 @@
         ],
         "status": "Caution"
       },
+      "lsd": {
+        "note": "At 25-50mg, DPH may assist with side effects of the LSD such as nausea and anxiety. At higher dosages, the combination of a deliriant (DPH) and LSD is cautioned against. LSD is likely to increase the deliriant and negative effects of DPH, in addition to increasing the risk of severe injury and mental trauma. LSD and DPH at recreational dosages have additional cardiac concerns such as vasoconstriction, tachycardia, hypertension, which in combination may be exacerbated.",
+        "sources": [
+          {
+            "author": "Marraffa, J. M. (2014)",
+            "title": "Drugs of Abuse. In Encyclopedia of Toxicology (pp. 248–251). Elsevier.",
+            "url": "https://doi.org/10.1016/B978-0-12-386454-3.00684-9"
+          },
+          {
+            "author": "Passie, T., Halpern, J. H., Stichtenoth, D. O., Emrich, H. M., & Hintzen, A. (2008)",
+            "title": "The Pharmacology of Lysergic Acid Diethylamide: A Review. CNS Neuroscience & Therapeutics, 14(4), 295–314.",
+            "url": "https://doi.org/10.1111/j.1755-5949.2008.00059.x"
+          },
+          {
+            "author": "Schaefer, T. S., Patel, P., & Zito, P. M. (2025)",
+            "title": "Antiemetic Histamine H1 Receptor Blockers. In StatPearls. StatPearls Publishing.",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK533003/"
+          },
+          {
+            "author": "Schifano, F., Chiappini, S., Miuli, A., Mosca, A., Santovito, M. C., Corkery, J. M., Guirguis, A., Pettorruso, M., Di Giannantonio, M., & Martinotti, G. (2021)",
+            "title": "Focus on Over-the-Counter Drugs’ Misuse: A Systematic Review on Antihistamines, Cough Medicines, and Decongestants. Frontiers in Psychiatry, 12, 657397.",
+            "url": "https://doi.org/10.3389/fpsyt.2021.657397"
+          },
+          {
+            "author": "The drugs of misuse. (2009)",
+            "title": "In Auricular Acupuncture & Addiction (pp. 93–135). Elsevier.",
+            "url": "https://doi.org/10.1016/B978-0-443-06885-0.50018-5"
+          },
+          {
+            "author": "Wolfson, A. R., Wong, D., Abrams, E. M., Waserman, S., & Sussman, G. L. (2022)",
+            "title": "Diphenhydramine: Time to Move on? The Journal of Allergy and Clinical Immunology: In Practice, 10(12), 3124–3130.",
+            "url": "https://doi.org/10.1016/j.jaip.2022.07.018"
+          }
+        ],
+        "status": "Caution"
+      },
       "maois": {
         "note": "There is a significant risk of serotonin syndrome with this combination. Monoamine oxidase A inhibitors may extend and increase the anticholinergic effects of DPH. The combination increases each other’s side effects, such as drowsiness, dizziness, dry mouth, and headaches. Medical dosages are not reported to be of concern.",
         "sources": [
@@ -25821,6 +25857,42 @@
       },
       "dextromethorphan": {
         "status": "Low Risk & Synergy"
+      },
+      "diphenhydramine": {
+        "note": "At 25-50mg, DPH may assist with side effects of the LSD such as nausea and anxiety. At higher dosages, the combination of a deliriant (DPH) and LSD is cautioned against. LSD is likely to increase the deliriant and negative effects of DPH, in addition to increasing the risk of severe injury and mental trauma. LSD and DPH at recreational dosages have additional cardiac concerns such as vasoconstriction, tachycardia, hypertension, which in combination may be exacerbated.",
+        "sources": [
+          {
+            "author": "Marraffa, J. M. (2014)",
+            "title": "Drugs of Abuse. In Encyclopedia of Toxicology (pp. 248–251). Elsevier.",
+            "url": "https://doi.org/10.1016/B978-0-12-386454-3.00684-9"
+          },
+          {
+            "author": "Passie, T., Halpern, J. H., Stichtenoth, D. O., Emrich, H. M., & Hintzen, A. (2008)",
+            "title": "The Pharmacology of Lysergic Acid Diethylamide: A Review. CNS Neuroscience & Therapeutics, 14(4), 295–314.",
+            "url": "https://doi.org/10.1111/j.1755-5949.2008.00059.x"
+          },
+          {
+            "author": "Schaefer, T. S., Patel, P., & Zito, P. M. (2025)",
+            "title": "Antiemetic Histamine H1 Receptor Blockers. In StatPearls. StatPearls Publishing.",
+            "url": "http://www.ncbi.nlm.nih.gov/books/NBK533003/"
+          },
+          {
+            "author": "Schifano, F., Chiappini, S., Miuli, A., Mosca, A., Santovito, M. C., Corkery, J. M., Guirguis, A., Pettorruso, M., Di Giannantonio, M., & Martinotti, G. (2021)",
+            "title": "Focus on Over-the-Counter Drugs’ Misuse: A Systematic Review on Antihistamines, Cough Medicines, and Decongestants. Frontiers in Psychiatry, 12, 657397.",
+            "url": "https://doi.org/10.3389/fpsyt.2021.657397"
+          },
+          {
+            "author": "The drugs of misuse. (2009)",
+            "title": "In Auricular Acupuncture & Addiction (pp. 93–135). Elsevier.",
+            "url": "https://doi.org/10.1016/B978-0-443-06885-0.50018-5"
+          },
+          {
+            "author": "Wolfson, A. R., Wong, D., Abrams, E. M., Waserman, S., & Sussman, G. L. (2022)",
+            "title": "Diphenhydramine: Time to Move on? The Journal of Allergy and Clinical Immunology: In Practice, 10(12), 3124–3130.",
+            "url": "https://doi.org/10.1016/j.jaip.2022.07.018"
+          }
+        ],
+        "status": "Caution"
       },
       "dmt": {
         "status": "Low Risk & Synergy"
