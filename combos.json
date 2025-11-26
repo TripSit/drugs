@@ -627,7 +627,7 @@
       "status": "Caution"
     },
     "cannabis": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "cocaine": {
@@ -690,7 +690,7 @@
       "status": "Caution"
     },
     "dmt": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "dox": {
@@ -737,7 +737,7 @@
       "status": "Low Risk & No Synergy"
     },
     "lsd": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "maois": {
@@ -770,7 +770,7 @@
       "status": "Caution"
     },
     "mushrooms": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "mxe": {
@@ -1338,7 +1338,7 @@
       "status": "Low Risk & Synergy"
     },
     "amphetamines": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "amt": {
@@ -1352,7 +1352,7 @@
       "status": "Low Risk & No Synergy"
     },
     "cocaine": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "dextromethorphan": {
@@ -1494,7 +1494,7 @@
       "status": "Caution"
     },
     "cannabis": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "dextromethorphan": {
@@ -1568,7 +1568,7 @@
       "status": "Caution"
     },
     "dmt": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "dox": {
@@ -1600,7 +1600,7 @@
       "status": "Low Risk & Decrease"
     },
     "lsd": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "maois": {
@@ -1616,7 +1616,7 @@
       "status": "Caution"
     },
     "mushrooms": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "mxe": {
@@ -2043,7 +2043,7 @@
       "status": "Dangerous"
     },
     "pregabalin": {
-      "note": "Pregabalin and DXM may increase each other’s effects such as inhibition, dizziness, sedation. At higher doses this can lead to unexpected loss of consciousness. Both drugs have seizure concerns which is greatly increased in combination.",
+      "note": "Pregabalin and DXM may increase each other’s effects such as inhibition, dizziness, and sedation. At higher doses this can lead to unexpected loss of consciousness. Both drugs have seizure concerns which are greatly increased in combination.",
       "sources": [
         {
           "author": "Altair. (n.d.-a)",
@@ -3034,7 +3034,7 @@
       "status": "Dangerous"
     },
     "tramadol": {
-      "note": "Both drugs increase the risk of serotonin syndrome. While at medical dosages, this is unlikely to be of concern, recreational doses should be avoided. Diphenhydramine may increase tramadol’s seizure risk.",
+      "note": "Both drugs increase the risk of serotonin syndrome. Diphenhydramine may increase tramadol’s seizure risk. Medical dosages are unlikely to be of concern.",
       "sources": [
         {
           "author": "Benson, B. E., Farooqi, M. F., Klein-Schwartz, W., Litovitz, T., Webb, A. N., Borys, D. J., Lung, D., Rutherfoord Rose, S., Aleguas, A., Sollee, D. R., & Seifert, S. A. (2010)",
@@ -3094,7 +3094,7 @@
       "status": "Low Risk & Decrease"
     },
     "amphetamines": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "amt": {
@@ -3111,7 +3111,7 @@
       "status": "Caution"
     },
     "cocaine": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "dextromethorphan": {
@@ -3198,7 +3198,7 @@
       "status": "Low Risk & Synergy"
     },
     "mephedrone": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "sources": [
         {
           "author": "Carbonaro, T. M., & Gatch, M. B.",
@@ -4610,7 +4610,7 @@
       "status": "Low Risk & Decrease"
     },
     "amphetamines": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "amt": {
@@ -4627,7 +4627,7 @@
       "status": "Caution"
     },
     "cocaine": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "dextromethorphan": {
@@ -5223,7 +5223,7 @@
       "status": "Unsafe"
     },
     "pregabalin": {
-      "note": "There is a significant risk of seizures from this combination. Amphetamines increase respiration rate allowing for a higher dose of sedatives than normal. If amphetamines wears off first, recreational dosages of pregabalin may overcome the individual and cause respiratory arrest. Both substances at recreational dosages cause strain of the heart and may lead to further dangerous heart complications. Medical dosages are not reported to be a concern",
+      "note": "There is a significant risk of seizures from this combination. Amphetamines increase respiration rate allowing for a higher dose of sedatives than normal. If amphetamines wears off first, recreational dosages of pregabalin may overcome the individual and cause respiratory arrest. Both substances at recreational dosages cause strain of the heart and may lead to further dangerous heart complications. Medical dosages are not reported to be a concern.",
       "sources": [
         {
           "author": "Alo, C., & Kioka, M. J. (2024)",
@@ -5423,7 +5423,7 @@
       "status": "Dangerous"
     },
     "dmt": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "sources": [
         {
           "author": "Carbonaro, T. M., & Gatch, M. B.",
@@ -5638,7 +5638,7 @@
       "status": "Dangerous"
     },
     "mushrooms": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "sources": [
         {
           "author": "Goel, D. B., & Zilate, S. (2022)",
@@ -5669,7 +5669,7 @@
       "status": "Low Risk & Synergy"
     },
     "opioids": {
-      "note": "Stimulants increase respiration rate allowing a higher dose of opiates. If the stimulant wears off first then the opiate may overcome the patient and cause respiratory arrest.",
+      "note": "Stimulants increase respiration rate allowing a higher dose of opioids than normal. If the stimulant wears off first then the opioid may overcome the patient and cause respiratory arrest.",
       "sources": [
         {
           "author": "Cohen, B., Ruth, L. J., & Preuss, C. V. (2025)",
@@ -5786,7 +5786,7 @@
         {
           "author": "Boostani, R., & Derakhshan, S.",
           "title": "Tramadol induced seizure: A 3-year study. Caspian Journal of Internal Medicine, 3(3), 484–487 (2012)",
-          "url": "N/A"
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3755854/"
         },
         {
           "author": "Ener, R. A., Meglathery, S. B., Decker, W. A. V., & Gallagher, R. M.",
@@ -5816,7 +5816,7 @@
         {
           "author": "Sansone, R. A., & Sansone, L. A.",
           "title": "Tramadol: seizures, serotonin syndrome, and coadministered antidepressants. Psychiatry (Edgmont (Pa.: Township)), 6(4), 17–21 (2009)",
-          "url": "N/A"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19724727"
         }
       ],
       "status": "Dangerous"
@@ -6065,7 +6065,7 @@
       "status": "Low Risk & Decrease"
     },
     "amphetamines": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "amt": {
@@ -6082,7 +6082,7 @@
       "status": "Caution"
     },
     "cocaine": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "status": "Caution"
     },
     "dextromethorphan": {
@@ -6177,7 +6177,7 @@
       "status": "Low Risk & Synergy"
     },
     "mephedrone": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "sources": [
         {
           "author": "Goel, D. B., & Zilate, S. (2022)",
@@ -7031,7 +7031,7 @@
       "status": "Low Risk & No Synergy"
     },
     "mephedrone": {
-      "note": "Stimulants increase respiration rate allowing a higher dose of opiates. If the stimulant wears off first then the opiate may overcome the patient and cause respiratory arrest.",
+      "note": "Stimulants increase respiration rate allowing a higher dose of opioids than normal. If the stimulant wears off first then the opioid may overcome the patient and cause respiratory arrest.",
       "sources": [
         {
           "author": "Cohen, B., Ruth, L. J., & Preuss, C. V. (2025)",
@@ -7576,7 +7576,7 @@
       "status": "Unsafe"
     },
     "dextromethorphan": {
-      "note": "Pregabalin and DXM may increase each other’s effects such as inhibition, dizziness, sedation. At higher doses this can lead to unexpected loss of consciousness. Both drugs have seizure concerns which is greatly increased in combination.",
+      "note": "Pregabalin and DXM may increase each other’s effects such as inhibition, dizziness, and sedation. At higher doses this can lead to unexpected loss of consciousness. Both drugs have seizure concerns which are greatly increased in combination.",
       "sources": [
         {
           "author": "Altair. (n.d.-a)",
@@ -8058,7 +8058,7 @@
       "status": "Caution"
     },
     "mdma": {
-      "note": "There is a significant risk of seizures from this combination. Amphetamines increase respiration rate allowing for a higher dose of sedatives than normal. If amphetamines wears off first, recreational dosages of pregabalin may overcome the individual and cause respiratory arrest. Both substances at recreational dosages cause strain of the heart and may lead to further dangerous heart complications. Medical dosages are not reported to be a concern",
+      "note": "There is a significant risk of seizures from this combination. Amphetamines increase respiration rate allowing for a higher dose of sedatives than normal. If amphetamines wears off first, recreational dosages of pregabalin may overcome the individual and cause respiratory arrest. Both substances at recreational dosages cause strain of the heart and may lead to further dangerous heart complications. Medical dosages are not reported to be a concern.",
       "sources": [
         {
           "author": "Alo, C., & Kioka, M. J. (2024)",
@@ -8811,7 +8811,7 @@
       "status": "Dangerous"
     },
     "diphenhydramine": {
-      "note": "Both drugs increase the risk of serotonin syndrome. While at medical dosages, this is unlikely to be of concern, recreational doses should be avoided. Diphenhydramine may increase tramadol’s seizure risk.",
+      "note": "Both drugs increase the risk of serotonin syndrome. Diphenhydramine may increase tramadol’s seizure risk. Medical dosages are unlikely to be of concern.",
       "sources": [
         {
           "author": "Benson, B. E., Farooqi, M. F., Klein-Schwartz, W., Litovitz, T., Webb, A. N., Borys, D. J., Lung, D., Rutherfoord Rose, S., Aleguas, A., Sollee, D. R., & Seifert, S. A. (2010)",
@@ -8929,7 +8929,7 @@
         {
           "author": "Boostani, R., & Derakhshan, S.",
           "title": "Tramadol induced seizure: A 3-year study. Caspian Journal of Internal Medicine, 3(3), 484–487 (2012)",
-          "url": "N/A"
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3755854/"
         },
         {
           "author": "Ener, R. A., Meglathery, S. B., Decker, W. A. V., & Gallagher, R. M.",
@@ -8959,7 +8959,7 @@
         {
           "author": "Sansone, R. A., & Sansone, L. A.",
           "title": "Tramadol: seizures, serotonin syndrome, and coadministered antidepressants. Psychiatry (Edgmont (Pa.: Township)), 6(4), 17–21 (2009)",
-          "url": "N/A"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19724727"
         }
       ],
       "status": "Dangerous"
