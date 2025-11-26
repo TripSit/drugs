@@ -18506,6 +18506,37 @@
         ],
         "status": "Dangerous"
       },
+      "mxe": {
+        "note": "There is a high risk of serotonin syndrome from this combination. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. MXE has a high likelihood of increasing DPH's deliriant effects at higher dosages and can greatly increase the risk of injury, mania, and psychosis. Medical dosages are unlikely to be of concern.",
+        "sources": [
+          {
+            "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M. (2025)",
+            "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027.",
+            "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+          },
+          {
+            "author": "Ener, R. A., Meglathery, S. B., Decker, W. A. V., & Gallagher, R. M. (2003)",
+            "title": "Serotonin Syndrome and Other Serotonergic Disorders: Table 1. Pain Medicine, 4(1), 63–74.",
+            "url": "https://doi.org/10.1046/j.1526-4637.2003.03005.x"
+          },
+          {
+            "author": "Marti, M., Talani, G., Miliano, C., Bilel, S., Biggio, F., Bratzu, J., Diana, M., De Luca, M. A., & Fattore, L. (2021)",
+            "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat. Experimental Neurology, 345, 113836.",
+            "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+          },
+          {
+            "author": "Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., & Iversen, L. (2013)",
+            "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor. PLoS ONE, 8(3), e59334.",
+            "url": "https://doi.org/10.1371/journal.pone.0059334"
+          },
+          {
+            "author": "Varghese, E., Abate, M. A., Hu, L., Kaplan, J., Kraner, J., Long, D. L., Sorg, M., Mock, A., Greenwald, M., & Andrew, T. (2015)",
+            "title": "Characterization of Diphenhydramine-Related Accidental Overdose Deaths. Academic Forensic Pathology, 5(1), 105–115.",
+            "url": "https://doi.org/10.23907/2015.011"
+          }
+        ],
+        "status": "Dangerous"
+      },
       "pregabalin": {
         "note": "There is a significant risk of seizures from this combination. The combination is likely to increase each other’s negative side effects, such as nausea, dizziness, and loss of consciousness. At higher dosages, pregabalin is likely to increase diphenhydramine’s deliriant effects, inhibition, and risk of injury. Medical dosages are not reported to be a concern.",
         "sources": [
@@ -30703,6 +30734,37 @@
           }
         ],
         "status": "Unsafe"
+      },
+      "diphenhydramine": {
+        "note": "There is a high risk of serotonin syndrome from this combination. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. MXE has a high likelihood of increasing DPH's deliriant effects at higher dosages and can greatly increase the risk of injury, mania, and psychosis. Medical dosages are unlikely to be of concern.",
+        "sources": [
+          {
+            "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M. (2025)",
+            "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027.",
+            "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+          },
+          {
+            "author": "Ener, R. A., Meglathery, S. B., Decker, W. A. V., & Gallagher, R. M. (2003)",
+            "title": "Serotonin Syndrome and Other Serotonergic Disorders: Table 1. Pain Medicine, 4(1), 63–74.",
+            "url": "https://doi.org/10.1046/j.1526-4637.2003.03005.x"
+          },
+          {
+            "author": "Marti, M., Talani, G., Miliano, C., Bilel, S., Biggio, F., Bratzu, J., Diana, M., De Luca, M. A., & Fattore, L. (2021)",
+            "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat. Experimental Neurology, 345, 113836.",
+            "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+          },
+          {
+            "author": "Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., & Iversen, L. (2013)",
+            "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor. PLoS ONE, 8(3), e59334.",
+            "url": "https://doi.org/10.1371/journal.pone.0059334"
+          },
+          {
+            "author": "Varghese, E., Abate, M. A., Hu, L., Kaplan, J., Kraner, J., Long, D. L., Sorg, M., Mock, A., Greenwald, M., & Andrew, T. (2015)",
+            "title": "Characterization of Diphenhydramine-Related Accidental Overdose Deaths. Academic Forensic Pathology, 5(1), 105–115.",
+            "url": "https://doi.org/10.23907/2015.011"
+          }
+        ],
+        "status": "Dangerous"
       },
       "dmt": {
         "status": "Low Risk & Synergy"
