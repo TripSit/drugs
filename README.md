@@ -57,7 +57,8 @@ There are multiple things that will be done through the project, they are as fol
 * Adjustments Combo chart generator needs to be updated 
 * Typescript conversion from JavaScript
 * Database/architecture work
-* Dynamic custom chart
+* Dynamic custom chart.
+
 For further discussion, see [Long-Term Game Plan Document](https://docs.google.com/document/d/1oEl-ZvfECPmadBxXbwIkP6kOUYJyf01DqBTxvP8O0Iw/edit?usp=sharing
 )
 
