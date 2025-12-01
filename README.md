@@ -51,7 +51,7 @@ It has been a while since the TripSit drug combination chart had a substantial u
 We’re creating a process that allows people to suggest changes to the TripSit database. The priority will be to add combo information, but this process will apply to all database information. 
 
 There are multiple things that will be done through the project, they are as follows:
-* Add “DPH” “Mephedrone/4mmc” “Pregabalin” "Lithium" to the combo chart
+* Add “Diphenhydramine (DPH)” “4-methylmethcathinone (Mephedrone/4mmc)” “Pregabalin” "Lithium" to the combo chart
 * Code needs to be cleaned up
 * Website interface development
 * Adjustments Combo chart generator needs to be updated 
@@ -61,7 +61,34 @@ There are multiple things that will be done through the project, they are as fol
 For further discussion, see [Long-Term Game Plan Document](https://docs.google.com/document/d/1oEl-ZvfECPmadBxXbwIkP6kOUYJyf01DqBTxvP8O0Iw/edit?usp=sharing
 )
 
-## Interaction Suggestion Template**
+## External Links
+
+**Main:**   
+[Website](https://tripsit.me/)   
+[GitHub](https://github.com/TripSit/drugs)   
+[Online Drug Combination Chart](https://combo.tripsit.me/)   
+[Image Drug Combination Chart](https://wiki.tripsit.me/wiki/Drug_combinations)   
+[Trello *outdated*](https://trello.com/b/EaeSqpKl/tripsit-content)   
+[Discord](https://discord.gg/tripsit)   
+[Factsheets](https://tripsit.me/factsheets)   
+[Research Tools](https://github.com/TripSit/drugs/discussions/292)   
+
+**Documentation:**   
+[Research Document](https://docs.google.com/document/d/1cT4wONr4GsijbzeYPAFpSpZh0Mq5u7SEQkTHbxDxAVA/edit?usp=sharing
+)   
+[Combination Chart Main Document](https://docs.google.com/document/d/1_n65NibeMNNMBahocEjLe-630hwpSlibbZgDQeDf7Y4/edit?usp=sharing
+)   
+[Long-Term Game Plan Document](https://docs.google.com/document/d/1oEl-ZvfECPmadBxXbwIkP6kOUYJyf01DqBTxvP8O0Iw/edit?usp=sharing
+)   
+[Drug Combination Chart Research Tracker](https://docs.google.com/spreadsheets/d/1aeXuaDRMiAiKihtYT_7GwE7Co1Oj2b4rpKJ3cULCTqQ/edit?usp=sharing
+)   
+[Translation Sheet](https://docs.google.com/spreadsheets/d/1aeXuaDRMiAiKihtYT_7GwE7Co1Oj2b4rpKJ3cULCTqQ/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1h7iJ7PN8a3DtN9aaI5zkPR5VY6CbJO2SlOmD8xj3r04/edit?usp=sharing
+)   
+
+**Tutorials:**   
+[Drug Interaction Submission Tutorial](https://www.youtube.com/watch?v=sqnMuyTNHXY)
+
+## Interaction Suggestion Template
 ```
 X Substance + Y Substance = Z Interaction
 Interaction Type (Caution, Unsafe, etc)
@@ -78,32 +105,6 @@ Caution - These combinations are not usually physically harmful, but may produce
 Unsafe - There is considerable risk of physical harm when taking these combinations, they should be avoided where possible.
 Dangerous - These combinations are considered extremely harmful and should always be avoided. Reactions to these drugs taken in combination are highly unpredictable and have a potential to cause death.
 ```
-
-## External Links
-
-**Main:**   
-[Website](https://tripsit.me/)   
-[GitHub](https://github.com/TripSit/drugs)   
-[Online Drug Combination Chart](https://combo.tripsit.me/)   
-[Image Drug Combination Chart](https://wiki.tripsit.me/wiki/Drug_combinations)   
-[Trello *outdated*](https://trello.com/b/EaeSqpKl/tripsit-content)   
-[Discord](https://discord.gg/tripsit)   
-[Factsheets](https://tripsit.me/factsheets)   
-[Research Tools](https://github.com/TripSit/drugs/discussions/292)   
-
-**Documentation:**   
-[Additional Research Document](https://docs.google.com/document/d/1cT4wONr4GsijbzeYPAFpSpZh0Mq5u7SEQkTHbxDxAVA/edit?usp=sharing
-)   
-[Combination Chart Main Document v1 *outdated*](https://docs.google.com/document/d/1_n65NibeMNNMBahocEjLe-630hwpSlibbZgDQeDf7Y4/edit?usp=sharing
-)   
-[Combination Chart Main Document v2 *draft*](https://docs.google.com/document/d/1S57u8rTUDY8AUBg_Cera_OglozadOtiF2wG_LWNpfrE/edit?tab=t.0)   
-[Long-Term Game Plan Document](https://docs.google.com/document/d/1oEl-ZvfECPmadBxXbwIkP6kOUYJyf01DqBTxvP8O0Iw/edit?usp=sharing
-)   
-[Drug Combination Chart Research Tracker](https://docs.google.com/spreadsheets/d/1aeXuaDRMiAiKihtYT_7GwE7Co1Oj2b4rpKJ3cULCTqQ/edit?usp=sharing
-)   
-
-**Tutorials:**   
-[Drug Interaction Submission Tutorial](https://www.youtube.com/watch?v=sqnMuyTNHXY)
 
 ## Contact Methods
 
