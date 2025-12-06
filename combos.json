@@ -445,7 +445,7 @@
       "status": "Caution"
     },
     "benzodiazepines": {
-      "note": "Ethanol ingestion may potentiate the CNS effects of many benzodiazepines. The two substances potentiate each other strongly and unpredictably, very rapidly leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Blacking out and memory loss is almost certain.",
+      "note": "Both drugs increase the CNS depressant effects of each other. There is a high risk of blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well.",
       "status": "Dangerous"
     },
     "caffeine": {
@@ -482,7 +482,7 @@
       "status": "Unsafe"
     },
     "dextromethorphan": {
-      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Additionally, CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
+      "note": "Both drugs increase the CNS depressant effects of each other. At moderate-to-high doses, there is a high risk of blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well. Avoid on anything higher than 1st plateau.",
       "status": "Dangerous"
     },
     "diphenhydramine": {
@@ -582,7 +582,7 @@
       "status": "Caution"
     },
     "opioids": {
-      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely",
+      "note": "Both drugs increase the CNS depressant effects of each other. There is a high risk of blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well.",
       "status": "Dangerous"
     },
     "pcp": {
@@ -962,7 +962,7 @@
       "status": "Low Risk & Decrease"
     },
     "alcohol": {
-      "note": "Ethanol ingestion may potentiate the CNS effects of many benzodiazepines. The two substances potentiate each other strongly and unpredictably, very rapidly leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Blacking out and memory loss is almost certain.",
+      "note": "Both drugs increase the CNS depressant effects of each other. There is a high risk of blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well.",
       "status": "Dangerous"
     },
     "amphetamines": {
@@ -982,7 +982,7 @@
       "status": "Low Risk & Decrease"
     },
     "dextromethorphan": {
-      "note": "Small doses of benzos can end a bad trip, but both substances potentiate the ataxia and sedation caused by the other and this can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
+      "note": "Both substances potentiate the ataxia and sedation caused by the other and this can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
       "status": "Caution"
     },
     "diphenhydramine": {
@@ -1046,7 +1046,7 @@
       "status": "Low Risk & Decrease"
     },
     "opioids": {
-      "note": "Central nervous system and/or respiratory-depressant effects may be additively or synergistically present. The two substances potentiate each other strongly and unpredictably, very rapidly leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position Blackouts/memory loss likely",
+      "note": "Both drugs increase the CNS depressant effects of each other. There is a high risk of blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well.",
       "status": "Dangerous"
     },
     "pcp": {
@@ -1057,7 +1057,7 @@
       "status": "Low Risk & No Synergy"
     },
     "tramadol": {
-      "note": "Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present. Vomit aspiration is a risk when passed out, lay down in recovery position if ingested.",
+      "note": "Both drugs increase the CNS depressant effects of each other. There is a high risk of blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well.",
       "status": "Dangerous"
     }
   },
@@ -1740,7 +1740,7 @@
       "status": "Unsafe"
     },
     "alcohol": {
-      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Additionally, CNS depression can lead to difficulty breathing. Avoid on anything higher than 1st plateau.",
+      "note": "Both drugs increase the CNS depressant effects of each other. At moderate-to-high doses, there is a high risk of blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well. Avoid on anything higher than 1st plateau.",
       "status": "Dangerous"
     },
     "amphetamines": {
@@ -1751,7 +1751,7 @@
       "status": "Dangerous"
     },
     "benzodiazepines": {
-      "note": "Small doses of benzos can end a bad trip, but both substances potentiate the ataxia and sedation caused by the other and this can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
+      "note": "Both substances potentiate the ataxia and sedation caused by the other and this can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
       "status": "Caution"
     },
     "caffeine": {
@@ -1871,7 +1871,7 @@
       "status": "Unsafe"
     },
     "ghb/gbl": {
-      "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. This combination is hard to predict",
+      "note": "Both drugs increase the CNS depressant effects of each other. There is a high risk of blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well.",
       "status": "Dangerous"
     },
     "ketamine": {
@@ -2036,7 +2036,7 @@
       "status": "Low Risk & Synergy"
     },
     "opioids": {
-      "note": "CNS depression, difficult breathing, heart issues, hepatoxic, just very unsafe combination all around. Additionally if one takes DXM, their tolerance of opiates goes down slightly, thus causing additional synergistic effects.",
+      "note": "Both drugs increase the CNS depressant effects of each other. There is a high risk of blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well. Additionally if one takes DXM, their tolerance of opiates goes down slightly, thus causing additional synergistic effects.",
       "status": "Dangerous"
     },
     "pcp": {
@@ -2118,6 +2118,7 @@
       "status": "Dangerous"
     },
     "tramadol": {
+      "note": "This combination can dangerously increase serotonin levels in the brain leading to serotonin syndrome in addition to increased CNS depression.",
       "status": "Dangerous"
     }
   },
@@ -3562,7 +3563,7 @@
       "status": "Low Risk & Decrease"
     },
     "alcohol": {
-      "note": "Even in very low doses this combination rapidly leads to memory loss, severe ataxia and unconsciousness. There is a high risk of vomit aspiration while unconscious.",
+      "note": "Even at relatively low doses, both drugs increase the CNS depressant effects of each other. There is a high risk of blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well.",
       "status": "Dangerous"
     },
     "amphetamines": {
@@ -3573,7 +3574,7 @@
       "status": "Low Risk & Decrease"
     },
     "benzodiazepines": {
-      "note": "The two substances potentiate each other strongly and unpredictably, very rapidly leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position.",
+      "note": "Both drugs increase the CNS depressant effects of each other. There is a high risk of blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well.",
       "status": "Dangerous"
     },
     "caffeine": {
@@ -3591,7 +3592,7 @@
       "status": "Dangerous"
     },
     "diphenhydramine": {
-      "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
+      "note": "Both drugs increase the CNS depressant effects of each other. There is a high risk of blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well.",
       "sources": [
         {
           "author": "William J Tharion, Donna J. McMenemy, Terry M. Rauch",
@@ -3705,7 +3706,7 @@
       "status": "Caution"
     },
     "opioids": {
-      "note": "The two substances potentiate each other strongly and unpredictably, very rapidly leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position",
+      "note": "Both drugs increase the CNS depressant effects of each other. There is a high risk of blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well.",
       "status": "Dangerous"
     },
     "pcp": {
@@ -3777,7 +3778,7 @@
       "status": "Low Risk & No Synergy"
     },
     "tramadol": {
-      "note": "The sedative effects of this combination can lead to dangerous respiratory depression.",
+      "note": "Both drugs increase the CNS depressant effects of each other. There is a high risk of blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well.",
       "status": "Dangerous"
     }
   },
@@ -6915,7 +6916,7 @@
       "status": "Low Risk & No Synergy"
     },
     "alcohol": {
-      "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely",
+      "note": "Both drugs increase the CNS depressant effects of each other. There is a high risk of blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well.",
       "status": "Dangerous"
     },
     "amphetamines": {
@@ -6927,7 +6928,7 @@
       "status": "Low Risk & No Synergy"
     },
     "benzodiazepines": {
-      "note": "Central nervous system and/or respiratory-depressant effects may be additively or synergistically present. The two substances potentiate each other strongly and unpredictably, very rapidly leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position Blackouts/memory loss likely",
+      "note": "Both drugs increase the CNS depressant effects of each other. There is a high risk of blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well.",
       "status": "Dangerous"
     },
     "caffeine": {
@@ -6941,7 +6942,7 @@
       "status": "Dangerous"
     },
     "dextromethorphan": {
-      "note": "CNS depression, difficult breathing, heart issues, hepatoxic, just very unsafe combination all around. Additionally if one takes DXM, their tolerance of opiates goes down slightly, thus causing additional synergistic effects.",
+      "note": "Both drugs increase the CNS depressant effects of each other. There is a high risk of blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well. Additionally if one takes DXM, their tolerance of opiates goes down slightly, thus causing additional synergistic effects.",
       "status": "Dangerous"
     },
     "diphenhydramine": {
@@ -7013,7 +7014,7 @@
       "status": "Low Risk & No Synergy"
     },
     "ghb/gbl": {
-      "note": "The two substances potentiate each other strongly and unpredictably, very rapidly leading to unconsciousness. While unconscious, vomit aspiration is a risk if not placed in the recovery position",
+      "note": "Both drugs increase the CNS depressant effects of each other. There is a high risk of blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well.",
       "status": "Dangerous"
     },
     "ketamine": {
@@ -8768,6 +8769,7 @@
       "status": "Unsafe"
     },
     "tramadol": {
+      "note": "Increased risk of serotonin syndrome.",
       "status": "Dangerous"
     }
   },
@@ -8783,7 +8785,7 @@
       "status": "Unsafe"
     },
     "alcohol": {
-      "note": "Heavy CNS depressants, risk of seizures. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely.",
+      "note": "Both drugs increase the CNS depressant effects of each other. There is a high risk of seizures, blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well.",
       "status": "Dangerous"
     },
     "amphetamines": {
@@ -8794,7 +8796,7 @@
       "status": "Dangerous"
     },
     "benzodiazepines": {
-      "note": "Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present. Vomit aspiration is a risk when passed out, lay down in recovery position if ingested.",
+      "note": "Both drugs increase the CNS depressant effects of each other. There is a high risk of blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well.",
       "status": "Dangerous"
     },
     "caffeine": {
@@ -8865,7 +8867,7 @@
       "status": "Unsafe"
     },
     "ghb/gbl": {
-      "note": "The sedative effects of this combination can lead to dangerous respiratory depression.",
+      "note": "Both drugs increase the CNS depressant effects of each other. There is a high risk of blackouts/memory loss, unconsciousness, and respiratory depression leading to death. While unconscious, may cause vomit aspiration as well.",
       "status": "Dangerous"
     },
     "ketamine": {
