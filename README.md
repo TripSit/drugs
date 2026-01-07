@@ -51,7 +51,7 @@ It has been a while since the TripSit drug combination chart had a substantial u
 We’re creating a process that allows people to suggest changes to the TripSit database. The priority will be to add combo information, but this process will apply to all database information. 
 
 There are multiple things that will be done through the project, they are as follows:
-* Add “Diphenhydramine (DPH)” “4-methylmethcathinone (Mephedrone/4mmc)” “Pregabalin” "Lithium" to the combo chart
+* Add “Diphenhydramine (DPH)” “4-methylmethcathinone (Mephedrone/4-MMC)” “Pregabalin” "Lithium" to the combo chart
 * Code needs to be cleaned up
 * Website interface development
 * Adjustments Combo chart generator needs to be updated 
