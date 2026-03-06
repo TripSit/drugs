@@ -4,7 +4,7 @@
       "status": "Caution"
     },
     "5-meo-xxt": {
-      "note": "Both classes of compounds can be unpredictable alone",
+      "note": "Both classes of compounds can be unpredictable alone.",
       "status": "Caution"
     },
     "alcohol": {
@@ -30,7 +30,7 @@
       "status": "Caution"
     },
     "cocaine": {
-      "note": "Cocaine and 2c-t-x both provide considerable stimulation. When combined they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.",
+      "note": "Cocaine and 2C-T-x drugs both provide considerable stimulation. When combined they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.",
       "status": "Unsafe"
     },
     "dextromethorphan": {
@@ -83,7 +83,7 @@
       "status": "Low Risk & Synergy"
     },
     "maois": {
-      "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably, which could be dangerous given the unpredictability of the 2C-T-x series",
+      "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably, which could be dangerous given the unpredictability of the 2C-T-x series.",
       "status": "Caution"
     },
     "mdma": {
@@ -105,7 +105,7 @@
       "status": "Low Risk & Synergy"
     },
     "opioids": {
-      "note": "No expected interactions, some opioids have serotonin action, and could lead to Serotonin Syndrome or a seizure. These are pretty much only to Pentazocine, Methadone, Tramadol, Tapenatdol.",
+      "note": "There may concerns of an interaction with opioids that have serotonergic activity. These may lead to serotonin syndrome and or seizures. Notably these are pentazocine, methadone, tramadol, and tapentadol.",
       "status": "Low Risk & No Synergy"
     },
     "pcp": {
@@ -123,7 +123,7 @@
       "status": "Caution"
     },
     "5-meo-xxt": {
-      "note": "The 5-MeO psychedelics can interact unpredictably to potentiate other psychedelics",
+      "note": "The 5-MeO-xxT class can act unpredictably and potentiate other psychedelics.",
       "status": "Caution"
     },
     "alcohol": {
@@ -140,7 +140,7 @@
       "status": "Low Risk & Decrease"
     },
     "caffeine": {
-      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+      "note": "High doses of caffeine can increase anxiety which can be less manageable when tripping. Both substances are stimulating and the combination may cause greater physical discomfort.",
       "status": "Low Risk & No Synergy"
     },
     "cannabis": {
@@ -258,7 +258,7 @@
       "status": "Caution"
     },
     "2c-x": {
-      "note": "The 5-MeO psychedelics can interact unpredictably to potentiate other psychedelics",
+      "note": "The 5-MeO-xxT class can act unpredictably and potentiate other psychedelics.",
       "status": "Caution"
     },
     "alcohol": {
@@ -275,7 +275,7 @@
       "status": "Low Risk & Decrease"
     },
     "caffeine": {
-      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+      "note": "High doses of caffeine can increase anxiety which can be less manageable when tripping. Both substances are stimulating and the combination may cause greater physical discomfort.",
       "status": "Low Risk & No Synergy"
     },
     "cannabis": {
@@ -294,7 +294,7 @@
       "status": "Low Risk & Synergy"
     },
     "dox": {
-      "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions, particularly increasing the risk of unpleasant physical side effects.",
+      "note": "The 5-MeO-xxT class of tryptamines can be unpredictable in their interactions, particularly increasing the risk of unpleasant physical side effects.",
       "status": "Caution"
     },
     "ghb/gbl": {
@@ -314,7 +314,7 @@
       "status": "Caution"
     },
     "mescaline": {
-      "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions",
+      "note": "The 5-MeO-xxT class of tryptamines can be unpredictable in their interactions",
       "status": "Caution"
     },
     "mushrooms": {
@@ -325,7 +325,7 @@
       "status": "Low Risk & Synergy"
     },
     "nbomes": {
-      "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions and the NBOMes are known to be unpredictable even alone. This combination is best avoided",
+      "note": "The 5-MeO-xxT class of tryptamines can be unpredictable in their interactions and the NBOMes are known to be unpredictable even alone. This combination is best avoided",
       "status": "Caution"
     },
     "nitrous": {
@@ -887,7 +887,7 @@
       "status": "Low Risk & Decrease"
     },
     "caffeine": {
-      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+      "note": "High doses of caffeine can increase anxiety which can be less manageable when tripping. Both substances are stimulating and the combination may cause greater physical discomfort.",
       "status": "Caution"
     },
     "cannabis": {
@@ -1063,15 +1063,15 @@
   },
   "caffeine": {
     "2c-t-x": {
-      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+      "note": "High doses of caffeine can increase anxiety which can be less manageable when tripping. Both substances are stimulating and the combination may cause greater physical discomfort.",
       "status": "Low Risk & No Synergy"
     },
     "2c-x": {
-      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+      "note": "High doses of caffeine can increase anxiety which can be less manageable when tripping. Both substances are stimulating and the combination may cause greater physical discomfort.",
       "status": "Low Risk & No Synergy"
     },
     "5-meo-xxt": {
-      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+      "note": "High doses of caffeine can increase anxiety which can be less manageable when tripping. Both substances are stimulating and the combination may cause greater physical discomfort.",
       "status": "Low Risk & No Synergy"
     },
     "alcohol": {
@@ -1082,7 +1082,7 @@
       "status": "Caution"
     },
     "amt": {
-      "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+      "note": "High doses of caffeine can increase anxiety which can be less manageable when tripping. Both substances are stimulating and the combination may cause greater physical discomfort.",
       "status": "Caution"
     },
     "benzodiazepines": {
@@ -1442,7 +1442,7 @@
   },
   "cocaine": {
     "2c-t-x": {
-      "note": "Cocaine and 2c-t-x both provide considerable stimulation. When combined they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.",
+      "note": "Cocaine and 2C-T-x drugs both provide considerable stimulation. When combined they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.",
       "status": "Unsafe"
     },
     "2c-x": {
@@ -1911,7 +1911,7 @@
       "status": "Low Risk & Synergy"
     },
     "lithium": {
-      "note": "There is a risk of serotonin syndrome when combining Lithium with DXM.",
+      "note": "There is a risk of serotonin syndrome when combining Lithium with DXM. Medical dosages are not reported to be of concern.",
       "sources": [
         {
           "author": "Lenox, R. H., & Hahn, C. G.",
@@ -3281,7 +3281,7 @@
       "status": "Caution"
     },
     "5-meo-xxt": {
-      "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions, particularly increasing the risk of unpleasant physical side effects.",
+      "note": "The 5-MeO-xxT class of tryptamines can be unpredictable in their interactions, particularly increasing the risk of unpleasant physical side effects.",
       "status": "Caution"
     },
     "alcohol": {
@@ -4127,7 +4127,7 @@
       "status": "Low Risk & Decrease"
     },
     "dextromethorphan": {
-      "note": "There is a risk of serotonin syndrome when combining Lithium with DXM.",
+      "note": "There is a risk of serotonin syndrome when combining Lithium with DXM. Medical dosages are not reported to be of concern.",
       "sources": [
         {
           "author": "Lenox, R. H., & Hahn, C. G.",
@@ -4518,7 +4518,7 @@
       "status": "Dangerous"
     },
     "nitrous": {
-      "note": "We are unable to find a report of concerns for CNS depression caused by Lithium.",
+      "note": "We are unable to find a report of concerns for CNS depression caused by this interaction.",
       "sources": [
         {
           "author": "Drugbank",
@@ -4529,7 +4529,7 @@
       "status": "Low Risk & No Synergy"
     },
     "ssris": {
-      "note": "This interaction is used in medical settings without reported issues. If this combination is taken, caution would be recommended if any other drugs are planned to be taken on top of these that may have serotonergic activity.",
+      "note": "This interaction is used in medical settings without reported issues. If this combination is taken, caution is recommended if any other drugs are planned to be taken on top of these that may have serotonergic activity.",
       "sources": [
         {
           "author": "Finley, P. R.",
@@ -4555,7 +4555,7 @@
       "status": "Low Risk & No Synergy"
     },
     "tramadol": {
-      "note": "Tramadol and Lithium both increase the risk of seizures and serotonin syndrome.",
+      "note": "Tramadol and lithium both increase the risk of seizures and serotonin syndrome.",
       "sources": [
         {
           "author": "Steven C. Julius, Richard P. Brenner",
@@ -4893,7 +4893,7 @@
   },
   "maois": {
     "2c-t-x": {
-      "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably, which could be dangerous given the unpredictability of the 2C-T-x series",
+      "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably, which could be dangerous given the unpredictability of the 2C-T-x series.",
       "status": "Caution"
     },
     "2c-x": {
@@ -5638,7 +5638,7 @@
       "status": "Dangerous"
     },
     "mushrooms": {
-      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+      "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences.",
       "sources": [
         {
           "author": "Goel, D. B., & Zilate, S. (2022)",
@@ -5830,7 +5830,7 @@
       "status": "Caution"
     },
     "5-meo-xxt": {
-      "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions",
+      "note": "The 5-MeO-xxT class of tryptamines can be unpredictable in their interactions",
       "status": "Caution"
     },
     "alcohol": {
@@ -6522,7 +6522,7 @@
       "status": "Caution"
     },
     "5-meo-xxt": {
-      "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions and the NBOMes are known to be unpredictable even alone. This combination is best avoided",
+      "note": "The 5-MeO-xxT class of tryptamines can be unpredictable in their interactions and the NBOMes are known to be unpredictable even alone. This combination is best avoided",
       "status": "Caution"
     },
     "alcohol": {
@@ -6791,7 +6791,7 @@
       "status": "Low Risk & Synergy"
     },
     "lithium": {
-      "note": "We are unable to find a report of concerns for CNS depression caused by Lithium.",
+      "note": "We are unable to find a report of concerns for CNS depression caused by this interaction.",
       "sources": [
         {
           "author": "Drugbank",
@@ -6905,7 +6905,7 @@
   },
   "opioids": {
     "2c-t-x": {
-      "note": "No expected interactions, some opioids have serotonin action, and could lead to Serotonin Syndrome or a seizure. These are pretty much only to Pentazocine, Methadone, Tramadol, Tapenatdol.",
+      "note": "There may concerns of an interaction with opioids that have serotonergic activity. These may lead to serotonin syndrome and or seizures. Notably these are pentazocine, methadone, tramadol, and tapentadol.",
       "status": "Low Risk & No Synergy"
     },
     "2c-x": {
@@ -8692,7 +8692,7 @@
       "status": "Low Risk & No Synergy"
     },
     "lithium": {
-      "note": "This interaction is used in medical settings without reported issues. If this combination is taken, caution would be recommended if any other drugs are planned to be taken on top of these that may have serotonergic activity.",
+      "note": "This interaction is used in medical settings without reported issues. If this combination is taken, caution is recommended if any other drugs are planned to be taken on top of these that may have serotonergic activity.",
       "sources": [
         {
           "author": "Finley, P. R.",
@@ -8872,7 +8872,7 @@
       "status": "Dangerous"
     },
     "lithium": {
-      "note": "Tramadol and Lithium both increase the risk of seizures and serotonin syndrome.",
+      "note": "Tramadol and lithium both increase the risk of seizures and serotonin syndrome.",
       "sources": [
         {
           "author": "Steven C. Julius, Richard P. Brenner",
@@ -8924,7 +8924,7 @@
       "status": "Dangerous"
     },
     "mephedrone": {
-      "note": "There is a high risk of serotonin syndrome and seizures at recreational dosages. Both substances affect the heart and may lead to further dangerous heart complications at higher dosages. Both can dull each other's effects, so if one wears off before the other it's possible to overdose due to the lack of counteraction. The combination may increase each other's side effects, such as dizziness and drowsiness. At higher dosages, the combination may increase each other’s side effects, such as delirium, mania, and psychosis.",
+      "note": "Both substances affect the heart and may lead to further dangerous heart complications at higher dosages. Both can dull each other's effects, so if one wears off before the other it's possible to overdose due to the lack of counteraction. There is a significant risk of seizures and serotonin syndrome from this combination.",
       "sources": [
         {
           "author": "Boostani, R., & Derakhshan, S.",

@@ -12224,7 +12224,7 @@
         "status": "Low Risk & Decrease"
       },
       "caffeine": {
-        "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+        "note": "High doses of caffeine can increase anxiety which can be less manageable when tripping. Both substances are stimulating and the combination may cause greater physical discomfort.",
         "status": "Caution"
       },
       "cannabis": {
@@ -13926,15 +13926,15 @@
     ],
     "combos": {
       "2c-t-x": {
-        "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+        "note": "High doses of caffeine can increase anxiety which can be less manageable when tripping. Both substances are stimulating and the combination may cause greater physical discomfort.",
         "status": "Low Risk & No Synergy"
       },
       "2c-x": {
-        "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+        "note": "High doses of caffeine can increase anxiety which can be less manageable when tripping. Both substances are stimulating and the combination may cause greater physical discomfort.",
         "status": "Low Risk & No Synergy"
       },
       "5-meo-xxt": {
-        "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+        "note": "High doses of caffeine can increase anxiety which can be less manageable when tripping. Both substances are stimulating and the combination may cause greater physical discomfort.",
         "status": "Low Risk & No Synergy"
       },
       "alcohol": {
@@ -13945,7 +13945,7 @@
         "status": "Caution"
       },
       "amt": {
-        "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+        "note": "High doses of caffeine can increase anxiety which can be less manageable when tripping. Both substances are stimulating and the combination may cause greater physical discomfort.",
         "status": "Caution"
       },
       "benzodiazepines": {
@@ -15538,7 +15538,7 @@
     ],
     "combos": {
       "2c-t-x": {
-        "note": "Cocaine and 2c-t-x both provide considerable stimulation. When combined they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.",
+        "note": "Cocaine and 2C-T-x drugs both provide considerable stimulation. When combined they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.",
         "status": "Unsafe"
       },
       "2c-x": {
@@ -17376,7 +17376,7 @@
         "status": "Low Risk & Synergy"
       },
       "lithium": {
-        "note": "There is a risk of serotonin syndrome when combining Lithium with DXM.",
+        "note": "There is a risk of serotonin syndrome when combining Lithium with DXM. Medical dosages are not reported to be of concern.",
         "sources": [
           {
             "author": "Lenox, R. H., & Hahn, C. G.",
@@ -25380,7 +25380,7 @@
         "status": "Low Risk & Decrease"
       },
       "dextromethorphan": {
-        "note": "There is a risk of serotonin syndrome when combining Lithium with DXM.",
+        "note": "There is a risk of serotonin syndrome when combining Lithium with DXM. Medical dosages are not reported to be of concern.",
         "sources": [
           {
             "author": "Lenox, R. H., & Hahn, C. G.",
@@ -25807,7 +25807,7 @@
         "status": "Dangerous"
       },
       "nitrous": {
-        "note": "We are unable to find a report of concerns for CNS depression caused by Lithium.",
+        "note": "We are unable to find a report of concerns for CNS depression caused by this interaction.",
         "sources": [
           {
             "author": "Drugbank",
@@ -25818,7 +25818,7 @@
         "status": "Low Risk & No Synergy"
       },
       "ssris": {
-        "note": "This interaction is used in medical settings without reported issues. If this combination is taken, caution would be recommended if any other drugs are planned to be taken on top of these that may have serotonergic activity.",
+        "note": "This interaction is used in medical settings without reported issues. If this combination is taken, caution is recommended if any other drugs are planned to be taken on top of these that may have serotonergic activity.",
         "sources": [
           {
             "author": "Finley, P. R.",
@@ -25844,7 +25844,7 @@
         "status": "Low Risk & No Synergy"
       },
       "tramadol": {
-        "note": "Tramadol and Lithium both increase the risk of seizures and serotonin syndrome.",
+        "note": "Tramadol and lithium both increase the risk of seizures and serotonin syndrome.",
         "sources": [
           {
             "author": "Steven C. Julius, Richard P. Brenner",
@@ -28780,7 +28780,7 @@
         "status": "Caution"
       },
       "5-meo-xxt": {
-        "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions",
+        "note": "The 5-MeO-xxT class of tryptamines can be unpredictable in their interactions",
         "status": "Caution"
       },
       "alcohol": {
@@ -32565,7 +32565,7 @@
         "status": "Low Risk & Synergy"
       },
       "lithium": {
-        "note": "We are unable to find a report of concerns for CNS depression caused by Lithium.",
+        "note": "We are unable to find a report of concerns for CNS depression caused by this interaction.",
         "sources": [
           {
             "author": "Drugbank",
