@@ -1,0 +1,50 @@
+{
+ "am-2201": {
+  "aliases": [
+   "am2201"
+  ],
+  "categories": [
+   "research-chemical",
+   "tentative",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "minutes",
+   "value": "15-60"
+  },
+  "formatted_dose": {
+   "Vapourized": {
+    "Common": "500-1000ug",
+    "Light": "250-500ug",
+    "Strong": "1000-2000ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "minutes",
+   "Oral": "60-180",
+   "Vapourized": "30-90"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "15-30",
+   "Vapourized": "1-3"
+  },
+  "name": "am-2201",
+  "pretty_name": "AM-2201",
+  "properties": {
+   "after-effects": "15-60 minutes.",
+   "aliases": [
+    "am2201"
+   ],
+   "categories": [
+    "research-chemical",
+    "tentative",
+    "habit-forming"
+   ],
+   "dose": "Vapourized Light: 250-500ug Common: 500-1000ug Strong: 1000-2000ug",
+   "duration": "Vapourized: 30-90 minutes. | Oral: 60-180 minutes.",
+   "onset": "Vapourized: 1-3 minutes. | Oral: 15-30 minutes.",
+   "summary": "A synthetic cannabanoid that is very potent. Active doses start at around 250ug's. It is recommended to be cautious with this substance. It has also been noted that it can cause convulsions."
+  }
+ }
+}

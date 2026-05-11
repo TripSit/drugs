@@ -1,0 +1,360 @@
+{
+ "mescaline": {
+  "aliases": [
+   "buttons",
+   "mesc",
+   "san",
+   "san-pedro"
+  ],
+  "categories": [
+   "psychedelic",
+   "common"
+  ],
+  "combos": {
+   "2c-t-x": {
+    "status": "Caution"
+   },
+   "2c-x": {
+    "status": "Caution"
+   },
+   "5-meo-xxt": {
+    "note": "The 5-MeO class of tryptamines can be unpredictable in their interactions",
+    "status": "Caution"
+   },
+   "alcohol": {
+    "status": "Low Risk & Decrease"
+   },
+   "amphetamines": {
+    "note": "The focus and anxiety caused by stimulants is magnified by psychedelics and results in an increased risk of thought loops",
+    "status": "Caution"
+   },
+   "amt": {
+    "status": "Dangerous"
+   },
+   "benzodiazepines": {
+    "status": "Low Risk & Decrease"
+   },
+   "caffeine": {
+    "note": "High doses of caffeine are uncomfortable and this will be magnified by psychedelics",
+    "status": "Low Risk & No Synergy"
+   },
+   "cannabis": {
+    "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
+    "status": "Caution"
+   },
+   "cocaine": {
+    "note": "The focus and anxiety caused by stimulants is magnified by psychedelics and results in an increased risk of thought loops",
+    "status": "Caution"
+   },
+   "dextromethorphan": {
+    "status": "Low Risk & Synergy"
+   },
+   "diphenhydramine": {
+    "note": "At 25-50mg, DPH may assist with side effects of the mescaline such as nausea and anxiety. At higher dosages, the combination of a deliriant (DPH) and mescaline is cautioned against. Mescaline is likely to increase the deliriant and negative effects of DPH, in addition to increasing the risk of severe injury and mental trauma.",
+    "sources": [
+     {
+      "author": "Dinis-Oliveira, R. J., Pereira, C. L., & Dias da Silva, D. (2019)",
+      "title": "Pharmacokinetic and Pharmacodynamic Aspects of Peyote and Mescaline: Clinical and Forensic Repercussions. Current Molecular Pharmacology, 12(3), 184\u2013194.",
+      "url": "https://doi.org/10.2174/1874467211666181010154139"
+     },
+     {
+      "author": "ScienceDirect Topics. (n.d.)",
+      "title": "Mescaline - an overview.",
+      "url": "https://www.sciencedirect.com/topics/neuroscience/mescaline"
+     },
+     {
+      "author": "Schaefer, T. S., Patel, P., & Zito, P. M. (2025)",
+      "title": "Antiemetic Histamine H1 Receptor Blockers. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK533003/"
+     },
+     {
+      "author": "Schifano, F., Chiappini, S., Miuli, A., Mosca, A., Santovito, M. C., Corkery, J. M., Guirguis, A., Pettorruso, M., Di Giannantonio, M., & Martinotti, G. (2021)",
+      "title": "Focus on Over-the-Counter Drugs\u2019 Misuse: A Systematic Review on Antihistamines, Cough Medicines, and Decongestants. Frontiers in Psychiatry, 12, 657397.",
+      "url": "https://doi.org/10.3389/fpsyt.2021.657397"
+     },
+     {
+      "author": "Vamvakopoulou, I. A., Narine, K. A. D., Campbell, I., Dyck, J. R. B., & Nutt, D. J. (2023)",
+      "title": "Mescaline: The forgotten psychedelic. Neuropharmacology, 222, 109294.",
+      "url": "https://doi.org/10.1016/j.neuropharm.2022.109294"
+     },
+     {
+      "author": "Wolfson, A. R., Wong, D., Abrams, E. M., Waserman, S., & Sussman, G. L. (2022)",
+      "title": "Diphenhydramine: Time to Move on? The Journal of Allergy and Clinical Immunology: In Practice, 10(12), 3124\u20133130.",
+      "url": "https://doi.org/10.1016/j.jaip.2022.07.018"
+     }
+    ],
+    "status": "Caution"
+   },
+   "dmt": {
+    "status": "Low Risk & Synergy"
+   },
+   "dox": {
+    "status": "Caution"
+   },
+   "ghb/gbl": {
+    "status": "Low Risk & Decrease"
+   },
+   "ketamine": {
+    "status": "Low Risk & Synergy"
+   },
+   "lithium": {
+    "note": "There are a large number of reports indicating a high seizure and psychosis risk from this combination.",
+    "sources": [
+     {
+      "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+      "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+      "url": "https://doi.org/10.1055/a-1524-2794"
+     },
+     {
+      "author": "Erowid",
+      "title": "Erowid Interactions",
+      "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+     },
+     {
+      "author": "freshboi88",
+      "title": "I Was Only on One Dose",
+      "url": "https://erowid.org/experiences/exp.php?ID=93681"
+     },
+     {
+      "author": "YouWerentYouAnymore",
+      "title": "Brought My Worst Thoughts to Life",
+      "url": "https://erowid.org/experiences/exp.php?ID=110780"
+     },
+     {
+      "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+      "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+      "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "lsd": {
+    "status": "Low Risk & Synergy"
+   },
+   "maois": {
+    "status": "Caution"
+   },
+   "mdma": {
+    "status": "Low Risk & Synergy"
+   },
+   "mushrooms": {
+    "status": "Low Risk & Synergy"
+   },
+   "mxe": {
+    "status": "Low Risk & Synergy"
+   },
+   "nbomes": {
+    "status": "Caution"
+   },
+   "nitrous": {
+    "status": "Low Risk & Synergy"
+   },
+   "opioids": {
+    "status": "Low Risk & No Synergy"
+   },
+   "pcp": {
+    "status": "Low Risk & Synergy"
+   },
+   "pregabalin": {
+    "note": "Caution should be given due to mescaline\u2019s stimulating effects and pregabalin\u2019s seizure concerns at higher dosages. Pregabalin may reduce the vasoconstriction, anxiety, and other side effects of mescaline. Additionally, Pregabalin may increase mescaline\u2019s inhibition and risk of injury.",
+    "sources": [
+     {
+      "author": "Altair. (n.d.-a)",
+      "title": "Pregabalin (Lyrica) - Erowid Exp - \u201cHeart Arrhythmia, Seizure : Not Recreational.\u201d",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=69917"
+     },
+     {
+      "author": "Barker-Haliski, M., & White, H. S. (2015)",
+      "title": "Glutamatergic Mechanisms Associated with Seizures and Epilepsy. Cold Spring Harbor Perspectives in Medicine, 5(8), a022863.",
+      "url": "https://doi.org/10.1101/cshperspect.a022863"
+     },
+     {
+      "author": "Ben-Menachem, E. (2004)",
+      "title": "Pregabalin pharmacology and its relevance to clinical practice. Epilepsia, 45 Suppl 6, 13\u201318.",
+      "url": "https://doi.org/10.1111/j.0013-9580.2004.455003.x"
+     },
+     {
+      "author": "Douke, R. (n.d.)",
+      "title": "Pregabalin & Tramadol - Erowid Exp - \u201cGrand Mal Seizures.\u201d",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=83232"
+     },
+     {
+      "author": "Freidel, N., Kreuder, L., Rabinovitch, B. S., Chen, F. Y., Huang, R. S. T., & Lewis, E. C. (2024)",
+      "title": "Psychedelics, epilepsy, and seizures: a review. Frontiers in Pharmacology, 14.",
+      "url": "https://doi.org/10.3389/fphar.2023.1326815"
+     },
+     {
+      "author": "French, J., Kwan, P., Fakhoury, T., Pitman, V., DuBrava, S., Knapp, L., & Yurkewicz, L. (2014)",
+      "title": "Pregabalin monotherapy in patients with partial-onset seizures: A historical-controlled trial. Neurology, 82(7), 590\u2013597.",
+      "url": "https://doi.org/10.1212/WNL.0000000000000119"
+     },
+     {
+      "author": "Gayatri, N. A., & Livingston, J. H. (2006)",
+      "title": "Aggravation of epilepsy by anti-epileptic drugs. Developmental Medicine and Child Neurology, 48(5), 394\u2013398.",
+      "url": "https://doi.org/10.1017/S0012162206000843"
+     },
+     {
+      "author": "Hitchings, A. W. (2016)",
+      "title": "Drugs that lower the seizure threshold. Adverse Drug Reaction Bulletin, 298(1), 1151\u20131154.",
+      "url": "https://doi.org/10.1097/FAD.0000000000000016"
+     },
+     {
+      "author": "Isoardi, K. Z., Polkinghorne, G., Harris, K., & Isbister, G. K. (2020)",
+      "title": "Pregabalin poisoning and rising recreational use: a retrospective observational series. British Journal of Clinical Pharmacology, 86(12), 2435\u20132440.",
+      "url": "https://doi.org/10.1111/bcp.14348"
+     },
+     {
+      "author": "Kumar, N., Laferriere, A., Yu, J. S. C., Leavitt, A., & Coderre, T. J. (2010)",
+      "title": "Evidence that pregabalin reduces neuropathic pain by inhibiting the spinal release of glutamate. Journal of Neurochemistry, 113(2), 552\u2013561.",
+      "url": "https://doi.org/10.1111/j.1471-4159.2010.06625.x"
+     },
+     {
+      "author": "Sean. (n.d.-b)",
+      "title": "Pregabalin - Erowid Exp - \u201cStay Away.\u201d",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=67302"
+     },
+     {
+      "author": "Simonsson, O., Goldberg, S. B., Chambers, R., Osika, W., Long, D. M., & Hendricks, P. S. (2022)",
+      "title": "Prevalence and associations of classic psychedelic-related seizures in a population-based sample. Drug and Alcohol Dependence, 239, 109586.",
+      "url": "https://doi.org/10.1016/j.drugalcdep.2022.109586"
+     },
+     {
+      "author": "Slocum, G. W., Schult, R. F., Gorodetsky, R. M., Wiegand, T. J., Kamali, M., & Acquisto, N. M. (2018)",
+      "title": "Pregabalin and paradoxical reaction of seizures in a large overdose. Toxicology Communications, 2(1), 19\u201320.",
+      "url": "https://doi.org/10.1080/24734306.2018.1458465"
+     },
+     {
+      "author": "Soto-Angona, \u00d3., Fortea, A., Fortea, L., Mart\u00ednez-Ram\u00edrez, M., Santamarina, E., L\u00f3pez, F. J. G., Knudsen, G. M., & Ona, G. (2024)",
+      "title": "Do classic psychedelics increase the risk of seizures? A scoping review. European Neuropsychopharmacology: The Journal of the European College of Neuropsychopharmacology, 85, 35\u201342.",
+      "url": "https://doi.org/10.1016/j.euroneuro.2024.05.002"
+     }
+    ],
+    "status": "Caution"
+   },
+   "ssris": {
+    "status": "Low Risk & Decrease"
+   },
+   "tramadol": {
+    "note": "This combination can cause seizures due to the lowering of the threshold by tramadol and the potential of mescaline to cause seziures.",
+    "status": "Unsafe"
+   }
+  },
+  "dose_note": " NOTE: Doses are for Mescaline HCl",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "3-5"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "200-300mg",
+    "Heavy": "500-700mg+",
+    "Light": "100-200mg",
+    "Strong": "300-500mg",
+    "Threshold": "100mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "60-180"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Mescaline.shtml"
+  },
+  "name": "mescaline",
+  "pretty_name": "Mescaline",
+  "properties": {
+   "after-effects": "3-5 hours.",
+   "aliases": [
+    "buttons",
+    "mesc",
+    "san",
+    "san-pedro"
+   ],
+   "categories": [
+    "psychedelic",
+    "common"
+   ],
+   "dose": "Oral Threshold: 100mg Light: 100-200mg Common: 200-300mg Strong: 300-500mg Heavy: 500-700mg+ | NOTE: Doses are for Mescaline HCl",
+   "duration": "6-12 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "marquis": "Strong orange",
+   "onset": "60-180+ minutes",
+   "summary": "A psychedelic of the phenethylamine family. The drug is found in many cacti, such as Peyote and San Pedro, and has a long history of use. Mescaline can be found naturally and is often syntheized as a synthetic compound."
+  },
+  "pweffects": {
+   "8B Geometry - Exposure to inner mechanics of consciousness": "https://psychonautwiki.org/wiki/8B_Geometry_-_Exposure_to_inner_mechanics_of_consciousness",
+   "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
+   "After images": "https://psychonautwiki.org/wiki/After_images",
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+   "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+   "Bodily control enhancement": "https://psychonautwiki.org/wiki/Bodily_control_enhancement",
+   "Colour enhancement": "https://psychonautwiki.org/wiki/Colour_enhancement",
+   "Colour shifting": "https://psychonautwiki.org/wiki/Colour_shifting",
+   "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+   "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+   "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+   "Emotion enhancement": "https://psychonautwiki.org/wiki/Emotion_enhancement",
+   "Feelings of interdependent opposites": "https://psychonautwiki.org/wiki/Feelings_of_interdependent_opposites",
+   "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+   "Immersion enhancement": "https://psychonautwiki.org/wiki/Immersion_enhancement",
+   "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Novelty enhancement": "https://psychonautwiki.org/wiki/Novelty_enhancement",
+   "Pattern recognition enhancement": "https://psychonautwiki.org/wiki/Pattern_recognition_enhancement",
+   "Personal bias suppression": "https://psychonautwiki.org/wiki/Personal_bias_suppression",
+   "Personal meaning enhancement": "https://psychonautwiki.org/wiki/Personal_meaning_enhancement",
+   "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Pupil dilation": "https://psychonautwiki.org/wiki/Pupil_dilation",
+   "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+   "Scenery slicing": "https://psychonautwiki.org/wiki/Scenery_slicing",
+   "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+   "Spirituality enhancement": "https://psychonautwiki.org/wiki/Spirituality_enhancement",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Suggestibility enhancement": "https://psychonautwiki.org/wiki/Suggestibility_enhancement",
+   "Symmetrical texture repetition": "https://psychonautwiki.org/wiki/Symmetrical_texture_repetition",
+   "Synaesthesia": "https://psychonautwiki.org/wiki/Synaesthesia",
+   "Tactile enhancement": "https://psychonautwiki.org/wiki/Tactile_enhancement",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Thought loops": "https://psychonautwiki.org/wiki/Thought_loops",
+   "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+   "Tracers": "https://psychonautwiki.org/wiki/Tracers",
+   "Transformations": "https://psychonautwiki.org/wiki/Transformations",
+   "Unity and interconnectedness": "https://psychonautwiki.org/wiki/Unity_and_interconnectedness",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  },
+  "sources": {
+   "_general": [
+    "CLINICAL SYNDROMES AND BIOCHEMICAL ALTERATIONS FOLLOWING MESCALINE, LYSERGIC ACID DIETHYLAMIDE, PSILOCYBIN AND A COMBINATION OF THE THREE PSYCHOTOM.. - http://www.ncbi.nlm.nih.gov/pubmed/14156873"
+   ]
+  }
+ }
+}

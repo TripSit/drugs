@@ -1,0 +1,60 @@
+{
+ "proscaline": {
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "3-5"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "30-40mg",
+    "Light": "15-30mg",
+    "Strong": "40-60mg",
+    "Threshold": "15mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-60"
+  },
+  "name": "proscaline",
+  "pretty_name": "Proscaline",
+  "properties": {
+   "after-effects": "3-5 hours.",
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Oral Threshold: 15mg's Light: 15-30mg's Common: 30-40mg's Strong: 40-60mg's",
+   "duration": "6-12 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "30-60 minutes",
+   "summary": "An uncommon psychedelic stimulant phenethylamine and analogue of mescaline with reportedly similar effects. The drug is roughly 5-7 times more potent than mescaline by weight."
+  }
+ }
+}

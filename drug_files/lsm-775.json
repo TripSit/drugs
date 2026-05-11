@@ -1,0 +1,49 @@
+{
+ "lsm-775": {
+  "aliases": [
+   "lsm"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-16"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "0.75-1mg",
+    "Heavy": "1.5mg+",
+    "Light": "0.5-0.75mg",
+    "Strong": "1-1.5mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-13"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "25-45"
+  },
+  "name": "lsm-775",
+  "pretty_name": "LSM-775",
+  "properties": {
+   "after-effects": "1-16 hours.",
+   "aliases": [
+    "lsm"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Light: 0.5-0.75mg Common: 0.75-1mg Strong: 1-1.5mg Heavy: 1.5+mg.",
+   "duration": "8-13 hours",
+   "onset": "25-45 minutes",
+   "summary": "Psychedelic of the lysergamide class, the drug is less potent by weight than LSD. The drug is reported to produce mild, dreamy, sedating effects in contrast to LSD."
+  }
+ }
+}

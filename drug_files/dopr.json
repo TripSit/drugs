@@ -1,0 +1,67 @@
+{
+ "dopr": {
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "2.5-3.5mg",
+    "Heavy": "3.5-5mg.",
+    "Light": "2.5mg",
+    "Threshold": "1.25mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "18-30"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "90-240"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_DOPR.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal071.shtml"
+  },
+  "name": "dopr",
+  "pretty_name": "DOPR",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "avoid": "Redosing/double dosing the drug. It is recommended to avoid all other amphetamines.",
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Threshold: 1.25mg Light: 2.5mg Common: 2.5-3.5mg Heavy: 3.5-5mg. ",
+   "duration": "18-30 hours",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "90-240 minutes",
+   "summary": "A rare psychedelic amphetamine of the same class as DOM. This is a powerful potent psychedelic with all the effects you would expect from an amphetamine. Described by Shulgin as a 'heavy duty psychedelic'. Analogue of 2C-P."
+  }
+ }
+}

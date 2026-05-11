@@ -1,0 +1,56 @@
+{
+ "butyrfentanyl": {
+  "aliases": [
+   "bf",
+   "b-f"
+  ],
+  "categories": [
+   "opioid",
+   "research-chemical",
+   "habit-forming",
+   "tentative",
+   "depressant"
+  ],
+  "dose_note": " Note: The drug is reported to be potent, caution is recommended.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "800-1500ug",
+    "Light": "400-800ug",
+    "Strong": "1.5-3mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "3-4"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "15-30"
+  },
+  "name": "butyrfentanyl",
+  "pretty_name": "Butyrfentanyl",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "aliases": [
+    "bf",
+    "b-f"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "opioid",
+    "research-chemical",
+    "habit-forming",
+    "tentative",
+    "depressant"
+   ],
+   "dose": "Oral Light: 400-800ug Common: 800-1500ug Strong: 1.5-3mg || Note: The drug is reported to be potent, caution is recommended.",
+   "duration": "Oral: 3-4 hours. Insufflated: 2-3 hours.",
+   "onset": "Oral: 15-30 minutes. Insufflated: 5-10 minutes.",
+   "summary": "Potent short-acting opioid and fentanyl analogue. Often dispensed in a nasal spray. This is an highly potent drug - exercise extreme caution. May cause respiratory depression and death in overdose."
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "prazepam": {
+  "aliases": [
+   "centrac",
+   "centrax",
+   "demetrin",
+   "lysanxia",
+   "pozapam",
+   "prasepine",
+   "prazene",
+   "reapam",
+   "trepidan"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "8-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-20mg",
+    "Light": "5-10mg",
+    "Strong": "20-40mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-20"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Anticonvulsant",
+   "Sedative",
+   "Skeletal Muscle Relaxant"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-120"
+  },
+  "name": "prazepam",
+  "pretty_name": "Prazepam",
+  "properties": {
+   "after-effects": "8-24 hours.",
+   "aliases": [
+    "centrac",
+    "centrax",
+    "demetrin",
+    "lysanxia",
+    "pozapam",
+    "prasepine",
+    "prazene",
+    "reapam",
+    "trepidan"
+   ],
+   "avoid": "All other CNS depressants, and Cimetidine",
+   "categories": [
+    "benzodiazepine",
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Light: 5-10mg Common: 10-20mg Strong: 20-40mg.",
+   "dose_to_diazepam": "Prazepam - 15mg ~=10mg Diazepam.",
+   "duration": "8-20 hours.",
+   "effects": "Anxiolytic, Anticonvulsant, Sedative, Skeletal Muscle Relaxant",
+   "onset": "45-120 minutes.",
+   "summary": "Benzodiazepine dervative. It is suggested to have effects typical to common benzodiazepines such as anxiolytic, anticonvulsant, sedation, and skeletal muscle relaxant. It is a prodrug for desmethyldiazepam which is suggested to be the causer of the majority, if not all of the effects to prazepam."
+  }
+ }
+}

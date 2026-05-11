@@ -1,0 +1,71 @@
+{
+ "ab-fubinaca": {
+  "aliases": [
+   "ab-fub"
+  ],
+  "categories": [
+   "research-chemical",
+   "habit-forming",
+   "tentative",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Oral": "2-10",
+   "Vapourized": "1-2"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "0.5-1.5mg",
+    "Heavy": "3mg+",
+    "Light": "0.25-0.5mg",
+    "Strong": "1.5-3mg"
+   },
+   "Vapourized": {
+    "Common": "0.5-1.5mg",
+    "Heavy": "3mg+",
+    "Light": "0.25-0.5mg",
+    "Strong": "1.5-3mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "5-15",
+   "Vapourized": "1-2"
+  },
+  "formatted_effects": [
+   "Euphoric",
+   "stimulating high",
+   "increases creativity and appetite",
+   "short-term memory deficits",
+   "similar to cannabis"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "30-240",
+   "Vapourized": "1-5"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_ABFUBINACA.shtml"
+  },
+  "name": "ab-fubinaca",
+  "pretty_name": "AB-FUBINACA",
+  "properties": {
+   "after-effects": "Vapourized: 1-2 hours | Oral: 2-10 hours",
+   "aliases": [
+    "ab-fub"
+   ],
+   "categories": [
+    "research-chemical",
+    "habit-forming",
+    "tentative",
+    "common"
+   ],
+   "dose": "Vapourized Light: 0.25-0.5mg  Common: 0.5-1.5mg  Strong: 1.5-3mg  Heavy: 3+mg | Oral Light: 0.25-0.5mg  Common: 0.5-1.5mg  Strong: 1.5-3mg  Heavy: 3+mg",
+   "duration": "Vapourized: 1-2 hours | Oral: 5-15 hours",
+   "effects": "Euphoric, stimulating high, increases creativity and appetite, short-term memory deficits, similar to cannabis",
+   "onset": "Vapourized: 1-5 minutes | Oral: 30-240 minutes",
+   "summary": "Arguably the most common synthetic cannabinoid, AB-FUBINACA was originally developed by Pfizer as an analgesic, but has since abandoned for medical use. It has since found a following in the RC community, however it's extremely high potency and inclusion in synthetic blends makes it dangerous, and it has killed in overdose. Exercise caution."
+  }
+ }
+}

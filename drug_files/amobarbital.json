@@ -1,0 +1,53 @@
+{
+ "amobarbital": {
+  "categories": [
+   "depressant",
+   "habit-forming",
+   "barbiturate"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50-75mg",
+    "Light": "50mg",
+    "Strong": "75-150mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-9"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-30"
+  },
+  "name": "amobarbital",
+  "pretty_name": "Amobarbital",
+  "properties": {
+   "after-effects": "2-12 hours.",
+   "avoid": "All other CNS depressants.",
+   "bioavailability": "Oral: Roughly 95%.",
+   "categories": [
+    "depressant",
+    "habit-forming",
+    "barbiturate"
+   ],
+   "dose": "Low: 50mg Common: 50-75mg Strong: 75-150mg+",
+   "duration": "5-9 hours",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "10-30 minutes.",
+   "summary": "A sedative and hypnotic barbiturate first discovered in 1923. Formerly widely used recreationally and medically, barbiturates have declined in popularity with the appearance of benzodiazepines and other drugs with less serious consequences in overdose."
+  }
+ }
+}

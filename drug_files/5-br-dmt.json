@@ -1,0 +1,37 @@
+{
+ "5-br-dmt": {
+  "categories": [
+   "psychedelic",
+   "tentative",
+   "research-chemical"
+  ],
+  "formatted_dose": {
+   "Vapourized": {
+    "Common": "25-35mg.",
+    "Light": "10-25mg.",
+    "Strong": "35-65mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "minutes",
+   "value": "15-90"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "1-2"
+  },
+  "name": "5-br-dmt",
+  "pretty_name": "5-Bromo-DMT",
+  "properties": {
+   "categories": [
+    "psychedelic",
+    "tentative",
+    "research-chemical"
+   ],
+   "dose": "Vapourized Light: 10-25mg. Common: 25-35mg. Strong: 35-65mg.",
+   "duration": "15-90 minutes.",
+   "onset": "1-2 minutes.",
+   "summary": "Psychedelic drug of the tryptamine class, and is also found in two marine invertebrates. Animal studies have shown that this could be useful for sedative and/or antidepressant use."
+  }
+ }
+}

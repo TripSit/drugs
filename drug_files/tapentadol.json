@@ -1,0 +1,60 @@
+{
+ "tapentadol": {
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "depressant"
+  ],
+  "dose_note": " NOTE: Insufflated administration is ineffective.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50-75mg",
+    "Light": "25-50mg",
+    "Strong": "75-150mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral_ER": "5-8",
+   "Oral_IR": "3-5"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil constriction",
+   "Analgesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral_ER": "60-120",
+   "Oral_IR": "20-40"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Tapentadol.shtml"
+  },
+  "name": "tapentadol",
+  "pretty_name": "Tapentadol",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "avoid": "All other CNS depressants",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Oral Light: 25-50mg Common: 50-75mg Strong: 75-150mg+ | NOTE: Insufflated administration is ineffective.",
+   "duration": "Oral_IR: 3-5 hours | Oral_ER: 5-8 hours.",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
+   "onset": "Oral_IR: 20-40 minutes. | Oral_ER: 60-120 minutes.",
+   "summary": "An opioid analgesic drug with potency roughly between tramadol and morphine. The drug has a similar pharmacological action to tramadol. The drug is an adrenergic reuptake inhibitor. The drug is reported to have a high addiction potential. There is a great potential for respiratory depression in overdose. The drug is highly recommended to not be combined with depressants and or stimulants."
+  }
+ }
+}

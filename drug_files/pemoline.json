@@ -1,0 +1,40 @@
+{
+ "pemoline": {
+  "categories": [
+   "stimulant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-40mg",
+    "Light": "10-20mg",
+    "Strong": "40-80mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-30"
+  },
+  "name": "pemoline",
+  "pretty_name": "Pemoline",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "categories": [
+    "stimulant",
+    "habit-forming"
+   ],
+   "dose": "Low: 10-20mg Common: 20-40mg Strong: 40-80mg.",
+   "duration": "4-6 hours.",
+   "onset": "15-30 minutes.",
+   "summary": "A stimulant of the 4-oxazolidinone class. The drug was used as a medication for ADHD and narcolepsy, but it was pulled from most markets due to liver failures among children."
+  }
+ }
+}

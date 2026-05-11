@@ -1,0 +1,39 @@
+{
+ "pseudoephedrine": {
+  "categories": [
+   "stimulant",
+   "common"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "60-90mg.",
+    "Light": "30-60mg.",
+    "Strong": "90-120mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-12"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-90"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Pseudoephedrine.shtml"
+  },
+  "name": "pseudoephedrine",
+  "pretty_name": "Pseudoephrine",
+  "properties": {
+   "avoid": "If one is prone to or has a pre-exisiting condition relating to the heart.",
+   "categories": [
+    "stimulant",
+    "common"
+   ],
+   "dose": "Oral Light: 30-60mg. Common: 60-90mg. Strong: 90-120mg.",
+   "duration": "2-12 hours.",
+   "onset": "10-90 minutes.",
+   "summary": "The drug is widely sold as a decongestant and is one isomer of ephedrine. The drug reportedly lacks in recreational effects. It is used in the synthesis of methcathinone and methamphetamine."
+  }
+ }
+}

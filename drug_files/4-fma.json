@@ -1,0 +1,72 @@
+{
+ "4-fma": {
+  "aliases": [
+   "4-fluromethamphetamine",
+   "4fma"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "empathogen"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "75-125mg",
+    "Heavy": "125-200mg+",
+    "Light": "50-75mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-5"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "decreased need for sleep",
+   "increased sociability",
+   "mood lift",
+   "increased libido",
+   "excessive talking",
+   "decreased appetite",
+   "weight loss",
+   "sweating",
+   "disturbed sleep patterns",
+   "bruxism",
+   "visual and auditory hallucinations",
+   "itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-10",
+   "Oral": "20-40"
+  },
+  "name": "4-fma",
+  "pretty_name": "4-FMA",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "4-fluromethamphetamine",
+    "4fma"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "empathogen"
+   ],
+   "dose": "Oral Light: 50-75mg's Common: 75-125mg's Heavy: 125-200mg+",
+   "duration": "3-5 hours.",
+   "effects": "Euphoria, increased energy/alertness, decreased need for sleep, increased sociability, mood lift, increased libido, excessive talking, decreased appetite, weight loss, sweating, disturbed sleep patterns, bruxism, visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
+   "onset": "Oral: 20-40 minutes | Insufflated: 5-10 minutes",
+   "summary": "A stimulant with some empathogenic properties, and analogue of Methamphetamine with similar effects. Reported to be less effective than 2-FMA and related compounds. Little is known about the pharmacological effects of this compound. Not to be confused with 4-FA, which has a different effect profile, despite similar potency."
+  }
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "bromantane": {
+  "categories": [
+   "depressant",
+   "stimulant",
+   "research-chemical",
+   "nootropic"
+  ],
+  "dose_note": " NOTE: Anticholinergic effects at high doses (around 500mg)",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-10"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-200mg",
+    "Light": "50-100mg",
+    "Strong": "200-400mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "10-30"
+  },
+  "name": "bromantane",
+  "pretty_name": "Bromantane",
+  "properties": {
+   "after-effects": "1-10 hours.",
+   "bioavailability": "Oral: 42%.",
+   "categories": [
+    "depressant",
+    "stimulant",
+    "research-chemical",
+    "nootropic"
+   ],
+   "dose": "Oral Light: 50-100mg Common: 100-200mg Strong: 200-400mg+ | NOTE: Anticholinergic effects at high doses (around 500mg)",
+   "duration": "4-8 hours.",
+   "onset": "Oral: 10-30 minutes.",
+   "summary": "An unusual stimulant and anxiolytic drug with dopamine and serotonin reuptake inhibition properties. Infamously used as a doping agent in the 1996 Olympics. There are some concerns it may exacerbate the underlying causes of Alzheimer's disease."
+  },
+  "pweffects": {
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Dehydration": "https://psychonautwiki.org/wiki/Dehydration",
+   "Focus enhancement": "https://psychonautwiki.org/wiki/Focus_enhancement",
+   "Increased blood pressure": "https://psychonautwiki.org/wiki/Increased_blood_pressure",
+   "Memory enhancement": "https://psychonautwiki.org/wiki/Memory_enhancement",
+   "Motivation enhancement": "https://psychonautwiki.org/wiki/Motivation_enhancement",
+   "Muscle relaxation": "https://psychonautwiki.org/wiki/Muscle_relaxation",
+   "Stamina enhancement": "https://psychonautwiki.org/wiki/Stamina_enhancement",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Vasoconstriction": "https://psychonautwiki.org/wiki/Vasoconstriction",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  }
+ }
+}

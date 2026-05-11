@@ -1,0 +1,57 @@
+{
+ "3-fmc": {
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "dose_note": "Rapid onset. 3-fmc is very harsh on the nasal membranes",
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50-100mg",
+    "Light": "25-50mg",
+    "Strong": "100-150mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "decreased need for sleep",
+   "increased sociability",
+   "mood lift",
+   "increased libido",
+   "excessive talking",
+   "decreased appetite",
+   "weight loss",
+   "sweating",
+   "disturbed sleep patterns",
+   "bruxism",
+   "visual and auditory hallucinations",
+   "itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "name": "3-fmc",
+  "pretty_name": "3-FMC",
+  "properties": {
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Light: 25-50mg Common: 50-100mg Strong: 100-150mg | NOTE: 3-fmc is very harsh on the nasal membranes",
+   "duration": "2-4 hours.",
+   "effects": "Euphoria, increased energy/alertness, decreased need for sleep, increased sociability, mood lift, increased libido, excessive talking, decreased appetite, weight loss, sweating, disturbed sleep patterns, bruxism, visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
+   "summary": "A stimulant drug related to mephedrone. A member of the cathinone class, it is also an amphetamine. Effects similar to other drugs of its class, may possess high addiction potential. May be a monoamine releaser, reuptake inhibitor or both."
+  },
+  "sources": {
+   "_general": [
+    "3-FMC is a monoamine releaser - International Review of Neurobiology - The Neuropsychiatric Complications of Stimulant Abuse Vol. 20"
+   ]
+  }
+ }
+}

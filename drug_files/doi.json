@@ -1,0 +1,66 @@
+{
+ "doi": {
+  "categories": [
+   "psychedelic",
+   "stimulant",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1mg-3mg.",
+    "Heavy": "3mg+",
+    "Light": "750ug-1mg.",
+    "Threshold": "500-750ug."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "12-18"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "60-90"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_DOI.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal067.shtml"
+  },
+  "name": "doi",
+  "pretty_name": "DOI",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "categories": [
+    "psychedelic",
+    "stimulant",
+    "research-chemical"
+   ],
+   "dose": "Oral Threshold: 500-750ug. Light: 750ug-1mg. Common: 1mg-3mg. Heavy: 3mg+",
+   "duration": "12-18 hours (widely dependant on dose)",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "60-90 minutes",
+   "summary": "A potent, long-acting psychedelic stimulant. Historically, it has rarely been consumed deliberately, but occasionally sold as LSD. However, it has recently found its own little nest in the research chemical community."
+  }
+ }
+}

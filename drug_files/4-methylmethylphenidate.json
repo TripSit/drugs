@@ -1,0 +1,77 @@
+{
+ "4-methylmethylphenidate": {
+  "aliases": [
+   "4-mmph",
+   "4-me-tmp",
+   "4-metmp"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "20-45mg",
+    "Heavy": "70mg+",
+    "Light": "10-20mg",
+    "Strong": "45-70mg"
+   },
+   "Oral": {
+    "Common": "40-60mg",
+    "Heavy": "90-125mg+",
+    "Light": "25-40mg",
+    "Strong": "60-90mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-5",
+   "Oral": "4-6"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "decreased need for sleep",
+   "increased sociability",
+   "mood lift",
+   "increased libido",
+   "excessive talking",
+   "decreased appetite",
+   "weight loss",
+   "sweating",
+   "disturbed sleep patterns",
+   "bruxism",
+   "visual and auditory hallucinations",
+   "itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-20",
+   "Oral": "15-35"
+  },
+  "name": "4-methylmethylphenidate",
+  "pretty_name": "4-Methylmethylphenidate",
+  "properties": {
+   "aliases": [
+    "4-mmph",
+    "4-me-tmp",
+    "4-metmp"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Light: 25-40mg Common: 40-60mg Strong: 60-90mg Heavy: 90-125mg+ | Insufflated Light: 10-20mg Common: 20-45mg Strong: 45-70mg Heavy: 70mg+",
+   "duration": "Oral: 4-6 hours | Insufflated: 2-5 hours",
+   "effects": "Euphoria, increased energy/alertness, decreased need for sleep, increased sociability, mood lift, increased libido, excessive talking, decreased appetite, weight loss, sweating, disturbed sleep patterns, bruxism, visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
+   "onset": "Oral: 15-35 minutes. | Insufflated: 5-20 minutes.",
+   "summary": "A stimulant drug related to methylphenidate (MPH). The drug has lower dopamine reuptake inhibition properties and is potentially less potent than MPH. There are reports claiming it to be similar in effect to MPH."
+  }
+ }
+}

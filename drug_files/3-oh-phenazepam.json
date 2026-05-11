@@ -1,0 +1,67 @@
+{
+ "3-oh-phenazepam": {
+  "aliases": [
+   "3-ho-phenazepam",
+   "3hophenazepam",
+   "3ohphenazepam",
+   "3-ho-p",
+   "3hop",
+   "3-oh-p",
+   "3ohp",
+   "3-hydroxyphenazepam"
+  ],
+  "categories": [
+   "tentative",
+   "research-chemical",
+   "benzodiazepine",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1-2mg",
+    "Heavy": "2-4mg",
+    "Light": "0.5-1mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "10-24"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-90"
+  },
+  "name": "3-oh-Phenazepam",
+  "pretty_name": "3-OH-Phenazepam",
+  "properties": {
+   "after-effects": "2-24 hours.",
+   "aliases": [
+    "3-ho-phenazepam",
+    "3hophenazepam",
+    "3ohphenazepam",
+    "3-ho-p",
+    "3hop",
+    "3-oh-p",
+    "3ohp",
+    "3-hydroxyphenazepam"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "tentative",
+    "research-chemical",
+    "benzodiazepine",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Light: 0.5-1mg Common: 1-2mg Heavy: 2-4mg",
+   "duration": "10-24 hours.",
+   "onset": "30-90 minutes.",
+   "summary": "The 3-OH analogue of Phenazepam, which cuts the half life down quite a bit. Psychoactive effects are mostly led by its metabolites, rather than the drug itself."
+  }
+ }
+}

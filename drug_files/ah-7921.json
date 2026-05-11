@@ -1,0 +1,66 @@
+{
+ "ah-7921": {
+  "aliases": [
+   "ah7921"
+  ],
+  "categories": [
+   "opioid",
+   "research-chemical",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-25mg",
+    "Light": "5-10mg",
+    "Strong": "25mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "6-8",
+   "Vapourized": "3-4"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil constriction",
+   "Analgesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "15-45",
+   "Vapourized": "2-10"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_AH7921.shtml"
+  },
+  "name": "ah-7921",
+  "pretty_name": "AH-7921",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "ah7921"
+   ],
+   "categories": [
+    "opioid",
+    "research-chemical",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Oral Light: 10-20mg Common: 20-40mg Strong: 40mg+ Vapourized Light: 5-10mg Common: 10-25mg Strong: 25mg+",
+   "duration": "Oral: 6-8 hours | Vapourized 3-4 hours.",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
+   "onset": "Oral: 15-45 minutes. | Vapourized: 2-10 minutes.",
+   "summary": "Opioid analgesic that is selective for the \u03bc-opioid receptor. It has around 80% the potency of Morphine when taken orally."
+  }
+ }
+}

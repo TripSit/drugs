@@ -1,0 +1,65 @@
+{
+ "dipipanone": {
+  "aliases": [
+   "diconal"
+  ],
+  "categories": [
+   "opioid",
+   "depressant",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-10mg",
+    "Light": "3-5mg",
+    "Strong": "10-20mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil constriction",
+   "Analgesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-15",
+   "Intravenous": "0-1",
+   "Oral": "15-30"
+  },
+  "name": "dipipanone",
+  "pretty_name": "Dipipanone",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "diconal"
+   ],
+   "avoid": "All other CNS depressants",
+   "categories": [
+    "opioid",
+    "depressant",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Light: 3-5mg Common: 5-10mg Strong: 10-20mg+",
+   "duration": "3-6 hours.",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
+   "onset": "Oral: 15-30 minutes | Insufflated: 5-15 minutes. | Intravenous: 0-1 minutes",
+   "summary": "A powerful opioid of equivalent strength to morphine, rarely seen outside of medical environments. Often used to treat severe pain where morphine is contraindicated. Usually found in combination with the antihistamine Cyclizine, which potentiates it.",
+   "warning": "If you do come across these pills, and IV them, you will reach a point where the Cyclizine in the Diconal preparation will reach a very bad result, and missed shots can end up with amputations."
+  }
+ }
+}

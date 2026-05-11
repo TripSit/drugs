@@ -1,0 +1,67 @@
+{
+ "brotizolam": {
+  "aliases": [
+   "lendormin"
+  ],
+  "categories": [
+   "depressant",
+   "benzodiazepine",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "200-400ug",
+    "Light": "100ug-200ug",
+    "Strong": "400ug-600ug+",
+    "Threshold": "80ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "4-8"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "10-30"
+  },
+  "name": "brotizolam",
+  "pretty_name": "Brotizolam",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "aliases": [
+    "lendormin"
+   ],
+   "avoid": "All other CNS depressants.",
+   "bioavailability": "Oral 70% +/- 24%.",
+   "categories": [
+    "depressant",
+    "benzodiazepine",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Oral Threshold: 80ug Light: 100ug-200ug Common: 200-400ug Strong: 400ug-600ug+",
+   "dose_to_diazepam": "Brotizolam - 0.25mg ~=10mg Diazepam.",
+   "duration": "Oral: 4-8 hours. Insufflated: 2-6 hours.",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia.",
+   "onset": "Oral: 10-30 minutes. Insufflated: 2-10 minutes.",
+   "summary": "Benzodiazepine analogue which is sedating, hypnotic and anxiolytic. It is available as prescription medicine in much of Europe, and is an extremely potent drug active at only 80ug. May cause amnesia and lowered inhibitions in overdose. Danger of respiratory depression when combined with other depressants. Short half-life."
+  },
+  "sources": {
+   "_general": [
+    "Pharmacokinetics of brotizolam in healthy subjects following intravenous and oral administration. http://www.ncbi.nlm.nih.gov/pubmed/6661374"
+   ]
+  }
+ }
+}

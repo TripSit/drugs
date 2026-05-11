@@ -1,0 +1,61 @@
+{
+ "tma-6": {
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "30-40mg",
+    "Heavy": "40-50mg+",
+    "Light": "20-30mg",
+    "Threshold": "15-20mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "10-18"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_TMA6.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal162.shtml"
+  },
+  "name": "tma-6",
+  "pretty_name": "TMA-6",
+  "properties": {
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Threshold: 15-20mg Light: 20-30mg Common: 30-40mg Heavy: 40-50mg+",
+   "duration": "10-18 hours",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": ">60 minutes.",
+   "summary": "A rarely psychedelic amphetamine and mescaline analogue. First synthesised by Alexander Shulgin, who described it as  \"one of the most rewarding and pleasurable of the methoxylated amphetamines.\""
+  }
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "estazolam": {
+  "aliases": [
+   "prosom",
+   "eurodin",
+   "elprazolam"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1-2mg",
+    "Light": "0.5-1mg",
+    "Strong": "2-4mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "7-12"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-60"
+  },
+  "name": "estazolam",
+  "pretty_name": "Estazolam",
+  "properties": {
+   "after-effects": "2-24 hours.",
+   "aliases": [
+    "prosom",
+    "eurodin",
+    "elprazolam"
+   ],
+   "avoid": "All other CNS depressants.",
+   "bioavailability": "Oral 93%",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Light: 0.5-1mg Common: 1-2mg Strong: 2-4mg+",
+   "dose_to_diazepam": "Estazolam - 1-2mg's ~=10mg Diazepam.",
+   "duration": "7-12 hours.",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "30-60 minutes.",
+   "summary": "A rarely prescribed medium-duration prescription benzodiazepine. Mainly used as a hypnotic, it can cause amnesia and lowered inhibitions in higher dosages."
+  }
+ }
+}

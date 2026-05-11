@@ -1,0 +1,26 @@
+{
+ "pre-084": {
+  "categories": [
+   "tentative"
+  ],
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-10"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-30"
+  },
+  "name": "pre-084",
+  "pretty_name": "PRE-084",
+  "properties": {
+   "categories": [
+    "tentative"
+   ],
+   "duration": "6-10 hours.",
+   "note": "There is limited information on the substance, caution is strongly advised.",
+   "onset": "15-30 minutes.",
+   "summary": "A sigma-1 receptor agonist derived structurally from PCP. It is reported to have cognitive enhancing effects as well as antidepressant effects. Studies are being conduced on its potential use in treating many nervous system diseases such as ALS and parkinsons."
+  }
+ }
+}

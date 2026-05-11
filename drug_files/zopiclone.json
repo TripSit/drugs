@@ -1,0 +1,81 @@
+{
+ "zopiclone": {
+  "aliases": [
+   "imovane",
+   "zimovane"
+  ],
+  "categories": [
+   "depressant",
+   "habit-forming",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-7.5mg",
+    "Heavy": "15-22.5mg",
+    "Light": "3.5-5mg",
+    "Strong": "7.5-15mg",
+    "Threshold": "3.5mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3.5-9"
+  },
+  "formatted_effects": [
+   "Lethargy",
+   "tiredness",
+   "a dreamlike state while awake",
+   "can induce heavy sleep"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15"
+  },
+  "name": "zopiclone",
+  "pretty_name": "Zopiclone",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "imovane",
+    "zimovane"
+   ],
+   "categories": [
+    "depressant",
+    "habit-forming",
+    "common"
+   ],
+   "chemistry": "IUPAC: (RS)-6-(5-chloropyridin-2-yl)-7-oxo-6,7-dihydro-5H-pyrrolo[3,4-b]pyrazin-5-yl 4-methylpiperazine-1-carboxylate | Formula: C17H17ClN6O3 | Molecular Mass: 388.808 g/mol",
+   "contraindications": "Liver disease, myasthenia gravis, severe chronic bronchitis, emphysema, sleep apnea, thyroid gland abnormalities, trimipramine, caffeine, alcohol, erythromycin, itraconazole, rifampicin, phenytoin, carbamazepine, ketoconazole, sulfaphenazole, and nefazodone",
+   "dose": "Oral Threshold: 3.5mg Light: 3.5-5mg Common: 5-7.5mg Strong: 7.5-15mg Heavy: 15-22.5mg",
+   "duration": "3.5-9 hours",
+   "effects": "Lethargy, tiredness, a dreamlike state while awake, can induce heavy sleep.",
+   "legal": "Australia: Prescription Only (S4) | United Kingdom: Controlled Drug (POM) | United States: Schedule IV",
+   "onset": "15 - 30 minutes (on empty stomach)",
+   "pharmacokinetics": "Protein Binding: 45 - 80% | Metabolism: various cytochrome P450 liver enzymes | Excretion: respiration (~50%) and urine (7 - 10 %)",
+   "pharmacology": "GABA-A receptor positive allosteric modulator; Benzodiazepine receptor agonist",
+   "summary": "A nonbenzodiazepine sedative sleep aid (Z-drug) which can have hallucinogenic effects if taken while awake. The drug is reported to cause users to have a metallic taste in the mouth for ~12h. The drug has been reported in cases to influence certain users to black out, redose excessively, and undertake dangerous activities such as driving."
+  },
+  "pweffects": {
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Muscle relaxation": "https://psychonautwiki.org/wiki/Muscle_relaxation",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration"
+  },
+  "sources": {
+   "_general": [
+    "Dependence potential of zopiclone studied in monkeys - http://www.ncbi.nlm.nih.gov/pubmed/6892368"
+   ]
+  }
+ }
+}

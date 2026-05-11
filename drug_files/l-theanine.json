@@ -1,0 +1,44 @@
+{
+ "l-theanine": {
+  "aliases": [
+   "theanine"
+  ],
+  "categories": [
+   "common",
+   "supplement"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-2"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-200mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-30"
+  },
+  "name": "l-theanine",
+  "pretty_name": "L-Theanine",
+  "properties": {
+   "after-effects": "1-2 hours.",
+   "aliases": [
+    "theanine"
+   ],
+   "categories": [
+    "common",
+    "supplement"
+   ],
+   "dose": "Common: 100-200mg.",
+   "duration": "3-6 hours.",
+   "onset": "10-30 minutes.",
+   "summary": "An amino acid that is structural similar to Glutamine. Subjective reports indicate it as a relaxing agent without much sedation. The drug is most commonly found tea, and often mixed with caffeine."
+  }
+ }
+}

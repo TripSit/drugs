@@ -1,0 +1,60 @@
+{
+ "medazepam": {
+  "aliases": [
+   "nobrium",
+   "azepamid",
+   "rudotel",
+   "raporan",
+   "mezapam",
+   "talis"
+  ],
+  "categories": [
+   "depressant",
+   "benzodiazepine",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-172"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-20mg",
+    "Light": "5-10mg",
+    "Strong": "20-40mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-16"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-120"
+  },
+  "name": "medazepam",
+  "pretty_name": "Medazepam",
+  "properties": {
+   "after-effects": "1-172 hours.",
+   "aliases": [
+    "nobrium",
+    "azepamid",
+    "rudotel",
+    "raporan",
+    "mezapam",
+    "talis"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "depressant",
+    "benzodiazepine",
+    "habit-forming"
+   ],
+   "dose": "Light: 5-10mg Common: 10-20mg Strong: 20-40mg.",
+   "dose_to_diazepam": "Medazepam - 10mg ~=10mg Diazepam.",
+   "duration": "8-16 hours.",
+   "onset": "30-120 minutes.",
+   "summary": "The drug is a benzodiazepine derivative and is described to have similar effects as diazepam. The drug is reportedly long-acting with a half-life of 36-200 hours. The drug is rarely prescribed and is a prodrug to diazepam. The drug has been described by anectodal reports as a sort of '/Desoxy-Diazepam/'."
+  }
+ }
+}

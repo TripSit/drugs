@@ -1,0 +1,102 @@
+{
+ "2-ai": {
+  "aliases": [
+   "2ai",
+   "2-aminoindan"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-20mg",
+    "Light": "5-10mg",
+    "Strong": "20-40mg+",
+    "Threshold": "3-5mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "1-2"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "decreased need for sleep",
+   "increased sociability",
+   "mood lift",
+   "increased libido",
+   "excessive talking",
+   "decreased appetite",
+   "weight loss",
+   "sweating",
+   "disturbed sleep patterns",
+   "bruxism",
+   "visual and auditory hallucinations",
+   "itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-30"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_2Aminoindan.shtml"
+  },
+  "name": "2-ai",
+  "pretty_name": "2-AI",
+  "properties": {
+   "after-effects": "2-4 hours",
+   "aliases": [
+    "2ai",
+    "2-aminoindan"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Threshold: 3-5mg Light: 5-10mg Common: 10-20mg Strong: 20-40mg+",
+   "duration": "1-2 hours.",
+   "experiences": "https://www.erowid.org/experiences/subs/exp_2Aminoindan.shtml",
+   "half-life": "1-2 hours.",
+   "onset": "10-30 minutes",
+   "summary": "Short-acting stimulant that is sometimes compared to the likes of Methamphetamine. It is a rigid analogue of Amphetamine, and also partially substitutes for the prior in rat discrimination studies.",
+   "test-kits": "Marquis: Orange > Brown. | Mecke: Yellow. | Mandelin: Blue. | Liebermann: Yellow Brown. | Ehrlich: No colour change."
+  },
+  "pweffects": {
+   "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+   "Appetite suppression": "https://psychonautwiki.org/wiki/Appetite_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Cognitive fatigue": "https://psychonautwiki.org/wiki/Cognitive_fatigue",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Dehydration": "https://psychonautwiki.org/wiki/Dehydration",
+   "Depression": "https://psychonautwiki.org/wiki/Depression",
+   "Focus enhancement": "https://psychonautwiki.org/wiki/Focus_enhancement",
+   "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
+   "Increased perspiration": "https://psychonautwiki.org/wiki/Increased_perspiration",
+   "Irritability": "https://psychonautwiki.org/wiki/Irritability",
+   "Memory enhancement": "https://psychonautwiki.org/wiki/Memory_enhancement",
+   "Motivation enhancement": "https://psychonautwiki.org/wiki/Motivation_enhancement",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Pain relief": "https://psychonautwiki.org/wiki/Pain_relief",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Teeth grinding": "https://psychonautwiki.org/wiki/Teeth_grinding",
+   "Temporary erectile dysfunction": "https://psychonautwiki.org/wiki/Temporary_erectile_dysfunction",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  }
+ }
+}

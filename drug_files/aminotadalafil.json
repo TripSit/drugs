@@ -1,0 +1,22 @@
+{
+ "aminotadalafil": {
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-20mg",
+    "Light": "5-10mg",
+    "Strong": "20-30mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "name": "aminotadalafil",
+  "pretty_name": "Aminotadalafil",
+  "properties": {
+   "dose": "Light: 5-10mg Common: 10-20mg Strong: 20-30mg",
+   "duration": "4-8 hours.",
+   "summary": "An analogue of tadafinil, better known as Cialis (Viagra). Infamous for being missold in the 'Alpha Male' sexual enhancement supplement."
+  }
+ }
+}

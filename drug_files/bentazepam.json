@@ -1,0 +1,57 @@
+{
+ "bentazepam": {
+  "aliases": [
+   "thiadipone",
+   "tiadipona"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "depressant",
+   "habit-forming"
+  ],
+  "dose_note": " NOTE: Liver damage has been reported by users. If you are using this substance for a prolonged period of time it is recommended to get testing done on your liver.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "30-50mg",
+    "Light": "15-30mg",
+    "Strong": "50-75mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "name": "bentazepam",
+  "pretty_name": "Bentazepam",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "thiadipone",
+    "tiadipona"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Light: 15-30mg Common: 30-50mg Strong: 50-75mg+ | NOTE: Liver damage has been reported by users. If you are using this substance for a prolonged period of time it is recommended to get testing done on your liver.",
+   "duration": "3-6 hours.",
+   "onset": "15-45 minutes.",
+   "summary": "Thienodiazepine that is an effective anxiolyric. Liver damage among other concerns have been reported."
+  },
+  "sources": {
+   "_general": [
+    "Bentazepam versus Clorazepate in the treatment of anxiety disorders. http://www.sciencedirect.com/science/article/pii/S0011393X05804357"
+   ]
+  }
+ }
+}

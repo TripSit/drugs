@@ -1,0 +1,59 @@
+{
+ "parafluorobutyrfentanyl": {
+  "aliases": [
+   "pfbf",
+   "4-fluorobutyrfentanyl",
+   "4-fbf"
+  ],
+  "categories": [
+   "opioid",
+   "research-chemical",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "600-900ug",
+    "Light": "300ug",
+    "Strong": "900-1200ug."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "minutes",
+   "value": "30-60"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil constriction",
+   "Analgesia"
+  ],
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_4Fluorobutyrfentanyl.shtml"
+  },
+  "name": "parafluorobutyrfentanyl",
+  "pretty_name": "4-Fluorobutyrfentanyl",
+  "properties": {
+   "aliases": [
+    "pfbf",
+    "4-fluorobutyrfentanyl",
+    "4-fbf"
+   ],
+   "categories": [
+    "opioid",
+    "research-chemical",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Low: 300ug Common: 600-900ug Strong: 900-1200ug.",
+   "duration": "30-60 minutes.",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
+   "onset": "Insufflated <5 minutes.",
+   "summary": "The drug is reportedly rare and there is little known about it. It is an extremely potent research chemical analogue of fentanyl. This powerful opioid is generally only dispensed as a nasal spray. It is strongly recommended to handle with extreme caution and to avoid mixing it with other depressants."
+  }
+ }
+}

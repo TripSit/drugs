@@ -1,0 +1,56 @@
+{
+ "4-ho-mpt": {
+  "aliases": [
+   "4hompt"
+  ],
+  "categories": [
+   "psychedelic",
+   "tentative",
+   "research-chemical"
+  ],
+  "dose_note": " NOTE: The drug does not appear to be active rectally.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-15mg",
+    "Light": "5-10mg",
+    "Strong": "15-25mg"
+   },
+   "Vapourized": {
+    "Common": "5-10mg",
+    "Light": "3-5mg",
+    "Strong": "10-15mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "3-6",
+   "Vapourized": "45-90"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "30-60",
+   "Vapourized": "1-2"
+  },
+  "name": "4-ho-mpt",
+  "pretty_name": "4-HO-MPT",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "4hompt"
+   ],
+   "categories": [
+    "psychedelic",
+    "tentative",
+    "research-chemical"
+   ],
+   "dose": "Oral Light: 5-10mg Common: 10-15mg Strong: 15-25mg | Vapourized Light: 3-5mg Common: 5-10mg Strong: 10-15mg | Note: I couldn't find a report that taking this substance rectally produced any effects.",
+   "duration": "Oral: 3-6 hours. | Vapourized: 45-90 minutes.",
+   "onset": "Oral: 30-60 minutes. | Vapourized: 1-2 minutes.",
+   "summary": "Psychedelic drug of the tryptamine class. Higher homologue of Psilocin, and is the 4-hydroxy analogue of N-Methyl-N-Propyltryptamine."
+  }
+ }
+}

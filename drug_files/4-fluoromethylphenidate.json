@@ -1,0 +1,61 @@
+{
+ "4-fluoromethylphenidate": {
+  "aliases": [
+   "4f-mph",
+   "4-fmph",
+   "4fmph",
+   "4-fl-mph",
+   "4-fluoro-mph"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "dose_note": " Note: There has been a range of different reactions to similar doses, in particular some users have reported 15mg being too intense. It is advisable to start low with this drug.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "5-10"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-15mg",
+    "Heavy": "20-25mg",
+    "Light": "5-10mg",
+    "Strong": "15-20mg",
+    "Threshold": "1-5mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "25-40"
+  },
+  "name": "4-fluoromethylphenidate",
+  "pretty_name": "4-Fluoromethylphenidate",
+  "properties": {
+   "after-effects": "5-10 hours",
+   "aliases": [
+    "4f-mph",
+    "4-fmph",
+    "4fmph",
+    "4-fl-mph",
+    "4-fluoro-mph"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Threshold: 1-5mg Light: 5-10mg Common: 10-15mg Strong: 15-20mg Heavy: 20-25mg | Note: There has been a range of different reactions to similar doses, particularly some users have reported 15mg being too intense. It is advisable to start low with this drug.",
+   "duration": "4-8 hours",
+   "onset": "25-40 minutes",
+   "summary": "A relatively uncommon, more serotonergic derivative of methylphenidate. A dopamine reuptake inhibitor possessing similar effects to associated stimulant compounds."
+  }
+ }
+}

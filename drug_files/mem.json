@@ -1,0 +1,62 @@
+{
+ "mem": {
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "25-35mg",
+    "Light": "15-25mg",
+    "Strong": "35-45mg+.",
+    "Threshold": "15mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-16"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_MEM.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal122.shtml"
+  },
+  "name": "mem",
+  "pretty_name": "MEM",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Threshold: 15mg Low: 15-25mg Common: 25-35mg Strong: 35-45mg+.",
+   "duration": "8-16 hours (Highly dependant on dose)",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "Typically within 60 minutes.",
+   "summary": "A rare psychedelic amphetamine discovered by Alexander Shulgin. Related to the DOx class of drugs, there is little known about the obscure compounds pharmacology. However, it is suspected to have a high potency and to have a long duration."
+  }
+ }
+}

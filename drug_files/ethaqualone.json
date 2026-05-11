@@ -1,0 +1,63 @@
+{
+ "ethaqualone": {
+  "aliases": [
+   "etaqualone"
+  ],
+  "categories": [
+   "depressant",
+   "research-chemical",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Oral": "2-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "175-300mg",
+    "Light": "100-175mg",
+    "Strong": "300-450mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "4-6"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "30-45"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Etaqualone.shtml"
+  },
+  "name": "ethaqualone",
+  "pretty_name": "Ethaqualone",
+  "properties": {
+   "after-effects": "Oral: 2-6 hours.",
+   "aliases": [
+    "etaqualone"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "depressant",
+    "research-chemical",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Oral Light: 100-175mg Common: 175-300mg Strong: 300-450mg",
+   "duration": "Oral: 4-6 hours.",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "Oral: 30-45 minutes.",
+   "summary": "Analogue of Methaqualone that was mainly marketed in France. Slightly weaker and shorter acting than Methaqualone."
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "bk-ivp": {
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "tentative"
+  ],
+  "dose_note": "Rapid onset.",
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-150mg",
+    "Light": "60-100mg",
+    "Strong": "150-200mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "1-3"
+  },
+  "name": "bk-ivp",
+  "pretty_name": "\u03b2k-IVP",
+  "properties": {
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Light: 60-100mg Common: 100-150mg Strong: 150-200mg+",
+   "duration": "1-3 hours.",
+   "onset": "Rapid.",
+   "summary": "The beta-ketone analogue of IVP, this is a rare RC stimulant in the same family as MDPV. Little is known but it is suspected that the effects are similar to MDPV, amphetamine, or high dose caffeine."
+  }
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "3-cmc": {
+  "aliases": [
+   "3cmc"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "dose_note": " NOTE: These doses are tentative and further research is recommended.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Insufflated": "3-6",
+   "Oral": "4-12"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "40-80mg",
+    "Light": "20-40mg",
+    "Strong": "80-100mg."
+   },
+   "Oral": {
+    "Common": "60-100mg",
+    "Light": "30-60mg",
+    "Strong": "100-180mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "1-2",
+   "Oral": "2-4"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "decreased need for sleep",
+   "increased sociability",
+   "mood lift",
+   "increased libido",
+   "excessive talking",
+   "decreased appetite",
+   "weight loss",
+   "sweating",
+   "disturbed sleep patterns",
+   "bruxism",
+   "visual and auditory hallucinations",
+   "itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "10-30",
+   "Oral": "30-90"
+  },
+  "name": "3-cmc",
+  "pretty_name": "3-CMC",
+  "properties": {
+   "after-effects": "Oral: 4-12 hours. | Insufflated: 3-6 hours.",
+   "aliases": [
+    "3cmc"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Light: 30-60mg Common: 60-100mg Strong: 100-180mg. | Insufflated Light: 20-40mg Common: 40-80mg Strong: 80-100mg.",
+   "duration": "Oral: 2-4 hours. | Insufflated: 1-2 hours.",
+   "onset": "Oral: 30-90 minutes. | Insufflated: 10-30 minutes.",
+   "summary": "A rarely seen halogenated cathinone drug. Likely to be a stimulant, possibly an entactogen. (Note: The amphetamine analogue of this drug, 4-CA, is a highly dangerous neurotoxin, no data about the safety of this one, but should likely be avoided)"
+  }
+ }
+}

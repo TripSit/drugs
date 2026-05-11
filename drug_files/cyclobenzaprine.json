@@ -1,0 +1,56 @@
+{
+ "cyclobenzaprine": {
+  "aliases": [
+   "flexeril",
+   "apo-cyclobenzaprin",
+   "fexmid",
+   "novo-cycloprine"
+  ],
+  "categories": [
+   "depressant",
+   "habit-forming",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-10mg",
+    "Heavy": "15mg+",
+    "Light": "2-5mg",
+    "Strong": "10-15mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "name": "cyclobenzaprine",
+  "pretty_name": "Cyclobenzaprine",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "flexeril",
+    "apo-cyclobenzaprin",
+    "fexmid",
+    "novo-cycloprine"
+   ],
+   "categories": [
+    "depressant",
+    "habit-forming",
+    "common"
+   ],
+   "dose": "Light: 2-5mg Common: 5-10mg Strong: 10-15mg Heavy: 15mg+",
+   "duration": "6-12 hours",
+   "onset": "15-45 minutes. ",
+   "summary": "Muscle relaxant and CNS depressant used to relieve skeletal muscle spasms and associated pain in acute musculoskeletal conditions. Sometimes prescribed off-label for treatment of fibromyalgia or as a sleep aid. The drug is reported to have little recreational value alone, but may potentiate some opioids. May cause drowsiness, dry mouth and dizziness.",
+   "warning": "Do not mix with other CNS depressants, or within two weeks of a MAOI. "
+  }
+ }
+}

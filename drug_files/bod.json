@@ -1,0 +1,66 @@
+{
+ "bod": {
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-30mg",
+    "Heavy": "30-40mg+",
+    "Light": "15-20mg",
+    "Threshold": "12-15mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-14"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "60-120"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_BOD.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal014.shtml"
+  },
+  "name": "bod",
+  "pretty_name": "BOD",
+  "properties": {
+   "after-effects": "3-6 hours.",
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Threshold: 12-15mg's Light: 15-20mg Common: 20-30mg Heavy: 30-40mg+",
+   "duration": "8-14~ hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "60-120 minutes",
+   "summary": "Beta-methoxy analogue of 2C-D, reports indicate it to be a more \"mild\" than the likes of 2C-x and DOx compounds. Reports on the bodyload are highly variable amongst users. Some experience an intense bodyload while others barely feel anything at all."
+  }
+ }
+}

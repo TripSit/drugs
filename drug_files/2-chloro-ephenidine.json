@@ -1,0 +1,55 @@
+{
+ "2-chloro-ephenidine": {
+  "aliases": [
+   "2-chloroephenidine",
+   "2chloroephenidine",
+   "2-cl-ephenidine",
+   "2clephenidine"
+  ],
+  "categories": [
+   "dissociative",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "130-175mg",
+    "Heavy": "200mg+",
+    "Light": "100-130mg",
+    "Strong": "175-200mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-30"
+  },
+  "name": "2-chloro-ephenidine",
+  "pretty_name": "2-Chloroephenidine",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "2-chloroephenidine",
+    "2chloroephenidine",
+    "2-cl-ephenidine",
+    "2clephenidine"
+   ],
+   "categories": [
+    "dissociative",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Oral Light: 100-130mg Common: 130-175mg Strong: 175-200mg Heavy: 200mg+",
+   "duration": "3-6 hours",
+   "onset": "10-30 minutes",
+   "summary": "Analogue of Ephenidine. Very little is known about this compound. It is very likely to exhibit dissociative effects, and is slightly less potent than the parent drug Ephenidine."
+  }
+ }
+}

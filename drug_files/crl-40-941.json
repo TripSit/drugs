@@ -1,0 +1,52 @@
+{
+ "crl-40-941": {
+  "aliases": [
+   "fladrafinil",
+   "fluoromodafinil"
+  ],
+  "categories": [
+   "stimulant",
+   "tentative",
+   "nootropic",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-10"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-250mg",
+    "Light": "50-100mg",
+    "Strong": "250-350mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-14"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-90"
+  },
+  "name": "crl-40-941",
+  "pretty_name": "CRL-40-941",
+  "properties": {
+   "after-effects": "1-10 hours.",
+   "aliases": [
+    "fladrafinil",
+    "fluoromodafinil"
+   ],
+   "categories": [
+    "stimulant",
+    "tentative",
+    "nootropic",
+    "research-chemical"
+   ],
+   "dose": "Light: 50-100mg Common: 100-250mg Strong: 250-350mg+",
+   "duration": "6-14 hours. Dependant on dose.",
+   "onset": "30-90 minutes.",
+   "summary": "A substance closely related to Adrafinil and Modafinil. It is the bis(p-fluoro) ring derivative of Adrafinil."
+  }
+ }
+}

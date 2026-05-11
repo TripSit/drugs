@@ -1,0 +1,55 @@
+{
+ "mk-801": {
+  "aliases": [
+   "dizocilpine",
+   "mk801"
+  ],
+  "categories": [
+   "dissociative",
+   "research-chemical",
+   "tentative",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-72"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50-100ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "20-36"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Intramuscular": "45",
+   "Oral": "15-30"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Dizocilpine.shtml"
+  },
+  "name": "mk-801",
+  "pretty_name": "MK-801",
+  "properties": {
+   "after-effects": "1-72 hours.",
+   "aliases": [
+    "dizocilpine",
+    "mk801"
+   ],
+   "avoid": "Unnecessary movement due to risk of injury. Mixing with other depressants such as alcohol, benzodiazepines, and opiods.",
+   "categories": [
+    "dissociative",
+    "research-chemical",
+    "tentative",
+    "habit-forming"
+   ],
+   "dose": "Oral Common: 50-100ug",
+   "duration": "20-36 hours.",
+   "onset": "Oral 15-30mins | IM 45mins",
+   "summary": "Dissociative research chemical reported to be similar to PCP and Ketamine. Dizocilpine, also known as MK-801, is a non-competitive antagonist of the NMDA receptor."
+  }
+ }
+}

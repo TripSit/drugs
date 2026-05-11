@@ -1,0 +1,50 @@
+{
+ "nitemazepam": {
+  "aliases": [
+   "3-hydroxynimetazepam"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "depressant",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1.5-3mg",
+    "Light": "1-1.5mg",
+    "Strong": "3-5mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "name": "nitemazepam",
+  "pretty_name": "Nitemazepam",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "3-hydroxynimetazepam"
+   ],
+   "categories": [
+    "benzodiazepine",
+    "depressant",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Light: 1-1.5mg Common: 1.5-3mg Strong: 3-5mg+",
+   "duration": "6-12 hours.",
+   "onset": "15-45 minutes.",
+   "summary": "A new research chemical benzodiazepine based off the chemical structure of nimetazepam. There is very limited information on the drug. The drug is suggested by anectodal reports to be similar to temazepam."
+  }
+ }
+}

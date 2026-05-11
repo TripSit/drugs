@@ -1,0 +1,86 @@
+{
+ "acetylfentanyl": {
+  "aliases": [
+   "acetyl-fentanyl",
+   "a-f"
+  ],
+  "categories": [
+   "opioid",
+   "research-chemical",
+   "habit-forming",
+   "depressant"
+  ],
+  "dose_note": " NOTE: ~3.75mg Freebase = ~125ug Fentanyl IV = ~10mg Morphine IV'd.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "3-5mg",
+    "Light": "1-3mg",
+    "Strong": "5-7mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil constriction",
+   "Analgesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "5-20"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Acetylfentanyl.shtml"
+  },
+  "name": "acetylfentanyl",
+  "pretty_name": "Acetylfentanyl",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "acetyl-fentanyl",
+    "a-f"
+   ],
+   "categories": [
+    "opioid",
+    "research-chemical",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Oral Light: 2-4mg Common: 4-6mg Strong: 6-10mg+ Insufflated Light: 1-3mg Common: 3-5mg Strong: 5-7mg+ NOTE: ~3.75mg Freebase = ~125ug Fentanyl IV = ~10mg Morphine IV'd.",
+   "duration": "1-4 hours.",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
+   "onset": "5-20 minutes.",
+   "summary": "Acetyl-Fentanyl is an opioid analgesic substance that is an analogue of Fentanyl. It's potency is roughly ~6.67 times that of Morphine. Making it ~15 times less potent than its parent compound Fentanyl."
+  },
+  "pweffects": {
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Constipation": "https://psychonautwiki.org/wiki/Constipation",
+   "Cough suppression": "https://psychonautwiki.org/wiki/Cough_suppression",
+   "Difficulty urinating": "https://psychonautwiki.org/wiki/Difficulty_urinating",
+   "Itchiness": "https://psychonautwiki.org/wiki/Itchiness",
+   "Pain relief": "https://psychonautwiki.org/wiki/Pain_relief",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Pupil constriction": "https://psychonautwiki.org/wiki/Pupil_constriction",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation"
+  },
+  "sources": {
+   "_general": [
+    "Acetylfentanyl in extreme toxicity has caused Cerebral hemorrhage - http://www.tandfonline.com/doi/abs/10.3109/15563650.2016.1139715"
+   ]
+  }
+ }
+}

@@ -1,0 +1,412 @@
+{
+ "mxe": {
+  "aliases": [
+   "methoxetamine",
+   "3-meo-2'oxo-pce"
+  ],
+  "categories": [
+   "dissociative",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "combos": {
+   "2c-t-x": {
+    "status": "Caution"
+   },
+   "2c-x": {
+    "status": "Low Risk & Synergy"
+   },
+   "5-meo-xxt": {
+    "note": "Little information exists about this combination.",
+    "status": "Low Risk & Synergy"
+   },
+   "alcohol": {
+    "note": "There is a high risk of memory loss, vomiting and severe ataxia from this combination.",
+    "status": "Dangerous"
+   },
+   "amphetamines": {
+    "note": "Risk of tachycardia, hypertension, and manic states",
+    "status": "Caution"
+   },
+   "amt": {
+    "status": "Dangerous"
+   },
+   "benzodiazepines": {
+    "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess.",
+    "status": "Caution"
+   },
+   "caffeine": {
+    "note": "No likely interactions",
+    "status": "Low Risk & No Synergy"
+   },
+   "cannabis": {
+    "status": "Low Risk & Synergy"
+   },
+   "cocaine": {
+    "note": "Stimulants taken with MXE can lead to hypermanic states much more easily, especially if sleep is avoided.",
+    "status": "Caution"
+   },
+   "dextromethorphan": {
+    "note": "There is a risk of serotonin syndrome when combining DXM with MXE, due to DXM and MXE both being SRI\u2019s. MXE and DXM having notable affinities for the serotonin transporter.",
+    "sources": [
+     {
+      "author": "Bryan L. Roth, Simon Gibbons, Warunya Arunotayanun, Xi-Ping Huang, Vincent Setola, Ric Treble, Les Iversen",
+      "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor",
+      "url": "https://doi.org/10.1371/journal.pone.0059334"
+     },
+     {
+      "author": "Matteo Marti, Giuseppe Talani, Cristina Miliano, Sabrine Bilel, Francesca Biggio, Jessica Bratzu, Marco Diana, Maria Antonietta De Luca, Liana Fattore",
+      "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat ",
+      "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+     },
+     {
+      "author": "Laura Hondebrink, Emma E.J. Kasteel, Anke M. Tukker, Fiona M.J. Wijnolts, Anouk H.A. Verboven, Remco H.S. Westerink",
+      "title": "Neuropharmacological characterization of the new psychoactive substance methoxetamine",
+      "url": "https://doi.org/10.1016/j.neuropharm.2017.04.035"
+     },
+     {
+      "author": "Linda L. Werling, Ashleigh Keller, Julie G. Frank, Samer J. Nuwayhid",
+      "title": "A comparison of the binding profiles of dextromethorphan, memantine, fluoxetine and amitriptyline: Treatment of involuntary emotional expression disorder",
+      "url": "https://doi.org/10.1016/j.expneurol.2007.06.013"
+     },
+     {
+      "author": "Linda Nguyen, Kelan L. Thomas, Brandon P. Lucke-Wold, John Z. Cavendish, Molly S. Crowe, Rae R. Matsumoto",
+      "title": "Dextromethorphan: An update on its utility for neurological and neuropsychiatric disorders",
+      "url": "https://doi.org/10.1016/j.pharmthera.2016.01.016"
+     }
+    ],
+    "status": "Unsafe"
+   },
+   "diphenhydramine": {
+    "note": "There is a high risk of serotonin syndrome from this combination. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. MXE has a high likelihood of increasing DPH's deliriant effects at higher dosages and can greatly increase the risk of injury, mania, and psychosis. Medical dosages are unlikely to be of concern.",
+    "sources": [
+     {
+      "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M. (2025)",
+      "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027.",
+      "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+     },
+     {
+      "author": "Ener, R. A., Meglathery, S. B., Decker, W. A. V., & Gallagher, R. M. (2003)",
+      "title": "Serotonin Syndrome and Other Serotonergic Disorders: Table 1. Pain Medicine, 4(1), 63\u201374.",
+      "url": "https://doi.org/10.1046/j.1526-4637.2003.03005.x"
+     },
+     {
+      "author": "Marti, M., Talani, G., Miliano, C., Bilel, S., Biggio, F., Bratzu, J., Diana, M., De Luca, M. A., & Fattore, L. (2021)",
+      "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat. Experimental Neurology, 345, 113836.",
+      "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+     },
+     {
+      "author": "Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., & Iversen, L. (2013)",
+      "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor. PLoS ONE, 8(3), e59334.",
+      "url": "https://doi.org/10.1371/journal.pone.0059334"
+     },
+     {
+      "author": "Varghese, E., Abate, M. A., Hu, L., Kaplan, J., Kraner, J., Long, D. L., Sorg, M., Mock, A., Greenwald, M., & Andrew, T. (2015)",
+      "title": "Characterization of Diphenhydramine-Related Accidental Overdose Deaths. Academic Forensic Pathology, 5(1), 105\u2013115.",
+      "url": "https://doi.org/10.23907/2015.011"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "dmt": {
+    "status": "Low Risk & Synergy"
+   },
+   "dox": {
+    "note": "As an NMDA antagonist MXE potentiates DOx which can be unpleasantly intense",
+    "status": "Caution"
+   },
+   "ghb/gbl": {
+    "note": "Both substances cause ataxia and bring a risk of vomiting and unconsciousness. If the individual falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position.",
+    "status": "Dangerous"
+   },
+   "ketamine": {
+    "status": "Low Risk & Synergy"
+   },
+   "lithium": {
+    "note": "There is a risk of serotonin syndrome when combining Lithium with MXE, as Lithium can induce serotonin syndrome in conjunction with other serotonergic drugs, and MXE has shown a notable affinity for the serotonin transporter.",
+    "sources": [
+     {
+      "author": "Lenox, R. H., & Hahn, C. G.",
+      "title": "Overview of the mechanism of action of lithium in the brain: fifty-year update (2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10826655/"
+     },
+     {
+      "author": "Shahani, L.",
+      "title": "Venlafaxine Augmentation With Lithium Leading to Serotonin Syndrome (2012)",
+      "url": "https://doi.org/10.1176/appi.neuropsych.11080196"
+     },
+     {
+      "author": "DeBattista, C., Sofuoglu, M., & Schatzberg, A. F.",
+      "title": "Serotonergic synergism: the risks and benefits of combining the selective serotonin reuptake inhibitors with other serotonergic drugs (1998)",
+      "url": "https://doi.org/10.1016/S0006-3223(98)00161-9"
+     },
+     {
+      "author": "Massot, O.",
+      "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders (1999)",
+      "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+     },
+     {
+      "author": "Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., & Iversen, L.",
+      "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor (2013)",
+      "url": "https://doi.org/10.1371/journal.pone.0059334"
+     },
+     {
+      "author": "Marti, M., Talani, G., Miliano, C., Bilel, S., Biggio, F., Bratzu, J., Diana, M., De Luca, M. A., & Fattore, L.",
+      "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat (2021)",
+      "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "lsd": {
+    "status": "Low Risk & Synergy"
+   },
+   "maois": {
+    "note": "MAO-B inhibitors appear to increase the potency of MXE. MAO-A inhbitors have some negative reports associated with the combination but there isn't much information available",
+    "status": "Unsafe"
+   },
+   "mdma": {
+    "note": "There have been reports of risky serotonergic interactions when the two are taken at the same time, but MXE taken to the end of an MDMA experience does not appear to cause the same issues.",
+    "status": "Caution"
+   },
+   "mescaline": {
+    "status": "Low Risk & Synergy"
+   },
+   "mushrooms": {
+    "status": "Low Risk & Synergy"
+   },
+   "nbomes": {
+    "note": "As an NMDA antagonist MXE potentiates NBOMes which can be unpleasantly intense",
+    "status": "Caution"
+   },
+   "nitrous": {
+    "status": "Low Risk & Synergy"
+   },
+   "opioids": {
+    "note": "This combination can potentiate the effects of the opioid",
+    "status": "Dangerous"
+   },
+   "pcp": {
+    "note": "There are no reports available about this combination",
+    "status": "Caution"
+   },
+   "pregabalin": {
+    "note": "Pregabalin and MXE may synergize and increase each other\u2019s negative side effects such as nausea, dizziness, and loss of consciousness. Caution is advised for anything above low dosages due to seizure concerns, and all dosages for individuals with higher risk seizure profiles and or behavior.",
+    "sources": [
+     {
+      "author": "Anwar, S., Cooper, J., Rahman, J., Sharma, C., & Langford, R. (2019)",
+      "title": "Prolonged Perioperative Use of Pregabalin and Ketamine to Prevent Persistent Pain after Cardiac Surgery. Anesthesiology, 131(1), 119\u2013131.",
+      "url": "https://doi.org/10.1097/ALN.0000000000002751"
+     },
+     {
+      "author": "Arendt-Nielsen, L., Mansikka, H., Staahl, C., Rees, H., Tan, K., Smart, T. S., Monhemius, R., Suzuki, R., & Drewes, A. M. (2011)",
+      "title": "A Translational Study of the Effects of Ketamine and Pregabalin on Temporal Summation of Experimental Pain: Regional Anesthesia and Pain Medicine, 36(6), 585\u2013591.",
+      "url": "https://doi.org/10.1097/AAP.0b013e31822b0db0"
+     },
+     {
+      "author": "Barker-Haliski, M., & White, H. S. (2015)",
+      "title": "Glutamatergic Mechanisms Associated with Seizures and Epilepsy. Cold Spring Harbor Perspectives in Medicine, 5(8), a022863.",
+      "url": "https://doi.org/10.1101/cshperspect.a022863"
+     },
+     {
+      "author": "Ben\u2010Menachem, E. (2004)",
+      "title": "Pregabalin Pharmacology and Its Relevance to Clinical Practice. Epilepsia, 45(s6), 13\u201318.",
+      "url": "https://doi.org/10.1111/j.0013-9580.2004.455003.x"
+     },
+     {
+      "author": "French, J., Kwan, P., Fakhoury, T., Pitman, V., DuBrava, S., Knapp, L., & Yurkewicz, L. (2014)",
+      "title": "Pregabalin monotherapy in patients with partial-onset seizures: A historical-controlled trial. Neurology, 82(7), 590\u2013597.",
+      "url": "https://doi.org/10.1212/WNL.0000000000000119"
+     },
+     {
+      "author": "Gayatri, N., & Livingston, J. (2006)",
+      "title": "Aggravation of epilepsy by anti\u2010epileptic drugs. Developmental Medicine & Child Neurology, 48(5), 394\u2013398.",
+      "url": "https://doi.org/10.1017/S0012162206000843"
+     },
+     {
+      "author": "Hitchings, A. W. (2016)",
+      "title": "Drugs that lower the seizure threshold. Adverse Drug Reaction Bulletin, 298(1), 1151\u20131154.",
+      "url": "https://doi.org/10.1097/FAD.0000000000000016"
+     },
+     {
+      "author": "Isoardi, K. Z., Polkinghorne, G., Harris, K., & Isbister, G. K. (2020)",
+      "title": "Pregabalin poisoning and rising recreational use: a retrospective observational series. British Journal of Clinical Pharmacology, 86(12), 2435\u20132440.",
+      "url": "https://doi.org/10.1111/bcp.14348"
+     },
+     {
+      "author": "Kumar, N., Laferriere, A., Yu, J. S. C., Leavitt, A., & Coderre, T. J. (2010)",
+      "title": "Evidence that pregabalin reduces neuropathic pain by inhibiting the spinal release of glutamate. Journal of Neurochemistry, 113(2), 552\u2013552.",
+      "url": "https://doi.org/10.1111/j.1471-4159.2010.06625.x"
+     },
+     {
+      "author": "Marti, M., Talani, G., Miliano, C., Bilel, S., Biggio, F., Bratzu, J., Diana, M., De Luca, M. A., & Fattore, L. (2021)",
+      "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat. Experimental Neurology, 345, 113836.",
+      "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+     },
+     {
+      "author": "Martinez, V., Cymerman, A., Ben Ammar, S., Fiaud, J. F., Rapon, C., Poindessous, F., Judet, T., Chauvin, M., Bouhassira, D., Sessler, D., Mazoit, X., & Fletcher, D. (2014)",
+      "title": "The analgesic efficiency of combined pregabalin and ketamine for total hip arthroplasty: a randomised, double\u2010blind, controlled study. Anaesthesia, 69(1), 46\u201352.",
+      "url": "https://doi.org/10.1111/anae.12495"
+     },
+     {
+      "author": "Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., & Iversen, L. (2013)",
+      "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor. PLoS ONE, 8(3), e59334.",
+      "url": "https://doi.org/10.1371/journal.pone.0059334"
+     },
+     {
+      "author": "Slocum, G. W., Schult, R. F., Gorodetsky, R. M., Wiegand, T. J., Kamali, M., & Acquisto, N. M. (2018)",
+      "title": "Pregabalin and paradoxical reaction of seizures in a large overdose. Toxicology Communications, 2(1), 19\u201320.",
+      "url": "https://doi.org/10.1080/24734306.2018.1458465"
+     },
+     {
+      "author": "Zhou, Y., Sun, W., Fu, Y., Wang, J., Fan, J., Liang, Y., Jia, W., & Han, R. (2024)",
+      "title": "Effect of esketamine combined with pregabalin on acute postsurgical pain in patients who underwent resection of spinal neoplasms: a randomized controlled trial. Pain, 165(9), e96\u2013e105.",
+      "url": "https://doi.org/10.1097/j.pain.0000000000003211"
+     }
+    ],
+    "status": "Caution"
+   },
+   "ssris": {
+    "note": "Depending on the SSRI this combination can be unpredictable",
+    "status": "Caution"
+   },
+   "tramadol": {
+    "status": "Dangerous"
+   }
+  },
+  "dose_note": " NOTE: Bodyweight plays a slight factor in MXE dosing, these are values for a 175lb (80kg) male",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-48"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "20-35mg",
+    "Heavy": "60mg+",
+    "Light": "10-20mg",
+    "Strong": "35-60mg",
+    "Threshold": "5-10mg"
+   },
+   "Oral": {
+    "Common": "25-35mg",
+    "Light": "15-25mg",
+    "Strong": "40-65mg",
+    "Threshold": "10-15mg"
+   },
+   "Sublingual": {
+    "Common": "40-60mg",
+    "Light": "10-20mg",
+    "Strong": "60-75mg",
+    "Threshold": "5-10mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-20",
+   "Oral": "30-60",
+   "Sublingual": "15-45"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Methoxetamine_.shtml"
+  },
+  "name": "mxe",
+  "pretty_name": "MXE",
+  "properties": {
+   "after-effects": "2-48 hours",
+   "aliases": [
+    "methoxetamine",
+    "3-meo-2'oxo-pce"
+   ],
+   "avoid": "CNS depressants such as alcohol, benzodiazepines, and opioids. Additionally substances that have an effect on serotonin such as MDMA, methamphetamine, and dextromethorphan (DXM).",
+   "categories": [
+    "dissociative",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Insufflated Threshold: 5-10mg Light: 10-20mg Common: 20-35mg Strong: 35-60mg Heavy: 60mg+ M-Hole: 70mg+ | Oral Threshold: 10-15mg Light: 15-25mg Common: 25-35 Strong: 40-65mg M-Hole: 75mg+ | Sublingual Threshold: 5-10mg Low: 10-20mg Common: 40-60mg Strong: 60-75mg M-Hole: 75-100mg | NOTE: Bodyweight plays a slight factor in MXE dosing, these are values for a 175lb (80kg) male",
+   "duration": "3-6 hours",
+   "legal": "Methoxetamine is scheduled and or controlled in Brazil, Canada, China, EU, Finland, Israel, Japan, Poland, Russia, United Kingdom, United Nations, and the United States (among others).",
+   "onset": "Insufflated: 5-20 minutes | Oral: 30-60 minutes | Sublingual: 15-45 minutes",
+   "summary": "A dissociative drug which is an analogue of ketamine. It is reported to be less sedating and more potent by weight. Anectodal reports indicate it has a subjectively more 'complicated' set of effects."
+  },
+  "pweffects": {
+   "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Auditory suppression": "https://psychonautwiki.org/wiki/Auditory_suppression",
+   "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+   "Consciousness disconnection": "https://psychonautwiki.org/wiki/Consciousness_disconnection",
+   "Creativity enhancement": "https://psychonautwiki.org/wiki/Creativity_enhancement",
+   "D\u00e9j\u00e0 vu": "https://psychonautwiki.org/wiki/D%C3%A9j%C3%A0_vu",
+   "Depersonalization": "https://psychonautwiki.org/wiki/Depersonalization",
+   "Derealization": "https://psychonautwiki.org/wiki/Derealization",
+   "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Double vision": "https://psychonautwiki.org/wiki/Double_vision",
+   "Environmental cubism": "https://psychonautwiki.org/wiki/Environmental_cubism",
+   "Environmental orbism": "https://psychonautwiki.org/wiki/Environmental_orbism",
+   "External hallucinations": "https://psychonautwiki.org/wiki/External_hallucinations",
+   "Frame rate suppression": "https://psychonautwiki.org/wiki/Frame_rate_suppression",
+   "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+   "Immersion enhancement": "https://psychonautwiki.org/wiki/Immersion_enhancement",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Mania": "https://psychonautwiki.org/wiki/Mania",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Pattern recognition suppression": "https://psychonautwiki.org/wiki/Pattern_recognition_suppression",
+   "Perception of decreased weight": "https://psychonautwiki.org/wiki/Perception_of_decreased_weight",
+   "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+   "Perspective distortions": "https://psychonautwiki.org/wiki/Perspective_distortions",
+   "Physical autonomy": "https://psychonautwiki.org/wiki/Physical_autonomy",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+   "Scenery slicing": "https://psychonautwiki.org/wiki/Scenery_slicing",
+   "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Tactile disconnection": "https://psychonautwiki.org/wiki/Tactile_disconnection",
+   "Tactile suppression": "https://psychonautwiki.org/wiki/Tactile_suppression",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+   "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+   "Unity and interconnectedness": "https://psychonautwiki.org/wiki/Unity_and_interconnectedness",
+   "Visual disconnection": "https://psychonautwiki.org/wiki/Visual_disconnection",
+   "Visual sliding": "https://psychonautwiki.org/wiki/Visual_sliding"
+  },
+  "sources": {
+   "_general": [
+    "Methoxetamine associated reversible cerebellar toxicity: three cases with analytical confirmation. - http://www.ncbi.nlm.nih.gov/pubmed/22578175",
+    "Methoxetamine: from drug of abuse to rapid-acting antidepressant. - http://www.ncbi.nlm.nih.gov/pubmed/22819129",
+    "From Special K to Special M: the evolution of the recreational use of ketamine and methoxetamine. - http://www.ncbi.nlm.nih.gov/pubmed/23421859",
+    "Ketamine-derived designer drug methoxetamine: metabolism including isoenzyme kinetics and toxicological detectability using GC-MS and LC-(HR-)MSn - http://www.ncbi.nlm.nih.gov/pubmed/23774830",
+    "Three months of methoxetamine administration is associated with significant bladder and renal toxicity in mice. - http://www.ncbi.nlm.nih.gov/pubmed/24580056",
+    "Analytical findings of an acute intoxication after inhalation of methoxetamine. - http://www.ncbi.nlm.nih.gov/pubmed/24904014",
+    "Acute methoxetamine and amphetamine poisoning with fatal outcome: a case report - http://www.ncbi.nlm.nih.gov/pubmed/25060403",
+    "From \"Special K\" to \"Special M\": the evolution of the recreational use of ketamine and methoxetamine. - http://www.ncbi.nlm.nih.gov/pubmed/23421859",
+    "Ketamine-derived designer drug methoxetamine: metabolism including isoenzyme kinetics and toxicological detectability using GC-MS and LC-(HR-)MSn. - http://www.ncbi.nlm.nih.gov/pubmed/23774830",
+    "Acute methoxetamine and amphetamine poisoning with fatal outcome: a case report. - http://www.ncbi.nlm.nih.gov/pubmed/25060403~adddrugsource cannabis general Cannabis use in relation to obesity and insulin resistance in the Inuit population. - https://www.ncbi.nlm.nih.gov/pubmed/25557382",
+    "3 case reports of toxicity due to recreational use of MXE - http://link.springer.com/article/10.1007/s00228-011-1199-9"
+   ],
+   "legality": [
+    "http://www.azleg.gov/DocumentsForBill.asp?Session_ID=112&Bill_Number=HB2453",
+    "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0800-0899/0893/0893.html",
+    "http://www.in.gov/legislative/ic/2010/title35/ar31.5/ch2.html",
+    "http://www.legis.la.gov/legis/ViewDocument.aspx?d=850979&n=HB10%20Act",
+    "https://www.revisor.mn.gov/statutes/?id=152.02",
+    "http://www.legis.nd.gov/cencode/t19c03-1.pdf?20140721032549",
+    "http://www.legislature.state.oh.us/BillText130/130_HB_315_RH_N.html",
+    "http://www.legislation.gov.uk/uksi/2013/239/contents/made"
+   ]
+  }
+ }
+}

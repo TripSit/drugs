@@ -1,0 +1,99 @@
+{
+ "diazepam": {
+  "aliases": [
+   "valium"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-120"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-15mg",
+    "Heavy": "15-30mg.",
+    "Light": "2.5-5mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "10-24"
+  },
+  "formatted_effects": [
+   "Memory loss",
+   "Blackout potential",
+   "Motor skill impairment",
+   "Dizziness",
+   "Depression",
+   "Irritability",
+   "Aggression",
+   "Rage",
+   "Personality changes",
+   "Drowsiness",
+   "Appetite fluctuation",
+   "Euphoria",
+   "Relaxation",
+   "Anxiety suppression",
+   "Muscle relaxation",
+   "Emotional and social dissociation or de-realization (normally seen with long term use)"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-90"
+  },
+  "name": "diazepam",
+  "pretty_name": "Diazepam",
+  "properties": {
+   "after-effects": "1-120 hours.",
+   "aliases": [
+    "valium"
+   ],
+   "avoid": "All other CNS depressants",
+   "bioavailability": "Oral 85-100%",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant",
+    "common"
+   ],
+   "dose": "Light: 2.5-5mg Common: 5-15mg Heavy: 15-30mg.",
+   "dose_to_diazepam": "Diazepam - 10mg ~=10mg Diazepam.",
+   "duration": "10-24 hours.",
+   "effects": "Memory loss, Blackout potential, Motor skill impairment, Dizziness, Depression, Irritability, Aggression, Rage, Personality changes, Drowsiness, Appetite fluctuation, Euphoria, Relaxation, Anxiety suppression, Muscle relaxation, Emotional and social dissociation or de-realization (normally seen with long term use).",
+   "onset": "30-90 minutes.",
+   "summary": "A very common and widely prescribed benzodiazepine with hypnotic and sedative qualities. The metre by which other benzodiazepines are compared. May cause amnesia and lowered inhibitions in excess. Has a relatively long half-life in comparison with other benzodiazepines."
+  },
+  "pweffects": {
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Analysis suppression": "https://psychonautwiki.org/wiki/Analysis_suppression",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+   "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Emotion suppression": "https://psychonautwiki.org/wiki/Emotion_suppression",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Muscle relaxation": "https://psychonautwiki.org/wiki/Muscle_relaxation",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Seizure suppression": "https://psychonautwiki.org/wiki/Seizure_suppression",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration"
+  },
+  "sources": {
+   "_general": [
+    "Alcohol and benzodiazepines in fatal poisonings. - https://www.ncbi.nlm.nih.gov/pubmed/12170103",
+    "NMDA receptor antagonists potently suppress the spontaneous withdrawal signs induced by discontinuation of long-term diazepam treatment in Fischer ... - http://www.ncbi.nlm.nih.gov/pubmed/9593834",
+    "Dual intoxication with diazepam and amphetamine: this drug interaction probably potentiates myocardial ischemia. - http://www.ncbi.nlm.nih.gov/pubmed/17320309",
+    "Effect of omeprazole and cimetidine on plasma diazepam levels. - http://www.ncbi.nlm.nih.gov/pubmed/2276389",
+    "Bioavailability of intranasal vs. rectal diazepam. - http://www.ncbi.nlm.nih.gov/pubmed/22981338",
+    "Dosing feasibility and tolerability of intranasal diazepam in adults with epilepsy. - http://www.ncbi.nlm.nih.gov/pubmed/25154625"
+   ]
+  }
+ }
+}

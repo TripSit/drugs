@@ -1,0 +1,47 @@
+{
+ "nicomorphine": {
+  "categories": [
+   "opioid",
+   "depressant",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-10mg",
+    "Light": "2.5-5mg",
+    "Strong": "10-20mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Intravenous": "2-4",
+   "Oral": "4-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Intravenous": "1-2",
+   "Oral": "15-30"
+  },
+  "name": "nicomorphine",
+  "pretty_name": "Nicomorphine",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "opioid",
+    "depressant",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Light: 2.5-5mg Common: 5-10mg Strong: 10-20mg+",
+   "duration": "Oral: 4-6 hours | Intravenously: 2-4 hours.",
+   "onset": "Oral: 15-30 minutes | Intravenously: 1-2 minutes.",
+   "summary": "Opioid agonist that is 2-3x the potency of morphine. The drug is used in a few countries medically. The drug has a rapid onset of effects due to its increased lipid solubility."
+  }
+ }
+}

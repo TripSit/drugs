@@ -1,0 +1,71 @@
+{
+ "2c-n": {
+  "aliases": [
+   "2cn"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-125mg",
+    "Light": "100mg",
+    "Strong": "125-150mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_2CN.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal034.shtml"
+  },
+  "name": "2c-n",
+  "pretty_name": "2C-N",
+  "properties": {
+   "after-effects": "2-4 hours.",
+   "aliases": [
+    "2cn"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Light: 100mg Common: 100-125mg Strong: 125-150mg+",
+   "duration": "4-6 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "15-45 minutes.",
+   "summary": "A relatively uncommon and short-acting psychedelic phenethylamine of the 2C-x family. It behaves much like other 2C-x drugs, but is unique in that it is a yellowish golden-coloured salt. Described by some, namely Alexander Shulgin, as being quite underwhelming."
+  }
+ }
+}

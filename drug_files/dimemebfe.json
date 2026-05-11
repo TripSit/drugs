@@ -1,0 +1,45 @@
+{
+ "dimemebfe": {
+  "aliases": [
+   "5-meo-bfe"
+  ],
+  "categories": [
+   "research-chemical",
+   "psychedelic",
+   "empathogen",
+   "tentative"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50-75mg",
+    "Light": "25-50mg",
+    "Strong": "75-125mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-40"
+  },
+  "name": "dimemebfe",
+  "pretty_name": "Dimemebfe",
+  "properties": {
+   "aliases": [
+    "5-meo-bfe"
+   ],
+   "categories": [
+    "research-chemical",
+    "psychedelic",
+    "empathogen",
+    "tentative"
+   ],
+   "dose": "Light: 25-50mg Common: 50-75mg Strong: 75-125mg.",
+   "duration": "4-6 hours.",
+   "onset": "10-40 minutes.",
+   "summary": "Related in structure to 5-MeO-DMT, yet much less potent. Described as feeling somewhat similar to psilocybin mushrooms, with some additional empathogenic effects."
+  }
+ }
+}

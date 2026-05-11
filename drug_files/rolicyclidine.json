@@ -1,0 +1,52 @@
+{
+ "rolicyclidine": {
+  "aliases": [
+   "pcpy"
+  ],
+  "categories": [
+   "dissociative",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "4-8mg",
+    "Light": "2-4mg",
+    "Strong": "8mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "30",
+   "Oral": "30-60"
+  },
+  "name": "rolicyclidine",
+  "pretty_name": "Rolicyclidine",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "pcpy"
+   ],
+   "avoid": "All CNS depressants.",
+   "categories": [
+    "dissociative",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Light: 2-4mg Common: 4-8mg Strong: 8mg+",
+   "duration": "2-6 hours",
+   "onset": "Oral: 30-60 minutes | Insufflated 30 minutes.",
+   "summary": "Rolicyclidine, also known as PCPy, is a dissociative with effects similar to PCP. The drug is reported to have less stimulating effects than PCP while keeping similarities with hallucinogenic and sedative effects. In this sense, it has been anecdotally reported to be more similar to opioids regarding effects, or other central nervous system depressants."
+  }
+ }
+}

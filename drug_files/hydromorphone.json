@@ -1,0 +1,80 @@
+{
+ "hydromorphone": {
+  "aliases": [
+   "dilaudid",
+   "diluadid"
+  ],
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "3-4mg",
+    "Light": "1-2mg",
+    "Strong": "4-8mg+"
+   },
+   "Intravenous": {
+    "Common": "2-4mg",
+    "Light": "1-2mg",
+    "Strong": "4-6mg+"
+   },
+   "Oral": {
+    "Common": "3-4mg",
+    "Light": "1-2mg",
+    "Strong": "4-8mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-3",
+   "Intravenous": "1-2",
+   "Oral": "3-4"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil Constriction",
+   "Analgesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-10",
+   "Intravenous": "0-1",
+   "Oral": "30-60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Hydromorphone.shtml"
+  },
+  "name": "hydromorphone",
+  "pretty_name": "Hydromorphone",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "dilaudid",
+    "diluadid"
+   ],
+   "avoid": "All other CNS depressants.",
+   "bioavailability": "Oral 51.35% +/- 29.29% | Insufflated 52.4% | Rectal 36.33% +/- 29.6%",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Oral Light: 1-2mg Common: 3-4 Strong: 4-8mg+ | Insufflated Light: 1-2mg Common: 3-4mg Strong: 4-8mg+ | Intravenous Light: 1-2mg Common: 2-4mg Strong: 4-6mg+",
+   "duration": "Oral: 3-4 hours | Insufflated: 2-3 hours | Intravenous: 1-2 hours.",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil Constriction, Analgesia.",
+   "onset": "Oral 30-60 minutes | Insufflated 5-10 minutes | Intravenous 0-1 minutes",
+   "summary": "An opioid that is roughly 5x the potency of IV Morphine. The drug comes in IR tablets in the US, and XR in most other countries. It is frequently used in hospitals for short immediate pain relief during procedures that require the patient to be awake. The drug is also used recreationally."
+  }
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "dob": {
+  "categories": [
+   "psychedelic",
+   "stimulant",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Oral": "2-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "750-1100ug",
+    "Dangerous": "3000ug",
+    "Heavy": "1100-1500ug",
+    "Light": "750ug",
+    "Threshold": "500ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "8-24"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-120"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_DOB.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal062.shtml"
+  },
+  "name": "dob",
+  "pretty_name": "DOB",
+  "properties": {
+   "after-effects": "2-12 hours",
+   "categories": [
+    "psychedelic",
+    "stimulant",
+    "research-chemical"
+   ],
+   "dose": "Oral Threshold: 500ug Light: 750ug Common: 750-1100ug Heavy: 1100-1500ug Dangerous: 3000ug",
+   "duration": "8-24 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "marquis": "Olive Green - Yellow",
+   "onset": "30-120 minutes.",
+   "summary": "DOB is a relatively uncommon synthetic psychedelic. It is best known for its very high potency and long duration. Historically it has rarely been taken deliberately, but in place of LSD, however it has recently found its own place in the research chemical scene."
+  }
+ }
+}

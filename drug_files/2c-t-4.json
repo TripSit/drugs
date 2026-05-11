@@ -1,0 +1,59 @@
+{
+ "2c-t-4": {
+  "aliases": [
+   "2ct4",
+   "2c-t4",
+   "2-ct4",
+   "2ct-4"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-15mg",
+    "Light": "6-10mg",
+    "Strong": "15-20mg",
+    "Threshold": "5-6mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "10-18"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-120"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_2CT4.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal041.shtml"
+  },
+  "name": "2c-t-4",
+  "pretty_name": "2C-T-4",
+  "properties": {
+   "after-effects": "4-8 hours.",
+   "aliases": [
+    "2ct4",
+    "2c-t4",
+    "2-ct4",
+    "2ct-4"
+   ],
+   "avoid": "MAOI's as the dangers with 2C-T-7 could also fall into this substance as well (for example serotonin syndrome)",
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Oral Threshold: 5-6mg Light: 6-10mg Common: 10-15mg Strong: 15-20mg",
+   "duration": "10-18 hours.",
+   "onset": "30-120 minutes.",
+   "summary": "A psychedelic phenethylamine that has a longer onset and duration compared to the more common 2C-T-x (2 and 7).",
+   "test-kits": "Marquis: Pale Orange. | Mandelin: Orange (Or Purple). | Liebermann: Purple. | Ehrlich: Purple."
+  }
+ }
+}

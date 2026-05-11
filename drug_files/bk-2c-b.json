@@ -1,0 +1,86 @@
+{
+ "bk-2c-b": {
+  "aliases": [
+   "bk-2cb",
+   "bk-2-cb",
+   "b-k-2cb",
+   "b-k2cb",
+   "b-k2-cb",
+   "b-k2-c-b",
+   "b-k-2-c-b",
+   "bk2cb"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "common"
+  ],
+  "dose_note": " NOTE: These doses are tentative and it is recommended to do further research.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "80-100mg",
+    "Heavy": "150mg+",
+    "Strong": "100-150mg",
+    "Threshold": "50-60mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-12"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-70"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_BK2CB.shtml"
+  },
+  "name": "bk-2c-b",
+  "pretty_name": "\u03b2k-2C-B",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "bk-2cb",
+    "bk-2-cb",
+    "b-k-2cb",
+    "b-k2cb",
+    "b-k2-cb",
+    "b-k2-c-b",
+    "b-k-2-c-b",
+    "bk2cb"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "common"
+   ],
+   "dose": "Oral Threshold: 50-60mg Common: 80-100mg Strong: 100-150mg Heavy: 150mg+",
+   "duration": "8-12 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "20-70 minutes.",
+   "summary": "A long-acting psychedelic and empathogen with unpredictable effectiveness. Roughly double the duration of 2C-B. Inactivated by high pH."
+  }
+ }
+}

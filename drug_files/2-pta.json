@@ -1,0 +1,53 @@
+{
+ "2-pta": {
+  "aliases": [
+   "4-methyl-2-pa",
+   "2-(p-tolyl)acetamide"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-40mg",
+    "Heavy": "80+mg.",
+    "Light": "10-20mg",
+    "Strong": "40-80mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "1-3"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-25"
+  },
+  "name": "2-pta",
+  "pretty_name": "2-PTA",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "4-methyl-2-pa",
+    "2-(p-tolyl)acetamide"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Light: 10-20mg Common: 20-40mg Strong: 40-80mg Heavy: 80+mg.",
+   "duration": "1-3 hours.",
+   "onset": "10-25 minutes.",
+   "summary": "4-Methylamphetamine with the alpha-methyl replaced by ketone. There are very few reports and there is limited information about toxicity. As always treat with caution."
+  }
+ }
+}

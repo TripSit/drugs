@@ -1,0 +1,44 @@
+{
+ "3-fea": {
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "30-50mg",
+    "Light": "10-30mg",
+    "Strong": "50-70mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-50"
+  },
+  "name": "3-fea",
+  "pretty_name": "3-FEA",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Light: 10-30mg Common: 30-50mg Strong: 50-70mg+",
+   "duration": "4-6 hours.",
+   "onset": "20-50 minutes.",
+   "summary": "A novel fluorinated amphetamine with serotonergic properties. Effects are similar to 4-FA, in that it provides slight dopamine and norepinephrine release, or reuptake inhibition. As well as serotonin release and reuptake inhibition. Effects on the serotonin side are more pronounced than dopamine and norepinephrine, the latter two being almost negligible."
+  }
+ }
+}

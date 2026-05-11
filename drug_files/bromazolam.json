@@ -1,0 +1,53 @@
+{
+ "bromazolam": {
+  "aliases": [
+   "xli-268",
+   "xli268"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "research-chemical",
+   "tentative",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1-2mg",
+    "Light": "0.5-1mg",
+    "Strong": "2-4mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "name": "bromazolam",
+  "pretty_name": "Bromazolam",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "xli-268",
+    "xli268"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "research-chemical",
+    "tentative",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 0.5-1mg Common: 1-2mg Strong: 2-4mg+",
+   "duration": "5-8 hours.",
+   "onset": "15-45 minutes.",
+   "summary": "A rather novel Benzodiazepine that is structurally quite close to Alprazolam."
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "mdphp": {
+  "aliases": [
+   "monkey-dust"
+  ],
+  "categories": [
+   "stimulant",
+   "tentative",
+   "habit-forming",
+   "research-chemical"
+  ],
+  "dose_note": "NOTE: The dosage data is tentative. Potency and composition of batches vary significantly and as such caution should be used when taking MDPHP. See ~mdphp summary",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Insufflated": "2-36",
+   "Oral": "2-16"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "10-20mg",
+    "Light": "5-10mg",
+    "Strong": "20mg+"
+   },
+   "Oral": {
+    "Common": "20-35mg",
+    "Light": "10-20mg",
+    "Strong": "35mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-4",
+   "Oral": "3-6"
+  },
+  "formatted_effects": [
+   "Stimulation",
+   "Incresed Motivation",
+   "Mood Enhancement",
+   "Euphoria",
+   "Sexual Enhancement",
+   "Anxiety",
+   "Paranoia",
+   "Dry Mouth",
+   "Muscle Tension",
+   "Restlessness",
+   "Uncomfortable Stimulation"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-15",
+   "Oral": "30-60"
+  },
+  "name": "mdphp",
+  "pretty_name": "MDPHP",
+  "properties": {
+   "after-effects": "Oral: 2-16h | Insufflated: 2-36h",
+   "aliases": [
+    "monkey-dust"
+   ],
+   "categories": [
+    "stimulant",
+    "tentative",
+    "habit-forming",
+    "research-chemical"
+   ],
+   "dose": "NOTE: The dosage data is tentative. Potency and composition of batches vary significantly and as such caution should be used when taking MDPHP. See ~mdphp summary | Oral Light: 10-20mg Common: 20-35mg Strong: 35+mg | Insufflated Light: 5-10mg Common: 10-20mg Strong: 20+mg",
+   "duration": "Oral: 3-6 hours | Insufflated: 2-4 hours",
+   "effects": "Stimulation, Incresed Motivation, Mood Enhancement, Euphoria, Sexual Enhancement, Anxiety, Paranoia, Dry Mouth, Muscle Tension, Restlessness, Uncomfortable Stimulation",
+   "onset": "Oral: 30-60 minutes | Insufflated: 5-15 minutes",
+   "summary": "MDPHP aka 'Monkey-Dust' is a substituted cathinone and pyrovalerone which has often been sold as an alternative to a-PHP and MDPV. The drug is reported to be less intense than MDPV while having similar subjective effects. MDPHP potency is reported to vary wildly, and there are reports of mixed composition batches containing other drugs. There is little known about MDPHP in terms of toxicity, pharmacology, and metabolism."
+  }
+ }
+}

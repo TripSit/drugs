@@ -1,0 +1,77 @@
+{
+ "2-fa": {
+  "aliases": [
+   "2-fluoroamphetamine",
+   "2-fmp",
+   "2fa"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "dose_note": " Note: Insufflating does not appear to raise the bioavailability than oral ingestion, and can cause damage to nasal cavities.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "15-30mg",
+    "Heavy": "50mg+",
+    "Light": "5-15mg",
+    "Strong": "30-50mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "1-2",
+   "Oral": "3-5"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "decreased need for sleep",
+   "increased sociability",
+   "mood lift",
+   "increased libido",
+   "excessive talking",
+   "decreased appetite",
+   "weight loss",
+   "sweating",
+   "disturbed sleep patterns",
+   "bruxism",
+   "visual and auditory hallucinations",
+   "itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "2-5",
+   "Oral": "15-20"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_2Fluoroamphetamine.shtml"
+  },
+  "name": "2-fa",
+  "pretty_name": "2-FA",
+  "properties": {
+   "after-effects": "2-12 hours.",
+   "aliases": [
+    "2-fluoroamphetamine",
+    "2-fmp",
+    "2fa"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 5-15mg Common: 15-30mg Strong: 30-50mg Heavy: 50mg+ | Note: Insufflating does not appear to raise the bioavailability than oral ingestion, and can cause damage to nasal cavities.",
+   "duration": "Oral: 3-5 hours | Insufflated: 1-2 hours",
+   "onset": "Oral: 15-20 minutes | Insufflated: 2-5 minutes",
+   "summary": "Stimulant drug of the amphetamine family. Reported as having effects similar to those of Dextroamphetamine, but with a milder euphoria and a comparatively smoother comedown. Has a shorter duration and less empathogenic effect-profile as compared with 4-FA. Thought to produce less neurotoxic metabolites compared to amphetamine."
+  }
+ }
+}

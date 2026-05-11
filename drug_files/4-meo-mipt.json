@@ -1,0 +1,65 @@
+{
+ "4-meo-mipt": {
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-20mg",
+    "Light": "10mg",
+    "Strong": "20mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-7"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_4MeOMiPT.shtml",
+   "tihkal": "https://www.erowid.org/library/books_online/tihkal/tihkal39.shtml"
+  },
+  "name": "4-meo-mipt",
+  "pretty_name": "4-MeO-MiPT",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Oral Light: 10mg Common: 10-20mg Strong: 20+mg",
+   "duration": "3-7 hours",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "20-60 minutes",
+   "summary": "A rare psychedelic tryptamine first synthesised by Alexander Shulgin, known as the \"little brother\" of 5-MeO-MiPT. There are reports of it to be mild with lighter visual effects than most tryptamines."
+  }
+ }
+}

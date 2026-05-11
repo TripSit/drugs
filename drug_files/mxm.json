@@ -1,0 +1,47 @@
+{
+ "mxm": {
+  "aliases": [
+   "methoxmetamine"
+  ],
+  "categories": [
+   "dissociative",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "dose_note": " NOTE: These dosages are extremely tentative.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "40-60mg",
+    "Light": "20-40mg",
+    "Strong": "60-100mg+",
+    "Threshold": "10-20mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-5"
+  },
+  "name": "mxm",
+  "pretty_name": "MXM",
+  "properties": {
+   "after-effects": "2-4 hours.",
+   "aliases": [
+    "methoxmetamine"
+   ],
+   "avoid": "CNS depressants.",
+   "categories": [
+    "dissociative",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Threshold: 10-20mg Light: 20-40mg Common: 40-60mg Strong: 60-100mg+",
+   "duration": "3-5 hours depending on dose/ROA",
+   "onset": "Varying widely from anectodal reports of 30 minutes up to four hours.",
+   "summary": "A arylcyclohexylamine dissociative anaesthetic closely related to methoxetamine, ketamine, and PCP. It has seen some popularity among drug users, often being advertised as an MXE replacement after its illegalisation in many parts of the world. Anectodal reports indicate a more stimulating experience closer to those associated with PCP and PCP analogues."
+  }
+ }
+}

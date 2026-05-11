@@ -1,0 +1,42 @@
+{
+ "ashwagandha": {
+  "categories": [
+   "depressant",
+   "supplement",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "500-1000mg",
+    "Light": "300-500mg",
+    "Strong": "1000-2000mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-60"
+  },
+  "name": "ashwagandha",
+  "pretty_name": "Ashwagandha",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "categories": [
+    "depressant",
+    "supplement",
+    "common"
+   ],
+   "dose": "Light: 300-500 Common: 500-1000 Strong: 1000-2000",
+   "duration": "6-12 hours.",
+   "onset": "15-60 minutes.",
+   "summary": "Is an Adaptogen. It is commonly used for its ability to prevent anxiety. It also is helpful in relieving insomnia. It's name means \"Smell of Horse\" due to its smell and the traditional belief that ingesting the this herb will give you the strength and virility of a horse."
+  }
+ }
+}

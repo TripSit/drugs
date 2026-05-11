@@ -1,0 +1,43 @@
+{
+ "oxiracetam": {
+  "aliases": [
+   "neuractiv",
+   "neuromet",
+   "hydroxypiracetam"
+  ],
+  "dose_note": " Note: This is for the course over a 24 hour period. 2-3x times daily, such as 400mg-800mg/3x day.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1200-2400mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-30"
+  },
+  "name": "oxiracetam",
+  "pretty_name": "Oxiracetam",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "neuractiv",
+    "neuromet",
+    "hydroxypiracetam"
+   ],
+   "dose": "Common: 1200-2400mg",
+   "duration": "4-6 hours.",
+   "experiences": "https://erowid.org/experiences/subs/exp_Smarts_Oxiracetam.shtml",
+   "note": "The doses listed are for over the course of a 24 hour period. 2-3x daily, such as 400-800mg three times a day.",
+   "onset": "15-30 minutes.",
+   "summary": "Oxiracetam is a racetam nootropic, having a hydroxyl group being the only difference between this and piracetam. It used as a nootropic, namely for increased cognitive function. It is typically used two to three times a day. This substance is typically taken with choline and is reported to cause headaches without the addition of it."
+  }
+ }
+}

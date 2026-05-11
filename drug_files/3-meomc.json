@@ -1,0 +1,38 @@
+{
+ "3-meomc": {
+  "categories": [
+   "stimulant",
+   "habit-forming",
+   "empathogen"
+  ],
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "50-100mg",
+    "Light": "25-50mg",
+    "Strong": "100-150mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-7"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "10-20"
+  },
+  "name": "3-meomc",
+  "pretty_name": "3-MeOMC",
+  "properties": {
+   "avoid": "Other stimulants.",
+   "categories": [
+    "stimulant",
+    "habit-forming",
+    "empathogen"
+   ],
+   "dose": "Insufflated Light: 25-50mg Common: 50-100mg Strong: 100-150mg+",
+   "duration": "5-7 hours.",
+   "onset": "Insufflated: 10-20 minutes.",
+   "summary": "A cathinone that has a short history of human use."
+  }
+ }
+}

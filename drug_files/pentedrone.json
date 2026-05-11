@@ -1,0 +1,58 @@
+{
+ "pentedrone": {
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "5-10mg",
+    "Light": "2-5mg",
+    "Strong": "10-20mg"
+   },
+   "Oral": {
+    "Common": "10-15mg",
+    "Light": "5-10mg",
+    "Strong": "15-25mg"
+   },
+   "Rectal": {
+    "Common": "5-10mg",
+    "Light": "2-5mg",
+    "Strong": "10-20mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "1-4",
+   "Oral": "2-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-10",
+   "Oral": "15-30"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Pentedrone.shtml"
+  },
+  "name": "pentedrone",
+  "pretty_name": "Pentedrone",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "avoid": "All other stimulants.",
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 5-10mg Common: 10-15mg Strong: 15-25mg | Insufflated Light: 2-5mg Common: 5-10mg Strong: 10-20mg | Rectal Light: 2-5mg Common: 5-10mg strong: 10-20mg.",
+   "duration": "Oral: 2-6 hours. | Insufflated: 1-4 hours.",
+   "onset": "Oral: 15-30 minutes. | Insufflated: 5-10 minutes.",
+   "summary": "A potent NDRI cathinone-type stimulant with anectodal reports indicating the drugs effects not to be greatly recreational."
+  }
+ }
+}

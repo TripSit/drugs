@@ -1,0 +1,264 @@
+{
+ "nitrous": {
+  "aliases": [
+   "laughing_gas",
+   "n20",
+   "n2o",
+   "nos",
+   "nitrous oxide",
+   "hippy crack"
+  ],
+  "categories": [
+   "dissociative",
+   "habit-forming",
+   "common"
+  ],
+  "combos": {
+   "2c-t-x": {
+    "status": "Low Risk & Synergy"
+   },
+   "2c-x": {
+    "status": "Low Risk & Synergy"
+   },
+   "5-meo-xxt": {
+    "status": "Low Risk & Synergy"
+   },
+   "alcohol": {
+    "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.",
+    "status": "Caution"
+   },
+   "amphetamines": {
+    "status": "Low Risk & Synergy"
+   },
+   "amt": {
+    "status": "Low Risk & Synergy"
+   },
+   "benzodiazepines": {
+    "status": "Low Risk & Decrease"
+   },
+   "caffeine": {
+    "status": "Low Risk & No Synergy"
+   },
+   "cannabis": {
+    "status": "Low Risk & Synergy"
+   },
+   "cocaine": {
+    "status": "Low Risk & Synergy"
+   },
+   "dextromethorphan": {
+    "status": "Low Risk & Synergy"
+   },
+   "dmt": {
+    "status": "Low Risk & Synergy"
+   },
+   "dox": {
+    "status": "Low Risk & Synergy"
+   },
+   "ghb/gbl": {
+    "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.",
+    "status": "Caution"
+   },
+   "ketamine": {
+    "status": "Low Risk & Synergy"
+   },
+   "lithium": {
+    "note": "We are unable to find a report of concerns for CNS depression caused by Lithium.",
+    "sources": [
+     {
+      "author": "Drugbank",
+      "title": "Lithium Carbonate",
+      "url": "https://go.drugbank.com/drugs/DB14509"
+     }
+    ],
+    "status": "Low Risk & No Synergy"
+   },
+   "lsd": {
+    "status": "Low Risk & Synergy"
+   },
+   "maois": {
+    "status": "Low Risk & No Synergy"
+   },
+   "mdma": {
+    "status": "Low Risk & Synergy"
+   },
+   "mescaline": {
+    "status": "Low Risk & Synergy"
+   },
+   "mushrooms": {
+    "status": "Low Risk & Synergy"
+   },
+   "mxe": {
+    "status": "Low Risk & Synergy"
+   },
+   "nbomes": {
+    "status": "Low Risk & Synergy"
+   },
+   "opioids": {
+    "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.",
+    "status": "Caution"
+   },
+   "pcp": {
+    "status": "Low Risk & Synergy"
+   },
+   "pregabalin": {
+    "note": "Both substances potentiate the ataxia and sedation caused by the other, and may increase the risk of loss of consciousness at higher dosages. While unconscious, vomit aspiration is a risk if not placed in the recovery position. The combination may increase inhibition and risk of injury. Additionally, abuse of nitrous while under the influence of pregabalin may increase the risk of seizures. Medical dosages are unlikely to be a concern.",
+    "sources": [
+     {
+      "author": "Barker-Haliski, M., & White, H. S. (2015)",
+      "title": "Glutamatergic Mechanisms Associated with Seizures and Epilepsy. Cold Spring Harbor Perspectives in Medicine, 5(8), a022863.",
+      "url": "https://doi.org/10.1101/cshperspect.a022863"
+     },
+     {
+      "author": "Ben\u2010Menachem, E. (2004)",
+      "title": "Pregabalin Pharmacology and Its Relevance to Clinical Practice. Epilepsia, 45(s6), 13\u201318.",
+      "url": "https://doi.org/10.1111/j.0013-9580.2004.455003.x"
+     },
+     {
+      "author": "Cross, A. L., Viswanath, O., & Sherman, A. L. (2025)",
+      "title": "Pregabalin. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK470341/"
+     },
+     {
+      "author": "Davidson, L. T. (2023)",
+      "title": "Recreational use of nitrous oxide causes seizure, pneumothorax, pneumomediastinum, and pneumopericardium: nitrous oxide and its harm, a case report. Upsala Journal of Medical Sciences, 128, 10.48101/ujms.v128.10281.",
+      "url": "https://doi.org/10.48101/ujms.v128.10281"
+     },
+     {
+      "author": "French, J., Kwan, P., Fakhoury, T., Pitman, V., DuBrava, S., Knapp, L., & Yurkewicz, L. (2014)",
+      "title": "Pregabalin monotherapy in patients with partial-onset seizures: A historical-controlled trial. Neurology, 82(7), 590\u2013597.",
+      "url": "https://doi.org/10.1212/WNL.0000000000000119"
+     },
+     {
+      "author": "Gayatri, N., & Livingston, J. (2006)",
+      "title": "Aggravation of epilepsy by anti\u2010epileptic drugs. Developmental Medicine & Child Neurology, 48(5), 394\u2013398.",
+      "url": "https://doi.org/10.1017/S0012162206000843"
+     },
+     {
+      "author": "Hitchings, A. W. (2016)",
+      "title": "Drugs that lower the seizure threshold. Adverse Drug Reaction Bulletin, 298(1), 1151\u20131154.",
+      "url": "https://doi.org/10.1097/FAD.0000000000000016"
+     },
+     {
+      "author": "Isoardi, K. Z., Polkinghorne, G., Harris, K., & Isbister, G. K. (2020)",
+      "title": "Pregabalin poisoning and rising recreational use: a retrospective observational series. British Journal of Clinical Pharmacology, 86(12), 2435\u20132440.",
+      "url": "https://doi.org/10.1111/bcp.14348"
+     },
+     {
+      "author": "Knuf, K., & Maani, C. V. (2025)",
+      "title": "Nitrous Oxide. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK532922/"
+     },
+     {
+      "author": "Kumar, N., Laferriere, A., Yu, J. S. C., Leavitt, A., & Coderre, T. J. (2010)",
+      "title": "Evidence that pregabalin reduces neuropathic pain by inhibiting the spinal release of glutamate. Journal of Neurochemistry, 113(2), 552\u2013561.",
+      "url": "https://doi.org/10.1111/j.1471-4159.2010.06625.x"
+     },
+     {
+      "author": "Slocum, G. W., Schult, R. F., Gorodetsky, R. M., Wiegand, T. J., Kamali, M., & Acquisto, N. M. (2018)",
+      "title": "Pregabalin and paradoxical reaction of seizures in a large overdose. Toxicology Communications, 2(1), 19\u201320.",
+      "url": "https://doi.org/10.1080/24734306.2018.1458465"
+     },
+     {
+      "author": "Wagner, S., Clark, M., Wesche, D., Doedens, D., & Lloyd, A. (1992)",
+      "title": "Asphyxial Deaths from the Recreational Use of Nitrous Oxide. Journal of Forensic Sciences, 37(4), 1008\u20131015.",
+      "url": "https://doi.org/10.1520/JFS13286J"
+     }
+    ],
+    "status": "Caution"
+   },
+   "ssris": {
+    "status": "Low Risk & No Synergy"
+   },
+   "tramadol": {
+    "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.",
+    "status": "Caution"
+   }
+  },
+  "formatted_aftereffects": {
+   "_unit": "minutes",
+   "value": "15-30"
+  },
+  "formatted_duration": {
+   "_unit": "minutes",
+   "value": "1-5"
+  },
+  "formatted_effects": [
+   "giggling",
+   "mood lift",
+   "euphoria",
+   "sound distortion",
+   "dream like state",
+   "minor to strong hallucinations",
+   "reduction of external stimuli",
+   "analgesia",
+   "buzzing sensation in nerve",
+   "clumsiness",
+   "nausea",
+   "headaches",
+   "numbness in extremities"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "0-1"
+  },
+  "name": "nitrous",
+  "pretty_name": "N2O",
+  "properties": {
+   "after-effects": "15-30 minutes",
+   "aliases": [
+    "laughing_gas",
+    "n20",
+    "n2o",
+    "nos",
+    "hippy crack"
+   ],
+   "categories": [
+    "dissociative",
+    "habit-forming",
+    "common"
+   ],
+   "duration": "1-5 minutes",
+   "effects": "giggling, mood lift, euphoria, sound distortion, dream like state, minor to strong hallucinations, reduction of external stimuli, analgesia, buzzing sensation in nerve, clumsiness, nausea, headaches, numbness in extremities",
+   "onset": "0-1 minutes",
+   "summary": "Nitrous oxide, also known as laughing gas, is often inhaled through balloons filled with canisters of the gas. The drug is a short-acting dissociative inhalant with strong visual, mental, and auditory effects. The drug is extremely popular especially in combination with other drugs."
+  },
+  "pweffects": {
+   "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+   "Auditory suppression": "https://psychonautwiki.org/wiki/Auditory_suppression",
+   "Changes in felt bodily form": "https://psychonautwiki.org/wiki/Changes_in_felt_bodily_form",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "D\u00e9j\u00e0 vu": "https://psychonautwiki.org/wiki/D%C3%A9j%C3%A0_vu",
+   "Depersonalization": "https://psychonautwiki.org/wiki/Depersonalization",
+   "Derealization": "https://psychonautwiki.org/wiki/Derealization",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Double vision": "https://psychonautwiki.org/wiki/Double_vision",
+   "External hallucinations": "https://psychonautwiki.org/wiki/External_hallucinations",
+   "Frame rate suppression": "https://psychonautwiki.org/wiki/Frame_rate_suppression",
+   "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+   "Headaches": "https://psychonautwiki.org/wiki/Headaches",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Laughter": "https://psychonautwiki.org/wiki/Laughter",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Pattern recognition suppression": "https://psychonautwiki.org/wiki/Pattern_recognition_suppression",
+   "Perception of decreased weight": "https://psychonautwiki.org/wiki/Perception_of_decreased_weight",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Suggestibility enhancement": "https://psychonautwiki.org/wiki/Suggestibility_enhancement",
+   "Tactile suppression": "https://psychonautwiki.org/wiki/Tactile_suppression",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+   "Unity and interconnectedness": "https://psychonautwiki.org/wiki/Unity_and_interconnectedness"
+  },
+  "sources": {
+   "_general": [
+    "Ketamine potentiates cerebrocortical damage induced by the common anaesthetic agent nitrous oxide in adult rats - http://www.ncbi.nlm.nih.gov/pubmed/10928976",
+    "Severe neurotoxicity following intrathecal methotrexate with nitrous oxide sedation in a child with acute lymphoblastic leukemia - http://www.ncbi.nlm.nih.gov/pubmed/25360802",
+    "Neurologic degeneration associated with nitrous oxide anesthesia in patients with vitamin B12 deficiency - http://www.ncbi.nlm.nih.gov/pubmed/8250714"
+   ]
+  }
+ }
+}

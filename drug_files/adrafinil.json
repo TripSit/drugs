@@ -1,0 +1,71 @@
+{
+ "adrafinil": {
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "nootropic"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "250-400mg",
+    "Heavy": "600mg+",
+    "Light": "150-250mg",
+    "Threshold": "100-150mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-12"
+  },
+  "formatted_effects": [
+   "Stimulation",
+   "Dehydration",
+   "Headaches",
+   "Photophobia",
+   "Appetite suppression",
+   "Increased heart rate",
+   "Dizziness",
+   "Nausea",
+   "Body odor alteration",
+   "Wakefulness",
+   "Irritability",
+   "Focus enhancement",
+   "Thought acceleration",
+   "Memory enhancement",
+   "Motivation enhancement",
+   "Emotion enhancement",
+   "Anxiety",
+   "Time distortion",
+   "Increased music appreciation"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-120"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Adrafinil.shtml"
+  },
+  "name": "adrafinil",
+  "pretty_name": "Adrafinil",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "bioavailability": "Oral: 75-80%.",
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "nootropic"
+   ],
+   "dose": "Threshold: 100-150mg Light: 150-250mg Common: 250-400mg Strong:400-600mg Heavy: 600mg+",
+   "duration": "8-12 hours.",
+   "effects": "Stimulation, Dehydration, Headaches, Photophobia, Appetite suppression, Increased heart rate, Dizziness, Nausea, Body odor alteration, Wakefulness, Irritability, Focus enhancement, Thought acceleration, Memory enhancement, Motivation enhancement, Emotion enhancement, Anxiety, Time distortion, Increased music appreciation",
+   "onset": "45-120 minutes depending on stomach contents/etc.",
+   "summary": "A prodrug to modafinil, this compound is often used to increase wakefulness and alertness. Due to hepatic metabolism it has a slower onset than modafinil and may cause liver damage in excess. Some users have reported acne as an adverse effect. Unregulated in the US."
+  }
+ }
+}

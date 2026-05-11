@@ -1,0 +1,36 @@
+{
+ "theobromine": {
+  "formatted_dose": {
+   "Oral": {
+    "Common": "200-300mg",
+    "Heavy": "600mg+",
+    "Light": "100-200mg",
+    "Strong": "300-600mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "30-40"
+  },
+  "formatted_effects": [
+   "elevated heart rate",
+   "vasodilation",
+   "sweating",
+   "trembling",
+   "headaches"
+  ],
+  "formatted_onset": {
+   "_unit": "hours",
+   "value": "2-3"
+  },
+  "name": "theobromine",
+  "pretty_name": "Theobromine",
+  "properties": {
+   "dose": "Light: 100-200mg Common: 200-300mg Strong: 300-600mg Heavy: 600mg+",
+   "duration": "onset: 30-40 minutes duration: 7-12 hours after-effects: 5-12 hours",
+   "effects": "elevated heart rate, vasodilation, sweating, trembling, headaches",
+   "onset": "2-3 hours.",
+   "summary": "Theobromine is the principal bitter alkaloid of the cacao bean. It has been used in various pharmaceutical products as a vasodilator, diuretic, and heart stimulant. Theobromine is consumed in cocoa, chocolate, and in various forms of chocolate-based foods. It is also present in small amounts in green coffee beans, tea, mate, and kola nut."
+  }
+ }
+}

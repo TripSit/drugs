@@ -1,0 +1,110 @@
+{
+ "deschloroketamine": {
+  "aliases": [
+   "2'-oxo-pcm",
+   "dxe",
+   "dck",
+   "o-pcm",
+   "opcm",
+   "2-oxo-pcm"
+  ],
+  "categories": [
+   "dissociative",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "15-25mg",
+    "Heavy": "40+mg.",
+    "Light": "5-15mg",
+    "Strong": "25-40mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "2-20"
+  },
+  "name": "deschloroketamine",
+  "pretty_name": "Deschloroketamine",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "2'-oxo-pcm",
+    "dxe",
+    "dck",
+    "o-pcm",
+    "opcm",
+    "2-oxo-pcm"
+   ],
+   "categories": [
+    "dissociative",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Light: 5-15mg Common: 15-25mg Strong: 25-40mg Heavy: 40+mg.",
+   "duration": "3-6 hours",
+   "onset": "Insufflated: 2-20 minutes.",
+   "summary": "A novel analogue of ketamine which is much more potent and has a longer duration."
+  },
+  "pweffects": {
+   "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+   "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Auditory suppression": "https://psychonautwiki.org/wiki/Auditory_suppression",
+   "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+   "Consciousness disconnection": "https://psychonautwiki.org/wiki/Consciousness_disconnection",
+   "Creativity enhancement": "https://psychonautwiki.org/wiki/Creativity_enhancement",
+   "D\u00e9j\u00e0 vu": "https://psychonautwiki.org/wiki/D%C3%A9j%C3%A0_vu",
+   "Depersonalization": "https://psychonautwiki.org/wiki/Depersonalization",
+   "Derealization": "https://psychonautwiki.org/wiki/Derealization",
+   "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Double vision": "https://psychonautwiki.org/wiki/Double_vision",
+   "Environmental cubism": "https://psychonautwiki.org/wiki/Environmental_cubism",
+   "Environmental orbism": "https://psychonautwiki.org/wiki/Environmental_orbism",
+   "Frame rate suppression": "https://psychonautwiki.org/wiki/Frame_rate_suppression",
+   "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+   "Immersion enhancement": "https://psychonautwiki.org/wiki/Immersion_enhancement",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Language suppression": "https://psychonautwiki.org/wiki/Language_suppression",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Muscle relaxation": "https://psychonautwiki.org/wiki/Muscle_relaxation",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Pattern recognition suppression": "https://psychonautwiki.org/wiki/Pattern_recognition_suppression",
+   "Perception of decreased weight": "https://psychonautwiki.org/wiki/Perception_of_decreased_weight",
+   "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+   "Perspective distortions": "https://psychonautwiki.org/wiki/Perspective_distortions",
+   "Physical autonomy": "https://psychonautwiki.org/wiki/Physical_autonomy",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+   "Scenery slicing": "https://psychonautwiki.org/wiki/Scenery_slicing",
+   "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Tactile disconnection": "https://psychonautwiki.org/wiki/Tactile_disconnection",
+   "Tactile suppression": "https://psychonautwiki.org/wiki/Tactile_suppression",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+   "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+   "Visual disconnection": "https://psychonautwiki.org/wiki/Visual_disconnection",
+   "Visual sliding": "https://psychonautwiki.org/wiki/Visual_sliding"
+  }
+ }
+}

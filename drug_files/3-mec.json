@@ -1,0 +1,51 @@
+{
+ "3-mec": {
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "tentative",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Insufflated": "1-3",
+   "Oral": "2-5"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "50-100mg",
+    "Light": "25-50mg",
+    "Strong": "100-150mg+"
+   },
+   "Oral": {
+    "Common": "100-175mg",
+    "Light": "50-100mg",
+    "Strong": "175-250mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "1-1.5",
+   "Oral": "2-5"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "45-90"
+  },
+  "name": "3-mec",
+  "pretty_name": "3-MEC",
+  "properties": {
+   "after-effects": "Oral: 2-5 hours. | Insufflated: 1-3 hours.",
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "tentative",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 50-100mg Common: 100-175mg Strong: 175-250mg+ | Insufflated: Light: 25-50mg Common: 50-100mg Strong: 100-150mg+",
+   "duration": "Oral: 2-5 hours. | Insufflated: 1-1.5 hours.",
+   "onset": "Oral: 45-90 minutes. Insufflated: 5-15 minutes.",
+   "summary": "Another cathinone based stimulant that is weaker than 4-MEC. There are few reports on this drug and it is said to be unpopular compared to alternatives."
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "ibuprofen": {
+  "categories": [
+   "common"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "400-800mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_onset": {
+   "_unit": "hours",
+   "value": "1"
+  },
+  "name": "ibuprofen",
+  "pretty_name": "Ibuprofen",
+  "properties": {
+   "avoid": "Alcoholic beverages, other NSAIDs.",
+   "categories": [
+    "common"
+   ],
+   "dose": "Common: 400-800mg's.",
+   "duration": "4-6 hours. ER formulations up to 12 hours.",
+   "onset": "within an hour.",
+   "summary": "A ubiquitously available pain reliever/fever reducer. Ibuprofen is a nonsteroidal anti-inflammatory drug that is available in many forms. It is occasionally used to reduce the body-load caused by certain drugs, such as stimulants."
+  },
+  "sources": {
+   "_general": [
+    "Ibuprofen: pharmacology, efficacy and safety - http://www.ncbi.nlm.nih.gov/pubmed/19949916",
+    "Coronary arterial vasodilator effect of ibuprofen - http://www.ncbi.nlm.nih.gov/pubmed/7053413"
+   ]
+  }
+ }
+}

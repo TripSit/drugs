@@ -1,0 +1,63 @@
+{
+ "pentazocine": {
+  "aliases": [
+   "talwin"
+  ],
+  "categories": [
+   "habit-forming",
+   "depressant",
+   "opioid"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Intramuscular": {
+    "Common": "20mg-30mg",
+    "Light": "10-20mg",
+    "Strong": "30-60mg"
+   },
+   "Intravenous": {
+    "Common": "10-20mg",
+    "Light": "5-10mg",
+    "Strong": "30mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Intramuscular": "2-3",
+   "Intravenous": "2-3"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Intramuscular": "15-20",
+   "Intravenous": "2-3"
+  },
+  "name": "pentazocine",
+  "pretty_name": "Pentazocine",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "talwin"
+   ],
+   "avoid": "All other CNS depressants",
+   "bioavailability": "Oral 20%",
+   "categories": [
+    "habit-forming",
+    "depressant",
+    "opioid"
+   ],
+   "dose": "IM Light: 10-20mg Common: 20mg-30mg Strong: 30-60mg (it is strongly recommended not to exceed 60mg) | IV Light: 5-10mg Common: 10-20mg Strong: 30mg (it is strongly recommended not to exceed 30mg)",
+   "duration": "IM: 2-3 hours | IV: 2-3 hours",
+   "onset": "IM 15-20 minutes | IV 2-3 minutes",
+   "summary": "A synthetic opioid used as an analgesic. It is only used IM and IV in the medical field and has respiratory depressant effects. It is pregnancy category C and schedule IV in the US.",
+   "warning": "When mixed with a barbituate in a syringe it will crystallize which can be fatal. Caution is strongly recommended"
+  },
+  "sources": {
+   "_general": [
+    "information for dose duration onset warning and summary - Book - 2015 Jones and Bartlett Nurse's drug handbook fourteenth edition - page 929"
+   ]
+  }
+ }
+}

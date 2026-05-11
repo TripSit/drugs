@@ -1,0 +1,52 @@
+{
+ "1cp-lsd": {
+  "aliases": [
+   "1cplsd",
+   "curie",
+   "1cp"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "6-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50-100ug",
+    "Light": "25-50ug",
+    "Strong": "100-200ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-10"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-90"
+  },
+  "name": "1cp-lsd",
+  "pretty_name": "1CP-LSD",
+  "properties": {
+   "after-effects": "6-24 hours",
+   "aliases": [
+    "1cplsd",
+    "curie",
+    "1cp"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Oral Light: 25-50ug Common: 50-100ug Strong: 100-200ug",
+   "duration": "8-10 hours",
+   "onset": "30-90 minutes",
+   "summary": "1cP-LSD (1-cyclopropionyl-lysergic acid diethylamide) is a novel lysergamide with little to no history of use. It is said to be a less pushy and shorter lasting version of LSD. Described as having a more gradual onset than 1P-LSD, with a less visual more meditative headspace when compared with LSD. *NOTE: This is a very new research chemical - take all info with a grain of salt.*"
+  }
+ }
+}

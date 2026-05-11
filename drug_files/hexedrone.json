@@ -1,0 +1,47 @@
+{
+ "hexedrone": {
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "tentative",
+   "habit-forming"
+  ],
+  "dose_note": " NOTE: These doses are tentative and it is highly recommended to do further research.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "70-100mg",
+    "Light": "50-70mg",
+    "Strong": "100-125mg+",
+    "Threshold": "30-50mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-30"
+  },
+  "name": "hexedrone",
+  "pretty_name": "Hexedrone",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "avoid": "Other stimulants. ",
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "tentative",
+    "habit-forming"
+   ],
+   "dose": "Threshold: 30-50mg Light: 50-70mg Common: 70-100mg Strong: 100-125mg+ | NOTE: These doses are tentative and it is highly recommended to do further research.",
+   "duration": "1-4 hours.",
+   "onset": "15-30 minutes.",
+   "summary": "A rare mephedrone analogue also known as MACP, it is a cathinone stimulant with similar effects to pentedrone."
+  }
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "flurazepam": {
+  "aliases": [
+   "dalmane"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-48"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "15-30mg",
+    "Light": "5-10mg",
+    "Strong": "30-60mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "12-16"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-90"
+  },
+  "name": "flurazepam",
+  "pretty_name": "Flurazepam",
+  "properties": {
+   "after-effects": "2-48 hours.",
+   "aliases": [
+    "dalmane"
+   ],
+   "avoid": "All other CNS depressants.",
+   "bioavailability": "Oral 83%",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Light: 5-10mg Common: 15-30mg Strong: 30-60mg.",
+   "dose_to_diazepam": "Flurazepam - 15-30mg's ~=10mg Diazepam.",
+   "duration": "12-16 hours.",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "45-90 minutes.",
+   "summary": "Benzodiazepine with an extremely long half-life, between 40-250 hours. The drug is typically used for general anxiety disorder, and is reported to be sedating, hypnotic, anxiolytic. The drug may cause effects of amnesia and reduced inhibitions."
+  }
+ }
+}

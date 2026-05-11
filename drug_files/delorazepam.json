@@ -1,0 +1,60 @@
+{
+ "delorazepam": {
+  "aliases": [
+   "nordiclazepam"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant"
+  ],
+  "dose_note": " NOTE: Higher doses increase the chances of blacking out. 1mg Delorazepam is approximately equal to 10mg Diazepam.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "72"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "0.5-1.5mg",
+    "Heavy": "2-3mg",
+    "Light": "0.25-0.5mg",
+    "Strong": "1.5-2mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "12-16"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-60"
+  },
+  "name": "delorazepam",
+  "pretty_name": "Delorazepam",
+  "properties": {
+   "after-effects": "72 hours",
+   "aliases": [
+    "nordiclazepam"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Oral Light: 0.25-0.5mg Common: 0.5-1.5mg Strong: 1.5-2mg Heavy: 2-3mg | NOTE: Higher doses increase the chances of blacking out. 1mg Delorazepam is approximately equal to 10mg Diazepam.",
+   "duration": "12-16 hours",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "30-60 minutes.",
+   "summary": "THe drug is also known as chlordesmethyldiazepam. This uncommon benzodiazepine compound is primarily used for treatment of anxiety disorders and alcohol withdrawal, due to its long half-life (60-140 hours). It is also the active metabolite of diclazepam and cloxazolam."
+  }
+ }
+}

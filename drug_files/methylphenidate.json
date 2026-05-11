@@ -1,0 +1,127 @@
+{
+ "methylphenidate": {
+  "aliases": [
+   "mph",
+   "ritalin",
+   "concerta",
+   "biphentin"
+  ],
+  "categories": [
+   "stimulant",
+   "habit-forming",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "10-20mg",
+    "Heavy": "30mg+",
+    "Light": "5-10mg",
+    "Strong": "20-30mg"
+   },
+   "Oral": {
+    "Common": "10-20mg",
+    "Heavy": "40mg+",
+    "Light": "5-10mg",
+    "Strong": "20-40mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-4",
+   "Oral_ER": "8-12",
+   "Oral_IR": "3-6"
+  },
+  "formatted_effects": [
+   "Increased alertness",
+   "Euphoria",
+   "Increased motivation",
+   "Reduced appetite",
+   "Flushing of the face",
+   "Increased body temperature",
+   "Tachycardia (increased heart rate)",
+   "Paranoia",
+   "Insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-10",
+   "Oral_ER": "30-120",
+   "Oral_IR": "30-120"
+  },
+  "name": "methylphenidate",
+  "pretty_name": "Methylphenidate",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "aliases": [
+    "mph",
+    "ritalin",
+    "concerta",
+    "biphentin"
+   ],
+   "categories": [
+    "stimulant",
+    "habit-forming",
+    "common"
+   ],
+   "dose": "Oral Light: 5-10mg  Common: 10-20mg  Strong: 20-40mg  Heavy: 40mg+ | Insufflated Light: 5-10mg  Common: 10-20mg  Strong: 20-30mg  Heavy: 30mg+",
+   "duration": "Oral-IR: 3-6 hours. | Oral-XR: 8-12 hours. | Insufflated: 2-4 hours. | Note: XR formulations when crushed or otherwise changed become IR before they can be insufflated, so the duration of such is roughly the same as typical IR formulations.",
+   "effects": "Increased alertness, Euphoria, Increased motivation, Reduced appetite, Flushing of the face, Increased body temperature, Tachycardia (increased heart rate), Paranoia, Insomnia.",
+   "marquis": "Moderate orange yellow ",
+   "onset": "Oral-IR: 30-120 minutes | Oral-XR: 30-120 minutes | Insufflated: 5-10 minutes",
+   "summary": "A psychostimulant widely used worldwide as a first-line treatment for ADHD and used in the treatment of narcolepsy. Methylphenidate acts primarily as a norepinephrine\u2013dopamine reuptake inhibitor (NDRI). In many European countries it is commonly prescribed as a first-line option for ADHD where amphetamine-based medications are less frequently used. It has been investigated for off-label use in stimulant dependence, but this is not standard clinical practice.",
+   "warning": "Extended-release (XR/ER/LA/CR) formulations should not be insufflated. Crushing XR products destroys the release mechanism and introduces large amounts of insoluble fillers, significantly increasing nasal irritation and damage without extending effects. If insufflation occurs, effects are immediate-release only."
+  },
+  "pweffects": {
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+   "Appetite suppression": "https://psychonautwiki.org/wiki/Appetite_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Cognitive fatigue": "https://psychonautwiki.org/wiki/Cognitive_fatigue",
+   "Dehydration": "https://psychonautwiki.org/wiki/Dehydration",
+   "Depression": "https://psychonautwiki.org/wiki/Depression",
+   "Focus enhancement": "https://psychonautwiki.org/wiki/Focus_enhancement",
+   "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
+   "Increased perspiration": "https://psychonautwiki.org/wiki/Increased_perspiration",
+   "Irritability": "https://psychonautwiki.org/wiki/Irritability",
+   "Memory enhancement": "https://psychonautwiki.org/wiki/Memory_enhancement",
+   "Motivation enhancement": "https://psychonautwiki.org/wiki/Motivation_enhancement",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Teeth grinding": "https://psychonautwiki.org/wiki/Teeth_grinding",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+   "Thought organization": "https://psychonautwiki.org/wiki/Thought_organization",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  },
+  "sources": {
+   "_general": [
+    "A chemical ionization selected ion monitoring assay for methylphenidate and ritalinic acid - http://www.ncbi.nlm.nih.gov/pubmed/526558",
+    "Panlobular pulmonary emphysema caused by i.v. injection of methylphenidate (Ritalin): findings on chest radiographs and CT scans. - http://www.ncbi.nlm.nih.gov/pubmed/8109495",
+    "Ethylphenidate formation in human subjects after the administration of a single dose of methylphenidate and ethanol. - https://www.ncbi.nlm.nih.gov/pubmed/10820132",
+    "A comparison of methylphenidate-, amphetamine-, and methamphetamine-induced hyperthermia and neurotoxicity in male Sprague-Dawley rats during... - https://www.ncbi.nlm.nih.gov/pubmed/22289608",
+    "Methylphenidate and brain dopamine neurotoxicity. - http://www.ncbi.nlm.nih.gov/pubmed/9365033",
+    "Methylphenidate treatment induces oxidative stress in young rat brain. - http://www.ncbi.nlm.nih.gov/pubmed/16494852",
+    "A comprehensive in vitro screening of d-, l-, and dl-threo-methylphenidate: an exploratory study. - http://www.ncbi.nlm.nih.gov/pubmed/17201613",
+    "Methylphenidate and its ethanol transesterification metabolite ethylphenidate: brain disposition, monoamine transporters and motor activity. - http://www.ncbi.nlm.nih.gov/pubmed/17218796",
+    "Methylphenidate combined with aripiprazole in children and adolescents with bipolar disorder and attention-deficit/hyperactivity disorder - http://www.ncbi.nlm.nih.gov/pubmed/19877980",
+    "Isopropylphenidate: an ester homolog of methylphenidate with sustained and selective dopaminergic activity and reduced drug interaction - http://www.ncbi.nlm.nih.gov/pubmed/24261661",
+    "Object memory impairment at post-drug Day 15 but not at Day 1 after a regimen of repeated treatment with oral methylphenidate. - http://www.ncbi.nlm.nih.gov/pubmed/24631430",
+    "Long Withdrawal of Methylphenidate Induces a Differential Response of the Dopaminergic System and Increases Sensitivity to Cocaine in the Prefrontal Cortex of Spontaneously Hypertensive Rats. - http://www.ncbi.nlm.nih.gov/pubmed/26509840",
+    "A chemical ionization selected ion monitoring assay for methylphenidate and ritalinic acid. - http://www.ncbi.nlm.nih.gov/pubmed/526558",
+    "A comparison of methylphenidate-, amphetamine-, and methamphetamine-induced hyperthermia and neurotoxicity in male Sprague-Dawley rats during the w... - https://www.ncbi.nlm.nih.gov/pubmed/22289608",
+    "Methylphenidate and brain dopamine neurotoxicity. - https://www.ncbi.nlm.nih.gov/pubmed/9365033",
+    "Methylphenidate combined with aripiprazole in children and adolescents with bipolar disorder and attention-deficit/hyperactivity disorder: a random... - http://www.ncbi.nlm.nih.gov/pubmed/19877980",
+    "Long Withdrawal of Methylphenidate Induces a Differential Response of the Dopaminergic System and Increases Sensitivity to Cocaine in the Prefronta... - http://www.ncbi.nlm.nih.gov/pubmed/26509840",
+    "IV use of methylphenidate can lead to infections and abscesses due to the fillers in the medication - http://onlinelibrary.wiley.com/doi/10.1002/hed.2890060409/full",
+    "Pregnancy category C according to the FDA - http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/010187s069,018029s040,021284s011lbl.pdf",
+    "Ritalin (methylphenidate) dosage information for adults and pediatric patients. Describes standard oral dosing, starting doses, titration schedules, and a recommended maximum total daily dose of 60 mg, administered in divided doses. - https://www.drugs.com/dosage/ritalin.html",
+    "NHS guidance on how and when to take methylphenidate for adults. Covers standard tablet dosing, starting doses (5 mg), dose escalation, narcolepsy dosing, and maximum daily dose recommendations, with emphasis on divided dosing. - https://www.nhs.uk/medicines/methylphenidate-adults/how-and-when-to-take-methylphenidate-for-adults/",
+    "Mayo Clinic clinical reference for oral methylphenidate. Provides dosing information for short-acting tablets in adults and children, including typical daily dose ranges, divided administration, and a recommended maximum daily dose of 60 mg. - https://www.mayoclinic.org/drugs-supplements/methylphenidate-oral-route/description/drg-20068297",
+    "Riatlin works on Norepinephrine\u2013dopamine reuptake inhibitor (NDRI) mechanism - https://en.wikipedia.org/wiki/Methylphenidate"
+   ]
+  }
+ }
+}

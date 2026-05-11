@@ -1,0 +1,50 @@
+{
+ "2c-t": {
+  "aliases": [
+   "2ct"
+  ],
+  "categories": [
+   "psychedelic",
+   "empathogen",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "60-90mg",
+    "Light": "50-60mg",
+    "Strong": "90-120mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "25-60"
+  },
+  "name": "2c-t",
+  "pretty_name": "2C-T",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "aliases": [
+    "2ct"
+   ],
+   "categories": [
+    "psychedelic",
+    "empathogen",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Light: 50-60mg Common: 60-90mg Strong: 90-120mg",
+   "duration": "2-6 hours.",
+   "onset": "25-60 minutes.",
+   "summary": "A very rare psychedelic phenylethylamine that many like."
+  }
+ }
+}

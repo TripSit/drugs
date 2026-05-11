@@ -1,0 +1,59 @@
+{
+ "\u03b2h-2c-b": {
+  "aliases": [
+   "beta-hydroxy-2c-b",
+   "bh-2c-b",
+   "bh-2cb",
+   "bohb",
+   "boh-2c-b",
+   "boh-2cb"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "40-60mg",
+    "Heavy": "75mg+",
+    "Light": "25-40mg",
+    "Strong": "60-75mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "7-10"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-50"
+  },
+  "name": "\u03b2h-2c-b",
+  "pretty_name": "\u03b2H-2C-B",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "beta-hydroxy-2c-b",
+    "bh-2c-b",
+    "bh-2cb",
+    "bohb",
+    "boh-2c-b",
+    "boh-2cb"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Light: 25-40mg Common: 40-60mg Strong: 60-75mg Heavy: 75mg+",
+   "duration": "7-10 hours",
+   "onset": "30-50 minutes",
+   "summary": "\u03b2-Hydroxy-2C-B is a novel analogue of 2C-B that is a slightly less potent to 2C-B, and reportedly a longer duration. 2C-B is suspected to be the active metabolite of \u03b2k-2C-B."
+  }
+ }
+}

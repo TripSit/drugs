@@ -1,0 +1,75 @@
+{
+ "25n-nbome": {
+  "aliases": [
+   "2-c-n-nbome",
+   "25n"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Buccal": {
+    "Common": "300-800ug",
+    "Light": "100-300ug",
+    "Strong": "800-1300ug+"
+   },
+   "Sublingual": {
+    "Common": "300-800ug",
+    "Light": "100-300ug",
+    "Strong": "800-1300ug+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-10"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-75"
+  },
+  "name": "25n-nbome",
+  "pretty_name": "25N-NBOMe",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "2-c-n-nbome",
+    "25n"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Sublingual/Buccal Light: 100-300ug Common: 300-800ug Strong: 800-1300ug+",
+   "duration": "5-10 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "45-75 minutes.",
+   "summary": "A rare, highly potent and yellow psychedelic phenethylamine and derivative of 2C-N. Effects are similar to other NBOMe compounds, with hallucinations, intense body load, stimulation, and vasoconstriction. At high doses vasoconstriction can be dangerous, exercise caution.",
+   "test-kits": "Marquis: Red > Brown. | Mecke: Blue > Black. | Mandelin: Blue > Black. | Froehde: Brown. | Liebermann: Brown. | Simon's: Red > Brown. | Ehrlich: No colour change."
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "fasoracetam": {
+  "categories": [
+   "research-chemical",
+   "nootropic",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-10mg",
+    "Light": "2.5-5mg",
+    "Strong": "10-25mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-45"
+  },
+  "name": "fasoracetam",
+  "pretty_name": "Fasoracetam",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "categories": [
+    "research-chemical",
+    "nootropic",
+    "tentative"
+   ],
+   "dose": "Low: 2.5-5mg Common: 5-10mg Strong: 10-25mg.",
+   "duration": "4-8 hours.",
+   "onset": "10-45 minutes.",
+   "summary": "A substance in the racetam family. The drug has been shown to reverse memory impairment caused by baclofen, a potent GABA(B) agonist. It additionally has been shown to inhibit baclofen-induced suppression of cyclic AMP formation. The drug is indicated to have a type of GABA(B) antagonistic action. The drug has been shown to reverse high-affinity choline uptake induced by electrolytic lesions of the basal forebrain and pentobarbital anesthesia. It additionally has indications of having antidepressant activity and through repeated dosage, up-regulation of GABA(B) receptors. Notably, the indications of antidepressant activity were noted to be isolated, not affecting monoamine uptake nor central monoaminergic transmission. In addition to not affecting B-adrenoceptors and 5HT2 receptors. Clinical studies of the drug have failed to show statistical signifigance in treatments for a variety of disorders, but further clinical trials are underway."
+  }
+ }
+}

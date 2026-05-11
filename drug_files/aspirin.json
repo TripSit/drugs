@@ -1,0 +1,46 @@
+{
+ "aspirin": {
+  "aliases": [
+   "acetylsalicylate"
+  ],
+  "categories": [
+   "common"
+  ],
+  "dose_note": " NOTE: Aspirin is known to be dangerous in dosages of 4g and above. The duration is dose dependant: 2-3h (for low doses), 15-30h (for large doses)",
+  "formatted_dose": {
+   "Oral": {
+    "Common": "325mg-650mg",
+    "Heavy": "1.6g",
+    "Light": "75mg-81mg",
+    "Threshold": "50mg"
+   }
+  },
+  "formatted_effects": [
+   "Analgesia",
+   "Antipyresis",
+   "Anti-inflammation",
+   "Antiaggregation"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-90"
+  },
+  "name": "aspirin",
+  "pretty_name": "Aspirin",
+  "properties": {
+   "aliases": [
+    "acetylsalicylate"
+   ],
+   "avoid": "Acetazolamide, Ammonium Chloride, Alcohol, Tolbutamide, Chlorpropamide, Warfarin, Methotrexate, Phenytoin, Probenecid, Valproic Acid, Other NSAIDs, Corticosteroids, Spironolactone, Penicillin G, Vitamin C",
+   "bioavailability": "Oral: 55.8-74%.",
+   "categories": [
+    "common"
+   ],
+   "dose": "Oral Threshold: 50mg Light: 75mg-81mg Common: 325mg-650mg Heavy: 1.6g | NOTE: Aspirin is known to be dangerous in dosages of 4g and above",
+   "duration": "(Dose-Dependent) 2-3h (for low doses), 15-30h (for large doses)",
+   "effects": "Analgesia, Antipyresis, Anti-inflammation, Antiaggregation",
+   "onset": "30-90 minutes.",
+   "summary": "A widely used anti-inflammatory and blood-thinner produced by acetylation of the naturally occurring salicyclic acid. Part of the nonsteroidal anti inflammatory class of drugs, a cyclooxygenase inhibitor. Very common over-the-counter pain reliever and fever reducer. Also used in smaller doses to lower risk of heart attack."
+  }
+ }
+}

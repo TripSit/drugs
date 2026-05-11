@@ -1,0 +1,48 @@
+{
+ "4-ho-dpt": {
+  "aliases": [
+   "4hodpt",
+   "4-hydroxy-n",
+   "n-dipropyltryptamine"
+  ],
+  "categories": [
+   "tentative",
+   "psychedelic",
+   "research-chemical"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50-75mg",
+    "Heavy": "100mg",
+    "Light": "25-50mg",
+    "Strong": "75-100mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-4"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "10-20"
+  },
+  "name": "4-ho-dpt",
+  "pretty_name": "4-HO-DPT",
+  "properties": {
+   "aliases": [
+    "4hodpt",
+    "4-hydroxy-n",
+    "n-dipropyltryptamine"
+   ],
+   "categories": [
+    "tentative",
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Light: 25-50mg Moderate: 50-75mg Strong: 75-100mg Heavy: 100mg +",
+   "duration": "Insufflated: 2-4 hours.",
+   "onset": "Insufflated: 10-20 minutes.",
+   "summary": "A psychedelic hallucinogenic first synthesized by Alexander Shulgin. Light dosages are said to enhance appreciation and mental state, while higher dosages are said to induce visuals. The drug is said to cause a bodyload."
+  }
+ }
+}

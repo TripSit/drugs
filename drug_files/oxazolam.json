@@ -1,0 +1,40 @@
+{
+ "oxazolam": {
+  "categories": [
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-15mg",
+    "Light": "5-10mg",
+    "Strong": "15-30mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-90"
+  },
+  "name": "oxazolam",
+  "pretty_name": "Oxazolam",
+  "properties": {
+   "after-effects": "6-12 hours.",
+   "categories": [
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Light: 5-10mg Common: 10-15mg Strong: 15-30mg+",
+   "duration": "6-12 hours.",
+   "onset": "30-90 minutes.",
+   "summary": "A benzodiazepine derivative that is a prodrug for desmethyldiazepam."
+  }
+ }
+}

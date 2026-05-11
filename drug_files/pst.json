@@ -1,0 +1,44 @@
+{
+ "pst": {
+  "aliases": [
+   "poppy-seed-tea",
+   "poppy-tea"
+  ],
+  "categories": [
+   "opioid",
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-30"
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "8-24"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-90"
+  },
+  "name": "pst",
+  "pretty_name": "PST",
+  "properties": {
+   "after-effects": "1-30 hours.",
+   "aliases": [
+    "poppy-seed-tea",
+    "poppy-tea"
+   ],
+   "avoid": "All CNS depressants.",
+   "categories": [
+    "opioid",
+    "depressant",
+    "habit-forming"
+   ],
+   "duration": "Oral: 8-24 hours. | Note: Higher doses will typically last roughly 18-24 hours. Lower doses are reported to last shorter periods of time.",
+   "note": "The doses of this are very inconsistent. Use with caution.",
+   "onset": "30-90 minutes.",
+   "summary": "Poppy tea can be made from poppy pods, stalks, and seeds. It contains various opium alkaloids primarily including morphine, as well as codeine and among others. There is great variation in poppy tea potency and therefore doses are indicated for opioid naive users. There are many reports of overdoses due to inconsistent, unpredicable, dosing."
+  }
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "kanna": {
+  "categories": [
+   "habit-forming",
+   "depressant"
+  ],
+  "dose_note": " Note: We recommend against insufflating this substance, it is extremely painful and damaging to the nasal cavity.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "20-50mg",
+    "Light": "10-20mg",
+    "Strong": "50-150mg+"
+   },
+   "Oral": {
+    "Common": "500-1000mg",
+    "Light": "250-500mg",
+    "Strong": "1000-2000mg"
+   },
+   "Vapourized": {
+    "Common": "50-100mg",
+    "Light": "30-50mg",
+    "Strong": "100-250mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "minutes",
+   "Insufflated": "60-150",
+   "Oral": "180-360",
+   "Vapourized": "90-150"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-10",
+   "Oral": "30-90",
+   "Smoked": "1-2"
+  },
+  "name": "kanna",
+  "pretty_name": "Kanna",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "avoid": "Other CNS depressants.",
+   "categories": [
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Oral Light: 250-500mg Common: 500-1000mg Strong: 1000-2000mg | Insufflated Light: 10-20mg Common: 20-50mg Strong: 50-150mg+ | Vapourized Light: 30-50mg Common:  50-100mg Strong: 100-250mg. | Note: We recommend against insufflating this substance, it is extremely painful and damaging to the nasal cavity.",
+   "duration": "Oral 180-360 minutes. | Insufflated: 60-150 minutes. | Vapourized: 90-150 minutes",
+   "onset": "Oral: 30-90 minutes. | Smoking: 1-2 minutes. | Insufflated: 5-10 minutes.",
+   "summary": "A South African plant containing numerous psychoactive alkaloids, including mesembrine and mesembrenone. The first written account of the substance was in 1662. The pharmacology of these compounds is poorly understood, but they are suspected to be serotonin uptake inhibitors and potentially monoamine releasers. The drug is reported to suppress appetite, produce mild euphoria and reduce anxiety."
+  }
+ }
+}

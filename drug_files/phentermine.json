@@ -1,0 +1,35 @@
+{
+ "phentermine": {
+  "categories": [
+   "stimulant",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-10"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-40mg",
+    "Light": "15-20mg",
+    "Strong": "40-70mg"
+   }
+  },
+  "formatted_onset": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "name": "phentermine",
+  "pretty_name": "Phentermine",
+  "properties": {
+   "after-effects": "1-10 hours.",
+   "categories": [
+    "stimulant",
+    "tentative"
+   ],
+   "dose": "Low: 15-20mg Common: 20-40mg Strong: 40-70mg's.",
+   "onset": "4-6 hours.",
+   "summary": "Psychostimulant of the substituted amphetamine class. The drug is used medically as an appetite suppressant."
+  }
+ }
+}

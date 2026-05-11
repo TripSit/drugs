@@ -1,0 +1,50 @@
+{
+ "3-meo-pcpy": {
+  "categories": [
+   "dissociative",
+   "habit-forming",
+   "tentative",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "3-6mg",
+    "Light": "1-3mg",
+    "Strong": "6-10mg+"
+   },
+   "Oral": {
+    "Common": "4-8mg",
+    "Light": "2-4mg",
+    "Strong": "8-15mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "3-5"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "15-45"
+  },
+  "name": "3-meo-pcpy",
+  "pretty_name": "3-MeO-PCPY",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "dissociative",
+    "habit-forming",
+    "tentative",
+    "research-chemical"
+   ],
+   "dose": "Oral Light: 2-4mg Common: 4-8mg Strong: 8-15mg+ | Insufflated Light: 1-3mg Common: 3-6mg Strong: 6-10mg+",
+   "duration": "Oral: 3-5 hours. Insufflated: 2-4 hours.",
+   "onset": "Oral: 15-45 minutes. Insufflated: 5-20 minutes.",
+   "summary": "3-Methoxy analogue of Rolicyclidine (PCPy) and less opioid effects than Phenylcyclidine (PCP) - Yet it is still prominent."
+  }
+ }
+}

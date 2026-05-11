@@ -1,0 +1,592 @@
+{
+ "lithium": {
+  "combos": {
+   "2c-t-x": {
+    "note": "There are a large number of reports indicating a high seizure and psychosis risk from this combination.",
+    "sources": [
+     {
+      "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+      "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+      "url": "https://doi.org/10.1055/a-1524-2794"
+     },
+     {
+      "author": "Erowid",
+      "title": "Erowid Interactions",
+      "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+     },
+     {
+      "author": "freshboi88",
+      "title": "I Was Only on One Dose",
+      "url": "https://erowid.org/experiences/exp.php?ID=93681"
+     },
+     {
+      "author": "YouWerentYouAnymore",
+      "title": "Brought My Worst Thoughts to Life",
+      "url": "https://erowid.org/experiences/exp.php?ID=110780"
+     },
+     {
+      "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+      "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+      "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "2c-x": {
+    "note": "There are a large number of reports indicating a high seizure and psychosis risk from this combination.",
+    "sources": [
+     {
+      "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+      "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+      "url": "https://doi.org/10.1055/a-1524-2794"
+     },
+     {
+      "author": "Erowid",
+      "title": "Erowid Interactions",
+      "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+     },
+     {
+      "author": "freshboi88",
+      "title": "I Was Only on One Dose",
+      "url": "https://erowid.org/experiences/exp.php?ID=93681"
+     },
+     {
+      "author": "YouWerentYouAnymore",
+      "title": "Brought My Worst Thoughts to Life",
+      "url": "https://erowid.org/experiences/exp.php?ID=110780"
+     },
+     {
+      "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+      "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+      "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "cocaine": {
+    "note": "Lithium may inhibit some of the recreational effects of cocaine.",
+    "sources": [
+     {
+      "author": "Flemenbaum, A.",
+      "title": "Antagonism of behavioral effects of cocaine by lithium. (1977)",
+      "url": "https://doi.org/10.1016/0091-3057(77)90015-6"
+     },
+     {
+      "author": "Cronson, A. J., & Flemenbaum, A.",
+      "title": "Antagonism of Cocaine Highs by Lithium. (1981)",
+      "url": "https://doi.org/10.1007/978-1-4684-3614-3_132"
+     }
+    ],
+    "status": "Low Risk & Decrease"
+   },
+   "dextromethorphan": {
+    "note": "There is a risk of serotonin syndrome when combining Lithium with DXM.",
+    "sources": [
+     {
+      "author": "Lenox, R. H., & Hahn, C. G.",
+      "title": "Overview of the mechanism of action of lithium in the brain: fifty-year update (2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10826655/"
+     },
+     {
+      "author": "Shahani, L.",
+      "title": "Venlafaxine Augmentation With Lithium Leading to Serotonin Syndrome (2012)",
+      "url": "https://doi.org/10.1176/appi.neuropsych.11080196"
+     },
+     {
+      "author": "DeBattista, C., Sofuoglu, M., & Schatzberg, A. F.",
+      "title": "Serotonergic synergism: the risks and benefits of combining the selective serotonin reuptake inhibitors with other serotonergic drugs (1998)",
+      "url": "https://doi.org/10.1016/s0006-3223(98)00161-9"
+     },
+     {
+      "author": "Massot, O.",
+      "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders (1999)",
+      "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+     },
+     {
+      "author": "Navarro, A., Perry, C., & Bobo, W. V.",
+      "title": "A case of serotonin syndrome precipitated by abuse of the anticough remedy dextromethorphan in a bipolar patient treated with fluoxetine and lithium. (2006)",
+      "url": "https://doi.org/10.1016/j.genhosppsych.2005.06.008"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "diphenhydramine": {
+    "note": "There is a concern of serotonin syndrome at higher dosages of this combination. Caution is recommended in restricting diphenhydramine to medical dosages (25-50mg). Lithium and diphenhydramine both have concerns of QT prolongation which may be increased when taken in combination; risks increase due to a variety of factors such as the health of the user and drug dosages. Additionally, the combination may increase each drug's side effects, such as dizziness and loss of consciousness.",
+    "sources": [
+     {
+      "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M.",
+      "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027. (2025)",
+      "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+     },
+     {
+      "author": "Crouch, M. A., Limon, L., & Cassano, A. T.",
+      "title": "Clinical Relevance and Management of Drug\u2010Related QT Interval Prolongation. Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy, 23(7), 881\u2013908. (2003)",
+      "url": "https://doi.org/10.1592/phco.23.7.881.32730"
+     },
+     {
+      "author": "Farzam, K., & Tivakaran, V. S.",
+      "title": "QT Prolonging Drugs. In StatPearls. StatPearls Publishing. (2025)",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK534864/"
+     },
+     {
+      "author": "Finley, P. R.",
+      "title": "Drug Interactions with Lithium: An Update. Clinical Pharmacokinetics, 55(8), 925\u2013941. (2016)",
+      "url": "https://doi.org/10.1007/s40262-016-0370-y"
+     },
+     {
+      "author": "Hawley, C. J., Loughlin, P. J., Quick, S. J., Gale, T. M., Sivakumaran, T., Hayes, J., & McPhee, S.",
+      "title": "Efficacy, safety and tolerability of combined administration of lithium and selective serotonin reuptake inhibitors: a review of the current evidence. International Clinical Psychopharmacology, 15(4), 197\u2013206. (2000)",
+      "url": "https://doi.org/10.1097/00004850-200015040-00002"
+     },
+     {
+      "author": "Husain, Z., Hussain, K., Nair, R., & Steinman, R.",
+      "title": "Diphenhydramine induced QT prolongation and torsade de pointes: An uncommon effect of a common drug. Cardiology Journal, 17(5), 509\u2013511. (2010)",
+      "url": "https://journals.viamedica.pl/cardiology_journal/article/view/21341"
+     },
+     {
+      "author": "Khan, S., Saud, S., Khan, I., Asif, M., Ismail, O., Salam, A., Yang, T. J., & Norville, K. J.",
+      "title": "Serotonin Syndrome Presenting with Concomitant Tramadol and Diphenhydramine Use: A Case Report of an Unlikely Side-Effect. Cureus. (2018)",
+      "url": "https://doi.org/10.7759/cureus.2421"
+     },
+     {
+      "author": "Massot, O., Rousselle, J.-C., Fillion, M.-P., Januel, D., Plantefol, M., & Fillion, G.",
+      "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders. Neuropsychopharmacology, 21(4), 530\u2013541. (1999)",
+      "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+     },
+     {
+      "author": "Mehta, N., & Vannozzi, R.",
+      "title": "Lithium\u2010induced electrocardiographic changes: A complete review. Clinical Cardiology, 40(12), 1363\u20131367. (2017)",
+      "url": "https://doi.org/10.1002/clc.22822"
+     },
+     {
+      "author": "M\u00fcller-Oerlinghausen, B.",
+      "title": "Drug Interactions with Lithium: A Guide for Clinicians. CNS Drugs, 11(1), 41\u201348. (1999)",
+      "url": "https://doi.org/10.2165/00023210-199911010-00004"
+     },
+     {
+      "author": "Rosenberg, A. E., Wang, R., & Rosenberg, M. H.",
+      "title": "Serotonin Syndrome Associated With High-dose Diphenhydramine Use Complicating Abdominoplasty and Mastopexy. Plastic and Reconstructive Surgery - Global Open, 13(3), e6634. (2025)",
+      "url": "https://doi.org/10.1097/GOX.0000000000006634"
+     },
+     {
+      "author": "Truedson, P., Ott, M., Lindmark, K., Str\u00f6m, M., Maripuu, M., Lundqvist, R., & Werneke, U.",
+      "title": "Effects of Toxic Lithium Levels on ECG\u2014Findings from the LiSIE Retrospective Cohort Study. Journal of Clinical Medicine, 11(19), 5941. (2022)",
+      "url": "https://doi.org/10.3390/jcm11195941"
+     }
+    ],
+    "status": "Caution"
+   },
+   "dmt": {
+    "note": "There are a large number of reports indicating a high seizure and psychosis risk from this combination.",
+    "sources": [
+     {
+      "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+      "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+      "url": "https://doi.org/10.1055/a-1524-2794"
+     },
+     {
+      "author": "Erowid",
+      "title": "Erowid Interactions",
+      "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+     },
+     {
+      "author": "freshboi88",
+      "title": "I Was Only on One Dose",
+      "url": "https://erowid.org/experiences/exp.php?ID=93681"
+     },
+     {
+      "author": "YouWerentYouAnymore",
+      "title": "Brought My Worst Thoughts to Life",
+      "url": "https://erowid.org/experiences/exp.php?ID=110780"
+     },
+     {
+      "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+      "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+      "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "dox": {
+    "note": "There are a large number of reports indicating a high seizure and psychosis risk from this combination.",
+    "sources": [
+     {
+      "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+      "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+      "url": "https://doi.org/10.1055/a-1524-2794"
+     },
+     {
+      "author": "Erowid",
+      "title": "Erowid Interactions",
+      "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+     },
+     {
+      "author": "freshboi88",
+      "title": "I Was Only on One Dose",
+      "url": "https://erowid.org/experiences/exp.php?ID=93681"
+     },
+     {
+      "author": "YouWerentYouAnymore",
+      "title": "Brought My Worst Thoughts to Life",
+      "url": "https://erowid.org/experiences/exp.php?ID=110780"
+     },
+     {
+      "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+      "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+      "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "ketamine": {
+    "note": "Lithium may enhance and prolong the antidepressant effects of ketamine.",
+    "sources": [
+     {
+      "author": "Costi, S., Soleimani, L., Glasgow, A., Brallier, J., Spivack, J., Schwartz, J., Levitch, C. F., Richards, S., Hoch, M., Stade, E. C., Welch, A., Collins, K. A., Feder, A., Iosifescu, D. V., Charney, D. S., & Murrough, J. W. (2019)",
+      "title": "Lithium continuation therapy following ketamine in patients with treatment resistant unipolar depression: a randomized controlled trial. Neuropsychopharmacology, 44(10), 1812\u20131819.",
+      "url": "https://doi.org/10.1038/s41386-019-0365-0"
+     },
+     {
+      "author": "Diazgranados, N., Ibrahim, L., Brutsche, N. E., Newberg, A., Kronstein, P., Khalife, S., Kammerer, W. A., Quezado, Z., Luckenbaugh, D. A., Salvadore, G., Machado-Vieira, R., Manji, H. K., & Zarate, C. A. (2010)",
+      "title": "A Randomized Add-on Trial of an N-methyl-D-aspartate Antagonist in Treatment-Resistant Bipolar Depression. Archives of General Psychiatry, 67(8), 793.",
+      "url": "https://doi.org/10.1001/archgenpsychiatry.2010.90"
+     },
+     {
+      "author": "Price, J. B., Yates, C. G., Morath, B. A., Van De Wakker, S. K., Yates, N. J., Butters, K., Frye, M. A., McGee, S. L., & Tye, S. J. (2021)",
+      "title": "Lithium augmentation of ketamine increases insulin signaling and antidepressant-like active stress coping in a rodent model of treatment-resistant depression. Translational Psychiatry, 11(1), 1\u201312.",
+      "url": "https://doi.org/10.1038/s41398-021-01716-w"
+     },
+     {
+      "author": "Scheuing, L., Chiu, C.-T., Liao, H.-M., & Chuang, D.-M. (2015)",
+      "title": "Antidepressant mechanism of ketamine: perspective from preclinical studies. Frontiers in Neuroscience, 9.",
+      "url": "https://doi.org/10.3389/fnins.2015.00249"
+     },
+     {
+      "author": "Toulany, J., Cunningham, J. E. A., & Nunes, A. (2025)",
+      "title": "Overlap and Divergence in Ketamine and Lithium Response in Bipolar Disorder: A Scoping Review. Pharmaceuticals, 18(11), 1662.",
+      "url": "https://doi.org/10.3390/ph18111662"
+     },
+     {
+      "author": "Wilkowska, A., Sza\u0142ach, \u0141., & Cuba\u0142a, W. J. (2020)",
+      "title": "Ketamine in Bipolar Disorder: A Review. Neuropsychiatric Disease and Treatment, 16, 2707\u20132717.",
+      "url": "https://doi.org/10.2147/NDT.S282208"
+     }
+    ],
+    "status": "Low Risk & No Synergy"
+   },
+   "lithium": {
+    "note": "There is a risk of serotonin syndrome when combining Lithium with MXE, as Lithium can induce serotonin syndrome in conjunction with other serotonergic drugs, and MXE has shown a notable affinity for the serotonin transporter.",
+    "sources": [
+     {
+      "author": "Lenox, R. H., & Hahn, C. G.",
+      "title": "Overview of the mechanism of action of lithium in the brain: fifty-year update (2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10826655/"
+     },
+     {
+      "author": "Shahani, L.",
+      "title": "Venlafaxine Augmentation With Lithium Leading to Serotonin Syndrome (2012)",
+      "url": "https://doi.org/10.1176/appi.neuropsych.11080196"
+     },
+     {
+      "author": "DeBattista, C., Sofuoglu, M., & Schatzberg, A. F.",
+      "title": "Serotonergic synergism: the risks and benefits of combining the selective serotonin reuptake inhibitors with other serotonergic drugs (1998)",
+      "url": "https://doi.org/10.1016/S0006-3223(98)00161-9"
+     },
+     {
+      "author": "Massot, O.",
+      "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders (1999)",
+      "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+     },
+     {
+      "author": "Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., & Iversen, L.",
+      "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor (2013)",
+      "url": "https://doi.org/10.1371/journal.pone.0059334"
+     },
+     {
+      "author": "Marti, M., Talani, G., Miliano, C., Bilel, S., Biggio, F., Bratzu, J., Diana, M., De Luca, M. A., & Fattore, L.",
+      "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat (2021)",
+      "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "lsd": {
+    "note": "There are a large number of reports indicating a high seizure and psychosis risk from this combination.",
+    "sources": [
+     {
+      "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+      "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+      "url": "https://doi.org/10.1055/a-1524-2794"
+     },
+     {
+      "author": "Erowid",
+      "title": "Erowid Interactions",
+      "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+     },
+     {
+      "author": "freshboi88",
+      "title": "I Was Only on One Dose",
+      "url": "https://erowid.org/experiences/exp.php?ID=93681"
+     },
+     {
+      "author": "YouWerentYouAnymore",
+      "title": "Brought My Worst Thoughts to Life",
+      "url": "https://erowid.org/experiences/exp.php?ID=110780"
+     },
+     {
+      "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+      "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+      "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+     },
+     {
+      "author": "Edwards, C., Van Gerpen, S., & Anand, V.",
+      "title": "New-Onset Seizures in an Adolescent Following Use of LSD while on Low-Dose Lithium Therapy: A Case Study. (2024)",
+      "url": "https://doi.org/10.1177%2F1941874414528939"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "mdma": {
+    "note": "High risk of serotonin syndrome",
+    "sources": [
+     {
+      "author": "Lokesh Shahani",
+      "title": "Venlafaxine Augmentation With Lithium Leading to Serotonin Syndrome",
+      "url": "https://doi.org/10.1176/appi.neuropsych.11080196"
+     },
+     {
+      "author": "Charles DeBattista, Mehmet Sofuoglu, and Alan F. Schatzberg",
+      "title": "Serotonergic Synergism: The Risks and Benefits of Combining the Selective Serotonin Reuptake Inhibitors with Other Serotonergic Drugs",
+      "url": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(98)00161-9/pdf"
+     },
+     {
+      "author": "Olivier Massot Ph.D, Jean-Claude Rousselle Ph.D, Marie-Paule Fillion MSc, Dominique Januel MD, Mathieu Plantefol MSc & Gilles Fillion Ph.D ",
+      "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders",
+      "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+     },
+     {
+      "author": "Philip J. Cowen",
+      "title": "New drugs, old problems: Revisiting\u2026 Pharmacological management of treatment-resistant depression",
+      "url": "https://doi.org/10.1192/apt.11.1.19"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "mescaline": {
+    "note": "There are a large number of reports indicating a high seizure and psychosis risk from this combination.",
+    "sources": [
+     {
+      "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+      "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+      "url": "https://doi.org/10.1055/a-1524-2794"
+     },
+     {
+      "author": "Erowid",
+      "title": "Erowid Interactions",
+      "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+     },
+     {
+      "author": "freshboi88",
+      "title": "I Was Only on One Dose",
+      "url": "https://erowid.org/experiences/exp.php?ID=93681"
+     },
+     {
+      "author": "YouWerentYouAnymore",
+      "title": "Brought My Worst Thoughts to Life",
+      "url": "https://erowid.org/experiences/exp.php?ID=110780"
+     },
+     {
+      "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+      "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+      "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "mushrooms": {
+    "note": "There are a large number of reports indicating a high seizure and psychosis risk from this combination.",
+    "sources": [
+     {
+      "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+      "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+      "url": "https://doi.org/10.1055/a-1524-2794"
+     },
+     {
+      "author": "Erowid",
+      "title": "Erowid Interactions",
+      "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+     },
+     {
+      "author": "freshboi88",
+      "title": "I Was Only on One Dose",
+      "url": "https://erowid.org/experiences/exp.php?ID=93681"
+     },
+     {
+      "author": "YouWerentYouAnymore",
+      "title": "Brought My Worst Thoughts to Life",
+      "url": "https://erowid.org/experiences/exp.php?ID=110780"
+     },
+     {
+      "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+      "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+      "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "mxe": {
+    "note": "There is a risk of serotonin syndrome when combining Lithium with MXE, as Lithium can induce serotonin syndrome in conjunction with other serotonergic drugs, and MXE has shown a notable affinity for the serotonin transporter.",
+    "sources": [
+     {
+      "author": "Lenox, R. H., & Hahn, C. G.",
+      "title": "Overview of the mechanism of action of lithium in the brain: fifty-year update (2000)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10826655/"
+     },
+     {
+      "author": "Shahani, L.",
+      "title": "Venlafaxine Augmentation With Lithium Leading to Serotonin Syndrome (2012)",
+      "url": "https://doi.org/10.1176/appi.neuropsych.11080196"
+     },
+     {
+      "author": "DeBattista, C., Sofuoglu, M., & Schatzberg, A. F.",
+      "title": "Serotonergic synergism: the risks and benefits of combining the selective serotonin reuptake inhibitors with other serotonergic drugs (1998)",
+      "url": "https://doi.org/10.1016/S0006-3223(98)00161-9"
+     },
+     {
+      "author": "Massot, O.",
+      "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders (1999)",
+      "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+     },
+     {
+      "author": "Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., & Iversen, L.",
+      "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor (2013)",
+      "url": "https://doi.org/10.1371/journal.pone.0059334"
+     },
+     {
+      "author": "Marti, M., Talani, G., Miliano, C., Bilel, S., Biggio, F., Bratzu, J., Diana, M., De Luca, M. A., & Fattore, L.",
+      "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat (2021)",
+      "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "nbomes": {
+    "note": "There are a large number of reports indicating a high seizure and psychosis risk from this combination.",
+    "sources": [
+     {
+      "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+      "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+      "url": "https://doi.org/10.1055/a-1524-2794"
+     },
+     {
+      "author": "Erowid",
+      "title": "Erowid Interactions",
+      "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+     },
+     {
+      "author": "freshboi88",
+      "title": "I Was Only on One Dose",
+      "url": "https://erowid.org/experiences/exp.php?ID=93681"
+     },
+     {
+      "author": "YouWerentYouAnymore",
+      "title": "Brought My Worst Thoughts to Life",
+      "url": "https://erowid.org/experiences/exp.php?ID=110780"
+     },
+     {
+      "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+      "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+      "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+     },
+     {
+      "author": "Umemura, Y., Andrew, T. A., Jacobs, V. L., Giustini, A. J., Lewis, L. D., & Filiano, J. J.",
+      "title": "Fatal 251-NBOMe Intoxication: A New Recreational Risk. (2015)",
+      "url": "https://doi.org/10.23907/2015.009"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "nitrous": {
+    "note": "We are unable to find a report of concerns for CNS depression caused by Lithium.",
+    "sources": [
+     {
+      "author": "Drugbank",
+      "title": "Lithium Carbonate",
+      "url": "https://go.drugbank.com/drugs/DB14509"
+     }
+    ],
+    "status": "Low Risk & No Synergy"
+   },
+   "ssris": {
+    "note": "This interaction is used in medical settings without reported issues. If this combination is taken, caution would be recommended if any other drugs are planned to be taken on top of these that may have serotonergic activity.",
+    "sources": [
+     {
+      "author": "Finley, P. R.",
+      "title": "Drug Interactions with Lithium: An Update. (2016)",
+      "url": "https://doi.org/10.1007/s40262-016-0370-y"
+     },
+     {
+      "author": "Hawley CJ, Loughlin PJ, Quick SJ, Gale TM, Sivakumaran T, Hayes J, McPhee S.",
+      "title": "Efficacy, safety and tolerability of combined administration of lithium and selective serotonin reuptake inhibitors: a review of the current evidence. (2000)",
+      "url": "https://doi.org/10.1097/00004850-200015040-00002"
+     },
+     {
+      "author": "M\u00fcller-Oerlinghausen, B.",
+      "title": "Drug Interactions with Lithium. (1999)",
+      "url": "https://doi.org/10.2165/00023210-199911010-00004"
+     },
+     {
+      "author": "Bauer, Michael PhD, MD; Linden, Michael MD; Schaaf, Berthold; Weber, Hans J. MD.",
+      "title": "Adverse Events and Tolerability of the Combination of Fluoxetine/Lithium Compared With Fluoxetine. (1996)",
+      "url": "https://doi.org/10.1097/00004714-199604000-00005"
+     }
+    ],
+    "status": "Low Risk & No Synergy"
+   },
+   "tramadol": {
+    "note": "Tramadol and Lithium both increase the risk of seizures and serotonin syndrome.",
+    "sources": [
+     {
+      "author": "Steven C. Julius, Richard P. Brenner",
+      "title": "Myoclonic seizures with lithium",
+      "url": "https://doi.org/10.1016/0006-3223(87)90026-6"
+     },
+     {
+      "author": "Charles DeBattista, Mehmet Sofuoglu, and Alan F. Schatzberg",
+      "title": "Serotonergic Synergism: The Risks and Benefits of Combining the Selective Serotonin Reuptake Inhibitors with Other Serotonergic Drugs",
+      "url": "https://doi.org/10.1016/s0006-3223(98)00161-9"
+     },
+     {
+      "author": "Massot, O., Rousselle, JC., Fillion, MP. et al.",
+      "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders",
+      "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+     },
+     {
+      "author": "Sameer Hassamal, Karen Miotto, William Dale, Itai Danovitch ",
+      "title": "Tramadol: Understanding the Risk of Serotonin Syndrome and Seizures",
+      "url": "https://doi.org/10.1016/j.amjmed.2018.04.025"
+     },
+     {
+      "author": "Boostani R, Derakhshan S.",
+      "title": "Tramadol induced seizure: A 3-year study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24009919/"
+     },
+     {
+      "author": "Lagard, C.; Vodovar, D.; Chevillard, L.; Callebert, J.; Caill\u00e9, F.; Pottier, G.; Liang, H.; Ris\u00e8de, P.; Tournier, N.; M\u00e9garbane, B.",
+      "title": "Investigation of the Mechanisms of Tramadol-Induced Seizures in Overdose in the Rat ",
+      "url": "https://doi.org/10.3390/ph15101254 "
+     },
+     {
+      "author": "Sansone RA, Sansone LA.",
+      "title": "Tramadol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19724727"
+     }
+    ],
+    "status": "Dangerous"
+   }
+  },
+  "name": "lithium",
+  "pretty_name": "Lithium",
+  "properties": {}
+ }
+}

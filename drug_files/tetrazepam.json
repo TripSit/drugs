@@ -1,0 +1,43 @@
+{
+ "tetrazepam": {
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50-100mg",
+    "Light": "25-50mg",
+    "Strong": "100-200mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "6-10"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "15-35"
+  },
+  "name": "tetrazepam",
+  "pretty_name": "Tetrazepam",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Light: 25-50mg Common: 50-100mg Strong: 100-200mg+",
+   "duration": "Oral: 6-10 hours.",
+   "onset": "Oral: 15-35 minutes.",
+   "summary": "A benzodiazepine that has anticonvulsant, anxiolytic, muscle relaxant, and slightly hypnotic properties. The drug was taken off the market in 2013 due to cutaneous toxicity and allergic reactions, among other reasons. The drug has been noted to be more euphoric than similar ones of it's type."
+  }
+ }
+}

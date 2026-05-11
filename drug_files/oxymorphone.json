@@ -1,0 +1,77 @@
+{
+ "oxymorphone": {
+  "aliases": [
+   "opana",
+   "stopsigns"
+  ],
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "4-6mg",
+    "Heavy": "6-10mg+",
+    "Light": "2-4mg"
+   },
+   "Oral": {
+    "Common": "10-20mg",
+    "Heavy": "20mg+",
+    "Light": "5-7.5mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "5-8",
+   "Intravenous": "2-4",
+   "Oral_ER": "6-14",
+   "Oral_IR": "4-8",
+   "Rectal": "4-7"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil constriction",
+   "Analgesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "1-5",
+   "Intravenous": "0-1",
+   "Oral_ER": "60-90",
+   "Oral_IR": "20-40",
+   "Rectal": "15-30"
+  },
+  "name": "oxymorphone",
+  "pretty_name": "Oxymorphone",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "opana",
+    "stopsigns"
+   ],
+   "avoid": "All other CNS depressants.",
+   "bioavailability": "Intranasal: 43%, Oral: 10-20%, Rectal: 10%",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Oral Low: 5-7.5mg Common: 10-20mg  Heavy: 20mg+ | Insufflated Low: 2-4mg Common: 4-6mg Heavy: 6-10mg+",
+   "duration": "Oral_IR: 4-8 hours | Oral_ER: 6-14 hours | Insufflated 5-8 hours | Plugged: 4-7 hours | IV: 2-4 hours. | Note: Tolerance + contents in your stomach can cause this to be quite different.",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
+   "onset": "Oral_IR: 20-40 minutes | Oral_ER: 60-90 minutes. | Insufflated: 1-5 minutes | Plugged: 15-30 minutes. | IV: 0-1 minutes",
+   "summary": "A powerful semisynthetic opioid analgesic also known as Opana. A derivative of morphine, it is approximately ten times as potent as morphine. The drug has a low oral bioavailability and as such it is usually insufflated or taken rectally.",
+   "warning": "NOTE: There have been reports of a rare blood disorder from intravenous use of Oxymorphone ER. It is strongly recommended to take this into consideration before taking the drug this way."
+  }
+ }
+}

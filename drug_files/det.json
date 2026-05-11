@@ -1,0 +1,77 @@
+{
+ "det": {
+  "aliases": [
+   "diethyltryptamine"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50-80mg",
+    "Light": "20-40mg",
+    "Strong": "80mg+"
+   },
+   "Vapourized": {
+    "Common": "30-50mg",
+    "Light": "15-25mg",
+    "Strong": "50mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "30-90",
+   "Vapourized": "1-5"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_DET.shtml",
+   "tihkal": "https://www.erowid.org/library/books_online/tihkal/tihkal03.shtml"
+  },
+  "name": "det",
+  "pretty_name": "DET",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "diethyltryptamine"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Vapourized (using a 100% success method) Light: 15-25mg's Common: 30-50mg's Strong: 50mg+ Orally Light: 20-40mg's Common: 50-80mg's Strong: 80mg+",
+   "duration": "2-4 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "Vapourized: 1-5 minutes. | Oral: 30-90 minutes.",
+   "summary": "A uncommon analogue of DMT with similar effects and reported oral activity without the aid of an MAOI."
+  }
+ }
+}

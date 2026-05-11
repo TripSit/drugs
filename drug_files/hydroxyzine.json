@@ -1,0 +1,49 @@
+{
+ "hydroxyzine": {
+  "aliases": [
+   "vistaril",
+   "atarax"
+  ],
+  "categories": [
+   "depressant",
+   "deliriant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "25-100mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-5"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Hydroxyzine.shtml"
+  },
+  "name": "hydroxyzine",
+  "pretty_name": "Hydroxyzine",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "vistaril",
+    "atarax"
+   ],
+   "categories": [
+    "depressant",
+    "deliriant"
+   ],
+   "dose": "Oral Common: 25-100mg",
+   "duration": "3-5 hours.",
+   "onset": "20-60 minutes.",
+   "summary": "A antihistamine drug commonly prescribed for anxiety, itchiness, nausea, and insomnia. Hydroxyzine has also been used to potentiate the analgesia of opioids as well as diminishing negative effects of opioids, such as itchiness."
+  }
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "2-fea": {
+  "aliases": [
+   "2-fluoroethylamphetamine"
+  ],
+  "categories": [
+   "stimulant",
+   "tentative",
+   "research-chemical"
+  ],
+  "name": "2-fea",
+  "pretty_name": "2-FEA",
+  "properties": {
+   "aliases": [
+    "2-fluoroethylamphetamine"
+   ],
+   "categories": [
+    "stimulant",
+    "tentative",
+    "research-chemical"
+   ],
+   "summary": "Stimulant closely related to 2-FMA. Presumably slightly less potent than the prior. Toxicology and the likes are not known at the current moment. Tread with caution."
+  }
+ }
+}

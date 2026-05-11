@@ -1,0 +1,22 @@
+{
+ "fluoxetine": {
+  "aliases": [
+   "prozac",
+   "sarafem"
+  ],
+  "categories": [
+   "ssri"
+  ],
+  "name": "fluoxetine",
+  "pretty_name": "Fluoxetine",
+  "properties": {
+   "aliases": [
+    "prozac",
+    "sarafem"
+   ],
+   "categories": [
+    "ssri"
+   ]
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "loprazolam": {
+  "aliases": [
+   "dormonoct"
+  ],
+  "categories": [
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "0.5-1.5mg",
+    "Light": "0.25-0.5mg",
+    "Strong": "1.5-3mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-10"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-50"
+  },
+  "name": "loprazolam",
+  "pretty_name": "Loprazolam",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "dormonoct"
+   ],
+   "categories": [
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Light: 0.25-0.5mg Common: 0.5-1.5mg Strong: 1.5-3mg+",
+   "dose_to_diazepam": "Lopazolam - 1-2mg's ~=10mg Diazepam.",
+   "duration": "6-10 hours.",
+   "onset": "30-50 minutes.",
+   "summary": "The drug is a imidazobenzodiazepine that is reported to have similar subjective effects of diazepam. It is typically prescribed for short amounts of time for insomnia."
+  }
+ }
+}

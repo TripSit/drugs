@@ -1,0 +1,59 @@
+{
+ "tuinal": {
+  "aliases": [
+   "tuinol",
+   "chirstmas-trees",
+   "rainbows",
+   "beans",
+   "nawls",
+   "jeebs"
+  ],
+  "categories": [
+   "barbiturate",
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "75-150mg.",
+    "Light": "25-75mg",
+    "Strong": "150-300mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-12"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-45"
+  },
+  "name": "tuinal",
+  "pretty_name": "Tuinal",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "tuinol",
+    "chirstmas-trees",
+    "rainbows",
+    "beans",
+    "nawls",
+    "jeebs"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "barbiturate",
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 25-75mg Common: 75-150mg. Strong: 150-300mg.",
+   "duration": "5-12 hours.",
+   "onset": "10-45 minutes.",
+   "summary": "Brand name of a combination drug of two barbiturate salts (secobarbital and amobarbital) in equal amounts. It was introduced in the late 1940's."
+  }
+ }
+}

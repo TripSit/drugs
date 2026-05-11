@@ -1,0 +1,60 @@
+{
+ "furanylfentanyl": {
+  "aliases": [
+   "fu-f",
+   "furanyl-fentanyl"
+  ],
+  "categories": [
+   "research-chemical",
+   "habit-forming",
+   "tentative",
+   "opioid",
+   "depressant"
+  ],
+  "dose_note": " NOTE: Very potent opioid, be very careful while dosing.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-3"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "400-800ug",
+    "Light": "200-400ug",
+    "Strong": "800-1600ug+"
+   },
+   "Oral": {
+    "Common": "500-900ug",
+    "Light": "300-500ug",
+    "Strong": "900-1600ug+."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "1-3"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "1-10"
+  },
+  "name": "furanylfentanyl",
+  "pretty_name": "Furanylfentanyl",
+  "properties": {
+   "after-effects": "1-3 hours.",
+   "aliases": [
+    "fu-f",
+    "furanyl-fentanyl"
+   ],
+   "categories": [
+    "research-chemical",
+    "habit-forming",
+    "tentative",
+    "opioid",
+    "depressant"
+   ],
+   "dose": "Oral Light: 300-500ug Common: 500-900ug Strong: 900-1600ug+. | Insufflated Light: 200-400ug Common: 400-800ug Strong: 800-1600ug+ | NOTE: Very potent opioid, be very careful while dosing.",
+   "duration": "1-3 hours.",
+   "onset": "1-10 minutes.",
+   "summary": "An extremely potent opioid analgesic and analogue of fentanyl. There is extremely limited information about this drug. It is believed to be slightly less potent and shorter in duration than butyrfentanyl. Exercising extreme caution is strongly recommended."
+  }
+ }
+}

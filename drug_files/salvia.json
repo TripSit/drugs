@@ -1,0 +1,78 @@
+{
+ "salvia": {
+  "categories": [
+   "dissociative",
+   "deliriant",
+   "depressant",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "minutes",
+   "value": "15-20"
+  },
+  "formatted_duration": {
+   "_unit": "minutes",
+   "Smoked": "5-30",
+   "Sublingual": "30-60"
+  },
+  "formatted_effects": [
+   "radical shift in perspective and perception",
+   "creative dreamlike experience",
+   "increase in sensual and aesthetic appreciation",
+   "introspective insight",
+   "powerful closed/open eye visuals",
+   "general change in consciousness",
+   "dissociation",
+   "panic",
+   "perspiration",
+   "inability to control muscles"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Smoked": "0-2",
+   "Sublingual": "10-20"
+  },
+  "name": "salvia",
+  "pretty_name": "Salvia",
+  "properties": {
+   "after-effects": "15-20 minutes",
+   "categories": [
+    "dissociative",
+    "deliriant",
+    "depressant",
+    "common"
+   ],
+   "duration": "Sublingual: 30-60 minutes | Smoked: 5-30 minutes",
+   "effects": "radical shift in perspective and perception, creative dreamlike experience, increase in sensual and aesthetic appreciation, introspective insight, powerful closed/open eye visuals, general change in consciousness, dissociation, panic, perspiration, inability to control muscles",
+   "onset": "Sublingual: 10-20 minutes | Smoked: 0-2 minutes",
+   "summary": "A plant which, when smoked, causes short but very intense psychedelic experience. It is considered physically safe, though users of high dosages often experience bizarre, other-worldly scenarios which may be confusing or terrifying. Caution is highly recommended."
+  },
+  "pweffects": {
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+   "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Changes in felt bodily form": "https://psychonautwiki.org/wiki/Changes_in_felt_bodily_form",
+   "Changes in gravity": "https://psychonautwiki.org/wiki/Changes_in_gravity",
+   "Cognitive dysphoria": "https://psychonautwiki.org/wiki/Cognitive_dysphoria",
+   "Depth perception distortions": "https://psychonautwiki.org/wiki/Depth_perception_distortions",
+   "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+   "Environmental cubism": "https://psychonautwiki.org/wiki/Environmental_cubism",
+   "Feelings of impending doom": "https://psychonautwiki.org/wiki/Feelings_of_impending_doom",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Language suppression": "https://psychonautwiki.org/wiki/Language_suppression",
+   "Laughter": "https://psychonautwiki.org/wiki/Laughter",
+   "Machinescapes": "https://psychonautwiki.org/wiki/Machinescapes",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Perspective distortions": "https://psychonautwiki.org/wiki/Perspective_distortions",
+   "Scenery slicing": "https://psychonautwiki.org/wiki/Scenery_slicing",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Synaesthesia": "https://psychonautwiki.org/wiki/Synaesthesia",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+   "Transformations": "https://psychonautwiki.org/wiki/Transformations",
+   "Unity and interconnectedness": "https://psychonautwiki.org/wiki/Unity_and_interconnectedness",
+   "Visual disconnection#Structures": "https://psychonautwiki.org/wiki/Visual_disconnection#Structures"
+  }
+ }
+}

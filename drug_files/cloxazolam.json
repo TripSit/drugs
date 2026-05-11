@@ -1,0 +1,40 @@
+{
+ "cloxazolam": {
+  "categories": [
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "4-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "3-6mg",
+    "Light": "1.5-3mg",
+    "Strong": "6-12mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "7-12"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "name": "cloxazolam",
+  "pretty_name": "Cloxazolam",
+  "properties": {
+   "after-effects": "4-12 hours.",
+   "categories": [
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Light: 1.5-3mg Common: 3-6mg Strong: 6-12mg+",
+   "duration": "7-12 hours.",
+   "onset": "15-45 minutes.",
+   "summary": "Benzodiazepine derivate that is metabolised into delorazepam. Which is where most of its effects come from."
+  }
+ }
+}

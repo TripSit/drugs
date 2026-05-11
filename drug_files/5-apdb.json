@@ -1,0 +1,62 @@
+{
+ "5-apdb": {
+  "categories": [
+   "stimulant",
+   "psychedelic",
+   "research-chemical",
+   "empathogen",
+   "habit-forming"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "75-125mg",
+    "Heavy": "125-200mg+",
+    "Light": "50-75mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "Decreased need for sleep",
+   "Increased sociability",
+   "mood lift",
+   "increased libido",
+   "Excessive talking",
+   "Decreased appetite",
+   "Weight loss",
+   "Sweating",
+   "Disturbed sleep patterns",
+   "Bruxia",
+   "Visual and auditory hallucinations, itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_5APDB.shtml"
+  },
+  "name": "5-apdb",
+  "pretty_name": "5-APDB",
+  "properties": {
+   "categories": [
+    "stimulant",
+    "psychedelic",
+    "research-chemical",
+    "empathogen",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 50-75mg Common: 75-125mg Heavy: 125-200mg+",
+   "duration": "4-8 hours",
+   "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increased libido, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
+   "onset": "20-60 minutes",
+   "summary": "An entactogenic amphetamine stimulant with similar structure and effects to MDMA. An analogue of MDA, it is a highly selective serotonin releaser but inhibits reuptake of serotonin (weakly), dopamine and norepinephrine."
+  }
+ }
+}

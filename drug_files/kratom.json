@@ -1,0 +1,87 @@
+{
+ "kratom": {
+  "categories": [
+   "opioid",
+   "stimulant",
+   "habit-forming",
+   "depressant",
+   "common"
+  ],
+  "dose_note": " Note: This is for plain leaf only. Some users experience stronger effects from lower doses compared to higher doses. It also is very different person to person, it is recommended to use this as an outline, as it will change batch to batch and even dose to dose.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1.5-3g",
+    "Light": "0.5-1.5g",
+    "Strong": "3-6g"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-5"
+  },
+  "formatted_effects": [
+   "Simultaneous stimulation & sedation",
+   "Feelings of empathy",
+   "Feelings of euphoria",
+   "Aphrodisiac qualities for some people",
+   "Vivid waking dreams",
+   "Useful with physical labor"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-40"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Kratom.shtml"
+  },
+  "name": "kratom",
+  "pretty_name": "Kratom",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "categories": [
+    "opioid",
+    "stimulant",
+    "habit-forming",
+    "depressant",
+    "common"
+   ],
+   "detection": "Kratom use is not detected by typical drug screening tests, but its metabolites can be detected by more specialized testing.",
+   "dose": "Light: 0.5-1.5g Common: 1.5-3g Strong: 3-6g | Note: This is for plain leaf only. Some users experience stronger effects from lower doses in contrast to higher doses. It also is varies between person to person. The doses here are recommended for use as an outline, as it will change batch to batch and even dose to dose.",
+   "duration": "2-5 hours",
+   "effects": "Simultaneous stimulation & sedation. Feelings of empathy. Feelings of euphoria. Aphrodisiac qualities for some people. Vivid waking dreams. Some individuals find it beneficial when doing physical labor.",
+   "onset": "10-40 minutes.",
+   "summary": "A drug made out of the leaves of Mitragyna Speciosa, which is related to coffee. Stimulating at lower doses, with opioid effects at higher doses. Frequent heavy use can cause physical addiction and ."
+  },
+  "pweffects": {
+   "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Body odor alteration": "https://psychonautwiki.org/wiki/Body_odor_alteration",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Constipation": "https://psychonautwiki.org/wiki/Constipation",
+   "Cough suppression": "https://psychonautwiki.org/wiki/Cough_suppression",
+   "Difficulty urinating": "https://psychonautwiki.org/wiki/Difficulty_urinating",
+   "Double vision": "https://psychonautwiki.org/wiki/Double_vision",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Itchiness": "https://psychonautwiki.org/wiki/Itchiness",
+   "Motivation enhancement": "https://psychonautwiki.org/wiki/Motivation_enhancement",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Pain relief": "https://psychonautwiki.org/wiki/Pain_relief",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Pupil constriction": "https://psychonautwiki.org/wiki/Pupil_constriction",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Visual disconnection": "https://psychonautwiki.org/wiki/Visual_disconnection"
+  },
+  "sources": {
+   "_general": [
+    "Seizure and coma following Kratom (Mitragynina speciosa Korth) exposure - http://www.ncbi.nlm.nih.gov/pubmed/20411370",
+    "A drug toxicity death involving propylhexedrine and mitragynine. - https://www.ncbi.nlm.nih.gov/pubmed/21219704",
+    "A drug toxicity death involving propylhexedrine and mitragynine - https://www.ncbi.nlm.nih.gov/pubmed/21219704"
+   ]
+  }
+ }
+}

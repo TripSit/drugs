@@ -1,0 +1,116 @@
+{
+ "heroin": {
+  "aliases": [
+   "diamorphine"
+  ],
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "depressant",
+   "common"
+  ],
+  "dose_note": " Note: Heroin dose varies greatly depending on quality and tolerance.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "20-35mg",
+    "Heavy": "50-75mg",
+    "Light": "7.5-20mg",
+    "Strong": "35-50mg"
+   },
+   "Intravenous": {
+    "Common": "5-10mg",
+    "Strong": "8-15mg"
+   },
+   "Smoked": {
+    "Common": "15-25mg",
+    "Heavy": "30-50mg",
+    "Light": "5-15mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "3-6",
+   "Intravenous": "4-5",
+   "Smoked": "3-5"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil Constriction",
+   "Analgesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "10-15",
+   "Intravenous": "0-5",
+   "Smoked": "5-10"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Heroin.shtml"
+  },
+  "name": "heroin",
+  "pretty_name": "Heroin",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "aliases": [
+    "diamorphine",
+    "smack",
+    "H",
+    "big H",
+    "black tar",
+    "horse",
+    "junk",
+    "chiva",
+    "hell dust"
+   ],
+   "bioavailability": "Oral 35% | Intramuscular 85%",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "depressant",
+    "common"
+   ],
+   "dose": "Insufflated Light: 7.5-20mg Common: 20-35mg Strong: 35-50mg Heavy: 50-75mg  | Smoked Light: 5-15mg Common: 15-25mg Strong 20-30mg Heavy: 30-50mg | Intravenous Common: 5-10mg Strong: 8-15mg | Note: Heroin dose varies greatly depending on quality and tolerance.",
+   "duration": "Insufflated: 3-6 hours | IV: 4-5 hours | Smoked: 3-5 hours.",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil Constriction, Analgesia.",
+   "half-life": "2-3 minutes",
+   "marquis": "Deep purplish red",
+   "onset": "Insufflated: 10-15 minutes | Smoked: 5-10 minutes | IV: 0-5 minutes",
+   "summary": "A powerful opioid derived from Morphine, with 2-4x its potency. Infamous for a high addiction potential and fatal respiratory depression in overdose, C. R. Alder Wright first synthesised this compound in 1874 trying to find a less addictive alternative to Morphine. In recent years, it has often been sold cut with the extremely potent fentanyl, causing a spike in overdose deaths."
+  },
+  "pweffects": {
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Constipation": "https://psychonautwiki.org/wiki/Constipation",
+   "Cough suppression": "https://psychonautwiki.org/wiki/Cough_suppression",
+   "Difficulty urinating": "https://psychonautwiki.org/wiki/Difficulty_urinating",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Itchiness": "https://psychonautwiki.org/wiki/Itchiness",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Pain relief": "https://psychonautwiki.org/wiki/Pain_relief",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Pupil constriction": "https://psychonautwiki.org/wiki/Pupil_constriction",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation"
+  },
+  "sources": {
+   "_general": [
+    "Disrupted white matter integrity in heroin dependence: a controlled study utilizing diffusion tensor imaging - http://www.ncbi.nlm.nih.gov/pubmed/18720268",
+    "The treatment of heroin addicts with dextromethorphan: a double-blind comparison of dextromethorphan with chlorpromazine - http://www.ncbi.nlm.nih.gov/pubmed/2187002",
+    "Effects of 1-(2,5-dimethoxy-4-methylphenyl)-2-aminopropane (DOM) and quipazine on heroin self-administration in rhesus monkeys - http://www.ncbi.nlm.nih.gov/pubmed/22836370",
+    "Heroin \"overdose\" death: contribution of drug-associated environmental cues - http://www.ncbi.nlm.nih.gov/pubmed/7200260",
+    "Methadone trials have proven successful in treating Heroin addiction - http://jamanetwork.com/journals/jama/article-abstract/656315",
+    "Heroin has been linked to reduction in testosterone and DHT levels - http://www.sciencedirect.com/science/article/pii/0300483X79900167"
+   ]
+  }
+ }
+}

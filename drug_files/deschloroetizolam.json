@@ -1,0 +1,79 @@
+{
+ "deschloroetizolam": {
+  "aliases": [
+   "etizolam-2"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "research-chemical",
+   "habit-forming",
+   "tentative",
+   "depressant"
+  ],
+  "dose_note": " NOTE: Non-oral ROAs are ineffective.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "4-6mg",
+    "Light": "2-4mg",
+    "Strong": "6-12mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-10"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "1-5"
+  },
+  "name": "deschloroetizolam",
+  "pretty_name": "Deschloroetizolam",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "etizolam-2"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "research-chemical",
+    "habit-forming",
+    "tentative",
+    "depressant"
+   ],
+   "dose": "Oral Light: 2-4mg Common: 4-6mg Strong: 6-12mg | NOTE: Non-oral ROAs are ineffective.",
+   "duration": "8-10 hours.",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "1-5 minutes",
+   "summary": "A Thienodiazepine which is close to its parent compound, Etizolam, whilst being significantly weaker and longer lasting."
+  },
+  "pweffects": {
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Analysis suppression": "https://psychonautwiki.org/wiki/Analysis_suppression",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+   "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Emotion suppression": "https://psychonautwiki.org/wiki/Emotion_suppression",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Muscle relaxation": "https://psychonautwiki.org/wiki/Muscle_relaxation",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration"
+  }
+ }
+}

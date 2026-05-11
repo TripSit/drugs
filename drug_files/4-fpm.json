@@ -1,0 +1,20 @@
+{
+ "4-fpm": {
+  "categories": [
+   "research-chemical"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "20-40",
+   "Oral": "60-90"
+  },
+  "name": "4-fpm",
+  "pretty_name": "4-FPM",
+  "properties": {
+   "categories": [
+    "research-chemical"
+   ],
+   "summary": "Some users report high dosages are needed to feel the effects of this drug"
+  }
+ }
+}

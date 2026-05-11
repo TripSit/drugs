@@ -1,0 +1,78 @@
+{
+ "4-aco-dipt": {
+  "aliases": [
+   "4-acetoxy-dipt",
+   "4acodipt",
+   "ipracetin",
+   "iprocetyl",
+   "aces"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "dose_note": " NOTE: The freebase salt form of 4-AcO-DiPT is 10% more potent than the HC1 salt form. These dosages are provided for the freebase salt",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-20mg",
+    "Light": "5-10mg",
+    "Strong": "20-35mg",
+    "Threshold": "3-5mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-5"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-90"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_4AcODiPT.shtml"
+  },
+  "name": "4-aco-dipt",
+  "pretty_name": "4-AcO-DiPT",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "4-acetoxy-dipt",
+    "4acodipt",
+    "ipracetin",
+    "iprocetyl",
+    "aces"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Oral Threshold: 3-5mg Light: 5-10mg Common: 10-20mg Strong: 20-35mg | NOTE: The freebase salt form of 4-AcO-DiPT is 10% more potent than the HCl salt form. These dosages are provided for the freebase salt",
+   "duration": "2-5 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "20-90 minutes. (Dependant on form and stomach contents)",
+   "summary": "An uncommon psychedelic tryptamine with a short history of human use, also known as Ipracetin. Possibly first synthesised by Alexander Shulgin. Some reports of heavy nausea, with effects comparable to 2C-b and Psilocybin Mushrooms."
+  }
+ }
+}

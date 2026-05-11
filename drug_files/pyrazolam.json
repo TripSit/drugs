@@ -1,0 +1,72 @@
+{
+ "pyrazolam": {
+  "categories": [
+   "benzodiazepine",
+   "research-chemical",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "2-3mg",
+    "Light": "1-2mg",
+    "Strong": "3-4mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "3-5",
+   "Oral": "5-8"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5",
+   "Oral": "10-15"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Pyrazolam.shtml"
+  },
+  "name": "pyrazolam",
+  "pretty_name": "Pyrazolam",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "categories": [
+    "benzodiazepine",
+    "research-chemical",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Oral Light: 1-2mg Common: 2-3mg Strong: 3-4mg's.",
+   "dose_to_diazepam": "Pyrazolam - 1-2mg ~=10mg Diazepam.",
+   "duration": "Oral: 5-8 hours. | Insufflated: 3-5 hours.",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia.",
+   "onset": "Oral: 10-15 minutes. | Insufflated: 5 minutes.",
+   "summary": "Research chemical benzodiazepine discovered by Hoffman-LaRoche in the 1970's. It has been reported to be sold on the research chemical market in the early 2010's. At lower doses it acts mainly as an anxiolytic compound, and at higher doses it has been reported to have sedating, hypnotic, amnesic effects while also lowering inhibitions. The drug is structurally similar to alprazolam, bromazepam, and triazolam. The drug is 12x as potent as diazepam."
+  },
+  "pweffects": {
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Analysis suppression": "https://psychonautwiki.org/wiki/Analysis_suppression",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Muscle relaxation": "https://psychonautwiki.org/wiki/Muscle_relaxation",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration"
+  }
+ }
+}

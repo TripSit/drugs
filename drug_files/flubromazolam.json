@@ -1,0 +1,84 @@
+{
+ "flubromazolam": {
+  "aliases": [
+   "f-lam",
+   "flam"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "research-chemical",
+   "habit-forming",
+   "depressant"
+  ],
+  "dose_note": " NOTE: These doses are tentatively  reported and it is highly recommended to do further research.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "6-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "200-400ug",
+    "Light": "100-200ug",
+    "Strong": "400-600ug+",
+    "Threshold": "80ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-45"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Flubromazolam.shtml"
+  },
+  "name": "flubromazolam",
+  "pretty_name": "Flubromazolam",
+  "properties": {
+   "after-effects": "6-24 hours",
+   "aliases": [
+    "f-lam",
+    "flam"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "research-chemical",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Oral Threshold: 80ug Light: 100-200ug Common: 200-400ug Strong: 400-600ug+ | NOTE: These doses are tentatively reported and it is highly recommended to do further research.",
+   "dose_to_diazepam": "Flubromazolam - 0.25mg ~=10mg Diazepam.",
+   "duration": "6-12 hours",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "20-45 minutes.",
+   "summary": "A very potent benzodiazepine derivative that is related to Triazolam and Pyrazolam. Popular in the research chemical scene, it is a potent sedative, hypnotic and anxiolytic drug. It has been reported to have potential effects of amnesia and reduced inhibitions in higher dosages. Caution is recommended to not confuse it with Flubromazepam."
+  },
+  "pweffects": {
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Analysis suppression": "https://psychonautwiki.org/wiki/Analysis_suppression",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+   "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Emotion suppression": "https://psychonautwiki.org/wiki/Emotion_suppression",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Muscle relaxation": "https://psychonautwiki.org/wiki/Muscle_relaxation",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration"
+  }
+ }
+}

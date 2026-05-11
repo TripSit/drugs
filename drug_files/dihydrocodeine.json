@@ -1,0 +1,75 @@
+{
+ "dihydrocodeine": {
+  "aliases": [
+   "dhc"
+  ],
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "depressant"
+  ],
+  "dose_note": " NOTE: It is recommended to cold water extract the dihydrocodeine out if the pills are in combination with other substances",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-150mg",
+    "Heavy": "150-200mg+",
+    "Light": "50-100mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-4"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil constriction",
+   "Analgesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-45"
+  },
+  "name": "dihydrocodeine",
+  "pretty_name": "Dihydrocodeine",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "dhc"
+   ],
+   "bioavailability": "Oral 20%",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Light: 50-100mg Common: 100-150mg Heavy: 150-200mg+ | NOTE: It is recommended to cold water extract the dihydrocodeine out if the pills are in combination with other substances",
+   "duration": "3-4 hours.",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
+   "onset": "30-45 minutes.",
+   "summary": "A weak semi-synthetic opioid analgesic and antitussive (anti-cough) drug. Often sold as a syrup in combination with aspirin or paracetamol. Not to be confused with the slightly less potent codeine."
+  },
+  "pweffects": {
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Constipation": "https://psychonautwiki.org/wiki/Constipation",
+   "Cough suppression": "https://psychonautwiki.org/wiki/Cough_suppression",
+   "Difficulty urinating": "https://psychonautwiki.org/wiki/Difficulty_urinating",
+   "Itchiness": "https://psychonautwiki.org/wiki/Itchiness",
+   "Pain relief": "https://psychonautwiki.org/wiki/Pain_relief",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Pupil constriction": "https://psychonautwiki.org/wiki/Pupil_constriction",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation"
+  }
+ }
+}

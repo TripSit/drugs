@@ -1,0 +1,44 @@
+{
+ "5f-pb-22": {
+  "categories": [
+   "tentative",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "dose_note": " Note: As with all research chemicals, start with a low dose, and work your way up.",
+  "formatted_aftereffects": {
+   "_unit": "minutes",
+   "value": "30-60"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "3-5mg",
+    "Light": "1-3mg",
+    "Strong": "5-8mg.",
+    "Threshold": "1mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "minutes",
+   "value": "60-90"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "5-10"
+  },
+  "name": "5f-pb-22",
+  "pretty_name": "5F-PB-22",
+  "properties": {
+   "after-effects": "30-60 minutes.",
+   "categories": [
+    "tentative",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Threshold: 1mg Light: 1-3mg Common: 3-5mg Strong: 5-8mg. | Note: As with all research chemicals, start with a low dose, and work your way up.",
+   "duration": "60-90 minutes.",
+   "onset": "5-10 seconds.",
+   "summary": "Synthetic cannabinoid, agonist of the cannabinoid receptors which has a strong sedating aspect. The drug has a fast onset as common with synthetic cannabinoid."
+  }
+ }
+}

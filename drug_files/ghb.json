@@ -1,0 +1,88 @@
+{
+ "ghb": {
+  "categories": [
+   "depressant",
+   "habit-forming",
+   "common"
+  ],
+  "combos": {
+   "diphenhydramine": {
+    "note": "Both substances are CNS depressants and may potentiate each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction may cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
+    "sources": [
+     {
+      "author": "William J Tharion, Donna J. McMenemy, Terry M. Rauch",
+      "title": "Antihistamine Effects on the Central Nervous System, Cognitive Performance and Subjective States. ",
+      "url": "https://doi.org/10.1159/000119069"
+     },
+     {
+      "author": "Sicari V, Zabbo CP. Diphenhydramine.",
+      "title": "Diphenhydramine",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526010/"
+     },
+     {
+      "author": "Couper FJ, Marinetti LJ.",
+      "title": "\u03b3-Hydroxybutyrate (GHB) - Effects on Human Performance and Behavior ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26256488/"
+     },
+     {
+      "author": "Busard\u00f2 FP, Jones AW.",
+      "title": "GHB Pharmacology and Toxicology: Acute Intoxication, Concentrations in Blood and Urine in Forensic Cases and Treatment of the Withdrawal Syndrome",
+      "url": "https://doi.org/10.2174%2F1570159X13666141210215423"
+     }
+    ],
+    "status": "Dangerous"
+   }
+  },
+  "dose_note": " NOTE: Tends to induce heavy sedation roughly at 3g and higher.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1-2.5g",
+    "Dangerous": "7g+",
+    "Heavy": "3.5-5g",
+    "Light": "0.5-1.5g",
+    "Strong": "2-3.5g"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "1.5-2.5"
+  },
+  "formatted_effects": [
+   "Similar to alcohol",
+   "but reported to feel 'cleaner'"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_GHB.shtml"
+  },
+  "name": "ghb",
+  "pretty_name": "GHB",
+  "properties": {
+   "after-effects": "2-4 hours",
+   "avoid": "Alcohol, benzodiazepines, and other depressants",
+   "categories": [
+    "depressant",
+    "habit-forming",
+    "common"
+   ],
+   "dose": "Oral Light: 0.5-1.5g Common: 1-2.5g Strong: 2-3.5g Heavy: 3.5-5g Dangerous: 7g+ | NOTE: Tends to induce heavy sedation roughly at 3g and higher.",
+   "duration": "1.5-2.5 hours",
+   "effects": "Similar to alcohol, but subjectively 'cleaner'",
+   "onset": "20-60 minutes",
+   "summary": "A euphoric depressant which is prescribed as a sleep aid and sometimes to help with Alcohol detox. Also used as a recreational depressant, as a non-toxic alternative to Alcohol. Despite not having Alcohol's toxicity it is risky due to among other things inconsistent concentration in commonly sold solution form, and can be very dangerous if taken with other depressants."
+  },
+  "sources": {
+   "_general": [
+    "The presence of gamma-hydroxybutyric acid (GHB) and gamma-butyrolactone (GBL) in alcoholic and non-alcoholic beverages - http://www.ncbi.nlm.nih.gov/pubmed/15939164",
+    "Pharmacological aspects of the combined use of 3,4-methylenedioxymethamphetamine (MDMA, ecstasy) and gamma-hydroxybutyric acid (GHB): a review of t.. - http://www.ncbi.nlm.nih.gov/pubmed/16234132"
+   ]
+  }
+ }
+}

@@ -1,0 +1,142 @@
+{
+ "methamphetamine": {
+  "aliases": [
+   "meth",
+   "desoxyn",
+   "tik",
+   "ice"
+  ],
+  "categories": [
+   "stimulant",
+   "habit-forming",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "24"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "10-30mg",
+    "Heavy": "50mg+",
+    "Light": "5-10mg",
+    "Strong": "30-50mg"
+   },
+   "Intravenous": {
+    "Common": "10-20mg",
+    "Heavy": "40mg+",
+    "Light": "5-10mg",
+    "Strong": "20-40mg"
+   },
+   "Oral": {
+    "Common": "10-30mg",
+    "Heavy": "40-100mg",
+    "Light": "5-10mg",
+    "Strong": "20-40mg"
+   },
+   "Smoked": {
+    "Common": "10-20mg",
+    "Heavy": "50mg+",
+    "Light": "5-10mg",
+    "Strong": "30-60mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "8-10",
+   "Intravenous": "4-8",
+   "Oral": "10-12",
+   "Smoked": "3-8"
+  },
+  "formatted_effects": [
+   "increased energy/alertness",
+   "Decreased need for sleep",
+   "Increased sociability",
+   "mood lift",
+   "increased libido",
+   "Excessive talking",
+   "Decreased appetite",
+   "Weight loss",
+   "Sweating",
+   "Disturbed sleep patterns",
+   "Bruxia",
+   "Visual and auditory hallucinations, itchiness",
+   "aggressiveness",
+   "moodiness",
+   "fatal kidney disorder",
+   "possible brain damage liver damage"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-10",
+   "Intravenous": "0-2",
+   "Oral": "20-70",
+   "Smoked": "0-2"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Methamphetamine.shtml"
+  },
+  "name": "methamphetamine",
+  "pretty_name": "Methamphetamine",
+  "properties": {
+   "after-effects": "24 hours for all routes of administration. After effects may last longer if a user redoses.",
+   "aliases": [
+    "meth",
+    "desoxyn",
+    "tik"
+   ],
+   "avoid": "Rinsing mouth with mouthwash high in alcohol due to drying effects; using sugar filled chewing gum; usage within 14 days of MAOI ingestion.",
+   "bioavailability": "Oral 55-62.7% | Insufflated 75-80% | Vapourized 67-90.3%.",
+   "categories": [
+    "stimulant",
+    "habit-forming",
+    "common"
+   ],
+   "dose": "Oral Light: 5-10mg Common: 10-30mg Strong: 20-40mg Heavy: 40-100mg | Insufflated Light: 5-10mg Common: 10-30mg Strong: 30-50mg Heavy: 50mg+ | Smoked Light: 5-10mg Common: 10-20mg Strong: 30-60mg Heavy: 50mg+ | IV Light: 5-10mg Common: 10-20mg Strong: 20-40mg Heavy: 40mg+",
+   "duration": "Oral: 10-12 hours | Insufflated: 8-10 hours | Smoked: 3-8 hours | IV: 6-10 hours *NOTE: Check ~after-effects*",
+   "effects": "increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increased libido, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, aggressiveness, moodiness, fatal kidney disorder, possible brain damage liver damage.",
+   "marquis": "Deep reddish orange - Dark reddish brown",
+   "onset": "Oral: 20-70 minutes | Insufflated: 5-10 minutes | Smoked: 0-2 minutes | IV: 0-2 minutes",
+   "summary": "A fairly common and very strong CNS stimulant. It is sometimes prescribed in the form of desoxyn for ADHD and severe obesity. In low doses, methamphetamine can elevate mood, increase alertness, concentration, energy and reduces appetite. At higher doses, it can induce mania, psychosis and muscle degeneration among other issues. Tolerant users may report much higher doses than new users."
+  },
+  "pweffects": {
+   "Abnormal heartbeat": "https://psychonautwiki.org/wiki/Abnormal_heartbeat",
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+   "Appetite suppression": "https://psychonautwiki.org/wiki/Appetite_suppression",
+   "Body odor alteration": "https://psychonautwiki.org/wiki/Body_odor_alteration",
+   "Bronchodilation": "https://psychonautwiki.org/wiki/Bronchodilation",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Cognitive fatigue": "https://psychonautwiki.org/wiki/Cognitive_fatigue",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Dehydration": "https://psychonautwiki.org/wiki/Dehydration",
+   "Depression": "https://psychonautwiki.org/wiki/Depression",
+   "Ego inflation": "https://psychonautwiki.org/wiki/Ego_inflation",
+   "Focus enhancement": "https://psychonautwiki.org/wiki/Focus_enhancement",
+   "Frequent urination": "https://psychonautwiki.org/wiki/Frequent_urination",
+   "Increased blood pressure": "https://psychonautwiki.org/wiki/Increased_blood_pressure",
+   "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
+   "Increased libido": "https://psychonautwiki.org/wiki/Increased_libido",
+   "Increased perspiration": "https://psychonautwiki.org/wiki/Increased_perspiration",
+   "Irritability": "https://psychonautwiki.org/wiki/Irritability",
+   "Memory enhancement": "https://psychonautwiki.org/wiki/Memory_enhancement",
+   "Motivation enhancement": "https://psychonautwiki.org/wiki/Motivation_enhancement",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Teeth grinding": "https://psychonautwiki.org/wiki/Teeth_grinding",
+   "Temporary erectile dysfunction": "https://psychonautwiki.org/wiki/Temporary_erectile_dysfunction",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+   "Thought organization": "https://psychonautwiki.org/wiki/Thought_organization",
+   "Vasoconstriction": "https://psychonautwiki.org/wiki/Vasoconstriction",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  },
+  "sources": {
+   "_general": [
+    "Comparison of intranasal methamphetamine and d-amphetamine self-administration by humans. -https://www.ncbi.nlm.nih.gov/pubmed/22050030",
+    "Methamphetamine or desoxyn should not be used within 14 days of using a MAOI drug - Mosby's Dental Drug Reference Ninth Edition 2010",
+    "Meth/desoxyn usage for long periods of time in children or people who have not finished growing will cause temporary suppression of weight and height growth - Mosby's Dental Drug Reference 9th Ed. 2010"
+   ]
+  }
+ }
+}

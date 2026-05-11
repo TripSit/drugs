@@ -1,0 +1,74 @@
+{
+ "met": {
+  "aliases": [
+   "methylethyltryptamine"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-25mg",
+    "Light": "10-20mg",
+    "Strong": "25-30mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-3",
+   "Oral": "4-6",
+   "Smoked": "0.5-1"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "10-15",
+   "Oral": "60-90",
+   "Smoked": "5-10"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_MET.shtml"
+  },
+  "name": "met",
+  "pretty_name": "MET",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "methylethyltryptamine"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Oral Light: 60-80mg Common: 80-120mg Strong: 120mg+ Insufflated Light: 10-15mg Common: 15-20mg Strong: 20-25mg+ Vapourized Light: 10-20mg Common: 20-25mg Strong: 25-30mg+",
+   "duration": "Oral: 4-6 hours. | Insufflated: 2-3 hours. | Smoked: 0.5-1 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "Oral: 60-90 minutes. | Insufflated: 10-15 minutes. | Smoked: 5-10 minutes.",
+   "summary": "A rare psychedelic tryptamine related to DMT and DET. There is little known information about this drug, further research is highly recommended."
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "25h-nbome": {
+  "aliases": [
+   "25h",
+   "25-h-nbome"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-3"
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-5"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-90"
+  },
+  "name": "25h-nbome",
+  "pretty_name": "25H-NBOMe",
+  "properties": {
+   "after-effects": "2-3 hours.",
+   "aliases": [
+    "25h",
+    "25-h-nbome"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "NOTE: The drug has a reportedly atypical response curve. There are some reports that find psychoactive effects at 2mg, and some other reports that note they only find effects at the 7mg range. It is recommended to start with a low dose and work your way up slowly.",
+   "duration": "3-5 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "30-90 minutes.",
+   "summary": "A rare psychedelic stimulant. A derivative of 2C-H, but many times more potent. The drug is suspected to have hallucinogenic, stimulant and vasoconstrictive properties which may be dangerous at high doses. A heavy body load is to be expected.",
+   "test-kits": "Marquis: Light Brown > Brown. | Mecke: Yellow > Green/Brown. | Mandelin: Green/Brown > Orange. | Simon's: Orange > Black."
+  }
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "peyote": {
+  "categories": [
+   "psychedelic",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "6-8"
+  },
+  "formatted_dose": {
+   "Dried": {
+    "Common": "20-30g",
+    "Heavy": "40g+",
+    "Light": "10-20g",
+    "Strong": "30-40g"
+   },
+   "Fresh": {
+    "Common": "100-150g",
+    "Heavy": "200g+",
+    "Light": "50-100g"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_effects": [
+   "feelings of insight",
+   "brightening of colors",
+   "mood lift",
+   "closed and open eye visuals",
+   "giggling",
+   "increase in energy happy feelings",
+   "change in consciousness",
+   "loss of appettite",
+   "unusla thoughts and speech",
+   "mild to extreme distractability",
+   "changes in time and reality",
+   "changes in self control",
+   "ego softening",
+   "pupil dilation",
+   "body tremors",
+   "nausea",
+   "chest and neck pain"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "60-120"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Peyote.shtml"
+  },
+  "name": "peyote",
+  "pretty_name": "Peyote",
+  "properties": {
+   "after-effects": "6-8 hours",
+   "categories": [
+    "psychedelic",
+    "common"
+   ],
+   "dose": "Fresh Light: 50-100g  Common: 100-150g  Strong 150-200g  Heavy: 200g+ | Dried  Light: 10-20g  Common: 20-30g Strong: 30-40g  Heavy: 40g+",
+   "duration": "4-8 hrs",
+   "effects": "feelings of insight, brightening of colors, mood lift, closed and open eye visuals, giggling, increase in energy happy feelings, change in consciousness, loss of appettite, unusla thoughts and speech, mild to extreme distractability, changes in time and reality, changes in self control, ego softening, pupil dilation, body tremors, nausea, chest and neck pain",
+   "onset": "60-120 minutes",
+   "summary": "Peyote is a small, spineless cactus that contains mescaline as its primary active chemical. It has a long history of use among the natives of Northern Mexico and Southwestern United States."
+  }
+ }
+}

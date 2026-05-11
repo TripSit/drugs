@@ -1,0 +1,37 @@
+{
+ "morpheridine": {
+  "categories": [
+   "opioid",
+   "depressant",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-20mg",
+    "Light": "5-10mg.",
+    "Strong": "20-35mg"
+   }
+  },
+  "name": "morpheridine",
+  "pretty_name": "Morpheridine",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "categories": [
+    "opioid",
+    "depressant",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Light: 5-10mg. Common: 10-20mg Strong: 20-35mg's.",
+   "duration": "Oral 4-6 hours.",
+   "onset": "Oral 15-35 minutes.",
+   "summary": "Is a 4-Phenylpiperidine derivative that is related to pehidine. It is roughly 4x as potent as the parent compound and is reported to not cause convulsions that pethidine reportedly does.",
+   "warning": "It is strongly recommended against mixing with other CNS depressants."
+  }
+ }
+}

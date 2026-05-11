@@ -1,0 +1,55 @@
+{
+ "phenazepam": {
+  "categories": [
+   "benzodiazepine",
+   "research-chemical",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "36"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1-2mg",
+    "Heavy": "2-4mg",
+    "Light": "0.5-1mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "18"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-60"
+  },
+  "name": "phenazepam",
+  "pretty_name": "Phenazepam",
+  "properties": {
+   "after-effects": "36+ hours",
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "research-chemical",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Light: 0.5-1mg Common: 1-2mg Heavy: 2-4mg - Blacking out is reported to happen often above 4mg. Caution is strongly recommended.",
+   "dose_to_diazepam": "Phenazepam - ~1mg ~=10mg Diazepam.",
+   "duration": "18+ hours",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "15-60 minutes",
+   "summary": "A very long-acting, potent, subtle benzodiazepine. Infamous for the calamitous experiences, many anectodal reports indicate the drugs suggestibility for redosing and reckless usage. The drug is prescribed in certain countries for epilepsy and alcohol withdrawal."
+  }
+ }
+}

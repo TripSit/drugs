@@ -1,0 +1,22 @@
+{
+ "sertraline": {
+  "aliases": [
+   "zoloft",
+   "lustral"
+  ],
+  "categories": [
+   "ssri"
+  ],
+  "name": "sertraline",
+  "pretty_name": "Sertraline",
+  "properties": {
+   "aliases": [
+    "zoloft",
+    "lustral"
+   ],
+   "categories": [
+    "ssri"
+   ]
+  }
+ }
+}

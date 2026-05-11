@@ -1,0 +1,63 @@
+{
+ "5-ppdi": {
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "30-50mg",
+    "Heavy": "70+mg.",
+    "Light": "15-30mg",
+    "Strong": "50-70mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "3-6"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "Decreased need for sleep",
+   "Increased sociability",
+   "mood lift",
+   "increased libido",
+   "Excessive talking",
+   "Decreased appetite",
+   "Weight loss",
+   "Sweating",
+   "Disturbed sleep patterns",
+   "Bruxia",
+   "Visual and auditory hallucinations",
+   "itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "10-30"
+  },
+  "name": "5-ppdi",
+  "pretty_name": "5-PPDI",
+  "properties": {
+   "after-effects": "3-6 hours.",
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Light: 15-30mg Common: 30-50mg Strong: 50-70mg Heavy: 70+mg.",
+   "duration": "Oral: 3-6 hours. Insufflated 1-4 hours.",
+   "onset": "Oral: 10-30 minutes. Insufflated 5-10 minutes.",
+   "summary": "An obscure analogue of \u03b1-PBP, which is itself an analogue of \u03b1-PVP. This rare compound has little history of human usage. There are some trip reports that suggest it is inactive. In the case that it is active, it likely has a similar effect profile to other pyrovalerone stimulants."
+  }
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "propranolol": {
+  "aliases": [
+   "inderal",
+   "hemangeol",
+   "innopran"
+  ],
+  "categories": [
+   "depressant",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "40-80mg",
+    "Light": "10-30mg",
+    "Strong": "80-140mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-7"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-45"
+  },
+  "name": "propranolol",
+  "pretty_name": "Propranolol",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "inderal",
+    "hemangeol",
+    "innopran"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "depressant",
+    "common"
+   ],
+   "dose": "Oral Light: 10-30mg Common: 40-80mg Strong: 80-140mg.",
+   "duration": "3-7 hours.",
+   "onset": "10-45 minutes.",
+   "summary": "The drug is a nonselective beta blocker. It is used in medication for high blood pressure, anxiety, and tremors."
+  }
+ }
+}

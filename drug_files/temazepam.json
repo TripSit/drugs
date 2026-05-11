@@ -1,0 +1,65 @@
+{
+ "temazepam": {
+  "aliases": [
+   "restoril"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-20mg",
+    "Light": "5-10mg",
+    "Strong": "20-40mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-10"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-90"
+  },
+  "name": "temazepam",
+  "pretty_name": "Temazepam",
+  "properties": {
+   "after-effects": "6-12 hours",
+   "aliases": [
+    "restoril"
+   ],
+   "avoid": "All other CNS depressants.",
+   "bioavailability": "Oral 96%",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Oral Light: 5-10mg's Common: 10-20mg Strong: 20-40mg+",
+   "dose_to_diazepam": "Temazepam - 20mg ~=10mg Diazepam.",
+   "duration": "6-10 hours",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "20-90 minutes",
+   "summary": "Temazepam's brand name is Restoril. It is a hypnotic benzodiazepine with effects similar to clonazepam. The drug is frequently prescribed as a sleep aid. There are some anectodal reports that indicate it has mild euphoria alongside the hypnotic effects."
+  },
+  "sources": {
+   "_general": [
+    "Alcohol and benzodiazepines in fatal poisonings. - https://www.ncbi.nlm.nih.gov/pubmed/12170103"
+   ]
+  }
+ }
+}

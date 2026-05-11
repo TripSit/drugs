@@ -1,0 +1,21 @@
+{
+ "eflea": {
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "tentative",
+   "inactive"
+  ],
+  "name": "eflea",
+  "pretty_name": "EFLEA",
+  "properties": {
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "tentative",
+    "inactive"
+   ],
+   "summary": "Prodrug for EDMA. May be inactive."
+  }
+ }
+}

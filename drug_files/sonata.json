@@ -1,0 +1,49 @@
+{
+ "sonata": {
+  "aliases": [
+   "zaleplon"
+  ],
+  "categories": [
+   "depressant",
+   "habit-forming",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-10mg",
+    "Light": "2.5-5mg",
+    "Strong": "10-20mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-30"
+  },
+  "name": "sonata",
+  "pretty_name": "Sonata",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "zaleplon"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "depressant",
+    "habit-forming",
+    "common"
+   ],
+   "dose": "Oral Light: 2.5-5mg Common: 5-10mg Strong: 10-20mg.",
+   "duration": "3-6 hours.",
+   "onset": "10-30 minutes.",
+   "summary": "Sedative-hypnotic of the nonbenzodiazepine (Z-drug) of the pyrazolopyramide class. The drug is mainly used medically for short-term insomnia."
+  }
+ }
+}

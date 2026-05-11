@@ -1,0 +1,42 @@
+{
+ "sufentanil": {
+  "categories": [
+   "opioid",
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-10ug",
+    "Light": "1-5ug",
+    "Strong": "10-25ug."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "minutes",
+   "value": "5-10"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "1-2"
+  },
+  "name": "sufentanil",
+  "pretty_name": "Sufentanil",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "categories": [
+    "opioid",
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Light: 1-5ug Common: 5-10ug Strong: 10-25ug.",
+   "duration": "5-10 minutes.",
+   "onset": "1-2 minutes.",
+   "summary": "A synthetic analgesic drug that is roughly between 5-10x the potency of its parent drug fentanyl. The drug medically is very restricted to surgery and post-operative pain."
+  }
+ }
+}

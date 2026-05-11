@@ -1,0 +1,47 @@
+{
+ "indapyrophenidone": {
+  "categories": [
+   "stimulant",
+   "tentative",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "40-60mg",
+    "Heavy": "90mg+",
+    "Light": "20-40mg",
+    "Strong": "60-90mg"
+   },
+   "Vapourized": {
+    "Common": "10-25mg",
+    "Heavy": "50mg+.",
+    "Light": "5-10mg",
+    "Strong": "25-50mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "1-3",
+   "Vapourized": "1-1.5"
+  },
+  "name": "indapyrophenidone",
+  "pretty_name": "Indapyrophenidone",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "categories": [
+    "stimulant",
+    "tentative",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Vapourized Light: 5-10mg Common: 10-25mg Strong: 25-50mg Heavy: 50mg+. | Insufflated Light: 20-40mg Common: 40-60mg Strong: 60-90mg Heavy: 90mg+",
+   "duration": "Vapourized: 1-1.5 hours | Insufflated: 1-3 hours",
+   "summary": "Indane analogue of Pyrophenidone, a NDRI stimulant with a short duration."
+  }
+ }
+}

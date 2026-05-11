@@ -1,0 +1,91 @@
+{
+ "u-47700": {
+  "aliases": [
+   "u47700"
+  ],
+  "categories": [
+   "opioid",
+   "research-chemical",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "7.5-15mg",
+    "Heavy": "25mg+",
+    "Light": "5-7.5mg",
+    "Strong": "15-25mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "3-4",
+   "Intravenous": "1-2",
+   "Oral": "5-7",
+   "Rectal": "3-4"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil constriction",
+   "Analgesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "15",
+   "Intravenous": "0-1",
+   "Oral": "15",
+   "Rectal": "15"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_U47700.shtml"
+  },
+  "name": "u-47700",
+  "pretty_name": "U-47700",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "aliases": [
+    "u47700"
+   ],
+   "avoid": "All other CNS depressants",
+   "categories": [
+    "opioid",
+    "research-chemical",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Oral Light: 5-7.5mg Common: 7.5-15mg Strong: 15-25mg Heavy: 25+mg.",
+   "duration": "Oral: 5-7 hours. | Insufflated/Plugged: 3-4 hours. | Intravenous: 1-2 hours.",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
+   "onset": "Oral: 15 minutes. | Insufflated/Plugged: 15 minutes | Intravenous: 0-1 minutes.",
+   "summary": "A \u00b5-opioid receptor agonist that is related to AH-7921. The drug has a short duration."
+  },
+  "pweffects": {
+   "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Cognitive fatigue": "https://psychonautwiki.org/wiki/Cognitive_fatigue",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Constipation": "https://psychonautwiki.org/wiki/Constipation",
+   "Cough suppression": "https://psychonautwiki.org/wiki/Cough_suppression",
+   "Depression": "https://psychonautwiki.org/wiki/Depression",
+   "Difficulty urinating": "https://psychonautwiki.org/wiki/Difficulty_urinating",
+   "Irritability": "https://psychonautwiki.org/wiki/Irritability",
+   "Itchiness": "https://psychonautwiki.org/wiki/Itchiness",
+   "Pain relief": "https://psychonautwiki.org/wiki/Pain_relief",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Pupil constriction": "https://psychonautwiki.org/wiki/Pupil_constriction",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration"
+  }
+ }
+}

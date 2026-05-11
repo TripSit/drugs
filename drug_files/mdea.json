@@ -1,0 +1,50 @@
+{
+ "mdea": {
+  "aliases": [
+   "mde",
+   "eve"
+  ],
+  "categories": [
+   "stimulant",
+   "empathogen",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-36"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-150mg",
+    "Light": "80-100mg",
+    "Strong": "150-200mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-60"
+  },
+  "name": "mdea",
+  "pretty_name": "MDEA",
+  "properties": {
+   "after-effects": "1-36 hours.",
+   "aliases": [
+    "mde",
+    "eve"
+   ],
+   "categories": [
+    "stimulant",
+    "empathogen",
+    "tentative"
+   ],
+   "dose": "Light: 80-100mg Common: 100-150mg Strong: 150-200mg.",
+   "duration": "3-6 hours.",
+   "onset": "30-60 minutes.",
+   "summary": "A rare empathogen structurally related to MDMA. The drug is reportedly less potent than MDMA."
+  }
+ }
+}

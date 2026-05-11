@@ -1,0 +1,22 @@
+{
+ "cialis": {
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-10mg",
+    "Light": "2.5-5mg",
+    "Strong": "10-20mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "name": "cialis",
+  "pretty_name": "Tadalafil",
+  "properties": {
+   "dose": "Light: 2.5-5mg Common: 5-10mg Strong: 10-20mg.",
+   "duration": "4-6 hours.",
+   "summary": "Tadalafil, a PDE5 inhibitor used to combat erectile disfunction. Dangerous in combination with other drugs which lower blood pressure."
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "ept": {
+  "aliases": [
+   "ethylpropyltryptamine",
+   "n,n-ethylpropyltryptamine"
+  ],
+  "categories": [
+   "psychedelic",
+   "tentative",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Insufflated": "1-4",
+   "Oral": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "75-100mg",
+    "Light": "50-75mg",
+    "Strong": "100mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "1-3",
+   "Oral": "2-4"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-20",
+   "Oral": "20-60"
+  },
+  "name": "ept",
+  "pretty_name": "EPT",
+  "properties": {
+   "after-effects": "Oral: 1-6 hours. | Insufflated: 1-4 hours.",
+   "aliases": [
+    "ethylpropyltryptamine",
+    "n,n-ethylpropyltryptamine"
+   ],
+   "categories": [
+    "psychedelic",
+    "tentative",
+    "research-chemical"
+   ],
+   "dose": "Oral Light: 50-75mg Common: 75-100mg Strong: 100mg+",
+   "duration": "Oral: 2-4 hours. | Insufflated: 1-3 hours.",
+   "onset": "Oral: 20-60 minutes. | Insufflated: 5-20 minutes.",
+   "summary": "Ethylpropyltryptamine a novel tryptamine, that is the structural homologue of DMT."
+  }
+ }
+}

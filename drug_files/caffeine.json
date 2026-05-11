@@ -1,0 +1,348 @@
+{
+ "caffeine": {
+  "aliases": [
+   "coffee"
+  ],
+  "categories": [
+   "stimulant",
+   "habit-forming",
+   "nootropic",
+   "common"
+  ],
+  "combos": {
+   "2c-t-x": {
+    "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+    "status": "Low Risk & No Synergy"
+   },
+   "2c-x": {
+    "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+    "status": "Low Risk & No Synergy"
+   },
+   "5-meo-xxt": {
+    "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+    "status": "Low Risk & No Synergy"
+   },
+   "alcohol": {
+    "status": "Low Risk & No Synergy"
+   },
+   "amphetamines": {
+    "note": "This combination of stimulants is not generally necessary and may increase strain on the heart, as well as potentially causing anxiety and greater physical discomfort.",
+    "status": "Caution"
+   },
+   "amt": {
+    "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+    "status": "Caution"
+   },
+   "benzodiazepines": {
+    "status": "Low Risk & Decrease"
+   },
+   "cannabis": {
+    "status": "Low Risk & No Synergy"
+   },
+   "cocaine": {
+    "note": "Both stimulants, risk of tachycardia, hypertension, and in extreme cases heart failure.",
+    "status": "Caution"
+   },
+   "dextromethorphan": {
+    "note": "High doses of caffeine can potentially exacerbate anxiety, especially during a dissociative experience, due to its stimulating effects. This combination might also lead to physical discomfort. However, individual responses to caffeine can vary significantly, often influenced by factors like habitual versus occasional usage.",
+    "sources": [
+     {
+      "author": "Chad J Reissig, Lawrence P Carter, Matthew W Johnson, Miriam Z Mintzer, Margaret A Klinedinst, Roland R Griffiths",
+      "title": "High doses of dextromethorphan, an NMDA antagonist, produce effects similar to classic hallucinogens ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22526529/"
+     },
+     {
+      "author": "Arthur Eumann Mesas, Luz M Leon-Mu\u00f1oz, Fernando Rodriguez-Artalejo, Esther Lopez-Garcia",
+      "title": "The effect of coffee on blood pressure and cardiovascular disease in hypertensive individuals: a systematic review and meta-analysis ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21880846/"
+     },
+     {
+      "author": "M-L Nurminen, L Niittynen, R Korpela & H Vapaatalo",
+      "title": "Coffee, caffeine and blood pressure: a critical review",
+      "url": "https://www.nature.com/articles/1600899"
+     }
+    ],
+    "status": "Caution"
+   },
+   "diphenhydramine": {
+    "note": "Caffeine as a stimulant may mask some negative side effects of DPH, leading to delusions of sobriety, which has additional concerns in states of delirium. The combination of stimulants will increase strain on the heart and may cause some physical discomfort, and has the chance to cause cardiovascular issues such as complex tachycardia. The combination may increase anxiety levels and risks of thought loops at higher dosages, in addition to increasing each other's negative side effects. Medical dosages are reported to not be a concern.",
+    "sources": [
+     {
+      "author": "Clark, J. H.; Meltzer, E. O.; Naclerio, R. M. (2025)",
+      "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027.",
+      "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+     },
+     {
+      "author": "Evans, J.; Richards, J. R.; Battisti, A. S. (2025)",
+      "title": "Caffeine. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK519490/"
+     },
+     {
+      "author": "McAtee, K. J.; Brillhart, D.; Barbuto, A. F.; Hiller, H. M. (2022)",
+      "title": "Wide complex tachycardia secondary to massive diphenhydramine overdose: a case report. Journal of Emergency and Critical Care Medicine, 6(0).",
+      "url": "https://doi.org/10.21037/jeccm-21-33"
+     },
+     {
+      "author": "Murray, A.; Traylor, J. (2025)",
+      "title": "Caffeine Toxicity. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK532910/"
+     },
+     {
+      "author": "Institute of Medicine (US) Committee on Military Nutrition Research (2001)",
+      "title": "Pharmacology of Caffeine. In Caffeine for the Sustainment of Mental Task Performance: Formulations for Military Operations. National Academies Press (US).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK223808/"
+     },
+     {
+      "author": "Sicari, V.; Patel, P.; Zabbo, C. P. (2025)",
+      "title": "Diphenhydramine. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+     },
+     {
+      "author": "Tharion, W. J.; Kobrick, J. L.; Lieberman, H. R.; Fine, B. J. (1993)",
+      "title": "Effects of caffeine and diphenhydramine on auditory evoked cortical potentials. Perceptual and Motor Skills, 76(3 Pt 1), 707\u2013715.",
+      "url": "https://doi.org/10.2466/pms.1993.76.3.707"
+     }
+    ],
+    "status": "Caution"
+   },
+   "dmt": {
+    "status": "Low Risk & No Synergy"
+   },
+   "dox": {
+    "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating it may cause some physical discomfort.",
+    "status": "Caution"
+   },
+   "ghb/gbl": {
+    "status": "Low Risk & No Synergy"
+   },
+   "ketamine": {
+    "note": "No unexpected interactions.",
+    "status": "Low Risk & No Synergy"
+   },
+   "lsd": {
+    "status": "Low Risk & No Synergy"
+   },
+   "maois": {
+    "status": "Low Risk & No Synergy"
+   },
+   "mdma": {
+    "note": "Caffeine is not really necessary with MDMA and increases any neurotoxic effects from MDMA",
+    "status": "Caution"
+   },
+   "mephedrone": {
+    "note": "This combination of stimulants is not generally necessary and may increase strain on the heart, as well as potentially causing anxiety and great physical discomfort. However, individual responses to caffeine can vary significantly, often influenced by factors like habitual versus occasional usage.",
+    "sources": [
+     {
+      "author": "Mesas AE, Leon-Mu\u00f1oz LM, Rodriguez-Artalejo F, Lopez-Garcia E",
+      "title": " The effect of coffee on blood pressure and cardiovascular disease in hypertensive individuals: a systematic review and meta-analysis ",
+      "url": "https://doi.org/10.3945/ajcn.111.016667"
+     },
+     {
+      "author": "Nurminen, ML., Niittynen, L., Korpela, R",
+      "title": "Coffee, caffeine and blood pressure: a critical review",
+      "url": "https://doi.org/10.1038/sj.ejcn.1600899"
+     },
+     {
+      "author": "Institute of Medicine (US) Committee on Military Nutrition Research.",
+      "title": "Caffeine for the Sustainment of Mental Task Performance: Formulations for Military Operations.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK223808/"
+     },
+     {
+      "author": "Baumann MH, Ayestas MA Jr, Partilla JS, Sink JR, Shulgin AT, Daley PF, Brandt SD, Rothman RB, Ruoho AE, Cozzi NV",
+      "title": "The designer methcathinone analogs, mephedrone and methylone, are substrates for monoamine transporters in brain tissue ",
+      "url": "https://doi.org/10.1038/npp.2011.304"
+     },
+     {
+      "author": "Wright MJ Jr, Vandewater SA, Angrish D, Dickerson TJ, Taffe MA",
+      "title": "Mephedrone (4-methylmethcathinone) and d-methamphetamine improve visuospatial associative memory, but not spatial working memory, in rhesus macaques",
+      "url": "https://doi.org/10.1111%2Fj.1476-5381.2012.02091.x"
+     },
+     {
+      "author": "Kehr J, Ichinose F, Yoshitake S, Goiny M, Sievertsson T, Nyberg F, Yoshitake T",
+      "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
+      "url": "https://doi.org/10.1111%2Fj.1476-5381.2011.01499.x"
+     }
+    ],
+    "status": "Caution"
+   },
+   "mescaline": {
+    "note": "High doses of caffeine are uncomfortable and this will be magnified by psychedelics",
+    "status": "Low Risk & No Synergy"
+   },
+   "mushrooms": {
+    "status": "Low Risk & No Synergy"
+   },
+   "mxe": {
+    "note": "No likely interactions",
+    "status": "Low Risk & No Synergy"
+   },
+   "nbomes": {
+    "note": "Caffeine can bring out the natural stimulation from psychedelic drugs to make it uncomfortable. High doses can cause anxiety which is hard to handle while tripping",
+    "status": "Caution"
+   },
+   "nitrous": {
+    "status": "Low Risk & No Synergy"
+   },
+   "opioids": {
+    "status": "Low Risk & No Synergy"
+   },
+   "pcp": {
+    "note": "Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.",
+    "status": "Caution"
+   },
+   "pregabalin": {
+    "note": "There is a risk of seizures from this combination, especially at higher dosages. Caffeine additionally reduces pregabalin\u2019s anticonvulsant effects found in lower dosages. Caffeine increases respiration rate allowing for a higher dose of sedatives than normal. If amphetamines wears off first, recreational dosages of pregabalin may overcome the individual and cause respiratory arrest. Both substances at recreational dosages cause strain of the heart and may lead to further dangerous heart complications. Medical dosages are unlikely to be of concern.",
+    "sources": [
+     {
+      "author": "Barker-Haliski, M., & White, H. S. (2015)",
+      "title": "Glutamatergic Mechanisms Associated with Seizures and Epilepsy. Cold Spring Harbor Perspectives in Medicine, 5(8), a022863.",
+      "url": "https://doi.org/10.1101/cshperspect.a022863"
+     },
+     {
+      "author": "Ben\u2010Menachem, E. (2004)",
+      "title": "Pregabalin Pharmacology and Its Relevance to Clinical Practice. Epilepsia, 45(s6), 13\u201318.",
+      "url": "https://doi.org/10.1111/j.0013-9580.2004.455003.x"
+     },
+     {
+      "author": "Chwedorowicz, R., \u0141ukawski, K., Raszewski, G., & Czuczwar, S. J. (2022)",
+      "title": "Effect of caffeine on the anticonvulsant action of pregabalin against electroconvulsions in mice. Pharmacological Reports: PR, 74(2), 431\u2013437.",
+      "url": "https://doi.org/10.1007/s43440-022-00356-1"
+     },
+     {
+      "author": "French, J., Kwan, P., Fakhoury, T., Pitman, V., DuBrava, S., Knapp, L., & Yurkewicz, L. (2014)",
+      "title": "Pregabalin monotherapy in patients with partial-onset seizures: A historical-controlled trial. Neurology, 82(7), 590\u2013597.",
+      "url": "https://doi.org/10.1212/WNL.0000000000000119"
+     },
+     {
+      "author": "Gayatri, N., & Livingston, J. (2006)",
+      "title": "Aggravation of epilepsy by anti\u2010epileptic drugs. Developmental Medicine & Child Neurology, 48(5), 394\u2013398.",
+      "url": "https://doi.org/10.1017/S0012162206000843"
+     },
+     {
+      "author": "Hitchings, A. W. (2016)",
+      "title": "Drugs that lower the seizure threshold. Adverse Drug Reaction Bulletin, 298(1), 1151\u20131154.",
+      "url": "https://doi.org/10.1097/FAD.0000000000000016"
+     },
+     {
+      "author": "Sean. (n.d.-b)",
+      "title": "Pregabalin - Erowid Exp - \u201cStay Away.\u201d",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=67302"
+     },
+     {
+      "author": "Altair. (n.d.-a)",
+      "title": "Pregabalin (Lyrica) - Erowid Exp - \u201cHeart Arrhythmia, Seizure\u202f: Not Recreational.\u201d",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=69917"
+     },
+     {
+      "author": "Douke, R. (n.d.)",
+      "title": "Pregabalin & Tramadol - Erowid Exp - \u201cGrand Mal Seizures.\u201d",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=83232"
+     },
+     {
+      "author": "Isoardi, K. Z., Polkinghorne, G., Harris, K., & Isbister, G. K. (2020)",
+      "title": "Pregabalin poisoning and rising recreational use: a retrospective observational series. British Journal of Clinical Pharmacology, 86(12), 2435\u20132440.",
+      "url": "https://doi.org/10.1111/bcp.14348"
+     },
+     {
+      "author": "Kumar, N., Laferriere, A., Yu, J. S. C., Leavitt, A., & Coderre, T. J. (2010)",
+      "title": "Evidence that pregabalin reduces neuropathic pain by inhibiting the spinal release of glutamate. Journal of Neurochemistry, 113(2), 552\u2013561.",
+      "url": "https://doi.org/10.1111/j.1471-4159.2010.06625.x"
+     },
+     {
+      "author": "Miziak, B., B\u0142aszczyk, B., Chro\u015bci\u0144ska-Krawczyk, M., & Czuczwar, S. J. (2023)",
+      "title": "Caffeine and Its Interactions with Antiseizure Medications\u2014Is There a Correlation between Preclinical and Clinical Data? International Journal of Molecular Sciences, 24(24), 17569.",
+      "url": "https://doi.org/10.3390/ijms242417569"
+     },
+     {
+      "author": "Slocum, G. W., Schult, R. F., Gorodetsky, R. M., Wiegand, T. J., Kamali, M., & Acquisto, N. M. (2018)",
+      "title": "Pregabalin and paradoxical reaction of seizures in a large overdose. Toxicology Communications, 2(1), 19\u201320.",
+      "url": "https://doi.org/10.1080/24734306.2018.1458465"
+     }
+    ],
+    "status": "Unsafe"
+   },
+   "ssris": {
+    "status": "Low Risk & No Synergy"
+   },
+   "tramadol": {
+    "status": "Low Risk & No Synergy"
+   }
+  },
+  "dose_note": " NOTE: The lethal dose for caffeine starts at approximately 3g. The average cup of coffee contains roughly 75-150mg of caffeine.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "3-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "75mg-250mg",
+    "Heavy": "400mg+",
+    "Light": "20-75mg",
+    "Strong": "250-400mg",
+    "Threshold": "10-20mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "1.5-5"
+  },
+  "formatted_effects": [
+   "elevated heartrate",
+   "increase in cognitive abilities",
+   "physical agitation",
+   "panicked thinking",
+   "racing thoughts",
+   "uncomfortable bodyload"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "5-10"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Caffeine.shtml"
+  },
+  "name": "caffeine",
+  "pretty_name": "Caffeine",
+  "properties": {
+   "after-effects": "3-4 hours",
+   "aliases": [
+    "coffee"
+   ],
+   "bioavailability": "Orally it varies from around 77%-99%",
+   "categories": [
+    "stimulant",
+    "habit-forming",
+    "nootropic",
+    "common"
+   ],
+   "dose": "Threshold: 10-20mg Light: 20-75mg Common: 75mg-250mg Strong: 250-400mg Heavy: 400mg+ | NOTE: The lethal dose for caffeine starts at approximately 3g. The average cup of coffee contains roughly 75-150mg of caffeine.",
+   "duration": "1.5-5 hours",
+   "effects": "elevated heartrate, increase in cognitive abilities, physical agitation, panicked thinking, racing thoughts, uncomfortable bodyload",
+   "onset": "5-10 minutes",
+   "summary": "Caffeine is a CNS stimulant and the most widely used psychoactive substance in the world. It is legal and unregulated in most parts of the world, and is found in many commonly sold products. It has a good safety profile, though regular heavy use can cause physical dependence and contribute to certain medical conditions."
+  },
+  "pweffects": {
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+   "Appetite suppression": "https://psychonautwiki.org/wiki/Appetite_suppression",
+   "Bronchodilation": "https://psychonautwiki.org/wiki/Bronchodilation",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Cognitive fatigue": "https://psychonautwiki.org/wiki/Cognitive_fatigue",
+   "Depression": "https://psychonautwiki.org/wiki/Depression",
+   "Focus enhancement": "https://psychonautwiki.org/wiki/Focus_enhancement",
+   "Frequent urination": "https://psychonautwiki.org/wiki/Frequent_urination",
+   "Increased blood pressure": "https://psychonautwiki.org/wiki/Increased_blood_pressure",
+   "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
+   "Increased libido": "https://psychonautwiki.org/wiki/Increased_libido",
+   "Irritability": "https://psychonautwiki.org/wiki/Irritability",
+   "Memory enhancement": "https://psychonautwiki.org/wiki/Memory_enhancement",
+   "Motivation enhancement": "https://psychonautwiki.org/wiki/Motivation_enhancement",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Tactile enhancement": "https://psychonautwiki.org/wiki/Tactile_enhancement",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+   "Vasoconstriction": "https://psychonautwiki.org/wiki/Vasoconstriction",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  }
+ }
+}

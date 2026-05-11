@@ -1,0 +1,20 @@
+{
+ "halothane": {
+  "categories": [
+   "depressant",
+   "tentative"
+  ],
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Halothane.shtml"
+  },
+  "name": "halothane",
+  "pretty_name": "Halothane",
+  "properties": {
+   "categories": [
+    "depressant",
+    "tentative"
+   ],
+   "summary": "A powerful inhalant anaesthetic generally used in a medical setting to induce unconsciousness as a supplement with ketamine or fentanyl."
+  }
+ }
+}

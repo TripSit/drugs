@@ -1,0 +1,77 @@
+{
+ "piracetam": {
+  "aliases": [
+   "nootropil",
+   "lucetam",
+   "noostan",
+   "breinox",
+   "oikamid",
+   "geratam",
+   "biotropil"
+  ],
+  "categories": [
+   "nootropic"
+  ],
+  "dose_note": " Note: Doses are typically split up to be taken 3x a day.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1200-4800mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-35"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Piracetam.shtml"
+  },
+  "name": "piracetam",
+  "pretty_name": "Piracetam",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "nootropil",
+    "lucetam",
+    "noostan",
+    "breinox",
+    "oikamid",
+    "geratam",
+    "biotropil"
+   ],
+   "categories": [
+    "nootropic"
+   ],
+   "dose": "Common: 1200-4800mg | Note: Doses are normally split up to be taken 3x a day.",
+   "duration": "3-6 hours.",
+   "onset": "15-35 minutes.",
+   "summary": "A racetam nootropic suggested to have cognitive benefits but has limited clinical research on it. The racetam is prescribed in the United Kingdom as a treatment for myoclonus. Piracetam is potentially an ampakine. It has been known to be one of the more popular nootropics."
+  },
+  "pweffects": {
+   "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
+   "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+   "Colour enhancement": "https://psychonautwiki.org/wiki/Colour_enhancement",
+   "Dream potentiation": "https://psychonautwiki.org/wiki/Dream_potentiation",
+   "Focus enhancement": "https://psychonautwiki.org/wiki/Focus_enhancement",
+   "Headaches": "https://psychonautwiki.org/wiki/Headaches",
+   "Irritability": "https://psychonautwiki.org/wiki/Irritability",
+   "Memory enhancement": "https://psychonautwiki.org/wiki/Memory_enhancement",
+   "Mindfulness": "https://psychonautwiki.org/wiki/Mindfulness",
+   "Motivation enhancement": "https://psychonautwiki.org/wiki/Motivation_enhancement",
+   "Muscle spasms": "https://psychonautwiki.org/wiki/Muscle_spasms",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Tactile enhancement": "https://psychonautwiki.org/wiki/Tactile_enhancement",
+   "Thought connectivity": "https://psychonautwiki.org/wiki/Thought_connectivity",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  }
+ }
+}

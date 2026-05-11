@@ -1,0 +1,54 @@
+{
+ "ethyl-pentedrone": {
+  "aliases": [
+   "nep",
+   "n-ethylpentedrone"
+  ],
+  "categories": [
+   "stimulant",
+   "empathogen",
+   "tentative",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "20-40",
+    "Light": "10-20mg",
+    "Strong": "40-60mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-4",
+   "Oral": "3-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-10",
+   "Oral": "10-20"
+  },
+  "name": "ethyl-pentedrone",
+  "pretty_name": "Ethyl-Pentedrone",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "aliases": [
+    "nep",
+    "n-ethylpentedrone"
+   ],
+   "categories": [
+    "stimulant",
+    "empathogen",
+    "tentative",
+    "research-chemical"
+   ],
+   "dose": "Insufflated Light: 10-20mg Common: 20-40 Strong: 40-60mg.",
+   "duration": "Oral: 3-6 hours. | Insufflated: 2-4 hours.",
+   "onset": "Oral: 10-20 minutes. | Insufflated: 5-10 minutes.",
+   "summary": "The drug is cathinone and related to Pentedrone. It became known around the same time as Ethyl-Hexedrone. There is limited information on the drug and caution, as always, is recommended."
+  }
+ }
+}

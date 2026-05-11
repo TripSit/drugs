@@ -1,0 +1,48 @@
+{
+ "25t-4-nbome": {
+  "aliases": [
+   "25t4-nbome"
+  ],
+  "categories": [
+   "tentative",
+   "psychedelic",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-12"
+  },
+  "formatted_dose": {
+   "Sublingual": {
+    "Common": "300-750ug",
+    "Light": "150-300ug",
+    "Strong": "750-1200ug."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-9"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-45"
+  },
+  "name": "25t-4-nbome",
+  "pretty_name": "25T-4-NBOMe",
+  "properties": {
+   "after-effects": "2-12 hours.",
+   "aliases": [
+    "25t4-nbome"
+   ],
+   "categories": [
+    "tentative",
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Sublingual Light: 150-300ug Common: 300-750ug Strong: 750-1200ug.",
+   "duration": "5-9 hours.",
+   "onset": "20-45 minutes.",
+   "summary": "A psychedelic RC of the NBOMe class of drugs that is expected to cause hallucinations. Limited human use has been recorded on this drug and caution should be used with dosing."
+  }
+ }
+}

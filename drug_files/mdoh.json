@@ -1,0 +1,53 @@
+{
+ "mdoh": {
+  "categories": [
+   "stimulant",
+   "psychedelic",
+   "research-chemical",
+   "tentative",
+   "empathogen",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "120-150mg",
+    "Heavy": "150mg+",
+    "Light": "100-120mg",
+    "Threshold": "80mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-40"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_MDOH.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal114.shtml"
+  },
+  "name": "mdoh",
+  "pretty_name": "MDOH",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "categories": [
+    "stimulant",
+    "psychedelic",
+    "research-chemical",
+    "tentative",
+    "empathogen",
+    "habit-forming"
+   ],
+   "dose": "Threshold: 80mg Light: 100-120mg Common: 120-150mg Heavy: 150mg+ (Tentative)",
+   "duration": "4-6 hours",
+   "onset": "20-40 minutes.",
+   "summary": "An entactogen, stimulant, and psychedelic first synthesised by Alexander Shulgin. MDOH is an analogue of MDA. The drug is described as having highly psychedelic effects. The drug is suspected to be a serotonin releasing agent. The drug has not seen widespread use. The drug is reported to have a number of side effects such as urinary retention and a heavy comedown."
+  }
+ }
+}

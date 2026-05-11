@@ -1,0 +1,111 @@
+{
+ "ethylphenidate": {
+  "aliases": [
+   "eph"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "common"
+  ],
+  "dose_note": " NOTE: Ethylphenidate should NOT be insufflated as it is known to be highly caustic and will cause serious harm to the nasal septum, even with light usage. This drug reacts with users in varying ways, it is recommended to start low and increase dosages slowly.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "40-100mg",
+    "Heavy": "150-200mg",
+    "Light": "20-40mg",
+    "Strong": "100-150mg"
+   },
+   "Rectal": {
+    "Common": "15-30mg",
+    "Heavy": "50-75mg",
+    "Light": "5-15mg",
+    "Strong": "30-50mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-6",
+   "Oral": "4-10",
+   "Rectal": "2-6"
+  },
+  "formatted_effects": [
+   "Focus/mental clarity",
+   "Abstract thinking",
+   "Euphoria",
+   "Stimulation",
+   "Increased music appreciation",
+   "Warm fuzzy body high",
+   "Increased desire to talk",
+   "Wakefulness",
+   "increased sex drive",
+   "Chest pain",
+   "Vasoconstriction",
+   "Jaw Tension",
+   "Restlessness",
+   "high blood pressure",
+   "compulsion to redose",
+   "paranoia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "1-10",
+   "Oral": "45-120",
+   "Rectal": "5-20"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Ethylphenidate.shtml"
+  },
+  "name": "ethylphenidate",
+  "pretty_name": "Ethylphenidate",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "eph"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "common"
+   ],
+   "dose": "Oral Light: 20-40mg Common: 40-100mg Strong: 100-150mg Heavy: 150-200mg | Rectal Light: 5-15mg Common: 15-30mg Strong: 30-50mg Heavy: 50-75mg | NOTE: Ethylphenidate should NOT be insufflated (see summary for more details). This drug reacts with users in varying ways, so start low and work your way up.",
+   "duration": "Oral: 4-10 hours. | Insufflated: 2-6 hours. | Plugged: 2-6 hours.",
+   "effects": "Focus/mental clarity, Abstract thinking, Euphoria, Stimulation, Increased music appreciation, Warm fuzzy body high, Increased desire to talk, Wakefulness, increased sex drive, Chest pain, Vasoconstriction, Jaw Tension, Restlessness, high blood pressure, compulsion to redose, paranoia",
+   "onset": "Insufflated: 1-10 minutes | Plugged: 5-20 minutes | Oral: 45-120 minutes",
+   "summary": "Potent psychostimulant, similar to Methylphenidate. Note: Ethylphenidate should NOT be insufflated as it is known to be highly caustic and will cause serious harm to your nasal septum, even with light usage."
+  },
+  "pweffects": {
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+   "Appetite suppression": "https://psychonautwiki.org/wiki/Appetite_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Cognitive fatigue": "https://psychonautwiki.org/wiki/Cognitive_fatigue",
+   "Dehydration": "https://psychonautwiki.org/wiki/Dehydration",
+   "Depression": "https://psychonautwiki.org/wiki/Depression",
+   "Empathy, love, and sociability enhancement": "https://psychonautwiki.org/wiki/Empathy,_love,_and_sociability_enhancement",
+   "Focus enhancement": "https://psychonautwiki.org/wiki/Focus_enhancement",
+   "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
+   "Irritability": "https://psychonautwiki.org/wiki/Irritability",
+   "Motivation enhancement": "https://psychonautwiki.org/wiki/Motivation_enhancement",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Teeth grinding": "https://psychonautwiki.org/wiki/Teeth_grinding",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+   "Vasoconstriction": "https://psychonautwiki.org/wiki/Vasoconstriction",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  },
+  "sources": {
+   "_general": [
+    "https://www.ncbi.nlm.nih.gov/pubmed/10820132",
+    "Ethylphenidate formation in human subjects after the administration of a single dose of methylphenidate and ethanol - https://www.ncbi.nlm.nih.gov/pubmed/10820132",
+    "Methylphenidate and its ethanol transesterification metabolite ethylphenidate: brain disposition, monoamine transporters and motor activity - http://www.ncbi.nlm.nih.gov/pubmed/17218796"
+   ]
+  }
+ }
+}

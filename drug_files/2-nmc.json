@@ -1,0 +1,15 @@
+{
+ "2-nmc": {
+  "categories": [
+   "inactive"
+  ],
+  "name": "2-nmc",
+  "pretty_name": "2-NMC",
+  "properties": {
+   "categories": [
+    "inactive"
+   ],
+   "summary": "Inactive."
+  }
+ }
+}

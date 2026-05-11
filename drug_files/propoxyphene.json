@@ -1,0 +1,42 @@
+{
+ "propoxyphene": {
+  "categories": [
+   "opioid",
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "65-100",
+    "Light": "30-65mg",
+    "Strong": "100-200mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "1-3"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-30"
+  },
+  "name": "propoxyphene",
+  "pretty_name": "Propoxyphene",
+  "properties": {
+   "after-effects": "2-6 hours.",
+   "categories": [
+    "opioid",
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Light: 30-65mg Common: 65-100 Strong: 100-200mg. NOTE: The drug is reported to have a high risk factor and is considered extremely dangerous.",
+   "duration": "1-3 hours.",
+   "onset": "20-30 minutes.",
+   "summary": "The drug is an analgesic in the opioid family. It is intended for mild pain and for its antitussive effects. The drug has been taken off the market in Europe and the US due to concerns of fatal overdoses and heart arrhythmias."
+  }
+ }
+}

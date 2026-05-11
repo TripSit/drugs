@@ -1,0 +1,62 @@
+{
+ "dramamine": {
+  "aliases": [
+   "dimenhydrinate",
+   "gravol"
+  ],
+  "categories": [
+   "depressant",
+   "deliriant",
+   "common"
+  ],
+  "dose_note": " NOTE: Greater caution is recommended with this drug due to it being a deliriant.",
+  "formatted_dose": {
+   "Oral": {
+    "Common": "250mg-400mg",
+    "Light": "100-250mg",
+    "Strong": "400mg-600mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-8"
+  },
+  "formatted_effects": [
+   "Delirium",
+   "Dream-Like-Experiences",
+   "Paranoia",
+   "Visual and audio distortions",
+   "dry mouth",
+   "muscle cramps",
+   "Nausea",
+   "Dysphoria",
+   "Tremors"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-90"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Dimenhydrinate.shtml"
+  },
+  "name": "dramamine",
+  "pretty_name": "Dimenhydrinate",
+  "properties": {
+   "aliases": [
+    "dimenhydrinate",
+    "gravol"
+   ],
+   "avoid": "A fair amount of oral dramamine preparations contain NSAID's which can be toxic to your liver at high doses.",
+   "categories": [
+    "depressant",
+    "deliriant",
+    "common"
+   ],
+   "dose": "Oral Light: 100-250mg Common: 250mg-400mg Strong: 400mg-600mg+ | NOTE: Greater caution is recommended with this drug due to it being a deliriant.",
+   "duration": "5-8 hours.",
+   "effects": "Delirium, Dream-Like-Experiences, Paranoia, Visual and audio distortions, dry mouth, muscle cramps, Nausea, Dysphoria, Tremors.",
+   "onset": "30-90 minutes",
+   "summary": "A combination of diphenhydramine and a mild stimulant to counteract the drowsiness accompanied by typical medical use of diphenhydramine. Roughly half the potency of diphenhydramine. Small doses can relieve motion sickness, reduce body load from opioids or dextromethorphan. The drug produces deliriant effects in higher doses, keeping the user awake and often causing dysphoric, realistic hallucinations."
+  }
+ }
+}

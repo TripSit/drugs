@@ -1,0 +1,46 @@
+{
+ "hexobarbital": {
+  "categories": [
+   "barbiturate",
+   "depressant",
+   "habit-forming",
+   "tentative"
+  ],
+  "dose_note": " Note: These dosages are extremely tentative.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "15-20mg",
+    "Light": "10-15mg",
+    "Strong": "20-30mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "minutes",
+   "value": "30-45"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "1-2"
+  },
+  "name": "hexobarbital",
+  "pretty_name": "Hexobarbital",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "avoid": "All CNS depressants.",
+   "categories": [
+    "barbiturate",
+    "depressant",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Light: 10-15mg Common: 15-20mg Strong: 20-30mg | Note: These dosages are extremely tentative.",
+   "duration": "30-45 minutes.",
+   "onset": "1-2 minutes.",
+   "summary": "The drug is barbiturate that was used for anesthesia during surgery. The drug has a very rapid onset and a short duration of effects."
+  }
+ }
+}

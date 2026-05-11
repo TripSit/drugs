@@ -1,0 +1,35 @@
+{
+ "phenetrazine": {
+  "categories": [
+   "stimulant",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "20-35mg",
+    "Heavy": "50mg+",
+    "Light": "10-20mg",
+    "Strong": "35-50mg"
+   },
+   "Oral": {
+    "Common": "25-50mg",
+    "Heavy": "70mg+",
+    "Light": "10-25mg",
+    "Strong": "50-70mg.",
+    "Threshold": "5-10mg"
+   }
+  },
+  "name": "phenetrazine",
+  "pretty_name": "Phenetrazine",
+  "properties": {
+   "categories": [
+    "stimulant",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Threshold: 5-10mg Light: 10-25mg Common: 25-50mg Strong: 50-70mg. Heavy: 70mg+ | Insufflated Light: 10-20mg Common: 20-35mg Strong: 35-50mg Heavy: 50mg+",
+   "summary": "A rare phenethylamine stimulant related to 3-FPM. There is limited information on the drugs pharmacology and effects. It is suspected to have similar properties to structurally similar compounds. Caution is recommended to not confuse it with phenmetrazine."
+  }
+ }
+}

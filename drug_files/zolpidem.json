@@ -1,0 +1,88 @@
+{
+ "zolpidem": {
+  "aliases": [
+   "ambien",
+   "stilnox"
+  ],
+  "categories": [
+   "depressant",
+   "habit-forming",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-10mg",
+    "Heavy": "20-30mg+",
+    "Light": "2.5-5mg",
+    "Strong": "10-20mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-10"
+  },
+  "formatted_effects": [
+   "Helps with insomnia/sleep",
+   "hallucinations through all physical senses",
+   "increased or decreased libido",
+   "delusions"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "name": "zolpidem",
+  "pretty_name": "Zolpidem",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "aliases": [
+    "ambien",
+    "stilnox"
+   ],
+   "avoid": "All other CNS depressants",
+   "bioavailability": "Oral: 70%",
+   "categories": [
+    "depressant",
+    "habit-forming",
+    "common"
+   ],
+   "dose": "Light: 2.5-5mg Common: 5-10mg Strong: 10-20mg Heavy: 20-30mg+",
+   "duration": "5-10 hours.",
+   "effects": "Helps with insomnia/sleep, hallucinations through all physical senses, increased or decreased libido, delusions",
+   "onset": "15-45 minutes.",
+   "summary": "Commonly prescribed for insomnia, Ambien (zolpidem) can cause realistic hallucinations similar to those of deliriants, and is very likely to cause amnesia at higher doses. Take care when using this drug, as it tends to lower inhibitions to a level which causes the user to do things they might not normally do when sober."
+  },
+  "pweffects": {
+   "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Appetite enhancement": "https://psychonautwiki.org/wiki/Appetite_enhancement",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+   "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Double vision": "https://psychonautwiki.org/wiki/Double_vision",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Language suppression": "https://psychonautwiki.org/wiki/Language_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Muscle relaxation": "https://psychonautwiki.org/wiki/Muscle_relaxation",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Tactile suppression": "https://psychonautwiki.org/wiki/Tactile_suppression",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+   "Visual disconnection": "https://psychonautwiki.org/wiki/Visual_disconnection"
+  },
+  "sources": {
+   "_general": [
+    "Irreversible ischemic hand following intraarterial injection of zolpidem powder - http://www.ncbi.nlm.nih.gov/pubmed/14705853",
+    "Clinical pharmacokinetics and pharmacodynamics of zolpidem. Therapeutic implications - http://www.ncbi.nlm.nih.gov/pubmed/8521677"
+   ]
+  }
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "ketobemidone": {
+  "aliases": [
+   "kbd"
+  ],
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-10mg",
+    "Light": "5mg",
+    "Strong": "10-15mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "4-8"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil constriction",
+   "Analgesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "45-60"
+  },
+  "name": "ketobemidone",
+  "pretty_name": "Ketobemidone",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "kbd"
+   ],
+   "avoid": "All other CNS depressants.",
+   "bioavailability": "Oral 34% +/- 10% | Rectal 44% +/- 9%",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Oral Light: 5mg Common: 5-10mg Strong: 10-15mg.",
+   "duration": "Oral: 4-8 hours Insufflated: 2-4 hours. Plugged: 5-10 hours. Intravenious: 2-4 hours.",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
+   "half-life": "2.25-2.45 Hours.",
+   "onset": "Oral: 45-60 minutes. Insufflated: 5-15 minutes. Plugged: 15-30 minutes.",
+   "summary": "An opioid analgesic drug that additionally acts as an NDMA antagonist. Found to be as potent as morphine in physical side effects, and has a high risk of substance abuse disorder. Overdose may lead to respiratory depression and further, death. It is strongly recommended against mixing with CNS depressants. Additional caution is advised for asthmatic users due to CNS depression risk."
+  }
+ }
+}

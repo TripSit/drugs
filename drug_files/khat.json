@@ -1,0 +1,38 @@
+{
+ "khat": {
+  "categories": [
+   "habit-forming",
+   "stimulant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-10"
+  },
+  "formatted_duration": {
+   "_unit": "minutes",
+   "value": "30-120"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "10-15"
+  },
+  "name": "khat",
+  "pretty_name": "Khat",
+  "properties": {
+   "after-effects": "1-10 hours.",
+   "aliases": [
+    "gat",
+    "qat",
+    "chat"
+   ],
+   "avoid": "Other stimulants",
+   "categories": [
+    "habit-forming",
+    "stimulant"
+   ],
+   "duration": "30-120 minutes.",
+   "onset": "Chewed: 10-15 minutes",
+   "summary": "A shrub whose leaves contain Cathinone and Cathine, they are typically chewed for the stimulant effect they provide. There is a very long history of human use for this drug."
+  }
+ }
+}

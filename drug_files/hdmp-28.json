@@ -1,0 +1,55 @@
+{
+ "hdmp-28": {
+  "aliases": [
+   "methylnaphtidate"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "tentative",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "15-30mg",
+    "Light": "10-15",
+    "Strong": "30-50mg+",
+    "Threshold": "8-10mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "1-10"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_HDMP28.shtml"
+  },
+  "name": "hdmp-28",
+  "pretty_name": "HDMP-28",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "methylnaphtidate"
+   ],
+   "avoid": "Other stimulants.",
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "tentative",
+    "habit-forming"
+   ],
+   "dose": "Oral Threshold: 8-10mg Light: 10-15 Common: 15-30mg Strong: 30-50mg+",
+   "duration": "2-4 hours. (Dose dependent)",
+   "onset": "1-10 minutes.",
+   "summary": "The drug is commonly known as methylnapthidate. A functional stimulant similar to methylphenidate but with a longer duration. The drug is reported to not be especially recreational."
+  }
+ }
+}

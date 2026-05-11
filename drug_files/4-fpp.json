@@ -1,0 +1,39 @@
+{
+ "4-fpp": {
+  "categories": [
+   "psychedelic",
+   "empathogen",
+   "tentative",
+   "stimulant"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "40-80mg",
+    "Light": "20-40mg",
+    "Strong": "80-150mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "name": "4-fpp",
+  "pretty_name": "4-FPP",
+  "properties": {
+   "categories": [
+    "psychedelic",
+    "empathogen",
+    "tentative",
+    "stimulant"
+   ],
+   "dose": "Light: 20-40mg Common: 40-80mg Strong: 80-150mg+",
+   "duration": "4-8 hours.",
+   "onset": "15-45 minutes.",
+   "summary": "A piperazine derivative that has been reported to have mild pyschedelic effects and empathogenic qualities. It has been sold in many branded legal highs."
+  }
+ }
+}

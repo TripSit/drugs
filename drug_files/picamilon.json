@@ -1,0 +1,45 @@
+{
+ "picamilon": {
+  "categories": [
+   "nootropic",
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "80-140mg",
+    "Light": "40-80mg",
+    "Strong": "140-250mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-45"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Picamilon.shtml"
+  },
+  "name": "picamilon",
+  "pretty_name": "Picamilon",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "categories": [
+    "nootropic",
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 40-80mg Common: 80-140mg Strong: 140-250mg.",
+   "duration": "2-4 hours.",
+   "onset": "10-45 minutes.",
+   "summary": "An analogue of GABA that passes the brain blood barrier, which is then hydrolyzed into GABA and niacin. It is suggested GABA is the producer of an anxiolytic effect from this action. In contrast, it is suggested niacin acts as a vasodilator. Picamilon is often used in nootropic 'stacks'."
+  }
+ }
+}

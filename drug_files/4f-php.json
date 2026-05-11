@@ -1,0 +1,40 @@
+{
+ "4f-php": {
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "tentative",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "15-30mg",
+    "Light": "5-15mg",
+    "Strong": "30-50mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "name": "4f-php",
+  "pretty_name": "4F-PHP",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "tentative",
+    "habit-forming"
+   ],
+   "dose": "Insufflated Light: 5-15mg Common: 15-30mg Strong: 30-50mg+",
+   "duration": "3-6 hours.",
+   "onset": "Insufflated 5-10 minutes.",
+   "summary": "4-Fluoro analogue of a-PHP. There are some reports indicating it has less manic effects than a-PHP, however the dosages seem similar."
+  }
+ }
+}

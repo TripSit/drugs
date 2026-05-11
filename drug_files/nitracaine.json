@@ -1,0 +1,44 @@
+{
+ "nitracaine": {
+  "categories": [
+   "stimulant",
+   "tentative",
+   "habit-forming"
+  ],
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "30-40mg",
+    "Light": "20-30mg",
+    "Strong": "50mg+"
+   },
+   "Oral": {
+    "Common": "100-150mg",
+    "Light": "100mg",
+    "Strong": "150-175mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-4",
+   "Oral": "3-5"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-10",
+   "Oral": "10-30"
+  },
+  "name": "nitracaine",
+  "pretty_name": "Nitracaine",
+  "properties": {
+   "categories": [
+    "stimulant",
+    "tentative",
+    "habit-forming"
+   ],
+   "dose": "Oral Low: 100mg Common: 100-150mg Strong: 150-175mg+ | Insufflated Light: 20-30mg Common: 30-40mg Strong: 50mg+",
+   "duration": "Insufflated: 2-4 hours | Oral: 3-5 hours.",
+   "onset": "Oral: 10-30 minutes. | Insufflated: 5-10 minutes",
+   "summary": "An analogue of dimethocaine with local anaesthetic and stimulant properties. The drug is often marketed in the research chemical scene as a cocaine replacement. There is little reported use of the drug."
+  }
+ }
+}

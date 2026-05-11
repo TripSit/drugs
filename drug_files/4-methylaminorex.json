@@ -1,0 +1,48 @@
+{
+ "4-methylaminorex": {
+  "aliases": [],
+  "categories": [
+   "stimulant",
+   "habit-forming",
+   "tentative",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-10mg",
+    "Dangerous": "15-20mg+",
+    "Light": "1-5mg",
+    "Strong": "10-15mg",
+    "Threshold": "1mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "14-18"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "5-15"
+  },
+  "name": "4-methylaminorex",
+  "pretty_name": "4-METHYLAMINOREX",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "aliases": [],
+   "categories": [
+    "stimulant",
+    "habit-forming",
+    "tentative",
+    "research-chemical"
+   ],
+   "dose": "Threshold: 1mg Light: 1-5mg Common: 5-10mg Strong: 10-15mg Dangerous: 15-20mg+",
+   "duration": "14-18 hours.",
+   "onset": "5-15 minutes.",
+   "summary": "A very potent stimulant that has a long duration of action at around 16 hours."
+  }
+ }
+}

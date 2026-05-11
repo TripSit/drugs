@@ -1,0 +1,121 @@
+{
+ "lsa": {
+  "aliases": [
+   "hbwr",
+   "morningglory",
+   "hbmg",
+   "Morning",
+   "ololiuqui",
+   "morning_glory",
+   "hbw"
+  ],
+  "categories": [
+   "psychedelic",
+   "common"
+  ],
+  "dose_note": "Some individuals report a hangover, characterized by a feelings of mental sluggishness and dulled emotions.",
+  "formatted_dose": {
+   "HBWR": {
+    "Common": "2-6seeds",
+    "Heavy": "14seeds+",
+    "Light": "1-2seeds",
+    "Strong": "6-14seeds"
+   },
+   "Morning_Glory": {
+    "Common": "100-250seeds",
+    "Heavy": "400seeds+",
+    "Light": "50-100seeds",
+    "Strong": "250-400seeds"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-10"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-180"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_LSA.shtml"
+  },
+  "name": "lsa",
+  "pretty_name": "LSA",
+  "properties": {
+   "after-effects": "Some individuals report a hangover, characterized by a feelings of mental sluggishness and dulled emotions.",
+   "aliases": [
+    "hbwr",
+    "morningglory",
+    "hbmg",
+    "Morning",
+    "ololiuqui",
+    "morning_glory",
+    "hbw"
+   ],
+   "categories": [
+    "psychedelic",
+    "common"
+   ],
+   "dose": "HBWR Light: 1-2seeds Common: 2-6seeds Strong: 6-14seeds Heavy: 14seeds+ | Morning_Glory Light: 50-100seeds Common: 100-250seeds Strong: 250-400seeds Heavy: 400seeds+",
+   "duration": "4-10 hours",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "30-180 minutes",
+   "summary": "A chemical found in Morning Glory and Hawaiian Baby Woodrose seeds, which are often sold legally in various stores. The drug is reported to have mental effects similar to LSD, although reportedly little to no visual effects. The drug is reported to frequently cause nausea and causing excessive time dilation at higher dosages."
+  },
+  "pweffects": {
+   "8B Geometry - Exposure to inner mechanics of consciousness": "https://psychonautwiki.org/wiki/8B_Geometry_-_Exposure_to_inner_mechanics_of_consciousness",
+   "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+   "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+   "Colour enhancement": "https://psychonautwiki.org/wiki/Colour_enhancement",
+   "Colour shifting": "https://psychonautwiki.org/wiki/Colour_shifting",
+   "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+   "D\u00e9j\u00e0 vu": "https://psychonautwiki.org/wiki/D%C3%A9j%C3%A0_vu",
+   "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+   "Emotion enhancement": "https://psychonautwiki.org/wiki/Emotion_enhancement",
+   "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Novelty enhancement": "https://psychonautwiki.org/wiki/Novelty_enhancement",
+   "Pattern recognition enhancement": "https://psychonautwiki.org/wiki/Pattern_recognition_enhancement",
+   "Perception of increased weight": "https://psychonautwiki.org/wiki/Perception_of_increased_weight",
+   "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Pupil dilation": "https://psychonautwiki.org/wiki/Pupil_dilation",
+   "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Subconscious communication": "https://psychonautwiki.org/wiki/Subconscious_communication",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Thought connectivity": "https://psychonautwiki.org/wiki/Thought_connectivity",
+   "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+   "Transformations": "https://psychonautwiki.org/wiki/Transformations",
+   "Unity and interconnectedness": "https://psychonautwiki.org/wiki/Unity_and_interconnectedness",
+   "Vasoconstriction": "https://psychonautwiki.org/wiki/Vasoconstriction",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  }
+ }
+}

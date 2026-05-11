@@ -1,0 +1,38 @@
+{
+ "centrophenoxine": {
+  "aliases": [
+   "lucidril",
+   "meclofenoxate"
+  ],
+  "categories": [
+   "nootropic",
+   "tentative",
+   "stimulant"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "250mg 1-6x a day."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "name": "centrophenoxine",
+  "pretty_name": "Centrophenoxine",
+  "properties": {
+   "aliases": [
+    "lucidril",
+    "meclofenoxate"
+   ],
+   "categories": [
+    "nootropic",
+    "tentative",
+    "stimulant"
+   ],
+   "dose": "Oral: 250mg 1-6x a day.",
+   "duration": "Oral: 4-8 hours.",
+   "summary": "Cholinergic compound with a DMAE compotent. It is thought to help in reversing some signs of aging. Naturally found substance, most notably in fish."
+  }
+ }
+}

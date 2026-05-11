@@ -1,0 +1,59 @@
+{
+ "oxazepam": {
+  "aliases": [
+   "serax"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-10"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-30mg",
+    "Light": "5-10mg",
+    "Strong": "30-45mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_effects": [
+   "The drug is reported to have effects associated with typical common benzodiazepines",
+   "Amnesic",
+   "anxiolytic",
+   "anticonvulsant",
+   "hypnotic",
+   "sedative"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "60-120"
+  },
+  "name": "oxazepam",
+  "pretty_name": "Oxazepam",
+  "properties": {
+   "after-effects": "1-10 hours.",
+   "aliases": [
+    "serax"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Light: 5-10mg Common: 10-30mg Strong: 30-45mg+",
+   "dose_to_diazepam": "Oxazepam - 20mg ~=10mg Diazepam.",
+   "duration": "4-6 hours.",
+   "effects": "The drug is reported to have effects associated with typical common benzodiazepines. Some of these effects include but are not limited to, amnesic, anxiolytic, anticonvulsant, hypnotic, and sedative.",
+   "onset": "60-120 minutes.",
+   "summary": "A prescription benzodiazepine with intermediate duration and half life. A sedative and hypnotic which may cause lowered inhibitions and amnesia in higher doses."
+  }
+ }
+}

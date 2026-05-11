@@ -1,0 +1,63 @@
+{
+ "lsz": {
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "150-300ug",
+    "Heavy": "300ug+",
+    "Light": "100-150ug",
+    "Threshold": "80ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "7-10"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "90-120"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_LSZ.shtml"
+  },
+  "name": "lsz",
+  "pretty_name": "LSZ",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Threshold: 80ug Light: 100-150ug Common: 150-300ug Heavy: 300ug+",
+   "duration": "7-10 hours",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "90-120 minutes.",
+   "summary": "A lysergamide similar to LSD typically distinguishable by its shorter duration. Some subjective reports indicate the drug may have slightly more introspective effects, and may be slightly less confusing of an experience."
+  }
+ }
+}

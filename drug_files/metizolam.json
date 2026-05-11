@@ -1,0 +1,72 @@
+{
+ "metizolam": {
+  "aliases": [
+   "metiz",
+   "desmethyletizolam"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "research-chemical",
+   "depressant",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "10-30"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "2-4mg",
+    "Heavy": "6mg+",
+    "Light": "1-2mg",
+    "Strong": "4-6mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-90"
+  },
+  "name": "metizolam",
+  "pretty_name": "Metizolam",
+  "properties": {
+   "after-effects": "10-30 hours",
+   "aliases": [
+    "metiz",
+    "desmethyletizolam"
+   ],
+   "categories": [
+    "benzodiazepine",
+    "research-chemical",
+    "depressant",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Light: 1-2mg Common: 2-4mg Strong: 4-6mg Heavy: 6mg+",
+   "duration": "5-8 hours",
+   "onset": "30-90 minutes",
+   "summary": "The drug is also known as desmethyletizolam. It is a thienodiazepine with similar effects and structure to etizolam. In comparison to etizolam it is roughly half as potent with around a 60% longer half-life. The drug is a sedative hypnotic and may cause amnesia and lowered inhibitions in excess."
+  },
+  "pweffects": {
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Analysis suppression": "https://psychonautwiki.org/wiki/Analysis_suppression",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+   "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Emotion suppression": "https://psychonautwiki.org/wiki/Emotion_suppression",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Muscle relaxation": "https://psychonautwiki.org/wiki/Muscle_relaxation",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration"
+  }
+ }
+}

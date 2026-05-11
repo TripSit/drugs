@@ -1,0 +1,63 @@
+{
+ "gbl": {
+  "categories": [
+   "depressant",
+   "habit-forming",
+   "common"
+  ],
+  "dose_note": " NOTE: 1ml = 1.66 grams of GHB. Dosages above 2ml may induce heavy sleep.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-2"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "0.6-1.5ml",
+    "Dangerous": "5ml+",
+    "Heavy": "2-3ml",
+    "Light": "0.3-0.9ml",
+    "Strong": "1.2-2ml"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "1-2"
+  },
+  "formatted_effects": [
+   "relaxation",
+   "mood lift",
+   "happiness",
+   "sociability",
+   "increased sex drive",
+   "lowered inhibitions",
+   "analgesia",
+   "dystaxia",
+   "drowsiness",
+   "sleep",
+   "amnesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-30"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_GBL.shtml"
+  },
+  "name": "gbl",
+  "pretty_name": "GBL",
+  "properties": {
+   "after-effects": "1-2 hours",
+   "avoid": "Alcohol and other depressants.",
+   "categories": [
+    "depressant",
+    "habit-forming",
+    "common"
+   ],
+   "dose": "Oral Light: 0.3-0.9ml Common: 0.6-1.5ml Strong: 1.2-2ml Heavy: 2-3ml Dangerous: 5ml+ | NOTE: 1ml = 1.66g GHB. Tends to induce heavy sleep at 2ml and higher.",
+   "duration": "1-2 hours",
+   "effects": "relaxation, mood lift, happiness, sociability, increased sex drive, lowered inhibitions, analgesia, dystaxia, drowsiness, sleep, amnesia",
+   "onset": "10-30 minutes",
+   "summary": "A pro-drug to GHB whose rapid absorption leads it to have a faster onset and shorter duration."
+  }
+ }
+}

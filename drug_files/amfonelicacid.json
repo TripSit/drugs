@@ -1,0 +1,75 @@
+{
+ "amfonelicacid": {
+  "aliases": [
+   "aa",
+   "afa",
+   "win25978"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "nootropic"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "4-10mg",
+    "Strong": "10mg+",
+    "Threshold": "2-4mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "6-10",
+   "Oral": "8-12"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "Decreased need for sleep",
+   "Increased sociability",
+   "mood lift",
+   "increased libido",
+   "Excessive talking",
+   "Decreased appetite",
+   "Weight loss",
+   "Sweating",
+   "Disturbed sleep patterns",
+   "Bruxia",
+   "Visual and auditory hallucinations",
+   "itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-15",
+   "Oral": "30-45"
+  },
+  "name": "amfonelicacid",
+  "pretty_name": "Amfonelic acid",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "aliases": [
+    "aa",
+    "afa",
+    "win25978"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "nootropic"
+   ],
+   "dose": "Threshold: 2-4mg Common: 4-10mg Strong: 10mg+",
+   "duration": "Oral: 8-12 hours. | Insufflated: 6-10 hours.",
+   "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increased libido, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
+   "onset": "Oral: 30-45 minutes. | Insufflated: 5-15 minutes.",
+   "summary": "A dopaminergic stimulant discovered by Sterling-Winthrop accidentally while developing antibiotics. Discontinued due to undesirable stimulant effects, it has had some popularity as a recreational drug."
+  }
+ }
+}

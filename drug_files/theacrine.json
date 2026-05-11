@@ -1,0 +1,35 @@
+{
+ "theacrine": {
+  "categories": [
+   "stimulant",
+   "nootropic"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "25-50mg",
+    "Light": "10-25mg",
+    "Strong": "50-100mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-30"
+  },
+  "name": "theacrine",
+  "pretty_name": "Theacrine",
+  "properties": {
+   "categories": [
+    "stimulant",
+    "nootropic"
+   ],
+   "dose": "Oral Light: 10-25mg Common: 25-50mg Strong: 50-100mg+",
+   "duration": "2-6 hours.",
+   "onset": "15-30 minutes.",
+   "summary": "Small alkaloid which can be seen as a structurally modified version of caffeine, with similarly stimulating effects. The drug also shares anti-inflammatory and analgesic effects with caffeine."
+  }
+ }
+}

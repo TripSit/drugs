@@ -1,0 +1,57 @@
+{
+ "pv-8": {
+  "aliases": [
+   "a-phpp"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "tentative",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Insufflated": "4-8",
+   "Oral": "6-12",
+   "Vapourized": "2-5"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-40mg",
+    "Heavy": "60+mg.",
+    "Light": "10-20mg",
+    "Strong": "40-60mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-5",
+   "Oral": "3-6",
+   "Vapourized": "0.5-1.5"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-10",
+   "Oral": "15-45",
+   "Vapourized": "1-2"
+  },
+  "name": "pv-8",
+  "pretty_name": "PV-8",
+  "properties": {
+   "after-effects": "Oral: 6-12 hours | Insufflated: 4-8 hours | Vapourized: 2-5 hours.",
+   "aliases": [
+    "a-phpp"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "tentative",
+    "habit-forming"
+   ],
+   "dose": "Light: 10-20mg Common: 20-40mg Strong: 40-60mg Heavy: 60+mg.",
+   "duration": "Oral: 3-6 hours | Insufflated: 2-5 hours. | Vapourized: 0.5-1.5 hours.",
+   "onset": "Oral: 15-45 minutes. | Insufflated: 5-10 minutes | Vapourized: 1-2 minutes.",
+   "summary": "Stimulant of the pyrrolidinophenone class that is a higher homologue of \u03b1-PHP. Reportedly less potent and less effects."
+  }
+ }
+}

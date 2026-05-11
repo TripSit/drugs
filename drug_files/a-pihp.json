@@ -1,0 +1,70 @@
+{
+ "a-pihp": {
+  "aliases": [
+   "pihp"
+  ],
+  "categories": [
+   "stimulant",
+   "empathogen",
+   "habit-forming",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "10-25mg",
+    "Light": "3-10mg",
+    "Strong": "25-40mg",
+    "Threshold": "1-3mg"
+   },
+   "Oral": {
+    "Common": "15-30mg",
+    "Light": "5-15mg",
+    "Strong": "30-50mg",
+    "Threshold": "3-5mg"
+   },
+   "Vapourized": {
+    "Common": "10-20mg",
+    "Light": "2-10mg",
+    "Strong": "20-30mg.",
+    "Threshold": "1-2mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-4",
+   "Oral": "2-5",
+   "Vapourized": "1-3"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "1-2",
+   "Oral": "30-60",
+   "Vapourized": "1"
+  },
+  "name": "a-pihp",
+  "pretty_name": "A-PIHP",
+  "properties": {
+   "after-effects": "6-12 hours.",
+   "aliases": [
+    "pihp"
+   ],
+   "avoid": "Other stimulants and drugs that raise blood pressure.",
+   "categories": [
+    "stimulant",
+    "empathogen",
+    "habit-forming",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Oral Threshold: 3-5mg Light: 5-15mg Common: 15-30mg Strong: 30-50mg | Insufflated Threshold: 1-3mg Light: 3-10mg Common: 10-25mg Strong: 25-40mg | Vapourized Threshold: 1-2mg Light: 2-10mg Common: 10-20mg Strong: 20-30mg.",
+   "duration": "Oral: 2-5 hours | Insufflated: 2-4 hours. | Vapourized: 1-3 hours.",
+   "onset": "Oral: 30-60 minutes. | Insufflated: 1-2 minutes. | Vapourized: 1 minute.",
+   "summary": "Quite new Pyrrolidine based stimulant of the cathinone class. There is limited information on this drug. The drug is suspected to increase tolerance rapidly. The drug is also reported to lack effects over time as that tolerance builds."
+  }
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "5-mapdb": {
+  "aliases": [
+   "5mapdb"
+  ],
+  "categories": [
+   "stimulant",
+   "psychedelic",
+   "research-chemical",
+   "empathogen"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "75-120mg",
+    "Light": "50-75mg",
+    "Strong": "120-150mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-8"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "Decreased need for sleep",
+   "Increased sociability",
+   "mood lift",
+   "increased libido",
+   "Excessive talking",
+   "Decreased appetite",
+   "Weight loss",
+   "Sweating",
+   "Disturbed sleep patterns",
+   "Bruxia",
+   "Visual and auditory hallucinations",
+   "itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-70"
+  },
+  "name": "5-mapdb",
+  "pretty_name": "5-MAPDB",
+  "properties": {
+   "after-effects": "2-4 hours. (depending on the dose)",
+   "aliases": [
+    "5mapdb"
+   ],
+   "categories": [
+    "stimulant",
+    "psychedelic",
+    "research-chemical",
+    "empathogen"
+   ],
+   "dose": "Oral Light: 50-75mg Common: 75-120mg Strong: 120-150mg+",
+   "duration": "5-8 hours.",
+   "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increased libido, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
+   "onset": "45-70 minutes.",
+   "summary": "An entactogenic drug with similar effects to MDMA. The drug is structurally related to 5-MAPB. The drug is suspected to release serotonin and have neurotoxicity concerns similar to MDMA."
+  }
+ }
+}

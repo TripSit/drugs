@@ -1,0 +1,29 @@
+{
+ "homosildenafil": {
+  "categories": [
+   "research-chemical"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "25-50mg",
+    "Light": "10-25mg",
+    "Strong": "50-100mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-9"
+  },
+  "name": "homosildenafil",
+  "pretty_name": "Homosildenafil",
+  "properties": {
+   "categories": [
+    "research-chemical"
+   ],
+   "dose": "Oral Light: 10-25mg Common: 25-50mg Strong: 50-100mg",
+   "duration": "5-9 hours.",
+   "Oral": "Light: 10-25mg Common: 25-50mg Strong: 50-100mg.",
+   "summary": "An analogue of sildenafil (Viagra) reported to have similar effects. The drug has been missold in certain 'herbal' blends and dietary supplements for sexual potency. THere is little known about the pharmacology or safety profile of the drug in humans. The drug is potentially less potent than sildenafil."
+  }
+ }
+}

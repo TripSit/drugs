@@ -1,0 +1,55 @@
+{
+ "parafluorofentanyl": {
+  "aliases": [
+   "pff",
+   "4-fluorofentanyl"
+  ],
+  "categories": [
+   "opioid",
+   "depressant",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Insufflated": "1-2",
+   "Oral": "1-4"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "25-40ug",
+    "Light": "10-25ug",
+    "Strong": "40-65ug+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-3",
+   "Oral": "3-4"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "0-1",
+   "Oral": "5-10"
+  },
+  "name": "parafluorofentanyl",
+  "pretty_name": "Parafluorofentanyl",
+  "properties": {
+   "after-effects": "Oral: 1-4 hours. | Insufflated: 1-2 hours.",
+   "aliases": [
+    "pff",
+    "4-fluorofentanyl"
+   ],
+   "categories": [
+    "opioid",
+    "depressant",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Insufflated Light: 10-25ug Common: 25-40ug Strong: 40-65ug+",
+   "duration": "Oral: 3-4 hours. | Insufflated: 2-3 hours.",
+   "onset": "Oral: 5-10 minutes. | Insufflated: 0-1 minute.",
+   "summary": "The drug is reportedly rare and there is little known about it. It is an extremely potent research chemical analogue of fentanyl developed by Janssen Pharmaceutica in the 1960s. It is strongly recommended to handle with extreme caution and to avoid mixing it with other depressants."
+  }
+ }
+}

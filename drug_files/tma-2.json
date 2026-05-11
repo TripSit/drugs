@@ -1,0 +1,61 @@
+{
+ "tma-2": {
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-40mg",
+    "Light": "10-20mg",
+    "Strong": "40-60mg+",
+    "Threshold": "5-10mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-120"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_TMA2.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal158.shtml"
+  },
+  "name": "tma-2",
+  "pretty_name": "TMA-2",
+  "properties": {
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Threshold: 5-10mg Light: 10-20mg Common: 20-40mg Strong: 40-60mg+",
+   "duration": "6-12 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "20-120 minutes.",
+   "summary": "Trimethoxyamphetamine-2, a psychedelic amphetamine and stimulant first synthesised by Alexander Shulgin. An uncommon compound of similar activity to other psychedelic amphetamines. There is a short reported history of human use."
+  }
+ }
+}

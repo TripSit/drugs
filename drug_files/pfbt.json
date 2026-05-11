@@ -1,0 +1,51 @@
+{
+ "pfbt": {
+  "aliases": [
+   "4-fluorotropacocaine"
+  ],
+  "categories": [
+   "stimulant",
+   "habit-forming",
+   "tentative",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "50-70mg",
+    "Light": "20-50mg",
+    "Strong": "70-110mg+",
+    "Threshold": "10-20mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "1-2"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "1-10"
+  },
+  "name": "pfbt",
+  "pretty_name": "PFBT",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "aliases": [
+    "4-fluorotropacocaine"
+   ],
+   "categories": [
+    "stimulant",
+    "habit-forming",
+    "tentative",
+    "research-chemical"
+   ],
+   "dose": "Insufflated Threshold: 10-20mg Light: 20-50mg Common: 50-70mg Strong: 70-110mg+",
+   "duration": "Insufflated: 1-2 hours.",
+   "onset": "Insufflated: 1-10 minutes.",
+   "summary": "Tropane derivative substance that is suggested to have around ~30% the potency of cocaine as a stimulant, while also having properties of a local anasthetic."
+  }
+ }
+}

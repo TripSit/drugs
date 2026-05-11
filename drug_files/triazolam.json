@@ -1,0 +1,56 @@
+{
+ "triazolam": {
+  "aliases": [
+   "halcion"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "0.25-0.5mg",
+    "Light": "0.125-0.25mg",
+    "Strong": "0.5-1.5mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "3-5",
+   "Oral": "4-7"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "primarily sedative and hypnotic effects"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-20"
+  },
+  "name": "triazolam",
+  "pretty_name": "Triazolam",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "halcion"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Light: 0.125-0.25mg Common: 0.25-0.5mg Strong: 0.5-1.5mg+",
+   "dose_to_diazepam": "Triazolam - 0.5mg ~=10mg Diazepam.",
+   "duration": "Oral: 4-7 hours. | Insufflated: 3-5 hours.",
+   "effects": "Anxiolytic, but primarily sedative and hypnotic effects.",
+   "onset": "10-20 minutes.",
+   "summary": "An uncommon and very short-acting benzodiazepine. Sedating and hypnotic and may induce amnesia and lowered inhibitions at higher doses."
+  }
+ }
+}
