@@ -1,0 +1,33 @@
+#@knooooot 05/11/2026 Feel free to change this I am bad at coding.
+name: Validate drugs.json changes
+
+on:
+ pull_request:
+  paths:
+   - './drug_files/*.json'
+
+jobs:
+ validate-jsons:
+  runs-on: ubuntu-latest
+  steps:
+   - name: Checkout Repo
+     uses: actions/checkout@v6
+
+   - name: Start Node.js
+     uses: actions/setup-node@v4
+     with:
+      node-version: '21'
+
+   - name: Install AJV
+     run: npm install -g ajv-cli
+
+   - name: Validate JSON files
+     run: |
+      for file in drug_files/*.json; do
+      echo "Validating $file"
+      ajv validate -s schema.json -d "$file"
+      done
+
+   - name: Build drugs.json
+     if: success()
+     run: npx ts-node ./scripts/
