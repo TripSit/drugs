@@ -21,17 +21,16 @@ jobs:
 
    - name: Validate JSON files 
      run: |
-      echo "test"
-      for file in drug_files/*.json; do
-      echo "Validating2 $file"
-      echo string.format(./schemas/drugs-schema.json)
-      ajv validate -s 'schemas/drugs-schema.json' -d "$file"
-      done
-      on-error:
-      message: {{error.message}}
-      continue
+      for file in drug_files/*.json; do:
+          echo "Validating $file"
+          echo ./schemas/drugs-schema.json
+          ajv validate -s 'schemas/drugs-schema.json' -d "$file"
+            if [ $? -ne 0 ]; then
+              echo "Validation failed for $file"
+            fi
+          done
       }
 
    - name: Build drugs.json
      if: success()
-     run: npx ts-node ./scripts/
+     run: npx ts-node ./scripts/combineDrugs.ts --github-check
