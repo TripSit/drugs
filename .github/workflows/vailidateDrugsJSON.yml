@@ -26,7 +26,7 @@ jobs:
       for file in drug_files/*.json; do
       echo "Validating2 $file"
       echo string.format(./schemas/drugs-schema.json)
-      ajv validate -s './schemas/drugs-schema.json' -d "$file"
+      ajv validate -s 'schemas/drugs-schema.json' -d "$file"
       done
 
    - name: Build drugs.json
