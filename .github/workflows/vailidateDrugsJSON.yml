@@ -21,6 +21,7 @@ jobs:
 
    - name: Validate JSON files
      run: |
+      echo "test"
       for file in drug_files/*.json; do
       echo "Validating2 $file"
       echo string.format(./schemas/drugs-schema.json)
