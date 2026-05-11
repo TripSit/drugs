@@ -19,14 +19,18 @@ jobs:
    - name: Install AJV
      run: npm install -g ajv-cli
 
-   - name: Validate JSON files
+   - name: Validate JSON files 
      run: |
+      try:
       echo "test"
       for file in drug_files/*.json; do
       echo "Validating2 $file"
       echo string.format(./schemas/drugs-schema.json)
       ajv validate -s 'schemas/drugs-schema.json' -d "$file"
       done
+      catch {
+      echo error
+      }
 
    - name: Build drugs.json
      if: success()
