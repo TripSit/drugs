@@ -2,35 +2,35 @@
 name: Validate drugs.json changes
 
 on:
- push:
+  push:
 
 jobs:
- validate-jsons:
-  runs-on: ubuntu-latest
-  steps:
-   - name: Checkout Repo
-     uses: actions/checkout@v6
+  validate-jsons:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v6
 
-   - name: Start Node.js
-     uses: actions/setup-node@v4
-     with:
-      node-version: '21'
+      - name: Start Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '21'
 
-   - name: Install AJV
-     run: npm install -g ajv-cli
+      - name: Install AJV
+        run: npm install -g ajv-cli
 
-   - name: Validate JSON files 
-     run: |
-      for file in drug_files/*.json; do:
-          echo "Validating $file"
-          echo ./schemas/drugs-schema.json
-          ajv validate -s 'schemas/drugs-schema.json' -d "$file"
+      - name: Validate JSON files
+        run: |
+          for file in drug_files/*.json; do
+            echo "Validating: $file"
+            ajv validate -s 'schemas/drugs-schema.json' -d "$file"
             if [ $? -ne 0 ]; then
               echo "Validation failed for $file"
+              exit 1  # Exit the workflow if validation fails
             fi
           done
-      }
+        shell: /usr/bin/bash -e
 
-   - name: Build drugs.json
-     if: success()
-     run: npx ts-node ./scripts/combineDrugs.ts --github-check
+      - name: Build drugs.json
+        if: success()
+        run: npx ts-node ./scripts/your_script.ts
