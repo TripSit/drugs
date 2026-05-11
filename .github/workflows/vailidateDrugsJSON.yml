@@ -3,8 +3,6 @@ name: Validate drugs.json changes
 
 on:
  pull_request:
-  paths:
-   - '../drug_files/*.json'
 
 jobs:
  validate-jsons:
