@@ -25,7 +25,7 @@ jobs:
      run: |
       for file in drug_files/*.json; do
       echo "Validating $file"
-      print(string.format(./schemas/drugs-schema.json))
+      echo string.format(./schemas/drugs-schema.json)
       ajv validate -s './schemas/drugs-schema.json' -d "$file"
       done
 
