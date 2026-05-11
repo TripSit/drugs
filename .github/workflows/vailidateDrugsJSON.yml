@@ -29,7 +29,6 @@ jobs:
               exit 1  # Exit the workflow if validation fails
             fi
           done
-        shell: /usr/bin/bash -e
 
       - name: Build drugs.json
         if: success()
