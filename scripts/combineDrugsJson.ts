@@ -1,4 +1,4 @@
-console.log("Starting to combine drug JSON files into drugs.json...");")
+console.log("Starting to combine drug JSON files into drugs.json...");
 import fs from 'fs';
 
 const drugsIndividualJSONDir = './drug_files/';
