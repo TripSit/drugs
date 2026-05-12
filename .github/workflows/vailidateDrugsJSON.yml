@@ -19,6 +19,9 @@ jobs:
       - name: Install AJV
         run: npm install -g ajv-cli@>=8.20.0
 
+      - name: Install AJV Formats
+        run: npm install ajv-formats
+
       - name: Validate JSON files
         run: |
           export PATH="$PATH:./node_modules/.bin"  # Add node_modules/.bin to PATH
