@@ -1,3 +1,4 @@
+console.log("Starting to combine drug JSON files into drugs.json...");")
 import fs from 'fs';
 
 const drugsIndividualJSONDir = './drug_files/';
@@ -45,3 +46,6 @@ function rebuildDrugsJSON() {
         });
     });
 }
+
+rebuildDrugsJSON();
+console.log("Finished combining drug JSON files into drugs.json.")
