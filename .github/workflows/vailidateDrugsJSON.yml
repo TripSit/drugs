@@ -27,7 +27,7 @@ jobs:
           export PATH="$PATH:./node_modules/.bin"  # Add node_modules/.bin to PATH
           for file in drug_files/*.json; do
             echo "Validating: $file"
-            ajv validate -s 'schemas/drugs-schema.json' -d "$file"
+            ajv validate -s 'schemas/drugs-schema.json' -d "$file" --formats ajv-formats
             if [ $? -ne 0 ]; then
               echo "Validation failed for $file"
               exit 1  # Exit the workflow if validation fails
