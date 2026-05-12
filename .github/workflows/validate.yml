@@ -21,14 +21,14 @@ jobs:
     
     - name: Install Dependencies
       run: npm install
+
+    - name: Re-create the drugs.json
+      run: npx ts-node ./scripts/combineDrugsJson.ts
       
     - name: Run validation script
       run: npx ts-node ./scripts/combosToDrugs.ts --github-check
       env:
         CI: true
-
-    - name: Re-create the drugs.json
-      run: npx ts-node ./scripts/combineDrugsJson.ts
 
     - name: Assign Pull Request
       uses: actions/github-script@v5
