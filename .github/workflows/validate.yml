@@ -27,6 +27,9 @@ jobs:
       env:
         CI: true
 
+    - name: Re-create the drugs.json
+      run: npx ts-node ./scripts/combineDrugsJson.ts
+
     - name: Assign Pull Request
       uses: actions/github-script@v5
       with:

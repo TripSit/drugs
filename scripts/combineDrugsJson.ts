@@ -1,10 +1,10 @@
-/*
-@knooooot 05/11/2026
-I am no good at typescript so please feel free to edit or scrap this.
-*/
 import fs from 'fs';
 
 const drugsIndividualJSONDir = './drug_files/';
+
+fs.rm('./drugs.json', { force: true }, (err) => {
+}
+)
 const drugsJSONFile = './drugs.json'
 
 fs.readdir(drugsIndividualJSONDir, (err, jsons) => {
@@ -14,10 +14,6 @@ fs.readdir(drugsIndividualJSONDir, (err, jsons) => {
     }
     if (jsons.length === 0) {
         console.warn('No JSON files found in the directory.');
-        return;
-    }
-    if (jsons.length === 1) {
-        console.log('Only one JSON file found. No need to combine.'); //ACUTALLY JUST ADD IT
         return;
     }
     for (const json of jsons) {
@@ -37,7 +33,7 @@ fs.readdir(drugsIndividualJSONDir, (err, jsons) => {
                 }
                 combinedData.push(...drugData);
                 fs.writeFileSync(drugsJSONFile, JSON.stringify(combinedData, null, 2));
-                console.log(`Successfully combined ${json} into combined_drugs.json`);
+                console.log(`Successfully combined ${json} into drugs.json`);
             } catch (parseErr) {
                 console.error(`Error parsing JSON from file ${json}:`, parseErr);
             }
