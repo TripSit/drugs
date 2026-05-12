@@ -21,6 +21,7 @@ jobs:
 
       - name: Validate JSON files
         run: |
+          export PATH="$PATH:./node_modules/.bin"  # Add node_modules/.bin to PATH
           for file in drug_files/*.json; do
             echo "Validating: $file"
             ajv validate -s 'schemas/drugs-schema.json' -d "$file"
