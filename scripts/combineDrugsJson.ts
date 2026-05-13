@@ -5,17 +5,36 @@ const drugsIndividualJSONDir = './drug_files/';
 const drugsJSONFile = './drugs.json';
 
 /**
- * Combines individual drug JSON files into a single drugs.json object.
+ * Recursively sorts object keys to match the validation criteria:
+ * localeCompare with { numeric: true, sensitivity: 'base' }
  */
+function sortObjectKeys(obj: any): any {
+    if (obj === null || typeof obj !== 'object' || Array.isArray(obj)) {
+        return obj;
+    }
+
+    const sortedObj: Record<string, any> = {};
+    // Get keys and sort them using the exact logic from combosToDrugs.ts
+    const keys = Object.keys(obj).sort((a, b) =>
+        a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' })
+    );
+
+    for (const key of keys) {
+        // Recursively sort nested objects (like 'properties' or 'formatted_dose')
+        sortedObj[key] = sortObjectKeys(obj[key]);
+    }
+
+    return sortedObj;
+}
+
 async function rebuildDrugsJSON() {
     console.log("Starting to combine drug JSON files into drugs.json...");
 
     try {
-        // 1. Remove the existing drugs.json if it exists
+        // 1. Clean up existing file
         await fs.rm(drugsJSONFile, { force: true });
-        console.log('Cleaned up existing drugs.json');
 
-        // 2. Read the directory for individual JSON files
+        // 2. Read the directory
         const files = await fs.readdir(drugsIndividualJSONDir);
         const jsonFiles = files.filter(file => file.endsWith('.json'));
 
@@ -26,14 +45,12 @@ async function rebuildDrugsJSON() {
 
         const combinedData: Record<string, any> = {};
 
-        // 3. Process files iteratively
+        // 3. Merge all files into one object
         for (const json of jsonFiles) {
             const filePath = path.join(drugsIndividualJSONDir, json);
             const fileContent = await fs.readFile(filePath, 'utf-8');
-
             try {
                 const drugData = JSON.parse(fileContent);
-                // Merge individual drug objects into the master record
                 Object.assign(combinedData, drugData);
                 console.log(`Successfully processed ${json}`);
             } catch (parseErr) {
@@ -41,9 +58,12 @@ async function rebuildDrugsJSON() {
             }
         }
 
-        // 4. Write the final combined object to disk
-        await fs.writeFile(drugsJSONFile, JSON.stringify(combinedData, null, 2));
-        console.log(`Finished! Combined ${Object.keys(combinedData).length} drugs into drugs.json.`);
+        // 4. Alphabetize the final object recursively to satisfy the CI check
+        const sortedData = sortObjectKeys(combinedData);
+
+        // 5. Write the sorted file to disk
+        await fs.writeFile(drugsJSONFile, JSON.stringify(sortedData, null, 2));
+        console.log(`Finished! Combined and alphabetized ${Object.keys(sortedData).length} drugs into drugs.json.`);
 
     } catch (err) {
         console.error('An error occurred during the rebuild process:', err);
@@ -51,5 +71,5 @@ async function rebuildDrugsJSON() {
     }
 }
 
-// Invoke the function to actually run the logic
+// Execute the function
 rebuildDrugsJSON();
