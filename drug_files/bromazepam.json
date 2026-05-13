@@ -1,0 +1,73 @@
+{
+ "bromazepam": {
+  "aliases": [
+   "lectopam",
+   "lexilium",
+   "lexotan",
+   "brazepam",
+   "lexotanil"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant"
+  ],
+  "dose_note": " NOTE: 6mg of Bromazepam is approximately equivalent to 10mg Diazepam",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-16"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-10mg",
+    "Heavy": "10-15mg+",
+    "Light": "2.5-5mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-20"
+  },
+  "name": "bromazepam",
+  "pretty_name": "Bromazepam",
+  "properties": {
+   "after-effects": "1-16 hours.",
+   "aliases": [
+    "lectopam",
+    "lexilium",
+    "lexotan",
+    "brazepam",
+    "lexotanil"
+   ],
+   "avoid": "All other CNS depressants.",
+   "bioavailability": "Oral: 84%.",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Oral Light: 2.5-5mg Common: 5-10mg Heavy: 10-15mg+ | NOTE: 6mg of Bromazepam is approximately equivalent to 10mg Diazepam",
+   "dose_to_diazepam": "Bromazepam - 5-6mg's ~=10mg Diazepam.",
+   "duration": "4-8 hours.",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia.",
+   "onset": "10-20 minutes.",
+   "summary": "A benzodiazepine drug with a medium-long duration, developed by Roche in the 1960s. Has primarily anxiolytic properties. May cause lowered inhibitions and amnesia in high doses."
+  },
+  "sources": {
+   "_general": [
+    "Bioavailability of bromazepam in man after single administration of an oral solution. http://www.ncbi.nlm.nih.gov/pubmed/6142717"
+   ]
+  }
+ }
+}

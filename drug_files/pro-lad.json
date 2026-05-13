@@ -1,0 +1,35 @@
+{
+ "pro-lad": {
+  "categories": [
+   "tentative",
+   "psychedelic"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-150ug",
+    "Light": "50-100ug",
+    "Strong": "150-200ug."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-10"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-45"
+  },
+  "name": "pro-lad",
+  "pretty_name": "PRO-LAD",
+  "properties": {
+   "categories": [
+    "tentative",
+    "psychedelic"
+   ],
+   "dose": "Light: 50-100ug Common: 100-150ug Strong: 150-200ug.",
+   "duration": "6-10 hours.",
+   "onset": "30-45 minutes.",
+   "summary": "A rare lysergamide that is slightly less potent than LSD with a shorter duration of action."
+  }
+ }
+}

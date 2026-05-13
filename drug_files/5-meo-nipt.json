@@ -1,0 +1,48 @@
+{
+ "5-meo-nipt": {
+  "aliases": [
+   "5meonipt"
+  ],
+  "categories": [
+   "psychedelic",
+   "tentative",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-16"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "8-15mg",
+    "Strong": "15-25mg",
+    "Threshold": "2-4mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-60"
+  },
+  "name": "5-meo-nipt",
+  "pretty_name": "5-MeO-NIPT",
+  "properties": {
+   "after-effects": "1-16 hours.",
+   "aliases": [
+    "5meonipt"
+   ],
+   "categories": [
+    "psychedelic",
+    "tentative",
+    "research-chemical"
+   ],
+   "dose": "Threshold: 2-4mg Common: 4-8mg Common: 8-15mg Strong: 15-25mg",
+   "duration": "4-6 hours.",
+   "onset": "30-60 minutes.",
+   "summary": "The drug has limited information on it. It is a psychedelic tryptamine and analogue of NiPT. The drug is structurally related to DiPT and DET."
+  }
+ }
+}

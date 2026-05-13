@@ -1,0 +1,42 @@
+{
+ "yerba-mate": {
+  "categories": [
+   "common",
+   "stimulant",
+   "habit-forming",
+   "nootropic"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1000-1500mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-30"
+  },
+  "name": "yerba-mate",
+  "pretty_name": "YERBA-MATE",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "categories": [
+    "common",
+    "stimulant",
+    "habit-forming",
+    "nootropic"
+   ],
+   "dose": "Common: 1000-1500mg | The dosages are given with the assumption of spreading it over an entire day.",
+   "duration": "4-6 hours.",
+   "onset": "10-30 minutes.",
+   "summary": "The drug is marketed for its ability to suppress appetite and burn fat using higher dosages. The drug has a high ratio of caffeine and is reported to have anti-inflammatory properties."
+  }
+ }
+}

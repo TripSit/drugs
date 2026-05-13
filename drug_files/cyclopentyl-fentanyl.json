@@ -1,0 +1,31 @@
+{
+ "cyclopentyl-fentanyl": {
+  "aliases": [
+   "cp-f",
+   "cpf"
+  ],
+  "categories": [
+   "opioid",
+   "tentative",
+   "research-chemical",
+   "depressant",
+   "habit-forming"
+  ],
+  "name": "cyclopentyl-fentanyl",
+  "pretty_name": "Cyclopentyl-Fentanyl",
+  "properties": {
+   "aliases": [
+    "cp-f",
+    "cpf"
+   ],
+   "categories": [
+    "opioid",
+    "tentative",
+    "research-chemical",
+    "depressant",
+    "habit-forming"
+   ],
+   "summary": "An analogue of fentanyl that is unknown in scientific literature. The drug is suspected to be less potent than its former being Acetyl-Fentanyl. There is limited information on this drug, caution is recommended."
+  }
+ }
+}

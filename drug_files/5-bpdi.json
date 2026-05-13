@@ -1,0 +1,45 @@
+{
+ "5-bpdi": {
+  "categories": [
+   "habit-forming",
+   "research-chemical",
+   "stimulant",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "3-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-25mg",
+    "Heavy": "45+mg.",
+    "Light": "7.5-10mg",
+    "Strong": "25-45mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "4-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "15-30"
+  },
+  "name": "5-bpdi",
+  "pretty_name": "5-BPDI",
+  "properties": {
+   "after-effects": "3-8 hours.",
+   "categories": [
+    "habit-forming",
+    "research-chemical",
+    "stimulant",
+    "tentative"
+   ],
+   "dose": "Light: 7.5-10mg Common: 10-25mg Strong: 25-45mg Heavy: 45+mg.",
+   "duration": "Oral: 4-8 hours. Insufflated: 2-5 hours.",
+   "onset": "Oral: 15-30 minutes. Insufflated: 5-10 minutes.",
+   "summary": "An analogue of a-PHP, which has been described as having a similar effect profile, while some users indicating lighter effects and less of the feeling to compulsively redose. There is limited reported use on this drug."
+  }
+ }
+}

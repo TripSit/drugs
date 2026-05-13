@@ -1,0 +1,50 @@
+{
+ "nicotine": {
+  "categories": [
+   "habit-forming",
+   "nootropic",
+   "common"
+  ],
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Nicotine.shtml"
+  },
+  "name": "nicotine",
+  "pretty_name": "Nicotine",
+  "properties": {
+   "categories": [
+    "habit-forming",
+    "nootropic",
+    "common"
+   ],
+   "summary": "A chemical found in tobacco, aubergines and tomatoes. It is considered one of the most addictive drugs in existence. It is a mild stimulant, with nootropic and stress relieving effects. Nicotine is used in a variety of forms and is a large-part of what makes cigarettes and other tobacco products so addictive. Nicotine is suggested to be safer when ingested in isolation, such as nicotine vapes (in addition to the lack of combution and associated harm via cigarette smoking)."
+  },
+  "pweffects": {
+   "Abnormal heartbeat": "https://psychonautwiki.org/wiki/Abnormal_heartbeat",
+   "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+   "Appetite suppression": "https://psychonautwiki.org/wiki/Appetite_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Focus enhancement": "https://psychonautwiki.org/wiki/Focus_enhancement",
+   "Increased libido": "https://psychonautwiki.org/wiki/Increased_libido",
+   "Memory enhancement": "https://psychonautwiki.org/wiki/Memory_enhancement",
+   "Motivation enhancement": "https://psychonautwiki.org/wiki/Motivation_enhancement",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Vasoconstriction": "https://psychonautwiki.org/wiki/Vasoconstriction"
+  },
+  "sources": {
+   "_general": [
+    "Nicotine treatment of mild cognitive impairment: a 6-month double-blind pilot clinical trial. -https://www.ncbi.nlm.nih.gov/pubmed/22232050",
+    "Nicotine treatment of mild cognitive impairment: a 6-month double-blind pilot clinical trial. - https://www.ncbi.nlm.nih.gov/pubmed/22232050",
+    "Site of nicotine absorption from a vapour inhaler--comparison with cigarette smoking - http://www.ncbi.nlm.nih.gov/pubmed/10663452",
+    "Brand differences of free-base nicotine delivery in cigarette smoke: the view of the tobacco industry documents - http://www.ncbi.nlm.nih.gov/pubmed/16728749",
+    "Exposure to nicotine produces an increase in dopamine D2(High) receptors: a possible mechanism for dopamine hypersensitivity. - http://www.ncbi.nlm.nih.gov/pubmed/20942582",
+    "Tobacco leaf, smoke and smoking, MAO inhibitors, Parkinson's disease and neuroprotection are there links? - http://www.ncbi.nlm.nih.gov/pubmed/14697903",
+    "Brand differences of free-base nicotine delivery in cigarette smoke: the view of the tobacco industry documents. - http://www.ncbi.nlm.nih.gov/pubmed/16728749",
+    "Do electronic cigarettes impart a lower potential disease burden than conventional tobacco cigarettes? Review on E-cigarette vapor versus tobacco s... - http://www.ncbi.nlm.nih.gov/pubmed/25302452",
+    "The impact of caffeine use on tobacco cessation and withdrawal. - http://www.ncbi.nlm.nih.gov/pubmed/9022872"
+   ]
+  }
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "4-aco-dalt": {
+  "aliases": [
+   "4acodalt"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50-70mg",
+    "Heavy": "100+mg",
+    "Light": "40-50mg",
+    "Threshold": "20mg"
+   },
+   "Vapourized": {
+    "Common": "10-15mg",
+    "Light": "5-8mg",
+    "Strong": "15+mg",
+    "Threshold": "2-4mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-9"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-90"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_4AcODALT.shtml"
+  },
+  "name": "4-aco-dalt",
+  "pretty_name": "4-AcO-DALT",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "4acodalt"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Oral Threshold: 20mg Light: 40-50mg Common: 50-70mg Heavy: 100+mg | Vapourized Threshold: 2-4mg Light: 5-8mg Common: 10-15mg Strong: 15+mg",
+   "duration": "5-9 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "30-90 minutes.",
+   "summary": "An uncommon tryptamine derivative first reported in the mid 2000s, likely a psychedelic. Little is known about the pharmacology or effects of this compound."
+  }
+ }
+}

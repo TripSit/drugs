@@ -1,0 +1,111 @@
+{
+ "4-ho-met": {
+  "aliases": [
+   "4homet",
+   "homet",
+   "metocin",
+   "ethocin"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-8"
+  },
+  "formatted_dose": {
+   "Intravenous": {
+    "Common": "10-15mg",
+    "Light": "5mg",
+    "Strong": "20mg+"
+   },
+   "Oral": {
+    "Common": "10-15mg",
+    "Light": "10mg",
+    "Strong": "20mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-7"
+  },
+  "formatted_effects": [
+   "A trip similar to mushrooms",
+   "hallucination and general shift in consciousness"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-25",
+   "Intravenous": "2-10",
+   "Oral": "5-60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_4HOMET.shtml",
+   "tihkal": "https://www.erowid.org/library/books_online/tihkal/tihkal21.shtml"
+  },
+  "name": "4-ho-met",
+  "pretty_name": "4-HO-MET",
+  "properties": {
+   "after-effects": "2-8 hours.",
+   "aliases": [
+    "4homet",
+    "homet",
+    "metocin",
+    "ethocin"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "common"
+   ],
+   "detection": "Not known to be tested for in any standard drug tests",
+   "dose": "Oral Light: 10mg Common: 10-15mg Strong: 20mg+ | Intravenous Light: 5mg Common: 10-15mg Strong: 20mg+",
+   "duration": "3-7 hours Intravenous 2-4 Hours",
+   "effects": "A trip similar to mushrooms, hallucination and general shift in consciousness.",
+   "onset": "Oral: 5-60 minutes | Insufflated: 5-25 minutes | Intravenous: 2-10 minutes",
+   "summary": "A lesser known psychedelic tryptamine. Functional analogue of Psilocin. Very poorly soluble in water and alcohol."
+  },
+  "pweffects": {
+   "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+   "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+   "Bodily control enhancement": "https://psychonautwiki.org/wiki/Bodily_control_enhancement",
+   "Colour enhancement": "https://psychonautwiki.org/wiki/Colour_enhancement",
+   "Colour shifting": "https://psychonautwiki.org/wiki/Colour_shifting",
+   "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+   "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+   "Depth perception distortions": "https://psychonautwiki.org/wiki/Depth_perception_distortions",
+   "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+   "Emotion enhancement": "https://psychonautwiki.org/wiki/Emotion_enhancement",
+   "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+   "Immersion enhancement": "https://psychonautwiki.org/wiki/Immersion_enhancement",
+   "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Novelty enhancement": "https://psychonautwiki.org/wiki/Novelty_enhancement",
+   "Pattern recognition enhancement": "https://psychonautwiki.org/wiki/Pattern_recognition_enhancement",
+   "Personal bias suppression": "https://psychonautwiki.org/wiki/Personal_bias_suppression",
+   "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+   "Perspective distortions": "https://psychonautwiki.org/wiki/Perspective_distortions",
+   "Pupil dilation": "https://psychonautwiki.org/wiki/Pupil_dilation",
+   "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+   "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Symmetrical texture repetition": "https://psychonautwiki.org/wiki/Symmetrical_texture_repetition",
+   "Tactile enhancement": "https://psychonautwiki.org/wiki/Tactile_enhancement",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Thought loops": "https://psychonautwiki.org/wiki/Thought_loops",
+   "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+   "Tracers": "https://psychonautwiki.org/wiki/Tracers",
+   "Transformations": "https://psychonautwiki.org/wiki/Transformations",
+   "Unity and interconnectedness": "https://psychonautwiki.org/wiki/Unity_and_interconnectedness",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  }
+ }
+}

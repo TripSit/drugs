@@ -1,0 +1,55 @@
+{
+ "phenobarbital": {
+  "aliases": [
+   "pheno",
+   "phenobarbitone",
+   "luminal"
+  ],
+  "categories": [
+   "depressant",
+   "habit-forming",
+   "barbiturate"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-150mg",
+    "Light": "50-100mg",
+    "Strong": "150-300mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Intravenous": "4-6",
+   "Oral": "5-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Intravenous": "1-5",
+   "Oral": "15-45"
+  },
+  "name": "phenobarbital",
+  "pretty_name": "Phenobarbital",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "aliases": [
+    "pheno",
+    "phenobarbitone",
+    "luminal"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "depressant",
+    "habit-forming",
+    "barbiturate"
+   ],
+   "dose": "Oral Light: 50-100mg's Common: 100-150mg's Strong: 150-300mg's+",
+   "duration": "Oral: 5-8 hours. | Intravenous: 4-6 hours.",
+   "onset": "Oral: 15-45 minutes. | Intravenous: 1-5 minutes.",
+   "summary": "CNS depressant that is typically used for insomnia in older patients and epliepsy in younger patients. Less commonlly used now medically due to a popular preference for benzodiazepines."
+  }
+ }
+}

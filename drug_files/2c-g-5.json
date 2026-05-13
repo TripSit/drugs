@@ -1,0 +1,57 @@
+{
+ "2c-g-5": {
+  "aliases": [
+   "2c-g-5"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "unknown"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "unknown",
+    "Heavy": "unknown",
+    "Light": "unknown",
+    "Strong": "unknown"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "32-48 (reported by users)"
+  },
+  "formatted_effects": [
+   "psychedelic effects",
+   "altered perception",
+   "visual movement illusions",
+   "enhanced colors",
+   "enhanced sounds",
+   "enhanced emotions",
+   "time distortion"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "unknown"
+  },
+  "name": "2c-g-5",
+  "pretty_name": "2C-G-5",
+  "properties": {
+   "aliases": [
+    "2c-g-5"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "The dosage of 2C-G-5 is unknown. It is reported to be active at very low doses, which increases the risk of accidental overdose.",
+   "duration": "It is not certain how long the effects last. Users online report durations of approximately 32 to 48 hours.",
+   "effects": "Reported effects include psychedelic experiences such as altered perception, enhanced colors, sounds and emotions, visual illusions, and distorted time perception.",
+   "onset": "Unknown.",
+   "summary": "2C-G-5 is a designer drug that has only recently appeared on the drug market. There is very little information available about its effects, dosage, and risks. No scientific research has been conducted on this substance.",
+   "warning": "This substance is poorly researched. The long duration may cause severe sleep disruption and exhaustion. Drug interactions are unknown and could be dangerous. The low dosage increases overdose risk. There is a significant risk of bad trips involving confusion and intense anxiety. Possible increases in heart rate and blood pressure may cause headaches and muscle tension. Legal status does not imply safety."
+  }
+ }
+}

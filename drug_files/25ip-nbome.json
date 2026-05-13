@@ -1,0 +1,69 @@
+{
+ "25ip-nbome": {
+  "aliases": [
+   "25ip"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Sublingual": {
+    "Common": "750-1000ug",
+    "Light": "300-750ug",
+    "Strong": "1000-1500ug",
+    "Threshold": "250ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-7"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-60"
+  },
+  "name": "25ip-nbome",
+  "pretty_name": "25iP-NBOMe",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "25ip"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Sublingual Threshold: 250ug Light: 300-750ug Common: 750-1000ug Strong: 1000-1500ug",
+   "duration": "5-7 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "30-60 minutes.",
+   "summary": "Almost unheard-of analogue of 2C-iP. Extremely potent psychedelic with stimulating qualities. May cause potentially dangerous vasoconstriction at high doses. May induce uncomfortable body load.",
+   "test-kits": "Marquis: Red. | Mecke: Green. | Mandelin: Red and Green. | Froehde: Green. | Liebermann: Yellow > Brown. | Ehrlich: No colour change."
+  }
+ }
+}

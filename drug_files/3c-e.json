@@ -1,0 +1,66 @@
+{
+ "3c-e": {
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "stimulant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-16"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "35-50mg",
+    "Light": "25-35mg",
+    "Strong": "50-70mg+",
+    "Threshold": "15-25mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-14"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_3CE.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal025.shtml"
+  },
+  "name": "3c-e",
+  "pretty_name": "3C-E",
+  "properties": {
+   "after-effects": "2-16 hours.",
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "stimulant"
+   ],
+   "dose": "Threshold: 15-25mg Light: 25-35mg Common: 35-50mg Strong: 50-70mg+",
+   "duration": "8-14 hours",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "30-60 minutes.",
+   "summary": "Three-Carbon Analog of Escaline. Substituted Amphetamine."
+  }
+ }
+}

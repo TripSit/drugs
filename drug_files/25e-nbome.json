@@ -1,0 +1,68 @@
+{
+ "25e-nbome": {
+  "aliases": [
+   "25e"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-10"
+  },
+  "formatted_dose": {
+   "Sublingual": {
+    "Common": "200-400ug",
+    "Light": "50-200ug",
+    "Strong": "400-800ug.",
+    "Threshold": "50-100ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-10"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-60"
+  },
+  "name": "25e-nbome",
+  "pretty_name": "25E-NBOMe",
+  "properties": {
+   "after-effects": "2-10 hours.",
+   "aliases": [
+    "25e"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Sublingual Threshold: 50-100ug Light: 150-300ug Common: 300-600ug Strong: 600-1000ug. Insufflated Light: 50-200ug Common: 200-400ug Strong: 400-800ug.",
+   "duration": "5-10 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "15-60 minutes.",
+   "summary": "A potent psychedelic phenethylamine and derivative of 2C-E, usually sold on blotters. May be missold as LSD. Effects include vivid hallucinations, stimulation, heavy body load and vasoconstriction. At high doses vasoconstriction can endanger life, exercise caution.",
+   "test-kits": "Marquis: Red > Yellow. | Mecke: Green. | Mandelin: Red. | Ehrlich: No colour change.",
+   "warning": "Do not exceed 2mg+ of this compound."
+  }
+ }
+}

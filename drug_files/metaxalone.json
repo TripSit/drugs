@@ -1,0 +1,47 @@
+{
+ "metaxalone": {
+  "aliases": [
+   "skelaxin"
+  ],
+  "categories": [
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "800-1600mg.",
+    "Light": "400-800mg.",
+    "Strong": "1600-2400mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Metaxalone.shtml"
+  },
+  "name": "metaxalone",
+  "pretty_name": "Metaxalone",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "skelaxin"
+   ],
+   "categories": [
+    "depressant"
+   ],
+   "dose": "Oral Light: 400-800mg. Common: 800-1600mg. Strong: 1600-2400mg.",
+   "duration": "4-8 hours.",
+   "onset": "15-45 minutes.",
+   "summary": "The drug is a muscle relaxant that is used to relieve pain from strains, sprains, and other musculosketetal conditions. The exact mechanism of action is not known."
+  }
+ }
+}

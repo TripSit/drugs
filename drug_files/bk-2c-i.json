@@ -1,0 +1,50 @@
+{
+ "bk-2c-i": {
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "120-180mg",
+    "Heavy": "250mg+",
+    "Light": "100-120mg",
+    "Strong": "180-250mg"
+   }
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "name": "bk-2c-i",
+  "pretty_name": "\u03b2k-2C-I",
+  "properties": {
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Oral Light: 100-120mg Common: 120-180mg Strong: 180-250mg Heavy: 250mg+",
+   "duration": "4-6 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "20-40 minutes.",
+   "summary": "Novel psychedelic that is the beta-ketone derivative of 2C-I.",
+   "warning": "It is not recommended to do this substance if you have thyroid issues."
+  }
+ }
+}

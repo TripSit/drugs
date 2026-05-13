@@ -1,0 +1,45 @@
+{
+ "cloniprazepam": {
+  "categories": [
+   "benzodiazepine",
+   "depressant",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1-2mg",
+    "Light": ".5-1mg",
+    "Strong": "2-4mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-9"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "name": "cloniprazepam",
+  "pretty_name": "Cloniprazepam",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "depressant",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Light: .5-1mg Common: 1-2mg Strong: 2-4mg+",
+   "duration": "6-9 hours.",
+   "onset": "15-45 minutes.",
+   "summary": "Prodrug for Clonazepam."
+  }
+ }
+}

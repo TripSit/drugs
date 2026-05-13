@@ -1,0 +1,42 @@
+{
+ "diclofensine": {
+  "aliases": [
+   "ro8-4650"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "tentative",
+   "habit-forming"
+  ],
+  "dose_note": " NOTE: These doses are tentative and it is recommended to do further research.",
+  "formatted_dose": {
+   "Oral": {
+    "Common": "40-60mg",
+    "Heavy": "60-80mg",
+    "Light": "30-40mg",
+    "Threshold": "12-15mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "name": "diclofensine",
+  "pretty_name": "Diclofensine",
+  "properties": {
+   "aliases": [
+    "ro8-4650"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "tentative",
+    "habit-forming"
+   ],
+   "dose": "Threshold: 12-15mg Low: 30-40mg Common: 40-60mg Heavy: 60-80mg | NOTE: These doses are tentative and it is recommended to do further research.",
+   "duration": "4-6 hours",
+   "summary": "A triple monoamine reuptake inhibitor developed by Hoffman-LaRoche in the 1970s as an antidepressant but discontinued. It is suspected that it was discontinued due to high abuse potential. Acts as an SNDRI, the drug mainly inhibits dopamine and noradrenaline."
+  }
+ }
+}

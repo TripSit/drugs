@@ -1,0 +1,99 @@
+{
+ "alprazolam": {
+  "aliases": [
+   "xanax",
+   "prazolam",
+   "ksalol",
+   "niravam"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant",
+   "common"
+  ],
+  "dose_note": " NOTE: Warning - higher doses increase the chances of blacking out",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "6-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "0.5-1.5mg",
+    "Heavy": "2mg",
+    "Light": "0.25-0.5mg",
+    "Strong": "1.5-2mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-8"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hiccups",
+   "Loss of time",
+   "Loss of motor skills"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-40"
+  },
+  "name": "alprazolam",
+  "pretty_name": "Alprazolam",
+  "properties": {
+   "after-effects": "6-24 hours",
+   "aliases": [
+    "xanax",
+    "prazolam",
+    "ksalol",
+    "niravam"
+   ],
+   "avoid": "When taken for a long period of time, abrupt discontinuation is highly unadvised. Avoid combining other depressants such as alcohol.",
+   "bioavailability": "Oral 80-90%",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant",
+    "common"
+   ],
+   "dose": "Oral Light: 0.25-0.5mg Common: 0.5-1.5mg Strong: 1.5-2mg Heavy: 2mg + | NOTE: Warning - higher doses increase the chances of blacking out",
+   "dose_to_diazepam": "Alprazolam - 0.5mg ~=10mg Diazepam.",
+   "duration": "5-8 hours",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hiccups, Loss of time, Loss of motor skills.",
+   "onset": "15-40 minutes",
+   "summary": "An extremely common benzodiazepine better known as Xanax, frequently prescribed for the treatment of anxiety and panic disorders. Alprazolam is short-lasting and primarily anxiolytic, though also possesses hypnotic properties. At high doses amnesia and loss of inhibition are common. Do not mix with other depressants."
+  },
+  "pweffects": {
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Analysis suppression": "https://psychonautwiki.org/wiki/Analysis_suppression",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+   "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Emotion suppression": "https://psychonautwiki.org/wiki/Emotion_suppression",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Muscle relaxation": "https://psychonautwiki.org/wiki/Muscle_relaxation",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Seizure suppression": "https://psychonautwiki.org/wiki/Seizure_suppression",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration"
+  },
+  "sources": {
+   "_general": [
+    "Role of dopaminergic and serotonergic systems on behavioral stimulatory effects of low-dose alprazolam and lorazepam. - https://www.ncbi.nlm.nih.gov/pubmed/11226811",
+    "tability of alprazolam, chloroquine phosphate, cisapride, enalapril maleate, and hydralazine hydrochloride in extemporaneously compounded oral liquids. - http://www.ncbi.nlm.nih.gov/pubmed/9784772",
+    "Alprazolam-related deaths in Palm Beach County. -http://www.ncbi.nlm.nih.gov/pubmed/15725773",
+    "Alprazolam kinetics following sublingual and oral administration. - http://www.ncbi.nlm.nih.gov/pubmed/3680603",
+    "A fatal case of Benzodiazepine withdrawal. - https://www.ncbi.nlm.nih.gov/pubmed/19465812",
+    "Pregnancy category D according to the FDA with potential to do genetic damage. - http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/018276s044,021434s006lbl.pdf"
+   ]
+  }
+ }
+}

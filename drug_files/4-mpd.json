@@ -1,0 +1,19 @@
+{
+ "4-mpd": {
+  "categories": [
+   "tentative",
+   "stimulant",
+   "habit-forming"
+  ],
+  "name": "4-mpd",
+  "pretty_name": "4-MPD",
+  "properties": {
+   "categories": [
+    "tentative",
+    "stimulant",
+    "habit-forming"
+   ],
+   "summary": "Stimulant of the cathinone class. Higher homologue of Mephedrone, and the p-Methyl analogue of Pentedrone."
+  }
+ }
+}

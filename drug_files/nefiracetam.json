@@ -1,0 +1,47 @@
+{
+ "nefiracetam": {
+  "aliases": [
+   "nerfiracetam"
+  ],
+  "categories": [
+   "nootropic",
+   "tentative",
+   "research-chemical"
+  ],
+  "dose_note": " NOTE: The drug is typically divided into three doses. Roughly 0.5mg-1.6mg/kg.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "150-450mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-60"
+  },
+  "name": "nefiracetam",
+  "pretty_name": "Nefiracetam",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "nerfiracetam"
+   ],
+   "categories": [
+    "nootropic",
+    "tentative",
+    "research-chemical"
+   ],
+   "dose": "Common: 150-450mg. | NOTE: The drug is typically divided into three doses. Roughly 0.5mg-1.6mg/kg.",
+   "duration": "6-12 hours.",
+   "onset": "30-60 minutes.",
+   "summary": "Nootropic compound of the racetam family. The drug is reported to enhance both GABAergic and cholinergic signaling. Long-term use is suggested to be neuroprotective. The drug is fat soluble."
+  }
+ }
+}

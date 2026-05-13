@@ -1,0 +1,166 @@
+{
+ "amt": {
+  "aliases": [
+   "Alpha-methyltryptamine",
+   "alpha-methyltryptamine",
+   "alphamethyltryptamine",
+   "indopan",
+   "monase"
+  ],
+  "categories": [
+   "psychedelic",
+   "stimulant",
+   "research-chemical"
+  ],
+  "combos": {
+   "2c-t-x": {
+    "status": "Dangerous"
+   },
+   "2c-x": {
+    "status": "Dangerous"
+   },
+   "5-meo-xxt": {
+    "status": "Dangerous"
+   },
+   "alcohol": {
+    "note": "aMT has a broad mechanism of action in the brain and so does alcohol so the combination can be unpredictable",
+    "status": "Caution"
+   },
+   "amphetamines": {
+    "status": "Dangerous"
+   },
+   "benzodiazepines": {
+    "status": "Low Risk & Decrease"
+   },
+   "caffeine": {
+    "note": "High doses of caffeine may cause anxiety which is less manageable when tripping, and since both are stimulating the combination may cause some physical discomfort.",
+    "status": "Caution"
+   },
+   "cannabis": {
+    "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics. Small amounts can reduce nausea with aMT but take care.",
+    "status": "Caution"
+   },
+   "cocaine": {
+    "status": "Dangerous"
+   },
+   "dextromethorphan": {
+    "status": "Dangerous"
+   },
+   "dmt": {
+    "status": "Low Risk & Synergy"
+   },
+   "dox": {
+    "status": "Dangerous"
+   },
+   "ghb/gbl": {
+    "status": "Low Risk & Decrease"
+   },
+   "ketamine": {
+    "status": "Low Risk & Synergy"
+   },
+   "lsd": {
+    "status": "Low Risk & Synergy"
+   },
+   "maois": {
+    "note": "aMT is an MAOI on its own. Using enzyme inhibitors can greatly reduce predictability of effects.",
+    "status": "Dangerous"
+   },
+   "mdma": {
+    "status": "Dangerous"
+   },
+   "mescaline": {
+    "status": "Dangerous"
+   },
+   "mushrooms": {
+    "status": "Low Risk & Synergy"
+   },
+   "mxe": {
+    "status": "Dangerous"
+   },
+   "nbomes": {
+    "status": "Dangerous"
+   },
+   "nitrous": {
+    "status": "Low Risk & Synergy"
+   },
+   "opioids": {
+    "note": "No unexpected interactions",
+    "status": "Low Risk & No Synergy"
+   },
+   "pcp": {
+    "status": "Dangerous"
+   },
+   "ssris": {
+    "status": "Dangerous"
+   },
+   "tramadol": {
+    "status": "Dangerous"
+   }
+  },
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "25-40mg",
+    "Heavy": "60mg+",
+    "Light": "15-25mg",
+    "Strong": "40-60mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "10-16"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-90"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_AMT.shtml"
+  },
+  "name": "amt",
+  "pretty_name": "\u03b1MT",
+  "properties": {
+   "after-effects": "6-12 hours",
+   "aliases": [
+    "Alpha-methyltryptamine",
+    "alpha-methyltryptamine",
+    "alphamethyltryptamine",
+    "indopan",
+    "monase"
+   ],
+   "avoid": "Other MAOIs http://www.erowid.org/chemicals/maois/maois_info3.shtml",
+   "categories": [
+    "psychedelic",
+    "stimulant",
+    "research-chemical"
+   ],
+   "detection": "Not tested for in standard drug tests.",
+   "dose": "Oral Light: 15-25mg Common: 25-40mg Strong: 40-60mg Heavy: 60mg+",
+   "duration": "10-16 hours",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "30-90 minutes",
+   "summary": "A long-acting psychedelic-empathogen with a broad method of action in the brain. Not suitable for combination with many other substances. Used as an anti-depressant in the Soviet Union, but later found popularity in the RC scene, mainly in the UK."
+  }
+ }
+}

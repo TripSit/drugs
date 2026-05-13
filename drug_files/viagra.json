@@ -1,0 +1,27 @@
+{
+ "viagra": {
+  "formatted_dose": {
+   "Oral": {
+    "Common": "30-50mg",
+    "Light": "25-30mg",
+    "Strong": "50-100mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-60"
+  },
+  "name": "viagra",
+  "pretty_name": "Sildenafil",
+  "properties": {
+   "dose": "Light: 25-30mg Common: 30-50mg Strong: 50-100mg.",
+   "duration": "3-6 hours.",
+   "onset": "10-60 minutes.",
+   "summary": "A medication originally developed to lower blood pressure and now is widely used to treat erectile dysfunction in males. The drug is not recommended to be mixed with any other drugs that lower blood pressure. It is recommended to contact emergancy services if an erection under the substance lasts longer than 4 hours."
+  }
+ }
+}

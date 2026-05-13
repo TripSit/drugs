@@ -1,0 +1,66 @@
+{
+ "clobazam": {
+  "aliases": [
+   "frisium"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant"
+  ],
+  "dose_note": " NOTE: 20mg of Clobazam is approximately equal to 10mg of Diazepam",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-15mg",
+    "Heavy": "15-30mg+",
+    "Light": "5-10mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-40"
+  },
+  "name": "clobazam",
+  "pretty_name": "Clobazam",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "frisium"
+   ],
+   "avoid": "All other CNS depressants",
+   "bioavailability": "Oral 85-90%",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Light: 5-10mg Common: 10-15mg Heavy: 15-30mg+ | NOTE: 20mg of Clobazam is approximately equal to 10mg of Diazepam",
+   "dose_to_diazepam": "Clobazam - 20mg ~=10mg Diazepam.",
+   "duration": "6-12 hours.",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia.",
+   "onset": "20-40 minutes",
+   "summary": "A long acting benzodiazepine which focuses primarily on anxiolytic and anticonvulsant properties. It is used medically to treat epilepsy, and this along with its relatively many negative side-effects and contraindications in comparison with other benzodiazepines means it isn't frequently used recreationally."
+  },
+  "sources": {
+   "_general": [
+    "clobazam dosage equivalence to diazepam being 2:1 - The royal society of medicine International Congress and Symposium Series number 43: Clobazam ( Z. subhan study)",
+    "Clobazam at doses under 40mg is found to not significantly alter memory or learning tasks compared to placebo as opposed to diazepam which had strong negative effects on memory and learning tasks in a comparitive study done by Z. Subhan found in: The royal society of medicine International Congress and Symposium Series no. 43"
+   ]
+  }
+ }
+}

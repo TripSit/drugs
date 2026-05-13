@@ -1,0 +1,53 @@
+{
+ "4-meo-pcp": {
+  "aliases": [
+   "4meopcp"
+  ],
+  "categories": [
+   "dissociative",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "dose_note": " NOTE: These doses are very tentative.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-150mg",
+    "Light": "50-100mg",
+    "Strong": "150mg+",
+    "Threshold": "25-50mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-15"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-90"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_4MeOPCP.shtml"
+  },
+  "name": "4-meo-pcp",
+  "pretty_name": "4-MeO-PCP",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "aliases": [
+    "4meopcp"
+   ],
+   "categories": [
+    "dissociative",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Oral Threshold: 25-50mg Light: 50-100mg Common: 100-150mg Strong: 150mg+ | NOTE: These doses are tentative and it is recommended to do further research.",
+   "duration": "8-15 hours.",
+   "onset": "45-90 minutes.",
+   "summary": "An arylcyclohexamine dissociative anaesthetic related to PCP. First discovered in the 1960s by Parke-Davis, it was introduced to the RC market in 2008. There are reports of it being less potent than PCP. There is said to be an increase in usage due to the limited availability of other dissociatives."
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "5-meo-pyr-t": {
+  "categories": [
+   "tentative",
+   "research-chemical",
+   "psychedelic"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-36"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1-1.5mg",
+    "Light": "0.5-1mg",
+    "Strong": "1.5-2mg"
+   },
+   "Vapourized": {
+    "Common": "1.5-2mg",
+    "Light": "0.5-1.5mg",
+    "Strong": "2-3mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "2-6",
+   "Vapourized": "1-5"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "5-20",
+   "Vapourized": "1-2"
+  },
+  "name": "5-meo-pyr-t",
+  "pretty_name": "5-MeO-PYR-T",
+  "properties": {
+   "after-effects": "1-36 hours.",
+   "categories": [
+    "tentative",
+    "research-chemical",
+    "psychedelic"
+   ],
+   "dose": "Oral Light: 0.5-1mg Common: 1-1.5mg Strong: 1.5-2mg's. | Vapourised Light: 0.5-1.5mg Common: 1.5-2mg Strong: 2-3mg's.",
+   "duration": "Oral: 2-6 hours. | Vapourised: 1-5 hours.",
+   "note": "The drug has been reported in some cases to have residual effects that last over a week after dosing. It is recommended to have a tripsitter when consuming this substance and to be very cautious when using it.",
+   "onset": "Oral: 5-20 minutes. | Vapourised: 1-2 minutes.",
+   "summary": "The drug is a tryptamine that is atypical with its potency and more. There are reports of 3mg being vapourised that caused memory loss/blackouts."
+  }
+ }
+}

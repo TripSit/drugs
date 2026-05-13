@@ -1,0 +1,57 @@
+{
+ "mda": {
+  "categories": [
+   "psychedelic",
+   "stimulant",
+   "empathogen",
+   "habit-forming",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "40-80mg",
+    "Heavy": "120mg+",
+    "Light": "30-40mg",
+    "Strong": "80-120mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-5"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-90"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_MDA.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal100.shtml"
+  },
+  "name": "mda",
+  "pretty_name": "MDA",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "categories": [
+    "psychedelic",
+    "stimulant",
+    "empathogen",
+    "habit-forming",
+    "common"
+   ],
+   "dose": "Oral Light: 30-40mg Common: 40-80mg Strong: 80-120mg Heavy: 120mg+",
+   "duration": "2-5 hours",
+   "marquis": "Black",
+   "onset": "20-90 minutes",
+   "summary": "The drug is a stimulant and empathogen. It is reported to have similar effects to MDMA but typically produces more visuals. The drug is reportedly more neurotoxic than MDMA, and is a minor metabolite of MDMA. The duration and onset are reported to be similar to MDMA. The common Marquis reagent test is unable to differentiate MDA and MDMA."
+  },
+  "sources": {
+   "_general": [
+    "Synthesis of fluoro analogues of 3,4-(methylenedioxy)amphetamine (MDA) and its derivatives - http://www.ncbi.nlm.nih.gov/pubmed/17193269"
+   ]
+  }
+ }
+}

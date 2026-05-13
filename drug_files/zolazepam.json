@@ -1,0 +1,59 @@
+{
+ "zolazepam": {
+  "categories": [
+   "benzodiazepine",
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Insufflated": "1-4",
+   "Intramuscular": "1-3",
+   "Oral": "1-6"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "3-6mg",
+    "Light": "1-3mg",
+    "Strong": "6-12mg+"
+   },
+   "Intramuscular": {
+    "Common": "3-5mg",
+    "Light": "1-3mg",
+    "Strong": "5-10mg+"
+   },
+   "Oral": {
+    "Common": "5-10mg",
+    "Light": "2.5-5mg",
+    "Strong": "10-20mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-3",
+   "Intramuscular": "2-4",
+   "Oral": "4-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-10",
+   "Intramuscular": "1-5",
+   "Oral": "10-30"
+  },
+  "name": "zolazepam",
+  "pretty_name": "Zolazepam",
+  "properties": {
+   "after-effects": "Oral: 1-6 hours. | Insufflated: 1-4 hours. | Intramuscular: 1-3 hours.",
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 2.5-5mg Common: 5-10mg Strong: 10-20mg+ | Insufflated Light: 1-3mg Common: 3-6mg Strong: 6-12mg+ | Intramuscular Light: 1-3mg Common: 3-5mg Strong: 5-10mg+",
+   "duration": "Oral: 4-6 hours. | Insufflated: 2-3 hours. | Intramuscular: 2-4 hours.",
+   "onset": "Oral: 10-30 minutes. | Insufflated: 5-10 minutes. | Intramuscular: 1-5 minutes.",
+   "summary": "A substance that is structurally related to benzodiazepines. It is only used medically in veterinary medicine. It is usually used in tandem with either the potent NMDA antagonist tiletamine (at a 1:1 ratio) or with the \u03b12 adrenergic receptor agonist xylazine. The drug is roughly around four times the potency of diazepam, yet is reportedly water soluable."
+  }
+ }
+}

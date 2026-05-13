@@ -1,0 +1,71 @@
+{
+ "diclazepam": {
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1-2mg",
+    "Light": "0.25-1mg",
+    "Strong": "2mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-12"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-90"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Diclazepam.shtml"
+  },
+  "name": "diclazepam",
+  "pretty_name": "Diclazepam",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Light: 0.25-1mg Common: 1-2mg's Strong: 2mg+",
+   "dose_to_diazepam": "Diclazepam - 1mg ~=10mg Diazepam.",
+   "duration": "8-12 hours (~42 hour half-life)",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "15-90 minutes.",
+   "summary": "A benzodiazepine drug and analogue of diazepam first synthesised by Leo Sternbach at Hoffman-LaRoche in 1960. It has become prominent as an RC benzodiazepine on the grey market in recent years, particularly with the decline in etizolam availability. A sedative and hypnotic it is of intermediate to long half-life with similar effects to diazepam, though it is 10x more potent."
+  },
+  "pweffects": {
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Analysis suppression": "https://psychonautwiki.org/wiki/Analysis_suppression",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+   "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Emotion suppression": "https://psychonautwiki.org/wiki/Emotion_suppression",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Muscle relaxation": "https://psychonautwiki.org/wiki/Muscle_relaxation",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration"
+  }
+ }
+}

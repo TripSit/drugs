@@ -1,0 +1,68 @@
+{
+ "isoproscaline": {
+  "aliases": [
+   "ip"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50-60mg",
+    "Light": "40-50mg",
+    "Strong": "60-80mg+",
+    "Threshold": "30mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "10-20"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "60-180"
+  },
+  "name": "isoproscaline",
+  "pretty_name": "Isoproscaline",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "ip"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Oral Threshold: 30mg Light: 40-50mg Common: 50-60mg Strong: 60-80mg+",
+   "duration": "10-20 hours",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "60-180 minutes.",
+   "summary": "A analogue of mescaline, closely related to proscaline."
+  }
+ }
+}

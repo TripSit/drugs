@@ -1,0 +1,69 @@
+{
+ "5-meo-dpt": {
+  "aliases": [
+   "5meodpt"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "dose_note": " NOTE: These doses are tentative and it is recommended to do further research.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-2"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "3-5mg",
+    "Light": "3mg",
+    "Strong": "5-10mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-5"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_5MeODPT.shtml"
+  },
+  "name": "5-meo-dpt",
+  "pretty_name": "5-MeO-DPT",
+  "properties": {
+   "after-effects": "1-2 hours.",
+   "aliases": [
+    "5meodpt"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Oral Light: 3mg Common: 3-5mg Strong: 5-10mg+ | NOTE: These doses are tentative and it is recommended to do further research.",
+   "duration": "2-5 hours",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "30-60 minutes.",
+   "summary": "A rare tryptamine psychedelic and analogue of DPT. Little is known about this compound but it is likely to have effects similar to DPT, DMT and others related compounds."
+  }
+ }
+}

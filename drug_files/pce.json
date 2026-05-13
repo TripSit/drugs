@@ -1,0 +1,44 @@
+{
+ "pce": {
+  "aliases": [
+   "eticyclidine"
+  ],
+  "categories": [
+   "dissociative",
+   "tentative",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "3-7mg",
+    "Light": "1-3mg",
+    "Strong": "7-15mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-5"
+  },
+  "name": "pce",
+  "pretty_name": "PCE",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "aliases": [
+    "eticyclidine"
+   ],
+   "categories": [
+    "dissociative",
+    "tentative",
+    "habit-forming"
+   ],
+   "dose": "Insufflated Light: 1-3mg Common: 3-7mg Strong: 7-15mg+",
+   "duration": "2-5 hours.",
+   "onset": "Insufflated 5-15 minutes.",
+   "summary": "Eticyclidine (PCE) is a dissociative anesthetic that has hallucinogenic effects. It is reported to be slightly more potent than (PCP)."
+  }
+ }
+}

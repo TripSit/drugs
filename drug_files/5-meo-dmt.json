@@ -1,0 +1,109 @@
+{
+ "5-meo-dmt": {
+  "aliases": [
+   "5meodmt",
+   "toads",
+   "5-meo",
+   "5meo",
+   "5-medmt"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Insufflated": "1-3",
+   "Smoked": "1-2"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "5-10mg",
+    "Light": "3-5mg",
+    "Strong": "8-15mg"
+   },
+   "Smoked": {
+    "Light": "2-5mg",
+    "Strong": "10-20mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "minutes",
+   "Insufflated": "15-45",
+   "Smoked": "5-15"
+  },
+  "formatted_effects": [
+   "Smoked: short duration",
+   "powerful rushing of sensation",
+   "overwhelming fear",
+   "panic",
+   "experience of \"the void\"",
+   "ego death"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "1-5",
+   "Smoked": "0-1"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_5MeODMT.shtml",
+   "tihkal": "https://www.erowid.org/library/books_online/tihkal/tihkal38.shtml"
+  },
+  "name": "5-meo-dmt",
+  "pretty_name": "5-MeO-DMT",
+  "properties": {
+   "after-effects": "Smoked: 1-2 hours | Insufflated: 1-3 hours",
+   "aliases": [
+    "5meodmt",
+    "toads",
+    "5-meo",
+    "5meo",
+    "5-medmt"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Smoked Light: 2-5mg Common 5-10mg Strong: 10-20mg | Insufflated Light: 3-5mg Common: 5-10mg Strong: 8-15mg",
+   "duration": "Smoked: 5-15 minutes | Insufflated: 15-45 minutes",
+   "effects": "Smoked: short duration, powerful rushing of sensation, overwhelming fear, panic, experience of \"the void\", ego death",
+   "onset": "Smoked: 0-1 minutes | Insufflated: 1-5 minutes",
+   "summary": "A powerful psychedelic tryptamine found in many species of plants and some toad venom. There is a reported history of use by native South Americans spanning thousands of years. The drug has similar qualities to DMT and related tryptamines. The drug is reported to be very potent and orally active in combination with an MAOI."
+  },
+  "pweffects": {
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+   "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+   "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Bodily control enhancement": "https://psychonautwiki.org/wiki/Bodily_control_enhancement",
+   "Bodily pressures": "https://psychonautwiki.org/wiki/Bodily_pressures",
+   "Changes in gravity": "https://psychonautwiki.org/wiki/Changes_in_gravity",
+   "Colour enhancement": "https://psychonautwiki.org/wiki/Colour_enhancement",
+   "Colour shifting": "https://psychonautwiki.org/wiki/Colour_shifting",
+   "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+   "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+   "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+   "Emotion enhancement": "https://psychonautwiki.org/wiki/Emotion_enhancement",
+   "Environmental orbism": "https://psychonautwiki.org/wiki/Environmental_orbism",
+   "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Mindfulness": "https://psychonautwiki.org/wiki/Mindfulness",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Perception of increased weight": "https://psychonautwiki.org/wiki/Perception_of_increased_weight",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Pupil dilation": "https://psychonautwiki.org/wiki/Pupil_dilation",
+   "Recursion": "https://psychonautwiki.org/wiki/Recursion",
+   "Skin flushing": "https://psychonautwiki.org/wiki/Skin_flushing",
+   "Subconscious communication": "https://psychonautwiki.org/wiki/Subconscious_communication",
+   "Tactile enhancement": "https://psychonautwiki.org/wiki/Tactile_enhancement",
+   "Temperature regulation suppression": "https://psychonautwiki.org/wiki/Temperature_regulation_suppression",
+   "Thought connectivity": "https://psychonautwiki.org/wiki/Thought_connectivity",
+   "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+   "Unity and interconnectedness": "https://psychonautwiki.org/wiki/Unity_and_interconnectedness",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  }
+ }
+}

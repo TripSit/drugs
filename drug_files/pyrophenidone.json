@@ -1,0 +1,53 @@
+{
+ "pyrophenidone": {
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-3"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "40-60mg",
+    "Heavy": "90mg+",
+    "Light": "20-40mg",
+    "Strong": "60-90mg"
+   },
+   "Vapourized": {
+    "Common": "10-25mg",
+    "Heavy": "50mg+.",
+    "Light": "5-10mg",
+    "Strong": "25-50mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "1-3",
+   "Vapourized": "1-1.5"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-15",
+   "Vapourized": "1-30"
+  },
+  "name": "pyrophenidone",
+  "pretty_name": "Pyrophenidone",
+  "properties": {
+   "after-effects": "1-3 hours.",
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Vapourized Light: 5-10mg Common: 10-25mg Strong: 25-50mg Heavy: 50mg+. | Insufflated Light: 20-40mg Common: 40-60mg Strong: 60-90mg Heavy: 90mg+",
+   "duration": "Vapourized: 1-1.5 hours | Insufflated: 1-3 hours",
+   "onset": "Vapourized 1-30 seconds. | Insufflated 5-15 minutes.",
+   "summary": "An NDRI pyrovalerone derivative reported to have similar subjective effects to pyrovalerone. There is very limited information on the drug, further research is strongly recommended."
+  }
+ }
+}

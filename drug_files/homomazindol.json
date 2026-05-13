@@ -1,0 +1,21 @@
+{
+ "homomazindol": {
+  "categories": [
+   "stimulant",
+   "tentative",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "name": "homomazindol",
+  "pretty_name": "Homomazindol",
+  "properties": {
+   "categories": [
+    "stimulant",
+    "tentative",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "summary": "A potent analogue of mazindol, a rare, atypical stimulant drug and appetite suppressant occasionally prescribed in cases of severe obesity."
+  }
+ }
+}

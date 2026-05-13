@@ -1,0 +1,50 @@
+{
+ "huperzine-a": {
+  "aliases": [
+   "h-a"
+  ],
+  "categories": [
+   "nootropic",
+   "tentative"
+  ],
+  "dose_note": " Note: This substance is typically taken once a day and \"cycled\" off after 2-4 weeks. The optimal dosing regime is unknown. Insufflated dosages are the same as oral.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-14"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "75-150ug",
+    "Light": "50-75ug",
+    "Strong": "150ug-200ug."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "6-12",
+   "Oral": "8-14"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "1-2",
+   "Oral": "10-20"
+  },
+  "name": "huperzine-a",
+  "pretty_name": "HUPERZINE-A",
+  "properties": {
+   "after-effects": "1-14 hours.",
+   "aliases": [
+    "h-a"
+   ],
+   "avoid": "Anticholinergic drugs, including first-generation antihistamines, acetylcholinesterase inhibitors, cholinergic drugs- as it may add to the negative side-effects.",
+   "categories": [
+    "nootropic",
+    "tentative"
+   ],
+   "dose": "Insufflated Light: 50-75ug Common: 75-150ug Strong: 150ug-200ug. | Note: This substance is typically taken once a day, and \"cycled\" off after 2-4 weeks. The optimal dosing regime is unknown. Insufflated dosages are the same as oral.",
+   "duration": "Oral: 8-14 hours. | Insufflated: 6-12 hours.",
+   "onset": "Oral: 10-20 minutes. | Insufflated: 1-2 minutes.",
+   "summary": "A compound that is extracted from the herbs of Huperziceae family. Is known as an acetylcholinesterase inhibitor, which stops an enzyme from breaking down acetylcholine which results in increased acetylcholine. The drug is currently in preliminary trials for treating Alzheimer's."
+  }
+ }
+}

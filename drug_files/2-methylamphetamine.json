@@ -1,0 +1,61 @@
+{
+ "2-methylamphetamine": {
+  "aliases": [
+   "2-ma"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Insufflated": "1-10"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "30-50mg",
+    "Light": "10-30mg",
+    "Strong": "50-70mg+"
+   }
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "decreased need for sleep",
+   "increased sociability",
+   "mood lift",
+   "increased libido",
+   "excessive talking",
+   "decreased appetite",
+   "weight loss",
+   "sweating",
+   "disturbed sleep patterns",
+   "bruxism",
+   "visual and auditory hallucinations",
+   "itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "name": "2-methylamphetamine",
+  "pretty_name": "2-MA",
+  "properties": {
+   "after-effects": "Insufflated: 1-10 hours.",
+   "aliases": [
+    "2-ma"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Insufflated Light: 10-30mg Common: 30-50mg Strong: 50-70mg+",
+   "duration": "Insufflated 3-6 hours.",
+   "effects": "Euphoria, increased energy/alertness, decreased need for sleep, increased sociability, mood lift, increased libido, excessive talking, decreased appetite, weight loss, sweating, disturbed sleep patterns, bruxism, visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
+   "onset": "Insufflated 10-30 minutes.",
+   "summary": "Also known as Ortetamine, this rarely seen amphetamine is approximately 1/10th as potent as dextroamphetamine. Little information exists regarding its safety or effects."
+  }
+ }
+}

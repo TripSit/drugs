@@ -1,0 +1,67 @@
+{
+ "don": {
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "dose_note": " NOTE: These doses are tentative and it is recommended to do further research.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "12-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "3-5mg",
+    "Heavy": "5mg+",
+    "Light": "3mg",
+    "Threshold": "2mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "14-22"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-120"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_DON.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal070.shtml"
+  },
+  "name": "don",
+  "pretty_name": "DON",
+  "properties": {
+   "after-effects": "12-24 hours",
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Threshold: 2mg Light: 3mg Common: 3-5mg Heavy: 5mg+ | NOTE: These doses are tentative and further research is recommended.",
+   "duration": "14-22 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "30-120 minutes.",
+   "summary": "A very rare psychedelic amphetamine. Anectodal reports indicate that the subjective effects are more rough on the body then other DOx compounds. There are some reports of experiencing physical pain from these rough bodily feelings."
+  }
+ }
+}

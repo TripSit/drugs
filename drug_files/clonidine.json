@@ -1,0 +1,56 @@
+{
+ "clonidine": {
+  "aliases": [
+   "catapres",
+   "kapvay",
+   "duraclon"
+  ],
+  "categories": [
+   "depressant",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50-100ug",
+    "Light": "25-50ug",
+    "Strong": "100-250ug."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-16"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "name": "clonidine",
+  "pretty_name": "Clonidine",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "aliases": [
+    "catapres",
+    "kapvay",
+    "duraclon"
+   ],
+   "avoid": "All CNS depressants.",
+   "categories": [
+    "depressant",
+    "common"
+   ],
+   "dose": "Oral Light: 25-50ug Common: 50-100ug Strong: 100-250ug.",
+   "duration": "8-16 hours.",
+   "onset": "15-45 minutes.",
+   "summary": "Is a medication that is used to treat high blood pressure, anxiety, withdrawal (typically from alcohol, opioids, smoking) and many other uses."
+  },
+  "sources": {
+   "_general": [
+    "Effect of magnesium chloride on psychomotor activity, emotional status, and acute behavioural responses to clonidine, d-amphetamine, arecoline, nic.. - https://www.ncbi.nlm.nih.gov/pubmed/21535917"
+   ]
+  }
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "etizolam": {
+  "aliases": [
+   "etiz",
+   "etizest",
+   "etilaam",
+   "sedekopan",
+   "depas",
+   "etizola",
+   "inxity",
+   "zoly",
+   "lamet",
+   "towa"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "research-chemical",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "6-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1-2mg",
+    "Light": "0.5-1mg",
+    "Strong": "2-4mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-8"
+  },
+  "formatted_effects": [
+   "anxiolytic",
+   "hypnotic",
+   "sedative",
+   "muscle relaxant",
+   "amnesia",
+   "dystaxia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-40"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Etizolam.shtml"
+  },
+  "name": "etizolam",
+  "pretty_name": "Etizolam",
+  "properties": {
+   "after-effects": "6-24 hours",
+   "aliases": [
+    "etiz",
+    "etizest",
+    "etilaam",
+    "sedekopan",
+    "depas",
+    "etizola",
+    "inxity",
+    "zoly",
+    "lamet",
+    "towa"
+   ],
+   "avoid": "Other depressants such as Alcohol and Opioids.",
+   "categories": [
+    "benzodiazepine",
+    "research-chemical",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Oral Light: 0.5-1mg Common: 1-2mg Strong: 2-4mg+",
+   "dose_to_diazepam": "Etizolam - 1mg ~=10mg Diazepam.",
+   "duration": "5-8 hours.",
+   "effects": "anxiolytic, hypnotic, sedative, muscle relaxant, amnesia, dystaxia",
+   "onset": "10-40 minutes",
+   "summary": "A thienodiazepine anxiolytic. Similar in action to benzodiazepine drugs. Relieves anxiety, causes sedation and mild euphoria. High doses can lead to losing memory of what happened while on the drug. Users often compulsively redose frequently leading to accidental blackouts. Can be found in pressed pharmaceutical pills from various countries, clandestine pill presses, powder, or liquid solutions. It is prescribed in a variety of countries such as Italy and India.",
+   "tolerance": "Slower than other benzodiazepines, also observed to have reverse-tolerance effect."
+  },
+  "pweffects": {
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Analysis suppression": "https://psychonautwiki.org/wiki/Analysis_suppression",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+   "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Emotion suppression": "https://psychonautwiki.org/wiki/Emotion_suppression",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Muscle relaxation": "https://psychonautwiki.org/wiki/Muscle_relaxation",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Temporary erectile dysfunction": "https://psychonautwiki.org/wiki/Temporary_erectile_dysfunction",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration"
+  },
+  "sources": {
+   "_general": [
+    "Etizolam in the treatment of generalized anxiety disorder: a controlled clinical trial. - https://www.ncbi.nlm.nih.gov/pubmed/2572494",
+    "Molecular and neurochemical evaluation of the effects of etizolam on GABAA receptors under normal and stress conditions. - http://www.ncbi.nlm.nih.gov/pubmed/10083975",
+    "[A patient with Parkinson's disease complicated by hypothyroidism who developed malignant syndrome after discontinuation of etizolam]. - http://www.ncbi.nlm.nih.gov/pubmed/12424963",
+    "Low tolerance and dependence liabilities of etizolam: molecular, functional, and pharmacological correlates. - http://www.ncbi.nlm.nih.gov/pubmed/16107249",
+    "Effects of treatment with etizolam 0.5 mg BID on cognitive performance: a 3-week, multicenter, randomized, double-blind, placebo-controlled, two-tr... - http://www.ncbi.nlm.nih.gov/pubmed/20110024",
+    "[Comparison of four immunoassay screening devices for detection of benzodiazepine and its metabolites in urine: mainly detection of etizolam, thien... - http://www.ncbi.nlm.nih.gov/pubmed/21485120",
+    "Etizolam in the treatment of generalized anxiety disorder: a controlled clinical trial. - http://www.ncbi.nlm.nih.gov/pubmed/2572494"
+   ]
+  }
+ }
+}

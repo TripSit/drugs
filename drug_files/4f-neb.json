@@ -1,0 +1,39 @@
+{
+ "4f-neb": {
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "75-150mg",
+    "Light": "50-75",
+    "Strong": "150-250mg."
+   },
+   "Oral": {
+    "Common": "100-150mg",
+    "Light": "75-100mg",
+    "Strong": "150-300mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "minutes",
+   "Insufflated": "50-100",
+   "Oral": "90-180"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-10",
+   "Oral": "15-30"
+  },
+  "name": "4f-neb",
+  "pretty_name": "4F-NEB",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "dose": "Oral Light: 75-100mg Common: 100-150mg Strong: 150-300mg | Insufflated Light: 50-75 Common: 75-150mg Strong: 150-250mg.",
+   "duration": "Oral: 90-180 minutes. | Insufflated: 50-100 minutes.",
+   "onset": "Oral: 15-30 minutes. | Insufflated: 5-10 minutes.",
+   "summary": "The 4-Fluoro analogue of N-Ethylbuphedrone (NEB) is a part of the cathinone class."
+  }
+ }
+}

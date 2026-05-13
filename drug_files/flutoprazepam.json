@@ -1,0 +1,59 @@
+{
+ "flutoprazepam": {
+  "aliases": [
+   "restas"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "24-36"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1.5-3mg",
+    "Light": "0.5-1mg",
+    "Strong": "3-5mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "12-16"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "name": "flutoprazepam",
+  "pretty_name": "Flutoprazepam",
+  "properties": {
+   "after-effects": "24-36 hours",
+   "aliases": [
+    "restas"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Light: 0.5-1mg Common: 1.5-3mg Strong: 3-5mg+",
+   "dose_to_diazepam": "Flutoprazepam - ~2.5mg ~=10mg Diazepam.",
+   "duration": "12-16 hours",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "15-45 minutes.",
+   "summary": "A potent benzodiazepine that is roughly 4-5x the potency of diazepam and has a longer duration. The drug is rarely seen outside of Japan. The drug is reported to have sedative, hypnotic and anxiolytic effects. The drug may cause amnesia and loss of inhibitions in excess. It is not recommended to mix with other depressants."
+  }
+ }
+}

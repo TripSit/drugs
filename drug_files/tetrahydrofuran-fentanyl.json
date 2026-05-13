@@ -1,0 +1,29 @@
+{
+ "tetrahydrofuran-fentanyl": {
+  "aliases": [
+   "thf-f",
+   "thff"
+  ],
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "depressant",
+   "research-chemical"
+  ],
+  "name": "tetrahydrofuran-fentanyl",
+  "pretty_name": "Tetrahydrofuran-Fentanyl",
+  "properties": {
+   "aliases": [
+    "thf-f",
+    "thff"
+   ],
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "depressant",
+    "research-chemical"
+   ],
+   "summary": "An analogue of fentanyl with extremely limited information in medical literature. The drug is suspected to be less potent than similar analogues. Caution and further research is strongly recommended."
+  }
+ }
+}

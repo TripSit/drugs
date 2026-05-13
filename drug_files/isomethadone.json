@@ -1,0 +1,56 @@
+{
+ "isomethadone": {
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "tentative",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "2.5-7.5mg",
+    "Light": "1.5-2.5mg",
+    "Strong": "7.5-15mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "30-40"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil constriction",
+   "Analgesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-90"
+  },
+  "name": "isomethadone",
+  "pretty_name": "Isomethadone",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "avoid": "All other CNS depressants",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "tentative",
+    "depressant"
+   ],
+   "dose": "Light: 1.5-2.5mg Common: 2.5-7.5mg Strong: 7.5-15mg",
+   "duration": "30-40 hours",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
+   "onset": "30-90 minutes",
+   "summary": "A rare pharmaceutical drug known as isoamidone, this opioid analgesic and methadone analogue was withdrawn from the market and is seldom seen today. Rarely abused, reports state it is around 2x potentcy of methadone, and reports indicate euphoric effects."
+  }
+ }
+}

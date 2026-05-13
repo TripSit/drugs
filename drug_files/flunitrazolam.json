@@ -1,0 +1,63 @@
+{
+ "flunitrazolam": {
+  "aliases": [
+   "fln"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "depressant",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Oral": "1-16",
+   "Sublingual": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "80-150ug",
+    "Light": "40-80ug",
+    "Strong": "150-300ug.",
+    "Threshold": "30-40ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-5"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Blackouts"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "10-30",
+   "Sublingual": "5-15"
+  },
+  "name": "flunitrazolam",
+  "pretty_name": "Flunitrazolam",
+  "properties": {
+   "after-effects": "Oral: 1-16 hours. | Sublingual: 1-12 hours. | Note: This can be much longer on higher doses. Dosages between 0.5-1mg may cause after-effects that last up to roughly 36 hours.",
+   "aliases": [
+    "fln"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "depressant",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Threshold: 30-40ug Light: 40-80ug Common: 80-150ug Strong: 150-300ug.",
+   "duration": "4-5 hours",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Blackouts.",
+   "onset": "Oral: 10-30 minutes. | Sublingual: 5-15 minutes.",
+   "summary": "A very potent hypnotic Benzodiazepine. Triazolo version of Flunitrazepam."
+  }
+ }
+}

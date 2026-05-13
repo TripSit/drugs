@@ -1,0 +1,46 @@
+{
+ "fluclotizolam": {
+  "categories": [
+   "benzodiazepine",
+   "tentative",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "dose_note": " Note: These doses are extremely tentative and will vary from user to user depending on many factors including, but not limited to, tolerance.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-14"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "250-500ug",
+    "Heavy": "750ug+",
+    "Light": "250ug",
+    "Strong": "500-750ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-30"
+  },
+  "name": "fluclotizolam",
+  "pretty_name": "Fluclotizolam",
+  "properties": {
+   "after-effects": "1-14 hours.",
+   "categories": [
+    "benzodiazepine",
+    "tentative",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 250ug Common: 250-500ug Strong: 500-750ug Heavy: 750ug+ | Note: These doses are extremely tentative and will vary from user to user depending on many factors including but not limited to tolerance.",
+   "duration": "3-6 hours.",
+   "onset": "10-30 minutes.",
+   "summary": "A derivative of Etizolam. There are conflicting reports on its dosage, though reports have suggested that it is approximately 3x the potency of Etizolam, with a shorter half-life."
+  }
+ }
+}

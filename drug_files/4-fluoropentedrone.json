@@ -1,0 +1,31 @@
+{
+ "4-fluoropentedrone": {
+  "aliases": [
+   "4-fpd",
+   "4-f-pentedrone",
+   "4f-pentedrone"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "tentative",
+   "habit-forming"
+  ],
+  "name": "4-fluoropentedrone",
+  "pretty_name": "4-Fluoropentedrone",
+  "properties": {
+   "aliases": [
+    "4-fpd",
+    "4-f-pentedrone",
+    "4f-pentedrone"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "tentative",
+    "habit-forming"
+   ],
+   "summary": "An obscure analogue of pentedrone, little information exists about this cathinone. It is likely that it has the same general effects as pentedrone, mephedrone and other related stimulants."
+  }
+ }
+}

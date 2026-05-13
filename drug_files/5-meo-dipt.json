@@ -1,0 +1,76 @@
+{
+ "5-meo-dipt": {
+  "aliases": [
+   "foxy",
+   "foxy-methoxy",
+   "5meodipt"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "empathogen"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-3"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "8-15mg",
+    "Light": "5-10mg",
+    "Strong": "15-25mg+",
+    "Threshold": "3mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-40"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_5MeODiPT.shtml",
+   "tihkal": "https://www.erowid.org/library/books_online/tihkal/tihkal37.shtml"
+  },
+  "name": "5-meo-dipt",
+  "pretty_name": "5-MeO-DiPT",
+  "properties": {
+   "after-effects": "2-3 hours",
+   "aliases": [
+    "foxy",
+    "foxy-methoxy",
+    "5meodipt"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "empathogen"
+   ],
+   "dose": "Oral Threshold: 3mg Light: 5-10mg Common: 8-15mg Strong: 15-25mg+",
+   "duration": "4-8 hours",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "20-40 minutes",
+   "summary": "5-methoxy-di isopropyl tryptamine, also known as 'foxy', a psychedelic tryptamine related to DMT. The drug is reported to distort visual and audio perception. The drug is also reported to have a heavy body load at higher dosages. The drug is reported to be similar to those structurally similar to it."
+  }
+ }
+}

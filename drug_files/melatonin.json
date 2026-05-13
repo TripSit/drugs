@@ -1,0 +1,55 @@
+{
+ "melatonin": {
+  "categories": [
+   "nootropic",
+   "common",
+   "supplement"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": ".3-1mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-8"
+  },
+  "formatted_onset": {
+   "_unit": "hours",
+   "value": "1"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Melatonin.shtml",
+   "tihkal": "https://www.erowid.org/library/books_online/tihkal/tihkal35.shtml"
+  },
+  "name": "melatonin",
+  "pretty_name": "Melatonin",
+  "properties": {
+   "categories": [
+    "nootropic",
+    "common",
+    "supplement"
+   ],
+   "dose": "Common: 0.3-1mg",
+   "duration": "6-8 hours.",
+   "onset": "Within an hour.",
+   "summary": "A naturally occurring hormone produced in the body that promotes sleep at certain times in the day based on the circadian rhythm. It is commonly available as a drug to treat insomnia and to promote a healthier sleep cycle. It is sometimes used to promote sleepfulness at the tail-end of drug experiences, though it is reported to be not particularly hypnotic."
+  },
+  "pweffects": {
+   "Dream potentiation": "https://psychonautwiki.org/wiki/Dream_potentiation"
+  },
+  "sources": {
+   "_general": [
+    "Intranasal absorption of melatonin in vivo bioavailability study. - http://www.ncbi.nlm.nih.gov/pubmed/10332069",
+    "Solubility and stability of melatonin in propylene glycol and 2-hydroxypropyl-beta-cyclodextrin vehicles. - http://www.ncbi.nlm.nih.gov/pubmed/18982260",
+    "Melatonin, a potential therapeutic agent for smooth muscle-related pathological conditions and aging. - http://www.ncbi.nlm.nih.gov/pubmed/20939818",
+    "Anxiolytic-like effects of a new 1-N substituted analog of melatonin in pinealectomized rats. - http://www.ncbi.nlm.nih.gov/pubmed/24495777",
+    "Sleep-inducing effects of low doses of melatonin ingested in the evening. - http://www.ncbi.nlm.nih.gov/pubmed/7768078",
+    "Anxiolytic activity of melatonin in mice: involvement of benzodiazepine receptors. - http://www.ncbi.nlm.nih.gov/pubmed/7905658"
+   ],
+   "dose": [
+    "http://news.mit.edu/2001/melatonin-1017"
+   ]
+  }
+ }
+}

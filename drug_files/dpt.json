@@ -1,0 +1,116 @@
+{
+ "dpt": {
+  "aliases": [
+   "dipropyltryptamine"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Insufflated": "3-4",
+   "Intramuscular": "2-4",
+   "Oral": "2-3",
+   "Smoked": "2-4"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "50-100mg",
+    "Light": "20-50",
+    "Strong": "100-150mg"
+   },
+   "Intramuscular": {
+    "Common": "35-60mg",
+    "Light": "10-35mg",
+    "Strong": "60-100mg",
+    "Threshold": "5-10mg"
+   },
+   "Oral": {
+    "Common": "125-200mg",
+    "Light": "75-125mg",
+    "Strong": "200-250mg"
+   },
+   "Smoked": {
+    "Common": "30-50mg",
+    "Light": "15-30mg",
+    "Strong": "50-100mg",
+    "Threshold": "5-10mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "3-4",
+   "Intramuscular": "3-4",
+   "Oral": "2-4",
+   "Smoked": "0.5-1.5"
+  },
+  "formatted_effects": [
+   "A psychedelic tryptamine with \"a wide range of effects at any particular dose depending on the individual\""
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-20",
+   "Intramuscular": "2-10",
+   "Oral": "20-60",
+   "Smoked": "0-1"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_DPT.shtml",
+   "tihkal": "https://www.erowid.org/library/books_online/tihkal/tihkal09.shtml"
+  },
+  "name": "dpt",
+  "pretty_name": "DPT",
+  "properties": {
+   "after-effects": "Oral: 2-3 hours | Insufflated: 3-4 hours | IM: 2-4 hours |  Smoked: 2-4 hours",
+   "aliases": [
+    "dipropyltryptamine"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Oral Light: 75-125mg Common: 125-200mg Strong: 200-250mg | Insufflated Light: 20-50 Common: 50-100mg  Strong: 100-150mg | IM Threshold: 5-10mg Light: 10-35mg  Common: 35-60mg  Strong: 60-100mg | Smoked Threshold: 5-10mg Light: 15-30mg Common: 30-50mg  Strong: 50-100mg",
+   "duration": "Oral: 2-4 hours | Insufflated: 3-4 hours. | IM: 3-4 hours. | Smoked: 0.5-1.5 hours.",
+   "effects": "A psychedelic tryptamine with \"a wide range of effects at any particular dose depending on the individual\"",
+   "onset": "Oral: 20-60 minutes | Insufflated: 5-20 minutes | IM: 2-10 minutes | Smoked: 0-1 minutes",
+   "summary": "N,N-Dipropyltryptamine, a psychedelic tryptamine compound and lesser-known analogue of DMT, with similar psychedelic effects. Like DMT, it is a partial serotonin receptor agonist."
+  },
+  "pweffects": {
+   "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
+   "After images": "https://psychonautwiki.org/wiki/After_images",
+   "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+   "Changes in gravity": "https://psychonautwiki.org/wiki/Changes_in_gravity",
+   "Colour enhancement": "https://psychonautwiki.org/wiki/Colour_enhancement",
+   "Colour replacement": "https://psychonautwiki.org/wiki/Colour_replacement",
+   "Colour shifting": "https://psychonautwiki.org/wiki/Colour_shifting",
+   "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+   "Emotion enhancement": "https://psychonautwiki.org/wiki/Emotion_enhancement",
+   "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+   "Headaches": "https://psychonautwiki.org/wiki/Headaches",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Machinescapes": "https://psychonautwiki.org/wiki/Machinescapes",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Muscle spasms": "https://psychonautwiki.org/wiki/Muscle_spasms",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Novelty enhancement": "https://psychonautwiki.org/wiki/Novelty_enhancement",
+   "Pattern recognition enhancement": "https://psychonautwiki.org/wiki/Pattern_recognition_enhancement",
+   "Personal bias suppression": "https://psychonautwiki.org/wiki/Personal_bias_suppression",
+   "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Recursion": "https://psychonautwiki.org/wiki/Recursion",
+   "Rejuvenation": "https://psychonautwiki.org/wiki/Rejuvenation",
+   "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+   "Scenery slicing": "https://psychonautwiki.org/wiki/Scenery_slicing",
+   "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Subconscious communication": "https://psychonautwiki.org/wiki/Subconscious_communication",
+   "Symmetrical texture repetition": "https://psychonautwiki.org/wiki/Symmetrical_texture_repetition",
+   "Tracers": "https://psychonautwiki.org/wiki/Tracers",
+   "Transformations": "https://psychonautwiki.org/wiki/Transformations",
+   "Unity and interconnectedness": "https://psychonautwiki.org/wiki/Unity_and_interconnectedness",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  }
+ }
+}

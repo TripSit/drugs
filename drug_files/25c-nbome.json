@@ -1,0 +1,120 @@
+{
+ "25c-nbome": {
+  "aliases": [
+   "25c",
+   "2c-nbome"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "common"
+  ],
+  "dose_note": " Note: Do not exceed 1500ug.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Sublingual": {
+    "Common": "500-750ug",
+    "Light": "250-500ug",
+    "Strong": "750-1250ug+",
+    "Threshold": "50-250ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-10"
+  },
+  "formatted_effects": [
+   "Mild OEV's",
+   "strong CEV's",
+   "A sense of well being and contentedness"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-90"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_25CNBOMe.shtml"
+  },
+  "name": "25c-nbome",
+  "pretty_name": "25C-NBOMe",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "aliases": [
+    "25c",
+    "2c-nbome"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "common"
+   ],
+   "dose": "Sublingual Threshold: 50-250ug Light: 250-500ug Common: 500-750ug Strong: 750-1250ug+ | Note: Do not exceed 1500ug.",
+   "duration": "4-10 hours.",
+   "effects": "Mild OEV's, strong CEV's, A sense of well being and contentedness.",
+   "onset": "45-90 minutes.",
+   "summary": "A relatively new and popular research chemical. A short-acting psychedelic related to 2C-C with similar effects to LSD, though more visual with less of a 'head-trip.' Frequently missold as LSD. Causes an uncomfortable body load and has caused several deaths even within regular dose ranges.",
+   "test-kits": "Marquis: Slow Purple. | Mecke: Brown. | Mandelin: No colour change.  | Froehde: Yellow. | Liebermann: Yellow > Black. | Ehrlich's Reagent: No colour change.",
+   "tolerance": "25c has an extremely prevalent tolerence, with users reporting a strong cross tolerence with LSD, mushrooms, 2c-X, 25x, and DOx chemicals. Tolerence lasts roughly 2 weeks, depending on the user."
+  },
+  "pweffects": {
+   "8A Geometry - Exposure to semantic concept network": "https://psychonautwiki.org/wiki/8A_Geometry_-_Exposure_to_semantic_concept_network",
+   "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
+   "After images": "https://psychonautwiki.org/wiki/After_images",
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+   "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+   "Changes in gravity": "https://psychonautwiki.org/wiki/Changes_in_gravity",
+   "Colour enhancement": "https://psychonautwiki.org/wiki/Colour_enhancement",
+   "Colour shifting": "https://psychonautwiki.org/wiki/Colour_shifting",
+   "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+   "Diffraction": "https://psychonautwiki.org/wiki/Diffraction",
+   "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+   "Emotion enhancement": "https://psychonautwiki.org/wiki/Emotion_enhancement",
+   "Empathy, love, and sociability enhancement": "https://psychonautwiki.org/wiki/Empathy,_love,_and_sociability_enhancement",
+   "Environmental cubism": "https://psychonautwiki.org/wiki/Environmental_cubism",
+   "External hallucinations": "https://psychonautwiki.org/wiki/External_hallucinations",
+   "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+   "Immersion enhancement": "https://psychonautwiki.org/wiki/Immersion_enhancement",
+   "Increased blood pressure": "https://psychonautwiki.org/wiki/Increased_blood_pressure",
+   "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
+   "Increased libido": "https://psychonautwiki.org/wiki/Increased_libido",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Novelty enhancement": "https://psychonautwiki.org/wiki/Novelty_enhancement",
+   "Pattern recognition enhancement": "https://psychonautwiki.org/wiki/Pattern_recognition_enhancement",
+   "Perception of decreased weight": "https://psychonautwiki.org/wiki/Perception_of_decreased_weight",
+   "Personal bias suppression": "https://psychonautwiki.org/wiki/Personal_bias_suppression",
+   "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+   "Pupil dilation": "https://psychonautwiki.org/wiki/Pupil_dilation",
+   "Recursion": "https://psychonautwiki.org/wiki/Recursion",
+   "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+   "Scenery slicing": "https://psychonautwiki.org/wiki/Scenery_slicing",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Sublingual numbing": "https://psychonautwiki.org/wiki/Sublingual_numbing",
+   "Symmetrical texture repetition": "https://psychonautwiki.org/wiki/Symmetrical_texture_repetition",
+   "Tactile hallucinations": "https://psychonautwiki.org/wiki/Tactile_hallucinations",
+   "Temperature regulation suppression": "https://psychonautwiki.org/wiki/Temperature_regulation_suppression",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Thought connectivity": "https://psychonautwiki.org/wiki/Thought_connectivity",
+   "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+   "Tracers": "https://psychonautwiki.org/wiki/Tracers",
+   "Transformations": "https://psychonautwiki.org/wiki/Transformations",
+   "Vasoconstriction": "https://psychonautwiki.org/wiki/Vasoconstriction",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  },
+  "sources": {
+   "_general": [
+    "Two cases of severe intoxication associated with analytically confirmed use of the novel psychoactive substances 25B-NBOMe and 25C-NBOMe - http://www.ncbi.nlm.nih.gov/pubmed/24779864"
+   ]
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "2-mmc": {
+  "categories": [
+   "stimulant",
+   "habit-forming",
+   "tentative",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Insufflated": "2-4",
+   "Oral": "2-8"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "15-40mg",
+    "Light": "5-15mg",
+    "Strong": "40-80mg."
+   },
+   "Oral": {
+    "Common": "50-100mg",
+    "Light": "20-50mg",
+    "Strong": "100-135mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-4",
+   "Oral": "3-5"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "2-15",
+   "Oral": "15-45"
+  },
+  "name": "2-mmc",
+  "pretty_name": "2-MMC",
+  "properties": {
+   "after-effects": "Oral: 2-8 hours. | Insufflated: 2-4 hours.",
+   "categories": [
+    "stimulant",
+    "habit-forming",
+    "tentative",
+    "research-chemical"
+   ],
+   "dose": "Oral Light: 20-50mg Common: 50-100mg Strong: 100-135mg. | Insufflated Light: 5-15mg Common: 15-40mg Strong: 40-80mg.",
+   "duration": "Oral: 3-5 hours. | Insufflated: 2-4 hours.",
+   "onset": "Oral: 15-45 minutes. | Insufflated: 2-15 minutes.",
+   "summary": "A cathinone, yet the effects are noted more of the likes of 2-FA or amphetamine."
+  }
+ }
+}

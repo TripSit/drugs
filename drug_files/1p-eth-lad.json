@@ -1,0 +1,51 @@
+{
+ "1p-eth-lad": {
+  "aliases": [
+   "1pethlad"
+  ],
+  "categories": [
+   "psychedelic",
+   "tentative",
+   "research-chemical"
+  ],
+  "dose_note": " NOTE: These doses are very tentative, and are based on the likelihood that the dosage profile will be similar to ETH-LAD.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "60-100ug",
+    "Light": "30-60ug",
+    "Strong": "100-200ug+",
+    "Threshold": "20-30ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-10"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-90"
+  },
+  "name": "1p-eth-lad",
+  "pretty_name": "1P-ETH-LAD",
+  "properties": {
+   "after-effects": "2-12 hours.",
+   "aliases": [
+    "1pethlad"
+   ],
+   "categories": [
+    "psychedelic",
+    "tentative",
+    "research-chemical"
+   ],
+   "dose": "Oral Threshold: 20-30ug Light: 30-60ug Common: 60-100ug Strong: 100-200ug+ | NOTE: These doses are very tentative, and are based on the likelihood that the dosage profile will be similar to ETH-LAD.",
+   "duration": "6-10 hours.",
+   "experiences": "https://erowid.org/experiences/subs/exp_1PETHLAD.shtml",
+   "onset": "15-90 minutes",
+   "summary": "A new psychedelic lysergamide which is suspected to be a prodrug of ETH-LAD, which could explain why the doses are very similar, it alternatively could be active on its own. There are no studies on it currently."
+  }
+ }
+}

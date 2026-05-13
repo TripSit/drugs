@@ -1,0 +1,40 @@
+{
+ "4-ho-ept": {
+  "categories": [
+   "psychedelic",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-30mg",
+    "Light": "10-20mg",
+    "Strong": "30-50mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-45"
+  },
+  "name": "4-ho-ept",
+  "pretty_name": "4-HO-EPT",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "categories": [
+    "psychedelic",
+    "tentative"
+   ],
+   "dose": "Light: 10-20mg Common: 20-30mg Strong: 30-50mg+",
+   "duration": "4-8 hours.",
+   "onset": "30-45 minutes.",
+   "summary": "The 4-Hydroxy version of EPT. Slightly more potent than the prior."
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "ic-26": {
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "6-48"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-20mg",
+    "Heavy": "35mg+",
+    "Light": "5-10mg",
+    "Strong": "20-35mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-24"
+  },
+  "formatted_effects": [
+   "Analgesia",
+   "Euphoria",
+   "Sedation",
+   "Respiratory depression",
+   "Mood lift",
+   "Itchiness",
+   "Dry mouth",
+   "Pupil constriction",
+   "Physical relaxation"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-120"
+  },
+  "links": {
+   "experiences": "https://www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin_1963-01-01_1_page005.html"
+  },
+  "name": "ic-26",
+  "pretty_name": "Methiodone",
+  "properties": {
+   "after-effects": "6\u201348 hours. Drug effects lasting up to 24 hours were reported in some subjects following single oral doses.",
+   "aliases": [
+    "IC-26",
+    "I-C-26",
+    "WIN 1161-3",
+    "Methiodone"
+   ],
+   "avoid": "All other CNS depressants.",
+   "bioavailability": "Oral (exact value unknown).",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Light: 5-10mg Common: 10-20mg Strong: 20-35mg+. NOTE: In controlled human studies, single oral doses below approximately 25 mg often produced no definite subjective effects, while morphine-like effects became consistent at higher doses.",
+   "duration": "Oral 6\u201324 hours. In human studies, effects were sometimes reported for as long as 24 hours after a single oral dose.",
+   "effects": "Analgesia, Euphoria, Sedation, Respiratory depression, Mood lift, Itchiness, Dry mouth, Pupil constriction, Physical relaxation.",
+   "half-life": "Unknown.",
+   "note": "Please be aware that with research chemicals purchased from grey-market vendors, one can never be 100% certain of the actual amount or purity of the active compound. Tread lightly.",
+   "onset": "45\u2013120 minutes.",
+   "summary": "Methiodone (IC-26, WIN 1161-3) is a synthetic opioid analgesic and methadone analogue developed by Sterling Drug Inc. In human studies, low oral doses frequently produced no clear subjective effects, while higher doses induced morphine-like effects with significant inter-individual variability. Twenty-four-hour substitution studies demonstrated that IC-26 effectively suppressed morphine withdrawal, and its addiction liability was concluded to be comparable to morphine."
+  },
+  "sources": {
+   "_general": [
+    "Wolbach AB, Fraser HF. Addiction Liability of I-C-26. Bulletin on Narcotics, 1963.",
+    "Janssen PA. Synthetic Analgesics Vol. 1. Pergamon Press, 1960.",
+    "Lednicer D. Central Analgetics. Wiley, 1982.",
+    "US Patent 2,618,640 \u2013 Certain Amino Hydrocarbon Sulfones and Process of Preparation (Archer, Suter, Tullar; Sterling Drug Inc.)."
+   ]
+  }
+ }
+}

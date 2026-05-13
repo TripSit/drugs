@@ -1,0 +1,71 @@
+{
+ "hot-7": {
+  "aliases": [
+   "hot7"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative",
+   "empathogen"
+  ],
+  "dose_note": " NOTE: The dose curve is reported to be abnormal. As such, additional caution is advised when dosing. It is suggested that there may be MAOI effects as similiar with 2C-T-7.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-30mg",
+    "Light": "15-20mg",
+    "Strong": "30-40mg+",
+    "Threshold": "15mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-8"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "60-180"
+  },
+  "name": "hot-7",
+  "pretty_name": "HOT-7",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "hot7"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative",
+    "empathogen"
+   ],
+   "dose": "Oral Threshold: 15mg Light: 15-20mg Common: 20-30mg Strong: 30-40mg+ | NOTE: The dose curve is reported to be abnormal. As such, additional caution is advised when dosing. It is suggested that there may be MAOI effects as similiar with 2C-T-7.",
+   "duration": "5-8 hours",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "60-180 minutes.",
+   "summary": "A rather rare psychedelic phenylethylamine that is the hydroxylated version and prodrug for 2C-T-7."
+  }
+ }
+}

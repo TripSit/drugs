@@ -1,0 +1,74 @@
+{
+ "3-mmc": {
+  "aliases": [
+   "3mmc",
+   "3-methylmethcathinone",
+   "3methylmethcathinone",
+   "3-meph",
+   "3-mephedrone"
+  ],
+  "categories": [
+   "stimulant",
+   "habit-forming",
+   "empathogen"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "3-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "75-150mg",
+    "Light": "25-75mg",
+    "Strong": "150mg-300mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-7"
+  },
+  "formatted_effects": [
+   "increased energy/alertness",
+   "Decreased need for sleep",
+   "Increased sociability",
+   "mood lift",
+   "increased libido",
+   "Excessive talking",
+   "Decreased appetite",
+   "Weight loss",
+   "Sweating",
+   "Disturbed sleep patterns",
+   "Bruxia",
+   "Visual and auditory hallucinations",
+   "Itching",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "formatted_onset": {
+   "_unit": "hours",
+   "value": "1"
+  },
+  "name": "3-mmc",
+  "pretty_name": "3-MMC",
+  "properties": {
+   "after-effects": "3-4 hours.",
+   "aliases": [
+    "3mmc",
+    "3-methylmethcathinone",
+    "3methylmethcathinone",
+    "3-meph",
+    "3-mephedrone"
+   ],
+   "categories": [
+    "stimulant",
+    "habit-forming",
+    "empathogen"
+   ],
+   "dose": "Light: 25-75mg Common: 75-150mg Strong: 150mg-300mg+",
+   "duration": "4-7 hours (dependent on dose/ROA/lots of stuff)",
+   "effects": "increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increased libido, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and Auditory hallucinations, Itching, aggressiveness, moodiness.",
+   "onset": "Within an hour.",
+   "summary": "A euphoric stimulant similar to mephedrone but said to lack much of the \"magic.\" Slightly less potent. Some prefer 3mmc over 4mmc due to it's more dopaminergic effects."
+  }
+ }
+}

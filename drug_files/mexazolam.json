@@ -1,0 +1,49 @@
+{
+ "mexazolam": {
+  "aliases": [
+   "melex",
+   "sedoxil"
+  ],
+  "categories": [
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "0.5-1.5mg",
+    "Heavy": "2-3mg.",
+    "Light": "0.25-0.5mg",
+    "Strong": "1.5-2mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "5-45"
+  },
+  "name": "mexazolam",
+  "pretty_name": "Mexazolam",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "melex",
+    "sedoxil"
+   ],
+   "categories": [
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 0.25-0.5mg Common: 0.5-1.5mg Strong: 1.5-2mg Heavy: 2-3mg.",
+   "duration": "4-8 hours.",
+   "onset": "5-45 minutes.",
+   "summary": "Benzodiazepine derivative that had been trialed for anxiety and was found to be effective for anxiety at one week week follow-ups, but after three weeks it had lost its associated therapeutic anxiolytic properties and was reported to be no more effective than the placebo."
+  }
+ }
+}

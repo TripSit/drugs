@@ -1,0 +1,50 @@
+{
+ "3-ho-pce": {
+  "aliases": [
+   "3hopce"
+  ],
+  "categories": [
+   "dissociative",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-10mg",
+    "Light": "2-5mg",
+    "Strong": "10-15mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-4"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-40"
+  },
+  "name": "3-ho-pce",
+  "pretty_name": "3-HO-PCE",
+  "properties": {
+   "after-effects": "2 hours to a month.",
+   "aliases": [
+    "3hopce"
+   ],
+   "categories": [
+    "dissociative",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Threshold 1-2mg Light: 2-5mg Common: 5-10mg's Strong: 10-15mg's",
+   "duration": "3-4 hours.",
+   "onset": "20-40 minutes.",
+   "summary": "A rare and very potent PCP analogue, eight times more potent than PCP as a NMDA receptor antagonist. It is also a \u03bc-opioid receptor agonist. Similar in structure to methoxetamine."
+  }
+ }
+}

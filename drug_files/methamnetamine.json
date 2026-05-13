@@ -1,0 +1,59 @@
+{
+ "methamnetamine": {
+  "aliases": [
+   "methylnaphetamine",
+   "mnt",
+   "n-methyl-pal-287"
+  ],
+  "categories": [
+   "psychedelic",
+   "stimulant",
+   "research-chemical",
+   "tentative",
+   "empathogen",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "80-120mg",
+    "Heavy": "150mg+",
+    "Light": "60-80mg",
+    "Strong": "120-150mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-30"
+  },
+  "name": "methamnetamine",
+  "pretty_name": "Methamnetamine",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "methylnaphetamine",
+    "mnt",
+    "n-methyl-pal-287"
+   ],
+   "categories": [
+    "psychedelic",
+    "stimulant",
+    "research-chemical",
+    "tentative",
+    "empathogen",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 60-80mg Common: 80-120mg Strong: 120-150mg Heavy: 150mg+",
+   "duration": "3-6 hours.",
+   "onset": "10-30 minutes.",
+   "summary": "A selective serotonin releaser, which also shows some light psychedelic activity. Almost always taken with a stimulant, to cause euphoric effects."
+  }
+ }
+}

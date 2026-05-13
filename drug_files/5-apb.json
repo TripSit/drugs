@@ -1,0 +1,63 @@
+{
+ "5-apb": {
+  "aliases": [
+   "5apb"
+  ],
+  "categories": [
+   "psychedelic",
+   "stimulant",
+   "research-chemical",
+   "empathogen",
+   "habit-forming"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "70-100mg",
+    "Light": "40-60mg",
+    "Strong": "100mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "7-8"
+  },
+  "formatted_effects": [
+   "Users describe effects ranging from total incapacitation and paranoia to euphoria",
+   "Largely",
+   "effects reported were similar to that of the drug MDA",
+   "with euphoria",
+   "empathy",
+   "sedative",
+   "sometimes stimulating effects"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_5APB.shtml"
+  },
+  "name": "5-apb",
+  "pretty_name": "5-APB",
+  "properties": {
+   "after-effects": "smooth come down/afterglow",
+   "aliases": [
+    "5apb"
+   ],
+   "categories": [
+    "psychedelic",
+    "stimulant",
+    "research-chemical",
+    "empathogen",
+    "habit-forming"
+   ],
+   "detection": "May cause false positives for MDA (1-5 days)",
+   "dose": "Oral Light: 40-60mg Common: 70-100mg Strong: 100mg+",
+   "duration": "7-8 hours",
+   "effects": "Users describe effects ranging from total incapacitation and paranoia to euphoria. Largely, effects reported were similar to that of the drug MDA, with euphoria, empathy, sedative, sometimes stimulating effects",
+   "onset": "45 -60 minutes",
+   "summary": "A triple monoamine reuptake inhibitor. This agonism for 5-HT2B makes it likely that 5-APB would be cardiotoxic with long term use, as seen in other 5-HT2B agonists such as fenfluramine and MDMA.",
+   "wiki": "http://wiki.tripsit.me/wiki/5apb"
+  }
+ }
+}

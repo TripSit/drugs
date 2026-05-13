@@ -1,0 +1,44 @@
+{
+ "glaucine": {
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "depressant",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-150mg",
+    "Light": "50-100mg",
+    "Strong": "150-200mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-90"
+  },
+  "name": "glaucine",
+  "pretty_name": "Glaucine",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "depressant",
+    "tentative"
+   ],
+   "dose": "Oral Light: 50-100mg Common: 100-150mg Strong: 150-200mg+",
+   "duration": "6-8 hours.",
+   "onset": "45-90 minutes.",
+   "summary": "An alkaloid that is found in several different scpecies in the Papaveraceae family. It has anti inflammatory and antitussive effects."
+  }
+ }
+}

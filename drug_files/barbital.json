@@ -1,0 +1,36 @@
+{
+ "barbital": {
+  "categories": [
+   "barbiturate",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "650-970mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-30"
+  },
+  "name": "barbital",
+  "pretty_name": "Barbital",
+  "properties": {
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "barbiturate",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Common: 650-970mg.",
+   "duration": "6-12 hours.",
+   "onset": "15-30 minutes.",
+   "summary": "The first commercially available barbiturate. Was used commonly as a sleeping aid until the 1950s."
+  }
+ }
+}

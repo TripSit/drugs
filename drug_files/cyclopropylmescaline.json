@@ -1,0 +1,51 @@
+{
+ "cyclopropylmescaline": {
+  "aliases": [
+   "cpm",
+   "4-cyclopropylmethoxy-3"
+  ],
+  "categories": [
+   "psychedelic",
+   "tentative",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "6-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "60-70mg",
+    "Light": "50-60mg",
+    "Strong": "70-80mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "12-18"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-30"
+  },
+  "name": "cyclopropylmescaline",
+  "pretty_name": "Cyclopropylmescaline",
+  "properties": {
+   "after-effects": "6-8 hours.",
+   "aliases": [
+    "cpm",
+    "4-cyclopropylmethoxy-3"
+   ],
+   "categories": [
+    "psychedelic",
+    "tentative",
+    "research-chemical"
+   ],
+   "dose": "Light: 50-60mg Common: 60-70mg: Strong: 70-80mg",
+   "duration": "12-18 hours",
+   "onset": "10-30 minutes",
+   "summary": "Cyclopropylmescaline, AKA CPM, is a psychedelic/hallucinogenic that was produced by Alexander Shulgin. It causes visual and auditory hallucinations and is reported to have a long duration. There is limited information on this drug, caution is advised",
+   "warning": "Caution: There is limited information on how CPM interacts with the body. Caution with usage/dosage is advised."
+  }
+ }
+}

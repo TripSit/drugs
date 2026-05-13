@@ -1,0 +1,76 @@
+{
+ "propylhexedrine": {
+  "aliases": [
+   "benzedrex",
+   "propylhexadrine",
+   "hexahdromethamphetamine"
+  ],
+  "categories": [
+   "stimulant",
+   "habit-forming",
+   "common"
+  ],
+  "dose_note": " Note: There are potency differences between pure HCl and cottons.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-16"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "30-75mg",
+    "Light": "10-30mg",
+    "Strong": "75-100mg+"
+   },
+   "Insufflated(Pure)": {
+    "Common": "15-30mg",
+    "Light": "5-15mg",
+    "Strong": "30-50mg+"
+   },
+   "Oral(Benzedrex)": {
+    "Common": "60-125mg",
+    "Heavy": "250mg+",
+    "Light": "20-60mg",
+    "Strong": "125-250mg"
+   },
+   "Oral(Pure)": {
+    "Common": "20-50mg",
+    "Light": "10-20mg",
+    "Strong": "50mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-10",
+   "Oral": "5-15"
+  },
+  "name": "propylhexedrine",
+  "pretty_name": "Propylhexedrine",
+  "properties": {
+   "after-effects": "1-16 hours.",
+   "aliases": [
+    "benzedrex",
+    "propylhexadrine",
+    "hexahdromethamphetamine"
+   ],
+   "avoid": "Stimulants due to side effect concerns such as heart rate.",
+   "categories": [
+    "stimulant",
+    "habit-forming",
+    "common"
+   ],
+   "dose": "Oral(Pure) Light: 10-20mg Common: 20-50mg Strong: 50mg+ | Insufflated(Pure) Light: 5-15mg Common: 15-30mg Strong: 30-50mg+ | Oral (Benzedrex) Light: 20-60mg Common: 60-125mg Strong: 125-250mg Heavy: 250mg+ | Insufflated (Benzedrex) Light: 10-30mg's Common: 30-75mg's Strong: 75-100mg+ | Note: There are potency differences between pure HCl and cottons.",
+   "duration": "4-8 hours",
+   "onset": "Oral: 5-15 minutes | Insufflated: 5-10 minutes.",
+   "summary": "A relatively common CNS stimulant sold over the counter in Benzedrex inhalers."
+  },
+  "sources": {
+   "_general": [
+    "A drug toxicity death involving propylhexedrine and mitragynine. - https://www.ncbi.nlm.nih.gov/pubmed/21219704"
+   ]
+  }
+ }
+}

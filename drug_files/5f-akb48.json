@@ -1,0 +1,52 @@
+{
+ "5f-akb48": {
+  "aliases": [
+   "5f-apinaca",
+   "5fapinaca",
+   "5fakb48"
+  ],
+  "categories": [
+   "research-chemical",
+   "tentative",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "minutes",
+   "Vapourized": "15-45"
+  },
+  "formatted_dose": {
+   "Vapourized": {
+    "Light": "500-1000ug",
+    "Strong": "1000-2500ug.",
+    "Threshold": "500ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "minutes",
+   "Vapourized": "30-60"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Vapourized": "5-30"
+  },
+  "name": "5f-akb48",
+  "pretty_name": "5F-AKB48",
+  "properties": {
+   "after-effects": "Vapourized: 15-45 minutes.",
+   "aliases": [
+    "5f-apinaca",
+    "5fapinaca",
+    "5fakb48"
+   ],
+   "categories": [
+    "research-chemical",
+    "tentative",
+    "habit-forming"
+   ],
+   "dose": "Vapourized Threshold: 500ug Light: 500-1000ug Strong: 1000-2500ug.",
+   "duration": "Vapourized: 30-60 minutes.",
+   "onset": "Vapourized: 5-30 seconds.",
+   "summary": "A synthetic cannabanoid that is a Indazole. Produces subjective effects somewhat similar to that of Cannabis, yet with a very short duration. Analogue of STS-135, in which the core indole structure is subbed with an indazole base."
+  }
+ }
+}

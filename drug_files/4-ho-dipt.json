@@ -1,0 +1,70 @@
+{
+ "4-ho-dipt": {
+  "aliases": [
+   "iprocin"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-20mg",
+    "Light": "5-10mg",
+    "Strong": "20-30mg+",
+    "Threshold": "3-5mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_4HODiPT.shtml",
+   "tihkal": "https://www.erowid.org/library/books_online/tihkal/tihkal17.shtml"
+  },
+  "name": "4-ho-dipt",
+  "pretty_name": "4-HO-DiPT",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "iprocin"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Threshold: 3-5mg Light: 5-10mg Common: 10-20mg Strong: 20-30mg+",
+   "duration": "2-4 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "20-60 minutes.",
+   "summary": "A psychedelic tryptamine also known as iprocin. A homologue of psilocin, this drug likely has similar effects to psychedelic mushrooms. Said to have a rapid onset and relatively short duration for a drug of its class."
+  }
+ }
+}

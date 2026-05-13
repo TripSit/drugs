@@ -1,0 +1,42 @@
+{
+ "ketazolam": {
+  "categories": [
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "15-30mg",
+    "Light": "5-15mg",
+    "Strong": "30-60mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-12"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-90"
+  },
+  "name": "ketazolam",
+  "pretty_name": "Ketazolam",
+  "properties": {
+   "after-effects": "2-12 hours.",
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Light: 5-15mg Common: 15-30mg Strong: 30-60mg+",
+   "dose_to_diazepam": "Ketazolam - 15-30mg's roughly equal to 10mg Diazepam.",
+   "duration": "8-12 hours.",
+   "onset": "30-90 minutes.",
+   "summary": "The drug is a benzodiazepine derivative, that is reported to have similar effects to diazepam, with reportedly milder side-effects. The drug is marketed in a few countries."
+  }
+ }
+}

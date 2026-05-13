@@ -1,0 +1,42 @@
+{
+ "fluorophenibut": {
+  "categories": [
+   "tentative",
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-150mg",
+    "Light": "50-100mg",
+    "Strong": "200-250mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-12"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "60-120"
+  },
+  "name": "fluorophenibut",
+  "pretty_name": "Fluorophenibut",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "categories": [
+    "tentative",
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Light: 50-100mg Common: 100-150mg Strong: 200-250mg+",
+   "duration": "8-12 hours.",
+   "onset": "60-120 minutes.",
+   "summary": "An anxiolytic analogue of GABA and phenibut, with similar activity to the latter. Suggested to be 5-10x potent as phenibut, with some preliminary reports indicating tolerance builds more slowly."
+  }
+ }
+}

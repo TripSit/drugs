@@ -1,0 +1,70 @@
+{
+ "armodafinil": {
+  "aliases": [
+   "nuvigil"
+  ],
+  "categories": [
+   "stimulant",
+   "nootropic",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50-150mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "12-16"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-45"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Armodafinil.shtml"
+  },
+  "name": "armodafinil",
+  "pretty_name": "Armodafinil",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "nuvigil"
+   ],
+   "bioavailability": "Oral 97.78%.",
+   "categories": [
+    "stimulant",
+    "nootropic",
+    "habit-forming"
+   ],
+   "dose": "Common: 50-150mg's",
+   "duration": "12-16 hours.",
+   "onset": "30-45 minutes.",
+   "summary": "The more potent of the two modafinil isomers, said to have a longer duration and lesser side effects. Sometimes prescribed for ADHD and daytime sleepiness."
+  },
+  "pweffects": {
+   "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+   "Appetite suppression": "https://psychonautwiki.org/wiki/Appetite_suppression",
+   "Body odor alteration": "https://psychonautwiki.org/wiki/Body_odor_alteration",
+   "Dehydration": "https://psychonautwiki.org/wiki/Dehydration",
+   "Diarrhea": "https://psychonautwiki.org/wiki/Diarrhea",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Emotion enhancement": "https://psychonautwiki.org/wiki/Emotion_enhancement",
+   "Focus enhancement": "https://psychonautwiki.org/wiki/Focus_enhancement",
+   "Headaches": "https://psychonautwiki.org/wiki/Headaches",
+   "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
+   "Increased libido": "https://psychonautwiki.org/wiki/Increased_libido",
+   "Memory enhancement": "https://psychonautwiki.org/wiki/Memory_enhancement",
+   "Motivation enhancement": "https://psychonautwiki.org/wiki/Motivation_enhancement",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Photophobia": "https://psychonautwiki.org/wiki/Photophobia",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  }
+ }
+}

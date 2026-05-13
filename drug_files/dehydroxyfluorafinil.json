@@ -1,0 +1,50 @@
+{
+ "dehydroxyfluorafinil": {
+  "aliases": [
+   "modafiendz"
+  ],
+  "categories": [
+   "stimulant",
+   "nootropic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-150mg",
+    "Light": "50-100mg",
+    "Strong": "150-200mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-60"
+  },
+  "name": "dehydroxyfluorafinil",
+  "pretty_name": "Dehydroxyfluorafinil",
+  "properties": {
+   "after-effects": "2-24 hours.",
+   "aliases": [
+    "modafiendz"
+   ],
+   "categories": [
+    "stimulant",
+    "nootropic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Threshold 25-50mg Light: 50-100mg Common: 100-150mg Strong: 150-200mg+",
+   "duration": "5-8 hours.",
+   "onset": "30-60 minutes.",
+   "summary": "Nootropic of the benzhydryl class. Closely related to Adrafinil and Modafinil. Branded as \"Modafiendz\" by some research chemical vendors."
+  }
+ }
+}

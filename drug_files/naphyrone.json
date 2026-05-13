@@ -1,0 +1,32 @@
+{
+ "naphyrone": {
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-35mg",
+    "Strong": "35-50mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "name": "naphyrone",
+  "pretty_name": "Naphyrone",
+  "properties": {
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Oral: Light: 10-20mg Common: 20-35mg Strong: 35-50mg+",
+   "duration": "6-12 hours (highly dependant on dose)",
+   "onset": "Within 30 minutes.",
+   "summary": "A drug derived from pyrovalerone which acts as a TRI, producing stimulating effects. The drug has been sold in a blend called \"NRG-1\". There is limited information on the drug's safety profile."
+  }
+ }
+}

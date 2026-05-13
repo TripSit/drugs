@@ -1,0 +1,55 @@
+{
+ "thiopropamine": {
+  "aliases": [
+   "tpa",
+   "normethiopropamine",
+   "a-methyl-2-thipheneethanamine"
+  ],
+  "categories": [
+   "stimulant",
+   "habit-forming",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Insufflated": "1-2",
+   "Oral": "1-3"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50-100mg",
+    "Light": "20-50mg",
+    "Strong": "100-125mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "1-2",
+   "Oral": "1-4"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-15",
+   "Oral": "15-45"
+  },
+  "name": "thiopropamine",
+  "pretty_name": "Thiopropamine",
+  "properties": {
+   "after-effects": "Oral: 1-3 hours | Insufflated: 1-2 hours.",
+   "aliases": [
+    "tpa",
+    "normethiopropamine",
+    "a-methyl-2-thipheneethanamine"
+   ],
+   "categories": [
+    "stimulant",
+    "habit-forming",
+    "research-chemical"
+   ],
+   "dose": "Oral Light: 20-50mg Common: 50-100mg Strong: 100-125mg+",
+   "duration": "Oral: 1-4 hours. | Insufflated: 1-2 hours.",
+   "onset": "Oral: 15-45 minutes. | Insufflated: 5-15mg.",
+   "summary": "A substance that is closely related to methiopopramine (MPA). Is roughly about 1/3rd the potency of amphetamine and differs from amphetmine from the phenyl ring in which it is switched with a thiophene ring."
+  }
+ }
+}

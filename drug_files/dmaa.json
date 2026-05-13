@@ -1,0 +1,38 @@
+{
+ "dmaa": {
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "nootropic"
+  ],
+  "dose_note": "Rapid onset.",
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-50mg",
+    "Light": "10-20mg",
+    "Strong": "50-100mg",
+    "Threshold": "5-10mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "name": "dmaa",
+  "pretty_name": "DMAA",
+  "properties": {
+   "avoid": "Other stimulants.",
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "nootropic"
+   ],
+   "dose": "Threshold: 5-10mg Low: 10-20mg Common: 20-50mg Strong: 50-100mg",
+   "duration": "2-4 hours.",
+   "onset": "Rapid.",
+   "summary": "Also known as methylhexanamine, this sympathetomimetic drug was developed as a nasal decongestant by Eli Lilly in the 1940s. It has been used as a weight loss aid and missold as a dietary supplement and component of some energy drinks. Carries a risk of heart attack, stroke and other life-threatening cardiovascular issues."
+  }
+ }
+}

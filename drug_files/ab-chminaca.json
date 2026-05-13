@@ -1,0 +1,46 @@
+{
+ "ab-chminaca": {
+  "categories": [
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Oral": "5-12",
+   "Vapourized": "2-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-250ug",
+    "Heavy": "400ug+",
+    "Light": "50-100ug",
+    "Strong": "250-400ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "5-12",
+   "Vapourized": "1-2"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "20-80",
+   "Vapourized": "1-5"
+  },
+  "name": "ab-chminaca",
+  "pretty_name": "AB-CHMINACA",
+  "properties": {
+   "after-effects": "Vapourized: 2-4 hours. | Oral: 5-12 hours.",
+   "categories": [
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Light: 50-100\u00b5g Common: 100-250\u00b5g Strong: 250-400\u00b5g Heavy: 400\u00b5g+",
+   "duration": "Vapourized: 1-2 hours | Oral: 5-12 hours",
+   "onset": "Vapourized: 1-5 minutes | Oral: 20-80 minutes",
+   "summary": "A synthetic cannabinoid related to AB-FUBINACA. There have been reports of death in overdose, similar to AB-FUBINACA and it has a low threshold dose. Exercise caution."
+  }
+ }
+}

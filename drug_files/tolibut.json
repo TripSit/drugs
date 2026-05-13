@@ -1,0 +1,21 @@
+{
+ "tolibut": {
+  "categories": [
+   "depressant",
+   "habit-forming",
+   "research-chemical",
+   "tentative"
+  ],
+  "name": "tolibut",
+  "pretty_name": "Tolibut",
+  "properties": {
+   "categories": [
+    "depressant",
+    "habit-forming",
+    "research-chemical",
+    "tentative"
+   ],
+   "summary": "Analogue of GABA and the 4-methyl analogue of phenibut. The drug is reported to have similar effects to phenibut and GABA, the drug acts on GABA(B)."
+  }
+ }
+}

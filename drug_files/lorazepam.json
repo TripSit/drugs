@@ -1,0 +1,87 @@
+{
+ "lorazepam": {
+  "aliases": [
+   "ativan"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant",
+   "common"
+  ],
+  "dose_note": " NOTE: There is a risk of blacking out at higher dosages. 1mg Lorazepam ~= 10mg Diazepam.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Intramuscular": {
+    "Common": "0.5-1mg",
+    "Light": "0.25-0.5mg",
+    "Strong": "1-2mg"
+   },
+   "Oral": {
+    "Common": "1-2mg",
+    "Light": "0.5mg-1mg",
+    "Strong": "2-4mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "sedative",
+   "high muscle relaxant properties"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "5-30"
+  },
+  "name": "lorazepam",
+  "pretty_name": "Lorazepam",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "ativan"
+   ],
+   "bioavailability": "Oral 85-90% | Insufflated 76-80%",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant",
+    "common"
+   ],
+   "dose": "Oral Light: 0.5mg-1mg Common: 1-2mg Strong: 2-4mg's. | Intramuscular Light: 0.25-0.5mg Common: 0.5-1mg Strong: 1-2mg's.",
+   "dose_to_diazepam": "Lorazepam - 1mg ~=10mg Diazepam.",
+   "duration": "4-8 hours",
+   "effects": "Anxiolytic, sedative, high muscle relaxant properties.",
+   "onset": "5-30 minutes",
+   "summary": "An intermediate acting benzodiazepine commonly known as Ativan. The drug is often prescribed as an alternative to alprazolam. The drug is reported to have sedating, hypnotic, and anxiolytic effects. The drug may induce amnesia and lower inhibitions. It is recommended not to combine the drug with other depressants"
+  },
+  "pweffects": {
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Analysis suppression": "https://psychonautwiki.org/wiki/Analysis_suppression",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+   "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Emotion suppression": "https://psychonautwiki.org/wiki/Emotion_suppression",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Muscle relaxation": "https://psychonautwiki.org/wiki/Muscle_relaxation",
+   "Nausea suppression": "https://psychonautwiki.org/wiki/Nausea_suppression",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Seizure suppression": "https://psychonautwiki.org/wiki/Seizure_suppression",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration"
+  },
+  "sources": {
+   "_general": [
+    "Role of dopaminergic and serotonergic systems on behavioral stimulatory effects of low-dose alprazolam and lorazepam. - https://www.ncbi.nlm.nih.gov/pubmed/11226811"
+   ]
+  }
+ }
+}

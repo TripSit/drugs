@@ -1,0 +1,90 @@
+{
+ "fentanyl": {
+  "aliases": [
+   "fent"
+  ],
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "depressant"
+  ],
+  "dose_note": " NOTE: Due to Fentanyl's high potency, it is incredibly difficult to measure safely, which failure to do so can easily lead to overdose.",
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "25-50ug",
+    "Light": "10-25ug",
+    "Strong": "50-75ug+"
+   },
+   "Transdermal": {
+    "Common": "25-50ug/hr",
+    "Light": "12.5ug/hr",
+    "Strong": "50-100ug/hr"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Buccal": "1-4",
+   "Insufflated": "1-4",
+   "Transdermal": "48-72"
+  },
+  "formatted_effects": [
+   "Analgesia",
+   "euphoria",
+   "feelings of relaxation",
+   "sedative effects",
+   "changes in focus",
+   "attention",
+   "respiratory depression",
+   "nausea",
+   "constipation",
+   "dry mouth",
+   "somnolence",
+   "confusion",
+   "weakness",
+   "sweating",
+   "fatigue",
+   "dizziness",
+   "anxiety"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Buccal": "15-30",
+   "Insufflated": "5-15",
+   "Transdermal": "90-180"
+  },
+  "name": "fentanyl",
+  "pretty_name": "Fentanyl",
+  "properties": {
+   "aliases": [
+    "fent",
+    "TNT"
+   ],
+   "bioavailability": "Sublingual/Buccal 50% | Insufflated 70% | Transdermal 92%",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Intranasal Light: 10-25ug Common: 25-50ug Strong: 50-75ug+ | Transdermal Light: 12.5ug/hr Common: 25-50ug/hr Strong: 50-100ug/hr | NOTE: Due to Fentanyl's high potency, it is incredibly difficult to measure safely, and so can easily lead to overdose.",
+   "duration": "Transdermal: 48-72 hours. | Buccal: 1-4 hours. | Insufflated: 1-4 hours.",
+   "effects": "Analgesia, euphoria, feelings of relaxation, sedative effects, changes in focus, attention, respiratory depression, nausea, constipation, dry mouth, somnolence, confusion, weakness, sweating, fatigue, dizziness, anxiety",
+   "onset": "Transdermal: 90-180 minutes. | Buccal: 15-30 ninutes | Insufflated: 5-15 minutes.",
+   "summary": "Fentanyl is a synthetic opiate analgesic with a rapid onset and short duration of action. It is a strong agonist at the \u03bc-opioid receptors and historically it is used to treat breakthrough pain. Fentanyl is approximately 100 times more potent than Morphine and is used as a transdermal skin pach, buccal tablet, nasal spray, inhalers, and more. It is often laced in other drugs, especailly opioids, leading to a high amount of deaths associated with this drug.",
+   "warning": "Risk of post-acute withdrawal effects, including depression, anxiety disorder, psychosis, suicidal ideation in extreme cases."
+  },
+  "pweffects": {
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Constipation": "https://psychonautwiki.org/wiki/Constipation",
+   "Cough suppression": "https://psychonautwiki.org/wiki/Cough_suppression",
+   "Difficulty urinating": "https://psychonautwiki.org/wiki/Difficulty_urinating",
+   "Itchiness": "https://psychonautwiki.org/wiki/Itchiness",
+   "Pain relief": "https://psychonautwiki.org/wiki/Pain_relief",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Pupil constriction": "https://psychonautwiki.org/wiki/Pupil_constriction",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation"
+  }
+ }
+}

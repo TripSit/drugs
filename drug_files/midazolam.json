@@ -1,0 +1,82 @@
+{
+ "midazolam": {
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "7-15mg",
+    "Light": "3-7mg",
+    "Strong": "15-25mg"
+   },
+   "Intramuscular": {
+    "Common": "5-12mg",
+    "Light": "3-5mg",
+    "Strong": "12-25mg"
+   },
+   "Intravenous": {
+    "Common": "5-10mg",
+    "Light": "2.5-5mg",
+    "Strong": "10-20mg"
+   },
+   "Oral": {
+    "Common": "10-15mg",
+    "Light": "5-10mg",
+    "Strong": "15-30mg."
+   },
+   "Rectal": {
+    "Common": "7-15mg",
+    "Light": "3-7mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "1-5",
+   "Intramuscular": "10-20",
+   "Intravenous": "0-1",
+   "Oral": "10-40",
+   "Rectal": "15-25"
+  },
+  "name": "midazolam",
+  "pretty_name": "Midazolam",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "avoid": "All other CNS depressants.",
+   "bioavailability": "Oral [variable - significant first-pass metabolism] | Insufflated 55% | Intramuscular 90%",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Oral Low: 5-10mg's Common: 10-15mg's Strong: 15-30mg. | Insufflated Low: 3-7mg's Common: 7-15mg Strong: 15-25mg's. | Rectal Low: 3-7mg's Common: 7-15mg's Strong:15-25mg's | Intravenous Low: 2.5-5mg's Common: 5-10mg's Strong: 10-20mg's | Intramuscular Low: 3-5mg's Common: 5-12mg's Strong: 12-25mg's.",
+   "dose_to_diazepam": "Midazolam - 10mg ~=10mg Diazepam.",
+   "duration": "4-8 hours.",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "Oral 10-40 minutes | Insufflated: 1-5 minutes | Rectal: 15-25 minutes. | IV: 0-1 minutes | IM: 10-20 minutes.",
+   "summary": "A common hypnotic, sedative, and anxiolytic benzodiazepine. High doses may cause amnesia and loss of inhibitions. Atypical to other common benzodiazepines, it is water soluble and commonly used as a premedication for sedation as the solubility makes it better for IV use than other benzodiazepines."
+  },
+  "sources": {
+   "bioavailability": [
+    "https://www.openanesthesia.org/midazolam_bioavailability_versus_route/"
+   ]
+  }
+ }
+}

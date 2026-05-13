@@ -1,0 +1,51 @@
+{
+ "focalin": {
+  "aliases": [
+   "dexmethylphenidate",
+   "dextromethylphenidate"
+  ],
+  "categories": [
+   "stimulant",
+   "habit-forming",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-30mg",
+    "Heavy": "40-50mg",
+    "Light": "10-20mg",
+    "Strong": "30-40mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "9-12"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-90"
+  },
+  "name": "focalin",
+  "pretty_name": "Dexmethylphenidate",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "dexmethylphenidate",
+    "dextromethylphenidate"
+   ],
+   "categories": [
+    "stimulant",
+    "habit-forming",
+    "common"
+   ],
+   "dose": "Oral Light: 10-20mg Common: 20-30mg Strong: 30-40mg Heavy: 40-50mg",
+   "duration": "9-12 hours",
+   "onset": "45-90 minutes.",
+   "summary": "The psychoactive isomer of methylphenidate, the drug is mainly used to treat ADHD. It is 2x as potent as methylphenidate, and is reported to have cleaner psychostimulant effects with fewer side effects."
+  }
+ }
+}

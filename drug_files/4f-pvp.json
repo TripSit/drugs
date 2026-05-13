@@ -1,0 +1,45 @@
+{
+ "4f-pvp": {
+  "aliases": [
+   "4f-a-pvp",
+   "pfpvp"
+  ],
+  "categories": [
+   "tentative",
+   "stimulant",
+   "habit-forming"
+  ],
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "10-20mg",
+    "Light": "5-10mg",
+    "Strong": "20-25mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-4"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "15-20"
+  },
+  "name": "4f-pvp",
+  "pretty_name": "4F-PVP",
+  "properties": {
+   "aliases": [
+    "4f-a-pvp",
+    "pfpvp"
+   ],
+   "categories": [
+    "tentative",
+    "stimulant",
+    "habit-forming"
+   ],
+   "dose": "Insufflated Light: 5-10mg Common: 10-20mg Strong: 20-25mg+",
+   "duration": "Insufflated: 2-4 hours.",
+   "onset": "Insufflated: 15-20 minutes.",
+   "summary": "Fluorinated analogue of a-PVP. Reports indicate it to be slightly stronger than its parent compound."
+  }
+ }
+}

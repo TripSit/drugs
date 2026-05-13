@@ -1,0 +1,272 @@
+{
+ "cannabis": {
+  "aliases": [
+   "weed",
+   "thc",
+   "marijuana",
+   "dagga",
+   "hash"
+  ],
+  "categories": [
+   "depressant",
+   "stimulant",
+   "psychedelic",
+   "habit-forming",
+   "common"
+  ],
+  "combos": {
+   "2c-t-x": {
+    "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
+    "status": "Caution"
+   },
+   "2c-x": {
+    "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
+    "status": "Caution"
+   },
+   "5-meo-xxt": {
+    "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
+    "status": "Caution"
+   },
+   "alcohol": {
+    "note": "In excess, this combination can cause nausea.",
+    "status": "Low Risk & Synergy"
+   },
+   "amphetamines": {
+    "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+    "status": "Caution"
+   },
+   "amt": {
+    "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics. Small amounts can reduce nausea with aMT but take care.",
+    "status": "Caution"
+   },
+   "benzodiazepines": {
+    "status": "Low Risk & Decrease"
+   },
+   "caffeine": {
+    "status": "Low Risk & No Synergy"
+   },
+   "cocaine": {
+    "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+    "status": "Caution"
+   },
+   "dextromethorphan": {
+    "status": "Low Risk & Synergy"
+   },
+   "dmt": {
+    "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
+    "status": "Caution"
+   },
+   "dox": {
+    "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
+    "status": "Caution"
+   },
+   "ghb/gbl": {
+    "status": "Low Risk & Synergy"
+   },
+   "ketamine": {
+    "status": "Low Risk & Synergy"
+   },
+   "lsd": {
+    "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
+    "status": "Caution"
+   },
+   "maois": {
+    "status": "Low Risk & Synergy"
+   },
+   "mdma": {
+    "note": "Large amounts of cannabis may cause strong and somewhat unpredictable experiences in combination with MDMA. Cannabis should be saved for towards the end of the experience if possible.",
+    "status": "Low Risk & Synergy"
+   },
+   "mescaline": {
+    "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
+    "status": "Caution"
+   },
+   "mushrooms": {
+    "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
+    "status": "Caution"
+   },
+   "mxe": {
+    "status": "Low Risk & Synergy"
+   },
+   "nbomes": {
+    "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
+    "status": "Caution"
+   },
+   "nitrous": {
+    "status": "Low Risk & Synergy"
+   },
+   "opioids": {
+    "status": "Low Risk & Synergy"
+   },
+   "pcp": {
+    "status": "Low Risk & Synergy"
+   },
+   "pregabalin": {
+    "note": "Both substances may increase each other's side effects, such as sedation, lowered blood pressure, and raised heart rate.",
+    "sources": [
+     {
+      "author": "Balachandran, P., Elsohly, M., & Hill, K. P.",
+      "title": "Cannabidiol Interactions with Medications, Illicit Substances, and Alcohol: a Comprehensive Review (2021)",
+      "url": "https://doi.org/10.1007/s11606-020-06504-8"
+     },
+     {
+      "author": "Klein, T. A., & Clark, C. S.",
+      "title": "Therapeutic use of cannabis in the US. The Nurse Practitioner, 47(12) (2022)",
+      "url": "https://doi.org/10.1097/01.NPR.0000884880.81603.c5"
+     },
+     {
+      "author": "Lile, J. A., Alcorn, J. L., Hays, L. R., Kelly, T. H., Stoops, W. W., Wesley, M. J., & Westgate, P. M.",
+      "title": "Influence of Pregabalin Maintenance on Cannabis Effects and Related Behaviors in Daily Cannabis Users. Experimental and Clinical Psychopharmacology, 30(5) (2022)",
+      "url": "https://doi.org/10.1037/pha0000464"
+     },
+     {
+      "author": "V\u00e1zquez, M., Guevara, N., Maldonado, C., Guido, P. C., & Schaiquevich, P.",
+      "title": "Potential Pharmacokinetic Drug\u2010Drug Interactions between Cannabinoids and Drugs Used for Chronic Pain (2020)",
+      "url": "https://doi.org/10.1155/2020/3902740"
+     }
+    ],
+    "status": "Low Risk & Synergy"
+   },
+   "ssris": {
+    "status": "Low Risk & No Synergy"
+   },
+   "tramadol": {
+    "status": "Low Risk & Synergy"
+   }
+  },
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Oral": "6-24",
+   "Smoked": "2-24"
+  },
+  "formatted_dose": {
+   "Smoked": {
+    "Common": "20-60mg",
+    "Light": "10-20mg",
+    "Strong": "60-100mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "4-10",
+   "Smoked": "1-4"
+  },
+  "formatted_effects": [
+   "Sedation",
+   "Appetite enhancement",
+   "Muscle relaxation",
+   "Muscle spasms",
+   "Nausea",
+   "Pain relief",
+   "Vasodilation",
+   "Creativity Enhancement",
+   "Anxiety suppression",
+   "Anxiety",
+   "Dream suppression",
+   "Emotion enhancement",
+   "Mindfulness",
+   "Paranoia",
+   "Sleepiness"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "30-120",
+   "Smoked": "1-10"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Cannabis.shtml"
+  },
+  "name": "cannabis",
+  "pretty_name": "Cannabis",
+  "properties": {
+   "after-effects": "Smoked: 2-24 hours | Oral: 6-24 hours",
+   "aliases": [
+    "weed",
+    "thc",
+    "marijuana",
+    "dagga",
+    "hash"
+   ],
+   "categories": [
+    "depressant",
+    "stimulant",
+    "psychedelic",
+    "habit-forming",
+    "common"
+   ],
+   "detection": "Single Use: blood 1-3 days, saliva 12-24 hrs, urine 1-3 days, hair 0 to 90 days. Regular use: blood 1-2 weeks, saliva 15-50 days, urine 15-50 days, hair 0 to 90 days. Oral single use: blood: 2-7 days",
+   "dose": "Smoked Light: 33mg Common: 66mg Strong: 100mg. Oral Light: 10-20mg Common: 20-60mg Strong: 60-100mg+",
+   "duration": "Smoked: 1-4 hours | Oral: 4-10 hours",
+   "effects": "Sedation, Appetite enhancement, Muscle relaxation, Muscle spasms, Nausea, Pain relief, Vasodilation, Creativity Enhancement, Anxiety suppression, Anxiety, Dream suppression, Emotion enhancement, Mindfulness, Paranoia, Sleepiness.",
+   "onset": "Smoked: 1-10 minutes | Oral: 30-120 minutes",
+   "summary": "A common and widely used psychoactive plant, which is beginning to gain legal status for medical and even recreational use in some parts of the world. Usually smoked or eaten, primary effects are relaxation and an affinity towards food - a state described as being 'stoned.'"
+  },
+  "pweffects": {
+   "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
+   "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
+   "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Appetite enhancement": "https://psychonautwiki.org/wiki/Appetite_enhancement",
+   "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+   "Brightness alteration": "https://psychonautwiki.org/wiki/Brightness_alteration",
+   "Changes in gravity": "https://psychonautwiki.org/wiki/Changes_in_gravity",
+   "Colour enhancement": "https://psychonautwiki.org/wiki/Colour_enhancement",
+   "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+   "Creativity enhancement": "https://psychonautwiki.org/wiki/Creativity_enhancement",
+   "Dehydration": "https://psychonautwiki.org/wiki/Dehydration",
+   "Depersonalization": "https://psychonautwiki.org/wiki/Depersonalization",
+   "Derealization": "https://psychonautwiki.org/wiki/Derealization",
+   "Dream suppression": "https://psychonautwiki.org/wiki/Dream_suppression",
+   "Emotion enhancement": "https://psychonautwiki.org/wiki/Emotion_enhancement",
+   "Feelings of impending doom": "https://psychonautwiki.org/wiki/Feelings_of_impending_doom",
+   "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+   "Immersion enhancement": "https://psychonautwiki.org/wiki/Immersion_enhancement",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Laughter": "https://psychonautwiki.org/wiki/Laughter",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Mindfulness": "https://psychonautwiki.org/wiki/Mindfulness",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Nausea suppression": "https://psychonautwiki.org/wiki/Nausea_suppression",
+   "Novelty enhancement": "https://psychonautwiki.org/wiki/Novelty_enhancement",
+   "Pain relief": "https://psychonautwiki.org/wiki/Pain_relief",
+   "Paranoia": "https://psychonautwiki.org/wiki/Paranoia",
+   "Perception of increased weight": "https://psychonautwiki.org/wiki/Perception_of_increased_weight",
+   "Personal meaning enhancement": "https://psychonautwiki.org/wiki/Personal_meaning_enhancement",
+   "Psychosis": "https://psychonautwiki.org/wiki/Psychosis",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Seizure suppression": "https://psychonautwiki.org/wiki/Seizure_suppression",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Suggestibility enhancement": "https://psychonautwiki.org/wiki/Suggestibility_enhancement",
+   "Synaesthesia": "https://psychonautwiki.org/wiki/Synaesthesia",
+   "Thought connectivity": "https://psychonautwiki.org/wiki/Thought_connectivity",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+   "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+   "Vasodilation": "https://psychonautwiki.org/wiki/Vasodilation"
+  },
+  "sources": {
+   "_general": [
+    "Cannabis use and risk of lung cancer: a case-control study. - http://www.ncbi.nlm.nih.gov/pubmed/18238947",
+    "Cannabis smoking and risk of lung cancer in men: a pooled analysis of three studies in Maghreb. - http://www.ncbi.nlm.nih.gov/pubmed/19057263",
+    "Cannabis induces a clinical response in patients with Crohn's disease: a prospective placebo-controlled study. - http://www.ncbi.nlm.nih.gov/pubmed/23648372",
+    "Effects of cannabis on the adolescent brain. - http://www.ncbi.nlm.nih.gov/pubmed/23829363",
+    "Is cannabis neurotoxic for the healthy brain? A meta-analytical review of structural brain alterations in non-psychotic users. - http://www.ncbi.nlm.nih.gov/pubmed/24118193",
+    "A controlled family study of cannabis users with and without psychosis. - http://www.ncbi.nlm.nih.gov/pubmed/24309013",
+    "How cannabis causes paranoia: using the intravenous administration of \u22069-tetrahydrocannabinol (THC) to identify key cognitive mechanisms leading to... - http://www.ncbi.nlm.nih.gov/pubmed/25031222",
+    "The impact of marijuana use on glucose, insulin, and insulin resistance among US adults. - https://www.ncbi.nlm.nih.gov/pubmed/23684393",
+    "Marijuana and lung diseases. - https://www.ncbi.nlm.nih.gov/pubmed/24384575",
+    "Neuroprotective antioxidants from marijuana. - http://www.ncbi.nlm.nih.gov/pubmed/10863546",
+    "Decreased depression in marijuana users. - http://www.ncbi.nlm.nih.gov/pubmed/15964704",
+    "Self-reported anal sex practice and sexual risk-taking after marijuana use among a sample of Georgia inmates. - http://www.ncbi.nlm.nih.gov/pubmed/16820076",
+    "Effects of marijuana extract and tetrahydrocannabinol on electroencephalographic sleep patterns. - http://www.ncbi.nlm.nih.gov/pubmed/178475",
+    "Association of marijuana use and the incidence of testicular germ cell tumors. - http://www.ncbi.nlm.nih.gov/pubmed/19204904",
+    "The effects of combinations of intranasal cocaine, smoked marijuana, and task performance on heart rate and blood pressure. - http://www.ncbi.nlm.nih.gov/pubmed/2162543",
+    "Ischemic stroke after use of the synthetic marijuana \"spice\". - http://www.ncbi.nlm.nih.gov/pubmed/24212384",
+    "Marijuana's effects on human cognitive functions, psychomotor functions, and personality. - http://www.ncbi.nlm.nih.gov/pubmed/3009708",
+    "Effects of marijuana on human reaction time and motor control. - http://www.ncbi.nlm.nih.gov/pubmed/600655",
+    "Effects of marijuana on testosterone in male subjects. - http://www.ncbi.nlm.nih.gov/pubmed/6316036",
+    "Detection times of marijuana metabolites in urine by immunoassay and GC-MS. - http://www.ncbi.nlm.nih.gov/pubmed/8926739",
+    "Medical/therapeutic value of cannabis literature review - http://bjp.rcpsych.org/content/178/2/107.short"
+   ]
+  }
+ }
+}

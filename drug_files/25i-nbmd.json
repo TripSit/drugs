@@ -1,0 +1,43 @@
+{
+ "25i-nbmd": {
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Sublingual": {
+    "Common": "1500-2000ug",
+    "Light": "800-1500ug",
+    "Strong": "2000-3000ug+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-40"
+  },
+  "name": "25i-nbmd",
+  "pretty_name": "25I-NBMD",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "avoid": "Other psychedelics, stimulants, and redosing",
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Sublingual Light: 800-1500ug Common: 1500-2000ug Strong: 2000-3000ug+",
+   "duration": "4-6 hours.",
+   "onset": "20-40 minutes.",
+   "summary": "A psychedelic phenethylamine that is related to the 25X-NBOMe series. The drug is highly potent."
+  }
+ }
+}

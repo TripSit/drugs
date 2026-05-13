@@ -1,0 +1,60 @@
+{
+ "tianeptine": {
+  "categories": [
+   "habit-forming",
+   "depressant",
+   "opioid"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "12.5mg",
+    "Light": "7.5mg",
+    "Strong": "17mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "name": "tianeptine",
+  "pretty_name": "Tianeptine",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "categories": [
+    "habit-forming",
+    "depressant",
+    "opioid"
+   ],
+   "dose": "Light: 7.5mg Common: 12.5mg Strong: 17mg Note: Tianeptine is reported to have opioid-like effects at high doses, but this is offset by an increased risk of liver damage",
+   "duration": "4-6 hours.",
+   "onset": "15-45 minutes.",
+   "summary": "A tricyclic antidepressant that has quite unique pharmacological properties than others in its class. The drug has as a possible indirect action on NMDA/AMPA and a full agonist at the \u03bc-opioid receptor. While abuse of this substance is uncommon, it has been shown to exist in a few countries."
+  },
+  "pweffects": {
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Bronchodilation": "https://psychonautwiki.org/wiki/Bronchodilation",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Cognitive fatigue": "https://psychonautwiki.org/wiki/Cognitive_fatigue",
+   "Constipation": "https://psychonautwiki.org/wiki/Constipation",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Focus enhancement": "https://psychonautwiki.org/wiki/Focus_enhancement",
+   "Headaches": "https://psychonautwiki.org/wiki/Headaches",
+   "Motivation enhancement": "https://psychonautwiki.org/wiki/Motivation_enhancement",
+   "Muscle relaxation": "https://psychonautwiki.org/wiki/Muscle_relaxation",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Physical fatigue": "https://psychonautwiki.org/wiki/Physical_fatigue",
+   "Rejuvenation": "https://psychonautwiki.org/wiki/Rejuvenation",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration"
+  }
+ }
+}

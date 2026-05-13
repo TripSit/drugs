@@ -1,15 +1,27 @@
 name: Validate changes
 
 on:
+  push:
+    branches:
+      - main
   pull_request:
     types:
       - opened
       - synchronize
       - reopened
+    # This ensures the workflow triggers when files in drug_files/ are modified
+    paths:
+      - 'drug_files/**'
+      - 'scripts/**'
 
 jobs:
   check-drug-updates:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+      pull-requests: write
+    
     steps:
     - name: Checkout Repo
       uses: actions/checkout@v2
@@ -17,17 +29,23 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v1
       with:
-        node-version: '21' # Use whatever node version your project requires
+        node-version: '21'
     
     - name: Install Dependencies
       run: npm install
+
+    - name: Re-create the drugs.json
+      # This generates the new drugs.json based on the PR's changes
+      run: npx ts-node ./scripts/combineDrugsJson.ts
       
     - name: Run validation script
+      # This tests the newly generated drugs.json sitting in the runner
       run: npx ts-node ./scripts/combosToDrugs.ts --github-check
       env:
         CI: true
 
     - name: Assign Pull Request
+      if: github.event_name == 'pull_request'
       uses: actions/github-script@v5
       with:
         script: |
@@ -37,3 +55,12 @@ jobs:
             issue_number: context.issue.number,
             assignees: ['LunaUrsa']
           })
+          
+    - name: Commit and Push drugs.json
+      # This only happens after a merge to main to keep the repo clean
+      if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add drugs.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-rebuild drugs.json" && git push)

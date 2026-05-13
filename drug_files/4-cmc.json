@@ -1,0 +1,64 @@
+{
+ "4-cmc": {
+  "aliases": [
+   "4cmc"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50mg-100mg",
+    "Light": "30-50mg",
+    "Strong": "100mg+",
+    "Threshold": "20-30mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "2-4"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "decreased need for sleep",
+   "increased sociability",
+   "mood lift",
+   "increased libido",
+   "excessive talking",
+   "decreased appetite",
+   "weight loss",
+   "sweating",
+   "disturbed sleep patterns",
+   "bruxism",
+   "visual and auditory hallucinations",
+   "itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "20-60"
+  },
+  "name": "4-cmc",
+  "pretty_name": "4-CMC",
+  "properties": {
+   "after-effects": "2-3 hours",
+   "aliases": [
+    "4cmc"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Oral Threshold: 20-30mg Light: 30-50mg Common: 50mg-100mg Strong: 100mg+",
+   "duration": "Oral: 2-4 hours Insufflated 1-3 hours.",
+   "effects": "Euphoria, increased energy/alertness, decreased need for sleep, increased sociability, mood lift, increased libido, excessive talking, decreased appetite, weight loss, sweating, disturbed sleep patterns, bruxism, visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
+   "onset": "Oral: 20-60 minutes. Insufflated: 10-40 minutes.",
+   "summary": "This summary is written based on few sources: The cathinone analogue of 4-CMA, which is highly neurotoxic. It is not known if the cathinone family holds the same neurotoxicity concern as with the parent compound."
+  }
+ }
+}

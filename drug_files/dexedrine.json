@@ -1,0 +1,56 @@
+{
+ "dexedrine": {
+  "aliases": [
+   "dextroamphetamine",
+   "dexamfetamine"
+  ],
+  "categories": [
+   "stimulant",
+   "habit-forming",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-20mg",
+    "Light": "5-10mg",
+    "Strong": "20-30mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-60"
+  },
+  "name": "dexedrine",
+  "pretty_name": "Dexedrine",
+  "properties": {
+   "after-effects": "2-24 hours.",
+   "aliases": [
+    "dextroamphetamine",
+    "dexamfetamine"
+   ],
+   "avoid": "Other stimulants.",
+   "categories": [
+    "stimulant",
+    "habit-forming",
+    "common"
+   ],
+   "dose": "Light: 5-10mg Common: 10-20mg Strong: 20-30mg.",
+   "duration": "3-6 hours.",
+   "onset": "20-60 minutes.",
+   "summary": "A highly abusable stimulant. It is rarely prescribed in the US to treat ADHD, and is very similar in effects to Adderall, as its main ingredient is 75% of what Adderall is."
+  },
+  "sources": {
+   "_general": [
+    "pregnancy category C according to the FDA - http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/017078s042lbl.pdf"
+   ]
+  }
+ }
+}

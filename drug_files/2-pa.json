@@ -1,0 +1,51 @@
+{
+ "2-pa": {
+  "aliases": [
+   "2-phenylacetamide"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-10"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "25-50mg",
+    "Heavy": "100+mg.",
+    "Light": "10-25mg",
+    "Strong": "50-100mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-5"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "name": "2-pa",
+  "pretty_name": "2-PA",
+  "properties": {
+   "after-effects": "1-10 hours.",
+   "aliases": [
+    "2-phenylacetamide"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Light: 10-25mg Common: 25-50mg Strong: 50-100mg Heavy: 100+mg.",
+   "duration": "3-5 hours.",
+   "onset": "15-45 minutes.",
+   "summary": "Amphetamine with the alpha-methyl replaced by ketone. There are very few reports and there is limited information about toxicity. As always treat with caution."
+  }
+ }
+}

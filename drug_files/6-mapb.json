@@ -1,0 +1,69 @@
+{
+ "6-mapb": {
+  "categories": [
+   "stimulant",
+   "psychedelic",
+   "research-chemical",
+   "empathogen",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "20-40mg",
+    "Light": "10-20mg",
+    "Strong": "40-100mg+"
+   },
+   "Oral": {
+    "Common": "40-80mg",
+    "Light": "20-40mg",
+    "Strong": "80-100mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-10"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "Decreased need for sleep",
+   "Increased sociability",
+   "mood lift",
+   "increased libido",
+   "Excessive talking",
+   "Decreased appetite",
+   "Weight loss",
+   "Sweating",
+   "Disturbed sleep patterns",
+   "Bruxia",
+   "Visual and auditory hallucinations",
+   "itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_6MAPB.shtml"
+  },
+  "name": "6-mapb",
+  "pretty_name": "6-MAPB",
+  "properties": {
+   "after-effects": "2-4 hours.",
+   "categories": [
+    "stimulant",
+    "psychedelic",
+    "research-chemical",
+    "empathogen",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 20-40mg Common: 40-80mg Strong: 80-100mg | Insufflated Light: 10-20mg Common: 20-40mg Strong: 40-100mg+",
+   "duration": "5-10 hours. Dependant on dose.",
+   "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increased libido, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
+   "onset": "Orally: Within an hour. | Insufflated: Within 15 minutes.",
+   "summary": "Empathogen drug that is structurally related to 6-APB and MDMA."
+  }
+ }
+}

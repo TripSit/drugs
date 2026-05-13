@@ -1,0 +1,56 @@
+{
+ "prolintane": {
+  "aliases": [
+   "catovit",
+   "promotil",
+   "villescon"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "tentative",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "15-30mg",
+    "Light": "10-15",
+    "Strong": "30-50mg+",
+    "Threshold": "5-10mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-30"
+  },
+  "name": "prolintane",
+  "pretty_name": "Prolintane",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "aliases": [
+    "catovit",
+    "promotil",
+    "villescon"
+   ],
+   "avoid": "Other stimulants.",
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "tentative",
+    "habit-forming"
+   ],
+   "dose": "Threshold: 5-10mg Light: 10-15 Common: 15-30mg Strong: 30-50mg+",
+   "duration": "3-6 hours depending on dosages",
+   "onset": "15-30 minutes.",
+   "summary": "A stimulant drug which is a dopamine reuptake inhibitor related to MDPV and pyrovalerone. The drug was first developed in the 1950's and there are many reported cases of abuse for this drug."
+  }
+ }
+}

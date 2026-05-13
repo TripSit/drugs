@@ -1,0 +1,51 @@
+{
+ "3-meo-pcpr": {
+  "categories": [
+   "dissociative",
+   "tentative",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "3-8mg",
+    "Light": "1-3mg",
+    "Strong": "8-15mg+"
+   },
+   "Oral": {
+    "Common": "8-15mg",
+    "Light": "5-8mg",
+    "Strong": "15-20mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "1-3",
+   "Oral": "3-4"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-10",
+   "Oral": "15-30"
+  },
+  "name": "3-meo-pcpr",
+  "pretty_name": "3-MeO-PCPR",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "categories": [
+    "dissociative",
+    "tentative",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 5-8mg Common: 8-15mg Strong: 15-20mg+ || Insufflated Light: 1-3mg Common: 3-8mg Strong: 8-15mg+",
+   "duration": "Oral: 3-4 hours. || Insufflated: 1-3 hours.",
+   "onset": "Oral: 15-30 minutes. || Insufflated: 5-10 minutes.",
+   "summary": "This is the N-Propyl homologue of 3-MeO-PCE. It is slightly less potent than PCP. Yet seems slightly less manic inducing."
+  }
+ }
+}

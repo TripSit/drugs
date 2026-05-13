@@ -1,0 +1,70 @@
+{
+ "pentobarbital": {
+  "aliases": [
+   "nembutal",
+   "novopentobarb"
+  ],
+  "categories": [
+   "depressant",
+   "habit-forming",
+   "barbiturate"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-36"
+  },
+  "formatted_dose": {
+   "Intramuscular": {
+    "Common": "150-200mg",
+    "Heavy": "200mg+",
+    "Light": "100-150mg"
+   },
+   "Intravenous": {
+    "Common": "60-100mg",
+    "Heavy": "100mg+",
+    "Light": "50-60mg"
+   },
+   "Oral": {
+    "Common": "100-200mg",
+    "Heavy": "200-300mg",
+    "Light": "50-100mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Intramuscular": "3-4",
+   "Intravenous": "15-20",
+   "Oral": "3-4"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Intramuscular": "10-25",
+   "Intravenous": "1",
+   "Oral": "15-60"
+  },
+  "name": "pentobarbital",
+  "pretty_name": "Pentobarbital",
+  "properties": {
+   "after-effects": "1-36 hours.",
+   "aliases": [
+    "nembutal",
+    "novopentobarb"
+   ],
+   "avoid": "All other CNS depressants. It is additionally recommended to be avoided if one has respiratory or liver issues as barbiturates are harsh on the liver.",
+   "categories": [
+    "depressant",
+    "habit-forming",
+    "barbiturate"
+   ],
+   "dose": "Oral Light: 50-100mg Common: 100-200mg Heavy: 200-300mg | IM Light: 100-150mg Common: 150-200mg Heavy: 200mg+ | IV Light: 50-60mg Common: 60-100mg Heavy: 100mg+",
+   "duration": "Oral 3-4 hours | IM 3-4 hours | IV 15-20 minutes",
+   "onset": "Oral 15-60 minutes | IM 10-25 minutes | IV 1 minute",
+   "summary": "A CNS depressant drug that is of the barbituate class. The drug is not used often used medically due to it's high overdose potential in contrast to a lesser overdose risk with benzodiazepine. The drug is used for the treatment of insomnia"
+  },
+  "sources": {
+   "_general": [
+    "Information on summary duration onset and dosage: Page 930 - Nurse's drug handbook 14th edition Jones and Bartlett 2015"
+   ]
+  }
+ }
+}

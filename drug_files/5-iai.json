@@ -1,0 +1,54 @@
+{
+ "5-iai": {
+  "aliases": [
+   "5iai"
+  ],
+  "categories": [
+   "stimulant",
+   "psychedelic",
+   "research-chemical",
+   "habit-forming",
+   "empathogen"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "Decreased need for sleep",
+   "Increased sociability",
+   "mood lift",
+   "increased libido",
+   "Excessive talking",
+   "Decreased appetite",
+   "Weight loss",
+   "Sweating",
+   "Disturbed sleep patterns",
+   "Bruxia",
+   "Visual and auditory hallucinations",
+   "itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "name": "5-iai",
+  "pretty_name": "5-IAI",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "aliases": [
+    "5iai"
+   ],
+   "categories": [
+    "stimulant",
+    "psychedelic",
+    "research-chemical",
+    "habit-forming",
+    "empathogen"
+   ],
+   "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increased libido, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
+   "summary": "A monoamine triple releaser first synthesised by David Nichols, possesses similar properties to MDMA. It is suspected to be neurotoxic however more research is needed to say.",
+   "warning": "Note: It seems /most/ of the market for this drug is infact largely falsified."
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "dxme": {
+  "categories": [
+   "dissociative",
+   "habit-forming",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "6-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "30-50mg",
+    "Heavy": "80mg+",
+    "Light": "15-25mg",
+    "Strong": "50-80mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_effects": [
+   "Dissociation",
+   "Analgesia",
+   "Euphoria",
+   "Cognitive impairment",
+   "Sedation",
+   "Time distortion",
+   "Impaired coordination",
+   "Confusion"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-90"
+  },
+  "name": "dxme",
+  "pretty_name": "Deoxymethoxetamine",
+  "properties": {
+   "after-effects": "6\u201324 hours. Residual dissociation, cognitive fog, and fatigue may persist into the following day.",
+   "avoid": "Other dissociatives, alcohol, benzodiazepines, opioids, and other CNS depressants.",
+   "bioavailability": "Oral (exact value unknown).",
+   "categories": [
+    "dissociative",
+    "habit-forming",
+    "research-chemical"
+   ],
+   "dose": "Oral Light: 15-25mg | Common: 30-50mg | Strong: 50-80mg | Heavy: 80mg+. NOTE: DXME is a novel dissociative with limited human data. Potency, duration, and adverse effects may vary significantly between individuals. Conservative dosing and extended waiting periods are advised.",
+   "duration": "4\u20138 hours. Duration may vary depending on dose, metabolism, and individual sensitivity.",
+   "effects": "Dissociation, Analgesia, Euphoria, Cognitive impairment, Sedation, Time distortion, Impaired coordination, Confusion.",
+   "half-life": "Unknown.",
+   "note": "Please be aware that with research chemicals purchased from grey-market vendors, one can never be 100% certain of the actual amount or purity of the active compound. Tread lightly.",
+   "onset": "30\u201390 minutes.",
+   "summary": "Deoxymethoxetamine (DXME) is a novel dissociative from the arylcyclohexylamine family that emerged on the illicit market around 2020\u20132021. It has been identified as a new psychoactive substance and computationally predicted to possess addictive potential. Human pharmacological data remain limited, and effects show notable inter-individual variability."
+  },
+  "sources": {
+   "_general": [
+    "Han M, Liu S, Zhang D, et al. AddictedChem: A Data-Driven Integrated Platform for New Psychoactive Substance Identification. Front Pharmacol. 2022;13:922741. https://pmc.ncbi.nlm.nih.gov/articles/PMC9227411/"
+   ]
+  }
+ }
+}

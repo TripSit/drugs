@@ -1,0 +1,21 @@
+{
+ "benzodioxole-fentanyl": {
+  "categories": [
+   "opioid",
+   "depressant",
+   "research-chemical",
+   "tentative"
+  ],
+  "name": "benzodioxole-fentanyl",
+  "pretty_name": "Benzodioxole-Fentanyl",
+  "properties": {
+   "categories": [
+    "opioid",
+    "depressant",
+    "research-chemical",
+    "tentative"
+   ],
+   "summary": "An analogue of Fentanyl."
+  }
+ }
+}

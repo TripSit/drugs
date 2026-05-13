@@ -1,0 +1,71 @@
+{
+ "3c-p": {
+  "aliases": [
+   "3cp"
+  ],
+  "categories": [
+   "psychedelic",
+   "stimulant",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-40mg",
+    "Heavy": "40+mg",
+    "Light": "10-20mg",
+    "Threshold": "5-10mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "10-18"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "60-150"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_3CP.shtml"
+  },
+  "name": "3c-p",
+  "pretty_name": "3C-P",
+  "properties": {
+   "after-effects": "2-24 hours.",
+   "aliases": [
+    "3cp"
+   ],
+   "categories": [
+    "psychedelic",
+    "stimulant",
+    "research-chemical"
+   ],
+   "dose": "Oral Threshold: 5-10mg Light: 10-20mg Common: 20-40mg Heavy: 40+mg",
+   "duration": "10-18 hours",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "60-150 minutes.",
+   "summary": "Rather new and uncommon stimulant, psychedelic and amphetamine with properties similar to the 2C-x class of drugs. 3-carbon homologue of proscaline."
+  }
+ }
+}

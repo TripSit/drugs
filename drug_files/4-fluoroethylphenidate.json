@@ -1,0 +1,52 @@
+{
+ "4-fluoroethylphenidate": {
+  "aliases": [
+   "4f-eph",
+   "4-feph"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-30mg",
+    "Light": "5-10mg",
+    "Strong": "30-50mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-25"
+  },
+  "name": "4-fluoroethylphenidate",
+  "pretty_name": "4-Fluoroethylphenidate",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "4f-eph",
+    "4-feph"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Light: 5-10mg Common: 10-30mg Strong: 30-50mg+",
+   "duration": "5-6 hours.",
+   "onset": "10-25 minutes.",
+   "summary": "A more potent and longer lasting analogue of Ethylphenidate."
+  }
+ }
+}

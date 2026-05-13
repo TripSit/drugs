@@ -1,0 +1,325 @@
+{
+ "dmt": {
+  "aliases": [
+   "n,n-dmt",
+   "dimethyltryptamine"
+  ],
+  "categories": [
+   "psychedelic",
+   "common"
+  ],
+  "combos": {
+   "2c-t-x": {
+    "status": "Low Risk & Synergy"
+   },
+   "2c-x": {
+    "status": "Low Risk & Synergy"
+   },
+   "5-meo-xxt": {
+    "status": "Low Risk & Synergy"
+   },
+   "alcohol": {
+    "status": "Low Risk & Decrease"
+   },
+   "amphetamines": {
+    "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+    "status": "Caution"
+   },
+   "amt": {
+    "status": "Low Risk & Synergy"
+   },
+   "benzodiazepines": {
+    "status": "Low Risk & Decrease"
+   },
+   "caffeine": {
+    "status": "Low Risk & No Synergy"
+   },
+   "cannabis": {
+    "note": "Cannabis has an unexpectedly strong and somewhat unpredictable synergy with psychedelics.",
+    "status": "Caution"
+   },
+   "cocaine": {
+    "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+    "status": "Caution"
+   },
+   "dextromethorphan": {
+    "status": "Low Risk & Synergy"
+   },
+   "diphenhydramine": {
+    "note": "At 25-50mg, DPH may assist with side effects of the DMT such as nausea and anxiety. At higher dosages, the combination of a deliriant (DPH) and DMT is cautioned against. DMT is likely to increase the deliriant and negative effects of DPH, in addition to increasing the risk of severe injury and mental trauma.",
+    "sources": [
+     {
+      "author": "Carbonaro, T. M., & Gatch, M. B. (2016)",
+      "title": "Neuropharmacology of N,N-Dimethyltryptamine. Brain Research Bulletin, 126(Pt 1), 74\u201388.",
+      "url": "https://doi.org/10.1016/j.brainresbull.2016.04.016"
+     },
+     {
+      "author": "Chapy, H., Smirnova, M., Andr\u00e9, P., Schlatter, J., Chiadmi, F., Couraud, P.-O., Scherrmann, J.-M., Decl\u00e8ves, X., & Cisternino, S. (2014)",
+      "title": "Carrier-Mediated Cocaine Transport at the Blood-Brain Barrier as a Putative Mechanism in Addiction Liability. International Journal of Neuropsychopharmacology, 18(1), pyu001.",
+      "url": "https://doi.org/10.1093/ijnp/pyu001"
+     },
+     {
+      "author": "Schaefer, T. S., Patel, P., & Zito, P. M. (2025)",
+      "title": "Antiemetic Histamine H1 Receptor Blockers. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK533003/"
+     },
+     {
+      "author": "Schifano, F., Chiappini, S., Miuli, A., Mosca, A., Santovito, M. C., Corkery, J. M., Guirguis, A., Pettorruso, M., Di Giannantonio, M., & Martinotti, G. (2021)",
+      "title": "Focus on Over-the-Counter Drugs\u2019 Misuse: A Systematic Review on Antihistamines, Cough Medicines, and Decongestants. Frontiers in Psychiatry, 12, 657397.",
+      "url": "https://doi.org/10.3389/fpsyt.2021.657397"
+     },
+     {
+      "author": "Wolfson, A. R., Wong, D., Abrams, E. M., Waserman, S., & Sussman, G. L. (2022)",
+      "title": "Diphenhydramine: Time to Move on? The Journal of Allergy and Clinical Immunology: In Practice, 10(12), 3124\u20133130.",
+      "url": "https://doi.org/10.1016/j.jaip.2022.07.018"
+     }
+    ],
+    "status": "Caution"
+   },
+   "dox": {
+    "status": "Low Risk & Synergy"
+   },
+   "ghb/gbl": {
+    "status": "Low Risk & Decrease"
+   },
+   "ketamine": {
+    "status": "Low Risk & Synergy"
+   },
+   "lithium": {
+    "note": "There are a large number of reports indicating a high seizure and psychosis risk from this combination.",
+    "sources": [
+     {
+      "author": "Sandeep M Nayak, Natalie Gukasyan, Frederick S Barrett , Earth Erowid , Fire Erowid , Roland R Griffiths",
+      "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+      "url": "https://doi.org/10.1055/a-1524-2794"
+     },
+     {
+      "author": "Erowid",
+      "title": "Erowid Interactions",
+      "url": "https://erowid.org/chemicals/lsd/lsd_interactions.shtml"
+     },
+     {
+      "author": "freshboi88",
+      "title": "I Was Only on One Dose",
+      "url": "https://erowid.org/experiences/exp.php?ID=93681"
+     },
+     {
+      "author": "YouWerentYouAnymore",
+      "title": "Brought My Worst Thoughts to Life",
+      "url": "https://erowid.org/experiences/exp.php?ID=110780"
+     },
+     {
+      "author": "Otto Simonsson, Peper S. Hendricks, Richard Chambers, Walter Osika, Simon B. Goldberg",
+      "title": "Prevalence and associations of challenging, difficult or distressing experiences using classic psychedelics",
+      "url": "https://doi.org/10.1016/j.jad.2023.01.073"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "lsd": {
+    "status": "Low Risk & Synergy"
+   },
+   "maois": {
+    "status": "Low Risk & Synergy"
+   },
+   "mdma": {
+    "status": "Low Risk & Synergy"
+   },
+   "mephedrone": {
+    "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+    "sources": [
+     {
+      "author": "Carbonaro, T. M., & Gatch, M. B.",
+      "title": "Neuropharmacology of N,N-Dimethyltryptamine. Brain Research Bulletin, 126(Pt 1), 74\u201388 (2016)",
+      "url": "https://doi.org/10.1016/j.brainresbull.2016.04.016"
+     },
+     {
+      "author": "Erhorn, S.",
+      "title": "Dimethyltryptamine. In xPharm: The Comprehensive Pharmacology Reference, 1\u20134 (2007)",
+      "url": "https://doi.org/10.1016/B978-008055232-3.62227-5"
+     },
+     {
+      "author": "Kehr, J., Ichinose, F., Yoshitake, S., Goiny, M., Sievertsson, T., Nyberg, F., & Yoshitake, T.",
+      "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats. British Journal of Pharmacology, 164(8), 1949\u20131958 (2011)",
+      "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+     },
+     {
+      "author": "Papaseit, E., Molt\u00f3, J., Muga, R., Torrens, M., de la Torre, R., & Farr\u00e9, M.",
+      "title": "Clinical Pharmacology of the Synthetic Cathinone Mephedrone. In M. H. Baumann, R. A. Glennon, & J. L. Wiley (Eds.), Neuropharmacology of New Psychoactive Substances (NPS): The Science Behind the Headlines, 313\u2013331 (2017)",
+      "url": "https://doi.org/10.1007/7854_2016_61"
+     },
+     {
+      "author": "Wood, D. M., Davies, S., Greene, S. L., Button, J., Holt, D. W., Ramsey, J., & Dargan, P. I.",
+      "title": "Case series of individuals with analytically confirmed acute mephedrone toxicity. Clinical Toxicology, 48(9), 924\u2013927 (2010)",
+      "url": "https://doi.org/10.3109/15563650.2010.531021"
+     }
+    ],
+    "status": "Low Risk & Synergy"
+   },
+   "mescaline": {
+    "status": "Low Risk & Synergy"
+   },
+   "mushrooms": {
+    "status": "Low Risk & Synergy"
+   },
+   "mxe": {
+    "status": "Low Risk & Synergy"
+   },
+   "nbomes": {
+    "status": "Low Risk & Synergy"
+   },
+   "nitrous": {
+    "status": "Low Risk & Synergy"
+   },
+   "opioids": {
+    "status": "Low Risk & No Synergy"
+   },
+   "pcp": {
+    "status": "Low Risk & Synergy"
+   },
+   "pregabalin": {
+    "note": "Pregabalin may reduce the anxiety and other possible side effects of DMT. Additionally, the combination may increase inhibition, dizziness, and risk of injury.",
+    "sources": [
+     {
+      "author": "Carbonaro, T. M., & Gatch, M. B. (2016)",
+      "title": "Neuropharmacology of N,N-Dimethyltryptamine. Brain Research Bulletin, 126(Pt 1), 74\u201388.",
+      "url": "https://doi.org/10.1016/j.brainresbull.2016.04.016"
+     },
+     {
+      "author": "Cross, A. L., Viswanath, O., & Sherman, A. L. (2025)",
+      "title": "Pregabalin. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK470341/"
+     }
+    ],
+    "status": "Low Risk & Synergy"
+   },
+   "ssris": {
+    "status": "Low Risk & Decrease"
+   },
+   "tramadol": {
+    "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
+    "status": "Unsafe"
+   }
+  },
+  "dose_note": " NOTE: These figures are for 100% effective vaporization methods. Typical methods of vaporization are not 100% effective. The likelihood of having a \"breakthrough\" experience increases with dosages. Caution is advised.",
+  "formatted_aftereffects": {
+   "_unit": "minutes",
+   "value": "15-60"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "25-50mg",
+    "Light": "10-25mg",
+    "Strong": "50-125mg+"
+   },
+   "Intravenous": {
+    "Common": "15-25mg",
+    "Light": "10-15mg",
+    "Strong": "25-40mg"
+   },
+   "Vapourized": {
+    "Common": "15-25mg",
+    "Heavy": "35mg+",
+    "Light": "10-15mg",
+    "Strong": "25-35mg",
+    "Threshold": "5-10mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "minutes",
+   "Insufflated": "45-60",
+   "Oral_MAOI": "180-420",
+   "Smoked": "3-10",
+   "Vapourized": "3-10"
+  },
+  "formatted_effects": [
+   "immersive experience",
+   "open eye visuals",
+   "radical perspective shifting",
+   "profound life-changing spiritual experiences",
+   "powerful rushing of sensation",
+   "change in perception of time",
+   "auditory hallucinations",
+   "color shifting",
+   "hard on lungs when smoking",
+   "stomach discomfort",
+   "difficulty integrating experiences",
+   "overwhelming fear"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "3-5",
+   "Oral": "20-45",
+   "Vapourized": "0-2"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_DMT.shtml",
+   "tihkal": "https://www.erowid.org/library/books_online/tihkal/tihkal06.shtml"
+  },
+  "name": "dmt",
+  "pretty_name": "DMT",
+  "properties": {
+   "after-effects": "15-60 minutes",
+   "aliases": [
+    "n,n-dmt",
+    "dimethyltryptamine"
+   ],
+   "categories": [
+    "psychedelic",
+    "common"
+   ],
+   "dose": "Vapourised Threshold: 5-10mg Light: 10-15mg Common: 15-25mg Strong: 25-35mg Heavy: 35mg+ | Insufflated Light: 10-25mg Common: 25-50mg Strong: 50-125mg+ | Intravenous Light: 10-15mg Common: 15-25mg Strong: 25-40mg",
+   "duration": "Vapourized/smoked: 3-10 minutes | Oral_MAOI: 180-420 minutes | Insufflated: 45-60 minutes",
+   "effects": "immersive experience, open eye visuals, radical perspective shifting, profound life-changing spiritual experiences, powerful rushing of sensation, change in perception of time, auditory hallucinations, color shifting, hard on lungs when smoking, stomach discomfort, difficulty integrating experiences, overwhelming fear",
+   "half-life": "10-20 minutes",
+   "marquis": "Orange",
+   "molecule": "http://www.erowid.org/chemicals/dmt/images/archive/dmt_3d_mid.jpg",
+   "onset": "Vapourized/smoked: 0-2 minutes | Oral_MAOI: 20-45 minutes | Insufflated: 3-5 minutes",
+   "summary": "A popular and powerful psychedelic, typically used in two ways: either it is vapourised for a short 'breakthrough' experience, or it is taken in combination with an enzyme inhibitor for a long, intense trip (this is also known as ayahuasca or pharmahuasca).",
+   "vaporization": "60-80C (140-176F)"
+  },
+  "pweffects": {
+   "8B Geometry - Exposure to inner mechanics of consciousness": "https://psychonautwiki.org/wiki/8B_Geometry_-_Exposure_to_inner_mechanics_of_consciousness",
+   "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
+   "After images": "https://psychonautwiki.org/wiki/After_images",
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+   "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+   "Changes in gravity": "https://psychonautwiki.org/wiki/Changes_in_gravity",
+   "Colour enhancement": "https://psychonautwiki.org/wiki/Colour_enhancement",
+   "Colour replacement": "https://psychonautwiki.org/wiki/Colour_replacement",
+   "Colour shifting": "https://psychonautwiki.org/wiki/Colour_shifting",
+   "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+   "Emotion enhancement": "https://psychonautwiki.org/wiki/Emotion_enhancement",
+   "Exposure to inner mechanics of consciousness": "https://psychonautwiki.org/wiki/Exposure_to_inner_mechanics_of_consciousness",
+   "External hallucinations": "https://psychonautwiki.org/wiki/External_hallucinations",
+   "Feelings of impending doom": "https://psychonautwiki.org/wiki/Feelings_of_impending_doom",
+   "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Machinescapes": "https://psychonautwiki.org/wiki/Machinescapes",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Mindfulness": "https://psychonautwiki.org/wiki/Mindfulness",
+   "Novelty enhancement": "https://psychonautwiki.org/wiki/Novelty_enhancement",
+   "Pattern recognition enhancement": "https://psychonautwiki.org/wiki/Pattern_recognition_enhancement",
+   "Personal bias suppression": "https://psychonautwiki.org/wiki/Personal_bias_suppression",
+   "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Pupil dilation": "https://psychonautwiki.org/wiki/Pupil_dilation",
+   "Recursion": "https://psychonautwiki.org/wiki/Recursion",
+   "Rejuvenation": "https://psychonautwiki.org/wiki/Rejuvenation",
+   "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+   "Scenery slicing": "https://psychonautwiki.org/wiki/Scenery_slicing",
+   "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+   "Spirituality enhancement": "https://psychonautwiki.org/wiki/Spirituality_enhancement",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Subconscious communication": "https://psychonautwiki.org/wiki/Subconscious_communication",
+   "Symmetrical texture repetition": "https://psychonautwiki.org/wiki/Symmetrical_texture_repetition",
+   "Temperature regulation suppression": "https://psychonautwiki.org/wiki/Temperature_regulation_suppression",
+   "Tracers": "https://psychonautwiki.org/wiki/Tracers",
+   "Transformations": "https://psychonautwiki.org/wiki/Transformations",
+   "Unity and interconnectedness": "https://psychonautwiki.org/wiki/Unity_and_interconnectedness"
+  }
+ }
+}

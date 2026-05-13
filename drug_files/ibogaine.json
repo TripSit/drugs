@@ -1,0 +1,78 @@
+{
+ "ibogaine": {
+  "aliases": [
+   "iboga"
+  ],
+  "categories": [
+   "psychedelic",
+   "opioid",
+   "dissociative",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "24-72"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "16-22mg/kg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "24-30"
+  },
+  "formatted_effects": [
+   "Addiction help",
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil constriction",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-180"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Ibogaine.shtml",
+   "tihkal": "https://www.erowid.org/library/books_online/tihkal/tihkal25.shtml"
+  },
+  "name": "ibogaine",
+  "pretty_name": "Ibogaine",
+  "properties": {
+   "after-effects": "24-72 hours",
+   "aliases": [
+    "iboga"
+   ],
+   "categories": [
+    "psychedelic",
+    "opioid",
+    "dissociative",
+    "depressant"
+   ],
+   "dose": "Oral Common: 16-22mg/kg NOTE: Doses are for Ibogaine HCL. Potency of ibogaine root bark can vary from roughly 2.5-6% ibogaine content.",
+   "duration": "24-30 hours",
+   "effects": "Addiction help, Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil constriction, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "45-180 minutes",
+   "summary": "An alkaloid found in many plants in Africa, most famously Iboga, that has psychedelic and hallucinogenic properties. Reported to often be unpleasant. Traditionally used in tribal environments for coming-of-age rituals, it has recently been used as an alternative treatment for substance use disorders. There is on-going research on the efficacy of this. The drug has numerous risks and has killed in overdose. Further research and caution is strongly advised."
+  },
+  "sources": {
+   "_general": [
+    "Toxicity of ibogaine is associated with a lengthened QT interval in the electrophysiology of the heart - http://www.nejm.org/doi/full/10.1056/NEJMc0804248#t=article",
+    "signs of neurotoxicity found in animal testing - http://www.sciencedirect.com/science/article/pii/030645229390500F"
+   ]
+  }
+ }
+}

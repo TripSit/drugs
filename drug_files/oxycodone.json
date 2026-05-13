@@ -1,0 +1,121 @@
+{
+ "oxycodone": {
+  "aliases": [
+   "oxy",
+   "oxycontin",
+   "percocet",
+   "oxynorm"
+  ],
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "depressant",
+   "common"
+  ],
+  "dose_note": " Note: Dosages reflect that while nasal bioavailability (BA) may be less than oral BA, nasal administration can cause an additional 'rush' (due to quicker onset); this may lead to a subjective experience of greater strength than an equivalent oral dose.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "7.5-15mg",
+    "Light": "2.5-7.5mg",
+    "Strong": "15-25mg"
+   },
+   "Oral": {
+    "Common": "10-25mg",
+    "Light": "2.5-10mg",
+    "Strong": "25-40mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "3-5",
+   "Intravenous": "3-5",
+   "Oral_ER": "6-8",
+   "Oral_IR": "4-6"
+  },
+  "formatted_effects": [
+   "Pain relief",
+   "Respiratory depression",
+   "Sedation",
+   "Constipation",
+   "Cough suppression",
+   "Decreased libido",
+   "Difficulty urinating",
+   "Itchiness",
+   "Nausea",
+   "Pupil constriction",
+   "Stomach cramps",
+   "Appetite suppression",
+   "Euphoria",
+   "Anxiety suppression",
+   "Dream potentiation"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "2-5",
+   "Intravenous": "0-1",
+   "Oral_ER": "40",
+   "Oral_IR": "20"
+  },
+  "name": "oxycodone",
+  "pretty_name": "Oxycodone",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "aliases": [
+    "oxy",
+    "oxycontin",
+    "percocet",
+    "oxynorm"
+   ],
+   "bioavailability": "Oral 60-87% | Insufflated 55-70%",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "depressant",
+    "common"
+   ],
+   "detection": "3-5 days for minimal use, 5-8 for regular use.",
+   "dose": "Oral Light: 2.5-10mg  Common: 10-25mg  Strong: 25-40mg | Insufflated Light: 2.5-7.5mg  Common: 7.5-15mg  Strong: 15-25mg | Note: Dosages reflect that, while nasal bioavailability (BA) may be less than oral BA, nasal administration causes an additional 'rush' (due to quicker onset); this may lead to a subjective experience of greater strength than an equivalent oral dose.",
+   "duration": "Oral_IR: 4-6 hours | Oral_ER: 6-8 hours. | Insufflated: 3-5 hours. | IV: 3-5 hours.",
+   "effects": "Pain relief, Respiratory depression, Sedation, Constipation, Cough suppression, Decreased libido, Difficulty urinating, Itchiness, Nausea, Pupil constriction, Stomach cramps, Appetite suppression, Euphoria, Anxiety suppression, Dream potentiation.",
+   "half-life": "2-4 hours",
+   "marquis": "Pale violet",
+   "onset": "Oral_IR: 20 minutes | Oral_ER: 40 minutes | Insufflated: 2-5 minutes | IV: 0-1 minutes",
+   "potentiators": "Avoid grapefruit juice, depressants, and diphenhydramine (DPH). These products may react negatively and can cause an overdose. Additionally, it is strongly recommended against consuming greater than 4g APAP (acetaminophen) in a day.",
+   "summary": "A semisynthetic opioid analgesic developed in 1917, prescribed primarily for pain management. It has become extremely popular as a recreational drug in some areas and carries a high potential for substance use disorder. Anectodal reports indicate the drug being a more 'stimulating' than other opioids."
+  },
+  "pweffects": {
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Constipation": "https://psychonautwiki.org/wiki/Constipation",
+   "Cough suppression": "https://psychonautwiki.org/wiki/Cough_suppression",
+   "Difficulty urinating": "https://psychonautwiki.org/wiki/Difficulty_urinating",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Itchiness": "https://psychonautwiki.org/wiki/Itchiness",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Pain relief": "https://psychonautwiki.org/wiki/Pain_relief",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Pupil constriction": "https://psychonautwiki.org/wiki/Pupil_constriction",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Stomach cramps": "https://psychonautwiki.org/wiki/Stomach_cramps"
+  },
+  "sources": {
+   "_general": [
+    "Controlled-release oxycodone-induced seizures. - http://www.ncbi.nlm.nih.gov/pubmed/16368452",
+    "Grapefruit juice enhances the exposure to oral oxycodone. - http://www.ncbi.nlm.nih.gov/pubmed/20406214",
+    "Oxycodone/paracetamol: a low-dose synergic combination useful in different types of pain. - http://www.ncbi.nlm.nih.gov/pubmed/20670044",
+    "Pharmacokinetics and pharmacodynamics of oxycodone when given intravenously and rectally to adult patients with cancer pain. - http://www.ncbi.nlm.nih.gov/pubmed/7818116",
+    "Differential effects of food on the bioavailability of controlled-release oxycodone tablets and immediate-release oxycodone solution. - http://www.ncbi.nlm.nih.gov/pubmed/8901078",
+    "Oxycodone is found to suppress sodium currents in the thalamic regions of the brain at high doses and is an effect that is independent of the MOR/u-opioid recepter and therefore this mechanism is not blocked by the use of naloxone - http://www.sciencedirect.com/science/article/pii/S0304394009001268",
+    "Oxycodone is found to have longer lasting more efficient effects on pain due to neuropathy because of having GABA-B agonist properties -http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091297",
+    "Oxycodone when paired with an ultra low dose of naltrexone, an opioid antagonist, oxycodone has a longer duration of pain relief - http://www.sciencedirect.com/science/article/pii/S1526590005004128",
+    "Oxycodone has been found to be an effective treatment for restless leg syndrome - http://europepmc.org/abstract/med/8341893",
+    "Pharmacokinetics of oxycodone done orally and intramuscularly http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2125.1992.tb04090.x/abstract"
+   ]
+  }
+ }
+}

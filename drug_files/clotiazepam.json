@@ -1,0 +1,60 @@
+{
+ "clotiazepam": {
+  "aliases": [
+   "clozan",
+   "distensan",
+   "trecalmo",
+   "rize",
+   "rizen",
+   "veratran"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "tentative",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-10mg",
+    "Light": "2.5-5mg",
+    "Strong": "10-15mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-30"
+  },
+  "name": "clotiazepam",
+  "pretty_name": "Clotiazepam",
+  "properties": {
+   "after-effects": "4-8 hours.",
+   "aliases": [
+    "clozan",
+    "distensan",
+    "trecalmo",
+    "rize",
+    "rizen",
+    "veratran"
+   ],
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "tentative",
+    "depressant"
+   ],
+   "dose": "Oral Light: 2.5-5mg Common: 5-10mg Strong: 10-15mg+",
+   "duration": "4-8 hours.",
+   "onset": "10-30 minutes.",
+   "summary": "Is a thienodiazepine substance. It differs from most other benzodiazepines in which the benzene ring has been replaced by a thiophene ring."
+  }
+ }
+}

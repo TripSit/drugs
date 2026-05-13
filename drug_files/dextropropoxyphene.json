@@ -1,0 +1,57 @@
+{
+ "dextropropoxyphene": {
+  "aliases": [
+   "darvocet",
+   "co-proxamol",
+   "coproxamol",
+   "capadex",
+   "di-gesic"
+  ],
+  "categories": [
+   "opioid",
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "65-100mg",
+    "Light": "30-65mg",
+    "Strong": "100-200mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "1-3"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-30"
+  },
+  "name": "dextropropoxyphene",
+  "pretty_name": "Dextropropoxyphene",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "darvocet",
+    "co-proxamol",
+    "coproxamol",
+    "capadex",
+    "di-gesic"
+   ],
+   "avoid": "All CNS depressants. And all together if you have a history of issues with your Kidneys, Liver, Heart and any Respiratory Disorders.",
+   "categories": [
+    "opioid",
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Light: 30-65mg Common: 65-100mg Strong: 100-200mg NOTE: It was taken off the market in some countries due to issues relating to the Kidney, Liver, Heart and Respiratory Disorders.",
+   "duration": "1-3 hours.",
+   "onset": "20-30 minutes.",
+   "summary": "An opioid analgesic that is an optical isomer of levopropoxyphene. Used to treat mild pain and often used for its antitussive properties. It has been taken off the market in Europe and theUS due to concerns of health issues relating to the Kidney, Liver, Heart and Respiratory Disorders. Just a bit stronger than Tramadol."
+  }
+ }
+}

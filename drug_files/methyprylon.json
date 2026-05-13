@@ -1,0 +1,44 @@
+{
+ "methyprylon": {
+  "aliases": [
+   "noludar"
+  ],
+  "categories": [
+   "depressant",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-16"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "200-300mg",
+    "Light": "150-200mg",
+    "Strong": "300mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "name": "methyprylon",
+  "pretty_name": "Methyprylon",
+  "properties": {
+   "after-effects": "1-16 hours.",
+   "aliases": [
+    "noludar"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "depressant",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Light: 150-200mg Common: 200-300mg Strong: 300mg+",
+   "duration": "6-12 hours.",
+   "summary": "Sedative of the pipeidinedone family. The drug was used for treating insomnia, but is rarely used today due to alternatives with fewer side effects, such as benzodiazepines."
+  }
+ }
+}

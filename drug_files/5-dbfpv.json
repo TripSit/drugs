@@ -1,0 +1,41 @@
+{
+ "5-dbfpv": {
+  "categories": [
+   "tentative",
+   "stimulant",
+   "habit-forming",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "4-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "15-30mg",
+    "Light": "5-15mg",
+    "Strong": "30-60mg.",
+    "Threshold": "2-5mg"
+   }
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-15",
+   "Oral": "15-45"
+  },
+  "name": "5-dbfpv",
+  "pretty_name": "5-DBFPV",
+  "properties": {
+   "after-effects": "4-12 hours.",
+   "categories": [
+    "tentative",
+    "stimulant",
+    "habit-forming",
+    "research-chemical"
+   ],
+   "dose": "Oral Threshold: 2-5mg Light: 5-15mg Common: 15-30mg Strong: 30-60mg.",
+   "onset": "Oral: 15-45 minutes. | Insufflated: 5-15 minutes.",
+   "summary": "Stimulant of the cathinone class. Analogue of MDPV where the methylenedioxyphenyl group was replaced with a dihydrobenzofuran."
+  }
+ }
+}

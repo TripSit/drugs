@@ -1,0 +1,90 @@
+{
+ "methylone": {
+  "aliases": [
+   "bk-mdma",
+   "m1",
+   "mdmc"
+  ],
+  "categories": [
+   "stimulant",
+   "psychedelic",
+   "research-chemical",
+   "habit-forming",
+   "empathogen",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "6-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "150-250mg",
+    "Heavy": "300mg+",
+    "Light": "100-150mg",
+    "Strong": "200-300mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Methylone.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal110.shtml"
+  },
+  "name": "methylone",
+  "pretty_name": "Methylone",
+  "properties": {
+   "after-effects": "6-24 hours",
+   "aliases": [
+    "bk-mdma",
+    "m1",
+    "mdmc"
+   ],
+   "categories": [
+    "stimulant",
+    "psychedelic",
+    "research-chemical",
+    "habit-forming",
+    "empathogen",
+    "common"
+   ],
+   "dose": "Oral Light: 100-150mg  Common: 150-250mg  Strong: 200-300mg  Heavy: 300+mg",
+   "duration": "2-4 hours",
+   "marquis": "Yellow",
+   "onset": "15-60 minutes",
+   "summary": "\u03b2k-MDMA (methylone) is a cathinone stimulant and empathogen. It has a structure to MDMA, and is reported to have more stimulating and less empathogenic effects in comparison. The drug was mis-sold as MDMA on the street until it was banned by many countries in 2013. The Marquis reagent can differentiate \u03b2k-MDMA from MDMA. The drug is reported to be less potent than MDMA with a slightly shorter duration."
+  },
+  "pweffects": {
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Cognitive fatigue": "https://psychonautwiki.org/wiki/Cognitive_fatigue",
+   "Dehydration": "https://psychonautwiki.org/wiki/Dehydration",
+   "Depression": "https://psychonautwiki.org/wiki/Depression",
+   "Difficulty urinating": "https://psychonautwiki.org/wiki/Difficulty_urinating",
+   "Empathy, love, and sociability enhancement": "https://psychonautwiki.org/wiki/Empathy,_love,_and_sociability_enhancement",
+   "Increased blood pressure": "https://psychonautwiki.org/wiki/Increased_blood_pressure",
+   "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
+   "Increased libido": "https://psychonautwiki.org/wiki/Increased_libido",
+   "Increased perspiration": "https://psychonautwiki.org/wiki/Increased_perspiration",
+   "Irritability": "https://psychonautwiki.org/wiki/Irritability",
+   "Mindfulness": "https://psychonautwiki.org/wiki/Mindfulness",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Tactile enhancement": "https://psychonautwiki.org/wiki/Tactile_enhancement",
+   "Teeth grinding": "https://psychonautwiki.org/wiki/Teeth_grinding",
+   "Temperature regulation suppression": "https://psychonautwiki.org/wiki/Temperature_regulation_suppression",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+   "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+   "Vibrating vision": "https://psychonautwiki.org/wiki/Vibrating_vision",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "valerylfentanyl": {
+  "aliases": [
+   "vf"
+  ],
+  "categories": [
+   "opioid",
+   "depressant",
+   "research-chemical",
+   "tentative",
+   "habit-forming"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Light": "50mg+"
+   }
+  },
+  "name": "valerylfentanyl",
+  "pretty_name": "Valerylfentanyl",
+  "properties": {
+   "aliases": [
+    "vf"
+   ],
+   "categories": [
+    "opioid",
+    "depressant",
+    "research-chemical",
+    "tentative",
+    "habit-forming"
+   ],
+   "dose": "Light: 50+mg",
+   "summary": "Opioid that is a higher homologue of butyrfentanyl with a greatly reduced potency."
+  }
+ }
+}

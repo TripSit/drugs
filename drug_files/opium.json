@@ -1,0 +1,57 @@
+{
+ "opium": {
+  "aliases": [
+   "O"
+  ],
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "depressant",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "333-500mg.",
+    "Fatal": "2000mg"
+   },
+   "Smoked": {
+    "Common": "100mg"
+   }
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil constriction",
+   "Analgesia"
+  ],
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Opium.shtml"
+  },
+  "name": "opium",
+  "pretty_name": "Opium",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "O"
+   ],
+   "avoid": "The drug has a high rate of overdoses and it is strongly recommended against using foil to smoke it.",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "depressant",
+    "common"
+   ],
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
+   "marquis": "Dark grayish reddish brown",
+   "summary": "Opium is a naturally occurring analgesic harvested as a latex from ripe Papaver somniferum (opium poppy) pods. The sap of the poppy plant primarily contains codeine and morphine with the amounts varying by plant, which can be made into a tea and consumed raw, or further processed."
+  }
+ }
+}

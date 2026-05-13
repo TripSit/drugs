@@ -1,0 +1,45 @@
+{
+ "carphedon": {
+  "aliases": [
+   "phenylpiracetam",
+   "phenotropil"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "nootropic"
+  ],
+  "dose_note": "Rapid onset. Typically taken up to three times a day.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-200mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "name": "carphedon",
+  "pretty_name": "Phenylpiracetam",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "aliases": [
+    "phenylpiracetam",
+    "phenotropil"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "nootropic"
+   ],
+   "dose": "Oral Common: 100-200mg | NOTE: Typically taken up to three times a day.",
+   "duration": "4-6 hours.",
+   "onset": "Rapid.",
+   "summary": "A nootropic and piracetam analogue also known as fonturacetam. This drug has been shown to have potential memory enhancing, anxiolytic, anti-amnesia and anti-depressive effects. However the drug has reportedly little recreational value. Around 45x more potent than Piracetam."
+  }
+ }
+}

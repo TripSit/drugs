@@ -1,0 +1,15 @@
+{
+ "db-mdbp": {
+  "categories": [
+   "inactive"
+  ],
+  "name": "db-mdbp",
+  "pretty_name": "DB-MDBP",
+  "properties": {
+   "categories": [
+    "inactive"
+   ],
+   "summary": "Inactive."
+  }
+ }
+}

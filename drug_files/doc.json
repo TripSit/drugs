@@ -1,0 +1,68 @@
+{
+ "doc": {
+  "categories": [
+   "psychedelic",
+   "stimulant",
+   "research-chemical",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1.5-2mg",
+    "Heavy": "4mg+",
+    "Light": "1-1.5mg",
+    "Strong": "2-4mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "10-20"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-150"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_DOC.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal064.shtml"
+  },
+  "name": "doc",
+  "pretty_name": "DOC",
+  "properties": {
+   "after-effects": "6-12 hours.",
+   "categories": [
+    "psychedelic",
+    "stimulant",
+    "research-chemical",
+    "common"
+   ],
+   "dose": "Oral Light: 1-1.5mg Common: 1.5-2mg Strong: 2-4mg Heavy: 4mg+",
+   "duration": "10-20 hours. (Depending on dose)",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "30-150 minutes (Highly dependant on dose)",
+   "summary": "A potent stimulating psychedelic with a long action, a phenethylamine and substituted amphetamine. Sometimes sold as LSD but also enjoyed on its own merits by many. Usually sold on blotters slightly larger than those LSD is found on, but can also be bought in powder form."
+  }
+ }
+}

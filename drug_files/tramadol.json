@@ -1,0 +1,368 @@
+{
+ "tramadol": {
+  "aliases": [
+   "tram"
+  ],
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "depressant",
+   "common"
+  ],
+  "combos": {
+   "2c-t-x": {
+    "status": "Unsafe"
+   },
+   "2c-x": {
+    "note": "Tramadol is well known to lower seizure threshold and psychedelics raise the risk of seizures.",
+    "status": "Unsafe"
+   },
+   "5-meo-xxt": {
+    "status": "Unsafe"
+   },
+   "alcohol": {
+    "note": "Heavy CNS depressants, risk of seizures. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. Place the affected individual in the recovery position to prevent vomit aspiration from excess. Memory blackouts are likely.",
+    "status": "Dangerous"
+   },
+   "amphetamines": {
+    "note": "Tramadol and stimulants both increase the risk of seizures.",
+    "status": "Dangerous"
+   },
+   "amt": {
+    "status": "Dangerous"
+   },
+   "benzodiazepines": {
+    "note": "Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present. Vomit aspiration is a risk when passed out, lay down in recovery position if ingested.",
+    "status": "Dangerous"
+   },
+   "caffeine": {
+    "status": "Low Risk & No Synergy"
+   },
+   "cannabis": {
+    "status": "Low Risk & Synergy"
+   },
+   "cocaine": {
+    "note": "Tramadol and stimulants both increase the risk of seizures.",
+    "status": "Dangerous"
+   },
+   "dextromethorphan": {
+    "status": "Dangerous"
+   },
+   "diphenhydramine": {
+    "note": "Both drugs increase the risk of serotonin syndrome. While at medical dosages, this is unlikely to be of concern, recreational doses should be avoided. Diphenhydramine may increase tramadol\u2019s seizure risk.",
+    "sources": [
+     {
+      "author": "Benson, B. E., Farooqi, M. F., Klein-Schwartz, W., Litovitz, T., Webb, A. N., Borys, D. J., Lung, D., Rutherfoord Rose, S., Aleguas, A., Sollee, D. R., & Seifert, S. A. (2010)",
+      "title": "Diphenhydramine dose\u2013response: a novel approach to determine triage thresholds. Clinical Toxicology, 48(8), 820\u2013831.",
+      "url": "https://doi.org/10.3109/15563650.2010.514269"
+     },
+     {
+      "author": "Dhesi, M., Maldonado, K. A., Patel, P., & Maani, C. V. (2025)",
+      "title": "Tramadol. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK537060/"
+     },
+     {
+      "author": "Hughes, A. R., Lin, A., Hendrickson, R. G., & on behalf of Toxicology Investigator\u2019s Consortium (ToxIC). (2021)",
+      "title": "Clinical and patient characteristics associated with severe outcome in diphenhydramine toxicity. Clinical Toxicology, 59(10), 918\u2013925.",
+      "url": "https://doi.org/10.1080/15563650.2021.1891244"
+     },
+     {
+      "author": "Khan, S., Saud, S., Khan, I., Asif, M., Ismail, O., Salam, A., Yang, T. J., & Norville, K. J. (2018)",
+      "title": "Serotonin Syndrome Presenting with Concomitant Tramadol and Diphenhydramine Use: A Case Report of an Unlikely Side-Effect. Cureus.",
+      "url": "https://doi.org/10.7759/cureus.2421"
+     },
+     {
+      "author": "Kim, H., Kim, S. H., & Kim, J. B. (2021)",
+      "title": "Antihistamines as a common cause of new-onset seizures: a single-center observational study. Neurological Sciences: Official Journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology, 42(6), 2505\u20132508.",
+      "url": "https://doi.org/10.1007/s10072-021-05043-2"
+     },
+     {
+      "author": "Kim, H., Wang, I.-N., Park, J.-S., Kim, K.-T., Kong, J., Kim, J. B., & Kim, D.-J. (2023)",
+      "title": "Inherent seizure susceptibility in patients with antihistamine-induced acute symptomatic seizure: a resting-state EEG analysis. Scientific Reports, 13(1), 9146.",
+      "url": "https://doi.org/10.1038/s41598-023-36415-7"
+     },
+     {
+      "author": "Sanaei-Zadeh, H. (2012)",
+      "title": "Diphenhydramine overdose and serotonin syndrome. Psychiatry and Clinical Neurosciences, 66(3), 244\u2013245.",
+      "url": "https://doi.org/10.1111/j.1440-1819.2012.02320.x"
+     },
+     {
+      "author": "Sicari, V., Patel, P., & Zabbo, C. P. (2025)",
+      "title": "Diphenhydramine. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "dmt": {
+    "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
+    "status": "Unsafe"
+   },
+   "dox": {
+    "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
+    "status": "Unsafe"
+   },
+   "ghb/gbl": {
+    "note": "The sedative effects of this combination can lead to dangerous respiratory depression.",
+    "status": "Dangerous"
+   },
+   "ketamine": {
+    "status": "Dangerous"
+   },
+   "lithium": {
+    "note": "Tramadol and Lithium both increase the risk of seizures and serotonin syndrome.",
+    "sources": [
+     {
+      "author": "Steven C. Julius, Richard P. Brenner",
+      "title": "Myoclonic seizures with lithium",
+      "url": "https://doi.org/10.1016/0006-3223(87)90026-6"
+     },
+     {
+      "author": "Charles DeBattista, Mehmet Sofuoglu, and Alan F. Schatzberg",
+      "title": "Serotonergic Synergism: The Risks and Benefits of Combining the Selective Serotonin Reuptake Inhibitors with Other Serotonergic Drugs",
+      "url": "https://doi.org/10.1016/s0006-3223(98)00161-9"
+     },
+     {
+      "author": "Massot, O., Rousselle, JC., Fillion, MP. et al.",
+      "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders",
+      "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+     },
+     {
+      "author": "Sameer Hassamal, Karen Miotto, William Dale, Itai Danovitch ",
+      "title": "Tramadol: Understanding the Risk of Serotonin Syndrome and Seizures",
+      "url": "https://doi.org/10.1016/j.amjmed.2018.04.025"
+     },
+     {
+      "author": "Boostani R, Derakhshan S.",
+      "title": "Tramadol induced seizure: A 3-year study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24009919/"
+     },
+     {
+      "author": "Lagard, C.; Vodovar, D.; Chevillard, L.; Callebert, J.; Caill\u00e9, F.; Pottier, G.; Liang, H.; Ris\u00e8de, P.; Tournier, N.; M\u00e9garbane, B.",
+      "title": "Investigation of the Mechanisms of Tramadol-Induced Seizures in Overdose in the Rat ",
+      "url": "https://doi.org/10.3390/ph15101254 "
+     },
+     {
+      "author": "Sansone RA, Sansone LA.",
+      "title": "Tramadol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19724727"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "lsd": {
+    "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
+    "status": "Unsafe"
+   },
+   "maois": {
+    "status": "Dangerous"
+   },
+   "mdma": {
+    "note": "Tramadol and stimulants both increase the risk of seizures.",
+    "status": "Dangerous"
+   },
+   "mephedrone": {
+    "note": "There is a high risk of serotonin syndrome and seizures at recreational dosages. Both substances affect the heart and may lead to further dangerous heart complications at higher dosages. Both can dull each other's effects, so if one wears off before the other it's possible to overdose due to the lack of counteraction. The combination may increase each other's side effects, such as dizziness and drowsiness. At higher dosages, the combination may increase each other\u2019s side effects, such as delirium, mania, and psychosis.",
+    "sources": [
+     {
+      "author": "Boostani, R., & Derakhshan, S.",
+      "title": "Tramadol induced seizure: A 3-year study. Caspian Journal of Internal Medicine, 3(3), 484\u2013487 (2012)",
+      "url": "N/A"
+     },
+     {
+      "author": "Ener, R. A., Meglathery, S. B., Decker, W. A. V., & Gallagher, R. M.",
+      "title": "Serotonin Syndrome and Other Serotonergic Disorders: Table 1. Pain Medicine, 4(1), 63\u201374 (2003)",
+      "url": "https://doi.org/10.1046/j.1526-4637.2003.03005.x"
+     },
+     {
+      "author": "Hadlock, G. C., Webb, K. M., McFadden, L. M., Chu, P. W., Ellis, J. D., Allen, S. C., Andrenyak, D. M., Vieira-Brock, P. L., German, C. L., Conrad, K. M., Hoonakker, A. J., Gibb, J. W., Wilkins, D. G., Hanson, G. R., & Fleckenstein, A. E.",
+      "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse. The Journal of Pharmacology and Experimental Therapeutics, 339(2), 530\u2013536 (2011)",
+      "url": "https://doi.org/10.1124/jpet.111.184119"
+     },
+     {
+      "author": "Kehr, J., Ichinose, F., Yoshitake, S., Goiny, M., Sievertsson, T., Nyberg, F., & Yoshitake, T.",
+      "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats: Mephedrone increases both DA and 5-HT in rat brain. British Journal of Pharmacology, 164(8), 1949\u20131958 (2011)",
+      "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+     },
+     {
+      "author": "Lagard, C., Vodovar, D., Chevillard, L., Callebert, J., Caill\u00e9, F., Pottier, G., Liang, H., Ris\u00e8de, P., Tournier, N., & M\u00e9garbane, B.",
+      "title": "Investigation of the Mechanisms of Tramadol-Induced Seizures in Overdose in the Rat. Pharmaceuticals, 15(10), 1254 (2022)",
+      "url": "https://doi.org/10.3390/ph15101254"
+     },
+     {
+      "author": "Meng, H., Cao, J., Kang, J., Ying, X., Ji, J., Reynolds, W., & Rampe, D.",
+      "title": "Mephedrone, a new designer drug of abuse, produces acute hemodynamic effects in the rat. Toxicology Letters, 208(1), 62\u201368 (2012)",
+      "url": "https://doi.org/10.1016/j.toxlet.2011.10.010"
+     },
+     {
+      "author": "Sansone, R. A., & Sansone, L. A.",
+      "title": "Tramadol: seizures, serotonin syndrome, and coadministered antidepressants. Psychiatry (Edgmont (Pa.: Township)), 6(4), 17\u201321 (2009)",
+      "url": "N/A"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "mescaline": {
+    "note": "This combination can cause seizures due to the lowering of the threshold by tramadol and the potential of mescaline to cause seziures.",
+    "status": "Unsafe"
+   },
+   "mushrooms": {
+    "note": "Tramadol is well known to lower seizure threshold and psychedelics also cause occasional seizures.",
+    "status": "Unsafe"
+   },
+   "mxe": {
+    "status": "Dangerous"
+   },
+   "nbomes": {
+    "note": "Tramadol is well known to lower seizure threshold and NBOMes have also shown a tendency to cause severe seizures",
+    "status": "Unsafe"
+   },
+   "nitrous": {
+    "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely.",
+    "status": "Caution"
+   },
+   "opioids": {
+    "note": "Concomitant use of tramadol increases the seizure risk in individuals taking other opioids. These agents are often individually epileptogenic and may have additive effects on seizure threshold during coadministration. Central nervous system- and/or respiratory-depressant effects may be additively or synergistically present",
+    "status": "Dangerous"
+   },
+   "pcp": {
+    "status": "Dangerous"
+   },
+   "pregabalin": {
+    "note": "There is a significant risk of seizures. Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing. Medical dosages are not reported to be a concern.",
+    "sources": [
+     {
+      "author": "Altair. (n.d.-a)",
+      "title": "Pregabalin (Lyrica) - Erowid Exp - \u201cHeart Arrhythmia, Seizure\u202f: Not Recreational.\u201d",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=69917"
+     },
+     {
+      "author": "Ben-Menachem, E. (2004)",
+      "title": "Pregabalin pharmacology and its relevance to clinical practice. Epilepsia, 45 Suppl 6, 13\u201318.",
+      "url": "https://doi.org/10.1111/j.0013-9580.2004.455003.x"
+     },
+     {
+      "author": "Boostani, R., & Derakhshan, S. (2012)",
+      "title": "Tramadol induced seizure: A 3-year study. Caspian Journal of Internal Medicine, 3(3), 484\u2013487.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24009919/"
+     },
+     {
+      "author": "Douke, R. (n.d.)",
+      "title": "Pregabalin & Tramadol - Erowid Exp - \u201cGrand Mal Seizures.\u201d",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=83232"
+     },
+     {
+      "author": "French, J., Kwan, P., Fakhoury, T., Pitman, V., DuBrava, S., Knapp, L., & Yurkewicz, L. (2014)",
+      "title": "Pregabalin monotherapy in patients with partial-onset seizures. Neurology, 82(7), 590\u2013597.",
+      "url": "https://doi.org/10.1212/WNL.0000000000000119"
+     },
+     {
+      "author": "Hassamal, S., Miotto, K., Dale, W., & Danovitch, I. (2018)",
+      "title": "Tramadol: Understanding the Risk of Serotonin Syndrome and Seizures. The American Journal of Medicine, 131(11), 1382.e1-1382.e6.",
+      "url": "https://doi.org/10.1016/j.amjmed.2018.04.025"
+     },
+     {
+      "author": "Lyndon, A., Audrey, S., Wells, C., Burnell, E. S., Ingle, S., Hill, R., Hickman, M., & Henderson, G. (2017)",
+      "title": "Risk to heroin users of polydrug use of pregabalin or gabapentin: Risks in combining gabapentoids with heroin. Addiction, 112(9), 1580\u20131589.",
+      "url": "https://doi.org/10.1111/add.13843"
+     },
+     {
+      "author": "Rietjens, S. J., Sikma, M. A., Hunault, C. C., De Lange, D. W., & Hondebrink, L. (2022)",
+      "title": "Pregabalin poisoning: Evaluation of dose\u2010toxicity relationship. British Journal of Clinical Pharmacology, 88(3), 1288\u20131297.",
+      "url": "https://doi.org/10.1111/bcp.15073"
+     },
+     {
+      "author": "Sean. (n.d.-b)",
+      "title": "Pregabalin - Erowid Exp - \u201cStay Away.\u201d",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=67302"
+     },
+     {
+      "author": "Slocum, G. W., Schult, R. F., Gorodetsky, R. M., Wiegand, T. J., Kamali, M., & Acquisto, N. M. (2018)",
+      "title": "Pregabalin and paradoxical reaction of seizures in a large overdose. Toxicology Communications, 2(1), 19\u201320.",
+      "url": "https://doi.org/10.1080/24734306.2018.1458465"
+     }
+    ],
+    "status": "Unsafe"
+   },
+   "ssris": {
+    "status": "Dangerous"
+   }
+  },
+  "dose_note": " NOTE: Tramadol has a ceiling dose where recreational effects are not increased. There is a risk of seizures at doses over 300mg or less for indivudals predisposed. Tramadol decreases the seizure threshold. Caution is strongly recommended. Dosing insufflated is ineffective.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-250mg",
+    "Heavy": "250-400mg",
+    "Light": "50-100mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-7"
+  },
+  "formatted_effects": [
+   "euphoria",
+   "elevated mood",
+   "overall feeling of contentedness",
+   "itching",
+   "drowsiness",
+   "vomiting",
+   "urinary retention",
+   "nausea",
+   "constipation",
+   "seizures"
+  ],
+  "formatted_onset": {
+   "_unit": "hours",
+   "value": "1"
+  },
+  "name": "tramadol",
+  "pretty_name": "Tramadol",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "tram"
+   ],
+   "avoid": "benzos, alcohol, and other opiates",
+   "bioavailability": "Oral 68-72% | Rectal 77%",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "depressant",
+    "common"
+   ],
+   "dose": "Oral Light: 50-100mg  Common:  100-250mg  Heavy: 250-400mg | NOTE: Tramadol has a ceiling dose where recreational effects are not increased. There is a risk of seizures at doses over 300mg or less for individuals predisposed. Tramadol decreases the seizure threshold. Caution is strongly recommended. Dosing insufflated is ineffective.",
+   "duration": "5-7 hours",
+   "effects": "euphoria, elevated mood, overall feeling of contentedness, itching, drowsiness, vomiting, urinary retention, nausea, constipation, seizures",
+   "onset": "1 hour first effects, reaching peak blood concentration at 4 hours.",
+   "summary": "A synthetic opioid analgesic, tramadol is used to treat moderate pain and can be considered a medium-strength opioid. Tramadol has the unusual effect of being a serotonin releasing agent and a serotonin reuptake inhibitor. As a consequence, care should be taken to not ingest tramadol in excess due to the risk of serotonin syndrome. There is a risk of seizures at doses over 300mg or less for individuals predisposed."
+  },
+  "pweffects": {
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Constipation": "https://psychonautwiki.org/wiki/Constipation",
+   "Cough suppression": "https://psychonautwiki.org/wiki/Cough_suppression",
+   "Difficulty urinating": "https://psychonautwiki.org/wiki/Difficulty_urinating",
+   "Itchiness": "https://psychonautwiki.org/wiki/Itchiness",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Pain relief": "https://psychonautwiki.org/wiki/Pain_relief",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Pupil constriction": "https://psychonautwiki.org/wiki/Pupil_constriction",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration"
+  },
+  "sources": {
+   "_general": [
+    "High-concentration tramadol-induced vasodilation in rabbit aorta is mediated by both endothelium-dependent and -independent mechanisms - http://www.ncbi.nlm.nih.gov/pubmed/12740170",
+    "Supra-additive effects of tramadol and acetaminophen in a human pain model - http://www.ncbi.nlm.nih.gov/pubmed/17709207",
+    "Opioid and nonopioid components independently contribute to the mechanism of action of tramadol making it 'atypical' - http://jpet.aspetjournals.org/content/260/1/275.short"
+   ]
+  }
+ }
+}

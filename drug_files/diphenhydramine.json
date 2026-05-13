@@ -1,0 +1,1085 @@
+{
+ "diphenhydramine": {
+  "aliases": [
+   "diphenhydramine",
+   "dph",
+   "benadryl"
+  ],
+  "categories": [
+   "depressant",
+   "deliriant",
+   "common"
+  ],
+  "combos": {
+   "alcohol": {
+    "note": "The two substances potentiate each other strongly and unpredictably, and may rapidly lead to unconsciousness. They both increase each other's side effects such as ataxia, sedation, and CNS depression. Blackouts and memory loss are significantly increased. If the user falls unconscious while under the influence there is a severe risk of vomit aspiration if they are not placed in the recovery position. Alcohol may also increase the deliriant effects of diphenhydramine. It should also be noted if the individual consuming alcohol typically has a flushing response to alcohol, diphenhydramine may reduce the reaction and mask some of the effects of the alcohol.",
+    "sources": [
+     {
+      "author": "ScienceDirect",
+      "title": "Diphenhydramine - an overview (2024)",
+      "url": "https://www.sciencedirect.com/topics/chemistry/diphenhydramine"
+     },
+     {
+      "author": "ScienceDirect",
+      "title": "Ethanol - an overview (2024)",
+      "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/ethanol"
+     },
+     {
+      "author": "Miller, N. S., Goodwin, D. W., Jones, F. C., Gabrielli, W. F., Pardo, M. P., Anand, M. M., & Hall, T. B.",
+      "title": "Antihistamine blockade of alcohol-induced flushing in orientals. Journal of Studies on Alcohol, 49(1), 16-20 (1988)",
+      "url": "https://doi.org/10.15288/jsa.1988.49.16"
+     },
+     {
+      "author": "Sicari, V., & Zabbo, C. P.",
+      "title": "Diphenhydramine. In StatPearls. StatPearls Publishing (2024)",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+     },
+     {
+      "author": "Weathermon, R., & Crabb, D. W.",
+      "title": "Alcohol and Medication Interactions. Alcohol Research & Health, 23(1), 40-54 (1999)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6761694/"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "amphetamines": {
+    "note": "Amphetamines as a stimulant may mask some of the negative side effects of DPH, leading to delusions of sobriety which has additional concern in states of delirium. The combination of stimulants will increase strain on the heart and may cause some physical discomfort, and has the chance to cause life-threatening cardiovascular issues. The combination may also increase each other's neurotoxicity at higher dosages. The combination may increase anxiety levels and risks of thought loops on higher dosages, in addition to increasing each others negative side effects. Medical and common dosages of each substances are reported to not be a concern. Additionally, it is suggested that DPH potentiates amphetamine psychomotor activation, in addition to other interactions such as potentiation through inhibition of CYP2D6 and histamine H1 and H2 receptors, among other alterations.",
+    "sources": [
+     {
+      "author": "Berman, S. M.; Kuczenski, R.; McCracken, J. T.; London, E. D.",
+      "title": "Potential adverse effects of amphetamine treatment on brain and behavior: a review. Molecular Psychiatry, 14(2), 123\u2013142 (2009)",
+      "url": "https://doi.org/10.1038/mp.2008.90"
+     },
+     {
+      "author": "Clark, J. H.; Meltzer, E. O.; Naclerio, R. M.",
+      "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027 (2025)",
+      "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+     },
+     {
+      "author": "Martin, D.; Le, J. K.",
+      "title": "Amphetamine. In StatPearls. StatPearls Publishing (2025)",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK556103/"
+     },
+     {
+      "author": "McAtee, K. J.; Brillhart, D.; Barbuto, A. F.; Hiller, H. M.",
+      "title": "Wide complex tachycardia secondary to massive diphenhydramine overdose: a case report. Journal of Emergency and Critical Care Medicine, 6 (2022)",
+      "url": "https://doi.org/10.21037/jeccm-21-33"
+     },
+     {
+      "author": "Mohs, R. C.; Tinklenberg, J. R.; Roth, W. T.; Kopell, B. S.",
+      "title": "Methamphetamine and diphenhydramine effects on the rate of cognitive processing. Psychopharmacology (1978)",
+      "url": "https://doi.org/10.1007/BF00428024"
+     },
+     {
+      "author": "Okuda, T.; Ito, Y.; Nakagawa, N.; Hishinuma, T.; Tsukamoto, H.; Iwabuchi, K.; Watanabe, T.; Kitaichi, K.; Goto, J.; Yanai, K.",
+      "title": "Drug interaction between methamphetamine and antihistamines: behavioral changes and tissue concentrations of methamphetamine in rats. European Journal of Pharmacology, 505(1), 135\u2013144 (2004)",
+      "url": "https://doi.org/10.1016/j.ejphar.2004.10.022"
+     },
+     {
+      "author": "Sicari, V.; Patel, P.; Zabbo, C. P.",
+      "title": "Diphenhydramine. In StatPearls. StatPearls Publishing (2025)",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+     },
+     {
+      "author": "Steinkellner, T.; Freissmuth, M.; Sitte, H. H.; Montgomery, T.",
+      "title": "The ugly side of amphetamines: short- and long-term toxicity of MDMA, methamphetamine and d-amphetamine. Biological Chemistry, 392(0) (2011)",
+      "url": "https://doi.org/10.1515/BC.2011.016"
+     },
+     {
+      "author": "Vasan, S.; Murray, B. P.; Olango, G. J.",
+      "title": "Amphetamine Toxicity. In StatPearls. StatPearls Publishing (2025)",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK470276/"
+     }
+    ],
+    "status": "Caution"
+   },
+   "benzodiazepines": {
+    "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely. Low medical doses are unlikely to be of concern.",
+    "sources": [
+     {
+      "author": "Bounds, Connor G., and Preeti Patel. (2025)",
+      "title": "Benzodiazepines. StatPearls, StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK470159/"
+     },
+     {
+      "author": "Montoro, J., et al. (2013)",
+      "title": "H1 Antihistamines and Benzodiazepines. Pharmacological Interactions and Their Impact on Cerebral Function. Journal of Investigational Allergology & Clinical Immunology, 23 Suppl 1, 17\u201326.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24672891/"
+     },
+     {
+      "author": "Sicari, Vincent, et al. (2025)",
+      "title": "Diphenhydramine. StatPearls, StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+     }
+    ],
+    "status": "Unsafe"
+   },
+   "caffeine": {
+    "note": "Caffeine as a stimulant may mask some negative side effects of DPH, leading to delusions of sobriety, which has additional concerns in states of delirium. The combination of stimulants will increase strain on the heart and may cause some physical discomfort, and has the chance to cause cardiovascular issues such as complex tachycardia. The combination may increase anxiety levels and risks of thought loops at higher dosages, in addition to increasing each other's negative side effects. Medical dosages are reported to not be a concern.",
+    "sources": [
+     {
+      "author": "Clark, J. H.; Meltzer, E. O.; Naclerio, R. M. (2025)",
+      "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027.",
+      "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+     },
+     {
+      "author": "Evans, J.; Richards, J. R.; Battisti, A. S. (2025)",
+      "title": "Caffeine. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK519490/"
+     },
+     {
+      "author": "McAtee, K. J.; Brillhart, D.; Barbuto, A. F.; Hiller, H. M. (2022)",
+      "title": "Wide complex tachycardia secondary to massive diphenhydramine overdose: a case report. Journal of Emergency and Critical Care Medicine, 6(0).",
+      "url": "https://doi.org/10.21037/jeccm-21-33"
+     },
+     {
+      "author": "Murray, A.; Traylor, J. (2025)",
+      "title": "Caffeine Toxicity. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK532910/"
+     },
+     {
+      "author": "Institute of Medicine (US) Committee on Military Nutrition Research (2001)",
+      "title": "Pharmacology of Caffeine. In Caffeine for the Sustainment of Mental Task Performance: Formulations for Military Operations. National Academies Press (US).",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK223808/"
+     },
+     {
+      "author": "Sicari, V.; Patel, P.; Zabbo, C. P. (2025)",
+      "title": "Diphenhydramine. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+     },
+     {
+      "author": "Tharion, W. J.; Kobrick, J. L.; Lieberman, H. R.; Fine, B. J. (1993)",
+      "title": "Effects of caffeine and diphenhydramine on auditory evoked cortical potentials. Perceptual and Motor Skills, 76(3 Pt 1), 707\u2013715.",
+      "url": "https://doi.org/10.2466/pms.1993.76.3.707"
+     }
+    ],
+    "status": "Caution"
+   },
+   "cocaine": {
+    "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If cocaine wears off first, recreational dosages of DPH may overcome the individual and cause respiratory arrest. Both substances at recreational dosages strain the heart and may lead to further dangerous heart complications. When taken together, both substances can potentially be more reinforcing and have greater risk of methemoglobinemia when higher dosages of DPH are combined with cocaine.",
+    "sources": [
+     {
+      "author": "Alanazi, M. Q.",
+      "title": "Drugs may be Induced Methemoglobinemia. Journal of Hematology & Thromboembolic Diseases, 06(01). (2017)",
+      "url": "https://doi.org/10.4172/2329-8790.1000270"
+     },
+     {
+      "author": "Banks, M. L., Andersen, M. L., Murnane, K. S., Meyer, R. C., & Howell, L. L.",
+      "title": "Behavioral and neurochemical effects of cocaine and diphenhydramine combinations in rhesus monkeys. Psychopharmacology, 205(3), 467\u2013474. (2009)",
+      "url": "https://doi.org/10.1007/s00213-009-1555-y"
+     },
+     {
+      "author": "chrisn",
+      "title": "Diphenhydramine [Online post]. Drug-Forum. (2021)",
+      "url": "https://drugs-forum.com/wiki/Diphenhydramine"
+     },
+     {
+      "author": "Eshmandi, M., Mohamed, A., Khalil, B., & Belhaj, A.",
+      "title": "Methaemoglobinaemia Associated With Mixed Cocaine and Amphetamine Overdose: A Case Report. Cureus, 16(1), e51748. (2024)",
+      "url": "https://doi.org/10.7759/cureus.51748"
+     },
+     {
+      "author": "Karch, S. B. ",
+      "title": "Diphenhydramine toxicity: comparisons of postmortem findings in diphenhydramine-, cocaine-, and heroin-related deaths. The American Journal of Forensic Medicine and Pathology, 19(2), 143\u2013147. (1998)",
+      "url": "https://doi.org/10.1097/00000433-199806000-00008"
+     },
+     {
+      "author": "Pennefather, J. N.",
+      "title": "The effects pf cocaine and diphenhydramine upon the reactivity of rat vas deferens to supramaximal doses of noradrenaline and of other agonists: The mode of action of cocaine. European Journal of Pharmacology, 35(2), 333\u2013339. (1976)",
+      "url": "https://doi.org/10.1016/0014-2999(76)90236-3"
+     },
+     {
+      "author": "Pergolizzi, J. V., Magnusson, P., LeQuang, J. A. K., Breve, F., & Varrassi, G.",
+      "title": "Cocaine and Cardiotoxicity: A Literature Review. Cureus, 13(4), e14594. (2021)",
+      "url": "https://doi.org/10.7759/cureus.14594"
+     },
+     {
+      "author": "Sicari, V., Patel, P., & Zabbo, C. P.",
+      "title": "Diphenhydramine. In StatPearls. StatPearls Publishing. (2025)",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+     },
+     {
+      "author": "Tanda, G., Kopajtic, T. A., & Katz, J. L.",
+      "title": "Cocaine-Like Neurochemical Effects of Antihistaminic Medications. Journal of Neurochemistry, 106(1), 147\u2013157. (2008)",
+      "url": "https://doi.org/10.1111/j.1471-4159.2008.05361.x"
+     },
+     {
+      "author": "Wang, Z., & Woolverton, W. L.",
+      "title": "Self-administration of cocaine-antihistamine combinations: Super-additive reinforcing effects. European Journal of Pharmacology, 557(2\u20133), 159\u2013160. (2007)",
+      "url": "https://doi.org/10.1016/j.ejphar.2006.11.056"
+     },
+     {
+      "author": "Wang, Z., & Woolverton, W. L.",
+      "title": "Super-additive interaction of the reinforcing effects of cocaine and H1-antihistamines in rhesus monkeys. Pharmacology Biochemistry and Behavior, 91(4), 590\u2013595. (2009)",
+      "url": "https://doi.org/10.1016/j.pbb.2008.09.013"
+     },
+     {
+      "author": "Weichert, I.",
+      "title": "Acute Management of Cocaine-Associated Methaemoglobinaemia. Case Reports in Medicine, 2011, 1\u20133. (2011)",
+      "url": "https://doi.org/10.1155/2011/136396"
+     }
+    ],
+    "status": "Caution"
+   },
+   "dextromethorphan": {
+    "note": "The combination is reported to reduce the side effects of each drug and potentiate many of the recreational effects. There is a significant risk of serotonin syndrome, increased delirium, CNS depression, cognitive inhibition, risk of physical injury, hyperthermia, mania, paranoia, and psychosis, especially at higher dosages. There is an additional concern of tachycardia, hypertension, and in extreme cases, heart failure. Diphenhydramine is reported to inhibit the CYP2D6 enzyme which can increase levels of DXM. Medical dosages are not reported to be a concern. Caution is strongly recommended with this combination.",
+    "sources": [
+     {
+      "author": "Abdul Manap, Wright, Gregory, Rostami\u2010Hodjegan, Meller, Kelm, Lennard, Tucker, & Morice. (1999)",
+      "title": "The antitussive effect of dextromethorphan in relation to CYP2D6 activity. British Journal of Clinical Pharmacology, 48(3), 382\u2013387.",
+      "url": "https://doi.org/10.1046/j.1365-2125.1999.00029.x"
+     },
+     {
+      "author": "Akutsu, T., Kobayashi, K., Sakurada, K., Ikegaya, H., Furihata, T., & Chiba, K. (2007)",
+      "title": "Identification of human cytochrome p450 isozymes involved in diphenhydramine N-demethylation. Drug Metabolism and Disposition: The Biological Fate of Chemicals, 35(1), 72\u201378.",
+      "url": "https://doi.org/10.1124/dmd.106.012088"
+     },
+     {
+      "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M. (2025)",
+      "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027.",
+      "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+     },
+     {
+      "author": "Crazy Steve. (2004)",
+      "title": "Mind Expansion: An Experience with DXM & Diphenhydramine (exp33999). Erowid.org.",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=33999"
+     },
+     {
+      "author": "De Leon, J., & Nikoloff, D. M. (2008)",
+      "title": "Paradoxical Excitation on Diphenhydramine May Be Associated with Being a CYP2D6 Ultrarapid Metabolizer: Three Case Reports. CNS Spectrums, 13(2), 133\u2013135.",
+      "url": "https://doi.org/10.1017/S109285290001628X"
+     },
+     {
+      "author": "Hamelin, B. (2000a)",
+      "title": "Significant interaction between the nonprescription antihistamine diphenhydramine and the CYP2D6 substrate metoprolol in healthy men with high or low CYP2D6 activity. Clinical Pharmacology & Therapeutics, 67(5), 466\u2013477.",
+      "url": "https://doi.org/10.1067/mcp.2000.106464"
+     },
+     {
+      "author": "HANS. (2022)",
+      "title": "First Overdose: An Experience with DXM & Diphenhydramine (exp116238). Erowid.org.",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=116238"
+     },
+     {
+      "author": "Jun, J. H., Thorndike, E. B., & Schindler, C. W. (2004a)",
+      "title": "Abuse liability and stimulant properties of dextromethorphan and diphenhydramine combinations in rats. Psychopharmacology, 172(3), 277\u2013282.",
+      "url": "https://doi.org/10.1007/s00213-003-1650-4"
+     },
+     {
+      "author": "Josie Kins",
+      "title": "The DXM and DPH combination, broken down and described",
+      "url": "https://disregardeverythingisay.com/post/39670297758/the-dxm-and-dph-combination-broken-down-and"
+     },
+     {
+      "author": "Lessard, E., Yessine, M. A., Hamelin, B. A., Gauvin, C., Labb\u00e9, L., O\u2019Hara, G., LeBlanc, J., & Turgeon, J. (2001)",
+      "title": "Diphenhydramine alters the disposition of venlafaxine through inhibition of CYP2D6 activity in humans. Journal of Clinical Psychopharmacology, 21(2), 175\u2013184.",
+      "url": "https://doi.org/10.1097/00004714-200104000-00009"
+     },
+     {
+      "author": "Psychonaut Wiki",
+      "title": "DXM & DPH",
+      "url": "https://psychonautwiki.org/wiki/DXM_%26_DPH"
+     },
+     {
+      "author": "Romanelli, F., & Smith, K. M. (2009)",
+      "title": "Dextromethorphan abuse: Clinical effects and management. Journal of the American Pharmacists Association, 49(2), e20\u2013e27.",
+      "url": "https://doi.org/10.1331/JAPhA.2009.08091"
+     },
+     {
+      "author": "Schwartz, A. R., Pizon, A. F., & Brooks, D. E. (2008)",
+      "title": "Dextromethorphan-induced serotonin syndrome. Clinical Toxicology, 46(8), 771\u2013773.",
+      "url": "https://doi.org/10.1080/15563650701668625"
+     },
+     {
+      "author": "The Salvia Shaman. (2025)",
+      "title": "Delirium Visions and Teleportation: An Experience with DXM & Diphenhydramine (exp113902). Erowid.org.",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=113902"
+     },
+     {
+      "author": "u/syrup_ben_goed (n.d.)",
+      "title": "The \"right way\" to do DXM + DPH combo, from an experienced user",
+      "url": "https://www.reddit.com/r/Drugs/comments/ajlupr/the_right_way_to_do_dxm_dph_comb"
+     }
+    ],
+    "status": "Unsafe"
+   },
+   "dmt": {
+    "note": "At 25-50mg, DPH may assist with side effects of the DMT such as nausea and anxiety. At higher dosages, the combination of a deliriant (DPH) and DMT is cautioned against. DMT is likely to increase the deliriant and negative effects of DPH, in addition to increasing the risk of severe injury and mental trauma.",
+    "sources": [
+     {
+      "author": "Carbonaro, T. M., & Gatch, M. B. (2016)",
+      "title": "Neuropharmacology of N,N-Dimethyltryptamine. Brain Research Bulletin, 126(Pt 1), 74\u201388.",
+      "url": "https://doi.org/10.1016/j.brainresbull.2016.04.016"
+     },
+     {
+      "author": "Chapy, H., Smirnova, M., Andr\u00e9, P., Schlatter, J., Chiadmi, F., Couraud, P.-O., Scherrmann, J.-M., Decl\u00e8ves, X., & Cisternino, S. (2014)",
+      "title": "Carrier-Mediated Cocaine Transport at the Blood-Brain Barrier as a Putative Mechanism in Addiction Liability. International Journal of Neuropsychopharmacology, 18(1), pyu001.",
+      "url": "https://doi.org/10.1093/ijnp/pyu001"
+     },
+     {
+      "author": "Schaefer, T. S., Patel, P., & Zito, P. M. (2025)",
+      "title": "Antiemetic Histamine H1 Receptor Blockers. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK533003/"
+     },
+     {
+      "author": "Schifano, F., Chiappini, S., Miuli, A., Mosca, A., Santovito, M. C., Corkery, J. M., Guirguis, A., Pettorruso, M., Di Giannantonio, M., & Martinotti, G. (2021)",
+      "title": "Focus on Over-the-Counter Drugs\u2019 Misuse: A Systematic Review on Antihistamines, Cough Medicines, and Decongestants. Frontiers in Psychiatry, 12, 657397.",
+      "url": "https://doi.org/10.3389/fpsyt.2021.657397"
+     },
+     {
+      "author": "Wolfson, A. R., Wong, D., Abrams, E. M., Waserman, S., & Sussman, G. L. (2022)",
+      "title": "Diphenhydramine: Time to Move on? The Journal of Allergy and Clinical Immunology: In Practice, 10(12), 3124\u20133130.",
+      "url": "https://doi.org/10.1016/j.jaip.2022.07.018"
+     }
+    ],
+    "status": "Caution"
+   },
+   "dox": {
+    "note": "At 25-50mg, DPH may assist with side effects of DOx drugs such as nausea and anxiety. At higher dosages, the combination of a deliriant (DPH) and DOx drugs is cautioned against. DOx drugs are likely to increase the deliriant and negative effects of DPH, in addition to increasing the risk of severe injury and mental trauma. DOx drugs and DPH at recreational dosages have additional cardiac concerns such as vasoconstriction, tachycardia, hypertension, which in combination may be exacerbated.",
+    "sources": [
+     {
+      "author": "ScienceDirect Topics (n.d.)",
+      "title": "2,5-Dimethoxy-4-iodoamphetamine - an overview",
+      "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/2-5-dimethoxy-4-iodoamphetamine"
+     },
+     {
+      "author": "Barnett, R. Y., Baker, D. D., Kelly, N. E., McGuire, C. E., Fassette, T. C., & Gorniak, J. M. (2014)",
+      "title": "A Fatal Intoxication of 2,5-Dimethoxy-4-Chloroamphetamine: A Case Report. Journal of Analytical Toxicology, 38(8), 589\u2013591.",
+      "url": "https://doi.org/10.1093/jat/bku087"
+     },
+     {
+      "author": "Burish, M. J., Thoren, K. L., Madou, M., Toossi, S., & Shah, M. (2015)",
+      "title": "Hallucinogens Causing Seizures? A Case Report of the Synthetic Amphetamine 2,5-Dimethoxy-4-Chloroamphetamine. The Neurohospitalist, 5(1), 32\u201334.",
+      "url": "https://doi.org/10.1177/1941874414528939"
+     },
+     {
+      "author": "Schifano, F., Chiappini, S., Miuli, A., Mosca, A., Santovito, M. C., Corkery, J. M., Guirguis, A., Pettorruso, M., Di Giannantonio, M., & Martinotti, G. (2021)",
+      "title": "Focus on Over-the-Counter Drugs\u2019 Misuse: A Systematic Review on Antihistamines, Cough Medicines, and Decongestants. Frontiers in Psychiatry, 12, 657397.",
+      "url": "https://doi.org/10.3389/fpsyt.2021.657397"
+     },
+     {
+      "author": "Trout, K., & Daley, P. F. (2024)",
+      "title": "The origin of 2,5\u2010dimethoxy\u20104\u2010methylamphetamine (DOM, STP). Drug Testing and Analysis, 16(12), 1496\u20131508.",
+      "url": "https://doi.org/10.1002/dta.3667"
+     },
+     {
+      "author": "Wolfson, A. R., Wong, D., Abrams, E. M., Waserman, S., & Sussman, G. L. (2022)",
+      "title": "Diphenhydramine: Time to Move on? The Journal of Allergy and Clinical Immunology: In Practice, 10(12), 3124\u20133130.",
+      "url": "https://doi.org/10.1016/j.jaip.2022.07.018"
+     }
+    ],
+    "status": "Caution"
+   },
+   "ghb/gbl": {
+    "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
+    "sources": [
+     {
+      "author": "William J Tharion, Donna J. McMenemy, Terry M. Rauch",
+      "title": "Antihistamine Effects on the Central Nervous System, Cognitive Performance and Subjective States. ",
+      "url": "https://doi.org/10.1159/000119069"
+     },
+     {
+      "author": "Sicari V, Zabbo CP. Diphenhydramine.",
+      "title": "Diphenhydramine",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526010/"
+     },
+     {
+      "author": "Couper FJ, Marinetti LJ.",
+      "title": "\u03b3-Hydroxybutyrate (GHB) - Effects on Human Performance and Behavior ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26256488/"
+     },
+     {
+      "author": "Busard\u00f2 FP, Jones AW.",
+      "title": "GHB Pharmacology and Toxicology: Acute Intoxication, Concentrations in Blood and Urine in Forensic Cases and Treatment of the Withdrawal Syndrome",
+      "url": "https://doi.org/10.2174%2F1570159X13666141210215423"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "ketamine": {
+    "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Ketamine has a high likelihood of increasing DPH's deliriant effects at higher dosages and can greatly increase the risk of injury, mania, and psychosis. Medical dosages of both substances are unlikely to cause concern.",
+    "sources": [
+     {
+      "author": "Bylund, W., Delahanty, L., & Cooper, M.",
+      "title": "The Case of Ketamine Allergy. Clinical Practice and Cases in Emergency Medicine, 1(4), 323\u2013325. (2017)",
+      "url": "https://doi.org/10.5811/cpcem.2017.7.34405"
+     },
+     {
+      "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M.",
+      "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027. (2025)",
+      "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+     },
+     {
+      "author": "Rosenbaum, S. B., Gupta, V., Patel, P., & Palacios, J. L.",
+      "title": "Ketamine. In StatPearls. StatPearls Publishing. (2025)",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK470357/"
+     },
+     {
+      "author": "Sicari, V., Patel, P., & Zabbo, C. P.",
+      "title": "Diphenhydramine. In StatPearls. StatPearls Publishing. (2025)",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "lithium": {
+    "note": "There is a concern of serotonin syndrome at higher dosages of this combination. Caution is recommended in restricting diphenhydramine to medical dosages (25-50mg). Lithium and diphenhydramine both have concerns of QT prolongation which may be increased when taken in combination; risks increase due to a variety of factors such as the health of the user and drug dosages. Additionally, the combination may increase each drug's side effects, such as dizziness and loss of consciousness.",
+    "sources": [
+     {
+      "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M.",
+      "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027. (2025)",
+      "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+     },
+     {
+      "author": "Crouch, M. A., Limon, L., & Cassano, A. T.",
+      "title": "Clinical Relevance and Management of Drug\u2010Related QT Interval Prolongation. Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy, 23(7), 881\u2013908. (2003)",
+      "url": "https://doi.org/10.1592/phco.23.7.881.32730"
+     },
+     {
+      "author": "Farzam, K., & Tivakaran, V. S.",
+      "title": "QT Prolonging Drugs. In StatPearls. StatPearls Publishing. (2025)",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK534864/"
+     },
+     {
+      "author": "Finley, P. R.",
+      "title": "Drug Interactions with Lithium: An Update. Clinical Pharmacokinetics, 55(8), 925\u2013941. (2016)",
+      "url": "https://doi.org/10.1007/s40262-016-0370-y"
+     },
+     {
+      "author": "Hawley, C. J., Loughlin, P. J., Quick, S. J., Gale, T. M., Sivakumaran, T., Hayes, J., & McPhee, S.",
+      "title": "Efficacy, safety and tolerability of combined administration of lithium and selective serotonin reuptake inhibitors: a review of the current evidence. International Clinical Psychopharmacology, 15(4), 197\u2013206. (2000)",
+      "url": "https://doi.org/10.1097/00004850-200015040-00002"
+     },
+     {
+      "author": "Husain, Z., Hussain, K., Nair, R., & Steinman, R.",
+      "title": "Diphenhydramine induced QT prolongation and torsade de pointes: An uncommon effect of a common drug. Cardiology Journal, 17(5), 509\u2013511. (2010)",
+      "url": "https://journals.viamedica.pl/cardiology_journal/article/view/21341"
+     },
+     {
+      "author": "Khan, S., Saud, S., Khan, I., Asif, M., Ismail, O., Salam, A., Yang, T. J., & Norville, K. J.",
+      "title": "Serotonin Syndrome Presenting with Concomitant Tramadol and Diphenhydramine Use: A Case Report of an Unlikely Side-Effect. Cureus. (2018)",
+      "url": "https://doi.org/10.7759/cureus.2421"
+     },
+     {
+      "author": "Massot, O., Rousselle, J.-C., Fillion, M.-P., Januel, D., Plantefol, M., & Fillion, G.",
+      "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders. Neuropsychopharmacology, 21(4), 530\u2013541. (1999)",
+      "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+     },
+     {
+      "author": "Mehta, N., & Vannozzi, R.",
+      "title": "Lithium\u2010induced electrocardiographic changes: A complete review. Clinical Cardiology, 40(12), 1363\u20131367. (2017)",
+      "url": "https://doi.org/10.1002/clc.22822"
+     },
+     {
+      "author": "M\u00fcller-Oerlinghausen, B.",
+      "title": "Drug Interactions with Lithium: A Guide for Clinicians. CNS Drugs, 11(1), 41\u201348. (1999)",
+      "url": "https://doi.org/10.2165/00023210-199911010-00004"
+     },
+     {
+      "author": "Rosenberg, A. E., Wang, R., & Rosenberg, M. H.",
+      "title": "Serotonin Syndrome Associated With High-dose Diphenhydramine Use Complicating Abdominoplasty and Mastopexy. Plastic and Reconstructive Surgery - Global Open, 13(3), e6634. (2025)",
+      "url": "https://doi.org/10.1097/GOX.0000000000006634"
+     },
+     {
+      "author": "Truedson, P., Ott, M., Lindmark, K., Str\u00f6m, M., Maripuu, M., Lundqvist, R., & Werneke, U.",
+      "title": "Effects of Toxic Lithium Levels on ECG\u2014Findings from the LiSIE Retrospective Cohort Study. Journal of Clinical Medicine, 11(19), 5941. (2022)",
+      "url": "https://doi.org/10.3390/jcm11195941"
+     }
+    ],
+    "status": "Caution"
+   },
+   "lsd": {
+    "note": "At 25-50mg, DPH may assist with side effects of the LSD such as nausea and anxiety. At higher dosages, the combination of a deliriant (DPH) and LSD is cautioned against. LSD is likely to increase the deliriant and negative effects of DPH, in addition to increasing the risk of severe injury and mental trauma. LSD and DPH at recreational dosages have additional cardiac concerns such as vasoconstriction, tachycardia, hypertension, which in combination may be exacerbated.",
+    "sources": [
+     {
+      "author": "Marraffa, J. M. (2014)",
+      "title": "Drugs of Abuse. In Encyclopedia of Toxicology (pp. 248\u2013251). Elsevier.",
+      "url": "https://doi.org/10.1016/B978-0-12-386454-3.00684-9"
+     },
+     {
+      "author": "Passie, T., Halpern, J. H., Stichtenoth, D. O., Emrich, H. M., & Hintzen, A. (2008)",
+      "title": "The Pharmacology of Lysergic Acid Diethylamide: A Review. CNS Neuroscience & Therapeutics, 14(4), 295\u2013314.",
+      "url": "https://doi.org/10.1111/j.1755-5949.2008.00059.x"
+     },
+     {
+      "author": "Schaefer, T. S., Patel, P., & Zito, P. M. (2025)",
+      "title": "Antiemetic Histamine H1 Receptor Blockers. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK533003/"
+     },
+     {
+      "author": "Schifano, F., Chiappini, S., Miuli, A., Mosca, A., Santovito, M. C., Corkery, J. M., Guirguis, A., Pettorruso, M., Di Giannantonio, M., & Martinotti, G. (2021)",
+      "title": "Focus on Over-the-Counter Drugs\u2019 Misuse: A Systematic Review on Antihistamines, Cough Medicines, and Decongestants. Frontiers in Psychiatry, 12, 657397.",
+      "url": "https://doi.org/10.3389/fpsyt.2021.657397"
+     },
+     {
+      "author": "The drugs of misuse. (2009)",
+      "title": "In Auricular Acupuncture & Addiction (pp. 93\u2013135). Elsevier.",
+      "url": "https://doi.org/10.1016/B978-0-443-06885-0.50018-5"
+     },
+     {
+      "author": "Wolfson, A. R., Wong, D., Abrams, E. M., Waserman, S., & Sussman, G. L. (2022)",
+      "title": "Diphenhydramine: Time to Move on? The Journal of Allergy and Clinical Immunology: In Practice, 10(12), 3124\u20133130.",
+      "url": "https://doi.org/10.1016/j.jaip.2022.07.018"
+     }
+    ],
+    "status": "Caution"
+   },
+   "maois": {
+    "note": "There is a significant risk of serotonin syndrome with this combination. Monoamine oxidase A inhibitors may extend and increase the anticholinergic effects of DPH. The combination increases each other\u2019s side effects, such as drowsiness, dizziness, dry mouth, and headaches. Medical dosages are not reported to be of concern.",
+    "sources": [
+     {
+      "author": "Adawi Awdish, R. L., Whitmill, M., Coba, V., & Killu, K. (2008)",
+      "title": "Serotonin Reuptake Inhibition by Diphenhydramine and concomitant Linezolid use can result in Serotonin Syndrome Chest, 134(4), 4C.",
+      "url": "https://doi.org/10.1378/chest.134.4_MeetingAbstracts.c4002"
+     },
+     {
+      "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M. (2025)",
+      "title": "Diphenhydramine: It is time to say a final goodbye. The World Allergy Organization Journal, 18(2), 101027.",
+      "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+     },
+     {
+      "author": "Edinoff, A. N., Swinford, C. R., Odisho, A. S., Burroughs, C. R., Stark, C. W., Raslan, W. A., Cornett, E. M., Kaye, A. M., & Kaye, A. D. (n.d.)",
+      "title": "Clinically Relevant Drug Interactions with Monoamine Oxidase Inhibitors. Health Psychology Research, 10(4), 39576.",
+      "url": "https://doi.org/10.52965/001c.39576"
+     },
+     {
+      "author": "Gillman, P. K. (2005)",
+      "title": "Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity. British Journal of Anaesthesia, 95(4), 434\u2013441.",
+      "url": "https://doi.org/10.1093/bja/aei210"
+     },
+     {
+      "author": "Khan, S., Saud, S., Khan, I., Asif, M., Ismail, O., Salam, A., Yang, T. J., & Norville, K. J. (2018)",
+      "title": "Serotonin Syndrome Presenting with Concomitant Tramadol and Diphenhydramine Use: A Case Report of an Unlikely Side-Effect. Cureus.",
+      "url": "https://doi.org/10.7759/cureus.2421"
+     },
+     {
+      "author": "L\u00f3pez-\u00c1lvarez, J., Sevilla-Llewellyn-Jones, J., & Ag\u00fcera-Ortiz, L. (2019)",
+      "title": "Anticholinergic Drugs in Geriatric Psychopharmacology. Frontiers in Neuroscience, 13, 1309.",
+      "url": "https://doi.org/10.3389/fnins.2019.01309"
+     },
+     {
+      "author": "Sub Laban, T., & Saadabadi, A. (2025)",
+      "title": "Monoamine Oxidase Inhibitors (MAOI). In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK539848/"
+     }
+    ],
+    "status": "Unsafe"
+   },
+   "mephedrone": {
+    "note": "There is a high risk of serotonin syndrome at recreational dosages. Both can dull each other's effects, so if one wears off before the other it's possible to overdose due to the lack of counteraction. Medical dosages are reported not to be a concern for the general population. Both substances affect the heart and may lead to further dangerous heart complications at higher dosages. The combination may increase each other's side effects, such as dizziness and drowsiness. At higher dosages, the combination may increase each other's side effects, such as delirium, mania, and psychosis.",
+    "sources": [
+     {
+      "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M.",
+      "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027 (2025)",
+      "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+     },
+     {
+      "author": "Ener, R. A., Meglathery, S. B., Decker, W. A. V., & Gallagher, R. M.",
+      "title": "Serotonin Syndrome and Other Serotonergic Disorders: Table 1. Pain Medicine, 4(1), 63-74 (2003)",
+      "url": "https://doi.org/10.1046/j.1526-4637.2003.03005.x"
+     },
+     {
+      "author": "Hadlock, G. C., Webb, K. M., McFadden, L. M., Chu, P. W., Ellis, J. D., Allen, S. C., Andrenyak, D. M., Vieira-Brock, P. L., German, C. L., Conrad, K. M., Hoonakker, A. J., Gibb, J. W., Wilkins, D. G., Hanson, G. R., & Fleckenstein, A. E.",
+      "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse. The Journal of Pharmacology and Experimental Therapeutics, 339(2), 530-536 (2011)",
+      "url": "https://doi.org/10.1124/jpet.111.184119"
+     },
+     {
+      "author": "Kehr, J., Ichinose, F., Yoshitake, S., Goiny, M., Sievertsson, T., Nyberg, F., & Yoshitake, T.",
+      "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats: Mephedrone increases both DA and 5-HT in rat brain. British Journal of Pharmacology, 164(8), 1949-1958 (2011)",
+      "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+     },
+     {
+      "author": "Meng, H., Cao, J., Kang, J., Ying, X., Ji, J., Reynolds, W., & Rampe, D.",
+      "title": "Mephedrone, a new designer drug of abuse, produces acute hemodynamic effects in the rat. Toxicology Letters, 208(1), 62-68 (2012)",
+      "url": "https://doi.org/10.1016/j.toxlet.2011.10.010"
+     },
+     {
+      "author": "Varghese, E., Abate, M. A., Hu, L., Kaplan, J., Kraner, J., Long, D. L., Sorg, M., Mock, A., Greenwald, M., & Andrew, T.",
+      "title": "Characterization of Diphenhydramine-Related Accidental Overdose Deaths. Academic Forensic Pathology, 5(1), 105-115 (2015)",
+      "url": "https://doi.org/10.23907/2015.011"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "mescaline": {
+    "note": "At 25-50mg, DPH may assist with side effects of the mescaline such as nausea and anxiety. At higher dosages, the combination of a deliriant (DPH) and mescaline is cautioned against. Mescaline is likely to increase the deliriant and negative effects of DPH, in addition to increasing the risk of severe injury and mental trauma.",
+    "sources": [
+     {
+      "author": "Dinis-Oliveira, R. J., Pereira, C. L., & Dias da Silva, D. (2019)",
+      "title": "Pharmacokinetic and Pharmacodynamic Aspects of Peyote and Mescaline: Clinical and Forensic Repercussions. Current Molecular Pharmacology, 12(3), 184\u2013194.",
+      "url": "https://doi.org/10.2174/1874467211666181010154139"
+     },
+     {
+      "author": "ScienceDirect Topics. (n.d.)",
+      "title": "Mescaline - an overview.",
+      "url": "https://www.sciencedirect.com/topics/neuroscience/mescaline"
+     },
+     {
+      "author": "Schaefer, T. S., Patel, P., & Zito, P. M. (2025)",
+      "title": "Antiemetic Histamine H1 Receptor Blockers. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK533003/"
+     },
+     {
+      "author": "Schifano, F., Chiappini, S., Miuli, A., Mosca, A., Santovito, M. C., Corkery, J. M., Guirguis, A., Pettorruso, M., Di Giannantonio, M., & Martinotti, G. (2021)",
+      "title": "Focus on Over-the-Counter Drugs\u2019 Misuse: A Systematic Review on Antihistamines, Cough Medicines, and Decongestants. Frontiers in Psychiatry, 12, 657397.",
+      "url": "https://doi.org/10.3389/fpsyt.2021.657397"
+     },
+     {
+      "author": "Vamvakopoulou, I. A., Narine, K. A. D., Campbell, I., Dyck, J. R. B., & Nutt, D. J. (2023)",
+      "title": "Mescaline: The forgotten psychedelic. Neuropharmacology, 222, 109294.",
+      "url": "https://doi.org/10.1016/j.neuropharm.2022.109294"
+     },
+     {
+      "author": "Wolfson, A. R., Wong, D., Abrams, E. M., Waserman, S., & Sussman, G. L. (2022)",
+      "title": "Diphenhydramine: Time to Move on? The Journal of Allergy and Clinical Immunology: In Practice, 10(12), 3124\u20133130.",
+      "url": "https://doi.org/10.1016/j.jaip.2022.07.018"
+     }
+    ],
+    "status": "Caution"
+   },
+   "mushrooms": {
+    "note": "At 25-50mg, DPH may assist with side effects of the psilocybin such as nausea and anxiety. At higher dosages, the combination of a deliriant (DPH) and psilocybin is cautioned against. Psilocybin is likely to increase the deliriant and negative effects of DPH, in addition to increasing the risk of severe injury and mental trauma.",
+    "sources": [
+     {
+      "author": "Goel, D. B., & Zilate, S. (2022)",
+      "title": "Potential Therapeutic Effects of Psilocybin: A Systematic Review. Cureus, 14(10), e30214.",
+      "url": "https://doi.org/10.7759/cureus.30214"
+     },
+     {
+      "author": "Passie, T., Seifert, J., Schneider, U., & Emrich, H. M. (2002)",
+      "title": "The pharmacology of psilocybin. Addiction Biology, 7(4), 357\u2013364.",
+      "url": "https://doi.org/10.1080/1355621021000005937"
+     },
+     {
+      "author": "Schaefer, T. S., Patel, P., & Zito, P. M. (2025)",
+      "title": "Antiemetic Histamine H1 Receptor Blockers. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK533003/"
+     },
+     {
+      "author": "Schifano, F., Chiappini, S., Miuli, A., Mosca, A., Santovito, M. C., Corkery, J. M., Guirguis, A., Pettorruso, M., Di Giannantonio, M., & Martinotti, G. (2021)",
+      "title": "Focus on Over-the-Counter Drugs\u2019 Misuse: A Systematic Review on Antihistamines, Cough Medicines, and Decongestants. Frontiers in Psychiatry, 12.",
+      "url": "https://doi.org/10.3389/fpsyt.2021.657397"
+     },
+     {
+      "author": "Wolfson, A. R., Wong, D., Abrams, E. M., Waserman, S., & Sussman, G. L. (2022)",
+      "title": "Diphenhydramine: Time to Move on? The Journal of Allergy and Clinical Immunology: In Practice, 10(12), 3124\u20133130.",
+      "url": "https://doi.org/10.1016/j.jaip.2022.07.018"
+     },
+     {
+      "author": "Yerubandi, A., Thomas, J. E., Bhuiya, N. M. M. A., Harrington, C., Villa Zapata, L., & Caballero, J. (2024)",
+      "title": "Acute Adverse Effects of Therapeutic Doses of Psilocybin. JAMA Network Open, 7(4), e245960.",
+      "url": "https://doi.org/10.1001/jamanetworkopen.2024.5960"
+     }
+    ],
+    "status": "Caution"
+   },
+   "mxe": {
+    "note": "There is a high risk of serotonin syndrome from this combination. Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. MXE has a high likelihood of increasing DPH's deliriant effects at higher dosages and can greatly increase the risk of injury, mania, and psychosis. Medical dosages are unlikely to be of concern.",
+    "sources": [
+     {
+      "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M. (2025)",
+      "title": "Diphenhydramine: It is time to say a final goodbye. World Allergy Organization Journal, 18(2), 101027.",
+      "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+     },
+     {
+      "author": "Ener, R. A., Meglathery, S. B., Decker, W. A. V., & Gallagher, R. M. (2003)",
+      "title": "Serotonin Syndrome and Other Serotonergic Disorders: Table 1. Pain Medicine, 4(1), 63\u201374.",
+      "url": "https://doi.org/10.1046/j.1526-4637.2003.03005.x"
+     },
+     {
+      "author": "Marti, M., Talani, G., Miliano, C., Bilel, S., Biggio, F., Bratzu, J., Diana, M., De Luca, M. A., & Fattore, L. (2021)",
+      "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat. Experimental Neurology, 345, 113836.",
+      "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
+     },
+     {
+      "author": "Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., & Iversen, L. (2013)",
+      "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor. PLoS ONE, 8(3), e59334.",
+      "url": "https://doi.org/10.1371/journal.pone.0059334"
+     },
+     {
+      "author": "Varghese, E., Abate, M. A., Hu, L., Kaplan, J., Kraner, J., Long, D. L., Sorg, M., Mock, A., Greenwald, M., & Andrew, T. (2015)",
+      "title": "Characterization of Diphenhydramine-Related Accidental Overdose Deaths. Academic Forensic Pathology, 5(1), 105\u2013115.",
+      "url": "https://doi.org/10.23907/2015.011"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "nbomes": {
+    "note": "At 25-50mg, DPH may assist with side effects of the NBOMe drugs such as nausea and anxiety. At higher dosages, the combination of a deliriant (DPH) and NBOMe drugs is cautioned against. NBOMes are likely to increase the deliriant and negative effects of DPH, in addition to increasing the risk of severe injury and mental trauma. NBOMes and DPH at recreational dosages have additional cardiac concerns such as vasoconstriction, tachycardia, hypertension, which in combination may be exacerbated.",
+    "sources": [
+     {
+      "author": "Kyriakou, C., Marinelli, E., Frati, P., Santurro, A., Afxentiou, M., Zaami, S., & Busardo, F. P. (2015)",
+      "title": "NBOMe: new potent hallucinogens--pharmacology, analytical methods, toxicities, fatalities: a review. European Review for Medical and Pharmacological Sciences, 19(17), 3270\u20133281.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26400534/"
+     },
+     {
+      "author": "Schifano, F., Chiappini, S., Miuli, A., Mosca, A., Santovito, M. C., Corkery, J. M., Guirguis, A., Pettorruso, M., Di Giannantonio, M., & Martinotti, G. (2021)",
+      "title": "Focus on Over-the-Counter Drugs\u2019 Misuse: A Systematic Review on Antihistamines, Cough Medicines, and Decongestants. Frontiers in Psychiatry, 12, 657397.",
+      "url": "https://doi.org/10.3389/fpsyt.2021.657397"
+     },
+     {
+      "author": "Wolfson, A. R., Wong, D., Abrams, E. M., Waserman, S., & Sussman, G. L. (2022)",
+      "title": "Diphenhydramine: Time to Move on? The Journal of Allergy and Clinical Immunology: In Practice, 10(12), 3124\u20133130.",
+      "url": "https://doi.org/10.1016/j.jaip.2022.07.018"
+     },
+     {
+      "author": "Zawilska, J. B., Kacela, M., & Adamowicz, P. (2020)",
+      "title": "NBOMes\u2013Highly Potent and Toxic Alternatives of LSD. Frontiers in Neuroscience, 14, 78.",
+      "url": "https://doi.org/10.3389/fnins.2020.00078"
+     }
+    ],
+    "status": "Caution"
+   },
+   "opioids": {
+    "note": "Both substances are CNS depressants, potentiating each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction will cause greater inhibition and risk of injury. DPH reduces histamine release by opioids, which reduces the itching side effect from opioids. DPH may reduce the nausea caused by opioids. DPH inhibits CYP2D6 activity which can lead to a reduction of effects in some opioids and potentiation of effects in others.",
+    "sources": [
+     {
+      "author": "Akutsu, T., Kobayashi, K., Sakurada, K., Ikegaya, H., Furihata, T., & Chiba, K. (2007)",
+      "title": "Identification of human cytochrome p450 isozymes involved in diphenhydramine N-demethylation. Drug Metabolism and Disposition: The Biological Fate of Chemicals, 35(1), 72\u201378.",
+      "url": "https://doi.org/10.1124/dmd.106.012088"
+     },
+     {
+      "author": "Dinwiddie, A. T., Tanz, L. J., & Bitting, J. (2022)",
+      "title": "Notes from the Field: Antihistamine Positivity and Involvement in Drug Overdose Deaths \u2014 44 Jurisdictions, United States, 2019\u20132020. Morbidity and Mortality Weekly Report, 71(41), 1308\u20131310.",
+      "url": "https://doi.org/10.15585/mmwr.mm7141a4"
+     },
+     {
+      "author": "Gr\u00f6nlund, J., Saari, T. I., Hagelberg, N. M., Neuvonen, P. J., Olkkola, K. T., & Laine, K. (2010)",
+      "title": "Exposure to oral oxycodone is increased by concomitant inhibition of CYP2D6 and 3A4 pathways, but not by inhibition of CYP2D6 alone. British Journal of Clinical Pharmacology, 70(1), 78\u201387.",
+      "url": "https://doi.org/10.1111/j.1365-2125.2010.03653.x"
+     },
+     {
+      "author": "Hamelin, B. (2000)",
+      "title": "Significant interaction between the nonprescription antihistamine diphenhydramine and the CYP2D6 substrate metoprolol in healthy men with high or low CYP2D6 activity. Clinical Pharmacology & Therapeutics, 67(5), 466\u2013477.",
+      "url": "https://doi.org/10.1067/mcp.2000.106464"
+     },
+     {
+      "author": "Heiskanen, T., & Kalso, E. (2012)",
+      "title": "Non-analgesic effects of opioids: interactions between opioids and other drugs. Current Pharmaceutical Design, 18(37), 6079\u20136089.",
+      "url": "https://doi.org/10.2174/138161212803582423"
+     },
+     {
+      "author": "Nahid, N. A., McDonough, C. W., Wei, Y.-J. J., Cicali, E. J., Gong, Y., Fillingim, R. B., & Johnson, J. A. (2024)",
+      "title": "Use of CYP2D6 Inhibitors with CYP2D6 Opioids: Association with Emergency Department Visits for Pain. Clinical Pharmacology and Therapeutics, 116(4), 1005\u20131012.",
+      "url": "https://doi.org/10.1002/cpt.3314"
+     },
+     {
+      "author": "Okutani, H., Lo\u00a0Vecchio, S., & Arendt\u2010Nielsen, L. (2024)",
+      "title": "Mechanisms and treatment of opioid\u2010induced pruritus: Peripheral and central pathways. European Journal of Pain, 28(2), 214\u2013230.",
+      "url": "https://doi.org/10.1002/ejp.2180"
+     },
+     {
+      "author": "Sicari, V., Patel, P., & Zabbo, C. P. (2025)",
+      "title": "Diphenhydramine. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+     },
+     {
+      "author": "Swegle, J. M., & Logemann, C. (2006)",
+      "title": "Management of common opioid-induced adverse effects. American Family Physician, 74(8), 1347\u20131354.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17087429/"
+     },
+     {
+      "author": "Wei, Y.-J. J., Winterstein, A. G., Schmidt, S., Fillingim, R. B., Daniels, M. J., DeKosky, S. T., & Schmidt, S. (2025)",
+      "title": "Association of initiating CYP2D6-metabolized opioids with risks of adverse outcomes in older adults receiving antidepressants: A retrospective cohort study. PLOS Medicine, 22(6), e1004620.",
+      "url": "https://doi.org/10.1371/journal.pmed.1004620"
+     },
+     {
+      "author": "Whitt, A., & Jortani, S. (2023)",
+      "title": "B-337 Case Report: Fatal Opioid Overdose Induced by Over-the-Counter Cold Medication Diphenhydramine. Clinical Chemistry, 69(Supplement_1), hvad097.656.",
+      "url": "https://doi.org/10.1093/clinchem/hvad097.656"
+     }
+    ],
+    "status": "Unsafe"
+   },
+   "pregabalin": {
+    "note": "There is a significant risk of seizures from this combination. The combination is likely to increase each other\u2019s negative side effects, such as nausea, dizziness, and loss of consciousness. At higher dosages, pregabalin is likely to increase diphenhydramine\u2019s deliriant effects, inhibition, and risk of injury. Medical dosages are not reported to be a concern.",
+    "sources": [
+     {
+      "author": "Altair. (n.d.-a)",
+      "title": "Pregabalin (Lyrica) - Erowid Exp - \u201cHeart Arrhythmia, Seizure\u202f: Not Recreational.\u201d",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=69917"
+     },
+     {
+      "author": "Barker-Haliski, M., & White, H. S. (2015)",
+      "title": "Glutamatergic Mechanisms Associated with Seizures and Epilepsy. Cold Spring Harbor Perspectives in Medicine, 5(8), a022863.",
+      "url": "https://doi.org/10.1101/cshperspect.a022863"
+     },
+     {
+      "author": "Ben-Menachem, E. (2004)",
+      "title": "Pregabalin pharmacology and its relevance to clinical practice. Epilepsia, 45 Suppl 6, 13\u201318.",
+      "url": "https://doi.org/10.1111/j.0013-9580.2004.455003.x"
+     },
+     {
+      "author": "Medline Plus Medical Encyclopedia (2023)",
+      "title": "Diphenhydramine overdose",
+      "url": "https://medlineplus.gov/ency/article/002636.htm"
+     },
+     {
+      "author": "Douke, R. (n.d.)",
+      "title": "Pregabalin & Tramadol - Erowid Exp - \u201cGrand Mal Seizures.\u201d",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=83232"
+     },
+     {
+      "author": "Fakhr, M. S., Motamed Chaboki, P., Ashayeri, H., Sahranavard, P., Mohammadipanah, S., & Zamanabadi, M. N. (2023)",
+      "title": "Comparison of the effects of pregabalin and famotidine with pregabalin and diphenhydramine on postoperative abdominal pain. International Journal of Surgery Open, 58, 100674.",
+      "url": "https://doi.org/10.1016/j.ijso.2023.100674"
+     },
+     {
+      "author": "French, J., Kwan, P., Fakhoury, T., Pitman, V., DuBrava, S., Knapp, L., & Yurkewicz, L. (2014)",
+      "title": "Pregabalin monotherapy in patients with partial-onset seizures. Neurology, 82(7), 590\u2013597.",
+      "url": "https://doi.org/10.1212/WNL.0000000000000119"
+     },
+     {
+      "author": "Gayatri, N. A., & Livingston, J. H. (2006)",
+      "title": "Aggravation of epilepsy by anti-epileptic drugs. Developmental Medicine and Child Neurology, 48(5), 394\u2013398.",
+      "url": "https://doi.org/10.1017/S0012162206000843"
+     },
+     {
+      "author": "Hitchings, A. W. (2016)",
+      "title": "Drugs that lower the seizure threshold. Adverse Drug Reaction Bulletin, 298(1), 1151\u20131154.",
+      "url": "https://doi.org/10.1097/FAD.0000000000000016"
+     },
+     {
+      "author": "Isoardi, K. Z., Polkinghorne, G., Harris, K., & Isbister, G. K. (2020)",
+      "title": "Pregabalin poisoning and rising recreational use: a retrospective observational series. British Journal of Clinical Pharmacology, 86(12), 2435\u20132440.",
+      "url": "https://doi.org/10.1111/bcp.14348"
+     },
+     {
+      "author": "Jang, D. H., Manini, A. F., Trueger, N. S., Duque, D., Nestor, N. B., Nelson, L. S., & Hoffman, R. S. (2010)",
+      "title": "Status epilepticus and wide-complex tachycardia secondary to diphenhydramine overdose. Clinical Toxicology, 48(9), 945\u2013948.",
+      "url": "https://doi.org/10.3109/15563650.2010.527850"
+     },
+     {
+      "author": "Kim, H., Kim, S. H., & Kim, J. B. (2021)",
+      "title": "Antihistamines as a common cause of new-onset seizures: a single-center observational study. Neurological Sciences: Official Journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology, 42(6), 2505\u20132508.",
+      "url": "https://doi.org/10.1007/s10072-021-05043-2"
+     },
+     {
+      "author": "Kumar, N., Laferriere, A., Yu, J. S. C., Leavitt, A., & Coderre, T. J. (2010)",
+      "title": "Evidence that pregabalin reduces neuropathic pain by inhibiting the spinal release of glutamate. Journal of Neurochemistry, 113(2), 552\u2013561.",
+      "url": "https://doi.org/10.1111/j.1471-4159.2010.06625.x"
+     },
+     {
+      "author": "Schifano, F., Chiappini, S., Miuli, A., Mosca, A., Santovito, M. C., Corkery, J. M., Guirguis, A., Pettorruso, M., Di Giannantonio, M., & Martinotti, G. (2021)",
+      "title": "Focus on Over-the-Counter Drugs\u2019 Misuse: A Systematic Review on Antihistamines, Cough Medicines, and Decongestants. Frontiers in Psychiatry, 12, 657397.",
+      "url": "https://doi.org/10.3389/fpsyt.2021.657397"
+     },
+     {
+      "author": "Sean. (n.d.-b)",
+      "title": "Pregabalin - Erowid Exp - \u201cStay Away.\u201d",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=67302"
+     },
+     {
+      "author": "Slocum, G. W., Schult, R. F., Gorodetsky, R. M., Wiegand, T. J., Kamali, M., & Acquisto, N. M. (2018)",
+      "title": "Pregabalin and paradoxical reaction of seizures in a large overdose. Toxicology Communications, 2(1), 19\u201320.",
+      "url": "https://doi.org/10.1080/24734306.2018.1458465"
+     },
+     {
+      "author": "Wolfson, A. R., Wong, D., Abrams, E. M., Waserman, S., & Sussman, G. L. (2022)",
+      "title": "Diphenhydramine: Time to Move on? The Journal of Allergy and Clinical Immunology: In Practice, 10(12), 3124\u20133130.",
+      "url": "https://doi.org/10.1016/j.jaip.2022.07.018"
+     }
+    ],
+    "status": "Unsafe"
+   },
+   "ssris": {
+    "note": "There is a high risk of serotonin syndrome at recreational dosages. Medical dosages are reported not to be a concern for the general population. The combination may increase each other's side effects, such as dizziness and drowsiness.",
+    "sources": [
+     {
+      "author": "Clark, J. H., Meltzer, E. O., & Naclerio, R. M.",
+      "title": "Diphenhydramine: It is time to say a final goodbye. The World Allergy Organization Journal, 18(2), 101027 (2025)",
+      "url": "https://doi.org/10.1016/j.waojou.2025.101027"
+     },
+     {
+      "author": "Ener, R. A., Meglathery, S. B., Decker, W. A. V., & Gallagher, R. M.",
+      "title": "Serotonin Syndrome and Other Serotonergic Disorders: Table 1. Pain Medicine, 4(1), 63-74 (2003)",
+      "url": "https://doi.org/10.1046/j.1526-4637.2003.03005.x"
+     },
+     {
+      "author": "Khan, S., Saud, S., Khan, I., Asif, M., Ismail, O., Salam, A., Yang, T. J., & Norville, K. J.",
+      "title": "Serotonin Syndrome Presenting with Concomitant Tramadol and Diphenhydramine Use: A Case Report of an Unlikely Side-Effect. Cureus, 10(4), e2421 (2018)",
+      "url": "https://doi.org/10.7759/cureus.2421"
+     },
+     {
+      "author": "Lane, R., Baldwin, D., & Preskorn, S.",
+      "title": "The SSRIs: advantages, disadvantages and differences. Journal of Psychopharmacology, 9(2 Suppl), 163-178 (1995)",
+      "url": "https://doi.org/10.1177/0269881195009002011"
+     },
+     {
+      "author": "Sproule, B. A., Naranjo, C. A., Brenmer, K. E., & Hassan, P. C.",
+      "title": "Selective serotonin reuptake inhibitors and CNS drug interactions. A critical review of the evidence. Clinical Pharmacokinetics, 33(6), 454-471 (1997)",
+      "url": "https://doi.org/10.2165/00003088-199733060-00004"
+     },
+     {
+      "author": "van Harten, J.",
+      "title": "Clinical pharmacokinetics of selective serotonin reuptake inhibitors. Clinical Pharmacokinetics, 24(3), 203-220 (1993)",
+      "url": "https://doi.org/10.2165/00003088-199324030-00003"
+     },
+     {
+      "author": "Varghese, E., Abate, M. A., Hu, L., Kaplan, J., Kraner, J., Long, D. L., Sorg, M., Mock, A., Greenwald, M., & Andrew, T.",
+      "title": "Characterization of Diphenhydramine-Related Accidental Overdose Deaths. Academic Forensic Pathology, 5(1), 105-115 (2015)",
+      "url": "https://doi.org/10.23907/2015.011"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "tramadol": {
+    "note": "Both drugs increase the risk of serotonin syndrome. While at medical dosages, this is unlikely to be of concern, recreational doses should be avoided. Diphenhydramine may increase tramadol\u2019s seizure risk.",
+    "sources": [
+     {
+      "author": "Benson, B. E., Farooqi, M. F., Klein-Schwartz, W., Litovitz, T., Webb, A. N., Borys, D. J., Lung, D., Rutherfoord Rose, S., Aleguas, A., Sollee, D. R., & Seifert, S. A. (2010)",
+      "title": "Diphenhydramine dose\u2013response: a novel approach to determine triage thresholds. Clinical Toxicology, 48(8), 820\u2013831.",
+      "url": "https://doi.org/10.3109/15563650.2010.514269"
+     },
+     {
+      "author": "Dhesi, M., Maldonado, K. A., Patel, P., & Maani, C. V. (2025)",
+      "title": "Tramadol. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK537060/"
+     },
+     {
+      "author": "Hughes, A. R., Lin, A., Hendrickson, R. G., & on behalf of Toxicology Investigator\u2019s Consortium (ToxIC). (2021)",
+      "title": "Clinical and patient characteristics associated with severe outcome in diphenhydramine toxicity. Clinical Toxicology, 59(10), 918\u2013925.",
+      "url": "https://doi.org/10.1080/15563650.2021.1891244"
+     },
+     {
+      "author": "Khan, S., Saud, S., Khan, I., Asif, M., Ismail, O., Salam, A., Yang, T. J., & Norville, K. J. (2018)",
+      "title": "Serotonin Syndrome Presenting with Concomitant Tramadol and Diphenhydramine Use: A Case Report of an Unlikely Side-Effect. Cureus.",
+      "url": "https://doi.org/10.7759/cureus.2421"
+     },
+     {
+      "author": "Kim, H., Kim, S. H., & Kim, J. B. (2021)",
+      "title": "Antihistamines as a common cause of new-onset seizures: a single-center observational study. Neurological Sciences: Official Journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology, 42(6), 2505\u20132508.",
+      "url": "https://doi.org/10.1007/s10072-021-05043-2"
+     },
+     {
+      "author": "Kim, H., Wang, I.-N., Park, J.-S., Kim, K.-T., Kong, J., Kim, J. B., & Kim, D.-J. (2023)",
+      "title": "Inherent seizure susceptibility in patients with antihistamine-induced acute symptomatic seizure: a resting-state EEG analysis. Scientific Reports, 13(1), 9146.",
+      "url": "https://doi.org/10.1038/s41598-023-36415-7"
+     },
+     {
+      "author": "Sanaei-Zadeh, H. (2012)",
+      "title": "Diphenhydramine overdose and serotonin syndrome. Psychiatry and Clinical Neurosciences, 66(3), 244\u2013245.",
+      "url": "https://doi.org/10.1111/j.1440-1819.2012.02320.x"
+     },
+     {
+      "author": "Sicari, V., Patel, P., & Zabbo, C. P. (2025)",
+      "title": "Diphenhydramine. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+     }
+    ],
+    "status": "Dangerous"
+   }
+  },
+  "dose_note": " NOTE: The doses provided are for recreational usage. For use as a sleep aid the dose ranges from 25-100mg, or as specified on the product packaging.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "200-500mg",
+    "Light": "100-250mg",
+    "Strong": "450-700mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-8"
+  },
+  "formatted_effects": [
+   "Delirium",
+   "dream-like experiences",
+   "paranoia",
+   "visual and audio distortions",
+   "dry mouth",
+   "muscle cramps",
+   "nausea",
+   "dysphoria",
+   "tremors",
+   "Often described as a pretty negative experience"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "60-120"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Diphenhydramine.shtml"
+  },
+  "name": "diphenhydramine",
+  "pretty_name": "Diphenhydramine",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "diphenhydramine",
+    "dph",
+    "benadryl"
+   ],
+   "avoid": "Many oral diphenhydramine preparations contain analgesics such as acetaminophen or aspirin, which can be toxic to the liver in high doses.",
+   "categories": [
+    "depressant",
+    "deliriant",
+    "common"
+   ],
+   "dose": "Oral Light: 100-250mg Common: 200-500mg Strong: 450-700mg NOTE: The doses provided are for recreational usage. For use as a sleep aid the dose ranges from 25-75mg, or as specified on the product packaging. For medical allergy use doses tend to range from 25-50mg, or as specified on the product packaging.",
+   "duration": "6-8 hours",
+   "effects": "Delirium, dream-like experiences, paranoia, visual and audio distortions, dry mouth, muscle cramps, nausea, dysphoria, tremors. Often described as a pretty negative experience.",
+   "onset": "60-120 minutes",
+   "summary": "An antihistamine which, when taken in smaller doses relieves allergies and insomnia. In larger doses works as a deliriant and can actually keep the user awake. Generally the 'high' of this drug is reported as dysphoric, potentially causing hallucinations indistinguishable from reality."
+  },
+  "pweffects": {
+   "Abnormal heartbeat": "https://psychonautwiki.org/wiki/Abnormal_heartbeat",
+   "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
+   "After images": "https://psychonautwiki.org/wiki/After_images",
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Auditory suppression": "https://psychonautwiki.org/wiki/Auditory_suppression",
+   "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+   "Brightness alteration": "https://psychonautwiki.org/wiki/Brightness_alteration",
+   "Cognitive dysphoria": "https://psychonautwiki.org/wiki/Cognitive_dysphoria",
+   "Dehydration": "https://psychonautwiki.org/wiki/Dehydration",
+   "Depression": "https://psychonautwiki.org/wiki/Depression",
+   "Difficulty urinating": "https://psychonautwiki.org/wiki/Difficulty_urinating",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Double vision": "https://psychonautwiki.org/wiki/Double_vision",
+   "Dream potentiation": "https://psychonautwiki.org/wiki/Dream_potentiation",
+   "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+   "Emotion suppression": "https://psychonautwiki.org/wiki/Emotion_suppression",
+   "External hallucinations": "https://psychonautwiki.org/wiki/External_hallucinations",
+   "Feelings of impending doom": "https://psychonautwiki.org/wiki/Feelings_of_impending_doom",
+   "Frequent urination": "https://psychonautwiki.org/wiki/Frequent_urination",
+   "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Language suppression": "https://psychonautwiki.org/wiki/Language_suppression",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Muscle cramps": "https://psychonautwiki.org/wiki/Muscle_cramps",
+   "Muscle spasms": "https://psychonautwiki.org/wiki/Muscle_spasms",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Paranoia": "https://psychonautwiki.org/wiki/Paranoia",
+   "Pattern recognition suppression": "https://psychonautwiki.org/wiki/Pattern_recognition_suppression",
+   "Peripheral information misinterpretation": "https://psychonautwiki.org/wiki/Peripheral_information_misinterpretation",
+   "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+   "Photophobia": "https://psychonautwiki.org/wiki/Photophobia",
+   "Physical fatigue": "https://psychonautwiki.org/wiki/Physical_fatigue",
+   "Psychosis": "https://psychonautwiki.org/wiki/Psychosis",
+   "Restless leg syndrome": "https://psychonautwiki.org/wiki/Restless_leg_syndrome",
+   "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+   "Shadow people": "https://psychonautwiki.org/wiki/Shadow_people",
+   "Tactile hallucinations": "https://psychonautwiki.org/wiki/Tactile_hallucinations",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+   "Thought disorganization": "https://psychonautwiki.org/wiki/Thought_disorganization",
+   "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+   "Unspeakable horrors": "https://psychonautwiki.org/wiki/Unspeakable_horrors",
+   "Vibrating vision": "https://psychonautwiki.org/wiki/Vibrating_vision",
+   "Visual haze": "https://psychonautwiki.org/wiki/Visual_haze"
+  },
+  "sources": {
+   "_general": [
+    "Dose-dependent toxicity of diphenhydramine overdose - http://www.ncbi.nlm.nih.gov/pubmed/11204550"
+   ]
+  }
+ }
+}

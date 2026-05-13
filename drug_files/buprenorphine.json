@@ -1,0 +1,71 @@
+{
+ "buprenorphine": {
+  "aliases": [
+   "suboxone",
+   "subs",
+   "bupe"
+  ],
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "depressant"
+  ],
+  "dose_note": " NOTE: The ceiling dose for Buprenorphine is typically between 24-32mg, anything above this will not produce any increase in effects. After dosing 4mg approximately 95-98% of opioid receptors are occupied.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-16"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "0.4-0.8mg",
+    "Heavy": "1.5mg+",
+    "Light": "0.2-0.4mg",
+    "Strong": "0.8-1.5mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "Low Dose: 8-12 hours High Dose: 24-72 hours"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil constriction",
+   "Analgesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "60-90"
+  },
+  "name": "buprenorphine",
+  "pretty_name": "Buprenorphine",
+  "properties": {
+   "after-effects": "1-16 hours.",
+   "aliases": [
+    "suboxone",
+    "subs",
+    "bupe"
+   ],
+   "bioavailability": "Oral 22% | Sublingual 30% | Intramuscular 90-100%",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Light: 0.2-0.4mg Common: 0.4-0.8mg Strong: 0.8-1.5mg Heavy: 1.5mg+ | NOTE: The ceiling dose for Buprenorphine is usually between 16mg and 32mg, anything above this will not produce any increase in effects. Also, after dosing 4mg your opioid receptors are completely covered.",
+   "duration": "Low Dose: 8-12 hours High Dose: 24-72 hours",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
+   "onset": "60-90 minutes",
+   "summary": "A semi-synthetic opioid analgesic also known as subutex. Often administered as Butrans patches, or in combination with Naloxone as Suboxone, a heroin replacement therapy drug. Will cause withdrawals if you have an opioid tolerance and don't wait long enough (typically around 48 hours) before taking this."
+  },
+  "sources": {
+   "_general": [
+    "https://www.ncbi.nlm.nih.gov/pubmed/10928310-Effects of buprenorphine versus buprenorphine/naloxone tablets in non-dependent opioid abusers."
+   ]
+  }
+ }
+}

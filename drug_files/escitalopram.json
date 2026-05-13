@@ -1,0 +1,22 @@
+{
+ "escitalopram": {
+  "aliases": [
+   "lexapro",
+   "cipralex"
+  ],
+  "categories": [
+   "ssri"
+  ],
+  "name": "escitalopram",
+  "pretty_name": "Escitalopram",
+  "properties": {
+   "aliases": [
+    "lexapro",
+    "cipralex"
+   ],
+   "categories": [
+    "ssri"
+   ]
+  }
+ }
+}

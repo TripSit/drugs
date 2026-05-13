@@ -1,0 +1,46 @@
+{
+ "flualprazolam": {
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "tentative",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-36"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "0.25-0.5mg",
+    "Heavy": "1-2mg",
+    "Light": "0.125-0.25mg",
+    "Strong": "0.5-1mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-14"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-30"
+  },
+  "name": "flualprazolam",
+  "pretty_name": "Flualprazolam",
+  "properties": {
+   "after-effects": "1-36 hours.",
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "tentative",
+    "research-chemical"
+   ],
+   "dose": "Oral Light: 0.125-0.25mg Common: 0.25-0.5mg Strong: 0.5-1mg Heavy: 1-2mg",
+   "duration": "6-14 hours.",
+   "onset": "10-30 minutes.",
+   "summary": "Fluorinated alprazolam has nearly double the half-life compared to its parent compound alprazolam. Additionally, the drugs potency has been reported to range from 1.5-5x stronger than alprazolam."
+  }
+ }
+}

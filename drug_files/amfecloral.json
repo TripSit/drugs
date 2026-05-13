@@ -1,0 +1,32 @@
+{
+ "amfecloral": {
+  "categories": [
+   "stimulant",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-30"
+  },
+  "name": "amfecloral",
+  "pretty_name": "Amfecloral",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "categories": [
+    "stimulant",
+    "depressant"
+   ],
+   "duration": "5-8 hours.",
+   "onset": "10-30 minutes.",
+   "summary": "Is a stimulant drug of the Phenethylamine and Amphetamine class. It was used as an appetite suppressant, yet is no longer marketed. It acts as a prodrug to both Amphetamine and Chloral Hydrate."
+  }
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "4-ho-det": {
+  "aliases": [
+   "4hodet",
+   "4-hydroxy-det"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "15-20mg",
+    "Light": "10-15mg",
+    "Strong": "20-30mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-7"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_4HODET.shtml",
+   "tihkal": "https://www.erowid.org/library/books_online/tihkal/tihkal16.shtml"
+  },
+  "name": "4-ho-det",
+  "pretty_name": "4-HO-DET",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "4hodet",
+    "4-hydroxy-det"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Light: 10-15mg Common: 15-20mg Strong: 20-30mg+",
+   "duration": "3-7 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "30-60 minutes.",
+   "summary": "A rare compound first produced by Albert Hoffman, also known as ethocin. Structurally related to 4-HO-MET (metocin) and psilocin (4-HO-DMT), this drug has similar psychedelic effects but little recorded human usage. Probably similar to psilocybin mushrooms. It has potentially stimulating effects."
+  }
+ }
+}

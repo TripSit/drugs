@@ -1,0 +1,52 @@
+{
+ "sulbutiamine": {
+  "aliases": [
+   "sulbut",
+   "arcalion",
+   "enerion",
+   "bisibuthiamine",
+   "youvitan"
+  ],
+  "categories": [
+   "tentative",
+   "stimulant",
+   "habit-forming",
+   "supplement"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "200-400mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-10"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-40"
+  },
+  "name": "sulbutiamine",
+  "pretty_name": "Sulbutiamine",
+  "properties": {
+   "aliases": [
+    "sulbut",
+    "arcalion",
+    "enerion",
+    "bisibuthiamine",
+    "youvitan"
+   ],
+   "categories": [
+    "tentative",
+    "stimulant",
+    "habit-forming",
+    "supplement"
+   ],
+   "dose": "Common: 200-400mg.",
+   "duration": "6-10 hours. Dose and tolerance dependent.",
+   "experiences": "https://drugs-forum.com/forum/showthread.php?t=101258",
+   "onset": "20-40 minutes",
+   "summary": "A thiamine derivative nootropic and stimulant drug. Caution should be used as sulbutiamine reduces dopamine output over time with consistant usage."
+  }
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "ronlax": {
+  "aliases": [
+   "ethyl-loflazepate",
+   "meilax",
+   "victan"
+  ],
+  "categories": [
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1-2mg",
+    "Light": "0.5-1mg",
+    "Strong": "2-4mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-16"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-90"
+  },
+  "name": "ronlax",
+  "pretty_name": "Ronlax",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "aliases": [
+    "ethyl-loflazepate",
+    "meilax",
+    "victan"
+   ],
+   "avoid": "All CNS depressants. The antidepressant fluvoxamine (Luvox) may potentiate the adverse effects.",
+   "categories": [
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 0.5-1mg Common: 1-2mg Strong: 2-4mg.",
+   "duration": "8-16 hours.",
+   "onset": "45-90 minutes.",
+   "summary": "A benzodiazepine derivative that posses the common benzodiazepine effects such as sedation, amnesia, and hypnotic effects. It has a long half life (51-103 hours) and metabolizes into an active compound (descarboxyloflazepate). The drug is commercialized in Mexico."
+  }
+ }
+}

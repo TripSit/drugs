@@ -1,0 +1,67 @@
+{
+ "ethylcathinone": {
+  "aliases": [
+   "ethcathinone",
+   "e-cat",
+   "eth-cat"
+  ],
+  "categories": [
+   "stimulant",
+   "psychedelic",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Insufflated": "30-90",
+   "Oral": "2-3"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "35-70mg",
+    "Light": "15-30mg",
+    "Strong": "75-100mg+",
+    "Threshold": "5-20mg"
+   },
+   "Oral": {
+    "Common": "80-150mg",
+    "Light": "50-80mg",
+    "Strong": "150-300mg+",
+    "Threshold": "30-50mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "1-2",
+   "Oral": "2-5"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-15",
+   "Oral": "15-60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Ethylcathinone.shtml"
+  },
+  "name": "ethylcathinone",
+  "pretty_name": "Ethylcathinone",
+  "properties": {
+   "after-effects": "Oral: 2-3 hours. | Insufflated: 30-90 minutes.",
+   "aliases": [
+    "ethcathinone",
+    "e-cat",
+    "eth-cat"
+   ],
+   "categories": [
+    "stimulant",
+    "psychedelic",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Oral Threshold: 30-50mg Light: 50-80mg Common: 80-150mg Strong: 150-300mg+ | Insufflated Threshold: 5-20mg Light: 15-30mg Common: 35-70mg Strong: 75-100mg+",
+   "duration": "Oral: 2-5 hours | Insufflated: 1-2 hours.",
+   "onset": "Oral: 15-60 minutes. | Insufflated: 5-15 minutes.",
+   "summary": "Ethylcathinone is a synthetic stimulant. It has similar effects as MDMA in regards to euphoric effects, feelings of empathy and openness, and desire to talk with others. Similarly, it has negative effects that are associated with MDMA, such as insomnia, tightened jaw muscles, and grinding of the teeth."
+  }
+ }
+}

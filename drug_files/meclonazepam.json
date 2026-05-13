@@ -1,0 +1,53 @@
+{
+ "meclonazepam": {
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "3-6mg",
+    "Heavy": "6-12mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "9-15"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-60"
+  },
+  "name": "meclonazepam",
+  "pretty_name": "Meclonazepam",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant",
+    "tentative"
+   ],
+   "dose": "Oral Light:1.50-3mg Common: 3-6mg Heavy: 6-12mg",
+   "duration": "9-15 hours.",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "20-60 minutes",
+   "summary": "A benzodiazepine related to clonazepam discovered by Hoffman-LaRoche in the 1960s. The drug is suspected to be useful in treating schistosomiasis. The drug has been sold on the grey market as a recreational drug but has not seen widespread popularity."
+  }
+ }
+}

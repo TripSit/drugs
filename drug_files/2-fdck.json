@@ -1,0 +1,60 @@
+{
+ "2-fdck": {
+  "aliases": [
+   "2f-ketamine",
+   "2f-ket",
+   "2-fluorodeschloroketamine",
+   "2-fl-2'-oxo-pcm",
+   "2f-dck",
+   "2fket",
+   "2fdck"
+  ],
+  "categories": [
+   "tentative",
+   "dissociative",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-3"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "50-100mg",
+    "Light": "20-50mg",
+    "Strong": "100-175mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "1-3"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-40"
+  },
+  "name": "2-fdck",
+  "pretty_name": "2-FDCK",
+  "properties": {
+   "after-effects": "1-3 hours.",
+   "aliases": [
+    "2f-ketamine",
+    "2f-ket",
+    "2-fluorodeschloroketamine",
+    "2-fl-2'-oxo-pcm",
+    "2f-dck",
+    "2fket",
+    "2fdck"
+   ],
+   "categories": [
+    "tentative",
+    "dissociative",
+    "habit-forming"
+   ],
+   "dose": "Insufflated Light: 20-50mg Common: 50-100mg Strong: 100-175mg+",
+   "duration": "1-3 hours.",
+   "onset": "20-40 minutes.",
+   "summary": "Dissociative anesthetic of the arylcyclohexylamine class. Seemingly on par with ketamine in dosage. Longer onset than the prior."
+  }
+ }
+}

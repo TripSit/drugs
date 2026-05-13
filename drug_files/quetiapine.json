@@ -1,0 +1,70 @@
+{
+ "quetiapine": {
+  "aliases": [
+   "seroquel"
+  ],
+  "categories": [
+   "depressant"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50mg-150mg",
+    "Heavy": "300mg-800mg",
+    "Light": "25mg-50mg",
+    "Strong": "150mg-300mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "7-12"
+  },
+  "formatted_effects": [
+   "sedation",
+   "dizziness",
+   "fatigue",
+   "constipation",
+   "dry mouth",
+   "headache",
+   "appetite change",
+   "increased blood pressure"
+  ],
+  "name": "quetiapine",
+  "pretty_name": "Quetiapine",
+  "properties": {
+   "adverse-effects": "dizziness, fatigue, extrapyramidal symptoms, increased diastolic blood pressure, increased triglycerides, increased total cholesterol, increased appetite, constipation, dry mouth, headache, somnolence",
+   "after-effects": "The drug may last up to 24 hours.",
+   "aliases": [
+    "seroquel"
+   ],
+   "categories": [
+    "depressant"
+   ],
+   "chemistry": "IUPAC: 2-(2-(4-dibenzo[b,f][1,4]thiazepin-11-yl-1-piperazinyl)ethoxy)ethanol | Formula: C21H25N3O2S | Molecular Mass: 383.5099 g/mol | Solubility in Water: 3.29 mg/mL (20 \u00b0C)",
+   "contraindications": "apomorphine, bromocriptine, cabergoline, carbamazepine, cimetidine, clarithromycin, dabrafenib, dopamine, erythromycin, idelalisib, itraconazole, ivacaftor, ketoconazole, levodopa, lisuride, mefloquine, methyldopa, nefazodone, ondansetron, panobinostat, pramipexole, rifabutin, rifampin, ropinirole, sodium oxybate, st. john's wort, vilanterol, and vemurafenib",
+   "dose": "Oral Light: 25mg-50mg Common: 50mg-150mg Strong: 150mg-300mg Heavy: 300mg-800mg",
+   "duration": "7-12 hours.",
+   "effects": "sedation, dizziness, fatigue, constipation, dry mouth, headache, appetite change, increased blood pressure",
+   "legal": "Australia: Prescription Only (S4) | United Kingdom: POM | United States: Prescription only",
+   "onset": "Oral IR: 15-30 minutes. Oral XR: 30-60 minutes.",
+   "overdose-symptoms": "sedation, hypotension, tachycardia, cardiac arrhythmia, coma, and death",
+   "pharmacology": "D1, D2, D3, and D4 receptor antagonist; 5-HT1A receptor partial agonist; 5-HT2A, 5-HT2C, and 5-HT7 receptor antagonist; \u03b11-adrenergic and \u03b12-adrenergic receptor antagonist; H1 receptor antagonist; mACh receptor antagonist",
+   "summary": "An atypical antipsychotic medication under the brand name Seroquel. Used to treat insomnia and mood swings among other uses. The drug is reported to be very sedating and can stop/slow down psychedelic drug trips. Reports of abuse are rare."
+  },
+  "pweffects": {
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Analysis suppression": "https://psychonautwiki.org/wiki/Analysis_suppression",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Creativity suppression": "https://psychonautwiki.org/wiki/Creativity_suppression",
+   "Dehydration": "https://psychonautwiki.org/wiki/Dehydration",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Dream potentiation": "https://psychonautwiki.org/wiki/Dream_potentiation",
+   "Emotion suppression": "https://psychonautwiki.org/wiki/Emotion_suppression",
+   "Headaches": "https://psychonautwiki.org/wiki/Headaches",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Language suppression": "https://psychonautwiki.org/wiki/Language_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration"
+  }
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "4-fea": {
+  "aliases": [
+   "4-fluoroethylamphetamine"
+  ],
+  "categories": [
+   "stimulant",
+   "tentative",
+   "research-chemical"
+  ],
+  "dose_note": " Note: Tentative data as of writing.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50-75mg",
+    "Light": "25-50mg",
+    "Strong": "75-150mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "40-60"
+  },
+  "name": "4-fea",
+  "pretty_name": "4-FEA",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "4-fluoroethylamphetamine"
+   ],
+   "categories": [
+    "stimulant",
+    "tentative",
+    "research-chemical"
+   ],
+   "dose": "Light: 25-50mg Common: 50-75mg Strong: 75-150mg+ | Note: Tentative data as of writing.",
+   "duration": "4-6 hours.",
+   "onset": "40-60 minutes.",
+   "summary": "Stimulant that is the ethyl analogue of 4-FMA."
+  }
+ }
+}

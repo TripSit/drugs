@@ -1,0 +1,70 @@
+{
+ "flubromazepam": {
+  "categories": [
+   "benzodiazepine",
+   "research-chemical",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "36"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "4-8mg",
+    "Light": "2-4mg",
+    "Strong": "8-12mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "12-18"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-90"
+  },
+  "name": "flubromazepam",
+  "pretty_name": "Flubromazepam",
+  "properties": {
+   "after-effects": "36+ hours",
+   "categories": [
+    "benzodiazepine",
+    "research-chemical",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Light: 2-4mg Common: 4-8mg Strong: 8-12mg+",
+   "dose_to_diazepam": "Flubromazepam - 6-8mg ~=10mg Diazepam.",
+   "duration": "12-18 hours",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "15-90 minutes",
+   "summary": "A benzodiazepine drug known for its extreme duration, with effects for larger doses reaching up to three days. The drugs effects are reported to be sedative, hypnotic and anxiolytic in nature. This compound is an analogue of Phenazepam. First discovered in the 1960s, it was never marketed as a licit drug, but has recently become available as a research chemical. Caution is recommended to not confuse it with Flubromazolam."
+  },
+  "pweffects": {
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Analysis suppression": "https://psychonautwiki.org/wiki/Analysis_suppression",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+   "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Emotion suppression": "https://psychonautwiki.org/wiki/Emotion_suppression",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Muscle relaxation": "https://psychonautwiki.org/wiki/Muscle_relaxation",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration"
+  }
+ }
+}

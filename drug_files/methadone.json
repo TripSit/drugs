@@ -1,0 +1,66 @@
+{
+ "methadone": {
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "depressant",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-48"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-20mg",
+    "Light": "5-10mg",
+    "Strong": "20-35mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil constriction",
+   "Analgesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-120"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Methadone.shtml"
+  },
+  "name": "methadone",
+  "pretty_name": "Methadone",
+  "properties": {
+   "after-effects": "1-48 hours.",
+   "avoid": "All other CNS depressants.",
+   "bioavailability": "Oral 70-90% | Rectal (aqueous liquid) ~80%",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "depressant",
+    "common"
+   ],
+   "dose": "Light: 5-10mg Common: 10-20mg Strong: 20-35mg+ NOTE: these doses are not intended for opioid na\u00efve users. 30mg could be lethal for an opioid na\u00efve user. Please note opioid na\u00efve refers to recent usage, not opioid experience. It is recommended, as always, to start low and increase dosage /slowly/",
+   "duration": "Oral 6-12 hours. NOTE: The duration may last much longer depending on a variety of factors, such as physical and mental drug dependence.",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
+   "half-life": "12-18 hours on the first dose 13-47 on concurrent",
+   "onset": "45-120 minutes.",
+   "summary": "An opioid drug used as an analgesic and is often used during detoxification of other opioids. There are a variety of reasons for this such as methadone's longer half-life duration."
+  },
+  "sources": {
+   "_general": [
+    "Methadone trials have proven successful in treating Heroin addiction - http://jamanetwork.com/journals/jama/article-abstract/656315",
+    "Pharmacogenetics of chronic pain management - https://doi.org/10.1016/j.clinbiochem.2014.05.065"
+   ]
+  }
+ }
+}
