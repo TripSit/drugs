@@ -13,6 +13,16 @@ You are also encouraged to see the [repository's Wiki](https://github.com/TripSi
 * drugs.json is a massive file containing all of our drug information used by our factsheets and more.
   * The database would benefit from revisions, sources, additions, modifications, and more. Feel free to contribute in any way to improve our database.
 
+## Setup
+
+After cloning, install dependencies and the pre-commit hook:
+
+```sh
+npm install
+```
+
+`npm install` runs the `prepare` script, which configures husky and sets `core.hooksPath` to `.husky`. Git tracks the hook's executable bit, so no `chmod` is needed after cloning.
+
 ## Development Information
 * We would greatly benefit from more developers, ranging from UX/UI design to backend server administration. To learn more about our active development projects and needs, see our [development information wiki page](https://github.com/TripSit/drugs/wiki/Development-Information).
 
