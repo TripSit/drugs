@@ -12,6 +12,12 @@ npm install
 
 `npm install` runs the `prepare` script, which configures husky and sets `core.hooksPath` to `.husky`. The pre-commit hook validates and rebuilds data before each commit.
 
+## Repository Settings
+
+For CI to auto-commit rebuilt `drugs.json` back to PR branches, enable write access for Actions:
+
+**Settings → Actions → General → Workflow permissions → Read and write permissions**
+
 ## Scripts
 
 ```sh
