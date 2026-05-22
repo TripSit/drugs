@@ -49,7 +49,7 @@ scripts/
   drugs.ts                  # NEW: per-drug concern (validate + build drugs.json)
   combos.ts                 # NEW: combos concern (validate + mirror)
   index.ts                  # unchanged exports
-  combosToDrugs.ts          # DELETED (logic split into drugs.ts + combos.ts)
+  combosToDrugs.ts          # KEPT as reference (logic split into drugs.ts + combos.ts; no longer wired into npm/CI)
 .husky/
   pre-commit                # runs npm run validate
 ```
@@ -158,12 +158,35 @@ and combos). Does NOT build — that is CI's job.
 
 1. Add `schemas/drug-schema.json`.
 2. Add `scripts/splitDrugs.ts`; run it; commit the 555 `src/data/*.json` files.
-3. Add `scripts/drugs.ts` and `scripts/combos.ts`; delete `combosToDrugs.ts`; update
-   `package.json compare` references.
+3. Add `scripts/drugs.ts` and `scripts/combos.ts`. Keep `combosToDrugs.ts` as a
+   reference (un-wire it: remove its `package.json` `compare` script and its CI step).
 4. Add Husky + `.husky/pre-commit`; wire `prepare`.
 5. Update `.github/workflows/validate.yml`.
 6. Verify `drugs.json` rebuilt from per-drug files is byte-identical (after sort) to the
    committed one.
+
+## Large-file constraint
+
+`drugs.json` (1.6 MB / 40k lines) and `combos.json` (large) must **never be read whole
+into an AI agent's context window** — it exhausts tokens and degrades reasoning.
+
+Scripts and agents working with these files must use streaming or shell tools:
+
+- **Scripts (Node/ts-node):** use `fs.createReadStream` + `JSONStream` (or `node:readline`
+  chunking) for drugs.json. For combos.json, use `fs.readFileSync` only within a script
+  process (not via AI Read tool).
+- **AI agents / Claude Code:** never use the `Read` tool on `drugs.json` or `combos.json`.
+  Instead:
+  - Inspect structure: `node -e "const d=require('./drugs.json'); console.log(Object.keys(d).slice(0,5))"` via Bash
+  - Count/sample: `node -e` one-liners scoped to the specific key needed
+  - Schema/validation errors: run the validate script, read its stdout
+  - Single drug lookup: `node -e "const d=require('./drugs.json'); console.log(JSON.stringify(d['lsd'],null,2))"` — loads into node process, not into context
+- **splitDrugs.ts** (one-time migration): may use `require()` / `JSON.parse` internally
+  since it runs as a Node process (not read by AI), but should stream-write outputs.
+- **drugs.ts `--build`:** reads per-drug files one at a time (555 small files), never
+  reads drugs.json as input. Reads combos.json once inside the Node process only.
+
+This constraint applies to all future plan tasks and implementation steps.
 
 ## Out of Scope
 
