@@ -6,7 +6,7 @@
   "scripts": {
     "validate": "ts-node scripts/drugs.ts --check && ts-node scripts/combos.ts --check",
     "build": "ts-node scripts/combos.ts --fix && ts-node scripts/drugs.ts --build",
-    "prepare": "husky"
+    "prepare": "husky && git config core.hooksPath .husky"
   },
   "repository": {
     "type": "git",
