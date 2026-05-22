@@ -1,4 +1,7 @@
-/* 
+// REFERENCE ONLY — superseded by scripts/drugs.ts and scripts/combos.ts
+// Not wired into npm scripts or CI. Kept for historical reference.
+
+/*
 This task involves normalizing the interaction status between different drug combinations within a JSON structure. 
 Both combos.json and drugs.json are composed of primary keys representing individual drugs or drug classes (e.g., "2c-t-x"). 
 
@@ -125,6 +128,25 @@ function schemaValidated(): boolean {
     log(`Combos.json is valid!`)
   }
   return valid;
+}
+
+// Recursively sort object keys using the same comparator as schemaAlphabetized,
+// so re-inserted keys (e.g. a recreated "combos" property) land in their correct
+// alphabetical slot instead of being appended at the end. Arrays are left as-is.
+function deepSortKeys<T>(value: T): T {
+  if (Array.isArray(value)) {
+    return value.map((item) => deepSortKeys(item)) as unknown as T;
+  }
+  if (value !== null && typeof value === 'object') {
+    const sorted: Record<string, any> = {};
+    Object.keys(value as Record<string, any>)
+      .sort((a, b) => a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' }))
+      .forEach((key) => {
+        sorted[key] = deepSortKeys((value as Record<string, any>)[key]);
+      });
+    return sorted as T;
+  }
+  return value;
 }
 
 async function compareData(): Promise<boolean> {
@@ -285,19 +307,22 @@ if (process.argv.slice(2).includes('--github-check')) {
     console.error('Schema is not valid!');
     process.exit(1);
   }
-  if (!schemaAlphabetized()) {
-    console.error('Schema is not alphabetized!');
-    process.exit(1);
-  }
+  // Local mode auto-heals alphabetization instead of failing on it (that's the
+  // job of --github-check). deepSortKeys before writing fixes any misordered keys.
+  const alphabetized = schemaAlphabetized();
 
   compareData()
     .then(async (dataMatches) => {
-      if (dataMatches) {
+      if (dataMatches && alphabetized) {
         console.log('No changes were made');
         return;
       }
-      await fs.writeFile(path.resolve(__dirname, '../drugs.json'), JSON.stringify(drugData, null, 2));
-      await fs.writeFile(path.resolve(__dirname, '../combos.json'), JSON.stringify(comboData, null, 2));
+      // Re-sort all keys so re-inserted entries (e.g. a recreated "combos"
+      // property or a new combo interaction) land in alphabetical order.
+      const sortedDrugData = deepSortKeys(drugData);
+      const sortedComboData = deepSortKeys(comboData);
+      await fs.writeFile(path.resolve(__dirname, '../drugs.json'), JSON.stringify(sortedDrugData, null, 2));
+      await fs.writeFile(path.resolve(__dirname, '../combos.json'), JSON.stringify(sortedComboData, null, 2));
       console.log('Updated files!');
     })
     .catch((err) => {
