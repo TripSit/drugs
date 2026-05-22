@@ -1,0 +1,122 @@
+{
+  "aliases": [
+    "dxm",
+    "robo",
+    "syrup",
+    "robotussin",
+    "dex",
+    "robitussin",
+    "DM"
+  ],
+  "categories": [
+    "dissociative",
+    "habit-forming",
+    "common"
+  ],
+  "dose_note": " NOTE: See http://dxm.tripsit.me for mg/weight doses, among other things. Deaths have been reported at 25mg/kg",
+  "formatted_aftereffects": {
+    "_unit": "hours",
+    "value": "1-12"
+  },
+  "formatted_dose": {
+    "Oral": {
+      "Common": "2.5-7.5mg/kg",
+      "Heavy": "15-20mg/kg",
+      "Light": "1.5-2.5mg/kg",
+      "Strong": "7.5-15mg/kg"
+    }
+  },
+  "formatted_duration": {
+    "_unit": "hours",
+    "value": "6-8"
+  },
+  "formatted_onset": {
+    "_unit": "minutes",
+    "value": "20-60"
+  },
+  "links": {
+    "experiences": "https://www.erowid.org/experiences/subs/exp_DXM.shtml"
+  },
+  "name": "dextromethorphan",
+  "pretty_name": "Dextromethorphan",
+  "properties": {
+    "after-effects": "1-12 hours.",
+    "aliases": [
+      "dxm",
+      "robo",
+      "syrup",
+      "robotussin",
+      "dex",
+      "robitussin",
+      "DM"
+    ],
+    "calculator": "http://dxm.tripsit.me",
+    "categories": [
+      "dissociative",
+      "habit-forming",
+      "common"
+    ],
+    "chart": "http://taimapedia.org/images/4/46/DXMDosingChart.png",
+    "dose": "Oral First-Plateau: 1.5-2.5mg/kg Second-Plateau: 2.5-7.5mg/kg Third-Plateau: 7.5-15mg/kg Fourth: 15-20mg/kg | NOTE: See http://dxm.tripsit.me for mg/lb doses, among other things. Deaths have been reported at 25mg/kg",
+    "duration": "6-8 hours",
+    "onset": "20-60 minutes",
+    "summary": "Commonly found in certain over the counter cough medicines. Has dissociative effects similar to ketamine or MXE, though also shares properties with opioids and alcohol. It is recommended to dose DXM through direct ingestion of the drug, without other active ingrediants such as guaifenesin or doxylamine."
+  },
+  "pweffects": {
+    "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
+    "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+    "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+    "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+    "Auditory suppression": "https://psychonautwiki.org/wiki/Auditory_suppression",
+    "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+    "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+    "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+    "Consciousness disconnection": "https://psychonautwiki.org/wiki/Consciousness_disconnection",
+    "Cough suppression": "https://psychonautwiki.org/wiki/Cough_suppression",
+    "Creativity enhancement": "https://psychonautwiki.org/wiki/Creativity_enhancement",
+    "Déjà vu": "https://psychonautwiki.org/wiki/D%C3%A9j%C3%A0_vu",
+    "Depersonalization": "https://psychonautwiki.org/wiki/Depersonalization",
+    "Derealization": "https://psychonautwiki.org/wiki/Derealization",
+    "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+    "Double vision": "https://psychonautwiki.org/wiki/Double_vision",
+    "Environmental cubism": "https://psychonautwiki.org/wiki/Environmental_cubism",
+    "Environmental orbism": "https://psychonautwiki.org/wiki/Environmental_orbism",
+    "External hallucinations": "https://psychonautwiki.org/wiki/External_hallucinations",
+    "Frame rate suppression": "https://psychonautwiki.org/wiki/Frame_rate_suppression",
+    "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+    "Immersion enhancement": "https://psychonautwiki.org/wiki/Immersion_enhancement",
+    "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+    "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+    "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+    "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+    "Pattern recognition suppression": "https://psychonautwiki.org/wiki/Pattern_recognition_suppression",
+    "Perception of decreased weight": "https://psychonautwiki.org/wiki/Perception_of_decreased_weight",
+    "Personal bias suppression": "https://psychonautwiki.org/wiki/Personal_bias_suppression",
+    "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+    "Perspective distortions": "https://psychonautwiki.org/wiki/Perspective_distortions",
+    "Physical autonomy": "https://psychonautwiki.org/wiki/Physical_autonomy",
+    "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+    "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+    "Scenery slicing": "https://psychonautwiki.org/wiki/Scenery_slicing",
+    "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+    "Tactile disconnection": "https://psychonautwiki.org/wiki/Tactile_disconnection",
+    "Tactile suppression": "https://psychonautwiki.org/wiki/Tactile_suppression",
+    "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+    "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+    "Unity and interconnectedness": "https://psychonautwiki.org/wiki/Unity_and_interconnectedness",
+    "Visual disconnection": "https://psychonautwiki.org/wiki/Visual_disconnection",
+    "Visual sliding": "https://psychonautwiki.org/wiki/Visual_sliding"
+  },
+  "sources": {
+    "_general": [
+      "Dextromethorphan and its metabolite dextrorphan block alpha3beta4 neuronal nicotinic receptors. - http://www.ncbi.nlm.nih.gov/pubmed/10869398",
+      "Dextromethorphan potentiates the antinociceptive effects of morphine and the delta-opioid agonist SNC80 in squirrel monkeys. - http://www.ncbi.nlm.nih.gov/pubmed/11805202",
+      "Dextromethorphan psychosis, dependence and physical withdrawal. - http://www.ncbi.nlm.nih.gov/pubmed/16318953",
+      "Evaluation the effects of dextromethorphan and midazolam on morphine induced tolerance and dependence in mice. - http://www.ncbi.nlm.nih.gov/pubmed/18819620",
+      "Dextromethorphan as a potential rapid-acting antidepressant. - http://www.ncbi.nlm.nih.gov/pubmed/21367535",
+      "The treatment of heroin addicts with dextromethorphan: a double-blind comparison of dextromethorphan with chlorpromazine. - http://www.ncbi.nlm.nih.gov/pubmed/2187002",
+      "High doses of dextromethorphan, an NMDA antagonist, produce effects similar to classic hallucinogens. - http://www.ncbi.nlm.nih.gov/pubmed/22526529",
+      "Lack of efficacy of dextromethorphan in managing alcohol withdrawal: a preliminary report of a randomized, double-blind, placebo-controlled trial. - http://www.ncbi.nlm.nih.gov/pubmed/24346753"
+    ]
+  }
+}

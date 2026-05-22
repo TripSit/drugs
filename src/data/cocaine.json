@@ -1,0 +1,116 @@
+{
+  "aliases": [
+    "coke"
+  ],
+  "categories": [
+    "stimulant",
+    "habit-forming",
+    "common"
+  ],
+  "dose_note": "Rapid onset. Depending on purity, dosage will vary",
+  "formatted_aftereffects": {
+    "_unit": "hours",
+    "value": "1-4"
+  },
+  "formatted_dose": {
+    "Insufflated": {
+      "Common": "50-100mg",
+      "Heavy": "150mg+",
+      "Light": "20-50mg",
+      "Strong": "100-150mg"
+    }
+  },
+  "formatted_duration": {
+    "_unit": "hours",
+    "value": "1-1.5"
+  },
+  "formatted_effects": [
+    "Elevated mood",
+    "Increase in irritability",
+    "hyper-inflated ego",
+    "euphoria",
+    "stimulation",
+    "raised heartrate",
+    "numbing effects depending on ROA",
+    "nausea (particularly at high doses)"
+  ],
+  "links": {
+    "experiences": "https://www.erowid.org/experiences/subs/exp_Cocaine.shtml"
+  },
+  "name": "cocaine",
+  "pretty_name": "Cocaine",
+  "properties": {
+    "after-effects": "1-4 hours.",
+    "aliases": [
+      "coke"
+    ],
+    "bioavailability": "Cocaine Oral 25-35% | Insufflated 40-60%. NOTE: This is for Cocaine HCl.",
+    "categories": [
+      "stimulant",
+      "habit-forming",
+      "common"
+    ],
+    "detection": "Saliva: 1 day, Urine: 4-5 days, Hair: up to 90 days",
+    "dose": "Insufflated Light: 20-50mg Common: 50-100mg Strong: 100-150mg Heavy: 150mg+ | NOTE: Depending on purity, dosage will vary",
+    "duration": "1-1.5 hours",
+    "effects": "Elevated mood. Increase in irritability, hyper-inflated ego, euphoria, stimulation, raised heartrate, numbing effects depending on ROA, nausea (particularly at high doses)",
+    "marquis": "Clear (No change)",
+    "onset": "Rapid.",
+    "summary": "A highly popular, short-acting CNS stimulant that works by blocking the reuptake of dopamine, serotonin, and norepinephrine. It is known to increase euphoria, confidence, sex-drive, focus, body temperature, and heart rate. Cocaine can cause severe vasoconstriction and is known to be cardiotoxic and have a high potential for compulsive redosing and addiction."
+  },
+  "pweffects": {
+    "Abnormal heartbeat": "https://psychonautwiki.org/wiki/Abnormal_heartbeat",
+    "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+    "Appetite suppression": "https://psychonautwiki.org/wiki/Appetite_suppression",
+    "Bronchodilation": "https://psychonautwiki.org/wiki/Bronchodilation",
+    "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+    "Cognitive fatigue": "https://psychonautwiki.org/wiki/Cognitive_fatigue",
+    "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+    "Dehydration": "https://psychonautwiki.org/wiki/Dehydration",
+    "Depression": "https://psychonautwiki.org/wiki/Depression",
+    "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+    "Ego inflation": "https://psychonautwiki.org/wiki/Ego_inflation",
+    "Focus enhancement": "https://psychonautwiki.org/wiki/Focus_enhancement",
+    "Increased blood pressure": "https://psychonautwiki.org/wiki/Increased_blood_pressure",
+    "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
+    "Increased libido": "https://psychonautwiki.org/wiki/Increased_libido",
+    "Increased perspiration": "https://psychonautwiki.org/wiki/Increased_perspiration",
+    "Irritability": "https://psychonautwiki.org/wiki/Irritability",
+    "Motivation enhancement": "https://psychonautwiki.org/wiki/Motivation_enhancement",
+    "Pain relief": "https://psychonautwiki.org/wiki/Pain_relief",
+    "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+    "Teeth grinding": "https://psychonautwiki.org/wiki/Teeth_grinding",
+    "Temporary erectile dysfunction": "https://psychonautwiki.org/wiki/Temporary_erectile_dysfunction",
+    "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+    "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+    "Thought organization": "https://psychonautwiki.org/wiki/Thought_organization",
+    "Vasoconstriction": "https://psychonautwiki.org/wiki/Vasoconstriction",
+    "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  },
+  "sources": {
+    "_general": [
+      "Rhabdomyolysis associated with cocaine abuse. -https://www.ncbi.nlm.nih.gov/pubmed/1743698",
+      "Rhabdomyolysis associated with cocaine abuse. - https://www.ncbi.nlm.nih.gov/pubmed/1743698",
+      "The beta-lactam antibiotic ceftriaxone inhibits physical dependence and abstinence-induced withdrawal from cocaine, amphetamine, methamphetamine, a... - https://www.ncbi.nlm.nih.gov/pubmed/18342307",
+      "Effects of concurrent use of alcohol and cocaine. - http://www.ncbi.nlm.nih.gov/pubmed/12133112",
+      "Cocaine-like neurochemical effects of antihistaminic medications. - http://www.ncbi.nlm.nih.gov/pubmed/18363822",
+      "Cocaine cardiotoxicity: a review of the pathophysiology, pathology, and treatment options. - http://www.ncbi.nlm.nih.gov/pubmed/19463023",
+      "Citalopram enhances cocaine's subjective effects in rats. - http://www.ncbi.nlm.nih.gov/pubmed/20195220",
+      "Role of voltage-gated sodium, potassium and calcium channels in the development of cocaine-associated cardiac arrhythmias. - http://www.ncbi.nlm.nih.gov/pubmed/20573078",
+      "High cocaine dosage decreases neurogenesis in the hippocampus and impairs working memory. - http://www.ncbi.nlm.nih.gov/pubmed/20731634",
+      "The effects of combinations of intranasal cocaine, smoked marijuana, and task performance on heart rate and blood pressure. - http://www.ncbi.nlm.nih.gov/pubmed/2162543",
+      "Lack of cocaine-like discriminative-stimulus effects of σ-receptor agonists in rats. - http://www.ncbi.nlm.nih.gov/pubmed/21808192",
+      "Pregabalin reduces cocaine self-administration and relapse to cocaine seeking in the rat. - http://www.ncbi.nlm.nih.gov/pubmed/22734646",
+      "Cocaine potentiates MDMA-induced oxidative stress but not dopaminergic neurotoxicity in mice: implications for the pathogenesis of free radical-ind... - http://www.ncbi.nlm.nih.gov/pubmed/23681166",
+      "Effects of escitalopram on attentional bias to cocaine-related stimuli and inhibitory control in cocaine-dependent subjects. - http://www.ncbi.nlm.nih.gov/pubmed/23761390",
+      "Aminorex, a metabolite of the cocaine adulterant levamisole, exerts amphetamine like actions at monoamine transporters. - http://www.ncbi.nlm.nih.gov/pubmed/24296074",
+      "Long Withdrawal of Methylphenidate Induces a Differential Response of the Dopaminergic System and Increases Sensitivity to Cocaine in the Prefronta... - http://www.ncbi.nlm.nih.gov/pubmed/26509840",
+      "Cocaine tolerance and cross-tolerance. - http://www.ncbi.nlm.nih.gov/pubmed/8093724",
+      "Cocaethylene is as cardiotoxic as cocaine but is less toxic than cocaine plus ethanol. - http://www.ncbi.nlm.nih.gov/pubmed/8761012",
+      "Differential potentiation of L-tryptophan-induced head-twitch response in mice by cocaine and sertraline. - http://www.ncbi.nlm.nih.gov/pubmed/8831798",
+      "Cocaine contamination of United States paper currency. - http://www.ncbi.nlm.nih.gov/pubmed/8835657",
+      "A study suggests that having a history of cocaine and poly drug abuse can lead to acute open-angle glaucoma - http://journals.lww.com/glaucomajournal/Abstract/2011/09000/Substance_Use_Disorder_and_the_Risk_of_Open_angle.9.aspx",
+      "using cocaine while pregnant is dangerous for the fetus's health - https://www.drugabuse.gov/publications/research-reports/cocaine/what-are-effects-maternal-cocaine-use"
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "aliases": [
+    "etoh",
+    "beer",
+    "ethanol",
+    "booze",
+    "hooch"
+  ],
+  "categories": [
+    "depressant",
+    "habit-forming",
+    "common"
+  ],
+  "dose_note": " NOTE: Alcohol consumption should be spread out over a few hours and ideally separated by water breaks. Check the label on alcohol for unit content",
+  "formatted_aftereffects": {
+    "_unit": "hours",
+    "value": "6-48"
+  },
+  "formatted_dose": {
+    "Oral": {
+      "Common": "2-4units",
+      "Heavy": "5-6units",
+      "Light": "1-2units"
+    }
+  },
+  "formatted_duration": {
+    "_unit": "hours",
+    "value": "1.5-3"
+  },
+  "formatted_effects": [
+    "relaxation",
+    "mood lift",
+    "happiness",
+    "sociability",
+    "lowered inhibitions",
+    "analgesia",
+    "slurred speech",
+    "flushed skin",
+    "drowsiness",
+    "tolerance",
+    "euphoria",
+    "amnesia"
+  ],
+  "formatted_onset": {
+    "_unit": "minutes",
+    "value": "15-30"
+  },
+  "links": {
+    "experiences": "https://www.erowid.org/experiences/subs/exp_Alcohol.shtml"
+  },
+  "name": "alcohol",
+  "pretty_name": "Alcohol",
+  "properties": {
+    "after-effects": "6-48 hours",
+    "aliases": [
+      "etoh",
+      "beer",
+      "ethanol",
+      "booze",
+      "hooch"
+    ],
+    "categories": [
+      "depressant",
+      "habit-forming",
+      "common"
+    ],
+    "detection": "12 hrs blood, 6-12 hrs saliva, 6-24 hrs urine",
+    "dose": "Oral Light: 1-2units Common: 2-4units Heavy: 5-6units | NOTE: Alcohol consumption should be spread out over a few hours and ideally separated by water breaks. It is recommended to review the label on alcohol for unit content",
+    "duration": "1.5-3 hours",
+    "effects": "relaxation, mood lift, happiness, sociability, lowered inhibitions, analgesia, slurred speech, flushed skin, drowsiness, tolerance, euphoria, amnesia",
+    "onset": "15-30 minutes",
+    "summary": "Alcohol is a CNS depressant that acts through the GABAₐ receptor, and is one of the most common strong psychoactives used by humans. It has a long history of use and its intoxicating effects are well-studied and documented. It remains legal in most parts of the world."
+  },
+  "pweffects": {
+    "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
+    "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+    "Analysis suppression": "https://psychonautwiki.org/wiki/Analysis_suppression",
+    "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+    "Auditory suppression": "https://psychonautwiki.org/wiki/Auditory_suppression",
+    "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+    "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+    "Creativity suppression": "https://psychonautwiki.org/wiki/Creativity_suppression",
+    "Dehydration": "https://psychonautwiki.org/wiki/Dehydration",
+    "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+    "Depression": "https://psychonautwiki.org/wiki/Depression",
+    "Difficulty urinating": "https://psychonautwiki.org/wiki/Difficulty_urinating",
+    "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+    "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+    "Double vision": "https://psychonautwiki.org/wiki/Double_vision",
+    "Ego inflation": "https://psychonautwiki.org/wiki/Ego_inflation",
+    "Empathy, love, and sociability enhancement": "https://psychonautwiki.org/wiki/Empathy,_love,_and_sociability_enhancement",
+    "Frequent urination": "https://psychonautwiki.org/wiki/Frequent_urination",
+    "Headaches": "https://psychonautwiki.org/wiki/Headaches",
+    "Increased blood pressure": "https://psychonautwiki.org/wiki/Increased_blood_pressure",
+    "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+    "Language suppression": "https://psychonautwiki.org/wiki/Language_suppression",
+    "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+    "Muscle relaxation": "https://psychonautwiki.org/wiki/Muscle_relaxation",
+    "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+    "Pain relief": "https://psychonautwiki.org/wiki/Pain_relief",
+    "Pattern recognition suppression": "https://psychonautwiki.org/wiki/Pattern_recognition_suppression",
+    "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+    "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+    "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+    "Tactile suppression": "https://psychonautwiki.org/wiki/Tactile_suppression",
+    "Temporary erectile dysfunction": "https://psychonautwiki.org/wiki/Temporary_erectile_dysfunction",
+    "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+    "Thought disorganization": "https://psychonautwiki.org/wiki/Thought_disorganization"
+  },
+  "sources": {
+    "_general": [
+      "Alcohol and benzodiazepines in fatal poisonings. - https://www.ncbi.nlm.nih.gov/pubmed/12170103",
+      "Drinking while pregnant creates and strengthens many risks associated with childbirth. It will also increase the chances of premature labour, which can be incredibly dangerous for both the baby and mother. -"
+    ]
+  }
+}

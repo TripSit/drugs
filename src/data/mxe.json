@@ -1,0 +1,145 @@
+{
+  "aliases": [
+    "methoxetamine",
+    "3-meo-2'oxo-pce"
+  ],
+  "categories": [
+    "dissociative",
+    "research-chemical",
+    "habit-forming"
+  ],
+  "dose_note": " NOTE: Bodyweight plays a slight factor in MXE dosing, these are values for a 175lb (80kg) male",
+  "formatted_aftereffects": {
+    "_unit": "hours",
+    "value": "2-48"
+  },
+  "formatted_dose": {
+    "Insufflated": {
+      "Common": "20-35mg",
+      "Heavy": "60mg+",
+      "Light": "10-20mg",
+      "Strong": "35-60mg",
+      "Threshold": "5-10mg"
+    },
+    "Oral": {
+      "Common": "25-35mg",
+      "Light": "15-25mg",
+      "Strong": "40-65mg",
+      "Threshold": "10-15mg"
+    },
+    "Sublingual": {
+      "Common": "40-60mg",
+      "Light": "10-20mg",
+      "Strong": "60-75mg",
+      "Threshold": "5-10mg"
+    }
+  },
+  "formatted_duration": {
+    "_unit": "hours",
+    "value": "3-6"
+  },
+  "formatted_onset": {
+    "_unit": "minutes",
+    "Insufflated": "5-20",
+    "Oral": "30-60",
+    "Sublingual": "15-45"
+  },
+  "links": {
+    "experiences": "https://www.erowid.org/experiences/subs/exp_Methoxetamine_.shtml"
+  },
+  "name": "mxe",
+  "pretty_name": "MXE",
+  "properties": {
+    "after-effects": "2-48 hours",
+    "aliases": [
+      "methoxetamine",
+      "3-meo-2'oxo-pce"
+    ],
+    "avoid": "CNS depressants such as alcohol, benzodiazepines, and opioids. Additionally substances that have an effect on serotonin such as MDMA, methamphetamine, and dextromethorphan (DXM).",
+    "categories": [
+      "dissociative",
+      "research-chemical",
+      "habit-forming"
+    ],
+    "dose": "Insufflated Threshold: 5-10mg Light: 10-20mg Common: 20-35mg Strong: 35-60mg Heavy: 60mg+ M-Hole: 70mg+ | Oral Threshold: 10-15mg Light: 15-25mg Common: 25-35 Strong: 40-65mg M-Hole: 75mg+ | Sublingual Threshold: 5-10mg Low: 10-20mg Common: 40-60mg Strong: 60-75mg M-Hole: 75-100mg | NOTE: Bodyweight plays a slight factor in MXE dosing, these are values for a 175lb (80kg) male",
+    "duration": "3-6 hours",
+    "legal": "Methoxetamine is scheduled and or controlled in Brazil, Canada, China, EU, Finland, Israel, Japan, Poland, Russia, United Kingdom, United Nations, and the United States (among others).",
+    "onset": "Insufflated: 5-20 minutes | Oral: 30-60 minutes | Sublingual: 15-45 minutes",
+    "summary": "A dissociative drug which is an analogue of ketamine. It is reported to be less sedating and more potent by weight. Anectodal reports indicate it has a subjectively more 'complicated' set of effects."
+  },
+  "pweffects": {
+    "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
+    "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+    "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+    "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+    "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+    "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+    "Auditory suppression": "https://psychonautwiki.org/wiki/Auditory_suppression",
+    "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+    "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+    "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+    "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+    "Consciousness disconnection": "https://psychonautwiki.org/wiki/Consciousness_disconnection",
+    "Creativity enhancement": "https://psychonautwiki.org/wiki/Creativity_enhancement",
+    "Déjà vu": "https://psychonautwiki.org/wiki/D%C3%A9j%C3%A0_vu",
+    "Depersonalization": "https://psychonautwiki.org/wiki/Depersonalization",
+    "Derealization": "https://psychonautwiki.org/wiki/Derealization",
+    "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+    "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+    "Double vision": "https://psychonautwiki.org/wiki/Double_vision",
+    "Environmental cubism": "https://psychonautwiki.org/wiki/Environmental_cubism",
+    "Environmental orbism": "https://psychonautwiki.org/wiki/Environmental_orbism",
+    "External hallucinations": "https://psychonautwiki.org/wiki/External_hallucinations",
+    "Frame rate suppression": "https://psychonautwiki.org/wiki/Frame_rate_suppression",
+    "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+    "Immersion enhancement": "https://psychonautwiki.org/wiki/Immersion_enhancement",
+    "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+    "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+    "Mania": "https://psychonautwiki.org/wiki/Mania",
+    "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+    "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+    "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+    "Pattern recognition suppression": "https://psychonautwiki.org/wiki/Pattern_recognition_suppression",
+    "Perception of decreased weight": "https://psychonautwiki.org/wiki/Perception_of_decreased_weight",
+    "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+    "Perspective distortions": "https://psychonautwiki.org/wiki/Perspective_distortions",
+    "Physical autonomy": "https://psychonautwiki.org/wiki/Physical_autonomy",
+    "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+    "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+    "Scenery slicing": "https://psychonautwiki.org/wiki/Scenery_slicing",
+    "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+    "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+    "Tactile disconnection": "https://psychonautwiki.org/wiki/Tactile_disconnection",
+    "Tactile suppression": "https://psychonautwiki.org/wiki/Tactile_suppression",
+    "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+    "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+    "Unity and interconnectedness": "https://psychonautwiki.org/wiki/Unity_and_interconnectedness",
+    "Visual disconnection": "https://psychonautwiki.org/wiki/Visual_disconnection",
+    "Visual sliding": "https://psychonautwiki.org/wiki/Visual_sliding"
+  },
+  "sources": {
+    "_general": [
+      "Methoxetamine associated reversible cerebellar toxicity: three cases with analytical confirmation. - http://www.ncbi.nlm.nih.gov/pubmed/22578175",
+      "Methoxetamine: from drug of abuse to rapid-acting antidepressant. - http://www.ncbi.nlm.nih.gov/pubmed/22819129",
+      "From Special K to Special M: the evolution of the recreational use of ketamine and methoxetamine. - http://www.ncbi.nlm.nih.gov/pubmed/23421859",
+      "Ketamine-derived designer drug methoxetamine: metabolism including isoenzyme kinetics and toxicological detectability using GC-MS and LC-(HR-)MSn - http://www.ncbi.nlm.nih.gov/pubmed/23774830",
+      "Three months of methoxetamine administration is associated with significant bladder and renal toxicity in mice. - http://www.ncbi.nlm.nih.gov/pubmed/24580056",
+      "Analytical findings of an acute intoxication after inhalation of methoxetamine. - http://www.ncbi.nlm.nih.gov/pubmed/24904014",
+      "Acute methoxetamine and amphetamine poisoning with fatal outcome: a case report - http://www.ncbi.nlm.nih.gov/pubmed/25060403",
+      "From \"Special K\" to \"Special M\": the evolution of the recreational use of ketamine and methoxetamine. - http://www.ncbi.nlm.nih.gov/pubmed/23421859",
+      "Ketamine-derived designer drug methoxetamine: metabolism including isoenzyme kinetics and toxicological detectability using GC-MS and LC-(HR-)MSn. - http://www.ncbi.nlm.nih.gov/pubmed/23774830",
+      "Acute methoxetamine and amphetamine poisoning with fatal outcome: a case report. - http://www.ncbi.nlm.nih.gov/pubmed/25060403~adddrugsource cannabis general Cannabis use in relation to obesity and insulin resistance in the Inuit population. - https://www.ncbi.nlm.nih.gov/pubmed/25557382",
+      "3 case reports of toxicity due to recreational use of MXE - http://link.springer.com/article/10.1007/s00228-011-1199-9"
+    ],
+    "legality": [
+      "http://www.azleg.gov/DocumentsForBill.asp?Session_ID=112&Bill_Number=HB2453",
+      "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0800-0899/0893/0893.html",
+      "http://www.in.gov/legislative/ic/2010/title35/ar31.5/ch2.html",
+      "http://www.legis.la.gov/legis/ViewDocument.aspx?d=850979&n=HB10%20Act",
+      "https://www.revisor.mn.gov/statutes/?id=152.02",
+      "http://www.legis.nd.gov/cencode/t19c03-1.pdf?20140721032549",
+      "http://www.legislature.state.oh.us/BillText130/130_HB_315_RH_N.html",
+      "http://www.legislation.gov.uk/uksi/2013/239/contents/made"
+    ]
+  }
+}

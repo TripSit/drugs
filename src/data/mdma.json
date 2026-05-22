@@ -1,0 +1,127 @@
+{
+  "aliases": [
+    "molly",
+    "ecstasy",
+    "adam",
+    "xtc",
+    "mandy",
+    "x",
+    "md"
+  ],
+  "categories": [
+    "stimulant",
+    "psychedelic",
+    "empathogen",
+    "habit-forming",
+    "common"
+  ],
+  "dose_note": " NOTE: Higher dosages may increase neurotoxic effects",
+  "formatted_aftereffects": {
+    "_unit": "hours",
+    "value": "1-72"
+  },
+  "formatted_dose": {
+    "Insufflated": {
+      "Common": "70-120mg",
+      "Heavy": "165mg+",
+      "Light": "30-70mg",
+      "Strong": "120-165mg"
+    },
+    "Oral": {
+      "Common": "75-125mg",
+      "Heavy": "175mg+",
+      "Light": "40-75mg",
+      "Strong": "125-175mg"
+    },
+    "Rectal": {
+      "Common": "70-120mg",
+      "Heavy": "165mg+",
+      "Light": "30-70mg",
+      "Strong": "120-165mg"
+    }
+  },
+  "formatted_duration": {
+    "_unit": "hours",
+    "value": "3-5"
+  },
+  "formatted_onset": {
+    "_unit": "minutes",
+    "value": "20-70"
+  },
+  "links": {
+    "experiences": "https://www.erowid.org/experiences/subs/exp_MDMA.shtml",
+    "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal109.shtml"
+  },
+  "name": "mdma",
+  "pretty_name": "MDMA",
+  "properties": {
+    "after-effects": "1-72 hours.",
+    "aliases": [
+      "molly",
+      "ecstasy",
+      "adam",
+      "xtc",
+      "mandy",
+      "x",
+      "md"
+    ],
+    "categories": [
+      "stimulant",
+      "psychedelic",
+      "empathogen",
+      "habit-forming",
+      "common"
+    ],
+    "detection": "1-3 days single use, 3-5 days heavy use",
+    "dose": "Oral Light: 40-75mg  Common: 75-125mg  Strong: 125-175mg  Heavy: 175mg+ | Insufflated/Rectal Light: 30-70mg  Common: 70-120mg Strong: 120-165mg  Heavy: 165mg+ | NOTE: Higher doses may increase neurotoxic effects",
+    "duration": "3-5 hours",
+    "general-advice": "It is recommended to wait at minimu multiple months between MDMA rolls.",
+    "marquis": "Black (may have purple tint)",
+    "onset": "20-70 minutes",
+    "summary": "The drug has been associated with cognitive decline when taken in excess. The drug is used in a variety of ways, such as parties, music festivals, psychedelic therapy, and more. The drug often sold as powder or in pressed pills, and may be adulterated with other similar chemicals.",
+    "wiki": "http://wiki.tripsit.me/wiki/MDMA"
+  },
+  "sources": {
+    "_general": [
+      "Alpha-lipoic acid prevents 3,4-methylenedioxy-methamphetamine (MDMA)-induced neurotoxicity - http://www.ncbi.nlm.nih.gov/pubmed/10619665",
+      "Involvement of free radicals in MDMA-induced neurotoxicity in mice. - http://www.ncbi.nlm.nih.gov/pubmed/11435997",
+      "Methamphetamine and MDMA (ecstasy) neurotoxicity: 'of mice and men'. - http://www.ncbi.nlm.nih.gov/pubmed/15370888",
+      "The neurotoxic effects of 3,4-methylenedioxymethamphetamine (MDMA) and methamphetamine on serotonin, dopamine, and GABA-ergic terminals - http://www.ncbi.nlm.nih.gov/pubmed/15474609",
+      "MDMA (Ecstasy) and human dopamine, norepinephrine, and serotonin transporters: implications for MDMA-induced neurotoxicity and treatment. - http://www.ncbi.nlm.nih.gov/pubmed/16220332",
+      "Pharmacological aspects of the combined use of 3,4-methylenedioxymethamphetamine (MDMA, ecstasy) and gamma-hydroxybutyric acid (GHB) - http://www.ncbi.nlm.nih.gov/pubmed/16234132",
+      "3,4-Methylenedioxymethamphetamine (MDMA) neurotoxicity in rats: a reappraisal of past and present findings. - http://www.ncbi.nlm.nih.gov/pubmed/16541247",
+      "The effects of fluoxetine on the subjective and physiological effects of 3,4-methylenedioxymethamphetamine (MDMA) in humans - http://www.ncbi.nlm.nih.gov/pubmed/17047932",
+      "Neurogenic bladder and chronic urinary retention associated with MDMA abuse. - http://www.ncbi.nlm.nih.gov/pubmed/18570171",
+      "THC Prevents MDMA Neurotoxicity in Mice - http://www.ncbi.nlm.nih.gov/pubmed/20174577",
+      "Effects of a beta-blocker on the cardiovascular response to MDMA (Ecstasy). - http://www.ncbi.nlm.nih.gov/pubmed/20378736",
+      "Neurotoxicity of ecstasy (MDMA): an overview - http://www.ncbi.nlm.nih.gov/pubmed/20420572",
+      "MDMA: interactions with other psychoactive drugs - http://www.ncbi.nlm.nih.gov/pubmed/21756931",
+      "MDMA and temperature: a review of the thermal effects of 'Ecstasy' in humans. - http://www.ncbi.nlm.nih.gov/pubmed/21924843",
+      "MDMA (ecstasy) effects on actual driving performance before and after sleep deprivation, as function of dose and concentration in blood and oral... - http://www.ncbi.nlm.nih.gov/pubmed/21952668",
+      "MDMA increases glutamate release and reduces parvalbumin-positive GABAergic cells in the dorsal hippocampus of the rat: role of cyclooxygenase. - http://www.ncbi.nlm.nih.gov/pubmed/23179355",
+      "MDMA Illicit use of LSD or psilocybin, but not MDMA or nonpsychedelic drugs, is associated with mystical experiences in a dose-dependent manner. - http://www.ncbi.nlm.nih.gov/pubmed/23457892",
+      "Cocaine potentiates MDMA-induced oxidative stress but not dopaminergic neurotoxicity in mice: implications for the pathogenesis of free radical - http://www.ncbi.nlm.nih.gov/pubmed/23681166",
+      "MDMA-induced neurotoxicity: parameters of degeneration and recovery of brain serotonin neurons. - http://www.ncbi.nlm.nih.gov/pubmed/2452449",
+      "MDMA, cortisol, and heightened stress in recreational ecstasy users. - http://www.ncbi.nlm.nih.gov/pubmed/25014666",
+      "A study of the mechanism of MDMA ('ecstasy')-induced neurotoxicity of 5-HT neurones using chlormethiazole, dizocilpine and other protective compounds. - http://www.ncbi.nlm.nih.gov/pubmed/7516800",
+      "Inhibition of MAO-B protects against MDMA-induced neurotoxicity in the striatum. - http://www.ncbi.nlm.nih.gov/pubmed/7542394",
+      "MDMA (ecstasy) inhibition of MAO type A and type B: comparisons with fenfluramine and fluoxetine (Prozac). - http://www.ncbi.nlm.nih.gov/pubmed/7945733",
+      "Ecstasy use and serotonin syndrome: a neglected danger to adolescents and young adults prescribed selective serotonin reuptake inhibitors. - https://www.ncbi.nlm.nih.gov/pubmed/24006318",
+      "3,4-Methylenedioxymethamphetamine (ecstasy) and alcohol interactions in humans: psychomotor performance, subjective effects, and pharmacokinetics. - http://www.ncbi.nlm.nih.gov/pubmed/11752122",
+      "Putting an Ecstasy test kit to the test: harm reduction or harm induction? - http://www.ncbi.nlm.nih.gov/pubmed/14594341",
+      "MDMA Vasopressin and oxytocin secretion in response to the consumption of ecstasy in a clubbing population. - http://www.ncbi.nlm.nih.gov/pubmed/16574714",
+      "Monoamine oxidase-B mediates ecstasy-induced neurotoxic effects to adolescent rat brain mitochondria. - http://www.ncbi.nlm.nih.gov/pubmed/17881526",
+      "Increased oxytocin concentrations and prosocial feelings in humans after ecstasy (3,4-methylenedioxymethamphetamine) administration. - http://www.ncbi.nlm.nih.gov/pubmed/19562632",
+      "Neurotoxicity of ecstasy (MDMA): an overview. - http://www.ncbi.nlm.nih.gov/pubmed/20420572",
+      "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats - http://www.ncbi.nlm.nih.gov/pubmed/21615721",
+      "Neurotoxicity of ecstasy and its metabolites in human dopaminergic differentiated SH-SY5Y cells. - http://www.ncbi.nlm.nih.gov/pubmed/23194825",
+      "Neuroprotective properties of melissa officinalis L. Extract against ecstasy-induced neurotoxicity. - http://www.ncbi.nlm.nih.gov/pubmed/23671824",
+      "Ecstasy use and serotonin syndrome: a neglected danger to adolescents and young adults prescribed selective serotonin reuptake inhibitors. - http://www.ncbi.nlm.nih.gov/pubmed/24006318",
+      "MDMA, cortisol, and heightened stress in recreational ecstasy users - http://www.ncbi.nlm.nih.gov/pubmed/25014666",
+      "History of MDMA - http://www.mdma.net/merck/history-ecstasy.html",
+      "Study associating long-term serotonergic injury from use of MDMA - http://www.ncbi.nlm.nih.gov/pubmed/7643196",
+      "Even after abstaining as long as 2.5 years, verbal memory deficits were still present in ex-mdma abuserd, indicating that the neurotoxicity may have some permanent damage features - http://m.jop.sagepub.com/content/20/2/211.short",
+      "http://onlinelibrary.wiley.com/doi/10.1002/nrc.20023/abstract Potentiation of (DL)-3,4-methylenedioxymethamphetamine (MDMA)-induced toxicity by the serotonin 2A receptior partial agonist d-lysergic acid diethylamide (LSD), and the protection of same by the serotonin 2A/2C receptor antagonist MDL 11,939"
+    ]
+  }
+}

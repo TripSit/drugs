@@ -1,0 +1,130 @@
+{
+  "aliases": [
+    "n,n-dmt",
+    "dimethyltryptamine"
+  ],
+  "categories": [
+    "psychedelic",
+    "common"
+  ],
+  "dose_note": " NOTE: These figures are for 100% effective vaporization methods. Typical methods of vaporization are not 100% effective. The likelihood of having a \"breakthrough\" experience increases with dosages. Caution is advised.",
+  "formatted_aftereffects": {
+    "_unit": "minutes",
+    "value": "15-60"
+  },
+  "formatted_dose": {
+    "Insufflated": {
+      "Common": "25-50mg",
+      "Light": "10-25mg",
+      "Strong": "50-125mg+"
+    },
+    "Intravenous": {
+      "Common": "15-25mg",
+      "Light": "10-15mg",
+      "Strong": "25-40mg"
+    },
+    "Vapourized": {
+      "Common": "15-25mg",
+      "Heavy": "35mg+",
+      "Light": "10-15mg",
+      "Strong": "25-35mg",
+      "Threshold": "5-10mg"
+    }
+  },
+  "formatted_duration": {
+    "_unit": "minutes",
+    "Insufflated": "45-60",
+    "Oral_MAOI": "180-420",
+    "Smoked": "3-10",
+    "Vapourized": "3-10"
+  },
+  "formatted_effects": [
+    "immersive experience",
+    "open eye visuals",
+    "radical perspective shifting",
+    "profound life-changing spiritual experiences",
+    "powerful rushing of sensation",
+    "change in perception of time",
+    "auditory hallucinations",
+    "color shifting",
+    "hard on lungs when smoking",
+    "stomach discomfort",
+    "difficulty integrating experiences",
+    "overwhelming fear"
+  ],
+  "formatted_onset": {
+    "_unit": "minutes",
+    "Insufflated": "3-5",
+    "Oral": "20-45",
+    "Vapourized": "0-2"
+  },
+  "links": {
+    "experiences": "https://www.erowid.org/experiences/subs/exp_DMT.shtml",
+    "tihkal": "https://www.erowid.org/library/books_online/tihkal/tihkal06.shtml"
+  },
+  "name": "dmt",
+  "pretty_name": "DMT",
+  "properties": {
+    "after-effects": "15-60 minutes",
+    "aliases": [
+      "n,n-dmt",
+      "dimethyltryptamine"
+    ],
+    "categories": [
+      "psychedelic",
+      "common"
+    ],
+    "dose": "Vapourised Threshold: 5-10mg Light: 10-15mg Common: 15-25mg Strong: 25-35mg Heavy: 35mg+ | Insufflated Light: 10-25mg Common: 25-50mg Strong: 50-125mg+ | Intravenous Light: 10-15mg Common: 15-25mg Strong: 25-40mg",
+    "duration": "Vapourized/smoked: 3-10 minutes | Oral_MAOI: 180-420 minutes | Insufflated: 45-60 minutes",
+    "effects": "immersive experience, open eye visuals, radical perspective shifting, profound life-changing spiritual experiences, powerful rushing of sensation, change in perception of time, auditory hallucinations, color shifting, hard on lungs when smoking, stomach discomfort, difficulty integrating experiences, overwhelming fear",
+    "half-life": "10-20 minutes",
+    "marquis": "Orange",
+    "molecule": "http://www.erowid.org/chemicals/dmt/images/archive/dmt_3d_mid.jpg",
+    "onset": "Vapourized/smoked: 0-2 minutes | Oral_MAOI: 20-45 minutes | Insufflated: 3-5 minutes",
+    "summary": "A popular and powerful psychedelic, typically used in two ways: either it is vapourised for a short 'breakthrough' experience, or it is taken in combination with an enzyme inhibitor for a long, intense trip (this is also known as ayahuasca or pharmahuasca).",
+    "vaporization": "60-80C (140-176F)"
+  },
+  "pweffects": {
+    "8B Geometry - Exposure to inner mechanics of consciousness": "https://psychonautwiki.org/wiki/8B_Geometry_-_Exposure_to_inner_mechanics_of_consciousness",
+    "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
+    "After images": "https://psychonautwiki.org/wiki/After_images",
+    "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+    "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+    "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+    "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+    "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+    "Changes in gravity": "https://psychonautwiki.org/wiki/Changes_in_gravity",
+    "Colour enhancement": "https://psychonautwiki.org/wiki/Colour_enhancement",
+    "Colour replacement": "https://psychonautwiki.org/wiki/Colour_replacement",
+    "Colour shifting": "https://psychonautwiki.org/wiki/Colour_shifting",
+    "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+    "Emotion enhancement": "https://psychonautwiki.org/wiki/Emotion_enhancement",
+    "Exposure to inner mechanics of consciousness": "https://psychonautwiki.org/wiki/Exposure_to_inner_mechanics_of_consciousness",
+    "External hallucinations": "https://psychonautwiki.org/wiki/External_hallucinations",
+    "Feelings of impending doom": "https://psychonautwiki.org/wiki/Feelings_of_impending_doom",
+    "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+    "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+    "Machinescapes": "https://psychonautwiki.org/wiki/Machinescapes",
+    "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+    "Mindfulness": "https://psychonautwiki.org/wiki/Mindfulness",
+    "Novelty enhancement": "https://psychonautwiki.org/wiki/Novelty_enhancement",
+    "Pattern recognition enhancement": "https://psychonautwiki.org/wiki/Pattern_recognition_enhancement",
+    "Personal bias suppression": "https://psychonautwiki.org/wiki/Personal_bias_suppression",
+    "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+    "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+    "Pupil dilation": "https://psychonautwiki.org/wiki/Pupil_dilation",
+    "Recursion": "https://psychonautwiki.org/wiki/Recursion",
+    "Rejuvenation": "https://psychonautwiki.org/wiki/Rejuvenation",
+    "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+    "Scenery slicing": "https://psychonautwiki.org/wiki/Scenery_slicing",
+    "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+    "Spirituality enhancement": "https://psychonautwiki.org/wiki/Spirituality_enhancement",
+    "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+    "Subconscious communication": "https://psychonautwiki.org/wiki/Subconscious_communication",
+    "Symmetrical texture repetition": "https://psychonautwiki.org/wiki/Symmetrical_texture_repetition",
+    "Temperature regulation suppression": "https://psychonautwiki.org/wiki/Temperature_regulation_suppression",
+    "Tracers": "https://psychonautwiki.org/wiki/Tracers",
+    "Transformations": "https://psychonautwiki.org/wiki/Transformations",
+    "Unity and interconnectedness": "https://psychonautwiki.org/wiki/Unity_and_interconnectedness"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "categories": [
+    "depressant",
+    "habit-forming",
+    "common"
+  ],
+  "dose_note": " NOTE: Tends to induce heavy sedation roughly at 3g and higher.",
+  "formatted_aftereffects": {
+    "_unit": "hours",
+    "value": "2-4"
+  },
+  "formatted_dose": {
+    "Oral": {
+      "Common": "1-2.5g",
+      "Dangerous": "7g+",
+      "Heavy": "3.5-5g",
+      "Light": "0.5-1.5g",
+      "Strong": "2-3.5g"
+    }
+  },
+  "formatted_duration": {
+    "_unit": "hours",
+    "value": "1.5-2.5"
+  },
+  "formatted_effects": [
+    "Similar to alcohol",
+    "but reported to feel 'cleaner'"
+  ],
+  "formatted_onset": {
+    "_unit": "minutes",
+    "value": "20-60"
+  },
+  "links": {
+    "experiences": "https://www.erowid.org/experiences/subs/exp_GHB.shtml"
+  },
+  "name": "ghb",
+  "pretty_name": "GHB",
+  "properties": {
+    "after-effects": "2-4 hours",
+    "avoid": "Alcohol, benzodiazepines, and other depressants",
+    "categories": [
+      "depressant",
+      "habit-forming",
+      "common"
+    ],
+    "dose": "Oral Light: 0.5-1.5g Common: 1-2.5g Strong: 2-3.5g Heavy: 3.5-5g Dangerous: 7g+ | NOTE: Tends to induce heavy sedation roughly at 3g and higher.",
+    "duration": "1.5-2.5 hours",
+    "effects": "Similar to alcohol, but subjectively 'cleaner'",
+    "onset": "20-60 minutes",
+    "summary": "A euphoric depressant which is prescribed as a sleep aid and sometimes to help with Alcohol detox. Also used as a recreational depressant, as a non-toxic alternative to Alcohol. Despite not having Alcohol's toxicity it is risky due to among other things inconsistent concentration in commonly sold solution form, and can be very dangerous if taken with other depressants."
+  },
+  "sources": {
+    "_general": [
+      "The presence of gamma-hydroxybutyric acid (GHB) and gamma-butyrolactone (GBL) in alcoholic and non-alcoholic beverages - http://www.ncbi.nlm.nih.gov/pubmed/15939164",
+      "Pharmacological aspects of the combined use of 3,4-methylenedioxymethamphetamine (MDMA, ecstasy) and gamma-hydroxybutyric acid (GHB): a review of t.. - http://www.ncbi.nlm.nih.gov/pubmed/16234132"
+    ]
+  }
+}

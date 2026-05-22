@@ -1,0 +1,150 @@
+{
+  "aliases": [
+    "k",
+    "ket",
+    "kitty",
+    "kittens",
+    "special k"
+  ],
+  "categories": [
+    "dissociative",
+    "habit-forming",
+    "common"
+  ],
+  "dose_note": " NOTE: Ketamine is based on weight. These are figures for the average 150 pound male There is no concrete dose for the \"K-Hole\" as each user is different.",
+  "formatted_aftereffects": {
+    "_unit": "hours",
+    "value": "1-2"
+  },
+  "formatted_dose": {
+    "Insufflated": {
+      "Common": "50-125mg",
+      "Heavy": "175-250mg",
+      "Light": "20-50mg",
+      "Strong": "125-175mg",
+      "Threshold": "5-10mg"
+    }
+  },
+  "formatted_duration": {
+    "_unit": "hours",
+    "value": "1-2"
+  },
+  "formatted_effects": [
+    "A feeling of drunkenness and well being at low doses",
+    "As dose increases the user may begin to feel a disconnection from their body",
+    "At 'khole' doses the user may become completely disconnected from both body and mind"
+  ],
+  "formatted_onset": {
+    "_unit": "minutes",
+    "Insufflated": "7.5-20",
+    "Intramuscular": "2-7.5",
+    "Intravenous": "0-2",
+    "Oral": "10-75"
+  },
+  "links": {
+    "experiences": "https://www.erowid.org/experiences/subs/exp_Ketamine.shtml"
+  },
+  "name": "ketamine",
+  "pretty_name": "Ketamine",
+  "properties": {
+    "after-effects": "1-2 hours",
+    "aliases": [
+      "k",
+      "ket",
+      "kitty",
+      "kittens"
+    ],
+    "avoid": "Driving, walking, motor activity. Mixing with other depressants such as alcohol, benzodiazepines, and opioids.",
+    "categories": [
+      "dissociative",
+      "habit-forming",
+      "common"
+    ],
+    "dose": "Insufflated Threshold: 5-10mg Light: 20-50mg Common: 50-125mg Strong: 125-175mg Heavy: 175-250mg | NOTE: Ketamine is based on weight. These are figures for the average 150 pound male There is no concrete dose for the \"K-Hole\" as each user is different.",
+    "duration": "1-2 hours",
+    "effects": "A feeling of drunkenness and well being at low doses. As dose increases the user may begin to feel a disconnection from their body. At 'khole' doses the user may become completely disconnected from both body and mind.",
+    "molecule": "http://wiki.tripsit.me/images/7/76/Ketamine.png",
+    "onset": "Insufflated: 7.5-20 minutes | Oral: 10-75 minutes | Intramuscular: 2-7.5 minutes | Intravenous: 0-2 minutes",
+    "summary": "A short-acting dissociative anaesthetic and hallucinogen commonly used in medicine. It is the prototypical dissociative, and is widely used at sub-anesthetic doses recreationally. Small doses are comparable with alcohol, while larger doses are immobilising and lead to psychedelic experiences: the \"K-Hole.\""
+  },
+  "pweffects": {
+    "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
+    "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+    "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+    "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+    "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+    "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+    "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+    "Auditory suppression": "https://psychonautwiki.org/wiki/Auditory_suppression",
+    "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+    "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+    "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+    "Consciousness disconnection": "https://psychonautwiki.org/wiki/Consciousness_disconnection",
+    "Déjà vu": "https://psychonautwiki.org/wiki/D%C3%A9j%C3%A0_vu",
+    "Depersonalization": "https://psychonautwiki.org/wiki/Depersonalization",
+    "Derealization": "https://psychonautwiki.org/wiki/Derealization",
+    "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+    "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+    "Double vision": "https://psychonautwiki.org/wiki/Double_vision",
+    "Environmental cubism": "https://psychonautwiki.org/wiki/Environmental_cubism",
+    "Environmental orbism": "https://psychonautwiki.org/wiki/Environmental_orbism",
+    "External hallucinations": "https://psychonautwiki.org/wiki/External_hallucinations",
+    "Frame rate suppression": "https://psychonautwiki.org/wiki/Frame_rate_suppression",
+    "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+    "Immersion enhancement": "https://psychonautwiki.org/wiki/Immersion_enhancement",
+    "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+    "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+    "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+    "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+    "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+    "Pattern recognition suppression": "https://psychonautwiki.org/wiki/Pattern_recognition_suppression",
+    "Perception of decreased weight": "https://psychonautwiki.org/wiki/Perception_of_decreased_weight",
+    "Personal bias suppression": "https://psychonautwiki.org/wiki/Personal_bias_suppression",
+    "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+    "Perspective distortions": "https://psychonautwiki.org/wiki/Perspective_distortions",
+    "Physical autonomy": "https://psychonautwiki.org/wiki/Physical_autonomy",
+    "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+    "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+    "Scenery slicing": "https://psychonautwiki.org/wiki/Scenery_slicing",
+    "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+    "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+    "Subconscious communication": "https://psychonautwiki.org/wiki/Subconscious_communication",
+    "Suggestibility enhancement": "https://psychonautwiki.org/wiki/Suggestibility_enhancement",
+    "Synaesthesia": "https://psychonautwiki.org/wiki/Synaesthesia",
+    "Tactile disconnection": "https://psychonautwiki.org/wiki/Tactile_disconnection",
+    "Tactile suppression": "https://psychonautwiki.org/wiki/Tactile_suppression",
+    "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+    "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+    "Unity and interconnectedness": "https://psychonautwiki.org/wiki/Unity_and_interconnectedness",
+    "Visual disconnection": "https://psychonautwiki.org/wiki/Visual_disconnection",
+    "Visual sliding": "https://psychonautwiki.org/wiki/Visual_sliding"
+  },
+  "sources": {
+    "_general": [
+      "Comparative and interactive human psychopharmacologic effects of ketamine and amphetamine: implications for glutamatergic and dopaminergic model ps.. - https://www.ncbi.nlm.nih.gov/pubmed/16143730",
+      "The effect of ketamine on opioid-induced acute tolerance: can it explain reduction of opioid consumption with ketamine-opioid analgesic combinations - http://www.ncbi.nlm.nih.gov/pubmed/11094005",
+      "Subanesthetic ketamine infusion therapy: a retrospective analysis of a novel therapeutic approach to complex regional pain syndrome - http://www.ncbi.nlm.nih.gov/pubmed/15367304",
+      "Effects of ketamine on precipitated opiate withdrawal - http://www.ncbi.nlm.nih.gov/pubmed/16963828",
+      "Low-dose ketamine with multimodal postcesarean delivery analgesia: a randomized controlled trial - http://www.ncbi.nlm.nih.gov/pubmed/21224020",
+      "Chronic ketamine exposure induces permanent impairment of brain functions in adolescent cynomolgus monkeys - http://www.ncbi.nlm.nih.gov/pubmed/23145560",
+      "GLYX-13, a NMDA receptor glycine-site functional partial agonist, induces antidepressant-like effects without ketamine-like side effects - http://www.ncbi.nlm.nih.gov/pubmed/23303054",
+      "From \"Special K\" to \"Special M\": the evolution of the recreational use of ketamine and methoxetamine - http://www.ncbi.nlm.nih.gov/pubmed/23421859",
+      "Daily oral ketamine for the treatment of depression and anxiety in patients receiving hospice care: a 28-day open-label proof-of-concept trial - http://www.ncbi.nlm.nih.gov/pubmed/23805864",
+      "Brain damages in ketamine addicts as revealed by magnetic resonance imaging - http://www.ncbi.nlm.nih.gov/pubmed/23882190",
+      "Antidepressant efficacy of ketamine in treatment-resistant major depression: a two-site randomized controlled trial - http://www.ncbi.nlm.nih.gov/pubmed/23982301",
+      "Are sexes affected differently by ketamine? An exploratory study in ketamine users - http://www.ncbi.nlm.nih.gov/pubmed/24106975",
+      "Therapeutic infusions of ketamine: do the psychoactive effects matter - http://www.ncbi.nlm.nih.gov/pubmed/24480515",
+      "The absolute bioavailability of racemic ketamine from a novel sublingual formulation - http://www.ncbi.nlm.nih.gov/pubmed/24977293",
+      "The mood stabilizer lithium potentiates the antidepressant-like effects and ameliorates oxidative stress induced by acute ketamine in a mouse model.. - http://www.ncbi.nlm.nih.gov/pubmed/25548109",
+      "The promise of ketamine for treatment-resistant depression: current evidence and future directions - http://www.ncbi.nlm.nih.gov/pubmed/25649308",
+      "Antidepressants do not increase the lethality of ketamine in mice - http://www.ncbi.nlm.nih.gov/pubmed/6849728",
+      "Effect of ketamine, an NMDA receptor inhibitor, in acute and chronic orofacial pain - http://www.ncbi.nlm.nih.gov/pubmed/7659431",
+      "Ketamine and norketamine plasma concentrations after i.v., nasal and rectal administration in children - http://www.ncbi.nlm.nih.gov/pubmed/8881626",
+      "Tissue distribution of ketamine in a mixed drug fatality - http://www.ncbi.nlm.nih.gov/pubmed/9397567",
+      "[From the racemate to the eutomer: (S)-ketamine. Renaissance of a substance?] - http://www.ncbi.nlm.nih.gov/pubmed/9451486",
+      "Chronic abuse has led to a case of kidney and liver damage http://www.ncbi.nlm.nih.gov/pubmed/24982568",
+      "ketamine in the hospital setting can raise blood pressure and is something to be considered when using it: \"Emergency care in the streets\"",
+      "Ketamine shows promise in treating suicidal ideation in patients with depression - http://www.biologicalpsychiatryjournal.com/article/S0006-3223(09)00519-8/abstract"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "aliases": [
+    "lyrica",
+    "pregablin"
+  ],
+  "categories": [
+    "depressant",
+    "habit-forming",
+    "common"
+  ],
+  "formatted_aftereffects": {
+    "_unit": "hours",
+    "value": "1-12"
+  },
+  "formatted_dose": {
+    "Oral": {
+      "Common": "300-600mg",
+      "Light": "150-300mg",
+      "Strong": "600-900mg"
+    }
+  },
+  "formatted_duration": {
+    "_unit": "hours",
+    "value": "6-14"
+  },
+  "formatted_effects": [
+    "Anxiolytic",
+    "Sedative",
+    "Muscle Relaxant",
+    "Amnesia",
+    "Dystaxia",
+    "Hypnotic"
+  ],
+  "formatted_onset": {
+    "_unit": "minutes",
+    "value": "90-150"
+  },
+  "name": "pregabalin",
+  "pretty_name": "Pregabalin",
+  "properties": {
+    "after-effects": "1-12 hours.",
+    "aliases": [
+      "lyrica",
+      "pregablin"
+    ],
+    "categories": [
+      "depressant",
+      "habit-forming",
+      "common"
+    ],
+    "dose": "Light: 150-300mg Common: 300-600mg Strong: 600-900mg",
+    "duration": "6-14 hours (dependant on dose)",
+    "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+    "onset": "90-150 minutes.",
+    "summary": "Pregabalin (Lyrica) is a GABA derivative that is used to treat neuropathic pain, seizures, and anxiety. Pregabalin independently has seizure concerns at higher dosages and concerns at lower dosages with preexisting risk factors and conditions."
+  },
+  "pweffects": {
+    "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
+    "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+    "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+    "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+    "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+    "Colour enhancement": "https://psychonautwiki.org/wiki/Colour_enhancement",
+    "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+    "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+    "Empathy, love, and sociability enhancement": "https://psychonautwiki.org/wiki/Empathy,_love,_and_sociability_enhancement",
+    "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+    "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+    "Motivation enhancement": "https://psychonautwiki.org/wiki/Motivation_enhancement",
+    "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+    "Muscle spasms": "https://psychonautwiki.org/wiki/Muscle_spasms",
+    "Pain relief": "https://psychonautwiki.org/wiki/Pain_relief",
+    "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+    "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+    "Seizure suppression": "https://psychonautwiki.org/wiki/Seizure_suppression",
+    "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration"
+  },
+  "sources": {
+    "_general": [
+      "Pregabalin reduces cocaine self-administration and relapse to cocaine seeking in the rat - http://www.ncbi.nlm.nih.gov/pubmed/22734646"
+    ]
+  }
+}

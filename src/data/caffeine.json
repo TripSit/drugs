@@ -1,0 +1,87 @@
+{
+  "aliases": [
+    "coffee"
+  ],
+  "categories": [
+    "stimulant",
+    "habit-forming",
+    "nootropic",
+    "common"
+  ],
+  "dose_note": " NOTE: The lethal dose for caffeine starts at approximately 3g. The average cup of coffee contains roughly 75-150mg of caffeine.",
+  "formatted_aftereffects": {
+    "_unit": "hours",
+    "value": "3-4"
+  },
+  "formatted_dose": {
+    "Oral": {
+      "Common": "75mg-250mg",
+      "Heavy": "400mg+",
+      "Light": "20-75mg",
+      "Strong": "250-400mg",
+      "Threshold": "10-20mg"
+    }
+  },
+  "formatted_duration": {
+    "_unit": "hours",
+    "value": "1.5-5"
+  },
+  "formatted_effects": [
+    "elevated heartrate",
+    "increase in cognitive abilities",
+    "physical agitation",
+    "panicked thinking",
+    "racing thoughts",
+    "uncomfortable bodyload"
+  ],
+  "formatted_onset": {
+    "_unit": "minutes",
+    "value": "5-10"
+  },
+  "links": {
+    "experiences": "https://www.erowid.org/experiences/subs/exp_Caffeine.shtml"
+  },
+  "name": "caffeine",
+  "pretty_name": "Caffeine",
+  "properties": {
+    "after-effects": "3-4 hours",
+    "aliases": [
+      "coffee"
+    ],
+    "bioavailability": "Orally it varies from around 77%-99%",
+    "categories": [
+      "stimulant",
+      "habit-forming",
+      "nootropic",
+      "common"
+    ],
+    "dose": "Threshold: 10-20mg Light: 20-75mg Common: 75mg-250mg Strong: 250-400mg Heavy: 400mg+ | NOTE: The lethal dose for caffeine starts at approximately 3g. The average cup of coffee contains roughly 75-150mg of caffeine.",
+    "duration": "1.5-5 hours",
+    "effects": "elevated heartrate, increase in cognitive abilities, physical agitation, panicked thinking, racing thoughts, uncomfortable bodyload",
+    "onset": "5-10 minutes",
+    "summary": "Caffeine is a CNS stimulant and the most widely used psychoactive substance in the world. It is legal and unregulated in most parts of the world, and is found in many commonly sold products. It has a good safety profile, though regular heavy use can cause physical dependence and contribute to certain medical conditions."
+  },
+  "pweffects": {
+    "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+    "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+    "Appetite suppression": "https://psychonautwiki.org/wiki/Appetite_suppression",
+    "Bronchodilation": "https://psychonautwiki.org/wiki/Bronchodilation",
+    "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+    "Cognitive fatigue": "https://psychonautwiki.org/wiki/Cognitive_fatigue",
+    "Depression": "https://psychonautwiki.org/wiki/Depression",
+    "Focus enhancement": "https://psychonautwiki.org/wiki/Focus_enhancement",
+    "Frequent urination": "https://psychonautwiki.org/wiki/Frequent_urination",
+    "Increased blood pressure": "https://psychonautwiki.org/wiki/Increased_blood_pressure",
+    "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
+    "Increased libido": "https://psychonautwiki.org/wiki/Increased_libido",
+    "Irritability": "https://psychonautwiki.org/wiki/Irritability",
+    "Memory enhancement": "https://psychonautwiki.org/wiki/Memory_enhancement",
+    "Motivation enhancement": "https://psychonautwiki.org/wiki/Motivation_enhancement",
+    "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+    "Tactile enhancement": "https://psychonautwiki.org/wiki/Tactile_enhancement",
+    "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+    "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+    "Vasoconstriction": "https://psychonautwiki.org/wiki/Vasoconstriction",
+    "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  }
+}
