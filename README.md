@@ -1,73 +1,109 @@
-# TripSit Drugs Database GitHub Repository
-> **This repository serves as the database for TripSit’s Drug Factsheets and Drug Combination Chart**
+# TripSit Drugs Database
 
-There are currently two main files for this database, "drugs.json" and "combos.json"
-* drugs.json is the file used by TripBot, Factsheets, along with related resources and tools
-* combos.json is the file containing all combination data for TripSit's Drug Combination Chart
+> **Database for TripSit's Drug Factsheets and Drug Combination Chart**
 
-If you would like to contribute and are unfamiliar with GitHub, the easiest way to contribute is through a [GitHub discussion](https://github.com/TripSit/drugs/discussions).
-
-You are also encouraged to see the [repository's Wiki](https://github.com/TripSit/drugs/wiki).
-
-## Drugs Database
-* drugs.json is a massive file containing all of our drug information used by our factsheets and more.
-  * The database would benefit from revisions, sources, additions, modifications, and more. Feel free to contribute in any way to improve our database.
+If you'd like to contribute but are unfamiliar with GitHub, the easiest way is through a [GitHub discussion](https://github.com/TripSit/drugs/discussions).
 
 ## Setup
-
-After cloning, install dependencies and the pre-commit hook:
 
 ```sh
 npm install
 ```
 
-`npm install` runs the `prepare` script, which configures husky and sets `core.hooksPath` to `.husky`. Git tracks the hook's executable bit, so no `chmod` is needed after cloning.
+`npm install` runs the `prepare` script, which configures husky and sets `core.hooksPath` to `.husky`. The pre-commit hook validates and rebuilds data before each commit.
 
-## Development Information
-* We would greatly benefit from more developers, ranging from UX/UI design to backend server administration. To learn more about our active development projects and needs, see our [development information wiki page](https://github.com/TripSit/drugs/wiki/Development-Information).
+## Scripts
 
-## Drug Combination Chart
-> TripSit's Drug Combination Chart is undergoing a large project to expand, revise, and update the current edition of the chart. You can learn more and see the latest for this project on our [Research Document](https://docs.google.com/document/d/1cT4wONr4GsijbzeYPAFpSpZh0Mq5u7SEQkTHbxDxAVA/edit?usp=sharing).
+```sh
+npm run validate   # validate drugs + combos against JSON schemas
+npm run build      # fix combos + rebuild drugs.json from src/data/
+```
 
-### [Getting Started - Combination Project](https://github.com/TripSit/drugs/wiki/Getting-Started-%7C-TripSit's-Combination-Chart-Project)
-### [Task Timeline - Combination Project](https://github.com/TripSit/drugs/wiki/Task-Timeline-%7C-TripSit's-Combination-Chart-Project)
+- `scripts/drugs.ts` — reads `src/data/*.json`, validates against `schemas/drug-schema.json`, and writes `drugs.json`
+- `scripts/combos.ts` — validates and normalises `combos.json`
+- `scripts/splitDrugs.ts` — one-time migration that split the old monolithic `drugs.json` into per-drug files (reference only)
 
-### Combination Issues
-* Any interactions in issues are ready to be made into pull requests unless otherwise stated. These need to be added to combos.json and, when relevant, drugs.json
-* You can see an example of this done here: https://github.com/TripSit/drugs/pull/302
+## Data Files
 
-### Peer Review
-* As discussed in the aforementioned Research Document, four new drugs are being added to the combination chart. These are pregabalin, 4-MMC, lithium, and DPH. The majority of these interactions are in a "rough draft" or otherwise in a "peer review" stage. The best way to contribute to reviewing these interactions is through our Research Document.
-* Alternatively, you are welcome to create an issue with a peer review for any combination. 
+| File                        | Purpose                                                                  |
+|-----------------------------|--------------------------------------------------------------------------|
+| `src/data/<drug>.json`      | One file per drug — source of truth for factsheets and TripBot           |
+| `drugs.json`                | Built aggregate of all per-drug files (generated, do not edit directly)  |
+| `combos.json`               | All drug combination interaction data                                    |
+| `combo_definitions.json`    | Definitions for combination flag types                                   |
 
-### [Conducting a Peer Review](https://github.com/TripSit/drugs/wiki/Getting-Started-%7C-TripSit's-Combination-Chart-Project#conducting-a-peer-review)
+### Validation
 
-### Alpha Stage Interactions
-* Interactions in the alpha stage are combinations that are not ready for peer review. These are interactions we’ve had difficulty concluding the interaction for and could use the most help with.
-* You can find these in our GitHub's discussion page: https://github.com/TripSit/drugs/discussions/categories/questions
+| File                     | Validations enforced                                                                                                                                                                                                              |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `src/data/<drug>.json`   | Schema (`drug-schema.json`): requires `name`, `pretty_name`, `properties`; no extra keys; `categories` values must be from a fixed enum. Script (`drugs.ts`): `drug.name` must match filename (minus `.json`); all object keys recursively alphabetized (natural sort). |
+| `drugs.json`             | Generated by `npm run build` — do not edit directly. CI verifies it isn't stale via `git diff`. Structure: object keyed by drug name; each entry is merged drug + combo data with all keys deep-sorted.                           |
+| `combos.json`            | Schema (`combos-schema.json`): fixed set of top-level drug keys; each interaction requires `status` (fixed enum) and `note`; no extra keys. Script (`combos.ts`): all keys recursively alphabetized; interactions must be mirrored symmetrically (A→B implies B→A with identical data). |
+| `combo_definitions.json` | Schema (`combo_definitions-schema.json`): array of objects; each requires `status`, `emoji`, `color`, `definition`, `thumbnail` (valid HTTPS URI ending in `.png`); no extra keys.                                               |
+
+## Contributing via Pull Request
 
 ### Contribution Criteria
-* We strive to provide as accurate information as possible. This includes providing explanations for modifications and sources to accompany these changes.
-* No changes will be accepted without a reference to a reliable source.
-  * Studies are preferred to be cited in APA 7th edition format. You can use tools like Zotero to automatically generate these.
-* Examples of reliable sources include:
-  * .edu or .gov websites
-  * peer-reviewed research studies
-  * books
-  * credible harm reduction organizations
 
-### [Drug Interaction Flag Definitions](https://github.com/TripSit/drugs/wiki/Drug-Interaction-Flag-Definitions-%7C-TripSit's-Combination-Chart-Project)
-### [Interaction Template](https://github.com/TripSit/drugs/wiki/Interaction-Template-%7C-TripSit's-Combination-Chart-Project)
-### [Combination Chart Directory](https://github.com/TripSit/drugs/wiki/Directory-%7C-TripSit's-Combination-Chart-Project)
-### [Additional Project Discussions](https://github.com/TripSit/drugs/wiki/Additional-Discussions-%7C-TripSit's-Combination-Chart-Project)
-### [Additional Project Research](https://github.com/TripSit/drugs/wiki/Additional-Research-%7C-TripSit's-Combination-Chart-Project)
+- All changes require a reference to a reliable source
+- Preferred sources: peer-reviewed studies, `.edu`/`.gov` websites, books, credible harm reduction organisations
+- Cite studies in **APA 7th edition** format (tools like Zotero can generate these automatically)
+
+### Drug Data (`src/data/`)
+
+1. Find or create `src/data/<drugname>.json` — lowercase, hyphenated (e.g. `src/data/mdma.json`)
+2. Follow the schema in `schemas/drug-schema.json` and model after existing entries
+3. Run `npm run build` before committing — the hook does this automatically
+4. Open a PR with a clear description of what changed and **why**, including sources
+
+### Drug Combination Chart
+
+> TripSit's Drug Combination Chart is undergoing a large project to expand, revise, and update the current edition of the chart. You can learn more and see the latest for this project on our [Research Document](https://docs.google.com/document/d/1cT4wONr4GsijbzeYPAFpSpZh0Mq5u7SEQkTHbxDxAVA/edit?usp=sharing).
+
+- [Getting Started — Combination Project](https://github.com/TripSit/drugs/wiki/Getting-Started-%7C-TripSit's-Combination-Chart-Project)
+- [Task Timeline — Combination Project](https://github.com/TripSit/drugs/wiki/Task-Timeline-%7C-TripSit's-Combination-Chart-Project)
+
+### Combination Data (`combos.json`)
+
+1. Edit `combos.json` directly
+2. Interactions in open issues are ready to be turned into PRs unless stated otherwise — these need to be added to `combos.json` and, when relevant, the drug's file in `src/data/`
+3. Run `npm run validate` to check your changes
+4. See an example PR: https://github.com/TripSit/drugs/pull/302
+
+### Alpha Stage Interactions
+
+Interactions in the alpha stage are not ready for peer review — these are combinations where the interaction has been difficult to conclude and could use the most help.
+
+Find these in the [GitHub discussions](https://github.com/TripSit/drugs/discussions/categories/questions).
+
+### Peer Review
+
+Four new drugs are being added to the combination chart: pregabalin, 4-MMC, lithium, and DPH. Most of these interactions are in "rough draft" or "peer review" stage. Best way to contribute is through the [Research Document](https://docs.google.com/document/d/1cT4wONr4GsijbzeYPAFpSpZh0Mq5u7SEQkTHbxDxAVA/edit?usp=sharing). You can also open an issue with a peer review for any combination.
+
+- [Conducting a Peer Review](https://github.com/TripSit/drugs/wiki/Getting-Started-%7C-TripSit's-Combination-Chart-Project#conducting-a-peer-review)
+
+## Schemas
+
+JSON schemas live in `schemas/` and are used for validation:
+
+- `schemas/drug-schema.json` — schema for a single drug entry
+- `schemas/drugs-schema.json` — schema for the aggregate `drugs.json`
+- `schemas/combos-schema.json` — schema for `combos.json`
+- `schemas/combo_definitions-schema.json` — schema for `combo_definitions.json`
+
+## Wiki & Resources
+
+- [Repository Wiki](https://github.com/TripSit/drugs/wiki)
+- [Drug Interaction Flag Definitions](https://github.com/TripSit/drugs/wiki/Drug-Interaction-Flag-Definitions-%7C-TripSit's-Combination-Chart-Project)
+- [Interaction Template](https://github.com/TripSit/drugs/wiki/Interaction-Template-%7C-TripSit's-Combination-Chart-Project)
+- [Combination Chart Directory](https://github.com/TripSit/drugs/wiki/Directory-%7C-TripSit's-Combination-Chart-Project)
+- [Additional Project Discussions](https://github.com/TripSit/drugs/wiki/Additional-Discussions-%7C-TripSit's-Combination-Chart-Project)
+- [Additional Project Research](https://github.com/TripSit/drugs/wiki/Additional-Research-%7C-TripSit's-Combination-Chart-Project)
+- [Combination Chart Research Document](https://docs.google.com/document/d/1cT4wONr4GsijbzeYPAFpSpZh0Mq5u7SEQkTHbxDxAVA/edit?usp=sharing)
+- [Getting Started — Combination Project](https://github.com/TripSit/drugs/wiki/Getting-Started-%7C-TripSit's-Combination-Chart-Project)
 
 ## Discord
-* If you're not sure about something, or you want to discuss a change, you can talk to us on [Discord](https://discord.gg/tripsit)!
-* Join the [#content](https://discord.com/channels/179641883222474752/946833118269145109) channel!
-  * Remember to select the Content Crew role in role selections!
-* You can also join the [#combo-chart](https://discord.com/channels/179641883222474752/1168216953924624464) channel!
-  * Don't forget to check pinned messages and join the Combo Crew role!
 
+Join **[TripSit Discord](https://discord.gg/tripsit)** — `#content` channel (select the Content Crew role) or `#combo-chart` channel (join the Combo Crew role).
 
-
+Not sure about a change? Ask in Discord before opening a PR.
