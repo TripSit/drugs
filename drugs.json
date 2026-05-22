@@ -3883,7 +3883,7 @@
       "_unit": "minutes",
       "value": "30-90"
     },
-    "name": "3-oh-Phenazepam",
+    "name": "3-oh-phenazepam",
     "pretty_name": "3-OH-Phenazepam",
     "properties": {
       "after-effects": "2-24 hours.",
@@ -20621,7 +20621,7 @@
       "value": "6-24"
     },
     "formatted_dose": {
-       "Oral": {
+      "Oral": {
         "Common": "30-50mg",
         "Heavy": "80mg+",
         "Light": "15-25mg",
@@ -22822,34 +22822,6 @@
       "habit-forming",
       "common"
     ],
-    "combos": {
-      "diphenhydramine": {
-        "note": "Both substances are CNS depressants and may potentiate each other strongly and unpredictably, raising the chances of memory loss, severe ataxia, and unconsciousness. The interaction may cause greater inhibition and risk of injury. If the user falls unconscious it is strongly recommended to put them into the recovery position and monitor breathing.",
-        "sources": [
-          {
-            "author": "William J Tharion, Donna J. McMenemy, Terry M. Rauch",
-            "title": "Antihistamine Effects on the Central Nervous System, Cognitive Performance and Subjective States. ",
-            "url": "https://doi.org/10.1159/000119069"
-          },
-          {
-            "author": "Sicari V, Zabbo CP. Diphenhydramine.",
-            "title": "Diphenhydramine",
-            "url": "https://www.ncbi.nlm.nih.gov/books/NBK526010/"
-          },
-          {
-            "author": "Couper FJ, Marinetti LJ.",
-            "title": "γ-Hydroxybutyrate (GHB) - Effects on Human Performance and Behavior ",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/26256488/"
-          },
-          {
-            "author": "Busardò FP, Jones AW.",
-            "title": "GHB Pharmacology and Toxicology: Acute Intoxication, Concentrations in Blood and Urine in Forensic Cases and Treatment of the Withdrawal Syndrome",
-            "url": "https://doi.org/10.2174%2F1570159X13666141210215423"
-          }
-        ],
-        "status": "Dangerous"
-      }
-    },
     "dose_note": " NOTE: Tends to induce heavy sedation roughly at 3g and higher.",
     "formatted_aftereffects": {
       "_unit": "hours",
@@ -25573,42 +25545,6 @@
           }
         ],
         "status": "Low Risk & No Synergy"
-      },
-      "lithium": {
-        "note": "There is a risk of serotonin syndrome when combining Lithium with MXE, as Lithium can induce serotonin syndrome in conjunction with other serotonergic drugs, and MXE has shown a notable affinity for the serotonin transporter.",
-        "sources": [
-          {
-            "author": "Lenox, R. H., & Hahn, C. G.",
-            "title": "Overview of the mechanism of action of lithium in the brain: fifty-year update (2000)",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/10826655/"
-          },
-          {
-            "author": "Shahani, L.",
-            "title": "Venlafaxine Augmentation With Lithium Leading to Serotonin Syndrome (2012)",
-            "url": "https://doi.org/10.1176/appi.neuropsych.11080196"
-          },
-          {
-            "author": "DeBattista, C., Sofuoglu, M., & Schatzberg, A. F.",
-            "title": "Serotonergic synergism: the risks and benefits of combining the selective serotonin reuptake inhibitors with other serotonergic drugs (1998)",
-            "url": "https://doi.org/10.1016/S0006-3223(98)00161-9"
-          },
-          {
-            "author": "Massot, O.",
-            "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders (1999)",
-            "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
-          },
-          {
-            "author": "Roth, B. L., Gibbons, S., Arunotayanun, W., Huang, X.-P., Setola, V., Treble, R., & Iversen, L.",
-            "title": "The Ketamine Analogue Methoxetamine and 3- and 4-Methoxy Analogues of Phencyclidine Are High Affinity and Selective Ligands for the Glutamate NMDA Receptor (2013)",
-            "url": "https://doi.org/10.1371/journal.pone.0059334"
-          },
-          {
-            "author": "Marti, M., Talani, G., Miliano, C., Bilel, S., Biggio, F., Bratzu, J., Diana, M., De Luca, M. A., & Fattore, L.",
-            "title": "New insights into methoxetamine mechanisms of action: Focus on serotonergic 5-HT2 receptors in pharmacological and behavioral effects in the rat (2021)",
-            "url": "https://doi.org/10.1016/j.expneurol.2021.113836"
-          }
-        ],
-        "status": "Dangerous"
       },
       "lsd": {
         "note": "There are a large number of reports indicating a high seizure and psychosis risk from this combination.",
