@@ -18,6 +18,15 @@ For CI to auto-commit rebuilt `drugs.json` back to PR branches, enable write acc
 
 **Settings → Actions → General → Workflow permissions → Read and write permissions**
 
+To prevent merging before CI passes, configure branch protection on `main`:
+
+**Settings → Branches → Add branch ruleset** (or "Add rule" for classic protection)
+
+- Enable **Require status checks to pass before merging**
+- Add `validate` as a required check
+- Enable **Require branches to be up to date before merging**
+- Save
+
 ## Scripts
 
 ```sh
