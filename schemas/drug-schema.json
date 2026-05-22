@@ -1,0 +1,173 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Drug",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["name", "pretty_name", "properties"],
+  "properties": {
+    "aliases": { "type": "array", "items": { "type": "string" } },
+    "categories": { "type": "array", "items": { "$ref": "#/definitions/Category" } },
+    "formatted_aftereffects": { "$ref": "#/definitions/Duration" },
+    "formatted_dose": { "$ref": "#/definitions/Dose" },
+    "formatted_duration": { "$ref": "#/definitions/Duration" },
+    "formatted_effects": { "type": "array", "items": { "type": "string" } },
+    "formatted_onset": { "$ref": "#/definitions/Duration" },
+    "links": { "$ref": "#/definitions/Links" },
+    "name": { "type": "string" },
+    "pretty_name": { "type": "string" },
+    "properties": { "$ref": "#/definitions/Properties" },
+    "pweffects": { "type": "object", "additionalProperties": { "type": "string", "format": "uri" } },
+    "dose_note": { "type": "string" },
+    "sources": { "$ref": "#/definitions/Sources" }
+  },
+  "definitions": {
+    "Category": {
+      "type": "string",
+      "enum": ["depressant","habit-forming","tentative","research-chemical","psychedelic","stimulant","dissociative","inactive","empathogen","common","benzodiazepine","opioid","supplement","nootropic","barbiturate","deliriant","ssri"],
+      "title": "Category"
+    },
+    "Dose": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "Oral": { "$ref": "#/definitions/Dosage" },
+        "Insufflated": { "$ref": "#/definitions/Dosage" },
+        "Rectal": { "$ref": "#/definitions/Dosage" },
+        "Vapourized": { "$ref": "#/definitions/Dosage" },
+        "Intravenous": { "$ref": "#/definitions/Dosage" },
+        "Smoked": { "$ref": "#/definitions/Dosage" },
+        "Sublingual": { "$ref": "#/definitions/Dosage" },
+        "Buccal": { "$ref": "#/definitions/Dosage" },
+        "Intramuscular": { "$ref": "#/definitions/Dosage" },
+        "Transdermal": { "$ref": "#/definitions/Dosage" },
+        "HBWR": { "$ref": "#/definitions/Dosage" },
+        "Morning_Glory": { "$ref": "#/definitions/Dosage" },
+        "Dried": { "$ref": "#/definitions/Dosage" },
+        "Fresh": { "$ref": "#/definitions/Dosage" },
+        "Insufflated(Pure)": { "$ref": "#/definitions/Dosage" },
+        "Oral(Benzedrex)": { "$ref": "#/definitions/Dosage" },
+        "Oral(Pure)": { "$ref": "#/definitions/Dosage" },
+        "Dry": { "$ref": "#/definitions/Dosage" },
+        "Wet": { "$ref": "#/definitions/Dosage" }
+      },
+      "title": "Dose"
+    },
+    "Dosage": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "Common": { "type": "string" },
+        "Light": { "type": "string" },
+        "Strong": { "type": "string" },
+        "Threshold": { "type": "string" },
+        "Heavy": { "type": "string" },
+        "Dangerous": { "type": "string" },
+        "Fatal": { "type": "string" },
+        "Note": { "type": "string" }
+      },
+      "title": "Dosage"
+    },
+    "Duration": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "_unit": { "$ref": "#/definitions/Unit" },
+        "value": { "type": "string" },
+        "Insufflated": { "type": "string" },
+        "Oral": { "type": "string" },
+        "Rectal": { "type": "string" },
+        "Vapourized": { "type": "string" },
+        "Smoked": { "type": "string" },
+        "Oral_ER": { "type": "string" },
+        "Oral_IR": { "type": "string" },
+        "Intramuscular": { "type": "string" },
+        "Intravenous": { "type": "string" },
+        "Metabolites": { "type": "string" },
+        "Parent": { "type": "string" },
+        "Oral_MAOI": { "type": "string" },
+        "Buccal": { "type": "string" },
+        "Transdermal": { "type": "string" },
+        "Sublingual": { "type": "string" },
+        "Insufflated_IR": { "type": "string" },
+        "Insufflated_XR": { "type": "string" }
+      },
+      "title": "Duration"
+    },
+    "Links": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["experiences"],
+      "properties": {
+        "experiences": { "type": "string", "format": "uri" },
+        "pihkal": { "type": "string", "format": "uri" },
+        "tihkal": { "type": "string", "format": "uri" }
+      },
+      "title": "Links"
+    },
+    "Properties": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "after-effects": { "type": "string" },
+        "aliases": { "type": "array", "items": { "type": "string" } },
+        "avoid": { "type": "string" },
+        "categories": { "type": "array", "items": { "$ref": "#/definitions/Category" } },
+        "dose": { "type": "string" },
+        "duration": { "type": "string" },
+        "half-life": { "type": "string" },
+        "onset": { "type": "string" },
+        "summary": { "type": "string" },
+        "test-kits": { "type": "string" },
+        "experiences": { "type": "string", "format": "uri" },
+        "warning": { "type": "string" },
+        "marquis": { "type": "string" },
+        "effects": { "type": "string" },
+        "risks": { "type": "string" },
+        "comeup": { "type": "string" },
+        "note": { "type": "string" },
+        "detection": { "type": "string" },
+        "wiki": { "type": "string", "format": "uri" },
+        "mdma": { "type": "string" },
+        "tolerance": { "type": "string" },
+        "bioavailability": { "type": "string" },
+        "dose_to_diazepam": { "type": "string" },
+        "adverse-effects": { "type": "string" },
+        "chemistry": { "type": "string" },
+        "contraindications": { "type": "string" },
+        "legal": { "type": "string" },
+        "overdose-symptoms": { "type": "string" },
+        "pharmacokinetics": { "type": "string" },
+        "pharmacology": { "type": "string" },
+        "obtain": { "type": "string" },
+        "pharmacodynamics": { "type": "string" },
+        "side-effects": { "type": "string" },
+        "molecule": { "type": "string", "format": "uri" },
+        "vaporization": { "type": "string" },
+        "calculator": { "type": "string", "format": "uri" },
+        "chart": { "type": "string", "format": "uri" },
+        "Oral": { "type": "string" },
+        "general-advice": { "type": "string" },
+        "potentiators": { "type": "string" }
+      },
+      "title": "Properties"
+    },
+    "Sources": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "_general": { "type": "array", "items": { "type": "string" } },
+        "dose": { "type": "array", "items": { "type": "string", "format": "uri" } },
+        "duration": { "type": "array", "items": { "type": "string", "format": "uri" } },
+        "bioavailability": { "type": "array", "items": { "type": "string", "format": "uri" } },
+        "legality": { "type": "array", "items": { "type": "string", "format": "uri" } },
+        "onset": { "type": "array", "items": { "type": "string" } }
+      },
+      "title": "Sources"
+    },
+    "Unit": {
+      "type": "string",
+      "enum": ["hours", "minutes"],
+      "title": "Unit"
+    }
+  }
+}
