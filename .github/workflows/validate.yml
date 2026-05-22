@@ -8,32 +8,53 @@ on:
       - reopened
 
 jobs:
-  check-drug-updates:
+  validate:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout Repo
-      uses: actions/checkout@v2
-    
-    - name: Set up Node.js
-      uses: actions/setup-node@v1
-      with:
-        node-version: '21' # Use whatever node version your project requires
-    
-    - name: Install Dependencies
-      run: npm install
-      
-    - name: Run validation script
-      run: npx ts-node ./scripts/combosToDrugs.ts --github-check
-      env:
-        CI: true
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-    - name: Assign Pull Request
-      uses: actions/github-script@v5
-      with:
-        script: |
-          github.rest.issues.addAssignees({
-            owner: context.repo.owner,
-            repo: context.repo.repo,
-            issue_number: context.issue.number,
-            assignees: ['LunaUrsa']
-          })
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '21'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Validate combos.json
+        run: npx ts-node scripts/combos.ts --check
+
+      - name: Validate per-drug files
+        run: npx ts-node scripts/drugs.ts --check
+
+      - name: Rebuild and commit drugs.json (same-repo branches)
+        if: github.event.pull_request.head.repo.full_name == github.repository
+        run: |
+          npm run build
+          if git diff --exit-code drugs.json; then
+            echo "drugs.json unchanged"
+          else
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add drugs.json
+            git commit -m "chore: rebuild drugs.json [skip ci]"
+            git push origin HEAD:${{ github.head_ref }}
+          fi
+
+      - name: Check drugs.json is up-to-date (fork PRs)
+        if: github.event.pull_request.head.repo.full_name != github.repository
+        run: npx ts-node scripts/drugs.ts --check-build
+
+      - name: Assign Pull Request
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.addAssignees({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              assignees: ['LunaUrsa']
+            })
