@@ -95,6 +95,7 @@
                     "nitrous": { "$ref": "#/definitions/Combo" },
                     "opioids": { "$ref": "#/definitions/Combo" },
                     "pcp": { "$ref": "#/definitions/Combo" },
+                    "pregabalin": { "$ref": "#/definitions/Combo" },
                     "ssris": { "$ref": "#/definitions/Combo" },
                     "tramadol": { "$ref": "#/definitions/Combo" }
                   },
