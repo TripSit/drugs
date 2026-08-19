@@ -1,0 +1,49 @@
+{
+ "pinazepam": {
+  "aliases": [
+   "domar"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-10"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-10mg",
+    "Light": "2.5-5mg",
+    "Strong": "10-20mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-16"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-90"
+  },
+  "name": "pinazepam",
+  "pretty_name": "Pinazepam",
+  "properties": {
+   "after-effects": "2-10 hours.",
+   "aliases": [
+    "domar"
+   ],
+   "avoid": "All CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Light: 2.5-5mg Common: 5-10mg Strong: 10-20mg+",
+   "duration": "6-16 hours.",
+   "onset": "15-90 minutes.",
+   "summary": "Benzodiazepine that is solely an anxiolytic drug that lacks the hypnotic and significant motor impairment that typical benzodiazepines do. The main metabolite of this drug is nordazepam and to a lesser effect oxazepam, which is where it is suggested to get most of its effects"
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "coronaridine": {
+  "categories": [
+   "psychedelic",
+   "tentative"
+  ],
+  "name": "coronaridine",
+  "pretty_name": "Coronaridine",
+  "properties": {
+   "categories": [
+    "psychedelic",
+    "tentative"
+   ],
+   "summary": "Alkaloid found in Tabernanthe iboga and related species. Persistently reduces the self-administration of Cocaine and Morphine in rats."
+  },
+  "sources": {
+   "_general": [
+    "Effects of iboga alkaloids on morphine and cocaine self-administration in rats: relationship to tremorigenic effects and to effects on dopamine release in nucleus accumbens and striatum. http://www.sciencedirect.com/science/article/pii/0006899394909482"
+   ]
+  }
+ }
+}

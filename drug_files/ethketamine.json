@@ -1,0 +1,55 @@
+{
+ "ethketamine": {
+  "aliases": [
+   "n-ethyl-norketamine",
+   "nek",
+   "n-ethylnorketamine"
+  ],
+  "categories": [
+   "dissociative",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Insufflated": "1-2",
+   "Oral": "1-3"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "40-90mg",
+    "Light": "15-40mg",
+    "Strong": "90-160mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "1-3",
+   "Oral": "2-4"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-15",
+   "Oral": "15-30"
+  },
+  "name": "ethketamine",
+  "pretty_name": "Ethketamine",
+  "properties": {
+   "after-effects": "Oral: 1-3 hours. | Insufflated 1-2 hours.",
+   "aliases": [
+    "n-ethyl-norketamine",
+    "nenk",
+    "n-ethylnorketamine"
+   ],
+   "categories": [
+    "dissociative",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Light: 15-40mg Common: 40-90mg Strong: 90-160mg.",
+   "duration": "Oral: 2-4 hours | Insufflated: 1-3 hours.",
+   "onset": "Oral: 15-30 minutes. | Insufflated: 5-15 minutes.",
+   "summary": "Ethketamine is a research chemical with properties similar to ketamine. While ketamine is a dissociative anesthetic, producing hallucinogenic and sedative effects, recreational users have reported euphoria and dissociation when using NENK."
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "thiopental": {
+  "categories": [
+   "barbiturate",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Intravenous": "6-10"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Intravenous": "0-2"
+  },
+  "name": "thiopental",
+  "pretty_name": "Thiopental",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "barbiturate",
+    "habit-forming",
+    "depressant"
+   ],
+   "duration": "Intravenous: 6-10 hours.",
+   "onset": "Intravenous: 0-2 minutes.",
+   "summary": "Barbiturate that that has a reportedly fast onset. The drug is used as for anesthesia in medical induced comas among other things."
+  }
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "2c-ip": {
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "15-30mg",
+    "Heavy": "30-45mg",
+    "Light": "5-15mg",
+    "Threshold": "5mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "12-16"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-90"
+  },
+  "name": "2c-ip",
+  "pretty_name": "2C-IP",
+  "properties": {
+   "after-effects": "4-8 hours.",
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "duration": "12-16 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "45-90 minutes.",
+   "summary": "Isopropyl analog (branched analog) of 2C-P with a slightly shorter duration and lower potency.",
+   "test-kits": "Marquis: Orange > Red. | Mecke: Yellow > Brown. | Mandelin: Green. | Ehrlich: No colour change."
+  }
+ }
+}

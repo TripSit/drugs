@@ -1,0 +1,101 @@
+{
+ "methoxphenidine": {
+  "aliases": [
+   "2-meo-diphenidine",
+   "methoxyphenidine",
+   "2-mxp",
+   "mxp"
+  ],
+  "categories": [
+   "dissociative",
+   "research-chemical",
+   "tentative",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-3"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "75-120mg",
+    "Light": "50-75mg",
+    "Strong": "120-150mg+",
+    "Threshold": "30-50mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Methoxphenidine.shtml"
+  },
+  "name": "methoxphenidine",
+  "pretty_name": "Methoxphenidine",
+  "properties": {
+   "after-effects": "1-3 hours",
+   "aliases": [
+    "2-meo-diphenidine",
+    "methoxyphenidine",
+    "2-mxp",
+    "mxp"
+   ],
+   "categories": [
+    "dissociative",
+    "research-chemical",
+    "tentative",
+    "habit-forming"
+   ],
+   "dose": "Threshold: 30-50mg Light: 50-75mg Common: 75-120mg Strong: 120-150mg+",
+   "duration": "6-8 hours",
+   "onset": "30-60 minutes.",
+   "summary": "A dissociative from the diarylethylamine class and a more potent analogue of diphenidine. The drug is reported to have unpredictable effects and can cause blackouts."
+  },
+  "pweffects": {
+   "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Auditory suppression": "https://psychonautwiki.org/wiki/Auditory_suppression",
+   "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+   "Consciousness disconnection": "https://psychonautwiki.org/wiki/Consciousness_disconnection",
+   "Depersonalization": "https://psychonautwiki.org/wiki/Depersonalization",
+   "Derealization": "https://psychonautwiki.org/wiki/Derealization",
+   "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Double vision": "https://psychonautwiki.org/wiki/Double_vision",
+   "Environmental cubism": "https://psychonautwiki.org/wiki/Environmental_cubism",
+   "Environmental orbism": "https://psychonautwiki.org/wiki/Environmental_orbism",
+   "Frame rate suppression": "https://psychonautwiki.org/wiki/Frame_rate_suppression",
+   "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Pattern recognition suppression": "https://psychonautwiki.org/wiki/Pattern_recognition_suppression",
+   "Perception of decreased weight": "https://psychonautwiki.org/wiki/Perception_of_decreased_weight",
+   "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+   "Perspective distortions": "https://psychonautwiki.org/wiki/Perspective_distortions",
+   "Physical autonomy": "https://psychonautwiki.org/wiki/Physical_autonomy",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+   "Scenery slicing": "https://psychonautwiki.org/wiki/Scenery_slicing",
+   "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Tactile disconnection": "https://psychonautwiki.org/wiki/Tactile_disconnection",
+   "Tactile suppression": "https://psychonautwiki.org/wiki/Tactile_suppression",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+   "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+   "Visual disconnection": "https://psychonautwiki.org/wiki/Visual_disconnection"
+  }
+ }
+}

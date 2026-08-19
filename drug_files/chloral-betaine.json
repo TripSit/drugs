@@ -1,0 +1,40 @@
+{
+ "chloral-betaine": {
+  "categories": [
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "250-500mg.",
+    "Light": "125-250mg",
+    "Strong": "500-1000mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-7"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-30"
+  },
+  "name": "chloral-betaine",
+  "pretty_name": "Chloral betaine",
+  "properties": {
+   "after-effects": "2-8 hours.",
+   "categories": [
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 125-250mg Common: 250-500mg. Strong: 500-1000mg.",
+   "duration": "3-7 hours.",
+   "onset": "15-30 minutes.",
+   "summary": "Sedative-hypnotic drug that was introduced into the United States in the 60's. Betaine complex with Chloral hydrate, thus makes it act as an extended version of Chloral hydrate then to Trichloroethanol, which is responsible for most of its effects."
+  }
+ }
+}

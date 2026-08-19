@@ -1,0 +1,55 @@
+{
+ "clomethiazole": {
+  "categories": [
+   "depressant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-16"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "150-200mg",
+    "Heavy": "200mg+",
+    "Light": "100-150mg",
+    "Threshold": "100mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-8"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-40"
+  },
+  "name": "clomethiazole",
+  "pretty_name": "Clomethiazole",
+  "properties": {
+   "after-effects": "1-16 hours.",
+   "categories": [
+    "depressant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Threshold: 100mg Light: 100-150mg Common: 150-200mg Heavy: 200mg+",
+   "duration": "5-8 hours. ",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "15-40 minutes. ",
+   "summary": "Structurally related to Thiamine (vitamin B1), but with binding potential at the GABAa site. This causes it to produce effects most like those of a barbiturate: an effective sedative and hypnotic. Originally developed by Hoffman-LaRoche in the 1930s, it has seen use as a treatment for acute alcohol withdrawal.",
+   "warning": "The normal amount in capsules is 192mg's. It is recommended to view this drug more as a barbiturate than a benzodiazepine. There is limited information on the drugs toxicology."
+  }
+ }
+}

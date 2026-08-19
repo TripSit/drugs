@@ -1,0 +1,47 @@
+{
+ "atomoxetine": {
+  "aliases": [
+   "strattera"
+  ],
+  "categories": [
+   "stimulant",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "18-40mg",
+    "Light": "10-18mg",
+    "Strong": "40-80mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-12"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "name": "atomoxetine",
+  "pretty_name": "Atomoxetine",
+  "properties": {
+   "after-effects": "2-24 hours.",
+   "aliases": [
+    "strattera"
+   ],
+   "bioavailability": "Oral: 63-94%.",
+   "categories": [
+    "stimulant",
+    "tentative"
+   ],
+   "dose": "Oral Light: 10-18mg Common: 18-40mg Strong: 40-80mg+",
+   "duration": "8-12 hours.",
+   "onset": "15-45 minutes.",
+   "summary": "A NRI that is used for ADHD. The drug has a very atypical pharmacology."
+  }
+ }
+}

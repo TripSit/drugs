@@ -1,0 +1,75 @@
+{
+ "25b-nboh": {
+  "aliases": [
+   "25bnboh",
+   "nboh-2cb",
+   "2cb-nboh",
+   "2c-b-nboh"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "dose_note": " NOTE: There is limited information on this drug. Caution is advised.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Sublingual": {
+    "Common": "400-800ug",
+    "Light": "200-400ug",
+    "Strong": "800ug-1mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-10"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-40"
+  },
+  "name": "25b-nboh",
+  "pretty_name": "25B-NBOH",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "25bnboh",
+    "nboh-2cb",
+    "2cb-nboh",
+    "2c-b-nboh"
+   ],
+   "avoid": "Other psychedelics, stimulants, redosing",
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Sublingually Light: 200-400ug Common: 400-800ug Strong: 800ug-1mg. | NOTE: There is limited information on this drug. Caution is advised.",
+   "duration": "4-10 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "20-40 minutes.",
+   "summary": "A phenethylamine psychedelic  and stimulant derivative of 2C-B, this compound is related to and has similar effects to 25b-NBOMe. It is significantly more potent than 2C-B  but less potent than 25B-NBOMe. Overdoses of NBOH compounds may cause  dangerous vasoconstriction. The drug may induce uncomfortable body load."
+  }
+ }
+}

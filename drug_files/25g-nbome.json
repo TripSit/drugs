@@ -1,0 +1,80 @@
+{
+ "25g-nbome": {
+  "aliases": [
+   "25g",
+   "25gnbome"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "dose_note": " NOTE: There are reports that note inconsistency in subjective effects when taking the drug multiple times at the same dosages. Start low and work your way up.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-2"
+  },
+  "formatted_dose": {
+   "Buccal": {
+    "Common": "1500-2000ug",
+    "Light": "1000-1500ug",
+    "Strong": "2000ug+",
+    "Threshold": "500ug"
+   },
+   "Sublingual": {
+    "Common": "1500-2000ug",
+    "Light": "1000-1500ug",
+    "Strong": "2000ug+",
+    "Threshold": "500ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-7"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-50"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_25GNBOMe.shtml"
+  },
+  "name": "25g-nbome",
+  "pretty_name": "25G-NBOMe",
+  "properties": {
+   "after-effects": "1-2 hours",
+   "aliases": [
+    "25g",
+    "25gnbome"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Buccal/Sublingual Threshold: 500ug Light: 1000-1500ug Common: 1500-2000ug Strong: 2000ug+ | NOTE: There are reports that note inconsistency in subjective effects when taking the drug multiple times at the same dosages. Start low and work your way up.",
+   "duration": "5-7 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "30-50 minutes",
+   "summary": "A rare psychedelic stimulant and bonamine. A derivative of 2C-G, but far more potent. The drug is suspected to have hallucinogenic, stimulant, and vasoconstrictive properties which may be dangerous at high doses. It is suspected to have a heavy body load."
+  }
+ }
+}

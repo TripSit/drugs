@@ -1,0 +1,51 @@
+{
+ "propylphenidate": {
+  "aliases": [
+   "pph"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "tentative",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "25-60mg",
+    "Heavy": "100mg+",
+    "Light": "15-25mg",
+    "Strong": "60-100mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "1.5-3"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-25"
+  },
+  "name": "propylphenidate",
+  "pretty_name": "Propylphenidate",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "pph"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "tentative",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 15-25mg Common: 25-60mg Strong: 60-100mg Heavy: 100mg+",
+   "duration": "1.5-3 hours.",
+   "onset": "15-25 minutes.",
+   "summary": "Propylphenidate is a short-acting stimulant."
+  }
+ }
+}

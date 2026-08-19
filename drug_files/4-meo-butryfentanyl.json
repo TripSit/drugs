@@ -1,0 +1,44 @@
+{
+ "4-meo-butryfentanyl": {
+  "aliases": [
+   "4-meo-bf"
+  ],
+  "categories": [
+   "tentative",
+   "research-chemical",
+   "opioid",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-2"
+  },
+  "formatted_duration": {
+   "_unit": "minutes",
+   "Insufflated": "30-75",
+   "Oral": "45-120"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "1-2",
+   "Oral": "5-15"
+  },
+  "name": "4-meo-butryfentanyl",
+  "pretty_name": "4-MeO-Butyrfentanyl",
+  "properties": {
+   "after-effects": "1-2 hours.",
+   "aliases": [
+    "4-meo-bf"
+   ],
+   "categories": [
+    "tentative",
+    "research-chemical",
+    "opioid",
+    "habit-forming"
+   ],
+   "duration": "Oral: 45-120 minutes. | Insufflated: 30-75 minutes.",
+   "onset": "Oral: 5-15 minutes. | Insufflated: 1-2 minutes.",
+   "summary": "Rare opioid and fentanyl analogue (not to be confused with Butyrfentanyl). There is very limited information online and little to no dosage information. Exercise extreme caution when using this drug. Overdose may result in respiratory depression. Do not mix with stimulants or depressants."
+  }
+ }
+}

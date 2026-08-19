@@ -1,0 +1,37 @@
+{
+ "pramiracetam": {
+  "categories": [
+   "nootropic"
+  ],
+  "dose_note": " Note: Usually taken two or three times a day. 400mg taken three times a day, or 600mg three times a day.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-2"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "400-1200mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-30"
+  },
+  "name": "pramiracetam",
+  "pretty_name": "Pramiracetam",
+  "properties": {
+   "after-effects": "1-2 hours.",
+   "categories": [
+    "nootropic"
+   ],
+   "dose": "Common: 400-1200mg | Note: Usually taken two or three times a day. So 400mg taken three times a day, or 600mg three times a day.",
+   "duration": "4-6 hours.",
+   "onset": "15-30 minutes.",
+   "summary": "A CNS stimulant nootropic that belongs to the racetam family of compounds. The nootropic is significantly more potent than piracetam while appearing to have a similar mechanism of action."
+  }
+ }
+}

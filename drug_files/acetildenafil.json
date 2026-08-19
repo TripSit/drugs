@@ -1,0 +1,33 @@
+{
+ "acetildenafil": {
+  "categories": [
+   "research-chemical"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "15-30mg",
+    "Light": "5-15mg",
+    "Strong": "30-40mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-7"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-45"
+  },
+  "name": "acetildenafil",
+  "pretty_name": "Acetildenafil",
+  "properties": {
+   "categories": [
+    "research-chemical"
+   ],
+   "dose": "Oral Light: 5-15mg's Common: 15-30mg's Strong: 30-40mg's.",
+   "duration": "3-7 hours.",
+   "onset": "10-45 minutes.",
+   "summary": "An RC analogue of sildenafil (viagra) often missold as a hidden ingredient in many 'natural' sexual potency blends and supplements."
+  }
+ }
+}

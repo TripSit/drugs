@@ -1,0 +1,38 @@
+{
+ "2c-b-fly-nbome": {
+  "aliases": [
+   "2cbflynbome"
+  ],
+  "categories": [
+   "tentative",
+   "psychedelic",
+   "empathogen",
+   "research-chemical"
+  ],
+  "dose_note": " Note: More research needs to be done with this chemical. Stay safe.",
+  "formatted_dose": {
+   "Insufflated": {
+    "Threshold": "100-200ug"
+   }
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-10"
+  },
+  "name": "2c-b-fly-nbome",
+  "pretty_name": "2C-B-FLY-NBOMe",
+  "properties": {
+   "aliases": [
+    "2cbflynbome"
+   ],
+   "categories": [
+    "tentative",
+    "psychedelic",
+    "empathogen",
+    "research-chemical"
+   ],
+   "dose": "Insufflated Threshold: 100-200ug | Note: More research needs to be done with this chemical. Stay safe.",
+   "onset": "Insufflated: 5-10 minutes."
+  }
+ }
+}

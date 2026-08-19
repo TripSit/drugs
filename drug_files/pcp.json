@@ -1,0 +1,203 @@
+{
+ "pcp": {
+  "aliases": [
+   "angeldust",
+   "phencyclidine",
+   "angel",
+   "dust",
+   "angel_dust",
+   "wet"
+  ],
+  "categories": [
+   "dissociative",
+   "habit-forming"
+  ],
+  "combos": {
+   "2c-t-x": {
+    "status": "Dangerous"
+   },
+   "2c-x": {
+    "status": "Low Risk & Synergy"
+   },
+   "5-meo-xxt": {
+    "status": "Dangerous"
+   },
+   "alcohol": {
+    "note": "Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.",
+    "status": "Unsafe"
+   },
+   "amphetamines": {
+    "note": "This combination can easily lead to hypermanic states",
+    "status": "Unsafe"
+   },
+   "amt": {
+    "status": "Dangerous"
+   },
+   "benzodiazepines": {
+    "note": "Both substances potentiate the ataxia and sedation caused by the other and can lead to unexpected loss of consciousness at high doses. While unconscious, vomit aspiration is a risk if not placed in the recovery position. Memory blackouts are likely",
+    "status": "Unsafe"
+   },
+   "caffeine": {
+    "note": "Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.",
+    "status": "Caution"
+   },
+   "cannabis": {
+    "status": "Low Risk & Synergy"
+   },
+   "cocaine": {
+    "note": "This combination can easily lead to hypermanic states",
+    "status": "Unsafe"
+   },
+   "dextromethorphan": {
+    "status": "Dangerous"
+   },
+   "dmt": {
+    "status": "Low Risk & Synergy"
+   },
+   "dox": {
+    "note": "Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.",
+    "status": "Unsafe"
+   },
+   "ghb/gbl": {
+    "note": "Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.",
+    "status": "Dangerous"
+   },
+   "ketamine": {
+    "status": "Low Risk & Synergy"
+   },
+   "lsd": {
+    "status": "Low Risk & Synergy"
+   },
+   "maois": {
+    "note": "This combination is very poorly explored",
+    "status": "Dangerous"
+   },
+   "mdma": {
+    "note": "This combination can easily lead to hypermanic states",
+    "status": "Unsafe"
+   },
+   "mescaline": {
+    "status": "Low Risk & Synergy"
+   },
+   "mushrooms": {
+    "status": "Low Risk & Synergy"
+   },
+   "mxe": {
+    "note": "There are no reports available about this combination",
+    "status": "Caution"
+   },
+   "nbomes": {
+    "status": "Low Risk & Synergy"
+   },
+   "nitrous": {
+    "status": "Low Risk & Synergy"
+   },
+   "opioids": {
+    "note": "PCP can reduce opioid tolerance, increasing the risk of overdose",
+    "status": "Caution"
+   },
+   "ssris": {
+    "note": "Details of this combination are not well understood but PCP generally interacts in an unpredictable manner.",
+    "status": "Unsafe"
+   },
+   "tramadol": {
+    "status": "Dangerous"
+   }
+  },
+  "dose_note": " NOTE: Caution is strongly recommended, there are a high amount of reports for the drug inducing manic episodes and or related psychosis.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "12-24"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "4-8mg",
+    "Light": "2-4mg",
+    "Strong": "8-15mg+"
+   },
+   "Oral": {
+    "Common": "5-10mg",
+    "Light": "2-5mg",
+    "Strong": "10-15mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "2-20"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_PCP.shtml"
+  },
+  "name": "pcp",
+  "pretty_name": "PCP",
+  "properties": {
+   "after-effects": "12-24 hours",
+   "aliases": [
+    "angeldust",
+    "phencyclidine",
+    "angel",
+    "dust",
+    "angel_dust",
+    "wet"
+   ],
+   "categories": [
+    "dissociative",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 2-5mg Common: 5-10mg Strong: 10-15mg+ | Insufflated Light: 2-4mg Common: 4-8mg Strong: 8-15mg+ | NOTE: Caution is strongly recommended, there are a high amount of reports for the drug inducing manic episodes and or related psychosis.",
+   "duration": "4-6 hours",
+   "onset": "2-20 minutes",
+   "summary": "A strong dissociative drug.  PCP works primarily as an NMDA receptor antagonist. It is also referred to as \"wet\" or \"angel dust\". The drug is best known for stories of  strange and sometimes violent behaviour of those under its influence, though it is likely these are only in overdose cases. Caution is recommended due to reports of mania and psychosis."
+  },
+  "pweffects": {
+   "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Auditory suppression": "https://psychonautwiki.org/wiki/Auditory_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+   "Consciousness disconnection": "https://psychonautwiki.org/wiki/Consciousness_disconnection",
+   "Creativity enhancement": "https://psychonautwiki.org/wiki/Creativity_enhancement",
+   "D\u00e9j\u00e0 vu": "https://psychonautwiki.org/wiki/D%C3%A9j%C3%A0_vu",
+   "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+   "Depersonalization": "https://psychonautwiki.org/wiki/Depersonalization",
+   "Derealization": "https://psychonautwiki.org/wiki/Derealization",
+   "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Double vision": "https://psychonautwiki.org/wiki/Double_vision",
+   "Environmental cubism": "https://psychonautwiki.org/wiki/Environmental_cubism",
+   "Environmental orbism": "https://psychonautwiki.org/wiki/Environmental_orbism",
+   "External hallucinations": "https://psychonautwiki.org/wiki/External_hallucinations",
+   "Frame rate suppression": "https://psychonautwiki.org/wiki/Frame_rate_suppression",
+   "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+   "Immersion enhancement": "https://psychonautwiki.org/wiki/Immersion_enhancement",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Pattern recognition suppression": "https://psychonautwiki.org/wiki/Pattern_recognition_suppression",
+   "Perception of decreased weight": "https://psychonautwiki.org/wiki/Perception_of_decreased_weight",
+   "Perspective distortions": "https://psychonautwiki.org/wiki/Perspective_distortions",
+   "Physical autonomy": "https://psychonautwiki.org/wiki/Physical_autonomy",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Psychosis": "https://psychonautwiki.org/wiki/Psychosis",
+   "Scenery slicing": "https://psychonautwiki.org/wiki/Scenery_slicing",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Tactile disconnection": "https://psychonautwiki.org/wiki/Tactile_disconnection",
+   "Tactile suppression": "https://psychonautwiki.org/wiki/Tactile_suppression",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+   "Visual disconnection": "https://psychonautwiki.org/wiki/Visual_disconnection",
+   "Visual sliding": "https://psychonautwiki.org/wiki/Visual_sliding"
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "6-eapb": {
+  "categories": [
+   "stimulant",
+   "psychedelic",
+   "research-chemical",
+   "empathogen",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-10"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "75-100mg",
+    "Light": "50-75mg",
+    "Strong": "100-150mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-7"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "Decreased need for sleep",
+   "Increased sociability",
+   "mood lift",
+   "increased libido",
+   "Excessive talking",
+   "Decreased appetite",
+   "Weight loss",
+   "Sweating",
+   "Disturbed sleep patterns",
+   "Bruxia",
+   "Visual and auditory hallucinations",
+   "itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-40"
+  },
+  "name": "6-eapb",
+  "pretty_name": "6-EAPB",
+  "properties": {
+   "after-effects": "1-10 hours.",
+   "categories": [
+    "stimulant",
+    "psychedelic",
+    "research-chemical",
+    "empathogen",
+    "habit-forming"
+   ],
+   "dose": "Light: 50-75mg Common: 75-100mg Strong: 100-150mg+",
+   "duration": "4-7~ hours.",
+   "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increased libido, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
+   "onset": "20-40 minutes.",
+   "summary": "A rare entactogen benzofuran structurally related to MDMA and 6-APB. It is reported to be weaker in effects. Pharmacological knowledge on this drug is limited. The drug is suspected to be a monoamine releaser, monoamine reuptake inhibitor or both."
+  }
+ }
+}

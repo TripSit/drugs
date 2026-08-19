@@ -1,0 +1,72 @@
+{
+ "mebroqualone": {
+  "aliases": [
+   "mbq"
+  ],
+  "categories": [
+   "depressant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Sublingual": {
+    "Common": "8-15mg",
+    "Light": "5-8mg",
+    "Strong": "15-20mg.",
+    "Threshold": "3-5mg"
+   },
+   "Vapourized": {
+    "Common": "5-10mg",
+    "Light": "3-5mg",
+    "Strong": "10-20mg+",
+    "Threshold": "2-3mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "minutes",
+   "Insufflated": "30-60",
+   "Oral": "60-120",
+   "Sublingual": "45-90",
+   "Vapourized": "20-40"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-10",
+   "Oral": "10-20",
+   "Sublingual": "5-15",
+   "Vapourized": "1-2"
+  },
+  "name": "mebroqualone",
+  "pretty_name": "Mebroqualone",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "aliases": [
+    "mbq"
+   ],
+   "categories": [
+    "depressant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Sublingual Threshold: 3-5mg  Light: 5-8mg  Common: 8-15mg  Strong: 15-20mg. | Vapourized Threshold: 2-3mg  Light: 3-5mg  Common: 5-10mg  Strong: 10-20mg+",
+   "duration": "Oral: 60-120 minutes. | Sublingual: 45-90 minutes. | Insufflated: 30-60 minutes. | Vapourized: 20-40 minutes.",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "Oral: 10-20 minutes. | Sublingual: 5-15 minutes. | Insufflated: 5-10 minutes. | Vapourized: 1-2 minutes.",
+   "summary": "A short-acting more potent analogue of Methaqualone."
+  }
+ }
+}

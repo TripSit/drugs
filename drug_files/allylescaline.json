@@ -1,0 +1,105 @@
+{
+ "allylescaline": {
+  "aliases": [
+   "al"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-16"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "30-40mg",
+    "Light": "20-30mg",
+    "Strong": "40-60mg+",
+    "Threshold": "15-20mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-12"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-240"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Allylescaline.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal002.shtml"
+  },
+  "name": "allylescaline",
+  "pretty_name": "Allylescaline",
+  "properties": {
+   "after-effects": "1-16 hours.",
+   "aliases": [
+    "al"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Oral Threshold: 15-20mg Light: 20-30mg Common: 30-40mg Strong: 40-60mg+",
+   "duration": "8-12 hours. Varies greatly on dose.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "45-240 minutes",
+   "summary": "Mescaline analogue with a much lower dose, that seems to rely heavily on colours."
+  },
+  "pweffects": {
+   "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
+   "After images": "https://psychonautwiki.org/wiki/After_images",
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+   "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Bodily control enhancement": "https://psychonautwiki.org/wiki/Bodily_control_enhancement",
+   "Colour enhancement": "https://psychonautwiki.org/wiki/Colour_enhancement",
+   "Colour shifting": "https://psychonautwiki.org/wiki/Colour_shifting",
+   "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+   "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+   "Emotion enhancement": "https://psychonautwiki.org/wiki/Emotion_enhancement",
+   "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+   "Immersion enhancement": "https://psychonautwiki.org/wiki/Immersion_enhancement",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Novelty enhancement": "https://psychonautwiki.org/wiki/Novelty_enhancement",
+   "Pattern recognition enhancement": "https://psychonautwiki.org/wiki/Pattern_recognition_enhancement",
+   "Personal bias suppression": "https://psychonautwiki.org/wiki/Personal_bias_suppression",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Pupil dilation": "https://psychonautwiki.org/wiki/Pupil_dilation",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Symmetrical texture repetition": "https://psychonautwiki.org/wiki/Symmetrical_texture_repetition",
+   "Tactile enhancement": "https://psychonautwiki.org/wiki/Tactile_enhancement",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Thought disorganization": "https://psychonautwiki.org/wiki/Thought_disorganization",
+   "Thought loops": "https://psychonautwiki.org/wiki/Thought_loops",
+   "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+   "Tracers": "https://psychonautwiki.org/wiki/Tracers",
+   "Transformations": "https://psychonautwiki.org/wiki/Transformations",
+   "Unity and interconnectedness": "https://psychonautwiki.org/wiki/Unity_and_interconnectedness",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  }
+ }
+}

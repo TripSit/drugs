@@ -1,0 +1,69 @@
+{
+ "5-meo-malt": {
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "dose_note": " NOTE: There are inconsistent reports on the drugs effects. It is recommended to start low and raise dosages slowly.",
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "10-20mg",
+    "Light": "5-10mg",
+    "Strong": "20mg+"
+   },
+   "Oral": {
+    "Common": "25-50mg",
+    "Light": "15-25mg",
+    "Strong": "50mg+"
+   },
+   "Vapourized": {
+    "Common": "10-15mg",
+    "Light": "5-10mg",
+    "Strong": "15-20mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "1-3",
+   "Oral": "2-4",
+   "Vapourized": "0.5-1.5"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-15",
+   "Oral": "5-30",
+   "Vapourized": "1-5"
+  },
+  "name": "5-meo-malt",
+  "pretty_name": "5-MeO-MALT",
+  "properties": {
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Oral Light: 15-25mg Common: 25-50mg Strong: 50mg+ | Insufflated Light: 5-10mg Common: 10-20mg Strong: 20mg+ | Vapourized Light: 5-10mg Common: 10-15mg Strong: 15-20mg | There are inconsistent reports on the drugs effects. It is recommended to start low and raise dosages slowly.",
+   "duration": "Oral: 2-4 hours. | Insufflated: 1-3 hours. | Vapourized: 0.5-1.5 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "Oral: 5-30 minutes. | Insufflated: 5-15 minutes. | Vapourized: 1-5 minutes.",
+   "summary": "A new and uncommon psychedelic tryptamine related to 5-MeO-DALT. Little is known about the drug, however its effects are likely similar to other psychedelic tryptamines."
+  }
+ }
+}

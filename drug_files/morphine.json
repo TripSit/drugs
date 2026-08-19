@@ -1,0 +1,101 @@
+{
+ "morphine": {
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "common",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "15-20mg",
+    "Light": "5mg-10mg",
+    "Strong": "30mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "4-5",
+   "Intramuscular": "2-4",
+   "Intravenous": "2-4",
+   "Oral_ER": "4-10",
+   "Oral_IR": "4-6",
+   "Rectal": "3-4"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil constriction",
+   "Analgesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "10-30",
+   "Intramuscular": "0-1",
+   "Intravenous": "0-1",
+   "Oral_ER": "40-80",
+   "Oral_IR": "10-30",
+   "Rectal": "10-30"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Morphine.shtml"
+  },
+  "name": "morphine",
+  "pretty_name": "Morphine",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "bioavailability": "Oral 30% | Insufflated 15-20% | Rectal 30% NOTE: Chitosan (A linear polysaccharide that helps absorb drugs better) increases the insufflated bioavailabilty to around 60%. Ratio used was 1.3 grams : 6.7 grams (Morphine:Chitosan) Use with caution.",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "common",
+    "depressant"
+   ],
+   "dose": "Oral Light: 5mg-10mg Common: 15-20mg Strong: 30mg+",
+   "duration": "Oral_IR: 4-6 hours | Oral_ER: 4-10 hours | Insufflated: 4-5 hours | Plugged: 3-4 hours | IV/IM: 2-4 hours.",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
+   "onset": "Oral_IR: 10-30 minutes | Oral_ER: 40-80 minutes | Insufflated: 10-30 minutes | Plugged: 10-30 minutes | IV/IM: 0-1 minutes.",
+   "summary": "The prototypical opioid drug, a powerful analgesic with euphoric qualities. It is found in the seeds and wax of the plant papaver somniferum (opium poppy). First isolated by Friedrich Sert\u00fcrner in 1805, named for its sleep-inducing qualities. It is recommended against combining with other CNS depressants and may cause dangerous CNS depression in overdose."
+  },
+  "pweffects": {
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Constipation": "https://psychonautwiki.org/wiki/Constipation",
+   "Cough suppression": "https://psychonautwiki.org/wiki/Cough_suppression",
+   "Difficulty urinating": "https://psychonautwiki.org/wiki/Difficulty_urinating",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Itchiness": "https://psychonautwiki.org/wiki/Itchiness",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Pain relief": "https://psychonautwiki.org/wiki/Pain_relief",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Pupil constriction": "https://psychonautwiki.org/wiki/Pupil_constriction",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation"
+  },
+  "sources": {
+   "_general": [
+    "Codeine analgesia is due to codeine-6-glucuronide, not morphine. - https://www.ncbi.nlm.nih.gov/pubmed/11092114",
+    "Dextromethorphan potentiates the antinociceptive effects of morphine and the delta-opioid agonist SNC80 in squirrel monkeys. - http://www.ncbi.nlm.nih.gov/pubmed/11805202",
+    "Magnesium increases morphine analgesic effect in different experimental models of pain. - http://www.ncbi.nlm.nih.gov/pubmed/11873038",
+    "Identification of CYP3A4 and CYP2C8 as the major cytochrome P450 s responsible for morphine N-demethylation in human liver microsomes. - http://www.ncbi.nlm.nih.gov/pubmed/12936704",
+    "4-Caffeoyl-1,5-quinide in roasted coffee inhibits [3H]naloxone binding and reverses anti-nociceptive effects of morphine in mice. - http://www.ncbi.nlm.nih.gov/pubmed/15088081",
+    "Evaluation the effects of dextromethorphan and midazolam on morphine induced tolerance and dependence in mice. - http://www.ncbi.nlm.nih.gov/pubmed/18819620",
+    "Enhancement by grapefruit juice of morphine antinociception. - http://www.ncbi.nlm.nih.gov/pubmed/19043223",
+    "Low-Dose Cannabinoid Type 2 Receptor Agonist Attenuates Tolerance to Repeated Morphine Administration via Regulating \u03bc-Opioid Receptor Expression i... - http://www.ncbi.nlm.nih.gov/pubmed/26720619",
+    "Influence of a high-fat meal on the absorption of morphine from oral solutions. - http://www.ncbi.nlm.nih.gov/pubmed/2791448",
+    "Discriminative stimulus effects of reversible and irreversible opiate agonists: morphine, oxymorphazone and buprenorphine. - http://www.ncbi.nlm.nih.gov/pubmed/6206224",
+    "Endogenous codeine and morphine in poor and extensive metabolisers of the CYP2D6 (debrisoquine/sparteine) polymorphism. - http://www.ncbi.nlm.nih.gov/pubmed/8113966",
+    "The effect of food intake on the pharmacokinetics of sustained-release morphine sulfate capsules. - http://www.ncbi.nlm.nih.gov/pubmed/9152568"
+   ]
+  }
+ }
+}

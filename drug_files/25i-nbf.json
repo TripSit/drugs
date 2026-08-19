@@ -1,0 +1,20 @@
+{
+ "25i-nbf": {
+  "categories": [
+   "tentative",
+   "psychedelic",
+   "research-chemical"
+  ],
+  "name": "25i-nbf",
+  "pretty_name": "25I-NBF",
+  "properties": {
+   "categories": [
+    "tentative",
+    "psychedelic",
+    "research-chemical"
+   ],
+   "summary": "Is a derivate of the psychedelic 2C-I. Was sold breifly in a few countries before being banned. Based purely on the pharmacological evidence it'll be between 6-8x less potent than it's parent compound 25I-NBOMe.",
+   "test-kits": "Marquis: Dark Green. | Mecke: Orange > Black. | Mandelin: Orange > Black. | Froehde: Orange > Black. | Liebermann: Orange > Black. | Ehrlich: No colour change. | Gallic Acid: Orange > Black."
+  }
+ }
+}

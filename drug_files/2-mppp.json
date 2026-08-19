@@ -1,0 +1,77 @@
+{
+ "2-mppp": {
+  "aliases": [
+   "n-piperidinecathinone"
+  ],
+  "categories": [
+   "research-chemical",
+   "habit-forming",
+   "stimulant",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "30-60mg",
+    "Heavy": "110mg+",
+    "Light": "15-30mg",
+    "Strong": "60-110mg"
+   },
+   "Oral": {
+    "Common": "50-100mg",
+    "Heavy": "150mg+.",
+    "Light": "25-50mg",
+    "Strong": "100-150mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "decreased need for sleep",
+   "increased sociability",
+   "mood lift",
+   "increased libido",
+   "excessive talking",
+   "decreased appetite",
+   "weight loss",
+   "sweating",
+   "disturbed sleep patterns",
+   "bruxism",
+   "visual and auditory hallucinations",
+   "itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "10-20",
+   "Rectal": "10-15"
+  },
+  "name": "2-mppp",
+  "pretty_name": "2-MPPP",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "n-piperidinecathinone"
+   ],
+   "categories": [
+    "research-chemical",
+    "habit-forming",
+    "stimulant",
+    "tentative"
+   ],
+   "dose": "Oral Light: 25-50mg Common: 50-100mg Strong: 100-150mg Heavy: 150mg+. | Insufflated Light: 15-30mg Common: 30-60mg Strong: 60-110mg Heavy: 110mg+",
+   "duration": "2-4 hours",
+   "effects": "Euphoria, increased energy/alertness, decreased need for sleep, increased sociability, mood lift, increased libido, excessive talking, decreased appetite, weight loss, sweating, disturbed sleep patterns, bruxism, visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
+   "onset": "Oral: 10-20 minutes | Rectal 10-15 minutes",
+   "summary": "A novel stimulant that is similar to methcathinone."
+  }
+ }
+}

@@ -1,0 +1,156 @@
+{
+ "2c-b": {
+  "aliases": [
+   "bees",
+   "nexus",
+   "2cb",
+   "2cb",
+   "2-cb"
+  ],
+  "categories": [
+   "psychedelic",
+   "empathogen",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "10-20mg",
+    "Heavy": "30mg+",
+    "Light": "5-10mg",
+    "Strong": "20-30mg"
+   },
+   "Oral": {
+    "Common": "15-30mg",
+    "Heavy": "50mg+",
+    "Light": "5-15mg",
+    "Strong": "30-50mg"
+   },
+   "Rectal": {
+    "Common": "10-20mg",
+    "Heavy": "30mg+",
+    "Light": "5-10mg",
+    "Strong": "20-30mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-4",
+   "Oral": "4-8",
+   "Rectal": "3-5"
+  },
+  "formatted_effects": [
+   "euphoria",
+   "giggling",
+   "empathy",
+   "insight",
+   "brightened color",
+   "closed/open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception of time",
+   "ego softening",
+   "nausea",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "1-10",
+   "Oral": "20-75",
+   "Rectal": "5-20"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_2CB.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal020.shtml"
+  },
+  "name": "2c-b",
+  "pretty_name": "2C-B",
+  "properties": {
+   "after-effects": "2-4 hours",
+   "aliases": [
+    "bees",
+    "nexus",
+    "2cb",
+    "2cb",
+    "2-cb"
+   ],
+   "categories": [
+    "psychedelic",
+    "empathogen",
+    "common"
+   ],
+   "dose": "Oral Light: 5-15mg  Common: 15-30mg  Strong: 30-50mg  Heavy: 50mg+ | Insufflated/Plugged  Light: 5-10mg  Common: 10-20mg  Strong: 20-30mg  Heavy: 30mg+",
+   "duration": "Oral: 4-8 hours | Insufflated: 2-4 hours | Plugged: 3-5 hours",
+   "effects": "euphoria, giggling, empathy, insight, brightened color, closed/open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception of time, ego softening, nausea, sweating/chills, muscle tension, confusion, insomnia",
+   "onset": "Oral: 20-75 minutes | Insufflated: 1-10 minutes | Plugged: 5-20 minutes",
+   "summary": "A popular psychedelic in the phenethylamine family. Provides empathic experiences at lower doses and strong visual and psychedelic experiences at higher doses. Commonly used as a party drug as it is more clear-headed than most psychedelics. 2C-B has been in use since the early 1990s",
+   "test-kits": "Marquis: Yellow > Green. | Mecke: Yellow > Green/Brown. | Mandelin: Green. | Froehde: Yellow > Green. | Liebermann: Yellow > Black. | Simon's No colour change or Purple. | Ehrlich: No colour change."
+  },
+  "pweffects": {
+   "8A Geometry - Exposure to semantic concept network": "https://psychonautwiki.org/wiki/8A_Geometry_-_Exposure_to_semantic_concept_network",
+   "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
+   "After images": "https://psychonautwiki.org/wiki/After_images",
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+   "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+   "Bodily control enhancement": "https://psychonautwiki.org/wiki/Bodily_control_enhancement",
+   "Colour enhancement": "https://psychonautwiki.org/wiki/Colour_enhancement",
+   "Colour shifting": "https://psychonautwiki.org/wiki/Colour_shifting",
+   "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+   "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+   "Depth perception distortions": "https://psychonautwiki.org/wiki/Depth_perception_distortions",
+   "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+   "Emotion enhancement": "https://psychonautwiki.org/wiki/Emotion_enhancement",
+   "Empathy, love, and sociability enhancement": "https://psychonautwiki.org/wiki/Empathy,_love,_and_sociability_enhancement",
+   "Feelings of interdependent opposites": "https://psychonautwiki.org/wiki/Feelings_of_interdependent_opposites",
+   "Feelings of predeterminism": "https://psychonautwiki.org/wiki/Feelings_of_predeterminism",
+   "Feelings of self-design": "https://psychonautwiki.org/wiki/Feelings_of_self-design",
+   "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+   "Immersion enhancement": "https://psychonautwiki.org/wiki/Immersion_enhancement",
+   "Increased blood pressure": "https://psychonautwiki.org/wiki/Increased_blood_pressure",
+   "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
+   "Increased libido": "https://psychonautwiki.org/wiki/Increased_libido",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Novelty enhancement": "https://psychonautwiki.org/wiki/Novelty_enhancement",
+   "Pattern recognition enhancement": "https://psychonautwiki.org/wiki/Pattern_recognition_enhancement",
+   "Personal bias suppression": "https://psychonautwiki.org/wiki/Personal_bias_suppression",
+   "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Pupil dilation": "https://psychonautwiki.org/wiki/Pupil_dilation",
+   "Rejuvenation": "https://psychonautwiki.org/wiki/Rejuvenation",
+   "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+   "Scenery slicing": "https://psychonautwiki.org/wiki/Scenery_slicing",
+   "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Symmetrical texture repetition": "https://psychonautwiki.org/wiki/Symmetrical_texture_repetition",
+   "Synaesthesia": "https://psychonautwiki.org/wiki/Synaesthesia",
+   "Tactile enhancement": "https://psychonautwiki.org/wiki/Tactile_enhancement",
+   "Teeth grinding": "https://psychonautwiki.org/wiki/Teeth_grinding",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Thought connectivity": "https://psychonautwiki.org/wiki/Thought_connectivity",
+   "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+   "Tracers": "https://psychonautwiki.org/wiki/Tracers",
+   "Transformations": "https://psychonautwiki.org/wiki/Transformations",
+   "Visual haze": "https://psychonautwiki.org/wiki/Visual_haze"
+  },
+  "sources": {
+   "_general": [
+    "In vivo metabolism of 4-bromo-2,5-dimethoxyphenethylamine (2C-B) in the rat: identification of urinary metabolites - http://www.ncbi.nlm.nih.gov/pubmed/11916016"
+   ]
+  }
+ }
+}

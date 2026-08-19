@@ -1,0 +1,75 @@
+{
+ "5-meo-amt": {
+  "aliases": [
+   "5meoamt"
+  ],
+  "categories": [
+   "stimulant",
+   "psychedelic",
+   "research-chemical",
+   "empathogen"
+  ],
+  "dose_note": " NOTE: Hospitalizations have occured with as doses as low as 8mg",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "4-24+"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "2-4mg",
+    "Light": "1-2mg",
+    "Strong": "4-6mg",
+    "Threshold": "0.5-1mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "8-12",
+   "Oral": "12-18"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-120"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_5MeOAMT.shtml"
+  },
+  "name": "5-meo-amt",
+  "pretty_name": "5-MeO-\u03b1MT",
+  "properties": {
+   "after-effects": "4-24+ hours.",
+   "aliases": [
+    "5meoamt"
+   ],
+   "categories": [
+    "stimulant",
+    "psychedelic",
+    "research-chemical",
+    "empathogen"
+   ],
+   "dose": "Oral Threshold: 0.5-1mg Light: 1-2mg Common: 2-4mg Strong: 4-6mg | NOTE: Hospitalizations have occured with as doses as low as 8mg",
+   "duration": "Oral: 12-18 hours. | Insufflated: 8-12 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "30-120 minutes.",
+   "summary": "A long-acting psychedelic and entactogenic tryptamine. The drug is structurally related to aMT. The drug is reported to be very potent and is sometimes sold on blotters. There have been a few reports of the drug being sold as LSD, however it seems this is rare. The drug may be an MAOI, caution is advised when dosing."
+  }
+ }
+}

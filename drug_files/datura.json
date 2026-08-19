@@ -1,0 +1,97 @@
+{
+ "datura": {
+  "categories": [
+   "depressant",
+   "tentative",
+   "deliriant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "24-72"
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "12-72+"
+  },
+  "formatted_effects": [
+   "surreal interactions with world",
+   "hallucinations",
+   "dry mouth",
+   "nausea",
+   "fear",
+   "anxiety",
+   "amnesia",
+   "difficulty breathing",
+   "confusion",
+   "delirium"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "60-120"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Datura.shtml"
+  },
+  "name": "datura",
+  "pretty_name": "Datura",
+  "properties": {
+   "after-effects": "24-72 hours",
+   "avoid": "Yes. Just avoid it.",
+   "categories": [
+    "depressant",
+    "tentative",
+    "deliriant"
+   ],
+   "duration": "12-72+ hours.",
+   "effects": "surreal interactions with world, hallucinations, dry mouth, nausea, fear, anxiety, amnesia, difficulty breathing, confusion, delirium",
+   "onset": "60-120 minutes",
+   "summary": "A family of plants containing various Tropane alkaloids. Produces long-lasting deliriant effects including very realistic and often unpleasant hallucinations along with short-term amnesia. Datura plants are toxic to humans, and potency varies greatly from plant-to-plant, making the drug extremely difficult to dose safely. The drug typically in reports is not regarded as recreational.",
+   "warning": "Datura can be incredibly dangerous, dosing can be hard to determine and extreme caution should be used."
+  },
+  "pweffects": {
+   "Abnormal heartbeat": "https://psychonautwiki.org/wiki/Abnormal_heartbeat",
+   "Acuity suppression": "https://psychonautwiki.org/wiki/Acuity_suppression",
+   "After images": "https://psychonautwiki.org/wiki/After_images",
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+   "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+   "Cognitive dysphoria": "https://psychonautwiki.org/wiki/Cognitive_dysphoria",
+   "Depression": "https://psychonautwiki.org/wiki/Depression",
+   "Difficulty urinating": "https://psychonautwiki.org/wiki/Difficulty_urinating",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Dream potentiation": "https://psychonautwiki.org/wiki/Dream_potentiation",
+   "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+   "Emotion suppression": "https://psychonautwiki.org/wiki/Emotion_suppression",
+   "External hallucinations": "https://psychonautwiki.org/wiki/External_hallucinations",
+   "Frequent urination": "https://psychonautwiki.org/wiki/Frequent_urination",
+   "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Language suppression": "https://psychonautwiki.org/wiki/Language_suppression",
+   "Muscle cramps": "https://psychonautwiki.org/wiki/Muscle_cramps",
+   "Muscle spasms": "https://psychonautwiki.org/wiki/Muscle_spasms",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Paranoia": "https://psychonautwiki.org/wiki/Paranoia",
+   "Pattern recognition suppression": "https://psychonautwiki.org/wiki/Pattern_recognition_suppression",
+   "Perception of increased weight": "https://psychonautwiki.org/wiki/Perception_of_increased_weight",
+   "Peripheral information misinterpretation": "https://psychonautwiki.org/wiki/Peripheral_information_misinterpretation",
+   "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+   "Photophobia": "https://psychonautwiki.org/wiki/Photophobia",
+   "Psychosis": "https://psychonautwiki.org/wiki/Psychosis",
+   "Pupil dilation": "https://psychonautwiki.org/wiki/Pupil_dilation",
+   "Restless leg syndrome": "https://psychonautwiki.org/wiki/Restless_leg_syndrome",
+   "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+   "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+   "Shadow people": "https://psychonautwiki.org/wiki/Shadow_people",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+   "Thought disorganization": "https://psychonautwiki.org/wiki/Thought_disorganization",
+   "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+   "Unspeakable horrors": "https://psychonautwiki.org/wiki/Unspeakable_horrors",
+   "Vibrating vision": "https://psychonautwiki.org/wiki/Vibrating_vision",
+   "Visual haze": "https://psychonautwiki.org/wiki/Visual_haze"
+  }
+ }
+}

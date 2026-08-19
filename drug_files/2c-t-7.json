@@ -1,0 +1,130 @@
+{
+ "2c-t-7": {
+  "aliases": [
+   "2ct7"
+  ],
+  "categories": [
+   "research-chemical",
+   "empathogen",
+   "psychedelic"
+  ],
+  "dose_note": " NOTE: 2C-T-7 reacts widely in varying ways. It is recommended to start low and work your way up.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "4-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "15-30mg",
+    "Heavy": "40mg+",
+    "Light": "10-20mg",
+    "Strong": "30-40mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-5",
+   "Oral": "6-12"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "20-90",
+   "Oral": "20-140"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_2CT7.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal043.shtml"
+  },
+  "name": "2c-t-7",
+  "pretty_name": "2C-T-7",
+  "properties": {
+   "after-effects": "4-12 hours",
+   "aliases": [
+    "2ct7"
+   ],
+   "avoid": "Do not take if currently taking a MAOI.",
+   "categories": [
+    "research-chemical",
+    "empathogen",
+    "psychedelic"
+   ],
+   "dose": "Oral Light: 10-20mg Common: 15-30mg Strong: 30-40mg Heavy: 40mg+ | NOTE: 2C-T-7 reacts widely in varying ways. Start low, work your way up.",
+   "duration": "Oral: 6-12 hours | Insufflated 2-5 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "Oral: 20-140 minutes | Insufflated 20-90 minutes.",
+   "risks": "There have been several reports of deaths from 2C-T-7, and many reports of severe dissociation and vomiting (a dangerous combination) after both oral and insufflated use.",
+   "summary": "A relatively uncommon psychedelic phenethylamine and possible MAOI. Long lasting, an possesses an unpredictable dosage curve. Questionable safety in combination with most things.",
+   "test-kits": "Marquis: Fizzes Pale Orange. | Mecke: Red > Purple. | Mandelin: Red > Purple. | Froehde: Violet Orange | Liebermann: Deep Purple. | Simon's Red > Brown. | Ehrlich: No colour change."
+  },
+  "pweffects": {
+   "8A Geometry - Exposure to semantic concept network": "https://psychonautwiki.org/wiki/8A_Geometry_-_Exposure_to_semantic_concept_network",
+   "8B Geometry - Exposure to inner mechanics of consciousness": "https://psychonautwiki.org/wiki/8B_Geometry_-_Exposure_to_inner_mechanics_of_consciousness",
+   "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
+   "After images": "https://psychonautwiki.org/wiki/After_images",
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+   "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+   "Bodily control enhancement": "https://psychonautwiki.org/wiki/Bodily_control_enhancement",
+   "Colour enhancement": "https://psychonautwiki.org/wiki/Colour_enhancement",
+   "Colour shifting": "https://psychonautwiki.org/wiki/Colour_shifting",
+   "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+   "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+   "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+   "Emotion enhancement": "https://psychonautwiki.org/wiki/Emotion_enhancement",
+   "Feelings of interdependent opposites": "https://psychonautwiki.org/wiki/Feelings_of_interdependent_opposites",
+   "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+   "Headaches": "https://psychonautwiki.org/wiki/Headaches",
+   "Immersion enhancement": "https://psychonautwiki.org/wiki/Immersion_enhancement",
+   "Increased blood pressure": "https://psychonautwiki.org/wiki/Increased_blood_pressure",
+   "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Novelty enhancement": "https://psychonautwiki.org/wiki/Novelty_enhancement",
+   "Pattern recognition enhancement": "https://psychonautwiki.org/wiki/Pattern_recognition_enhancement",
+   "Personal bias suppression": "https://psychonautwiki.org/wiki/Personal_bias_suppression",
+   "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+   "Pupil dilation": "https://psychonautwiki.org/wiki/Pupil_dilation",
+   "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+   "Scenery slicing": "https://psychonautwiki.org/wiki/Scenery_slicing",
+   "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Symmetrical texture repetition": "https://psychonautwiki.org/wiki/Symmetrical_texture_repetition",
+   "Tactile enhancement": "https://psychonautwiki.org/wiki/Tactile_enhancement",
+   "Temperature regulation suppression": "https://psychonautwiki.org/wiki/Temperature_regulation_suppression",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Thought loops": "https://psychonautwiki.org/wiki/Thought_loops",
+   "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+   "Tracers": "https://psychonautwiki.org/wiki/Tracers",
+   "Transformations": "https://psychonautwiki.org/wiki/Transformations",
+   "Unity and interconnectedness": "https://psychonautwiki.org/wiki/Unity_and_interconnectedness",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  },
+  "sources": {
+   "_general": [
+    "Sulfur-Substituted \u03b1-Alkyl Phenethylamines as Selective and Reversible MAO-A Inhibitors:\u2009 Biological Activities, CoMFA Analysis, and Active Site Modeling http://pubs.acs.org/doi/abs/10.1021/jm0493109"
+   ]
+  }
+ }
+}

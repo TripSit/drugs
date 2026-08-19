@@ -1,0 +1,73 @@
+{
+ "25d-nbome": {
+  "aliases": [
+   "2c-d-nbome",
+   "25d"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "dose_note": " Note: Do not exceed 1500ug.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "6-24"
+  },
+  "formatted_dose": {
+   "Sublingual": {
+    "Common": "500-1000ug",
+    "Light": "300-500ug.",
+    "Strong": "1000-1250ug+",
+    "Threshold": "100-300ug."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-40"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_25DNBOMe.shtml"
+  },
+  "name": "25d-nbome",
+  "pretty_name": "25D-NBOMe",
+  "properties": {
+   "after-effects": "6-24 hours.",
+   "aliases": [
+    "2c-d-nbome",
+    "25d"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Sublingual Threshold: 100-300ug. Light: 300-500ug. Common: 500-1000ug Strong: 1000-1250ug+ | Note: Do not exceed 1500ug.",
+   "duration": "4-6 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "20-40 minutes.",
+   "summary": "Uncommon analogue of 2C-D. Extremely potent psychedelic with stimulating qualities. The drug can cause dangerous vasoconstriction at high doses. May induce uncomfortable body load.",
+   "test-kits": "Marquis: Orange > Red. | Mecke: Brown > Green. | Mandelin: Red and Green. | Liebermann: Yellow > Black. | Simon's: Red > Brown. | Ehrlich: No colour change."
+  }
+ }
+}

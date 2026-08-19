@@ -1,0 +1,55 @@
+{
+ "baclofen": {
+  "aliases": [
+   "gablofen"
+  ],
+  "categories": [
+   "depressant",
+   "habit-forming"
+  ],
+  "dose_note": " NOTE: Past 125mg's it is reported to cause blackouts.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-50mg",
+    "Heavy": "75-125mg",
+    "Light": "10-20mg",
+    "Strong": "50-75mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "name": "baclofen",
+  "pretty_name": "Baclofen",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "gablofen"
+   ],
+   "avoid": "All other CNS depressants.",
+   "bioavailability": "Oral: 74%.",
+   "categories": [
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 10-20mg Common: 20-50 Strong: 50-75 Heavy: 75-125mg | NOTE: Past 125mg's you may run into the issue of blacking out.",
+   "duration": "3-6 hours.",
+   "onset": "15-45 minutes.",
+   "summary": "Also known as Lioresal, Baclofen is a GABA(B) receptor agonist and central nervous system depressant used to treat spasticity, and holds promise as a treatment for alcoholism. It exhibits mild intoxicating effects similar to phenibut or Pregabalin."
+  },
+  "sources": {
+   "_general": [
+    "A pilot study assessing pharmacokinectics and tolerability of Oral and intravenous Baclofen in healthy adult volunteers. http://www.ncbi.nlm.nih.gov/pubmed/25028414"
+   ]
+  }
+ }
+}

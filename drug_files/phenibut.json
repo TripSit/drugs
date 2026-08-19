@@ -1,0 +1,81 @@
+{
+ "phenibut": {
+  "categories": [
+   "depressant",
+   "research-chemical",
+   "habit-forming",
+   "nootropic"
+  ],
+  "dose_note": " NOTE: The substance reportedly has a very fast increase in tolerance which seems to vary significantly person-to-person. Caution is recommended start slowly and increase dosages incrementally. There are suggestions to start with lower dosages (50-100mg's) and to wait two weeks before dosage increasement.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "600-1200mg",
+    "Light": "300-600mg",
+    "Strong": "1200-1800mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "9-16"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-120"
+  },
+  "name": "phenibut",
+  "pretty_name": "Phenibut",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "avoid": " CNS depressants such as alcohol, opioids, and benzodiazepines.",
+   "categories": [
+    "depressant",
+    "research-chemical",
+    "habit-forming",
+    "nootropic"
+   ],
+   "dose": "Light: 300-600mg's Common: 600-1200mg Strong: 1200-1800mg+ | NOTE: The substance reportedly has a very fast increase in tolerance which seems to vary significantly person-to-person. Caution is recommended start slowly and increase dosages incrementally. There are suggestions to start with lower dosages (50-100mg's) and to wait two weeks before dosage increasement.",
+   "duration": "9-16 hours.",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "30-120 minutes, peak around t+3-4h",
+   "summary": "A derivative of GABA with the addition of a phenyl ring which allows it to cross the blood brain barrier. The drug is typically used as an anxiety and insomnia medication. Tolerance and physical dependency builds quickly."
+  },
+  "pweffects": {
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Dehydration": "https://psychonautwiki.org/wiki/Dehydration",
+   "Depression": "https://psychonautwiki.org/wiki/Depression",
+   "Difficulty urinating": "https://psychonautwiki.org/wiki/Difficulty_urinating",
+   "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Empathy, love, and sociability enhancement": "https://psychonautwiki.org/wiki/Empathy,_love,_and_sociability_enhancement",
+   "Headaches": "https://psychonautwiki.org/wiki/Headaches",
+   "Increased blood pressure": "https://psychonautwiki.org/wiki/Increased_blood_pressure",
+   "Increased perspiration": "https://psychonautwiki.org/wiki/Increased_perspiration",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Motivation enhancement": "https://psychonautwiki.org/wiki/Motivation_enhancement",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Muscle cramps": "https://psychonautwiki.org/wiki/Muscle_cramps",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Stomach cramps": "https://psychonautwiki.org/wiki/Stomach_cramps",
+   "Temperature regulation suppression": "https://psychonautwiki.org/wiki/Temperature_regulation_suppression",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration"
+  }
+ }
+}

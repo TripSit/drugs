@@ -1,0 +1,44 @@
+{
+ "troparil": {
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "tentative",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-2"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-30mg",
+    "Light": "15-20mg",
+    "Strong": "30-60mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "minutes",
+   "value": "45-70"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10"
+  },
+  "name": "troparil",
+  "pretty_name": "Troparil",
+  "properties": {
+   "after-effects": "1-2 hours.",
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "tentative",
+    "habit-forming"
+   ],
+   "dose": "Low: 15-20mg Common: 20-30mg Strong: 30-60mg+",
+   "duration": "45-70 minutes.",
+   "onset": "<10 minutes.",
+   "summary": "A stimulant and dopamine reuptake inhibitor developed in the 1970's, it is frequently used in scientific research but has seen little usage outside of the lab. The drug is reported to have similar effects to cocaine, though reportedly much longer lasting action without local anaesthetic effects. The drug is suspected to be painful to insufflate."
+  }
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "lormetazepam": {
+  "aliases": [
+   "noctamid"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1-2mg",
+    "Light": "0.5-1mg",
+    "Strong": "2-4mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-30"
+  },
+  "name": "lormetazepam",
+  "pretty_name": "Lormetazepam",
+  "properties": {
+   "after-effects": "1-24 hours depending on dosages",
+   "aliases": [
+    "noctamid"
+   ],
+   "avoid": "All other CNS depressants.",
+   "bioavailability": "Oral: 80%.",
+   "categories": [
+    "benzodiazepine",
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Light: 0.5-1mg Common: 1-2mg Strong: 2-4mg.",
+   "dose_to_diazepam": "Lormetazepam - 1-2mg's ~=10mg Diazepam.",
+   "duration": "4-8 hours depending on dosages",
+   "onset": "10-30 minutes.",
+   "summary": "The drug is a less commonly prescribed benzodiazepine. The drug is short-acting with a short half-life. The drug is typically seen in the Netherlands. The drug is reported to have sedative, hypnotic, and anxiolytic effects."
+  }
+ }
+}

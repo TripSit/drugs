@@ -1,0 +1,45 @@
+{
+ "phenmetrazine": {
+  "aliases": [
+   "preludin"
+  ],
+  "categories": [
+   "stimulant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "25-50mg",
+    "Dangerous": "80mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-30"
+  },
+  "name": "phenmetrazine",
+  "pretty_name": "Phenmetrazine",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "preludin"
+   ],
+   "categories": [
+    "stimulant",
+    "habit-forming"
+   ],
+   "dose": "Common: 25-50mg Dangerous: 80mg+",
+   "duration": "4-8 hours.",
+   "onset": "15-30 minutes.",
+   "summary": "Stimulant drug that was previously used as an appetite suppressant and has since been withdrawn from the market, due to concerns of abuse and addiction. Reportedly produces fewer negative side effects than common amphetamines. A study has reported it is slightly more effective than dextroamphetamine as a weight loss agent."
+  }
+ }
+}

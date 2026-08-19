@@ -1,0 +1,86 @@
+{
+ "codeine": {
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "depressant",
+   "common"
+  ],
+  "dose_note": " NOTE: The ceiling effect differs from person to person, but reports indicate it falls between 400-600mg",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-150mg",
+    "Heavy": "150-200mg",
+    "Light": "50-100mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil constriction",
+   "Analgesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-45"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Codeine.shtml"
+  },
+  "name": "codeine",
+  "pretty_name": "Codeine",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "avoid": "Dosing other medications/drugs that contain acetaminophen or consuming too high dosages of acetaminophen that is often found mixed with codeine. Acetaminophen is also known as Tylenol, Panadol, and paracetamol.",
+   "bioavailability": "Oral 90% | Rectal 90%",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "depressant",
+    "common"
+   ],
+   "dose": "Oral Light: 50-100mg Common: 100-150mg Heavy: 150-200mg | NOTE: The ceiling effect differs from person to person, but reports indicate it generally falls between 400-600mg",
+   "duration": "3-6 hours",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
+   "marquis": "Very dark purple",
+   "onset": "30-45 minutes",
+   "summary": "Codeine is a weaker opioid used to treat mild to moderate pain and to treat coughs. In many countries it is available over the counter in combination with acetaminophen, which can easily be extracted to retrieve near-pure codeine. For this reason, it is used widely as a recreational opioid. It is metabolised into morphine in the body at a rate of 5% mg for mg.",
+   "warning": "You must only use this drug orally due to the risk of severe immune system responses. It needs to pass through the liver to be activated anyway so IV, nasal, plugging etc do not offer an advantage"
+  },
+  "pweffects": {
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Constipation": "https://psychonautwiki.org/wiki/Constipation",
+   "Cough suppression": "https://psychonautwiki.org/wiki/Cough_suppression",
+   "Difficulty urinating": "https://psychonautwiki.org/wiki/Difficulty_urinating",
+   "Itchiness": "https://psychonautwiki.org/wiki/Itchiness",
+   "Pain relief": "https://psychonautwiki.org/wiki/Pain_relief",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Pupil constriction": "https://psychonautwiki.org/wiki/Pupil_constriction",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation"
+  },
+  "sources": {
+   "_general": [
+    "Codeine analgesia is due to codeine-6-glucuronide, not morphine. - https://www.ncbi.nlm.nih.gov/pubmed/11092114",
+    "Nod and wave: an Internet study of the codeine intoxication phenomenon. - https://www.ncbi.nlm.nih.gov/pubmed/25052240",
+    "Trends and characteristics of accidental and intentional codeine overdose deaths in Australia. - http://www.ncbi.nlm.nih.gov/pubmed/26424067",
+    "Rectal versus oral absorption of codeine phosphate in man. - http://www.ncbi.nlm.nih.gov/pubmed/6683976",
+    "Endogenous codeine and morphine in poor and extensive metabolisers of the CYP2D6 (debrisoquine/sparteine) polymorphism. - http://www.ncbi.nlm.nih.gov/pubmed/8113966"
+   ]
+  }
+ }
+}

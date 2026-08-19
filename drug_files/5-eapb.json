@@ -1,0 +1,67 @@
+{
+ "5-eapb": {
+  "aliases": [
+   "5eapb"
+  ],
+  "categories": [
+   "stimulant",
+   "psychedelic",
+   "research-chemical",
+   "empathogen",
+   "habit-forming"
+  ],
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "40-60mg",
+    "Light": "30-40mg",
+    "Strong": "60-100mg+"
+   },
+   "Oral": {
+    "Common": "60-100mg",
+    "Light": "50-60mg",
+    "Strong": "100-150mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "5-6"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "Decreased need for sleep",
+   "Increased sociability",
+   "mood lift",
+   "increased libido",
+   "Excessive talking",
+   "Decreased appetite",
+   "Weight loss",
+   "Sweating",
+   "Disturbed sleep patterns",
+   "Bruxia",
+   "Visual and auditory hallucinations",
+   "itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "name": "5-eapb",
+  "pretty_name": "5-EAPB",
+  "properties": {
+   "aliases": [
+    "5eapb"
+   ],
+   "categories": [
+    "stimulant",
+    "psychedelic",
+    "research-chemical",
+    "empathogen",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 50-60mg Common: 60-100mg Strong: 100-150+mg | Insufflated Light: 30-40mg Common: 40-60mg Strong: 60-100+mg",
+   "duration": "Oral: 5-6 hours Insufflated: 3-4 hours.",
+   "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increased libido, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
+   "onset": "Oral 30-60 minutes Insufflated 5-10 minutes.",
+   "summary": "Initially sold as a replacement to 5-MAPB, the drug seems to be less enjoyable than the former."
+  }
+ }
+}

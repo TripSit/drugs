@@ -1,0 +1,51 @@
+{
+ "prl-8-53": {
+  "aliases": [
+   "prl853"
+  ],
+  "categories": [
+   "research-chemical",
+   "nootropic",
+   "tentative"
+  ],
+  "dose_note": " NOTE: It is strongly recommend to start with low dosages and increase slowly.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-10mg",
+    "Light": "3-5mg",
+    "Strong": "10-20mg+",
+    "Threshold": "2-3mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-4",
+   "Oral": "4-6",
+   "Sublingual": "3-5"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_PRL853.shtml"
+  },
+  "name": "prl-8-53",
+  "pretty_name": "PRL-8-53",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "prl853"
+   ],
+   "categories": [
+    "research-chemical",
+    "nootropic",
+    "tentative"
+   ],
+   "dose": "Oral: 2-3mg Low: 3-5mg Common: 5-10mg Strong: 10-20mg+ | NOTE: It is strongly recommend to start with low dosages and increase slowly.",
+   "duration": "Oral: 4-6 hours | Sublingual: 3-5 hours | Insufflated: 2-4 hours.",
+   "onset": "Oral: 30 minutes. | Sublingual: 15 minutes. | Insufflated: 5 minutes.",
+   "summary": "A nootropic research chemical first synthesized in the 1970's. There is a single clinical study showing drastic improvement in mid-term memory among users, but otherwise it is severely under researched and caution should be given to any singular study. The reportedly does not have recreational value."
+  }
+ }
+}

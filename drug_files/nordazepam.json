@@ -1,0 +1,54 @@
+{
+ "nordazepam": {
+  "aliases": [
+   "nordaz",
+   "nordiazepam",
+   "desmethyldiazepam"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-120"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-15mg",
+    "Light": "2.5-5mg",
+    "Strong": "15-30mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "10-20"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-120"
+  },
+  "name": "nordazepam",
+  "pretty_name": "Nordazepam",
+  "properties": {
+   "after-effects": "1-120 hours.",
+   "aliases": [
+    "nordaz",
+    "nordiazepam",
+    "desmethyldiazepam"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Light: 2.5-5mg Common: 5-15mg Strong: 15-30mg+",
+   "dose_to_diazepam": "Nordazepam - 10mg ~=10mg Diazepam.",
+   "duration": "10-20 hours.",
+   "onset": "45-120 minutes.",
+   "summary": "The drug is reported to have comman benzodiazepine effects, such as being an anti-convulsant, muscle relaxant, and having sedative-anxiolytic effects. The drug has active metabolites of diazepam, chlordiazepoxide, and clorazepate among many others which is where most of its effects come from. The drug has one of the longest lasting half-lifes in the benzodiazepine drug class."
+  }
+ }
+}

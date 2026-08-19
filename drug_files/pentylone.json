@@ -1,0 +1,55 @@
+{
+ "pentylone": {
+  "aliases": [
+   "4-meppp",
+   "bk-mbdp",
+   "bk-methyl-k"
+  ],
+  "categories": [
+   "stimulant",
+   "psychedelic",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-40mg",
+    "Light": "10-20mg",
+    "Strong": "40-80mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-4"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "10",
+   "Oral": "20-40"
+  },
+  "name": "pentylone",
+  "pretty_name": "Pentylone",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "4-meppp",
+    "bk-mbdp",
+    "bk-methyl-k"
+   ],
+   "categories": [
+    "stimulant",
+    "psychedelic",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Light: 10-20mg Common: 20-40mg Strong: 40-80mg+",
+   "duration": "3-4 hours.",
+   "onset": "Oral: 20-40 minutes | Insufflated: 10 minutes",
+   "summary": "A stimulant, empathogen, and substituted cathinone. It was first synthesised in the 1960s, and re-appeared on the research chemical scene in 2010. There is very little known about the pharmacology or effects of this compound."
+  }
+ }
+}

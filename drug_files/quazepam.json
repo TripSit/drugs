@@ -1,0 +1,50 @@
+{
+ "quazepam": {
+  "aliases": [
+   "doral"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-15mg.",
+    "Light": "7.5-10mg",
+    "Strong": "15-30mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-30"
+  },
+  "name": "quazepam",
+  "pretty_name": "Quazepam",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "aliases": [
+    "doral"
+   ],
+   "bioavailability": "Oral 29-35%",
+   "categories": [
+    "benzodiazepine",
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Light: 7.5-10mg Common: 10-15mg. Strong: 15-30mg.",
+   "dose_to_diazepam": "Quazepam - 20mg ~=10mg Diazepam.",
+   "duration": "6-12 hours.",
+   "onset": "10-30 minutes.",
+   "summary": "Benzodiazepine derivate drug, Doral is prescribed for short-term treatment of insomnia and sleep maintenance. It's method of action is reportedly similar to zolpedim and zaleplon (and substitutes) when tested in animal studies."
+  }
+ }
+}

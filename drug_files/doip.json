@@ -1,0 +1,47 @@
+{
+ "doip": {
+  "categories": [
+   "tentative",
+   "psychedelic",
+   "stimulant",
+   "research-chemical"
+  ],
+  "dose_note": " Note: This is based on personal experience as no trip reports have surfaced in the three years it's been on the market, so take with caution.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-48"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1.5-3mg",
+    "Light": "800-1500ug",
+    "Strong": "3mg+",
+    "Threshold": "800ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "18-30"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-120"
+  },
+  "name": "doip",
+  "pretty_name": "DOIP",
+  "properties": {
+   "after-effects": "1-48 hours.",
+   "avoid": "Double dosing as it has a fairly long onset. Also any stimulant that's stronger than caffeine, and even then it can get quite uncomfortable.",
+   "categories": [
+    "tentative",
+    "psychedelic",
+    "stimulant",
+    "research-chemical"
+   ],
+   "dose": "Threshold: 800ug Light: 800-1500ug Common: 1.5-3mg Strong: 3mg+ || Note: This is based on personal experience as no trip reports have surfaced in the three years it's been on the market, so take with caution.",
+   "duration": "18-30 hours.",
+   "onset": "45-120 minutes.",
+   "summary": "A rare psychedelic ampthetamine of the same class as the likes of DOM. Is a quite powerful and potent psychedelic that has very strong amphetamine effects. Not for the faint of heart."
+  }
+ }
+}

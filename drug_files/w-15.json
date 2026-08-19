@@ -1,0 +1,58 @@
+{
+ "w-15": {
+  "categories": [
+   "opioid",
+   "research-chemical",
+   "habit-forming",
+   "tentative",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-10mg",
+    "Light": "2-5mg",
+    "Strong": "10-15mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil constriction",
+   "Analgesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-40"
+  },
+  "name": "w-15",
+  "pretty_name": "W-15",
+  "properties": {
+   "after-effects": "2-4 hours.",
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "opioid",
+    "research-chemical",
+    "habit-forming",
+    "tentative",
+    "depressant"
+   ],
+   "dose": "Light: 2-5mg Common: 5-10mg Strong: 10-15mg+",
+   "duration": "4-6 hours.",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
+   "onset": "15-40 minutes.",
+   "summary": "A potent opioid that is 5.4x more potent than morphine. The drug has a distinct structure unrelated to nearly all other opioid compounds."
+  }
+ }
+}

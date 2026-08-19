@@ -1,0 +1,30 @@
+{
+ "moclobemide": {
+  "formatted_dose": {
+   "Oral": {
+    "Common": "300mg",
+    "Light": "150mg",
+    "Strong": "600mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-90"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Moclobemide.shtml"
+  },
+  "name": "moclobemide",
+  "pretty_name": "Moclobemide",
+  "properties": {
+   "dose": "Light: 150mg Common: 300mg Strong: 600mg.",
+   "duration": "2-6 hours.",
+   "onset": "30-90 minutes.",
+   "summary": "A reversible MAOI which is prescribed to treat depressive and anxiety disorders. Due to its reversibility and short-acting effects it is often used in \"pharmahuasca\" preparations."
+  }
+ }
+}

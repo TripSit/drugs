@@ -1,0 +1,55 @@
+{
+ "camazepam": {
+  "aliases": [
+   "albego",
+   "limpidon",
+   "paxor"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "tentative",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-40mg",
+    "Heavy": "40+",
+    "Light": "10-20mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-12"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-90"
+  },
+  "name": "camazepam",
+  "pretty_name": "Camazepam",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "albego",
+    "limpidon",
+    "paxor"
+   ],
+   "avoid": "Avoid all other CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "tentative",
+    "depressant"
+   ],
+   "dose": "Light: 10-20mg Moderate: 20-40mg Heavy: 40+ mg",
+   "duration": "8-12 hours. Dose and tolerance dependent.",
+   "onset": "45-90 minutes.",
+   "summary": "A benzodiazepine drug that is stronger in terms of anxiety relief than it is in terms of how hypnotic it is. It is a metabolite of diazepam and has limited anticonvulsant properties."
+  }
+ }
+}

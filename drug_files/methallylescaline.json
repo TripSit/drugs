@@ -1,0 +1,110 @@
+{
+ "methallylescaline": {
+  "aliases": [
+   "mal"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "3-5"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "25-40mg",
+    "Heavy": "40mg+",
+    "Light": "15-25mg",
+    "Threshold": "10-15mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Methallylescaline.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal099.shtml"
+  },
+  "name": "methallylescaline",
+  "pretty_name": "Methallylescaline",
+  "properties": {
+   "after-effects": "3-5 hours.",
+   "aliases": [
+    "mal"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Oral Threshold: 10-15mg Low: 15-25mg Common: 25-40mg Heavy: 40mg+",
+   "duration": "6-12 hours, the range can vary significantly depending on dosages.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "20-60 minutes.",
+   "summary": "Mescaline analogue first synthesised by Alexander Shulgin, derived from and less potent than allylescaline. A psychedelic phenethylamine which causes stimulation, euphoria and hallucinatory experiences."
+  },
+  "pweffects": {
+   "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
+   "After images": "https://psychonautwiki.org/wiki/After_images",
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+   "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+   "Bodily control enhancement": "https://psychonautwiki.org/wiki/Bodily_control_enhancement",
+   "Colour enhancement": "https://psychonautwiki.org/wiki/Colour_enhancement",
+   "Colour shifting": "https://psychonautwiki.org/wiki/Colour_shifting",
+   "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+   "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+   "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+   "Emotion enhancement": "https://psychonautwiki.org/wiki/Emotion_enhancement",
+   "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+   "Immersion enhancement": "https://psychonautwiki.org/wiki/Immersion_enhancement",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Novelty enhancement": "https://psychonautwiki.org/wiki/Novelty_enhancement",
+   "Pattern recognition enhancement": "https://psychonautwiki.org/wiki/Pattern_recognition_enhancement",
+   "Personal bias suppression": "https://psychonautwiki.org/wiki/Personal_bias_suppression",
+   "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+   "Pupil dilation": "https://psychonautwiki.org/wiki/Pupil_dilation",
+   "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+   "Scenery slicing": "https://psychonautwiki.org/wiki/Scenery_slicing",
+   "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Symmetrical texture repetition": "https://psychonautwiki.org/wiki/Symmetrical_texture_repetition",
+   "Tactile enhancement": "https://psychonautwiki.org/wiki/Tactile_enhancement",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Thought disorganization": "https://psychonautwiki.org/wiki/Thought_disorganization",
+   "Thought loops": "https://psychonautwiki.org/wiki/Thought_loops",
+   "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+   "Tracers": "https://psychonautwiki.org/wiki/Tracers",
+   "Transformations": "https://psychonautwiki.org/wiki/Transformations",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  }
+ }
+}

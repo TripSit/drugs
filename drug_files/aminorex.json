@@ -1,0 +1,36 @@
+{
+ "aminorex": {
+  "categories": [
+   "stimulant",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "3-10mg",
+    "Light": "1-3mg",
+    "Strong": "10-25mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-30"
+  },
+  "name": "aminorex",
+  "pretty_name": "Aminorex",
+  "properties": {
+   "categories": [
+    "stimulant",
+    "habit-forming",
+    "tentative"
+   ],
+   "duration": "4-8 hours.",
+   "onset": "10-30 minutes.",
+   "summary": "Is an anorectic stimulant drug that was taken off the market after it was found to cause pulmonary hypertension. Potency wise it has been found to be roughly 2.5 times more potent than dextroamphetamine."
+  }
+ }
+}

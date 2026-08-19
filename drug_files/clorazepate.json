@@ -1,0 +1,71 @@
+{
+ "clorazepate": {
+  "aliases": [
+   "tranxene",
+   "novo-clopate",
+   "tranzene"
+  ],
+  "categories": [
+   "depressant",
+   "benzodiazepine",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-20mg",
+    "Light": "5-10mg",
+    "Strong": "20-40mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-12"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-80"
+  },
+  "name": "clorazepate",
+  "pretty_name": "Clorazepate",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "tranxene",
+    "novo-clopate",
+    "tranzene"
+   ],
+   "avoid": "All other CNS depressants.",
+   "bioavailability": "Oral: 91%.",
+   "categories": [
+    "depressant",
+    "benzodiazepine",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Low: 5-10mg Common: 10-20mg Strong: 20-40mg+",
+   "dose_to_diazepam": "Clorazepate - 15mg ~=10mg Diazepam.",
+   "duration": "8-12 hours.",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "20-80 minutes.",
+   "summary": "Is a prodrug for desmethyldiazepam which is responsible for most of the therapeutic effects. Has a long half life, with the addition of desmethyldiazepam as the main metabolite, which makes it much longer."
+  },
+  "sources": {
+   "_general": [
+    "Bentazepam versus Clorazepate in the treatment of anxiety disorders. http://www.sciencedirect.com/science/article/pii/S0011393X05804357"
+   ]
+  }
+ }
+}

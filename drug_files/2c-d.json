@@ -1,0 +1,115 @@
+{
+ "2c-d": {
+  "aliases": [
+   "2cd",
+   "2c-m",
+   "2cm"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-50mg",
+    "Light": "5-15mg",
+    "Strong": "50-100mg",
+    "Threshold": "3-4mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-5"
+  },
+  "formatted_effects": [
+   "comparable to 2C-B",
+   "mental and physical stimulation",
+   "mood lift",
+   "euphoria",
+   "cognitive enhancement",
+   "increased mental clarity and interest",
+   "feelings of empathy",
+   "enhanced tactile sensation",
+   "sensory enhancement",
+   "brightened colors",
+   "sociability",
+   "introspection",
+   "giggling",
+   "pupil dilation",
+   "increased heart rate",
+   "changes in perception of time",
+   "stomach discomfort",
+   "headache",
+   "dizziness",
+   "anxiety"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_2CD.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal023.shtml"
+  },
+  "name": "2c-d",
+  "pretty_name": "2C-D",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "2cd",
+    "2c-m",
+    "2cm"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Oral Threshold: 3-4mg Light: 5-15mg Common: 20-50mg Strong: 50-100mg",
+   "duration": "3-5 hours",
+   "effects": "comparable to 2C-B, mental and physical stimulation, mood lift, euphoria, cognitive enhancement, increased mental clarity and interest, feelings of empathy, enhanced tactile sensation, sensory enhancement, brightened colors, sociability, introspection, giggling, pupil dilation, increased heart rate, changes in perception of time, stomach discomfort, headache, dizziness, anxiety",
+   "onset": "15-45 minutes",
+   "summary": "A fairly generic psychedelic famed for being usable as \"psychedelic tofu\". Little character of its own but pleasant in combinations.",
+   "test-kits": "Marquis: Yellow > Brown. | Mecke: Green > Brown. | Mandelin: Green/Yellow. | Simon's Brown > Red. | Ehrlich: No colour change."
+  },
+  "pweffects": {
+   "8B Geometry - Exposure to inner mechanics of consciousness": "https://psychonautwiki.org/wiki/8B_Geometry_-_Exposure_to_inner_mechanics_of_consciousness",
+   "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+   "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+   "Bodily control enhancement": "https://psychonautwiki.org/wiki/Bodily_control_enhancement",
+   "Colour enhancement": "https://psychonautwiki.org/wiki/Colour_enhancement",
+   "Colour shifting": "https://psychonautwiki.org/wiki/Colour_shifting",
+   "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+   "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+   "Emotion enhancement": "https://psychonautwiki.org/wiki/Emotion_enhancement",
+   "External hallucinations": "https://psychonautwiki.org/wiki/External_hallucinations",
+   "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Novelty enhancement": "https://psychonautwiki.org/wiki/Novelty_enhancement",
+   "Pattern recognition enhancement": "https://psychonautwiki.org/wiki/Pattern_recognition_enhancement",
+   "Personal bias suppression": "https://psychonautwiki.org/wiki/Personal_bias_suppression",
+   "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+   "Pupil dilation": "https://psychonautwiki.org/wiki/Pupil_dilation",
+   "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Tactile enhancement": "https://psychonautwiki.org/wiki/Tactile_enhancement",
+   "Temperature regulation suppression": "https://psychonautwiki.org/wiki/Temperature_regulation_suppression",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Thought connectivity": "https://psychonautwiki.org/wiki/Thought_connectivity",
+   "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+   "Tracers": "https://psychonautwiki.org/wiki/Tracers",
+   "Transformations": "https://psychonautwiki.org/wiki/Transformations"
+  }
+ }
+}

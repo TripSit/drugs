@@ -1,0 +1,55 @@
+{
+ "ethylone": {
+  "aliases": [
+   "bk-mdea"
+  ],
+  "categories": [
+   "stimulant",
+   "psychedelic",
+   "research-chemical",
+   "habit-forming",
+   "empathogen"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "6-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "200-250mg",
+    "Light": "125-175mg",
+    "Strong": "250-400mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-45"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_bkMDEA.shtml"
+  },
+  "name": "ethylone",
+  "pretty_name": "Ethylone",
+  "properties": {
+   "after-effects": "6-24 hours.",
+   "aliases": [
+    "bk-mdea"
+   ],
+   "categories": [
+    "stimulant",
+    "psychedelic",
+    "research-chemical",
+    "habit-forming",
+    "empathogen"
+   ],
+   "dose": "Oral Light: 125-175mg Common: 200-250mg Strong: 250-400mg",
+   "duration": "2-4 hours.",
+   "onset": "30-45 minutes.",
+   "summary": "A euphoric stimulant often sold in place of MDMA since methylone was banned. Slightly less potent and empathogenic than methylone, it is often described as more of a 'clean stimulant.'"
+  }
+ }
+}

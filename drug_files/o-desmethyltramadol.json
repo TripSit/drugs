@@ -1,0 +1,70 @@
+{
+ "o-desmethyltramadol": {
+  "aliases": [
+   "odt",
+   "o-smt",
+   "o-dsmt"
+  ],
+  "categories": [
+   "opioid",
+   "research-chemical",
+   "habit-forming",
+   "tentative",
+   "depressant"
+  ],
+  "dose_note": " NOTE: Insufflation is reported to be extremely painful.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "25-50mg",
+    "Light": "10-25mg",
+    "Strong": "50-100mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil constriction",
+   "Analgesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "20",
+   "Oral": "20-40"
+  },
+  "name": "o-desmethyltramadol",
+  "pretty_name": "O-Desmethyltramadol",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "odt",
+    "o-smt",
+    "o-dsmt"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "opioid",
+    "research-chemical",
+    "habit-forming",
+    "tentative",
+    "depressant"
+   ],
+   "dose": "Oral Light: 10-25mg Common: 25-50mg Strong: 50-100mg+ | NOTE: Insufflation is reported to be extremely painful.",
+   "duration": "3-6 hours",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
+   "onset": "Oral: 20-40 minutes | Insufflated: 20 minutes.",
+   "summary": "An opioid analgesic which is the main active metabolite of tramadol. The drug is a \u00b5 full agonist and has additional affinity for \u03b4 (delta) and \u03ba-opioid receptors."
+  }
+ }
+}

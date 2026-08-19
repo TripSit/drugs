@@ -1,0 +1,50 @@
+{
+ "ephedrine": {
+  "categories": [
+   "stimulant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-30mg",
+    "Heavy": "50mg+",
+    "Light": "10-20mg",
+    "Strong": "30-50mg",
+    "Threshold": "5-10mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "5-20"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Ephedrine.shtml"
+  },
+  "name": "ephedrine",
+  "pretty_name": "Ephedrine",
+  "properties": {
+   "adverse-effects": "Tachycardia, cardiac arrhythmias, angina pectoris, vasoconstriction with hypertension, flushing, sweating, acne vulgaris, nausea, decreased urination, difficulty urinating, restlessness, confusion, insomnia, mild euphoria, mania/hallucinations, delusions, formication, dyspnea, pulmonary edema, dizziness, headache, tremor, hyperglycemic reactions, and dry mouth",
+   "after-effects": "1-8 hours.",
+   "categories": [
+    "stimulant",
+    "habit-forming"
+   ],
+   "contraindications": "Closed-angle glaucoma, phaeochromocytoma, asymmetric septal hypertrophy (idiopathic hypertrophic subaortic stenosis), concomitant or recent (previous 14 days) monoamine oxidase inhibitor (MAOI) therapy, general anaesthesia with halogenated hydrocarbons (particularly halothane), tachyarrhythmias or ventricular fibrillation, and hypersensitivity to ephedrine or other stimulants.",
+   "dose": "Oral Threshold: 5-10mg Light: 10-20mg Common: 20-30mg Strong: 30-50mg Heavy: 50mg+",
+   "duration": "3 - 6 hours",
+   "legal": "Australia: Prescription Only (S4) | Canada: Schedule VI | United Kingdom: P | United States: List I OTC",
+   "onset": "5-20 minutes.",
+   "pharmacokinetics": "Bioavailability: 85% | Metabolism: minimal hepatic | Excretion: 22 - 99% renal",
+   "pharmacology": "NDRA (Norepinephrine-Dopamine Releasing Agent)",
+   "summary": "Ephedrine is a sympathomimetic amine commonly used as a stimulant, concentration aid, decongestant, appetite suppressant, and to treat hypotension associated with anaesthesia. A methamphetamine analogue and commonly used in the production of methamphetamine."
+  }
+ }
+}

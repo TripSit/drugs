@@ -1,0 +1,67 @@
+{
+ "coluracetam": {
+  "categories": [
+   "research-chemical",
+   "nootropic"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "5-10mg",
+    "Light": "2-5mg",
+    "Strong": "10mg+"
+   },
+   "Oral": {
+    "Common": "5-10mg",
+    "Light": "3-5mg",
+    "Strong": "10-20mg+"
+   },
+   "Sublingual": {
+    "Common": "5-10mg",
+    "Light": "2-5mg",
+    "Strong": "10mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "1-5",
+   "Oral": "15-30",
+   "Sublingual": "5-10"
+  },
+  "name": "coluracetam",
+  "pretty_name": "Coluracetam",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "categories": [
+    "research-chemical",
+    "nootropic"
+   ],
+   "dose": "Oral Light: 3-5mg Common: 5-10mg Strong: 10-20mg+ | Sublingual/Insufflated Light: 2-5mg Common: 5-10mg Strong: 10mg+",
+   "duration": "3-6 hours depending on stomach contents/ROA/ect.",
+   "onset": "Oral: 15-30 minutes. | Sublingual: 5-10 minutes. | Intranasal: 1-5 minutes",
+   "summary": "A nootropic drug of the racetam class, originally developed to treat Alzheimer's disease, it is currently being investigated as a treatment for major depressive disorder and generalised anxiety disorder. The drug has some indications that it may be a modulator of the AMPA receptor. Reports indicate that there is limited recreational value."
+  },
+  "pweffects": {
+   "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+   "Colour enhancement": "https://psychonautwiki.org/wiki/Colour_enhancement",
+   "Dream potentiation": "https://psychonautwiki.org/wiki/Dream_potentiation",
+   "Focus enhancement": "https://psychonautwiki.org/wiki/Focus_enhancement",
+   "Memory enhancement": "https://psychonautwiki.org/wiki/Memory_enhancement",
+   "Mindfulness": "https://psychonautwiki.org/wiki/Mindfulness",
+   "Motivation enhancement": "https://psychonautwiki.org/wiki/Motivation_enhancement",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Tactile enhancement": "https://psychonautwiki.org/wiki/Tactile_enhancement",
+   "Thought connectivity": "https://psychonautwiki.org/wiki/Thought_connectivity",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  }
+ }
+}

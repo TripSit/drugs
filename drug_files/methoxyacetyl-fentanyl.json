@@ -1,0 +1,52 @@
+{
+ "methoxyacetyl-fentanyl": {
+  "aliases": [
+   "maf",
+   "desfluoroocfentanil"
+  ],
+  "categories": [
+   "depressant",
+   "research-chemical",
+   "habit-forming",
+   "opioid"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "0.5-1.5mg",
+    "Light": "0.25-0.5mg",
+    "Strong": "1.5mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "minutes",
+   "Insufflated": "10-20"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "10-20"
+  },
+  "name": "methoxyacetyl-fentanyl",
+  "pretty_name": "Methoxyacetyl-Fentanyl",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "aliases": [
+    "maf",
+    "desfluoroocfentanil"
+   ],
+   "categories": [
+    "depressant",
+    "research-chemical",
+    "habit-forming",
+    "opioid"
+   ],
+   "dose": "Light: 0.25-0.5mg Common: 0.5-1.5mg Strong: 1.5mg+",
+   "duration": "Insufflated: 10-20 minutes.",
+   "onset": "Insufflated: 10-20 minutes.",
+   "summary": "A highly potent fentanyl analogue."
+  }
+ }
+}

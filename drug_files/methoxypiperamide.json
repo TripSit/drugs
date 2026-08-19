@@ -1,0 +1,21 @@
+{
+ "methoxypiperamide": {
+  "categories": [
+   "inactive",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "name": "methoxypiperamide",
+  "pretty_name": "Methoxypiperamide",
+  "properties": {
+   "categories": [
+    "inactive",
+    "research-chemical"
+   ],
+   "summary": "Drug of the Piperazine class. The 4-Methoxy-\u03b1-keto analogue of Methylbenzylpiperazine. The drug is reported to inactive on its own. The drug was sold in combination with Mephtetramine."
+  }
+ }
+}

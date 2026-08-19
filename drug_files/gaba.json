@@ -1,0 +1,43 @@
+{
+ "gaba": {
+  "categories": [
+   "depressant",
+   "supplement"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-2"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "400-800mg",
+    "Light": "200-400mg",
+    "Strong": "800-1600mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "5-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "15-60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_GABA.shtml"
+  },
+  "name": "gaba",
+  "pretty_name": "GABA",
+  "properties": {
+   "after-effects": "1-2 hours.",
+   "categories": [
+    "depressant",
+    "supplement"
+   ],
+   "dose": "Oral Light: 200-400mg Common: 400-800mg Strong: 800-1600mg+",
+   "duration": "Oral: 5-8 hours.",
+   "onset": "Oral: 15-60 minutes.",
+   "summary": "Gamma-Aminobutyric Acid. The supplement is often used for its calming effects. There is conflicting research if the drug crosses the blood brain barrier."
+  }
+ }
+}

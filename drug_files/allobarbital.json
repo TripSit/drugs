@@ -1,0 +1,45 @@
+{
+ "allobarbital": {
+  "categories": [
+   "barbiturate",
+   "tentative",
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1000-1500mg",
+    "Light": "500-1000mg",
+    "Strong": "1500-2000mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-10"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-30"
+  },
+  "name": "allobarbital",
+  "pretty_name": "Allobarbital",
+  "properties": {
+   "after-effects": "1-12 hours",
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "barbiturate",
+    "tentative",
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Light: 500-1000mg Common: 1000-1500mg Strong: 1500-2000mg+",
+   "duration": "6-10 hours.",
+   "onset": "15-30 minutes.",
+   "summary": "It is a barbiturate that was first made in 1912. It was preliminary used as an anticonvulsant. Yet it has pretty much been outclassed by a newer generation of safer ones. Still in use in Poland."
+  }
+ }
+}

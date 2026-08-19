@@ -1,0 +1,50 @@
+{
+ "d2pm": {
+  "aliases": [
+   "diphenylprolinol"
+  ],
+  "categories": [
+   "stimulant",
+   "habit-forming",
+   "tentative"
+  ],
+  "dose_note": " NOTE: These doses are tentative and it is recommended to do further research.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-35mg",
+    "Light": "15-20mg",
+    "Strong": "35-50mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-5"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-30"
+  },
+  "name": "d2pm",
+  "pretty_name": "D2PM",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "diphenylprolinol"
+   ],
+   "avoid": "Other stimulants.",
+   "categories": [
+    "stimulant",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Light: 15-20mg Common: 20-35mg Strong: 35-50mg+ | NOTE: These doses are tentative and it is recommended to do further research.",
+   "duration": "2-5 hours.",
+   "onset": "20-30 minutes",
+   "summary": "An NDRI, which is reported as being rather lackluster in subjective effects."
+  }
+ }
+}

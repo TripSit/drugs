@@ -1,0 +1,49 @@
+{
+ "placdyl": {
+  "aliases": [
+   "placidyl",
+   "ethchlorvnol"
+  ],
+  "categories": [
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "200-500mg",
+    "Light": "100-200mg",
+    "Strong": "500-750mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-9"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "name": "placdyl",
+  "pretty_name": "Ethchlorvynol",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "placidyl",
+    "ethchlorvnol"
+   ],
+   "avoid": "All other CNS depressants",
+   "categories": [
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 100-200mg Common: 200-500mg Strong: 500-750mg +",
+   "duration": "6-9 hours",
+   "onset": "15-45 minutes.",
+   "summary": "Sedative-hypnotic medication made in the 1950's. The drug was used for treatment of short-term insomnia (two weeks)."
+  }
+ }
+}

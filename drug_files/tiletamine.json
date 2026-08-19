@@ -1,0 +1,59 @@
+{
+ "tiletamine": {
+  "aliases": [
+   "telazol"
+  ],
+  "categories": [
+   "dissociative",
+   "research-chemical",
+   "tentative",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-72"
+  },
+  "formatted_dose": {
+   "Intramuscular": {
+    "Common": "5-10mg",
+    "Light": "2.5-5mg",
+    "Strong": "10-20mg+"
+   },
+   "Oral": {
+    "Common": "25-50mg",
+    "Light": "10-25mg",
+    "Strong": "50-100mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-5",
+   "Intramuscular": "1-4",
+   "Oral": "6-12"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "2-10",
+   "Intramuscular": "1-5",
+   "Oral": "15-45"
+  },
+  "name": "tiletamine",
+  "pretty_name": "Tiletamine",
+  "properties": {
+   "after-effects": "1-72 hours.",
+   "aliases": [
+    "telazol"
+   ],
+   "categories": [
+    "dissociative",
+    "research-chemical",
+    "tentative",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 10-25mg Common: 25-50mg Strong: 50-100mg+ | Intramuscular Light: 2.5-5mg Common: 5-10mg Strong: 10-20mg+",
+   "duration": "Oral: 6-12 hours. | Insufflated: 2-5 hours. | Intramuscular: 1-4 hours.",
+   "onset": "Oral: 15-45 minutes. | Insufflated: 2-10 minutes. | Intramuscular: 1-5 minutes.",
+   "summary": "A relatively rare dissociative anesthetic. The drug is pharmacologically classified as an NMDA receptor antagonist. It is related to other anesthetics in this family such as ketamine and phencyclidine (PCP). The drug has been used to cut ketamine, in which case it may cause additional nausea. In veterinary practice it is mixed with zolazolam which is a potent anaesthetic, at a 1:1 ratio. "
+  }
+ }
+}

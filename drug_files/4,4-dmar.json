@@ -1,0 +1,48 @@
+{
+ "4,4-dmar": {
+  "aliases": [
+   "serotoni",
+   "4,4-dmap"
+  ],
+  "categories": [
+   "stimulant",
+   "empathogen",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "60-120mg",
+    "Light": "30-60mg",
+    "Strong": "120-200mg."
+   }
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-15",
+   "Oral": "15-30"
+  },
+  "name": "4,4-dmar",
+  "pretty_name": "4,4-DMAR",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "serotoni",
+    "4,4-dmap"
+   ],
+   "categories": [
+    "stimulant",
+    "empathogen",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Light: 30-60mg Common: 60-120mg Strong: 120-200mg.",
+   "onset": "Oral: 15-30 minutes. || Insufflated: 5-15 minutes.",
+   "summary": "Very closely related stimulant to Aminorex and Pemoline. The drug has been sold under the brand name \"Serotoni\" and has been linked to at least 31 deaths. The drug is a potent SNDRA."
+  }
+ }
+}

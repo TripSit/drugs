@@ -1,0 +1,21 @@
+{
+ "methylmorphenate": {
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "name": "methylmorphenate",
+  "pretty_name": "Methylmorphenate",
+  "properties": {
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "summary": "Stimulant of the phenylmorpholine class, an analogue of methylphenidate where the piperidine ring has been replaced by a morpholine one, with ~1/10 potency."
+  }
+ }
+}

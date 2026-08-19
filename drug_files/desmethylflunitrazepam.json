@@ -1,0 +1,55 @@
+{
+ "desmethylflunitrazepam": {
+  "aliases": [
+   "fonazepam",
+   "ro05-4435",
+   "norflunitrazepam"
+  ],
+  "categories": [
+   "depressant",
+   "benzodiazepine",
+   "habit-forming",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1-2mg",
+    "Light": "0.5-1mg",
+    "Strong": "2-4mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-10"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-60"
+  },
+  "name": "desmethylflunitrazepam",
+  "pretty_name": "Desmethylflunitrazepam",
+  "properties": {
+   "after-effects": "2-12 hours.",
+   "aliases": [
+    "fonazepam",
+    "ro05-4435",
+    "norflunitrazepam"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "depressant",
+    "benzodiazepine",
+    "habit-forming",
+    "research-chemical"
+   ],
+   "dose": "Light: 0.5-1mg Common: 1-2mg Strong: 2-4mg+",
+   "duration": "5-10 hours.",
+   "onset": "30-60 minutes.",
+   "summary": "Benzodiazepine that is a metabolite of Flunitrazepam, and has been sold as a research chemical."
+  }
+ }
+}

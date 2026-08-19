@@ -1,0 +1,72 @@
+{
+ "6-apdb": {
+  "aliases": [
+   "4-desoxy-mda"
+  ],
+  "categories": [
+   "stimulant",
+   "psychedelic",
+   "research-chemical",
+   "empathogen",
+   "habit-forming"
+  ],
+  "dose_note": "There are some users that report to be fatigued for the following days.",
+  "formatted_dose": {
+   "Oral": {
+    "Common": "40-75mg",
+    "Heavy": "75-100+mg",
+    "Light": "30-40mg",
+    "Threshold": "25-30mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "7-9"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "Decreased need for sleep",
+   "Increased sociability",
+   "mood lift",
+   "increased libido",
+   "Excessive talking",
+   "Decreased appetite",
+   "Weight loss",
+   "Sweating",
+   "Disturbed sleep patterns",
+   "Bruxia",
+   "Visual and auditory hallucinations",
+   "itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "60-90"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_6APDB.shtml"
+  },
+  "name": "6-apdb",
+  "pretty_name": "6-APDB",
+  "properties": {
+   "after-effects": "There are some users that report to be fatigued for the following days.",
+   "aliases": [
+    "4-desoxy-mda"
+   ],
+   "categories": [
+    "stimulant",
+    "psychedelic",
+    "research-chemical",
+    "empathogen",
+    "habit-forming"
+   ],
+   "dose": "Oral Threshold: 25-30mg Low: 30-40mg Medium: 40-75mg Heavy: 75-100+mg",
+   "duration": "7-9 hours, up to 12 reported",
+   "effects": "Euphoria, increased energy/alertness, Decreased need for sleep, Increased sociability, mood lift, increased libido, Excessive talking, Decreased appetite, Weight loss, Sweating, Disturbed sleep patterns, Bruxia, Visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
+   "onset": "60-90 minutes.",
+   "summary": "A stimulant and entactogen related to MDMA and an analogue of MDA. Reported as having fairly psychedelic effects at higher dosages. It is a triple monoamine reuptake inhibitor. It is a potent full agonist of serotonin 2B receptors."
+  }
+ }
+}

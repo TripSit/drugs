@@ -1,0 +1,43 @@
+{
+ "buphedrone": {
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "30-50mg",
+    "Heavy": "50-80mg",
+    "Light": "10-30mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "1-2",
+   "Oral": "2-3"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-20"
+  },
+  "name": "buphedrone",
+  "pretty_name": "Buphedrone",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 10-30mg Common: 30-50mg Heavy: 50-80mg",
+   "duration": "Oral: 2-3 hours | Insufflated: 1-2 hours",
+   "onset": "10-20 minutes",
+   "summary": "A cathinone stimulant first discovered in 1928, has gained some modest popularity as a mephedrone replacement. It is reported to be to be around 2-3x more potent than methcathinone."
+  }
+ }
+}

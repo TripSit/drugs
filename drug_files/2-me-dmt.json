@@ -1,0 +1,66 @@
+{
+ "2-me-dmt": {
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-5"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50-75mg",
+    "Light": "30-50mg",
+    "Strong": "75-100mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-8"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "15-40",
+   "Oral": "60-90"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_2MeDMT.shtml",
+   "tihkal": "https://www.erowid.org/library/books_online/tihkal/tihkal34.shtml"
+  },
+  "name": "2-me-dmt",
+  "pretty_name": "2-Me-DMT",
+  "properties": {
+   "after-effects": "1-5 hours.",
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Oral Light: 30-50mg Common: 50-75mg Strong: 75-100mg",
+   "duration": "3-8 hours",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "Oral: 60-90 minutes. | Insufflated: 15-40 minutes.",
+   "summary": "Also known as 2,N,N-TMT, this drug was first synthesised by Alexander Shulgin. Described as a very mild psychedelic of similar subjective effects to other tryptamines. Reported as having an unusual and unpredictable dose curve, it is recommended to start low with this drug."
+  }
+ }
+}

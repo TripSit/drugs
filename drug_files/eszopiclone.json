@@ -1,0 +1,50 @@
+{
+ "eszopiclone": {
+  "categories": [
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1-2mg",
+    "Light": "0.5-1mg",
+    "Strong": "2-4mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-10"
+  },
+  "formatted_effects": [
+   "anxiolytic",
+   "sedative",
+   "muscle relaxant",
+   "amnesia",
+   "dystaxia",
+   "hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-30"
+  },
+  "name": "eszopiclone",
+  "pretty_name": "Eszopiclone",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Light: 0.5-1mg Common: 1-2mg Strong: 2-4mg+",
+   "duration": "6-10 hours.",
+   "effects": "anxiolytic, sedative, muscle relaxant, amnesia, dystaxia, hypnotic",
+   "onset": "15-30 minutes.",
+   "summary": "The D-isomer of Zopiclone, this drug is a potent hypnotic 'Z' drug often used to treat insomnia. High doses may cause amnesia, delirium and lowered inhibitions. The drug should not be combined with any depressants. Limited recreational value."
+  }
+ }
+}

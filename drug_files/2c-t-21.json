@@ -1,0 +1,68 @@
+{
+ "2c-t-21": {
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-8mg",
+    "Heavy": "8-12mg",
+    "Light": "3-5mg",
+    "Threshold": "3mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-40"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_2CT21.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal049.shtml"
+  },
+  "name": "2c-t-21",
+  "pretty_name": "2C-T-21",
+  "properties": {
+   "after-effects": "2-12 hours.",
+   "avoid": "It is likely that this also has the MAO-A properties of the likes of 2c-t-7.",
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Threshold: 3mg Light: 3-5mg Common: 5-8mg Heavy: 8-12mg",
+   "duration": "6-12 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "15-40 minutes.",
+   "summary": "A rare psychedelic phenethylamine.",
+   "test-kits": "Marquis: Fizzes Light Orange. | Mecke: Dark Purple. | Simon's: Greenish Blue."
+  }
+ }
+}

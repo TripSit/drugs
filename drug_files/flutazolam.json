@@ -1,0 +1,52 @@
+{
+ "flutazolam": {
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-10mg",
+    "Light": "2.5-5mg",
+    "Strong": "10-15mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-8"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-30"
+  },
+  "name": "flutazolam",
+  "pretty_name": "Flutazolam",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Oral Light: 2.5-5mg Common: 5-10mg Strong: 10-15mg.",
+   "duration": "3-8 hours.",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "10-30 minutes.",
+   "summary": "A benzodiazepine derivative. It was invented in Japan, and has it reported to mainly be used there. The drug has similar potency to diazepam, yet produces a more marked sedation and impaired coordination. The drug is typically used as a treatment for insomnia. The drug is reported to have hypnotic and sedative effects and may cause amnesia and lowered inhibitions in high dosages."
+  }
+ }
+}

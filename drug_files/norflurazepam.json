@@ -1,0 +1,51 @@
+{
+ "norflurazepam": {
+  "aliases": [
+   "n-desalkylflurazepam"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "depressant",
+   "tentative",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-10mg",
+    "Light": "2-5mg",
+    "Strong": "10-20mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "10-16"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-120"
+  },
+  "name": "norflurazepam",
+  "pretty_name": "Norflurazepam",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "n-desalkylflurazepam"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "depressant",
+    "tentative",
+    "habit-forming"
+   ],
+   "dose": "Light: 2-5mg Common: 5-10mg Strong: 10-20mg+",
+   "duration": "10-16 hours.",
+   "onset": "45-120 minutes.",
+   "summary": "Benzodiazepine analogue that is an active metabolite to many other benzodiazepines, such as flurazepam, flutoprazepam, and midazolam."
+  }
+ }
+}

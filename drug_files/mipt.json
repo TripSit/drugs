@@ -1,0 +1,85 @@
+{
+ "mipt": {
+  "aliases": [
+   "n-methyl-n-isopropyltryptamine"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "10-15mg",
+    "Light": "5-10mg",
+    "Strong": "15-20mg+"
+   },
+   "Oral": {
+    "Common": "10-15mg",
+    "Light": "5-10mg",
+    "Strong": "15-25mg+"
+   },
+   "Vapourized": {
+    "Common": "5-15mg",
+    "Light": "3-5mg",
+    "Strong": "15-20mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "3-5",
+   "Oral": "2-5",
+   "Vapourized": "2-3"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "0-2",
+   "Oral": "30-45",
+   "Vapourized": "0-1"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_MIPT.shtml",
+   "tihkal": "https://www.erowid.org/library/books_online/tihkal/tihkal47.shtml"
+  },
+  "name": "mipt",
+  "pretty_name": "MiPT",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "n-methyl-n-isopropyltryptamine"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Oral Light: 5-10mg Common: 10-15mg Strong: 15-25mg+ | Insufflated Light: 5-10mg Common: 10-15mg Strong: 15-20mg+ | Vapourized Light: 3-5mg Common: 5-15mg Strong: 15-20mg+",
+   "duration": "Oral: 2-5 hours. | Insufflated 3-5 hours. | Vapourized 2-3 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "Oral: 30-45 minutes. | Insufflated: 0-2 minutes | Vapourized: 0-1 minutes",
+   "summary": "N-Methyl-N-isopropyltryptamine, a tryptamine analogue of DMT. The drug is reportedly are with very few reports of use. The drug is described as 'more psychedelic than hallucinogenic,' users report mild visual hallucinations with some stimulant and cognitive effects. The drug is considered one of of the more stable tryptamines."
+  }
+ }
+}

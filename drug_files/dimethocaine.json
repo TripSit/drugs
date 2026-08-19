@@ -1,0 +1,79 @@
+{
+ "dimethocaine": {
+  "aliases": [
+   "DMC",
+   "CMD",
+   "Larocaine"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "dose_note": " Note: Dimethocaine shows strong inter-individual variability due to NAT2 polymorphism. Redosing and high doses substantially increase cardiovascular and tissue toxicity risk.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Insufflated": "1-6"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "15-30mg",
+    "Light": "5-15mg",
+    "Strong": "30-50mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "1.5-3"
+  },
+  "formatted_effects": [
+   "Stimulation",
+   "Euphoria",
+   "Increased alertness",
+   "Local numbness",
+   "Increased confidence",
+   "Tachycardia (increased heart rate)",
+   "Vasoconstriction",
+   "Increased blood pressure",
+   "Anxiety",
+   "Jaw tension",
+   "Insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "2-10"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Dimethocaine.shtml"
+  },
+  "name": "dimethocaine",
+  "pretty_name": "Dimethocaine",
+  "properties": {
+   "after-effects": "Insufflated: 1-6 hours. | Note: After-effects commonly include fatigue, headache, nasal irritation, and residual cardiovascular strain.",
+   "aliases": [
+    "DMC",
+    "CMD",
+    "Larocaine"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Insufflated Light: 5-15mg Common: 15-30mg Strong: 30-50mg. | Note: Local anesthesia can mask tissue damage; repeated dosing increases cardiotoxic risk.",
+   "duration": "Insufflated: 1.5-3 hours. | NOTE: Duration varies significantly depending on metabolism, purity, and tolerance.",
+   "effects": "Stimulation, Euphoria, Increased alertness, Local numbness, Increased confidence, Tachycardia, Vasoconstriction, Increased blood pressure, Anxiety, Jaw tension, Insomnia.",
+   "onset": "Insufflated: 2-10 minutes | NOTE: Rapid onset due to nasal absorption and local anesthetic properties.",
+   "summary": "Dimethocaine is a synthetic cocaine-derived local anesthetic with stimulant properties. It acts primarily as a dopamine reuptake inhibitor and voltage-gated sodium channel blocker, producing cocaine-like but generally less intense effects. Despite being perceived as milder, it carries substantial cardiovascular and tissue toxicity risks. Metabolism is dominated by NAT2-mediated N-acetylation, with additional contributions from multiple cytochrome P450 enzymes, resulting in significant inter-individual variability and elevated risk for slow acetylators."
+  },
+  "sources": {
+   "_general": [
+    "Wikipedia contributors. Dimethocaine. Wikipedia, The Free Encyclopedia. https://en.wikipedia.org/wiki/Dimethocaine",
+    "Lindauer C. Toxicokinetics of Emerging Drugs of Abuse: In vivo and in vitro studies on the metabolic fate of the cocaine-derived designer drug dimethocaine. Universit\u00e4t des Saarlandes, 2014. https://jahrbib.sulb.uni-saarland.de/bitstream/20.500.11880/21949/1/Dissertation_Lindauer_Dimethocaine_final_hhm.pdf",
+    "Meyer MR, Lindauer C, Maurer HH. Dimethocaine, a synthetic cocaine derivative: Studies on its in vitro metabolism catalyzed by P450s and NAT2. Toxicology Letters. 2014;225(1):139\u2013146. https://doi.org/10.1016/j.toxlet.2013.11.033"
+   ]
+  }
+ }
+}

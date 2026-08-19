@@ -1,0 +1,50 @@
+{
+ "isophenmetrazine": {
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "tentative",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "5-15mg",
+    "Light": "2-5mg",
+    "Strong": "20-40mg+"
+   },
+   "Oral": {
+    "Common": "10-20mg",
+    "Light": "5-10mg",
+    "Strong": "20-50mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "3-5"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "15-30"
+  },
+  "name": "isophenmetrazine",
+  "pretty_name": "Isophenmetrazine",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "avoid": "Other stimulants.",
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "tentative",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 5-10mg Common: 10-20mg Strong: 20-50mg+ | Insufflated Light: 2-5mg Common: 5-15mg Strong: 20-40mg+",
+   "duration": "Oral: 3-5 hours. Insufflated: 2-4 hours.",
+   "onset": "Oral: 15-30 minutes. Insufflated: 5-10 minutes.",
+   "summary": "Rare and little known analogue of phenmetrazine, which is slightly more potent than other analogues. It is suspected to be a stimulating, appetite supressing drug with high misuse potential. The drug is suspected to be a dopamine and/or norepinephrine releasing agent."
+  }
+ }
+}

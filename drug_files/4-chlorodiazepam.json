@@ -1,0 +1,25 @@
+{
+ "4-chlorodiazepam": {
+  "aliases": [
+   "ro5-4864",
+   "4'-chlorodiazepam"
+  ],
+  "categories": [
+   "research-chemical",
+   "tentative"
+  ],
+  "name": "4-chlorodiazepam",
+  "pretty_name": "4-Chlorodiazepam",
+  "properties": {
+   "aliases": [
+    "ro5-4864",
+    "4'-chlorodiazepam"
+   ],
+   "categories": [
+    "research-chemical",
+    "tentative"
+   ],
+   "summary": "A benzodiazepine derivative of Diazepam, yet lacks affinity for GABA(a) receptors, yet is a sedative that has pro-convulsant effects. At lower doses it has been shown to be neuroprotective."
+  }
+ }
+}

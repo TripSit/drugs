@@ -1,0 +1,38 @@
+{
+ "aniracetam": {
+  "categories": [
+   "research-chemical",
+   "nootropic"
+  ],
+  "dose_note": "Rapid onset.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1500mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Aniracetam.shtml"
+  },
+  "name": "aniracetam",
+  "pretty_name": "Aniracetam",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "bioavailability": "Oral: 8.6-11.4% (This is due to the extensive first pass hepatic metabolism) - Presumably higher when taken with fatty acids.",
+   "categories": [
+    "research-chemical",
+    "nootropic"
+   ],
+   "dose": "Oral Common: 1500mg",
+   "duration": "2-4 hours.",
+   "summary": "An anxiolytic nootropic which modulates the AMPA receptor. Significantly more potent than racetam. May have positive effects on memory and cognition. Little recreational value. Sold in Europe as a prescription drug, but not approved by the FDA in the US."
+  }
+ }
+}

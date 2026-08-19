@@ -1,0 +1,69 @@
+{
+ "methylmethaqualone": {
+  "aliases": [
+   "mmq"
+  ],
+  "categories": [
+   "depressant",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "dose_note": " NOTE: The drug is reported to have caused a high amount of seizures, caution is strongly recommended.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-2"
+  },
+  "formatted_dose": {
+   "Sublingual": {
+    "Common": "5-10mg.",
+    "Light": "3-5mg",
+    "Strong": "10-20mg+",
+    "Threshold": "2-3mg"
+   },
+   "Vapourized": {
+    "Common": "5-10mg.",
+    "Light": "3-5mg",
+    "Strong": "10-20mg+",
+    "Threshold": "2-3mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "1-2"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Sublingual": "10",
+   "Vapourized": "0-1"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Methylmethaqualone.shtml"
+  },
+  "name": "methylmethaqualone",
+  "pretty_name": "Methylmethaqualone",
+  "properties": {
+   "after-effects": "1-2 hours.",
+   "aliases": [
+    "mmq"
+   ],
+   "categories": [
+    "depressant",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Vapourized/Sublingual Threshold: 2-3mg Light: 3-5mg Common: 5-10mg. Strong: 10-20mg+ | NOTE: The drug is reported to have caused a high amount of seizures, caution is strongly recommended.",
+   "duration": "1-2 hours",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "Sublingual: 10 minutes | Vapourized: 0-1 minutes.",
+   "summary": "A more potent analogue of methaqualone with a short duration. The drug is suspected to be  neurotoxic. The drug is reported to have proconvulsive effects."
+  }
+ }
+}

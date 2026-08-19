@@ -1,0 +1,411 @@
+{
+ "mdma": {
+  "aliases": [
+   "molly",
+   "ecstasy",
+   "adam",
+   "xtc",
+   "mandy",
+   "x",
+   "md"
+  ],
+  "categories": [
+   "stimulant",
+   "psychedelic",
+   "empathogen",
+   "habit-forming",
+   "common"
+  ],
+  "combos": {
+   "2c-t-x": {
+    "status": "Caution"
+   },
+   "2c-x": {
+    "status": "Low Risk & Synergy"
+   },
+   "5-meo-xxt": {
+    "note": "Some of the 5-MeO tryptamines are a bit unpredictable and should be mixed with MDMA with care",
+    "status": "Caution"
+   },
+   "alcohol": {
+    "note": "The combination of MDMA and alcohol may increase strain on the cardiovascular system and lead to increased alcohol consumption. MDMA may also impair one's ability to recognize their level of drunkenness, leading to increased alcohol consumption and poor decision-making. Alcohol may also increase the risk of dehydration and hyperthermia (increased body temperature) when combined with MDMA.",
+    "sources": [
+     {
+      "author": "Hamida, S. B., Plute, E., Cosquer, B., Kelche, C., Jones, B. C., & Cassel, J.-C. ",
+      "title": "Interactions between ethanol and cocaine, amphetamine, or MDMA in the rat: thermoregulatory and locomotor effects. (2008)",
+      "url": "https://doi.org/10.1007/s00213-007-1007-5"
+     },
+     {
+      "author": "Ramaekers, J. G., & Kuypers, K. P. C.",
+      "title": "Acute Effects of 3,4-Methylenedioxymethamphetamine (MDMA) on Behavioral Measures of Impulsivity: Alone and in Combination with Alcohol. (2006)",
+      "url": "https://doi.org/10.1038/sj.npp.1300894"
+     },
+     {
+      "author": "Hern\u00e1ndez-L\u00f3pez, C., Farr\u00e9, M., Roset, P. N., Menoyo, E., Pizarro, N., Ortu\u00f1o, J., Torrens, M., Cam\u0131\u0301, J., & Torre, R. de la.",
+      "title": "3,4-Methylenedioxymethamphetamine (Ecstasy) and Alcohol Interactions in Humans: Psychomotor Performance, Subjective Effects, and Pharmacokinetics. (2002)",
+      "url": "https://doi.org/10.1124/jpet.300.1.236"
+     },
+     {
+      "author": "van Amsterdam, J., Brunt, T. M., Pierce, M., & van den Brink, W.",
+      "title": "Hard Boiled: Alcohol Use as a Risk Factor for MDMA-Induced Hyperthermia: a Systematic Review. (2021)",
+      "url": "https://doi.org/10.1007/s12640-021-00416-z"
+     }
+    ],
+    "status": "Caution"
+   },
+   "amphetamines": {
+    "note": "This combination of stimulants will increase strain on the heart, may cause some physical discomfort, and has the chance to cause cardiovascular issues. The anxiogenic and focusing effects of stimulants can increase the chance of unpleasant thought loops and make the experience more uncomfortable, this combination raises these chances. Amphetamines will increase the neurotoxic effects of MDMA, in addition to causing further concerns of hyperthermia due to the inherent nature of the combination. It will also raise one's body temperature, also likely making the combination more neurotoxic.",
+    "sources": [
+     {
+      "author": "Kelly J. Clemens, Iain S. McGregor, Glenn E. Hunt, Jennifer L. Cornish",
+      "title": "MDMA, methamphetamine and their combination: possible lessons for party drug users from recent preclinical research",
+      "url": "https://doi.org/10.1080/09595230601036945"
+     },
+     {
+      "author": "Kelly J. Clemens, Iain S. McGregor, Glenn E. Hunt, Jennifer L. Cornish",
+      "title": "Repeated weekly exposure to MDMA, methamphetamine or their combination: long-term behavioural and neurochemical effects in rats ",
+      "url": "https://doi.org/10.1016/j.drugalcdep.2006.06.004"
+     },
+     {
+      "author": "P. Leon Brown, Eugene A. Kiyatkin",
+      "title": "Brain hyperthermia induced by MDMA (\u2018ecstasy\u2019): modulation by environmental conditions",
+      "url": "https://doi.org/10.1111/j.0953-816X.2004.03453.x"
+     }
+    ],
+    "status": "Caution"
+   },
+   "amt": {
+    "status": "Dangerous"
+   },
+   "benzodiazepines": {
+    "status": "Low Risk & Decrease"
+   },
+   "caffeine": {
+    "note": "Caffeine is not really necessary with MDMA and increases any neurotoxic effects from MDMA",
+    "status": "Caution"
+   },
+   "cannabis": {
+    "note": "Large amounts of cannabis may cause strong and somewhat unpredictable experiences in combination with MDMA. Cannabis should be saved for towards the end of the experience if possible.",
+    "status": "Low Risk & Synergy"
+   },
+   "cocaine": {
+    "note": "Cocaine blocks some of the desirable effects of MDMA while increasing the risk of heart attack.",
+    "status": "Caution"
+   },
+   "dextromethorphan": {
+    "status": "Dangerous"
+   },
+   "dmt": {
+    "status": "Low Risk & Synergy"
+   },
+   "dox": {
+    "note": "The combined stimulating effects of the two can be uncomfortable. Coming down on the MDMA while the DOx is still active can be quite anxiogenic. ",
+    "status": "Caution"
+   },
+   "ghb/gbl": {
+    "note": "Large amounts of GHB/GBL may overwhelm the effects of MDMA on the comedown.",
+    "status": "Caution"
+   },
+   "ketamine": {
+    "note": "No unexpected interactions, though likely to increase blood pressure but not an issue with sensible doses. Moving around on high doses of  this combination may be ill advised due to risk of physical injury.",
+    "status": "Low Risk & Synergy"
+   },
+   "lithium": {
+    "note": "High risk of serotonin syndrome",
+    "sources": [
+     {
+      "author": "Lokesh Shahani",
+      "title": "Venlafaxine Augmentation With Lithium Leading to Serotonin Syndrome",
+      "url": "https://doi.org/10.1176/appi.neuropsych.11080196"
+     },
+     {
+      "author": "Charles DeBattista, Mehmet Sofuoglu, and Alan F. Schatzberg",
+      "title": "Serotonergic Synergism: The Risks and Benefits of Combining the Selective Serotonin Reuptake Inhibitors with Other Serotonergic Drugs",
+      "url": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(98)00161-9/pdf"
+     },
+     {
+      "author": "Olivier Massot Ph.D, Jean-Claude Rousselle Ph.D, Marie-Paule Fillion MSc, Dominique Januel MD, Mathieu Plantefol MSc & Gilles Fillion Ph.D ",
+      "title": "5-HT1B Receptors: A Novel Target for Lithium: Possible Involvement in Mood Disorders",
+      "url": "https://doi.org/10.1016/S0893-133X(99)00042-1"
+     },
+     {
+      "author": "Philip J. Cowen",
+      "title": "New drugs, old problems: Revisiting\u2026 Pharmacological management of treatment-resistant depression",
+      "url": "https://doi.org/10.1192/apt.11.1.19"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "lsd": {
+    "status": "Low Risk & Synergy"
+   },
+   "maois": {
+    "note": "MAO-B inhibitors can increase the potency and duration of phenethylamines unpredictably. MAO-A inhibitors with MDMA will lead to hypertensive crises.",
+    "status": "Dangerous"
+   },
+   "mephedrone": {
+    "note": "Risk of serotonin syndrome as both drugs raise serotonin levels. Stimulants also increase the neurotoxic effects of MDMA, in addition to concerns of high blood pressure and unnecessary strain on the heart. As well as potentially causing anxiety and greater physical discomfort due to the combination.",
+    "sources": [
+     {
+      "author": "J Kehr,  F Ichinose,  S Yoshitake,  M Goiny,  T Sievertsson,  F Nyberg,  T Yoshitake",
+      "title": "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats",
+      "url": "https://doi.org/10.1111/j.1476-5381.2011.01499.x"
+     },
+     {
+      "author": "Gregory C. Hadlock, Katy M. Webb, Lisa M. McFadden, Pei Wen Chu, Jonathan D. Ellis, Scott C. Allen, David M. Andrenyak, Paula L. Vieira-Brock, Christopher L. German, Kevin M. Conrad, Amanda J. Hoonakker, James W. Gibb, Diana G. Wilkins, Glen R. Hanson and Annette E. Fleckenstein",
+      "title": "4-Methylmethcathinone (Mephedrone): Neuropharmacological Effects of a Designer Stimulant of Abuse",
+      "url": "https://doi.org/10.1124/jpet.111.184119 "
+     },
+     {
+      "author": "Gough B, Ali SF, Slikker W Jr, Holson RR. ",
+      "title": "Acute effects of 3,4-methylenedioxymethamphetamine (MDMA) on monoamines in rat caudate. (1991)",
+      "url": "https://doi.org/10.1016/0091-3057(91)90137-q"
+     },
+     {
+      "author": "Schmidt CJ, Levin JA, Lovenberg W. ",
+      "title": "In vitro and in vivo neurochemical effects of methylenedioxymethamphetamine on striatal monoaminergic systems in the rat brain. (1987)",
+      "url": "https://doi.org/10.1016/0006-2952(87)90729-5"
+     },
+     {
+      "author": "Bankson MG, Cunningham KA.",
+      "title": "3,4-Methylenedioxymethamphetamine (MDMA) as a unique model of serotonin receptor function and serotonin-dopamine interactions. (2001)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11356903/"
+     },
+     {
+      "author": "A.C. Parrott",
+      "title": "Recreational Ecstasy/MDMA, the serotonin syndrome, and serotonergic neurotoxicity (2002)",
+      "url": "https://doi.org/10.1016/S0091-3057(01)00711-0"
+     },
+     {
+      "author": "Lisa H. Gold & George F. Koob ",
+      "title": "MDMA produces stimulant-like conditioned locomotor activity. (1989)",
+      "url": "https://doi.org/10.1007/BF00445556"
+     },
+     {
+      "author": "Meng H, Cao J, Kang J, Ying X, Ji J, Reynolds W, Rampe D.",
+      "title": "Mephedrone, a new designer drug of abuse, produces acute hemodynamic effects in the rat ",
+      "url": "https://doi.org/10.1016/j.toxlet.2011.10.010"
+     }
+    ],
+    "status": "Dangerous"
+   },
+   "mescaline": {
+    "status": "Low Risk & Synergy"
+   },
+   "mushrooms": {
+    "status": "Low Risk & Synergy"
+   },
+   "mxe": {
+    "note": "There have been reports of risky serotonergic interactions when the two are taken at the same time, but MXE taken to the end of an MDMA experience does not appear to cause the same issues.",
+    "status": "Caution"
+   },
+   "nbomes": {
+    "status": "Caution"
+   },
+   "nitrous": {
+    "status": "Low Risk & Synergy"
+   },
+   "opioids": {
+    "status": "Low Risk & No Synergy"
+   },
+   "pcp": {
+    "note": "This combination can easily lead to hypermanic states",
+    "status": "Unsafe"
+   },
+   "pregabalin": {
+    "note": "There is a significant risk of seizures from this combination. Amphetamines increase respiration rate allowing for a higher dose of sedatives than normal. If amphetamines wears off first, recreational dosages of pregabalin may overcome the individual and cause respiratory arrest. Both substances at recreational dosages cause strain of the heart and may lead to further dangerous heart complications. Medical dosages are not reported to be a concern",
+    "sources": [
+     {
+      "author": "Alo, C., & Kioka, M. J. (2024)",
+      "title": "Rave gone wrong: MDMA- induced medical emergency at electrical daisy carnival. A case report. Toxicology Reports, 13, 101739.",
+      "url": "https://doi.org/10.1016/j.toxrep.2024.101739"
+     },
+     {
+      "author": "Altair. (n.d.-a)",
+      "title": "Pregabalin (Lyrica) - Erowid Exp - \u201cHeart Arrhythmia, Seizure\u202f: Not Recreational.\u201d",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=69917"
+     },
+     {
+      "author": "Ben-Menachem, E. (2004)",
+      "title": "Pregabalin pharmacology and its relevance to clinical practice. Epilepsia, 45 Suppl 6, 13\u201318.",
+      "url": "https://doi.org/10.1111/j.0013-9580.2004.455003.x"
+     },
+     {
+      "author": "Christie, D., Yazar-Klosinski, B., Nosova, E., Kryskow, P., Siu, W., Lessor, D., & Argento, E. (2022)",
+      "title": "MDMA-assisted therapy is associated with a reduction in chronic pain among people with post-traumatic stress disorder. Frontiers in Psychiatry, 13.",
+      "url": "https://doi.org/10.3389/fpsyt.2022.939302"
+     },
+     {
+      "author": "Douke, R. (n.d.)",
+      "title": "Pregabalin & Tramadol - Erowid Exp - \u201cGrand Mal Seizures.\u201d",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=83232"
+     },
+     {
+      "author": "French, J., Kwan, P., Fakhoury, T., Pitman, V., DuBrava, S., Knapp, L., & Yurkewicz, L. (2014)",
+      "title": "Pregabalin monotherapy in patients with partial-onset seizures. Neurology, 82(7), 590\u2013597.",
+      "url": "https://doi.org/10.1212/WNL.0000000000000119"
+     },
+     {
+      "author": "Oskouei, Z., Moshiri, M., Raouf-Rahmati, A., Nemati, A., Bemani Naeini, M., Jomehpour, H., Roohbakhsh, A., Salmasi, Z., & Etemad, L. (2025)",
+      "title": "Seizures as an Adverse Effect of Pregabalin Consumption: A Systematic Review. Addiction & Health, 17, 1527.",
+      "url": "https://doi.org/10.34172/ahj.1527"
+     },
+     {
+      "author": "Rietjens, S. J., Sikma, M. A., Hunault, C. C., De Lange, D. W., & Hondebrink, L. (2022)",
+      "title": "Pregabalin poisoning: Evaluation of dose\u2010toxicity relationship. British Journal of Clinical Pharmacology, 88(3), 1288\u20131297.",
+      "url": "https://doi.org/10.1111/bcp.15073"
+     },
+     {
+      "author": "Sean. (n.d.-b)",
+      "title": "Pregabalin - Erowid Exp - \u201cStay Away.\u201d",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=67302"
+     },
+     {
+      "author": "Slocum, G. W., Schult, R. F., Gorodetsky, R. M., Wiegand, T. J., Kamali, M., & Acquisto, N. M. (2018)",
+      "title": "Pregabalin and paradoxical reaction of seizures in a large overdose. Toxicology Communications, 2(1), 19\u201320.",
+      "url": "https://doi.org/10.1080/24734306.2018.1458465"
+     },
+     {
+      "author": "Vollenweider, F. X., Gamma, A., Liechti, M., & Huber, T. (1998)",
+      "title": "Psychological and cardiovascular effects and short-term sequelae of MDMA (\u201cecstasy\u201d) in MDMA-na\u00efve healthy volunteers. Neuropsychopharmacology: Official Publication of the American College of Neuropsychopharmacology, 19(4), 241\u2013251.",
+      "url": "https://doi.org/10.1016/S0893-133X(98)00013-X"
+     }
+    ],
+    "status": "Unsafe"
+   },
+   "ssris": {
+    "sources": [
+     {
+      "author": "Feduccia, A. A., Jerome, L., Mithoefer, M. C., & Holland, J.",
+      "title": "Discontinuation of medications classified as reuptake inhibitors affects treatment response of MDMA-assisted psychotherapy.",
+      "url": "https://doi.org/10.1007/s00213-020-05710-w"
+     },
+     {
+      "author": "Sarparast, A., Thomas, K., Malcolm, B., & Stauffer, C. S.",
+      "title": "Drug-drug interactions between psychiatric medications and MDMA or psilocybin: a systematic review.",
+      "url": "https://doi.org/10.1007/s00213-022-06083-y"
+     },
+     {
+      "author": "Malcolm, B., & Thomas, K. ",
+      "title": "Serotonin toxicity of serotonergic psychedelics.",
+      "url": "https://doi.org/10.1007/s00213-021-05876-x"
+     }
+    ],
+    "status": "Low Risk & Decrease"
+   },
+   "tramadol": {
+    "note": "Tramadol and stimulants both increase the risk of seizures.",
+    "status": "Dangerous"
+   }
+  },
+  "dose_note": " NOTE: Higher dosages may increase neurotoxic effects",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-72"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "70-120mg",
+    "Heavy": "165mg+",
+    "Light": "30-70mg",
+    "Strong": "120-165mg"
+   },
+   "Oral": {
+    "Common": "75-125mg",
+    "Heavy": "175mg+",
+    "Light": "40-75mg",
+    "Strong": "125-175mg"
+   },
+   "Rectal": {
+    "Common": "70-120mg",
+    "Heavy": "165mg+",
+    "Light": "30-70mg",
+    "Strong": "120-165mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-5"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-70"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_MDMA.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal109.shtml"
+  },
+  "name": "mdma",
+  "pretty_name": "MDMA",
+  "properties": {
+   "after-effects": "1-72 hours.",
+   "aliases": [
+    "molly",
+    "ecstasy",
+    "adam",
+    "xtc",
+    "mandy",
+    "x",
+    "md"
+   ],
+   "categories": [
+    "stimulant",
+    "psychedelic",
+    "empathogen",
+    "habit-forming",
+    "common"
+   ],
+   "detection": "1-3 days single use, 3-5 days heavy use",
+   "dose": "Oral Light: 40-75mg  Common: 75-125mg  Strong: 125-175mg  Heavy: 175mg+ | Insufflated/Rectal Light: 30-70mg  Common: 70-120mg Strong: 120-165mg  Heavy: 165mg+ | NOTE: Higher doses may increase neurotoxic effects",
+   "duration": "3-5 hours",
+   "general-advice": "It is recommended to wait at minimu multiple months between MDMA rolls.",
+   "marquis": "Black (may have purple tint)",
+   "onset": "20-70 minutes",
+   "summary": "The drug has been associated with cognitive decline when taken in excess. The drug is used in a variety of ways, such as parties, music festivals, psychedelic therapy, and more. The drug often sold as powder or in pressed pills, and may be adulterated with other similar chemicals.",
+   "wiki": "http://wiki.tripsit.me/wiki/MDMA"
+  },
+  "sources": {
+   "_general": [
+    "Alpha-lipoic acid prevents 3,4-methylenedioxy-methamphetamine (MDMA)-induced neurotoxicity - http://www.ncbi.nlm.nih.gov/pubmed/10619665",
+    "Involvement of free radicals in MDMA-induced neurotoxicity in mice. - http://www.ncbi.nlm.nih.gov/pubmed/11435997",
+    "Methamphetamine and MDMA (ecstasy) neurotoxicity: 'of mice and men'. - http://www.ncbi.nlm.nih.gov/pubmed/15370888",
+    "The neurotoxic effects of 3,4-methylenedioxymethamphetamine (MDMA) and methamphetamine on serotonin, dopamine, and GABA-ergic terminals - http://www.ncbi.nlm.nih.gov/pubmed/15474609",
+    "MDMA (Ecstasy) and human dopamine, norepinephrine, and serotonin transporters: implications for MDMA-induced neurotoxicity and treatment. - http://www.ncbi.nlm.nih.gov/pubmed/16220332",
+    "Pharmacological aspects of the combined use of 3,4-methylenedioxymethamphetamine (MDMA, ecstasy) and gamma-hydroxybutyric acid (GHB) - http://www.ncbi.nlm.nih.gov/pubmed/16234132",
+    "3,4-Methylenedioxymethamphetamine (MDMA) neurotoxicity in rats: a reappraisal of past and present findings. - http://www.ncbi.nlm.nih.gov/pubmed/16541247",
+    "The effects of fluoxetine on the subjective and physiological effects of 3,4-methylenedioxymethamphetamine (MDMA) in humans - http://www.ncbi.nlm.nih.gov/pubmed/17047932",
+    "Neurogenic bladder and chronic urinary retention associated with MDMA abuse. - http://www.ncbi.nlm.nih.gov/pubmed/18570171",
+    "THC Prevents MDMA Neurotoxicity in Mice - http://www.ncbi.nlm.nih.gov/pubmed/20174577",
+    "Effects of a beta-blocker on the cardiovascular response to MDMA (Ecstasy). - http://www.ncbi.nlm.nih.gov/pubmed/20378736",
+    "Neurotoxicity of ecstasy (MDMA): an overview - http://www.ncbi.nlm.nih.gov/pubmed/20420572",
+    "MDMA: interactions with other psychoactive drugs - http://www.ncbi.nlm.nih.gov/pubmed/21756931",
+    "MDMA and temperature: a review of the thermal effects of 'Ecstasy' in humans. - http://www.ncbi.nlm.nih.gov/pubmed/21924843",
+    "MDMA (ecstasy) effects on actual driving performance before and after sleep deprivation, as function of dose and concentration in blood and oral... - http://www.ncbi.nlm.nih.gov/pubmed/21952668",
+    "MDMA increases glutamate release and reduces parvalbumin-positive GABAergic cells in the dorsal hippocampus of the rat: role of cyclooxygenase. - http://www.ncbi.nlm.nih.gov/pubmed/23179355",
+    "MDMA Illicit use of LSD or psilocybin, but not MDMA or nonpsychedelic drugs, is associated with mystical experiences in a dose-dependent manner. - http://www.ncbi.nlm.nih.gov/pubmed/23457892",
+    "Cocaine potentiates MDMA-induced oxidative stress but not dopaminergic neurotoxicity in mice: implications for the pathogenesis of free radical - http://www.ncbi.nlm.nih.gov/pubmed/23681166",
+    "MDMA-induced neurotoxicity: parameters of degeneration and recovery of brain serotonin neurons. - http://www.ncbi.nlm.nih.gov/pubmed/2452449",
+    "MDMA, cortisol, and heightened stress in recreational ecstasy users. - http://www.ncbi.nlm.nih.gov/pubmed/25014666",
+    "A study of the mechanism of MDMA ('ecstasy')-induced neurotoxicity of 5-HT neurones using chlormethiazole, dizocilpine and other protective compounds. - http://www.ncbi.nlm.nih.gov/pubmed/7516800",
+    "Inhibition of MAO-B protects against MDMA-induced neurotoxicity in the striatum. - http://www.ncbi.nlm.nih.gov/pubmed/7542394",
+    "MDMA (ecstasy) inhibition of MAO type A and type B: comparisons with fenfluramine and fluoxetine (Prozac). - http://www.ncbi.nlm.nih.gov/pubmed/7945733",
+    "Ecstasy use and serotonin syndrome: a neglected danger to adolescents and young adults prescribed selective serotonin reuptake inhibitors. - https://www.ncbi.nlm.nih.gov/pubmed/24006318",
+    "3,4-Methylenedioxymethamphetamine (ecstasy) and alcohol interactions in humans: psychomotor performance, subjective effects, and pharmacokinetics. - http://www.ncbi.nlm.nih.gov/pubmed/11752122",
+    "Putting an Ecstasy test kit to the test: harm reduction or harm induction? - http://www.ncbi.nlm.nih.gov/pubmed/14594341",
+    "MDMA Vasopressin and oxytocin secretion in response to the consumption of ecstasy in a clubbing population. - http://www.ncbi.nlm.nih.gov/pubmed/16574714",
+    "Monoamine oxidase-B mediates ecstasy-induced neurotoxic effects to adolescent rat brain mitochondria. - http://www.ncbi.nlm.nih.gov/pubmed/17881526",
+    "Increased oxytocin concentrations and prosocial feelings in humans after ecstasy (3,4-methylenedioxymethamphetamine) administration. - http://www.ncbi.nlm.nih.gov/pubmed/19562632",
+    "Neurotoxicity of ecstasy (MDMA): an overview. - http://www.ncbi.nlm.nih.gov/pubmed/20420572",
+    "Mephedrone, compared with MDMA (ecstasy) and amphetamine, rapidly increases both dopamine and 5-HT levels in nucleus accumbens of awake rats - http://www.ncbi.nlm.nih.gov/pubmed/21615721",
+    "Neurotoxicity of ecstasy and its metabolites in human dopaminergic differentiated SH-SY5Y cells. - http://www.ncbi.nlm.nih.gov/pubmed/23194825",
+    "Neuroprotective properties of melissa officinalis L. Extract against ecstasy-induced neurotoxicity. - http://www.ncbi.nlm.nih.gov/pubmed/23671824",
+    "Ecstasy use and serotonin syndrome: a neglected danger to adolescents and young adults prescribed selective serotonin reuptake inhibitors. - http://www.ncbi.nlm.nih.gov/pubmed/24006318",
+    "MDMA, cortisol, and heightened stress in recreational ecstasy users - http://www.ncbi.nlm.nih.gov/pubmed/25014666",
+    "History of MDMA - http://www.mdma.net/merck/history-ecstasy.html",
+    "Study associating long-term serotonergic injury from use of MDMA - http://www.ncbi.nlm.nih.gov/pubmed/7643196",
+    "Even after abstaining as long as 2.5 years, verbal memory deficits were still present in ex-mdma abuserd, indicating that the neurotoxicity may have some permanent damage features - http://m.jop.sagepub.com/content/20/2/211.short",
+    "http://onlinelibrary.wiley.com/doi/10.1002/nrc.20023/abstract Potentiation of (DL)-3,4-methylenedioxymethamphetamine (MDMA)-induced toxicity by the serotonin 2A receptior partial agonist d-lysergic acid diethylamide (LSD), and the protection of same by the serotonin 2A/2C receptor antagonist MDL 11,939"
+   ]
+  }
+ }
+}

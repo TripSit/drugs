@@ -1,0 +1,88 @@
+{
+ "2-dpmp": {
+  "aliases": [
+   "desoxypipradrol",
+   "2dpmp",
+   "2-desoxypiperadol",
+   "desoxypipradol"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "dose_note": " NOTE: This drug is extremely potent and extremely long lasting, even at 'common' doses. Be sure to start low and avoid redosing.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-72"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "3-4mg",
+    "Light": "2-3mg",
+    "Strong": "4-6mg",
+    "Threshold": "1-2mg"
+   },
+   "Oral": {
+    "Common": "4-6mg",
+    "Light": "2-4mg",
+    "Strong": "6-8mg",
+    "Threshold": "1-2mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "16-72"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "decreased need for sleep",
+   "increased sociability",
+   "mood lift",
+   "increased libido",
+   "excessive talking",
+   "decreased appetite",
+   "weight loss",
+   "sweating",
+   "disturbed sleep patterns",
+   "bruxism",
+   "visual and auditory hallucinations",
+   "itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "60-120"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Desoxypipradrol_.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal052.shtml"
+  },
+  "name": "2-dpmp",
+  "pretty_name": "2-DPMP",
+  "properties": {
+   "after-effects": "1-72 hours.",
+   "aliases": [
+    "desoxypipradrol",
+    "2dpmp",
+    "2-desoxypiperadol",
+    "desoxypipradol"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Threshold: 1-2mg Light: 2-4mg Common: 4-6mg Strong: 6-8mg | Insufflated Threshold: 1-2mg Light: 2-3mg Common: 3-4mg Strong: 4-6mg | NOTE: This drug is extremely potent and extremely long lasting, even at 'common' doses. Be sure to start low and avoid redosing.",
+   "duration": "16-72 hours",
+   "half-life": "16-20 hours.",
+   "onset": "60-120 minutes.",
+   "summary": "A very potent stimulant that is a NDRI. Developed by Novartis in the 1950s, to treat narcolepsy and ADHD, however dropped when Methylphenidate was produced a few years later, which was seen as superior due to its shorter T\u00bd. 2-DPMP Half life 16-20 hours. Warning: subjective reports suggest this drug is caustic to the nasal mucosa and may cause damage to the nasal cavity.",
+   "warning": "Due to the long half life (16-20 hours) redosing is strongly recommended against."
+  }
+ }
+}

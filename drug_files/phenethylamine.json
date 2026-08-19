@@ -1,0 +1,44 @@
+{
+ "phenethylamine": {
+  "aliases": [
+   "pea"
+  ],
+  "categories": [
+   "supplement",
+   "nootropic"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "minutes",
+   "value": "10-60"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "300-500mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-30"
+  },
+  "name": "phenethylamine",
+  "pretty_name": "Phenethylamine",
+  "properties": {
+   "after-effects": "10-60 minutes.",
+   "aliases": [
+    "pea"
+   ],
+   "categories": [
+    "supplement",
+    "nootropic"
+   ],
+   "dose": "Common: 300-500mg.",
+   "duration": "1-4 hours.",
+   "onset": "15-30 minutes.",
+   "summary": "Organic compound, which is the name of a class of chemicals that are known for psychoactive and/or stimulant effects. The compound is typically not used as a supplement as it is rapidly broken down into inactive compounds. The compound is found in many foods."
+  }
+ }
+}

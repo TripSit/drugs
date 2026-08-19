@@ -1,0 +1,48 @@
+{
+ "25t-2-nbome": {
+  "aliases": [
+   "25t2-nbome"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-10"
+  },
+  "formatted_dose": {
+   "Sublingual": {
+    "Common": "300-600ug",
+    "Light": "100-300ug",
+    "Strong": "600-1000ug."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-10"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-45"
+  },
+  "name": "25t-2-nbome",
+  "pretty_name": "25T-2-NBOMe",
+  "properties": {
+   "after-effects": "2-10 hours.",
+   "aliases": [
+    "25t2-nbome"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Sublingual Light: 100-300ug Common: 300-600ug Strong: 600-1000ug.",
+   "duration": "6-10 hours.",
+   "onset": "30-45 minutes.",
+   "summary": "A potent serotonin receptor agonist at the 5-HT2a receptor that is of the NBOMe drug class. It is a hallucinogenic and psychedelic with limited recorded human use."
+  }
+ }
+}

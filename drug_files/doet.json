@@ -1,0 +1,73 @@
+{
+ "doet": {
+  "aliases": [
+   "doe"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "dose_note": " NOTE: These doses are tentative and it is recommended to do further research.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "12-72"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "4-6mg",
+    "Light": "2-4mg",
+    "Strong": "6-10mg",
+    "Threshold": "1mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "12-30"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "hours",
+   "value": "1-3"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_DOET.shtml",
+   "pihkal": "https://www.erowid.org/library/books_online/pihkal/pihkal066.shtml"
+  },
+  "name": "doet",
+  "pretty_name": "DOET",
+  "properties": {
+   "after-effects": "12-72 hours",
+   "aliases": [
+    "doe"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Oral Threshold: 1mg Light: 2-4mg Common: 4-6mg Strong: 6-10mg | NOTE: These doses are tentative and it is recommended to do further research.",
+   "duration": "12-30 hours (Dependant on dose)",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "1-3 hours.",
+   "summary": "A potent and long acting psychedelic stimulant and substituted amphetamine, similar in effects to other DOx compounds. First synthesised by Alexander Shulgin."
+  }
+ }
+}

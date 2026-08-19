@@ -1,0 +1,52 @@
+{
+ "5-meo-dibf": {
+  "categories": [
+   "empathogen",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "10-15mg",
+    "Light": "5-10mg",
+    "Strong": "15-20mg+"
+   },
+   "Oral": {
+    "Common": "20-40mg",
+    "Light": "10-20mg",
+    "Strong": "40-60mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "6-8",
+   "Oral": "8-12"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-45",
+   "Oral": "20-90"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_5MeODiBF.shtml"
+  },
+  "name": "5-meo-dibf",
+  "pretty_name": "5-MeO-DIBF",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "categories": [
+    "empathogen",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Oral Light: 10-20mg Common: 20-40mg Strong: 40-60mg+ | Insufflated Light: 5-10mg Common: 10-15mg Strong: 15-20mg+",
+   "duration": "Oral 8-12 hours. | Insufflated 6-8 hours.",
+   "onset": "Oral: 20-90 minutes. | Insufflated: 5-45 minutes.",
+   "summary": "The drug is related to tryptamine, it is the Benzofuran analogue of 5-MeO-DiPT. The drug is suspected to be a serotonin receptor partial agonist by some. There is limited information on this drug."
+  }
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "pipt": {
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Vapourized": {
+    "Common": "15-20mg",
+    "Heavy": "20mg+",
+    "Light": "15mg",
+    "Threshold": "10mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "3-4",
+   "Vapourized": "2"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "1",
+   "Vapourized": "5"
+  },
+  "name": "pipt",
+  "pretty_name": "PiPT",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Vapourized Threshold: 10mg Light: 15mg Common: 15-20mg Heavy: 20mg+",
+   "duration": "Oral: 3-4 hours | Vapourized: 2 hours",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "Vapourized: 5 minutes. | Oral: 1 hour.",
+   "summary": "A rare psychedelic tryptamine related to DPT. There is little known about the effects or safety profile of this compound."
+  }
+ }
+}

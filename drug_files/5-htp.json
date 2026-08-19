@@ -1,0 +1,63 @@
+{
+ "5-htp": {
+  "aliases": [
+   "5htp",
+   "5-hydroxytryptophan",
+   "tryptophan",
+   "l-tryptophan",
+   "oxitriptan"
+  ],
+  "categories": [
+   "common",
+   "supplement"
+  ],
+  "dose_note": " NOTE: Do not take this while on a serotonergic drug. It is recommended to wait at least 24 hours after taking MDMA (/similar) due to the concern of serotonin syndrome.",
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-200mg",
+    "Light": "50-100mg",
+    "Strong": "200-300mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_effects": [
+   "sleep aid",
+   "antidepressant",
+   "appetite suppressant",
+   "nausea",
+   "mood stabilising"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Tryptophan.shtml"
+  },
+  "name": "5-htp",
+  "pretty_name": "5-HTP",
+  "properties": {
+   "aliases": [
+    "5htp",
+    "5-hydroxytryptophan",
+    "tryptophan",
+    "l-tryptophan",
+    "oxitriptan"
+   ],
+   "avoid": "Anything which releases serotonin, such as MDMA and DXM.",
+   "categories": [
+    "common",
+    "supplement"
+   ],
+   "dose": "Therapeutic Common: 50-100mg | Sleep Common: 100-200mg | Recovery Common: 200-300mg | NOTE: Do not take this while on drug that releases serotonin. It is recommended to wait at least 24 hours after dosing MDMA before taking 5-HTP.",
+   "duration": "4-6 hours",
+   "effects": "sleep aid, antidepressant, appetite suppressant, nausea, mood stabilising",
+   "mdma": "5-HTP should only be taken at least 24 hours following an MDMA (or similar) dose. Do not take it during or before MDMA - this can cause serotonin syndrome.",
+   "onset": "30-60 minutes",
+   "summary": "The precursor to serotonin. In some countries it is sold OTC as a supplement for mood stabilisation and insomnia. It is frequently used as a recovery supplement following the use of MDMA/any other drug that depletes serotonin. It is not recommended to mix this drug with other serotonin releasers."
+  }
+ }
+}

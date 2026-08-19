@@ -1,0 +1,66 @@
+{
+ "bromo-dragonfly": {
+  "aliases": [
+   "bromo-d-fly",
+   "bdfly",
+   "bromo-dragon-fly",
+   "dob-dragonfly"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "dose_note": "Efects can last up to many days.",
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-400ug",
+    "Strong": "500-750ug+",
+    "Threshold": "100ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "16-30"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_BromoDragonfly.shtml"
+  },
+  "name": "bromo-dragonfly",
+  "pretty_name": "Bromo-DragonFLY",
+  "properties": {
+   "aliases": [
+    "bromo-d-fly",
+    "bdfly",
+    "bromo-dragon-fly",
+    "dob-dragonfly"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Oral Threshold: 100ug Common: 100-400ug Strong: 500-750ug+",
+   "duration": "16-30 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "Up to 6 hours.",
+   "summary": "A psychedelic phenethylamine and benzofuran that is very potent and has a long duration. Was briefly sold as \"2C-B-FLY\" in 2005/6 and has led to multiple deaths."
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "mdai": {
+  "categories": [
+   "psychedelic",
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "empathogen"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-150mg",
+    "Heavy": "150-300mg+",
+    "Light": "40-100mg",
+    "Threshold": "20-40mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_MDAI.shtml"
+  },
+  "name": "mdai",
+  "pretty_name": "MDAI",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "categories": [
+    "psychedelic",
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "empathogen"
+   ],
+   "dose": "Threshold: 20-40mg Light: 40-100mg Common: 100-150mg Heavy: 150-300mg+",
+   "duration": "4-6 hours.",
+   "onset": "30-60 minutes",
+   "summary": "A selective serotonin and norepinephrine releasing agent which is rarely used without a stimulant to obtain desirable effects. The drug was previously believed to not be neuruotoxic, MDAI has been implicated in several lethal and non-lethal intoxications, and as such may pose more of a risk to one's health than previously believed."
+  }
+ }
+}

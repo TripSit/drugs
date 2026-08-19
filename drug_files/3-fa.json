@@ -1,0 +1,69 @@
+{
+ "3-fa": {
+  "aliases": [
+   "3fa"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "15-30mg",
+    "Light": "5-15mg",
+    "Strong": "30-60mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "decreased need for sleep",
+   "increased sociability",
+   "mood lift",
+   "increased libido",
+   "excessive talking",
+   "decreased appetite",
+   "weight loss",
+   "sweating",
+   "disturbed sleep patterns",
+   "bruxism",
+   "visual and auditory hallucinations",
+   "itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-90"
+  },
+  "name": "3-fa",
+  "pretty_name": "3-FA",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "3fa"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Light: 5-15mg Common: 15-30mg Strong: 30-60mg+",
+   "duration": "4-6 hours",
+   "effects": "Euphoria, increased energy/alertness, decreased need for sleep, increased sociability, mood lift, increased libido, excessive talking, decreased appetite, weight loss, sweating, disturbed sleep patterns, bruxism, visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
+   "onset": "30-90 minutes (oral) depending on stomach contents.",
+   "summary": "A stimulant that is close to equipotent with methamphetamine and acts as a monoamine releasing agent, but has more selectivity for dopamine/noradrenaline over serotonin."
+  }
+ }
+}

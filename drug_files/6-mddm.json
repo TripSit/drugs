@@ -1,0 +1,63 @@
+{
+ "6-mddm": {
+  "aliases": [
+   "6-methylenedihydrodesoxymorphine"
+  ],
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "tentative",
+   "depressant"
+  ],
+  "dose_note": " NOTE: These dosages are based off the potency of the drug and converted to what we have with morphine's dose. Further research is required for dosing.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-10"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "187-250ug",
+    "Light": "125ug",
+    "Strong": "375ug+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil constriction",
+   "Analgesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "1-15"
+  },
+  "name": "6-mddm",
+  "pretty_name": "6-MDDM",
+  "properties": {
+   "after-effects": "1-10 hours.",
+   "aliases": [
+    "6-methylenedihydrodesoxymorphine"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "tentative",
+    "depressant"
+   ],
+   "dose": "Light: 125ug Common: 187-250ug Strong: 375ug+ | NOTE: These dosages are based off the potency and converted to what we have with Morphine's dose. Further research is required.",
+   "duration": "4-6 hours.",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
+   "onset": "1-15 minutes.",
+   "summary": "Semisynthetic opioid that is a derivative of Hydromorphone with little history of human use. Roughly around ~80x the potency of Morphine. Structurally related to Desomorphine."
+  }
+ }
+}

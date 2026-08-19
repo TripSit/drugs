@@ -1,0 +1,54 @@
+{
+ "crl-40-940": {
+  "aliases": [
+   "flmodafinil",
+   "lauflumide",
+   "bisfluoromodafinil"
+  ],
+  "categories": [
+   "stimulant",
+   "tentative",
+   "nootropic",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "40-75mg",
+    "Light": "20-40mg",
+    "Strong": "75-150mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-45"
+  },
+  "name": "crl-40-940",
+  "pretty_name": "CRL-40-940",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "flmodafinil",
+    "lauflumide",
+    "bisfluoromodafinil"
+   ],
+   "categories": [
+    "stimulant",
+    "tentative",
+    "nootropic",
+    "research-chemical"
+   ],
+   "dose": "Light: 20-40mg Common: 40-75mg Strong: 75-150mg.",
+   "duration": "6-12 hours.",
+   "onset": "30-45 minutes.",
+   "summary": "Bisfluoro analogue Modafinil. Sold sometimes online as a research chemical. The drug was patented in 2013. It is slightly more potent than Armodafinil."
+  }
+ }
+}

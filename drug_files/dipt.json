@@ -1,0 +1,82 @@
+{
+ "dipt": {
+  "aliases": [
+   "diisopropyltryptamine"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "dose_note": " NOTE: This is a very new substance with very little history of human use. It is recommended to start low and increase dosage slowly. The dosages given are tentative, further research is recommended and caution is advised.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "12-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "30-50mg",
+    "Heavy": "50mg+",
+    "Light": "15-25mg",
+    "Threshold": "15mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-5"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_DiPT.shtml",
+   "tihkal": "https://www.erowid.org/library/books_online/tihkal/tihkal04.shtml"
+  },
+  "name": "dipt",
+  "pretty_name": "DiPT",
+  "properties": {
+   "after-effects": "12-24 hours",
+   "aliases": [
+    "diisopropyltryptamine"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Threshold: 15mg Light: 15-25mg Common: 30-50mg Heavy: 50mg+ | NOTE: This is a very new substance with very little history of human use. It is recommended to start low and increase dosage slowly. The dosages given are tentative, further research is recommended and caution is advised.",
+   "duration": "3-5 hours",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "30-60 minutes.",
+   "summary": "A rare psychedelic tryptamine closely related to DMT, with the interesting property of having little visual hallucinations, but strong auditory effects."
+  },
+  "pweffects": {
+   "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+   "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Depersonalization": "https://psychonautwiki.org/wiki/Depersonalization",
+   "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+   "Inner ear pressure": "https://psychonautwiki.org/wiki/Inner_ear_pressure",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Stomach bloating": "https://psychonautwiki.org/wiki/Stomach_bloating",
+   "Thought suppression": "https://psychonautwiki.org/wiki/Thought_suppression"
+  }
+ }
+}

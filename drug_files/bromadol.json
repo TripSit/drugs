@@ -1,0 +1,42 @@
+{
+ "bromadol": {
+  "aliases": [
+   "bdpc"
+  ],
+  "categories": [
+   "opioid",
+   "depressant",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "3-6",
+   "Intramuscular": "2-4",
+   "Intravenous": "1-3"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-15",
+   "Intramuscular": "1-5",
+   "Intravenous": "1-2"
+  },
+  "name": "bromadol",
+  "pretty_name": "Bromadol",
+  "properties": {
+   "aliases": [
+    "bdpc"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "opioid",
+    "depressant",
+    "habit-forming",
+    "tentative"
+   ],
+   "duration": "Insufflated: 3-6 hours. | Intramuscular: 2-4 hours. | Intravenous: 1-3 hours.",
+   "onset": "Insufflated: 5-15 minutes. | Intramuscular: 1-5 minutes. | Intravenous: 1-2 minutes.",
+   "summary": "A very potent opioid that has an arylcyclohexylamine structure. Intial studies estimated that it was ~10,000x Morphine in animal studies. However that value has since decreased to ~504 times the potency of morphine for the trans-isomer."
+  }
+ }
+}

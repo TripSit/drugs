@@ -1,0 +1,58 @@
+{
+ "u-51754": {
+  "aliases": [
+   "methene-u47700",
+   "methene-u-47700"
+  ],
+  "categories": [
+   "tentative",
+   "opioid",
+   "dissociative",
+   "depressant",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_dose": {
+   "Rectal": {
+    "Common": "3-5mg",
+    "Light": "1-3mg",
+    "Strong": "5-10mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "1-2",
+   "Oral": "2-4",
+   "Rectal": "1-2"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-10",
+   "Oral": "15-30",
+   "Rectal": "5-10"
+  },
+  "name": "u-51754",
+  "pretty_name": "U-51754",
+  "properties": {
+   "after-effects": "3-6 hours.",
+   "aliases": [
+    "methene-u47700",
+    "methene-u-47700"
+   ],
+   "categories": [
+    "tentative",
+    "opioid",
+    "dissociative",
+    "depressant",
+    "research-chemical"
+   ],
+   "dose": "Rectal Light: 1-3mg Common: 3-5mg Strong: 5-10mg",
+   "duration": "Oral: 2-4 hours. | Insufflated: 1-2 hours. | Plugged: 1-2 hours.",
+   "onset": "Oral: 15-30 minutes. | Insufflated: 5-10 minutes. | Plugged: 5-10 minutes.",
+   "summary": "A very potent opioid that it reported to have \u03ba-opioid action. Due to this action, it is suspected to have dysphoric and auditory hallucination effects. The drug is an analogue of U-47700."
+  }
+ }
+}

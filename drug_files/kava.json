@@ -1,0 +1,50 @@
+{
+ "kava": {
+  "categories": [
+   "depressant",
+   "habit-forming"
+  ],
+  "dose_note": " NOTE: Doses are given for pure kavalactones, usually 5-20% of kava.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "9-18"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "70-150mg",
+    "Heavy": "300mg+",
+    "Light": "50-70mg",
+    "Strong": "150-200mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-30"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Kava.shtml"
+  },
+  "name": "kava",
+  "pretty_name": "Kava",
+  "properties": {
+   "after-effects": "9-18 hours.",
+   "categories": [
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 50-70mg Common: 70-150mg Strong: 150-200mg Heavy: 300mg+ | NOTE: Doses are given for pure kavalactones, usually 5-20% of kava.",
+   "duration": "3-6 hours",
+   "onset": "20-30 minutes",
+   "summary": "Tropical evergreen shrub with large heart-shaped leaves and woody stems. It's thick roots are mashed or ground and made into a cold and bitter-tasting beverage used similarly to alcohol. It has a long history of ritual and recreational use in Pacific Polynesia and is now a common herbal product, used widely by those in certain societies as part of a 'Kava Culture.'"
+  },
+  "sources": {
+   "_general": [
+    "clinical trials show that Kava significantly lowers anxiety compared to placebo - Mosby's Dental Drug Reference Ninth Edition 2010"
+   ]
+  }
+ }
+}

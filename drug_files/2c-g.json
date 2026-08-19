@@ -1,0 +1,68 @@
+{
+ "2c-g": {
+  "aliases": [
+   "2cg"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-72"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "25-30mg",
+    "Light": "20-25mg",
+    "Strong": "30mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "15-35"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-120"
+  },
+  "name": "2c-g",
+  "pretty_name": "2C-G",
+  "properties": {
+   "after-effects": "1-72 hours.",
+   "aliases": [
+    "2cg"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Light: 20-25mg Common: 25-30mg Strong: 30mg+",
+   "duration": "15-35 hours (greatly dependant on dose)",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "30-120 minutes.",
+   "summary": "Extremely rare drug of the 2C-X family. An extremely long lasting substance. Is nearly as potent as its amphetamine counter-part, Ganesha. Yet is said to have very little visual activity.",
+   "warning": "Note this is a very long lasting compound that can be very hard on the body."
+  }
+ }
+}

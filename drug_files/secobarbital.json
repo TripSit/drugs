@@ -1,0 +1,49 @@
+{
+ "secobarbital": {
+  "aliases": [
+   "seconal"
+  ],
+  "categories": [
+   "depressant",
+   "habit-forming",
+   "barbiturate"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50-150mg",
+    "Light": "25-50mg",
+    "Strong": "150-300mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-10"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-30"
+  },
+  "name": "secobarbital",
+  "pretty_name": "Secobarbital",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "aliases": [
+    "seconal"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "depressant",
+    "habit-forming",
+    "barbiturate"
+   ],
+   "dose": "Oral Light: 25-50mg Common: 50-150mg Strong: 150-300mg",
+   "duration": "6-10 hours.",
+   "onset": "15-30 minutes.",
+   "summary": "A barbiturate derivative that is reported to have amnesic, hypnotic, and sedative properties, along with having similarties to other barbiturates. The drug is used in the treatment of epilepsy, short-term treatment for insomnia, and a preoperative medication for anaesthesia and anxiolysis for short surgical/diagnostic/therapeutic procedures."
+  }
+ }
+}

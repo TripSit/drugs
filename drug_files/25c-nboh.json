@@ -1,0 +1,63 @@
+{
+ "25c-nboh": {
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-10"
+  },
+  "formatted_dose": {
+   "Sublingual": {
+    "Common": "600-1400ug",
+    "Heavy": "1400-2000ug+",
+    "Light": "300-600ug",
+    "Threshold": "100-200ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-40"
+  },
+  "name": "25c-nboh",
+  "pretty_name": "25C-NBOH",
+  "properties": {
+   "after-effects": "1-10 hours.",
+   "avoid": "Other psychedelics, stimulants, and compulsive redosing",
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Sublingual Threshold: 100-200ug Light: 300-600ug Common: 600-1400ug Heavy: 1400-2000ug+",
+   "duration": "4-6 hours",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "20-40 minutes",
+   "summary": "A phenethylamine psychedelic and stimulant derivative of 2C-C, this compound is related and has similar effects to 25c-NBOMe. It is significantly more potent than 2C-C but less potent than 25c-NBOMe. Overdoses of NBOH compounds may cause dangerous vasoconstriction. The drug may induce uncomfortable body load."
+  }
+ }
+}

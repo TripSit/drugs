@@ -1,0 +1,406 @@
+{
+ "cocaine": {
+  "aliases": [
+   "coke"
+  ],
+  "categories": [
+   "stimulant",
+   "habit-forming",
+   "common"
+  ],
+  "combos": {
+   "2c-t-x": {
+    "note": "Cocaine and 2c-t-x both provide considerable stimulation. When combined they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.",
+    "status": "Unsafe"
+   },
+   "2c-x": {
+    "note": "The anxiogenic and focusing effects of stimulants increase the chance of unpleasant thought loops. The combination is generally unnecessary because of the stimulating effects of psychedelics. Combination of the stimulating effects may be uncomfortable.",
+    "status": "Caution"
+   },
+   "5-meo-xxt": {
+    "note": "The anxiogenic and focusing effects of stimulants increase the chance of unpleasant thought loops. The combination is generally unnecessary because of the stimulating effects of psychedelics. ",
+    "status": "Unsafe"
+   },
+   "alcohol": {
+    "note": "Cocaine can decrease some of the intoxicating effects of alcohol, causing some people to drink more than they otherwise would, which leads to greater behavioral and physical health risks. There is also some debate about cocaethylene, a metabolite produced when combining alcohol and cocaine, with some researchers positing that it is more cardiotoxic than cocaine on its own. Use moderation when combining these substances.",
+    "sources": [
+     {
+      "author": "McCance-Katz, E. F., Kosten, T. R., & Jatlow, P. ",
+      "title": "Concurrent use of cocaine and alcohol is more potent and potentially more toxic than use of either alone\u2014A multiple-dose study.",
+      "url": "https://doi.org/10.1016/S0006-3223(97)00426-5"
+     },
+     {
+      "author": "Pergolizzi, J., Breve, F., Magnusson, P., LeQuang, J. A. K., & Varrassi, G.",
+      "title": "Cocaethylene: When cocaine and alcohol are taken together.  (2022)",
+      "url": "https://doi.org/10.7759/cureus.22498"
+     },
+     {
+      "author": "Shastry, S., Manoochehri, O., Richardson, L. D., & Manini, A. F. ",
+      "title": "Cocaethylene cardiotoxicity in emergency department patients with acute drug overdose.",
+      "url": "https://doi.org/10.1111/acem.14584"
+     },
+     {
+      "author": "Wiener, S. E., Sutijono, D., Moon, C. H., Subramanian, R. A., Calaycay, J., Rushbrook, J. I., & Zehtabchi, S.",
+      "title": "Patients with detectable cocaethylene are more likely to require intensive care unit admission after trauma. ",
+      "url": "https://doi.org/10.1016/j.ajem.2009.06.014"
+     }
+    ],
+    "status": "Unsafe"
+   },
+   "amphetamines": {
+    "note": "This combination of stimulants will increase strain on the heart. It is not generally worth it as cocaine has a mild blocking effect on dopamine releasers like amphetamine",
+    "status": "Caution"
+   },
+   "amt": {
+    "status": "Dangerous"
+   },
+   "benzodiazepines": {
+    "status": "Low Risk & Decrease"
+   },
+   "caffeine": {
+    "note": "Both stimulants, risk of tachycardia, hypertension, and in extreme cases heart failure.",
+    "status": "Caution"
+   },
+   "cannabis": {
+    "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+    "status": "Caution"
+   },
+   "dextromethorphan": {
+    "note": "Both substances raise heart rate, in extreme cases, panic attacks caused by these drugs have led to more serious heart issues",
+    "status": "Unsafe"
+   },
+   "diphenhydramine": {
+    "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If cocaine wears off first, recreational dosages of DPH may overcome the individual and cause respiratory arrest. Both substances at recreational dosages strain the heart and may lead to further dangerous heart complications. When taken together, both substances can potentially be more reinforcing and have greater risk of methemoglobinemia when higher dosages of DPH are combined with cocaine.",
+    "sources": [
+     {
+      "author": "Alanazi, M. Q.",
+      "title": "Drugs may be Induced Methemoglobinemia. Journal of Hematology & Thromboembolic Diseases, 06(01). (2017)",
+      "url": "https://doi.org/10.4172/2329-8790.1000270"
+     },
+     {
+      "author": "Banks, M. L., Andersen, M. L., Murnane, K. S., Meyer, R. C., & Howell, L. L.",
+      "title": "Behavioral and neurochemical effects of cocaine and diphenhydramine combinations in rhesus monkeys. Psychopharmacology, 205(3), 467\u2013474. (2009)",
+      "url": "https://doi.org/10.1007/s00213-009-1555-y"
+     },
+     {
+      "author": "chrisn",
+      "title": "Diphenhydramine [Online post]. Drug-Forum. (2021)",
+      "url": "https://drugs-forum.com/wiki/Diphenhydramine"
+     },
+     {
+      "author": "Eshmandi, M., Mohamed, A., Khalil, B., & Belhaj, A.",
+      "title": "Methaemoglobinaemia Associated With Mixed Cocaine and Amphetamine Overdose: A Case Report. Cureus, 16(1), e51748. (2024)",
+      "url": "https://doi.org/10.7759/cureus.51748"
+     },
+     {
+      "author": "Karch, S. B. ",
+      "title": "Diphenhydramine toxicity: comparisons of postmortem findings in diphenhydramine-, cocaine-, and heroin-related deaths. The American Journal of Forensic Medicine and Pathology, 19(2), 143\u2013147. (1998)",
+      "url": "https://doi.org/10.1097/00000433-199806000-00008"
+     },
+     {
+      "author": "Pennefather, J. N.",
+      "title": "The effects pf cocaine and diphenhydramine upon the reactivity of rat vas deferens to supramaximal doses of noradrenaline and of other agonists: The mode of action of cocaine. European Journal of Pharmacology, 35(2), 333\u2013339. (1976)",
+      "url": "https://doi.org/10.1016/0014-2999(76)90236-3"
+     },
+     {
+      "author": "Pergolizzi, J. V., Magnusson, P., LeQuang, J. A. K., Breve, F., & Varrassi, G.",
+      "title": "Cocaine and Cardiotoxicity: A Literature Review. Cureus, 13(4), e14594. (2021)",
+      "url": "https://doi.org/10.7759/cureus.14594"
+     },
+     {
+      "author": "Sicari, V., Patel, P., & Zabbo, C. P.",
+      "title": "Diphenhydramine. In StatPearls. StatPearls Publishing. (2025)",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK526010/"
+     },
+     {
+      "author": "Tanda, G., Kopajtic, T. A., & Katz, J. L.",
+      "title": "Cocaine-Like Neurochemical Effects of Antihistaminic Medications. Journal of Neurochemistry, 106(1), 147\u2013157. (2008)",
+      "url": "https://doi.org/10.1111/j.1471-4159.2008.05361.x"
+     },
+     {
+      "author": "Wang, Z., & Woolverton, W. L.",
+      "title": "Self-administration of cocaine-antihistamine combinations: Super-additive reinforcing effects. European Journal of Pharmacology, 557(2\u20133), 159\u2013160. (2007)",
+      "url": "https://doi.org/10.1016/j.ejphar.2006.11.056"
+     },
+     {
+      "author": "Wang, Z., & Woolverton, W. L.",
+      "title": "Super-additive interaction of the reinforcing effects of cocaine and H1-antihistamines in rhesus monkeys. Pharmacology Biochemistry and Behavior, 91(4), 590\u2013595. (2009)",
+      "url": "https://doi.org/10.1016/j.pbb.2008.09.013"
+     },
+     {
+      "author": "Weichert, I.",
+      "title": "Acute Management of Cocaine-Associated Methaemoglobinaemia. Case Reports in Medicine, 2011, 1\u20133. (2011)",
+      "url": "https://doi.org/10.1155/2011/136396"
+     }
+    ],
+    "status": "Caution"
+   },
+   "dmt": {
+    "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+    "status": "Caution"
+   },
+   "dox": {
+    "note": "The combined stimulating effects of the two can lead to an uncomfortable body-load, while the focusing effects of cocaine can easily lead to thought loops. Coming down from cocaine while the DOx is still active can be quite anxiogenic",
+    "status": "Unsafe"
+   },
+   "ghb/gbl": {
+    "note": "Stimulants increase respiration rate allowing for a higher dose of sedatives than normal. If the stimulant wears off first the opiate may overcome the individual and cause respiratory arrest. Likewise the ghb/gbl can wear off and leave a dangerous concentration of cocaine behind",
+    "status": "Caution"
+   },
+   "ketamine": {
+    "note": "No unexpected interactions, though likely to increase blood pressure but not an issue with sensible doses. Moving around on high doses of this combination may be ill advised due to risk of physical injury.",
+    "status": "Caution"
+   },
+   "lithium": {
+    "note": "Lithium may inhibit some of the recreational effects of cocaine.",
+    "sources": [
+     {
+      "author": "Flemenbaum, A.",
+      "title": "Antagonism of behavioral effects of cocaine by lithium. (1977)",
+      "url": "https://doi.org/10.1016/0091-3057(77)90015-6"
+     },
+     {
+      "author": "Cronson, A. J., & Flemenbaum, A.",
+      "title": "Antagonism of Cocaine Highs by Lithium. (1981)",
+      "url": "https://doi.org/10.1007/978-1-4684-3614-3_132"
+     }
+    ],
+    "status": "Low Risk & Decrease"
+   },
+   "lsd": {
+    "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+    "status": "Caution"
+   },
+   "maois": {
+    "note": "This combination is poorly explored",
+    "status": "Dangerous"
+   },
+   "mdma": {
+    "note": "Cocaine blocks some of the desirable effects of MDMA while increasing the risk of heart attack.",
+    "status": "Caution"
+   },
+   "mescaline": {
+    "note": "The focus and anxiety caused by stimulants is magnified by psychedelics and results in an increased risk of thought loops",
+    "status": "Caution"
+   },
+   "mushrooms": {
+    "note": "Stimulants increase anxiety levels and the risk of thought loops which can lead to negative experiences",
+    "status": "Caution"
+   },
+   "mxe": {
+    "note": "Stimulants taken with MXE can lead to hypermanic states much more easily, especially if sleep is avoided.",
+    "status": "Caution"
+   },
+   "nbomes": {
+    "note": "Cocaine and NBOMes both provide considerable stimulation. When combined they can result in severe vasoconstriction, tachycardia, hypertension, and in extreme cases heart failure.",
+    "status": "Unsafe"
+   },
+   "nitrous": {
+    "status": "Low Risk & Synergy"
+   },
+   "opioids": {
+    "note": "Stimulants increase respiration rate allowing for a higher dose of opiates than normal. If the stimulant wears off first then the opiate may overcome the individual and cause respiratory arrest.",
+    "status": "Dangerous"
+   },
+   "pcp": {
+    "note": "This combination can easily lead to hypermanic states",
+    "status": "Unsafe"
+   },
+   "pregabalin": {
+    "note": "There is a significant risk of seizures from this combination. Stimulants increase respiration rate, allowing for a higher dose of sedatives than normal. If cocaine wears off first, recreational dosages of pregabalin may overcome the individual and cause respiratory arrest. Both substances at recreational dosages strain the heart and may lead to further dangerous heart complications. The combination has a greater risk of methemoglobinemia when higher dosages are combined.",
+    "sources": [
+     {
+      "author": "Altair. (n.d.-a)",
+      "title": "Pregabalin (Lyrica) - Erowid Exp - \u201cHeart Arrhythmia, Seizure: Not Recreational.\u201d",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=69917"
+     },
+     {
+      "author": "Barker-Haliski, M., & White, H. S. (2015)",
+      "title": "Glutamatergic Mechanisms Associated with Seizures and Epilepsy. Cold Spring Harbor Perspectives in Medicine, 5(8), a022863.",
+      "url": "https://doi.org/10.1101/cshperspect.a022863"
+     },
+     {
+      "author": "Ben-Menachem, E. (2004)",
+      "title": "Pregabalin pharmacology and its relevance to clinical practice. Epilepsia, 45 Suppl 6, 13\u201318.",
+      "url": "https://doi.org/10.1111/j.0013-9580.2004.455003.x"
+     },
+     {
+      "author": "Douke, R. (n.d.)",
+      "title": "Pregabalin & Tramadol - Erowid Exp - \u201cGrand Mal Seizures.\u201d",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=83232"
+     },
+     {
+      "author": "French, J., Kwan, P., Fakhoury, T., Pitman, V., DuBrava, S., Knapp, L., & Yurkewicz, L. (2014)",
+      "title": "Pregabalin monotherapy in patients with partial-onset seizures. Neurology, 82(7), 590\u2013597.",
+      "url": "https://doi.org/10.1212/WNL.0000000000000119"
+     },
+     {
+      "author": "Gayatri, N. A., & Livingston, J. H. (2006)",
+      "title": "Aggravation of epilepsy by anti-epileptic drugs. Developmental Medicine and Child Neurology, 48(5), 394\u2013398.",
+      "url": "https://doi.org/10.1017/S0012162206000843"
+     },
+     {
+      "author": "Hitchings, A. W. (2016)",
+      "title": "Drugs that lower the seizure threshold. Adverse Drug Reaction Bulletin, 298(1), 1151\u20131154.",
+      "url": "https://doi.org/10.1097/FAD.0000000000000016"
+     },
+     {
+      "author": "Hunter, L., Gordge, L., Dargan, P. I., & Wood, D. M. (2011)",
+      "title": "Methaemoglobinaemia associated with the use of cocaine and volatile nitrites as recreational drugs: a review. British Journal of Clinical Pharmacology, 72(1), 18\u201326.",
+      "url": "https://doi.org/10.1111/j.1365-2125.2011.03950.x"
+     },
+     {
+      "author": "Isoardi, K. Z., Polkinghorne, G., Harris, K., & Isbister, G. K. (2020)",
+      "title": "Pregabalin poisoning and rising recreational use: a retrospective observational series. British Journal of Clinical Pharmacology, 86(12), 2435\u20132440.",
+      "url": "https://doi.org/10.1111/bcp.14348"
+     },
+     {
+      "author": "Kumar, N., Laferriere, A., Yu, J. S. C., Leavitt, A., & Coderre, T. J. (2010)",
+      "title": "Evidence that pregabalin reduces neuropathic pain by inhibiting the spinal release of glutamate. Journal of Neurochemistry, 113(2), 552\u2013561.",
+      "url": "https://doi.org/10.1111/j.1471-4159.2010.06625.x"
+     },
+     {
+      "author": "Lappin, J. M., & Sara, G. E. (2019)",
+      "title": "Psychostimulant use and the brain. Addiction, 114(11), 2065\u20132077.",
+      "url": "https://doi.org/10.1111/add.14708"
+     },
+     {
+      "author": "Ludlow, J. T., Wilkerson, R. G., & Nappe, T. M. (2025)",
+      "title": "Methemoglobinemia. In StatPearls. StatPearls Publishing.",
+      "url": "http://www.ncbi.nlm.nih.gov/books/NBK537317/"
+     },
+     {
+      "author": "Pergolizzi, J. V., Magnusson, P., LeQuang, J. A. K., Breve, F., & Varrassi, G. (n.d.)",
+      "title": "Cocaine and Cardiotoxicity: A Literature Review. Cureus, 13(4), e14594.",
+      "url": "https://doi.org/10.7759/cureus.14594"
+     },
+     {
+      "author": "Sean. (n.d.-b)",
+      "title": "Pregabalin - Erowid Exp - \u201cStay Away.\u201d",
+      "url": "https://www.erowid.org/experiences/exp.php?ID=67302"
+     },
+     {
+      "author": "Slocum, G. W., Schult, R. F., Gorodetsky, R. M., Wiegand, T. J., Kamali, M., & Acquisto, N. M. (2018)",
+      "title": "Pregabalin and paradoxical reaction of seizures in a large overdose. Toxicology Communications, 2(1), 19\u201320.",
+      "url": "https://doi.org/10.1080/24734306.2018.1458465"
+     }
+    ],
+    "status": "Unsafe"
+   },
+   "ssris": {
+    "note": "May reduce each others' effectiveness. Cocaine can reduce mental stability and therefore exacerbate conditions which SSRIs are used to treat.",
+    "status": "Low Risk & No Synergy"
+   },
+   "tramadol": {
+    "note": "Tramadol and stimulants both increase the risk of seizures.",
+    "status": "Dangerous"
+   }
+  },
+  "dose_note": "Rapid onset. Depending on purity, dosage will vary",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "50-100mg",
+    "Heavy": "150mg+",
+    "Light": "20-50mg",
+    "Strong": "100-150mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "1-1.5"
+  },
+  "formatted_effects": [
+   "Elevated mood",
+   "Increase in irritability",
+   "hyper-inflated ego",
+   "euphoria",
+   "stimulation",
+   "raised heartrate",
+   "numbing effects depending on ROA",
+   "nausea (particularly at high doses)"
+  ],
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Cocaine.shtml"
+  },
+  "name": "cocaine",
+  "pretty_name": "Cocaine",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "aliases": [
+    "coke"
+   ],
+   "bioavailability": "Cocaine Oral 25-35% | Insufflated 40-60%. NOTE: This is for Cocaine HCl.",
+   "categories": [
+    "stimulant",
+    "habit-forming",
+    "common"
+   ],
+   "detection": "Saliva: 1 day, Urine: 4-5 days, Hair: up to 90 days",
+   "dose": "Insufflated Light: 20-50mg Common: 50-100mg Strong: 100-150mg Heavy: 150mg+ | NOTE: Depending on purity, dosage will vary",
+   "duration": "1-1.5 hours",
+   "effects": "Elevated mood. Increase in irritability, hyper-inflated ego, euphoria, stimulation, raised heartrate, numbing effects depending on ROA, nausea (particularly at high doses)",
+   "marquis": "Clear (No change)",
+   "onset": "Rapid.",
+   "summary": "A highly popular, short-acting CNS stimulant that works by blocking the reuptake of dopamine, serotonin, and norepinephrine. It is known to increase euphoria, confidence, sex-drive, focus, body temperature, and heart rate. Cocaine can cause severe vasoconstriction and is known to be cardiotoxic and have a high potential for compulsive redosing and addiction."
+  },
+  "pweffects": {
+   "Abnormal heartbeat": "https://psychonautwiki.org/wiki/Abnormal_heartbeat",
+   "Anxiety": "https://psychonautwiki.org/wiki/Anxiety",
+   "Appetite suppression": "https://psychonautwiki.org/wiki/Appetite_suppression",
+   "Bronchodilation": "https://psychonautwiki.org/wiki/Bronchodilation",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Cognitive fatigue": "https://psychonautwiki.org/wiki/Cognitive_fatigue",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Dehydration": "https://psychonautwiki.org/wiki/Dehydration",
+   "Depression": "https://psychonautwiki.org/wiki/Depression",
+   "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+   "Ego inflation": "https://psychonautwiki.org/wiki/Ego_inflation",
+   "Focus enhancement": "https://psychonautwiki.org/wiki/Focus_enhancement",
+   "Increased blood pressure": "https://psychonautwiki.org/wiki/Increased_blood_pressure",
+   "Increased heart rate": "https://psychonautwiki.org/wiki/Increased_heart_rate",
+   "Increased libido": "https://psychonautwiki.org/wiki/Increased_libido",
+   "Increased perspiration": "https://psychonautwiki.org/wiki/Increased_perspiration",
+   "Irritability": "https://psychonautwiki.org/wiki/Irritability",
+   "Motivation enhancement": "https://psychonautwiki.org/wiki/Motivation_enhancement",
+   "Pain relief": "https://psychonautwiki.org/wiki/Pain_relief",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Teeth grinding": "https://psychonautwiki.org/wiki/Teeth_grinding",
+   "Temporary erectile dysfunction": "https://psychonautwiki.org/wiki/Temporary_erectile_dysfunction",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
+   "Thought organization": "https://psychonautwiki.org/wiki/Thought_organization",
+   "Vasoconstriction": "https://psychonautwiki.org/wiki/Vasoconstriction",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  },
+  "sources": {
+   "_general": [
+    "Rhabdomyolysis associated with cocaine abuse. -https://www.ncbi.nlm.nih.gov/pubmed/1743698",
+    "Rhabdomyolysis associated with cocaine abuse. - https://www.ncbi.nlm.nih.gov/pubmed/1743698",
+    "The beta-lactam antibiotic ceftriaxone inhibits physical dependence and abstinence-induced withdrawal from cocaine, amphetamine, methamphetamine, a... - https://www.ncbi.nlm.nih.gov/pubmed/18342307",
+    "Effects of concurrent use of alcohol and cocaine. - http://www.ncbi.nlm.nih.gov/pubmed/12133112",
+    "Cocaine-like neurochemical effects of antihistaminic medications. - http://www.ncbi.nlm.nih.gov/pubmed/18363822",
+    "Cocaine cardiotoxicity: a review of the pathophysiology, pathology, and treatment options. - http://www.ncbi.nlm.nih.gov/pubmed/19463023",
+    "Citalopram enhances cocaine's subjective effects in rats. - http://www.ncbi.nlm.nih.gov/pubmed/20195220",
+    "Role of voltage-gated sodium, potassium and calcium channels in the development of cocaine-associated cardiac arrhythmias. - http://www.ncbi.nlm.nih.gov/pubmed/20573078",
+    "High cocaine dosage decreases neurogenesis in the hippocampus and impairs working memory. - http://www.ncbi.nlm.nih.gov/pubmed/20731634",
+    "The effects of combinations of intranasal cocaine, smoked marijuana, and task performance on heart rate and blood pressure. - http://www.ncbi.nlm.nih.gov/pubmed/2162543",
+    "Lack of cocaine-like discriminative-stimulus effects of \u03c3-receptor agonists in rats. - http://www.ncbi.nlm.nih.gov/pubmed/21808192",
+    "Pregabalin reduces cocaine self-administration and relapse to cocaine seeking in the rat. - http://www.ncbi.nlm.nih.gov/pubmed/22734646",
+    "Cocaine potentiates MDMA-induced oxidative stress but not dopaminergic neurotoxicity in mice: implications for the pathogenesis of free radical-ind... - http://www.ncbi.nlm.nih.gov/pubmed/23681166",
+    "Effects of escitalopram on attentional bias to cocaine-related stimuli and inhibitory control in cocaine-dependent subjects. - http://www.ncbi.nlm.nih.gov/pubmed/23761390",
+    "Aminorex, a metabolite of the cocaine adulterant levamisole, exerts amphetamine like actions at monoamine transporters. - http://www.ncbi.nlm.nih.gov/pubmed/24296074",
+    "Long Withdrawal of Methylphenidate Induces a Differential Response of the Dopaminergic System and Increases Sensitivity to Cocaine in the Prefronta... - http://www.ncbi.nlm.nih.gov/pubmed/26509840",
+    "Cocaine tolerance and cross-tolerance. - http://www.ncbi.nlm.nih.gov/pubmed/8093724",
+    "Cocaethylene is as cardiotoxic as cocaine but is less toxic than cocaine plus ethanol. - http://www.ncbi.nlm.nih.gov/pubmed/8761012",
+    "Differential potentiation of L-tryptophan-induced head-twitch response in mice by cocaine and sertraline. - http://www.ncbi.nlm.nih.gov/pubmed/8831798",
+    "Cocaine contamination of United States paper currency. - http://www.ncbi.nlm.nih.gov/pubmed/8835657",
+    "A study suggests that having a history of cocaine and poly drug abuse can lead to acute open-angle glaucoma - http://journals.lww.com/glaucomajournal/Abstract/2011/09000/Substance_Use_Disorder_and_the_Risk_of_Open_angle.9.aspx",
+    "using cocaine while pregnant is dangerous for the fetus's health - https://www.drugabuse.gov/publications/research-reports/cocaine/what-are-effects-maternal-cocaine-use"
+   ]
+  }
+ }
+}

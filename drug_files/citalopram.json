@@ -1,0 +1,31 @@
+{
+ "citalopram": {
+  "aliases": [
+   "celexa",
+   "cipramil"
+  ],
+  "categories": [
+   "common",
+   "ssri"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-40mg once a day"
+   }
+  },
+  "name": "citalopram",
+  "pretty_name": "Citalopram",
+  "properties": {
+   "aliases": [
+    "celexa",
+    "cipramil"
+   ],
+   "categories": [
+    "common",
+    "ssri"
+   ],
+   "dose": "20-40mg Once a day.",
+   "summary": "Citalopram is an SSRI that is used to treat depression. It does not lead to a high and causes a wide range of negative psychological and physical effects when people attempt to abuse it. These include nausea, serotonin syndrome, and suicidal ideation. Those with bipolar disorder tend to go into a mixed state or manic states when trying SSRI's."
+  }
+ }
+}

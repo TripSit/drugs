@@ -1,0 +1,84 @@
+{
+ "hydrocodone": {
+  "aliases": [
+   "vicodin",
+   "hydro"
+  ],
+  "categories": [
+   "depressant",
+   "opioid",
+   "habit-forming",
+   "depressant",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-25mg",
+    "Light": "5-10mg",
+    "Strong": "25-40mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil constriction",
+   "Analgesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Hydrocodone.shtml"
+  },
+  "name": "hydrocodone",
+  "pretty_name": "Hydrocodone",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "vicodin",
+    "hydro"
+   ],
+   "avoid": "Alcohol due to CNS depression. Grapefruit juice, which inhibits enzymes that leads to increased abosrbtion rate, risking possible overdose.",
+   "bioavailability": "Oral 70-85%",
+   "categories": [
+    "depressant",
+    "opioid",
+    "habit-forming",
+    "depressant",
+    "common"
+   ],
+   "dose": "Oral Light: 5-10mg Common: 10-25mg Strong: 25-40mg.",
+   "duration": "4-8 hours",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
+   "onset": "10-60 minutes depending on stomach contents.",
+   "summary": "A codeine-derived opioid generally unheard of outside the United States. Reported to be weaker in subjective effects, the drug is used as an analgesic, cough-suppresant, and recreationally."
+  },
+  "pweffects": {
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Constipation": "https://psychonautwiki.org/wiki/Constipation",
+   "Cough suppression": "https://psychonautwiki.org/wiki/Cough_suppression",
+   "Difficulty urinating": "https://psychonautwiki.org/wiki/Difficulty_urinating",
+   "Itchiness": "https://psychonautwiki.org/wiki/Itchiness",
+   "Pain relief": "https://psychonautwiki.org/wiki/Pain_relief",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Pupil constriction": "https://psychonautwiki.org/wiki/Pupil_constriction",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation"
+  }
+ }
+}

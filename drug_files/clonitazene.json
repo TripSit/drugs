@@ -1,0 +1,44 @@
+{
+ "clonitazene": {
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "depressant",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-10mg",
+    "Light": "2.5-5mg",
+    "Strong": "10-15mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "4-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "10-30"
+  },
+  "name": "clonitazene",
+  "pretty_name": "Clonitazene",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "depressant",
+    "research-chemical"
+   ],
+   "dose": "Oral Light: 2.5-5mg Commong: 5-10mg Strong: 10-15mg+",
+   "duration": "Oral: 4-8 hours.",
+   "onset": "Oral: 10-30 minutes.",
+   "summary": "An opioid that is roughly three times as potent as Morphine. Is related to Etonitazene, which is about 1000-1500x the potency of Morphine."
+  }
+ }
+}

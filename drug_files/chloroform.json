@@ -1,0 +1,32 @@
+{
+ "chloroform": {
+  "categories": [
+   "depressant",
+   "habit-forming",
+   "tentative"
+  ],
+  "dose_note": "Rapid onset and short duration.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Chloroform.shtml"
+  },
+  "name": "chloroform",
+  "pretty_name": "Chloroform",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "avoid": "Avoid CNS depressants and smoking",
+   "categories": [
+    "depressant",
+    "habit-forming",
+    "tentative"
+   ],
+   "duration": "Short.",
+   "obtain": "Air.",
+   "onset": "Rapid.",
+   "summary": "A naturally occurring organic compound once used as an anaesthetic. It has practically disappeared in this usage due to numerous harmful effects including danger of sudden death through cardiac arrhythmia. It been implicated in numerous murders. The drug is unsafe."
+  }
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "afloqualone": {
+  "categories": [
+   "depressant",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-3"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "75-100mg",
+    "Light": "50-75mg",
+    "Strong": "100-200mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-5"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "60"
+  },
+  "name": "afloqualone",
+  "pretty_name": "Afloqualone",
+  "properties": {
+   "after-effects": "1-3 hours.",
+   "categories": [
+    "depressant",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Low: 50-75mg Common: 75-100mg Strong: 100-200mg+",
+   "duration": "3-5 hours.",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "<60 minutes.",
+   "summary": "A rare analogue of methaqualone, a sedative, intoxicating drug. Similar effects to benzodiazepines, barbiturates and alcohol. Never widely used due to photosensitivity and skin irritation issues, though it has seem some popularity in Japan."
+  }
+ }
+}

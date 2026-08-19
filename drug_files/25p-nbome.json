@@ -1,0 +1,62 @@
+{
+ "25p-nbome": {
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-16"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "450-700ug",
+    "Light": "250-450ug",
+    "Strong": "700-1500ug",
+    "Threshold": "100-250ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "7-14"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "25-40"
+  },
+  "name": "25p-nbome",
+  "pretty_name": "25P-NBOMe",
+  "properties": {
+   "after-effects": "1-16 hours.",
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Threshold: 100-250ug Light: 250-450ug Common: 450-700ug Strong: 700-1500ug",
+   "duration": "7-14 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "25-40 minutes.",
+   "summary": "A rare potent psychedelic drug with similar effects and risks to others in the NBOMe class. The substance was first sold in mid-late 2012, and resurfaced in early 2015."
+  }
+ }
+}

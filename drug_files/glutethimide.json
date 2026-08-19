@@ -1,0 +1,53 @@
+{
+ "glutethimide": {
+  "aliases": [
+   "doriden",
+   "elrodorm",
+   "noxyron",
+   "glimid"
+  ],
+  "categories": [
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "500mg",
+    "Light": "250mg",
+    "Strong": "750mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-45"
+  },
+  "name": "glutethimide",
+  "pretty_name": "Glutethimide",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "doriden",
+    "elrodorm",
+    "noxyron",
+    "glimid"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Light: 250mg Common: 500mg Strong: 750mg+",
+   "duration": "2-8 hours.",
+   "onset": "30-45 minutes.",
+   "summary": "The drug is a hypnotic sedative that was introduced in 1954, as a \"safe\" alternative to barbiturates to treat insomnia."
+  }
+ }
+}

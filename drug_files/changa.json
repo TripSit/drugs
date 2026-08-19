@@ -1,0 +1,58 @@
+{
+ "changa": {
+  "categories": [
+   "psychedelic",
+   "tentative"
+  ],
+  "dose_note": " NOTE: These are tentative estimates as Changa potency and dosing will vary per batch/source.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-36"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "15-30mg",
+    "Heavy": "50+mg",
+    "Light": "5-15mg",
+    "Strong": "30-50mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "minutes",
+   "value": "6-12"
+  },
+  "formatted_effects": [
+   "immersive experience",
+   "open eye visuals",
+   "radical perspective shifting",
+   "profound life-changing spiritual experiences",
+   "powerful rushing of sensation",
+   "change in perception of time",
+   "auditory hallucinations",
+   "color shifting",
+   "hard on lungs when smoking",
+   "stomach discomfort",
+   "difficulty integrating experiences",
+   "overwhelming fear"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "0-2"
+  },
+  "name": "changa",
+  "pretty_name": "Changa",
+  "properties": {
+   "after-effects": "1-36 hours",
+   "avoid": "Combining with any medications or substance contraindicated with MAOI's particuarly SSRI's, MDxx compounds and Amphetamines. Refer to http://wiki.tripsit.me/wiki/Drug_combinations for more information.",
+   "categories": [
+    "psychedelic",
+    "tentative"
+   ],
+   "dose": "Light: 5-15mg Common: 15-30mg Strong: 30-50mg Heavy: 50+mg | NOTE: These are tentative estimates as Changa potency and dosing will vary per batch/source.",
+   "duration": "6-12 minutes",
+   "effects": "immersive experience, open eye visuals, radical perspective shifting, profound life-changing spiritual experiences, powerful rushing of sensation, change in perception of time, auditory hallucinations, color shifting, hard on lungs when smoking, stomach discomfort, difficulty integrating experiences, overwhelming fear",
+   "onset": "0-2 minutes",
+   "summary": "Changa is the name given to a smoking blend of Banisteriopsis caapi or other MAOI containing plants with an infusion of extracted DMT. Changa often contains other milder psychoactive herbs as well. The MAOI action results in a longer and more intense trip (see Ayahuasca) NOTE: There is no standardized recipe or concentration of infused DMT, therefore dosage and potency will vary per batch."
+  }
+ }
+}

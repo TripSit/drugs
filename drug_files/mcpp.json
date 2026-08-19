@@ -1,0 +1,25 @@
+{
+ "mcpp": {
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "30",
+   "Oral": "60"
+  },
+  "name": "mcpp",
+  "pretty_name": "MCPP",
+  "properties": {
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "tentative"
+   ],
+   "onset": "Oral: >60 minutes. Insufflated: >30 minutes.",
+   "summary": "A phenylpiperazine stimulant first developed in the 1970s before being sold in the RC market. The drug is often mislabelled as MDMA. It is reported to have unpleasant effects such as anxiogenesis and headaches."
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "4-epd": {
+  "aliases": [
+   "4-ethylpentedrone"
+  ],
+  "categories": [
+   "stimulant",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "20-30mg",
+    "Light": "10-20mg",
+    "Strong": "30-50mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "1-3"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "10-30"
+  },
+  "name": "4-epd",
+  "pretty_name": "4-EPD",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "4-ethylpentedrone"
+   ],
+   "categories": [
+    "stimulant",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Insufflated Light: 10-20mg Common: 20-30mg Strong: 30-50mg's.",
+   "duration": "1-3 hours.",
+   "onset": "Insufflated: 10-30 minutes.",
+   "summary": "An obscure analogue of Pentedrone, there is very little information on this chemical. It is likely is shares the same general effects of the other Pentedrone family."
+  }
+ }
+}

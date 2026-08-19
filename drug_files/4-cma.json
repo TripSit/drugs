@@ -1,0 +1,16 @@
+{
+ "4-cma": {
+  "categories": [
+   "research-chemical"
+  ],
+  "name": "4-cma",
+  "pretty_name": "4-CMA",
+  "properties": {
+   "categories": [
+    "research-chemical"
+   ],
+   "summary": "The stimulant that is the N-Methyl Derivative and prodrug of the neurotoxic para-Chloroamphetamine.",
+   "warning": "Prodrug of the Neurotoxic para-Chloroamphetamine."
+  }
+ }
+}

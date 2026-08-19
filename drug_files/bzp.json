@@ -1,0 +1,43 @@
+{
+ "bzp": {
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "70-100mg",
+    "Heavy": "130mg+",
+    "Light": "40-70mg",
+    "Strong": "100-130mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-45"
+  },
+  "name": "bzp",
+  "pretty_name": "BZP",
+  "properties": {
+   "after-effects": "2-4 hours.",
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 40-70mg Common: 70-100mg Strong: 100-130mg Heavy: 130mg+",
+   "duration": "4-6 hours.",
+   "onset": "30-45 minutes.",
+   "summary": "A stimulant that was sold as \"legal ecstasy (MDMA)\" in the late 2000s, and was one of the first drugs widely marketed as a \"research chemical.\" It has a reportedly less favourable effect profile and has fallen out of popularity greatly since it was banned in many countries."
+  }
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "bupropion": {
+  "aliases": [
+   "wellbutrin",
+   "zyban",
+   "amfebutamone"
+  ],
+  "categories": [
+   "stimulant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "150-300mg/day",
+    "Heavy": "450mg+/day",
+    "Light": "150mg/day",
+    "Strong": "300-450mg/day"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Metabolites": "20-37",
+   "Parent": "11-21"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-90"
+  },
+  "name": "bupropion",
+  "pretty_name": "Bupropion",
+  "properties": {
+   "adverse-effects": "Agitation, dry mouth, insomnia, headache/migraine, nausea/vomiting, constipation, tremor, dizziness, excessive sweating, blurred vision, tachycardia, confusion, rash, hostility, cardiac arrhythmia, and auditory disturbance",
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "wellbutrin",
+    "zyban",
+    "amfebutamone"
+   ],
+   "categories": [
+    "stimulant"
+   ],
+   "chemistry": "IUPAC: (\u00b1)-2-(tert-Butylamino)-1-(3-chlorophenyl)propan-1-one | Formula: C13H18ClNO | Molecular Mass: 239.74 g/mol",
+   "contraindications": "Seizure disorder, current or prior diagnosis of bulimia or anorexia nervosa, abrupt discontinuation of alcohol, benzodiazepines, barbiturates, and anti-epileptic drugs, and MAOIs",
+   "duration": "Parent: 11-21 hours | Metabolites: 20-37 hours",
+   "effects": "Mild - moderate increase in motor activity and agitation/excitement",
+   "legal": "Australia: Prescription Only (S4) | Canada: \u211e-only | United Kingdom: POM | United States: \u211e-only",
+   "onset": "15-90 minutes.",
+   "overdose-symptoms": "Seizure, hallucinations, loss of consciousness, sinus tachycardia, ECG changes, bradycardia, cardiac failure, cardiac arrest, and death",
+   "pharmacokinetics": "Protein Binding: 84% (bupropion), 77% [hydroxybupropion (active metabolite)], 42% [threohydrobupropion (active metabolite)] | Metabolism: hepatic, primarily CYP2B6-mediated hydroxylation; both bupropion and hydroxybupropion (active metabolite) are CYP2D6 inhibitors | Excretion: renal (87%; 0.5% unchanged) and faecal (10%)",
+   "pharmacology": "NDRI (Norepinephrine-Dopamine Reuptake Inhibitor); NDRA (Norepinephrine-Dopamine Releasing Agent); \u03b13\u03b22, \u03b13\u03b24, \u03b14\u03b22, and \u03b17 nACh receptor antagonist",
+   "summary": "A frequently prescribed atypical antidepressant. Occasionally prescribed as an aid to smoking cessation. May lower seizure threshold in predisposed individuals. Poorly understood mechanism of action, probably an NDRI. Avoid combination with other drugs.",
+   "warning": "Bupropion lowers the seizure threshold in a dose-dependent manner. Seizure risk increases significantly at total daily doses above 450 mg, with immediate-release formulations, rapid dose escalation, or when tablets are crushed or altered. Risk is further increased when combined with other substances that lower the seizure threshold, including CNS stimulants, alcohol (especially during withdrawal or binge use), theophylline, systemic corticosteroids, and certain antidepressants."
+  },
+  "sources": {
+   "_general": [
+    "Evaluation of a Potential Metabolism-Mediated Drug-Drug Interaction Between Atomoxetine and Bupropion in Healthy Volunteers. http://www.ncbi.nlm.nih.gov/pubmed/27518170",
+    "dosing information for Bupropion https://www.mayoclinic.org/drugs-supplements/bupropion-oral-route/description/drg-20062478"
+   ]
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "paroxetine": {
+  "aliases": [
+   "paxil",
+   "seroxat"
+  ],
+  "categories": [
+   "ssri"
+  ],
+  "name": "paroxetine",
+  "pretty_name": "Paroxetine",
+  "properties": {
+   "aliases": [
+    "paxil",
+    "seroxat"
+   ],
+   "categories": [
+    "ssri"
+   ]
+  }
+ }
+}

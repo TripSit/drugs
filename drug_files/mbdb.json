@@ -1,0 +1,57 @@
+{
+ "mbdb": {
+  "aliases": [
+   "eden",
+   "methyl-j"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "tentative",
+   "empathogen",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "180-210mg",
+    "Light": "150-180mg",
+    "Strong": "210-250mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-120"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_MBDB.shtml"
+  },
+  "name": "mbdb",
+  "pretty_name": "MBDB",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "eden",
+    "methyl-j"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "tentative",
+    "empathogen",
+    "habit-forming"
+   ],
+   "dose": "Light: 150-180mg Common: 180-210mg Strong: 210-250mg+",
+   "duration": "3-8 hours",
+   "onset": "30-120 minutes.",
+   "summary": "A rare entactogenic drug and analogue of MDMA. Suspected to be first synthesised by David E. Nichols. The drug is suspected to be less potent than related drugs of its type. It is sometimes referred to as a 'watered down MDMA'."
+  }
+ }
+}

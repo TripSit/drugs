@@ -1,0 +1,59 @@
+{
+ "6-apb": {
+  "aliases": [
+   "6apb"
+  ],
+  "categories": [
+   "stimulant",
+   "psychedelic",
+   "research-chemical",
+   "empathogen",
+   "habit-forming"
+  ],
+  "dose_note": " NOTE: It is not recommended to consume more than 200mg in a night",
+  "formatted_dose": {
+   "Oral": {
+    "Common": "75-125mg",
+    "Heavy": "125mg+",
+    "Light": "50-75mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-14"
+  },
+  "formatted_effects": [
+   "Feelings of empathy",
+   "euphoria",
+   "general sense of well being",
+   "Light to moderate visuals are reported with most users"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-90"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_6APB.shtml"
+  },
+  "name": "6-apb",
+  "pretty_name": "6-APB",
+  "properties": {
+   "after-effects": "6-apb is reported to have a 'hangover' similar to MDMA.",
+   "aliases": [
+    "6apb"
+   ],
+   "categories": [
+    "stimulant",
+    "psychedelic",
+    "research-chemical",
+    "empathogen",
+    "habit-forming"
+   ],
+   "dose": "Light: 50-75mg Common: 75-125mg Heavy: 125mg+ | NOTE: It is not recommended to consume more than 200mg in a night",
+   "duration": "8-14 hours",
+   "effects": "Feelings of empathy, euphoria, and a general sense of well being. Light to moderate visuals are also reported with most users.",
+   "onset": "45-90 minutes.",
+   "summary": "A stimulant, empathogen and analog of MDA. Typically more visual than MDMA or MDA, as well as having a much longer onset and duration. Users often report a slightly more psychedelic headspace as well. Commonly sold as an alternative to MDMA and MDA."
+  }
+ }
+}

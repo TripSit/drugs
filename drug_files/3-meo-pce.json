@@ -1,0 +1,55 @@
+{
+ "3-meo-pce": {
+  "aliases": [
+   "3meopce",
+   "methoxyieticyclidine"
+  ],
+  "categories": [
+   "dissociative",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "5-10mg",
+    "Light": "3-5mg",
+    "Strong": "10-20mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-5"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-30"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_3MEOPCE_.shtml"
+  },
+  "name": "3-meo-pce",
+  "pretty_name": "3-MeO-PCE",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "3meopce",
+    "methoxyieticyclidine"
+   ],
+   "categories": [
+    "dissociative",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Light: 3-5mg Common: 5-10mg Strong: 10-20mg+",
+   "duration": "3-5 hours.",
+   "onset": "15-30 minutes.",
+   "summary": "3-MeO-PCP with a change of a ring replacement. It is slightly more potent than 3-MeO-PCP."
+  }
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "1,4-butanediol": {
+  "aliases": [
+   "bd",
+   "1,4-bd",
+   "14bd"
+  ],
+  "categories": [
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1-1.5ml",
+    "Light": "0.5-1ml",
+    "Strong": "1.5ml+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-5"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-45"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_14Butanediol.shtml"
+  },
+  "name": "1,4-butanediol",
+  "pretty_name": "1,4-Butanediol",
+  "properties": {
+   "after-effects": "2-4 hours",
+   "aliases": [
+    "bd",
+    "1,4-bd",
+    "14bd"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Light: 0.5-1ml Common: 1-1.5ml Strong: 1.5ml+",
+   "duration": "3-5 hours",
+   "half-life": "39.3 minutes +/- 11 minutes.",
+   "onset": "10-45 minutes.",
+   "summary": "1,4-BD is a clear liquid with intoxicating effects. It is a pro-drug for GHB, and has similar though reportedly inferior effects. It also carries the potential for more health risks than GHB, such as liver toxicity.",
+   "test-kits": "Marquis: Faint Brown. | Mandelin: Brown."
+  },
+  "pweffects": {
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Dehydration": "https://psychonautwiki.org/wiki/Dehydration",
+   "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Empathy, love, and sociability enhancement": "https://psychonautwiki.org/wiki/Empathy,_love,_and_sociability_enhancement",
+   "Increased libido": "https://psychonautwiki.org/wiki/Increased_libido",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Nausea": "https://psychonautwiki.org/wiki/Nausea",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration"
+  }
+ }
+}

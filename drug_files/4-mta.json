@@ -1,0 +1,28 @@
+{
+ "4-mta": {
+  "aliases": [
+   "4-methylthioamphetamine"
+  ],
+  "categories": [
+   "research-chemical",
+   "empathogen",
+   "tentative"
+  ],
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_4MTA.shtml"
+  },
+  "name": "4-mta",
+  "pretty_name": "4-MTA",
+  "properties": {
+   "aliases": [
+    "4-methylthioamphetamine"
+   ],
+   "categories": [
+    "research-chemical",
+    "empathogen",
+    "tentative"
+   ],
+   "summary": "Empathogen with very low chronic toxicity but high risk of acute harm due to mixed serotonin release and MAOI action. There are some reports that indicate it does not have a notable euphoric effect."
+  }
+ }
+}

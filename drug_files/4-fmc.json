@@ -1,0 +1,81 @@
+{
+ "4-fmc": {
+  "aliases": [
+   "4-fluoromethcathinone",
+   "fpephedrone",
+   "flephedrone",
+   "4fmc"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "50-100mg",
+    "Light": "25-40mg",
+    "Strong": "100-150mg+"
+   },
+   "Oral": {
+    "Common": "100-150mg",
+    "Light": "50-100mg",
+    "Strong": "150-200mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "2-4"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "increased energy/alertness",
+   "decreased need for sleep",
+   "increased sociability",
+   "mood lift",
+   "increased libido",
+   "excessive talking",
+   "decreased appetite",
+   "weight loss",
+   "sweating",
+   "disturbed sleep patterns",
+   "bruxism",
+   "visual and auditory hallucinations",
+   "itchiness",
+   "aggressiveness",
+   "moodiness"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "15-30"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_4Fluoromethcathinone.shtml"
+  },
+  "name": "4-fmc",
+  "pretty_name": "4-FMC",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "aliases": [
+    "4-fluoromethcathinone",
+    "fpephedrone",
+    "flephedrone",
+    "4fmc"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Oral Light: 50-100mg Common: 100-150mg Strong: 150-200+mg | Insufflated Light: 25-40mg Common: 50-100mg Strong: 100-150+mg",
+   "duration": "Oral: 2-4 hours. Insufflated: 1-3 hours.",
+   "effects": "Euphoria, increased energy/alertness, decreased need for sleep, increased sociability, mood lift, increased libido, excessive talking, decreased appetite, weight loss, sweating, disturbed sleep patterns, bruxism, visual and auditory hallucinations, itchiness, aggressiveness, moodiness.",
+   "onset": "Oral: 15-30 minutes. Insufflated 1-5 minutes.",
+   "summary": "A cathinone stimulant also known as flephedrone, appeared in 2008 marketed as a mephedrone replacement. Reportedly mild empathogenic effects."
+  }
+ }
+}

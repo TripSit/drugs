@@ -1,0 +1,50 @@
+{
+ "cyclizine": {
+  "categories": [
+   "depressant"
+  ],
+  "dose_note": " NOTE: The provided dosages are intended for therapeutic use.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "14"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "25-50mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "4-8"
+  },
+  "formatted_effects": [
+   "Side-effects: drowsiness",
+   "dry mouth",
+   "headache",
+   "psychomotor impairment",
+   "urinary retention",
+   "blurred vision",
+   "dermatitis",
+   "gastrointestinal disturbances"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-30"
+  },
+  "name": "cyclizine",
+  "pretty_name": "Cyclizine",
+  "properties": {
+   "after-effects": "14 - 16 hours",
+   "categories": [
+    "depressant"
+   ],
+   "chemistry": "IUPAC: 1-benzhydryl-4-methyl-piperazine | Formula: C18H22N2 | Molecular Mass: 266.381 g/mol | Water Solubility: 1000 mg/L (25 \u00b0C)",
+   "dose": "Common: 25-50mg's.",
+   "duration": "Oral 4-8 hours.",
+   "onset": "10-30 minutes.",
+   "pharmacodynamics": "H1 receptor inverse agonist; mACh receptor antagonist",
+   "side-effects": "drowsiness, dry mouth, headache, psychomotor impairment, urinary retention, blurred vision, dermatitis, gastrointestinal disturbances",
+   "summary": "First generation antihistamine and anticholinergic drug used to combat nausea and vomiting. Causes drowsiness. Similar to most other antihistamines, it typically induces delirium and vivid realistic hallucinations at high dosages. The drug is reported to be uncomfortable and not enjoyable at these dosages."
+  }
+ }
+}

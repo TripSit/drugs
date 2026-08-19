@@ -1,0 +1,116 @@
+{
+ "4-ho-mipt": {
+  "aliases": [
+   "4homipt",
+   "homipt",
+   "ho-mipt",
+   "4-ho",
+   "miprocin"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "15-20mg",
+    "Heavy": "40mg+",
+    "Light": "10-15mg",
+    "Strong": "20-30mg",
+    "Threshold": "5-10mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_effects": [
+   "Brightened colors",
+   "visual distortions",
+   "altered perception",
+   "a sense of connectedness with the world around you",
+   "heightened emotions",
+   "paranoia",
+   "intrusive thoughts"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-90"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_4HOMiPT.shtml",
+   "tihkal": "https://www.erowid.org/library/books_online/tihkal/tihkal22.shtml"
+  },
+  "name": "4-ho-mipt",
+  "pretty_name": "4-HO-MiPT",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "aliases": [
+    "4homipt",
+    "homipt",
+    "ho-mipt",
+    "4-ho",
+    "miprocin"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Oral Threshold: 5-10mg Light: 10-15mg Common: 15-20mg Strong: 20-30mg Heavy: 40mg+",
+   "duration": "3-6 hours",
+   "effects": "Brightened colors, visual distortions, altered perception, a sense of conectedness with the world around you, heightened emotions, paranoia, intrusive thoughts.",
+   "onset": "20-90 minutes depending on stomach contents.",
+   "summary": "A reasonably popular tryptamine deriviative and Psilocin analogue, first synthesised by Alexander Shulgin. It has been reported as having comparable effects to psilocybin mushrooms, though with a shorter duration."
+  },
+  "pweffects": {
+   "8B Geometry - Exposure to inner mechanics of consciousness": "https://psychonautwiki.org/wiki/8B_Geometry_-_Exposure_to_inner_mechanics_of_consciousness",
+   "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
+   "After images": "https://psychonautwiki.org/wiki/After_images",
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+   "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+   "Colour enhancement": "https://psychonautwiki.org/wiki/Colour_enhancement",
+   "Colour shifting": "https://psychonautwiki.org/wiki/Colour_shifting",
+   "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+   "D\u00e9j\u00e0 vu": "https://psychonautwiki.org/wiki/D%C3%A9j%C3%A0_vu",
+   "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+   "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+   "Emotion enhancement": "https://psychonautwiki.org/wiki/Emotion_enhancement",
+   "Enhancement and suppression cycles": "https://psychonautwiki.org/wiki/Enhancement_and_suppression_cycles",
+   "Feelings of interdependent opposites": "https://psychonautwiki.org/wiki/Feelings_of_interdependent_opposites",
+   "Feelings of predeterminism": "https://psychonautwiki.org/wiki/Feelings_of_predeterminism",
+   "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+   "Immersion enhancement": "https://psychonautwiki.org/wiki/Immersion_enhancement",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Novelty enhancement": "https://psychonautwiki.org/wiki/Novelty_enhancement",
+   "Pattern recognition enhancement": "https://psychonautwiki.org/wiki/Pattern_recognition_enhancement",
+   "Personal bias suppression": "https://psychonautwiki.org/wiki/Personal_bias_suppression",
+   "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+   "Pupil dilation": "https://psychonautwiki.org/wiki/Pupil_dilation",
+   "Runny nose": "https://psychonautwiki.org/wiki/Runny_nose",
+   "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+   "Scenery slicing": "https://psychonautwiki.org/wiki/Scenery_slicing",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Subconscious communication": "https://psychonautwiki.org/wiki/Subconscious_communication",
+   "Symmetrical texture repetition": "https://psychonautwiki.org/wiki/Symmetrical_texture_repetition",
+   "Synaesthesia": "https://psychonautwiki.org/wiki/Synaesthesia",
+   "Thought connectivity": "https://psychonautwiki.org/wiki/Thought_connectivity",
+   "Thought loops": "https://psychonautwiki.org/wiki/Thought_loops",
+   "Time distortion": "https://psychonautwiki.org/wiki/Time_distortion",
+   "Tracers": "https://psychonautwiki.org/wiki/Tracers",
+   "Transformations": "https://psychonautwiki.org/wiki/Transformations",
+   "Unity and interconnectedness": "https://psychonautwiki.org/wiki/Unity_and_interconnectedness",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness",
+   "Watery eyes": "https://psychonautwiki.org/wiki/Watery_eyes"
+  }
+ }
+}

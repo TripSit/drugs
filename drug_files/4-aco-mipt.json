@@ -1,0 +1,54 @@
+{
+ "4-aco-mipt": {
+  "aliases": [
+   "mipracetin",
+   "4acomipt"
+  ],
+  "categories": [
+   "tentative",
+   "psychedelic",
+   "empathogen",
+   "research-chemical"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-20mg",
+    "Light": "5-10mg",
+    "Strong": "20-40mg."
+   },
+   "Vapourized": {
+    "Common": "5-10mg",
+    "Light": "2-5mg",
+    "Strong": "10-15mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "4-9",
+   "Vapourized": "1-2"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "15-45",
+   "Vapourized": "1-2"
+  },
+  "name": "4-aco-mipt",
+  "pretty_name": "4-AcO-MiPT",
+  "properties": {
+   "aliases": [
+    "mipracetin",
+    "4acomipt"
+   ],
+   "categories": [
+    "tentative",
+    "psychedelic",
+    "empathogen",
+    "research-chemical"
+   ],
+   "dose": "Oral Light: 5-10mg Common: 10-20mg Strong: 20-40mg. | Vapourized Light: 2-5mg Common: 5-10mg Strong: 10-15 mg.",
+   "duration": "Oral: 4-9 hours. | Vapourized: 1-2 hours.",
+   "onset": "Oral: 15-45 minutes. | Vapourized: 1-2 minutes.",
+   "summary": "A potent tryptamine that has be related to having \"Psilocybin mushroom-like\" visuals - yet without much bodyload. The drug is said to be very hydroscopic. There are reports of it being safely dosed, similar to the likes of 2C-B."
+  }
+ }
+}

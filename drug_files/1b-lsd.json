@@ -1,0 +1,49 @@
+{
+ "1b-lsd": {
+  "aliases": [
+   "1b"
+  ],
+  "categories": [
+   "tentative",
+   "research-chemical",
+   "psychedelic"
+  ],
+  "dose_note": " NOTE: At the time of this chemical's release, the manufacturers claimed 1B-LSD was expected to be slightly less potent than 1P-LSD, supposedly owing to the increased mass of the butanoyl group over the propionyl group, however anecdotes seem to indicate approximate equipotency to 1P-LSD.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "6-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50-125ug",
+    "Light": "25-50ug",
+    "Strong": "125-250ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-12"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "45-90"
+  },
+  "name": "1b-lsd",
+  "pretty_name": "1B-LSD",
+  "properties": {
+   "after-effects": "6-24 hours",
+   "aliases": [
+    "1b"
+   ],
+   "categories": [
+    "tentative",
+    "research-chemical",
+    "psychedelic"
+   ],
+   "dose": "Oral Light: 25-50ug Common: 50-125ug's Strong: 125-250ug's. | NOTE: At the time of this chemical's release, the manufacturers claimed 1B-LSD was expected to be slightly less potent than 1P-LSD, supposedly owing to the increased mass of the butanoyl group over the propionyl group, however anecdotal reports seem to indicate approximate equipotency to 1P-LSD.",
+   "duration": "8-12 hours",
+   "onset": "45-90 minutes",
+   "summary": "1B-LSD (1-butanoyl-lysergic acid diethylamide) is an LSD analogue which appears to be about as potent as 1P-LSD (slightly more potent than LSD) and has a slightly shorter duration than that of LSD, again thought to be about the same as 1P-LSD. Released in late 2018, and marketed agressively as a replacement for 1P-LSD. 1B-LSD does not yet have a clearly established safety profile,"
+  }
+ }
+}

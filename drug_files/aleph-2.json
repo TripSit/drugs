@@ -1,0 +1,63 @@
+{
+ "aleph-2": {
+  "aliases": [
+   "dot-2",
+   "dot2",
+   "aleph2"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "12-24"
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-18"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "40-120"
+  },
+  "name": "aleph-2",
+  "pretty_name": "ALEPH-2",
+  "properties": {
+   "after-effects": "12-24 hours",
+   "aliases": [
+    "dot-2",
+    "dot2",
+    "aleph2"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "duration": "6-18 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "40-120 minutes",
+   "summary": "A very rare Phenethylamine, also known as DOT-2, it is the DOx analogue of 2C-T-2. There is very little human use reported. Described as being quite long and highly visual. The drug is suspected to be potent, with a reported threshold dose of 3mg."
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "nitrazolam": {
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1-2mg",
+    "Light": "0.5-1mg",
+    "Strong": "2-3mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-10"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-30"
+  },
+  "name": "nitrazolam",
+  "pretty_name": "Nitrazolam",
+  "properties": {
+   "after-effects": "2-24 hours (Very dose dependant)",
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant",
+    "tentative"
+   ],
+   "dose": "Oral Light: 0.5-1mg Common: 1-2mg Strong: 2-3mg+",
+   "duration": "5-10 hours.",
+   "onset": "15-30 minutes.",
+   "summary": "Hypnotic benzodiazepine that is the triazolo analogue of Nitrazepam and about 4x more potent compared to the parent compound. It is also  dechlorinated derivative of clonazolam with roughly 1/10 potency."
+  }
+ }
+}

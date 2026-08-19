@@ -1,0 +1,63 @@
+{
+ "demerol": {
+  "aliases": [
+   "pethidine",
+   "meperidine"
+  ],
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-10"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-200mg",
+    "Light": "50-100mg",
+    "Strong": "200-400mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "Dry Mouth",
+   "Mood lift",
+   "Itchiness",
+   "Relaxant",
+   "Constipation",
+   "Pupil constriction",
+   "Analgesia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-60"
+  },
+  "name": "demerol",
+  "pretty_name": "Pethidine",
+  "properties": {
+   "after-effects": "2-10 hours.",
+   "aliases": [
+    "pethidine",
+    "meperidine"
+   ],
+   "avoid": "All other CNS depressants.",
+   "bioavailability": "Oral 50-60% | Rectal 55% | Intramuscular 80-85%",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Light: 50-100mg Common: 100-200mg Strong: 200-400mg+",
+   "duration": "4-6 hours.",
+   "effects": "Euphoria, Dry Mouth, Mood lift, Itchiness, Relaxant, Constipation, Pupil constriction, Analgesia.",
+   "onset": "30-60 minutes",
+   "summary": "A phenylpiperidine opioid first synthesised by Otto Eisleb in 1939, better known by the names meperidine and pethidine. An analgesic once widely prescribed, it has since declined in usage due to the discovery of a toxic metabolite - norpethidine. The drug additionally reacts dangerously with many drugs."
+  }
+ }
+}

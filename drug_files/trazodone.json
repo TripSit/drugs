@@ -1,0 +1,36 @@
+{
+ "trazodone": {
+  "aliases": [],
+  "categories": [
+   "depressant"
+  ],
+  "dose_note": " Note: ",
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50-100mg",
+    "Light": "25-50mg",
+    "Strong": "100-150mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-10"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-40"
+  },
+  "name": "trazodone",
+  "pretty_name": "Trazodone",
+  "properties": {
+   "aliases": [],
+   "categories": [
+    "depressant"
+   ],
+   "dose": "Light: 25-50mg Common: 50-100mg Strong: 100-150 | Note: ",
+   "duration": "6-10 hours.",
+   "onset": "20-40 minutes.",
+   "summary": "A novel antidepressant of the SARI class, a serotonin antagonist and reuptake inhibitor. The drug is used medically to treat depressive and anxiety disorders and symptoms. It is reported to have anxiolytic and hypnotic effects."
+  }
+ }
+}

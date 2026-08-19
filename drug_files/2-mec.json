@@ -1,0 +1,45 @@
+{
+ "2-mec": {
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "50-100mg",
+    "Light": "25-50mg",
+    "Strong": "100-250mg+"
+   },
+   "Oral": {
+    "Common": "100-200mg",
+    "Light": "50-100mg",
+    "Strong": "200-350mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-4",
+   "Oral": "3-5"
+  },
+  "name": "2-mec",
+  "pretty_name": "2-MEC",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Light: 50-100mg Common: 100-200mg Strong: 200-350mg+ | Insufflated Light: 25-50mg Common: 50-100mg Strong: 100-250mg+",
+   "duration": "Oral: 3-5 hours. | Insufflated: 2-4 hours.",
+   "summary": "Cathinone which some users report to feel like a weaker MDMA with a shorter onset."
+  }
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "gabapentin": {
+  "aliases": [
+   "neurontin"
+  ],
+  "categories": [
+   "depressant",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "600-900mg",
+    "Light": "300-600mg",
+    "Strong": "1200mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-12"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-90"
+  },
+  "name": "gabapentin",
+  "pretty_name": "Gabapentin",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "neurontin"
+   ],
+   "categories": [
+    "depressant",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Oral Light: 300-600mg Common: 600-900mg Strong: 1200mg+",
+   "duration": "5-12 hours.",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "30-90 minutes",
+   "summary": "An analogue of GABA also known as Neurontin, the drug was originally developed to treat epilepsy. It is commonly prescribed for neuropathic pain. The drug has pronounced anxiolytic effects and is occasionally used to help treat anxiety disorders."
+  },
+  "pweffects": {
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Emotion suppression": "https://psychonautwiki.org/wiki/Emotion_suppression",
+   "Muscle relaxation": "https://psychonautwiki.org/wiki/Muscle_relaxation",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Seizure suppression": "https://psychonautwiki.org/wiki/Seizure_suppression",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration"
+  }
+ }
+}

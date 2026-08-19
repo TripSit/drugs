@@ -1,0 +1,36 @@
+{
+ "naproxen": {
+  "categories": [
+   "common"
+  ],
+  "dose_note": " Note: The maximum recommended daily dose is 1500mg.",
+  "formatted_dose": {
+   "Oral": {
+    "Common": "250-500mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_onset": {
+   "_unit": "hours",
+   "value": "1"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Naproxen.shtml"
+  },
+  "name": "naproxen",
+  "pretty_name": "Naproxen",
+  "properties": {
+   "avoid": "Alcohol",
+   "categories": [
+    "common"
+   ],
+   "dose": "Common: 250-500mg | Note: The maximum recommended daily dose is 1500mg.",
+   "duration": "4-6 hours. ER forumulations up to 12 hours.",
+   "onset": "1 hour.",
+   "summary": "A very common pain and fever reducer. It is also known as Aleve. Naproxen is in the same drug category as ibuprofen, which is also a nonsteroidal anti-inflammatory. This drug is available in most places over the counter. Is sometimes used to reduce the body-load of certain drugs."
+  }
+ }
+}

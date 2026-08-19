@@ -1,0 +1,71 @@
+{
+ "noopept": {
+  "categories": [
+   "research-chemical",
+   "nootropic"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "5-10mg",
+    "Light": "2-5mg",
+    "Strong": "10mg+"
+   },
+   "Oral": {
+    "Common": "10mg",
+    "Light": "5mg",
+    "Strong": "10-20mg+"
+   },
+   "Sublingual": {
+    "Common": "5-10mg",
+    "Light": "2-5mg",
+    "Strong": "10mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "0-5",
+   "Oral": "15-30",
+   "Sublingual": "5-10"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Noopept_.shtml"
+  },
+  "name": "noopept",
+  "pretty_name": "Noopept",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "avoid": "Due to noopept modulating AMPA and NMDA receptors, dissociative drugs such as ketamine will have diminished effects. The drug is reported to have unpredictable potentiating effects on drugs such as alcohol, cannabis, psychedelics, and stimulants. Caution is advised when mixing.",
+   "categories": [
+    "research-chemical",
+    "nootropic"
+   ],
+   "dose": "Oral Light: 5mg Common: 10mg Strong: 10-20mg+ | Sublingual/Insufflated Light: 2-5mg Common: 5-10mg Strong: 10mg+",
+   "duration": "3-6 hours",
+   "onset": "Oral: 15-30 minutes | Sublingual: 5-10 minutes | Intranasal: 0-5 minutes.",
+   "summary": "A common nootropic often attributed with temporarily increasing intelligence, concentration, focus, and memory recall. Daily use is reported to create dependency with withdrawls reportedly causing negative cognitive effects and ability. The nootropic is often taken in combinations or 'stacks' with other nootropics."
+  },
+  "pweffects": {
+   "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Colour enhancement": "https://psychonautwiki.org/wiki/Colour_enhancement",
+   "Focus enhancement": "https://psychonautwiki.org/wiki/Focus_enhancement",
+   "Irritability": "https://psychonautwiki.org/wiki/Irritability",
+   "Memory enhancement": "https://psychonautwiki.org/wiki/Memory_enhancement",
+   "Motivation enhancement": "https://psychonautwiki.org/wiki/Motivation_enhancement",
+   "Rejuvenation": "https://psychonautwiki.org/wiki/Rejuvenation",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Stimulation": "https://psychonautwiki.org/wiki/Stimulation",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Thought connectivity": "https://psychonautwiki.org/wiki/Thought_connectivity",
+   "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+  }
+ }
+}

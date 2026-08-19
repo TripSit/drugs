@@ -1,0 +1,42 @@
+{
+ "cyclo-methiodrone": {
+  "categories": [
+   "empathogen",
+   "stimulant",
+   "habit-forming",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "45-65mg",
+    "Heavy": "90+mg.",
+    "Light": "30-45mg",
+    "Strong": "65-90mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-5"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "25-45"
+  },
+  "name": "cyclo-methiodrone",
+  "pretty_name": "Cyclo-Methiodrone",
+  "properties": {
+   "categories": [
+    "empathogen",
+    "stimulant",
+    "habit-forming",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Oral Light: 30-45mg Common: 45-65mg Strong: 65-90mg Heavy: 90+mg.",
+   "duration": "3-5 hours",
+   "onset": "25-45 minutes",
+   "summary": "Empathogen with strong stimulant effects, very loosely related to benzylpiperidine."
+  }
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "pagoclone": {
+  "categories": [
+   "depressant",
+   "habit-forming",
+   "tentative",
+   "research-chemical"
+  ],
+  "name": "pagoclone",
+  "pretty_name": "Pagoclone",
+  "properties": {
+   "categories": [
+    "depressant",
+    "habit-forming",
+    "tentative",
+    "research-chemical"
+   ],
+   "summary": "An anxiolytic drug related to zopiclone with reportedly no sedative or hypnotic qualities. The drug has been investigated as a possible alcohol replacement. Related in structure and effect to zopiclone and zolpidem."
+  }
+ }
+}

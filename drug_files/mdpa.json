@@ -1,0 +1,46 @@
+{
+ "mdpa": {
+  "aliases": [
+   "methylenedioxyphenylacetamide"
+  ],
+  "categories": [
+   "empathogen",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "125-175mg",
+    "Heavy": "250+mg.",
+    "Light": "75-125mg",
+    "Strong": "175-250mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "name": "mdpa",
+  "pretty_name": "MDPA",
+  "properties": {
+   "aliases": [
+    "methylenedioxyphenylacetamide"
+   ],
+   "categories": [
+    "empathogen",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Light: 75-125mg Common: 125-175mg Strong: 175-250mg Heavy: 250+mg.",
+   "duration": "2-4 hours",
+   "onset": "15-45 minutes.",
+   "summary": "An obscure substituted methylenedioxyphenethylamine with little history of human use. The drugs pharmacological profile is largely unknown, it is suspected to exhibit similar properties to other MDxx compounds. The drug may be a monoamine releaser and or a reuptake inhibitor."
+  }
+ }
+}

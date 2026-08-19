@@ -1,0 +1,50 @@
+{
+ "truffles": {
+  "categories": [
+   "psychedelic"
+  ],
+  "dose_note": " NOTE: Dry truffles are reported to be several times more potent than the dosages listed for wet.",
+  "formatted_dose": {
+   "Dry": {
+    "Common": "1.5-4g",
+    "Heavy": "4g+",
+    "Light": "0.5-1.5g"
+   },
+   "Wet": {
+    "Common": "10g",
+    "Heavy": "15g+",
+    "Light": "5g"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_effects": [
+   "visual distortion",
+   "color enhancement",
+   "sense of conection with nature",
+   "sense of well being",
+   "sense of wonder",
+   "closed eye visuals",
+   "tactile enhancement"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-60"
+  },
+  "name": "truffles",
+  "pretty_name": "Truffles",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "categories": [
+    "psychedelic"
+   ],
+   "dose": "Wet Light: 5g, Common: 10g, Heavy: 15g+ | Dry Light: 0.5-1.5g Common: 1.5-4g Heavy: 4g+",
+   "duration": "3-6 hours",
+   "effects": "visual distortion, color enhancement, sense of conection with nature, sense of well being, sense of wonder, closed eye visuals, tactile enhancement",
+   "onset": "30-60 minutes",
+   "summary": "Truffles (magic truffles, sclerotium) are the thickened root sections of psilocybin mushrooms. Like psilocybin mushrooms, truffles contain the psychoactive chemicals psilocybin and psilocin."
+  }
+ }
+}

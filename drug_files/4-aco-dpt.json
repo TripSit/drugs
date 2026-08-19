@@ -1,0 +1,46 @@
+{
+ "4-aco-dpt": {
+  "aliases": [
+   "4acodpt"
+  ],
+  "categories": [
+   "psychedelic",
+   "tentative",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-8"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "15-25mg",
+    "Light": "10-15mg",
+    "Strong": "25-35mg+"
+   }
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-10"
+  },
+  "name": "4-aco-dpt",
+  "pretty_name": "4-AcO-DPT",
+  "properties": {
+   "after-effects": "2-8 hours.",
+   "aliases": [
+    "4acodpt"
+   ],
+   "avoid": "This tryptamine may work differently than other tryptamines. Caution is recommended for all mixes with it.",
+   "categories": [
+    "psychedelic",
+    "tentative",
+    "research-chemical"
+   ],
+   "dose": "Insufflated Light: 10-15mg Common: 15-25mg Strong: 25-35mg+",
+   "duration": "Insufflated 60-120 minutes.",
+   "note": "It seems that everyone is in favour of taking this substance intranasally, due to a quite poor oral BA.",
+   "onset": "Insufflated: 5-10 minutes.",
+   "summary": "Research chemical of tryptamine class. First noted being sold in 2012. There are conflicting reports on it's effects. The drug does not dissolve well in all solutions it was tested."
+  }
+ }
+}

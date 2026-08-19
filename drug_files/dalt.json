@@ -1,0 +1,68 @@
+{
+ "dalt": {
+  "aliases": [
+   "n,n-diallyltryptamine",
+   "diallyltryptamine"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "40-60mg",
+    "Light": "20-40mg",
+    "Strong": "60mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "name": "dalt",
+  "pretty_name": "DALT",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "aliases": [
+    "n,n-diallyltryptamine",
+    "diallyltryptamine"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "duration": "3-6 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "15-45 minutes.",
+   "summary": "Psychedelic drug of the tryptamine class."
+  }
+ }
+}

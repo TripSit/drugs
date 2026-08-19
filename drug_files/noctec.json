@@ -1,0 +1,51 @@
+{
+ "noctec": {
+  "aliases": [
+   "chloral-hydrate",
+   "aquachloral",
+   "somnos"
+  ],
+  "categories": [
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "200-500mg",
+    "Light": "200mg",
+    "Strong": "500-1000mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-10"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-60"
+  },
+  "name": "noctec",
+  "pretty_name": "Chloral hydrate",
+  "properties": {
+   "after-effects": "2-6 hours.",
+   "aliases": [
+    "chloral-hydrate",
+    "aquachloral",
+    "somnos"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Light: 200mg's Common: 200-500mg's Strong: 500-1000mg's.",
+   "duration": "5-10 hours",
+   "onset": "20-60 minutes.",
+   "summary": "Chloral Hydrate, a sedative drug discovered in 1832 with a history of recreational use going back to the 19th century. The drug is prescribed rarely for extreme insomnia. There is limited information on the drug's long-term effects on the body. The drug is reported to induce a intoxication comparable to alcohol or benzodiazepines."
+  }
+ }
+}

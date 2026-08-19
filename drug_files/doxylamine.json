@@ -1,0 +1,42 @@
+{
+ "doxylamine": {
+  "categories": [
+   "depressant",
+   "deliriant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "200-350mg",
+    "Heavy": "350mg+",
+    "Light": "75-200mg",
+    "Threshold": "10mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-8"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-30"
+  },
+  "name": "doxylamine",
+  "pretty_name": "Doxylamine",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "categories": [
+    "depressant",
+    "deliriant"
+   ],
+   "dose": "Threshold: 10mg Light: 75-200mg Common: 200-350mg Heavy: 350mg+",
+   "duration": "6-8 hours",
+   "onset": "20-30 minutes",
+   "summary": "A first generation antihistamine and anticholinergic, originally used to treat nausea and itching, and later as a sleep aid. Causes drowsiness, and delirium in overdose. Sometimes used with opioids to combat nausea and potentiate effects.",
+   "warning": "As with other first generation antihistamines, if you take too much you could have a deliriant like experience."
+  }
+ }
+}

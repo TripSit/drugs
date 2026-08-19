@@ -1,0 +1,60 @@
+{
+ "apap": {
+  "aliases": [
+   "acetaminophen",
+   "paracetamol",
+   "tylenol"
+  ],
+  "categories": [
+   "common"
+  ],
+  "dose_note": " NOTE: Maximum daily dose is 4g",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-2"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "200-500mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "60-60"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Acetaminophen.shtml"
+  },
+  "name": "apap",
+  "pretty_name": "Paracetamol",
+  "properties": {
+   "after-effects": "1-2 hours.",
+   "aliases": [
+    "acetaminophen",
+    "paracetamol",
+    "tylenol"
+   ],
+   "bioavailability": "Oral: 70-90% | Rectal: 30-70%",
+   "categories": [
+    "common"
+   ],
+   "dose": "Pain-relief Common: 200-400mg | Fever Common: 300-500mg | NOTE: Maximum daily dose is 4g",
+   "duration": "4-6 hours",
+   "onset": "60-60 minutes",
+   "summary": "A common over the counter fever reducer and painkiller. It is mixed with many common opioids. May cause liver damage and failure in higher doses. The drug is reported to not have recreational value."
+  },
+  "sources": {
+   "_general": [],
+   "dose": [
+    "http://ceaccp.oxfordjournals.org/content/early/2013/10/10/bjaceaccp.mkt049.full"
+   ],
+   "duration": [
+    "http://ceaccp.oxfordjournals.org/content/early/2013/10/10/bjaceaccp.mkt049.full"
+   ]
+  }
+ }
+}

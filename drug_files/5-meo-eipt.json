@@ -1,0 +1,77 @@
+{
+ "5-meo-eipt": {
+  "aliases": [
+   "5meoeipt"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "dose_note": " NOTE: These doses are tentative and it is recommended to do further research.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "7-15mg",
+    "Light": "3-7mg",
+    "Strong": "15-20mg+",
+    "Threshold": "1-3mg"
+   },
+   "Oral": {
+    "Common": "10-20mg",
+    "Light": "5-10mg",
+    "Strong": "20-25mg+",
+    "Threshold": "2-5mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "3-6",
+   "Oral": "5-10"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "1-10",
+   "Oral": "15-45"
+  },
+  "name": "5-meo-eipt",
+  "pretty_name": "5-MeO-EiPT",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "5meoeipt"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Oral Threshold: 2-5mg Light: 5-10mg Common: 10-20mg Strong: 20-25mg+ | Insufflated Threshold: 1-3mg Light: 3-7mg Common: 7-15mg Strong: 15-20mg+",
+   "duration": "Oral: 5-10 hours. | Insufflated: 3-6 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "Oral: 15-45 minutes. | Insufflated: 1-10 minutes.",
+   "summary": "Little is known about this compound. It is a tryptamine and analogue of EiPT, and is also related to DiPT and DET. Probably a psychedelic. There are few reports of it's effects."
+  }
+ }
+}

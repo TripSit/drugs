@@ -1,0 +1,48 @@
+{
+ "cinolazepam": {
+  "aliases": [
+   "geroderm"
+  ],
+  "categories": [
+   "depressant",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "12-20"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "30-60mg",
+    "Light": "10-30mg",
+    "Strong": "60-120mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-12"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-90"
+  },
+  "name": "cinolazepam",
+  "pretty_name": "Cinolazepam",
+  "properties": {
+   "after-effects": "12-20 hours",
+   "aliases": [
+    "geroderm"
+   ],
+   "avoid": "Caution: Do not mix with any CNS depressants. The combination can prove to be fatal and also increases likelihood of blacking out.",
+   "bioavailability": "Oral 90-100%",
+   "categories": [
+    "depressant",
+    "habit-forming"
+   ],
+   "dose": "Light: 10-30mg Common: 30-60mg Strong: 60-120mg+",
+   "duration": "8-12 hours",
+   "onset": "30-90 minutes.",
+   "summary": "A benzodiazepine derivative drug with anxiolytic effects but mainly hypnotic effects. It is extremely effective as a sleep aid but has mild euphoria compared to other benzodiazepines."
+  }
+ }
+}

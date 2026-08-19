@@ -1,0 +1,72 @@
+{
+ "2c-b-fly": {
+  "aliases": [
+   "2cb-fly",
+   "2cbfly"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-18mg",
+    "Heavy": "25mg+",
+    "Light": "5-10mg",
+    "Strong": "18-25mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-12"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "30-90"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_2CBFly.shtml"
+  },
+  "name": "2c-b-fly",
+  "pretty_name": "2C-B-FLY",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "aliases": [
+    "2cb-fly",
+    "2cbfly"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical"
+   ],
+   "dose": "Oral Light: 5-10mg Common: 10-18mg Strong: 18-25mg Heavy: 25mg+",
+   "duration": "6-12 hours",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "30-90 minutes.",
+   "summary": "Psychedelic phenethylamine that is the dihydrodifuran analog of 2C-B.",
+   "test-kits": "Marquis: Yellow > Brown Green. | Mecke: Yellow > Brown Green. | Mandelin: Brown."
+  }
+ }
+}

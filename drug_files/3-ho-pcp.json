@@ -1,0 +1,50 @@
+{
+ "3-ho-pcp": {
+  "aliases": [
+   "3hopcp"
+  ],
+  "categories": [
+   "dissociative",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "4-5mg",
+    "Light": "2-4mg",
+    "Strong": "5mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-4"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-40"
+  },
+  "name": "3-ho-pcp",
+  "pretty_name": "3-HO-PCP",
+  "properties": {
+   "after-effects": "2 hours to a month.",
+   "aliases": [
+    "3hopcp"
+   ],
+   "categories": [
+    "dissociative",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Threshold: ~2mg Light: 2-4mg Common: 4-5mg Strong: 5+mg",
+   "duration": "3-4 hours",
+   "onset": "20-40 minutes",
+   "summary": "An arylcyclohexamine dissociative analogue of PCP, this drug is relatively uncommon, and little information is available. It is reported to not only have dissociative activity but also opioid activity. Some trip reports suggest very negative side-effects including intense muscle tension."
+  }
+ }
+}

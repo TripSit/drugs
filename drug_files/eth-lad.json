@@ -1,0 +1,51 @@
+{
+ "eth-lad": {
+  "aliases": [
+   "ethlad"
+  ],
+  "categories": [
+   "research-chemical",
+   "psychedelic"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "60-100ug",
+    "Light": "30-60ug",
+    "Strong": "100-200ug+",
+    "Threshold": "20-30ug"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-14"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-90"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_ETHLAD.shtml",
+   "tihkal": "https://www.erowid.org/library/books_online/tihkal/tihkal12.shtml"
+  },
+  "name": "eth-lad",
+  "pretty_name": "ETH-LAD",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "ethlad"
+   ],
+   "categories": [
+    "research-chemical",
+    "psychedelic"
+   ],
+   "dose": "Oral Threshold: 20-30ug Light: 30-60ug Common: 60-100ug Strong: 100-200ug+",
+   "duration": "6-14 hours",
+   "onset": "15-90 minutes",
+   "summary": "A psychedelic drug and slightly more potent analogue of LSD. First synthesised by Alexander Shulgin, the drug is sometimes described as being less 'abrasive' than LSD. Less common than the associated AL-LAD, though has seen some popularity since its release on the internet research chemical scene in 2015."
+  }
+ }
+}

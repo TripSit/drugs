@@ -1,0 +1,24 @@
+{
+ "4-ho-mcpt": {
+  "categories": [
+   "psychedelic",
+   "tentative",
+   "research-chemical"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-40"
+  },
+  "name": "4-ho-mcpt",
+  "pretty_name": "4-HO-MCPT",
+  "properties": {
+   "categories": [
+    "psychedelic",
+    "tentative",
+    "research-chemical"
+   ],
+   "onset": "20-40 minutes.",
+   "summary": "Novel synthetic tryptamine that is the cyclopropyl homologue of Psilocin. There is limited information on this drug."
+  }
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "mexedrone": {
+  "aliases": [
+   "4-mmeoc"
+  ],
+  "categories": [
+   "empathogen",
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Insufflated": "1-4",
+   "Oral": "2-6"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "80-120mg",
+    "Light": "50-80mg",
+    "Strong": "120-200mg+"
+   },
+   "Oral": {
+    "Common": "150-200mg",
+    "Light": "75-150mg",
+    "Strong": "200-300mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "1-3"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "3-10",
+   "Oral": "30-60"
+  },
+  "name": "mexedrone",
+  "pretty_name": "Mexedrone",
+  "properties": {
+   "after-effects": "Oral: 2-6 | Insufflated: 1-4 hours.",
+   "aliases": [
+    "4-mmeoc"
+   ],
+   "categories": [
+    "empathogen",
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Light: 75-150mg Common: 150-200 Strong: 200-300mg+ | Insufflated Light: 50-80mg Common: 80-120mg Strong: 120-200mg+",
+   "duration": "1-3 hours.",
+   "onset": "Oral: 30-60 minutes. | Insufflated: 3-10 minutes.",
+   "summary": "Mexedrone is a stimulant drug of the cathinone class. It alters the reuptake of serotonin, dopamine, and norepinephrine to cause euphoria,  and is reported to have similar effects to mephedrone. It is often called a designer drug.",
+   "warning": "Caution: There is limited information on the drug, caution is highly recommended.."
+  },
+  "pweffects": {
+   "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+   "Cognitive euphoria": "https://psychonautwiki.org/wiki/Cognitive_euphoria",
+   "Dehydration": "https://psychonautwiki.org/wiki/Dehydration",
+   "Increased perspiration": "https://psychonautwiki.org/wiki/Increased_perspiration",
+   "Physical euphoria": "https://psychonautwiki.org/wiki/Physical_euphoria",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Tactile enhancement": "https://psychonautwiki.org/wiki/Tactile_enhancement",
+   "Teeth grinding": "https://psychonautwiki.org/wiki/Teeth_grinding",
+   "Temperature regulation suppression": "https://psychonautwiki.org/wiki/Temperature_regulation_suppression",
+   "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
+   "Thought connectivity": "https://psychonautwiki.org/wiki/Thought_connectivity",
+   "Vibrating vision": "https://psychonautwiki.org/wiki/Vibrating_vision"
+  }
+ }
+}

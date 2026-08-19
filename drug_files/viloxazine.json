@@ -1,0 +1,35 @@
+{
+ "viloxazine": {
+  "categories": [
+   "stimulant",
+   "tentative"
+  ],
+  "formatted_dose": {
+   "Oral": {
+    "Common": "75-150mg",
+    "Light": "50-75mg",
+    "Strong": "150mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-30"
+  },
+  "name": "viloxazine",
+  "pretty_name": "Viloxazine",
+  "properties": {
+   "categories": [
+    "stimulant",
+    "tentative"
+   ],
+   "dose": "Light: 50-75mg Common: 75-150mg Strong: 150mg+",
+   "duration": "3-6 hours.",
+   "onset": "15-30 minutes.",
+   "summary": "NRI that was used as an antidepressant in some European countries, and now is used in the United States for ADHD. The drug has a pronouced stimulant effect similar to amphetamines without any reported signs of dependence."
+  }
+ }
+}

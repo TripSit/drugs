@@ -1,0 +1,116 @@
+{
+ "4-aco-dmt": {
+  "aliases": [
+   "4acodmt",
+   "psilacetin",
+   "4-aco",
+   "4-acetoxy-dmt"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-25mg",
+    "Heavy": "25-40mg",
+    "Light": "5-10mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_effects": [
+   "4-aco-dmt is a psilocin analog",
+   "so effects are very similar to mushrooms",
+   "Some users report very little difference between 4-aco-dmt and psilocybin mushrooms"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-90"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_4AcODMT.shtml"
+  },
+  "name": "4-aco-dmt",
+  "pretty_name": "4-AcO-DMT",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "4acodmt",
+    "psilacetin",
+    "4-aco",
+    "4-acetoxy-dmt"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "common"
+   ],
+   "comeup": "Slow comeup, some users report it taking nearly 2 hours until first effects are felt.",
+   "dose": "Oral Light: 5-10mg Common: 10-25mg Heavy: 25-40mg",
+   "duration": "4-8 hours.",
+   "effects": "4-aco-dmt is a psilocin analog, so effects are very similar to Psilocybin mushrooms. Some users report very little difference between 4-aco-dmt and Psilocybin mushrooms.",
+   "onset": "20-90 minutes. (dependant on form and stomach contents)",
+   "summary": "A prodrug for Psilocin with extremely similar effects as Psilocybin Mushrooms."
+  },
+  "pweffects": {
+   "8B Geometry - Exposure to inner mechanics of consciousness": "https://psychonautwiki.org/wiki/8B_Geometry_-_Exposure_to_inner_mechanics_of_consciousness",
+   "Acuity enhancement": "https://psychonautwiki.org/wiki/Acuity_enhancement",
+   "After images": "https://psychonautwiki.org/wiki/After_images",
+   "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
+   "Auditory distortion": "https://psychonautwiki.org/wiki/Auditory_distortion",
+   "Auditory enhancement": "https://psychonautwiki.org/wiki/Auditory_enhancement",
+   "Auditory hallucinations": "https://psychonautwiki.org/wiki/Auditory_hallucinations",
+   "Autonomous entities": "https://psychonautwiki.org/wiki/Autonomous_entities",
+   "Colour enhancement": "https://psychonautwiki.org/wiki/Colour_enhancement",
+   "Colour shifting": "https://psychonautwiki.org/wiki/Colour_shifting",
+   "Conceptual thinking": "https://psychonautwiki.org/wiki/Conceptual_thinking",
+   "Creativity enhancement": "https://psychonautwiki.org/wiki/Creativity_enhancement",
+   "D\u00e9j\u00e0 vu": "https://psychonautwiki.org/wiki/D%C3%A9j%C3%A0_vu",
+   "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+   "Drifting": "https://psychonautwiki.org/wiki/Drifting",
+   "Emotion enhancement": "https://psychonautwiki.org/wiki/Emotion_enhancement",
+   "Enhancement and suppression cycles": "https://psychonautwiki.org/wiki/Enhancement_and_suppression_cycles",
+   "Excessive yawning": "https://psychonautwiki.org/wiki/Excessive_yawning",
+   "Exposure to inner mechanics of consciousness": "https://psychonautwiki.org/wiki/Exposure_to_inner_mechanics_of_consciousness",
+   "External hallucinations": "https://psychonautwiki.org/wiki/External_hallucinations",
+   "Feelings of impending doom": "https://psychonautwiki.org/wiki/Feelings_of_impending_doom",
+   "Feelings of interdependent opposites": "https://psychonautwiki.org/wiki/Feelings_of_interdependent_opposites",
+   "Feelings of predeterminism": "https://psychonautwiki.org/wiki/Feelings_of_predeterminism",
+   "Feelings of self-design": "https://psychonautwiki.org/wiki/Feelings_of_self-design",
+   "Geometry": "https://psychonautwiki.org/wiki/Geometry",
+   "Immersion enhancement": "https://psychonautwiki.org/wiki/Immersion_enhancement",
+   "Internal hallucinations": "https://psychonautwiki.org/wiki/Internal_hallucinations",
+   "Machinescapes": "https://psychonautwiki.org/wiki/Machinescapes",
+   "Memory suppression": "https://psychonautwiki.org/wiki/Memory_suppression",
+   "Mindfulness": "https://psychonautwiki.org/wiki/Mindfulness",
+   "Novelty enhancement": "https://psychonautwiki.org/wiki/Novelty_enhancement",
+   "Pattern recognition enhancement": "https://psychonautwiki.org/wiki/Pattern_recognition_enhancement",
+   "Personal bias suppression": "https://psychonautwiki.org/wiki/Personal_bias_suppression",
+   "Personal meaning enhancement": "https://psychonautwiki.org/wiki/Personal_meaning_enhancement",
+   "Perspective alterations": "https://psychonautwiki.org/wiki/Perspective_alterations",
+   "Pupil dilation": "https://psychonautwiki.org/wiki/Pupil_dilation",
+   "Rejuvenation": "https://psychonautwiki.org/wiki/Rejuvenation",
+   "Runny nose": "https://psychonautwiki.org/wiki/Runny_nose",
+   "Salivation": "https://psychonautwiki.org/wiki/Salivation",
+   "Scenarios and plots": "https://psychonautwiki.org/wiki/Scenarios_and_plots",
+   "Scenery slicing": "https://psychonautwiki.org/wiki/Scenery_slicing",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Settings, sceneries, and landscapes": "https://psychonautwiki.org/wiki/Settings,_sceneries,_and_landscapes",
+   "Spirituality enhancement": "https://psychonautwiki.org/wiki/Spirituality_enhancement",
+   "Spontaneous tactile sensations": "https://psychonautwiki.org/wiki/Spontaneous_tactile_sensations",
+   "Subconscious communication": "https://psychonautwiki.org/wiki/Subconscious_communication",
+   "Symmetrical texture repetition": "https://psychonautwiki.org/wiki/Symmetrical_texture_repetition",
+   "Synaesthesia": "https://psychonautwiki.org/wiki/Synaesthesia",
+   "Teeth grinding": "https://psychonautwiki.org/wiki/Teeth_grinding",
+   "Temperature regulation suppression": "https://psychonautwiki.org/wiki/Temperature_regulation_suppression"
+  }
+ }
+}

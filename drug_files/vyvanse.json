@@ -1,0 +1,82 @@
+{
+ "vyvanse": {
+  "aliases": [
+   "lisdextroamfetamine",
+   "lisdextroamphetamine",
+   "lisdexamphetamine",
+   "lisdexamfetamine"
+  ],
+  "categories": [
+   "stimulant",
+   "habit-forming",
+   "common"
+  ],
+  "dose_note": " Note: ",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "Oral": "1-16"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "30-50mg",
+    "Light": "20-30mg",
+    "Strong": "50-100mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "6-14"
+  },
+  "formatted_effects": [
+   "Increased alertness",
+   "Euphoria",
+   "Increased motivation",
+   "Reduced appetite",
+   "Flushing of the face",
+   "Increased body temperature",
+   "Tachycardia (increased heart rate)",
+   "Paranoia",
+   "Insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Oral": "60-90"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_Lisdexamfetamine.shtml"
+  },
+  "name": "vyvanse",
+  "pretty_name": "Vyvanse",
+  "properties": {
+   "after-effects": "Oral: 1-16 hours. | Note: After-effects are highly dependant on dose.",
+   "aliases": [
+    "lisdextroamfetamine",
+    "lisdextroamphetamine",
+    "lisdexamphetamine",
+    "lisdexamfetamine"
+   ],
+   "categories": [
+    "stimulant",
+    "habit-forming",
+    "common"
+   ],
+   "dose": "Oral Light: 20-30mg Common: 30-50mg Strong: 50-100mg+ | Note: ",
+   "duration": "Oral: 6-14 hours. | NOTE: Dependant on dose and tolerance.",
+   "effects": "Increased alertness, Euphoria, Increased motivation, Reduced appetite, Flushing of the face, Increased body temperature, Tachycardia (increased heart rate), Paranoia, Insomnia.",
+   "onset": "Oral: 60-90 minutes | NOTE: Onset is reported to be delayed by one additional hour when taken with a meal high in fat.",
+   "summary": "Also known as lisdexamphetamine, the drug is a CNS stimulant often prescribed for ADHD, narcolepsy, and obesity. It is a pro-drug for dextroamphetamine, and functions as a method for providing extended-release stimulation. The drug is sometimes medically prescribed alongside an SSRI for depression."
+  },
+  "sources": {
+   "_general": [
+    "Use of naltrexone has been found to successfully aid in recovery from amphetamine addiction - http://ajp.psychiatryonline.org/doi/abs/10.1176/appi.ajp.2008.08020304",
+    "Vyvanse is approved for and proven to be affective for the treatment of binge-eating disorder in adults - http://onlinelibrary.wiley.com/doi/10.1111/ijcp.12639/full",
+    "Vyvanse has been proven to be effectivein treating attention deficits in patients with traumatic brain injuries - http://www.tandfonline.com/doi/abs/10.3109/02699052.2014.930179",
+    "For serotonin syndrome secondary to vyvanse overdose, dexmedetomidine may be used for treatment when standard treatment protocols do not work - http://aop.sagepub.com/content/48/12/1651.abstract",
+    "Vyvanse when used intravenously was proven to not have increased abuse liability, which implies that it does not have increased euphoria - http://jop.sagepub.com/content/early/2008/07/17/0269881108093841.short"
+   ],
+   "onset": [
+    "the drug is reported to be delayed by one additional hour when taken with a high fat meal - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2873712/"
+   ]
+  }
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "clonazepam": {
+  "aliases": [
+   "klonopin",
+   "kpin"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant",
+   "common"
+  ],
+  "dose_note": " NOTE: 0.5mg of Clonazepam is approximately equal to 10mg Diazepam.",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "8-48"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "0.5-1mg",
+    "Light": "0.25-0.5mg",
+    "Strong": "1-2mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-12"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-45"
+  },
+  "name": "clonazepam",
+  "pretty_name": "Clonazepam",
+  "properties": {
+   "after-effects": "8-48 hours.",
+   "aliases": [
+    "klonopin",
+    "kpin"
+   ],
+   "avoid": "All other CNS depressants",
+   "bioavailability": "Oral 90%",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant",
+    "common"
+   ],
+   "dose": "Oral Light: 0.25-0.5mg Common: 0.5-1mg Strong: 1-2mg+ | NOTE: 0.5mg of Clonazepam is approximately equal to 10mg Diazepam.",
+   "dose_to_diazepam": "Clonazepam - 0.5mg ~=10mg Diazepam.",
+   "duration": "8-12 hours.",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "20-45 minutes",
+   "summary": "A medium-length common prescription benzodiazepine, often used to treat panic attacks because of its relatively fast sublingual onset. Primarily anxiolytic, but also possessing of other benzodiazepine traits."
+  },
+  "pweffects": {
+   "Amnesia": "https://psychonautwiki.org/wiki/Amnesia",
+   "Analysis suppression": "https://psychonautwiki.org/wiki/Analysis_suppression",
+   "Anxiety suppression": "https://psychonautwiki.org/wiki/Anxiety_suppression",
+   "Compulsive redosing": "https://psychonautwiki.org/wiki/Compulsive_redosing",
+   "Delusions": "https://psychonautwiki.org/wiki/Delusions",
+   "Disinhibition": "https://psychonautwiki.org/wiki/Disinhibition",
+   "Dizziness": "https://psychonautwiki.org/wiki/Dizziness",
+   "Emotion suppression": "https://psychonautwiki.org/wiki/Emotion_suppression",
+   "Information processing suppression": "https://psychonautwiki.org/wiki/Information_processing_suppression",
+   "Motor control loss": "https://psychonautwiki.org/wiki/Motor_control_loss",
+   "Muscle relaxation": "https://psychonautwiki.org/wiki/Muscle_relaxation",
+   "Respiratory depression": "https://psychonautwiki.org/wiki/Respiratory_depression",
+   "Sedation": "https://psychonautwiki.org/wiki/Sedation",
+   "Seizure suppression": "https://psychonautwiki.org/wiki/Seizure_suppression",
+   "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration"
+  },
+  "sources": {
+   "_general": [
+    "Mechanism of action of clonazepam in myoclonus in relation to effects on GABA and 5-HT. - https://www.ncbi.nlm.nih.gov/pubmed/2418652",
+    "Central effects in man of the novel schistosomicidal benzodiazepine meclonazepam. - https://www.ncbi.nlm.nih.gov/pubmed/4054198",
+    "Serum clonazepam concentrations in children with absence seizures. - http://www.ncbi.nlm.nih.gov/pubmed/1089913",
+    "Tapering clonazepam in patients with panic disorder after at least 3 years of treatment. - http://www.ncbi.nlm.nih.gov/pubmed/20473065"
+   ]
+  }
+ }
+}

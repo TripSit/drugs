@@ -1,0 +1,41 @@
+{
+ "nm-2-ai": {
+  "categories": [
+   "stimulant",
+   "empathogen"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-8"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "100-150",
+    "Light": "50-100mg",
+    "Strong": "150mg-200mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-5"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-45"
+  },
+  "name": "nm-2-ai",
+  "pretty_name": "NM-2-AI",
+  "properties": {
+   "after-effects": "1-8 hours.",
+   "categories": [
+    "stimulant",
+    "empathogen"
+   ],
+   "dose": "Oral Light: 50-100mg Common: 100-150 Strong: 150mg-200mg+",
+   "duration": "3-5 hours.",
+   "note": "Many of the anectodal reports for this drug are suspected to have been using NM-2-AI that has been laced (suggested to often be MPA). As such, the drug is recommended to be used with additional caution and caution on advice given by anectodal reports.",
+   "onset": "15-45 minutes.",
+   "summary": "Stimulant that is in the aminoindane class. The drug is structurally similar to it's 'bigger brother' 2-AI. In contrast, it reportedly has a lower potency and longer duration."
+  }
+ }
+}

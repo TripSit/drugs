@@ -1,0 +1,84 @@
+{
+ "mdpv": {
+  "aliases": [
+   "bath_salts"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-48"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "5-11mg",
+    "Light": "2-5mg",
+    "Strong": "10-20mg",
+    "Threshold": "1-3mg"
+   },
+   "Oral": {
+    "Common": "8-15mg",
+    "Light": "4-10mg",
+    "Strong": "12-25mg",
+    "Threshold": "2-6mg"
+   },
+   "Rectal": {
+    "Common": "6-12mg",
+    "Light": "3-8mg",
+    "Strong": "10-25mg",
+    "Threshold": "1-5mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-4",
+   "Oral": "2-7"
+  },
+  "formatted_effects": [
+   "stimulation (mental and physical)",
+   "euphoria",
+   "increased mental clarity",
+   "elevated heart rate",
+   "headache",
+   "confusion",
+   "paranoia",
+   "loss of apetite",
+   "muscle tension"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-20",
+   "Oral": "15-30"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_MDPV.shtml"
+  },
+  "name": "mdpv",
+  "pretty_name": "MDPV",
+  "properties": {
+   "after-effects": "2-48 hours",
+   "aliases": [
+    "bath_salts"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Insufflated Threshold: 1-3mg  Light: 2-5mg  Common: 5-11mg  Strong: 10-20mg | Oral Threshold: 2-6mg  Light: 4-10mg  Common: 8-15mg  Strong: 12-25mg | Rectal Threshold: 1-5mg  Light: 3-8mg  Common: 6-12mg  Strong:  10-25mg",
+   "duration": "Oral: 2-7 hours | Insufflated: 2-4 hours",
+   "effects": "stimulation (mental and physical), euphoria, increased mental clarity, elevated heart rate, headache, confusion, paranoia, loss of apetite, muscle tension",
+   "marquis": "Yellow",
+   "onset": "Oral: 15-30 minutes | Insufflated: 5-20 minutes",
+   "summary": "MDPV is a potent stimulant, that often promotes compulsive behavior and euphoric effects. The drug is reported to share similar empathogenic effects with MDMA. There are an abnormally high amount of psychosis cases associated with MDPV. MDPV has been found in products sold as \"bath salts\", \"plant food/fertilizer\", and in products sold as \"MDMA.\""
+  },
+  "sources": {
+   "_general": [
+    "Effect of synthetic cathinones: mephedrone, butylone and 3,4 methylene-dioxypyrovalerone (MDPV) on social separation induced distress vocalization,.. - http://www.ncbi.nlm.nih.gov/pubmed/25107736"
+   ]
+  }
+ }
+}

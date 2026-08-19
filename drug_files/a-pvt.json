@@ -1,0 +1,46 @@
+{
+ "a-pvt": {
+  "aliases": [
+   "apvt"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Insufflated": "2-4",
+   "Oral": "2-4",
+   "Vapourized": "1-2"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "1-10",
+   "Oral": "10-30",
+   "Vapourized": "1-2"
+  },
+  "name": "a-pvt",
+  "pretty_name": "\u03b1-PVT",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "aliases": [
+    "apvt"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "duration": "Oral 2-4 hours. | Insufflated 2-4 hours. | Vapourized 1-2 hours.",
+   "onset": "Oral 10-30 minutes. | Insufflated 1-10 minutes. | Vapourized 1-2 minutes.",
+   "summary": "A rare stimulant drug related to a-PVP. The drug is very uncommon. The drug is suspected to be less potent than a-PVP, however little data exists on this compound and its effects on humans. Consume with caution."
+  }
+ }
+}

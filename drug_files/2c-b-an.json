@@ -1,0 +1,43 @@
+{
+ "2c-b-an": {
+  "categories": [
+   "psychedelic",
+   "tentative",
+   "research-chemical"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "45-70mg",
+    "Heavy": "100+mg",
+    "Light": "30-45mg",
+    "Strong": "70-100mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "5-9"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "40-75"
+  },
+  "name": "2c-b-an",
+  "pretty_name": "2C-B-AN",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "categories": [
+    "psychedelic",
+    "tentative",
+    "research-chemical"
+   ],
+   "dose": "Oral Light: 30-45mg Common: 45-70mg Strong: 70-100mg Heavy: 100+mg",
+   "duration": "5-9 hours",
+   "onset": "40-75 minutes",
+   "summary": "2C-B-AN is a novel prodrug for 2C-B."
+  }
+ }
+}

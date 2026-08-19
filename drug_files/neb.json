@@ -1,0 +1,56 @@
+{
+ "neb": {
+  "aliases": [
+   "n-ethylbuphedrone"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-6"
+  },
+  "formatted_dose": {
+   "Insufflated": {
+    "Common": "15-30mg",
+    "Light": "10-15mg",
+    "Strong": "30-45mg"
+   },
+   "Oral": {
+    "Common": "50-80mg",
+    "Light": "30-50mg",
+    "Strong": "80-100mg+",
+    "Threshold": "30mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "minutes",
+   "Insufflated": "90-120",
+   "Oral": "90-180"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "Insufflated": "5-10",
+   "Oral": "20-30"
+  },
+  "name": "neb",
+  "pretty_name": "NEB",
+  "properties": {
+   "after-effects": "1-6 hours.",
+   "aliases": [
+    "n-ethylbuphedrone"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming"
+   ],
+   "dose": "Oral Threshold: 30mg Light: 30-50mg Common: 50-80mg Strong: 80-100mg+ | Insufflated Light: 10-15mg Common: 15-30mg Strong: 30-45mg",
+   "duration": "Oral: 90-180 minutes. | Insufflated: 90-120 minutes.",
+   "onset": "Oral: 20-30 minutes | Insufflated: 5-10 minutes.",
+   "summary": "N-Ethylbuphedrone, an uncommon substituted cathinone. The drug was first being reported around 2011 but did not rise reportedly to great popularity. The drug's effects are suggested by anectodal reports to partially resemble other cathinones. The drug is a short-acting stimulant with more dopamine action than serotonin."
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "librium": {
+  "aliases": [
+   "chlordiazepoxide"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant"
+  ],
+  "dose_note": " NOTE: 25mg of Librium is approximately equal to 10mg of Diazepam",
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-14"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "10-20mg",
+    "Heavy": "20-40mg+",
+    "Light": "5-10mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-10"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-40"
+  },
+  "name": "librium",
+  "pretty_name": "Librium",
+  "properties": {
+   "after-effects": "1-14 hours.",
+   "aliases": [
+    "chlordiazepoxide"
+   ],
+   "avoid": "All other CNS depressants",
+   "bioavailability": "Oral 100% | Intramuscular 90-95%",
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Light: 5-10mg Common: 10-20mg Heavy: 20-40mg+ | NOTE: 25mg of Librium is approximately equal to 10mg of Diazepam",
+   "dose_to_diazepam": "25mg ~=10mg Diazepam",
+   "duration": "6-10 hours",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "20-40 minutes",
+   "summary": "Chlordiazepoxide, a medium-acting benzodiazepine drug typically prescribed for sleep purposes. The drug is reported to be sedative and hypnotic. The drug may  lower inhibitions and cause amnesia."
+  },
+  "sources": {
+   "_general": [
+    "Alcohol and benzodiazepines in fatal poisonings. - https://www.ncbi.nlm.nih.gov/pubmed/12170103"
+   ]
+  }
+ }
+}

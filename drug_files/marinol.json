@@ -1,0 +1,56 @@
+{
+ "marinol": {
+  "aliases": [
+   "dronabinol",
+   "syndros",
+   "cesamet",
+   "\u03b49-thc",
+   "\u03b49--tetrahydrocannabinol",
+   "delta9-tetrahydrocannabinol",
+   "delta9-thc"
+  ],
+  "categories": [
+   "depressant",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-4"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "20-30mg",
+    "Light": "10-20mg",
+    "Strong": "30-50mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "Oral": "4-12"
+  },
+  "name": "marinol",
+  "pretty_name": "Marinol",
+  "properties": {
+   "after-effects": "1-4 hours.",
+   "aliases": [
+    "dronabinol",
+    "syndros",
+    "cesamet",
+    "\u03b49-thc",
+    "\u03b49--tetrahydrocannabinol",
+    "delta9-tetrahydrocannabinol",
+    "delta9-thc"
+   ],
+   "categories": [
+    "depressant",
+    "tentative"
+   ],
+   "dose": "Light: 10-20mg Common: 20-30mg Strong: 30-50mg+",
+   "duration": "Oral: 4-12 hours, depending on dose",
+   "half-life": "1.6\u201359 h,[3] 25\u201336 h (orally administered dronabinol)",
+   "onset": "Oral 30-90 minutes, with effects peaking at 2-3 hours",
+   "summary": "Synthetically created \u03949-THC, the main psychoactive ingredient in cannabis.",
+   "warning": "At higher doses, anxiety and panic attacks are common."
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "4-ho-mpmi": {
+  "aliases": [
+   "lucigenol"
+  ],
+  "categories": [
+   "psychedelic",
+   "research-chemical",
+   "tentative"
+  ],
+  "dose_note": " Note: As of writing this note, this substance has not been reported on dosages past 2mg. Caution should be given when dosing. The drug is near eqipotent to DOI.",
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1-2mg.",
+    "Light": "750ug-1mg",
+    "Threshold": "500-750ug."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "6-8"
+  },
+  "formatted_effects": [
+   "Euphoria",
+   "empathy",
+   "insight",
+   "brightened colour",
+   "Closed/Open eye visuals",
+   "enhanced tactile sensation",
+   "mental/physical stimulation",
+   "decreased appetite",
+   "pupil dilation",
+   "restlessness",
+   "change in perception",
+   "ego softening",
+   "sweating/chills",
+   "muscle tension",
+   "confusion",
+   "insomnia"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-60"
+  },
+  "name": "4-ho-mpmi",
+  "pretty_name": "4-HO-MPMI",
+  "properties": {
+   "aliases": [
+    "lucigenol"
+   ],
+   "categories": [
+    "psychedelic",
+    "research-chemical",
+    "tentative"
+   ],
+   "dose": "Oral Threshold: 500-750ug. Light: 750ug-1mg Common: 1-2mg. | Note, this substance has never been reported on past 2mg's. Use you're judgement; It's near eqipotent to DOI.",
+   "duration": "6-8 hours.",
+   "effects": "Euphoria, empathy, insight, brightened colour, Closed/Open eye visuals, enhanced tactile sensation, mental/physical stimulation, decreased appetite, pupil dilation, restlessness, change in perception, ego softening, sweating/chills, muscle tension, confusion, insomnia.",
+   "onset": "15-60 minutes.",
+   "summary": "A rare tryptamine derivative first synthesised by David Nichols. This drug, also known as lucigenol, has rarely been documented outside the lab. It is known to be a psychedelic similar to other psychoactive tryptamines, with a potency similar to DOI. Little else is known about the drug."
+  }
+ }
+}

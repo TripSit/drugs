@@ -1,0 +1,60 @@
+{
+ "flunitrazepam": {
+  "aliases": [
+   "roofies",
+   "rohypnol"
+  ],
+  "categories": [
+   "benzodiazepine",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "2-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "1-2mg",
+    "Heavy": "2-4mg+",
+    "Light": "0.5-1mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "4-8"
+  },
+  "formatted_effects": [
+   "Anxiolytic",
+   "Sedative",
+   "Muscle Relaxant",
+   "Amnesia",
+   "Dystaxia",
+   "Hypnotic"
+  ],
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "15-30"
+  },
+  "name": "flunitrazepam",
+  "pretty_name": "Flunitrazepam",
+  "properties": {
+   "after-effects": "2-24 hours.",
+   "aliases": [
+    "roofies",
+    "rohypnol"
+   ],
+   "categories": [
+    "benzodiazepine",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Oral Light: 0.5-1mg Common: 1-2mg Heavy: 2-4mg+",
+   "dose_to_diazepam": "Flunitrazepam - 1mg ~=10mg Diazepam.",
+   "duration": "4-8 hours.",
+   "effects": "Anxiolytic, Sedative, Muscle Relaxant, Amnesia, Dystaxia, Hypnotic.",
+   "onset": "15-30 minutes.",
+   "summary": "Known as Rohypnol or 'roofies,' this infamous drug has similar qualities to most other benzodiazepines; sedating with strong hypnotic effects. Despite being known as a 'date rape drug,' it has only been implicated in a small number of such crimes. The drug has risks of CNS depression that is increased in combination with other depressants. The drug may cause amnesia and lowered inhibitions in overdose."
+  }
+ }
+}

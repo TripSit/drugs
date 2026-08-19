@@ -1,0 +1,21 @@
+{
+ "pma": {
+  "categories": [
+   "stimulant",
+   "tentative"
+  ],
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_PMA.shtml"
+  },
+  "name": "pma",
+  "pretty_name": "PMA",
+  "properties": {
+   "categories": [
+    "stimulant",
+    "tentative"
+   ],
+   "summary": "An empathogen with a slow onset and strong serotonin release. This, combined with its lack of dopamine release, often leads users to dose more for the pleasurable effects which reportedly do not appear. This often leading to hospitalisations and deaths. The drug has been missold as MDMA.",
+   "warning": "The drug is a deadly neurotoxin found in some MDMA presses."
+  }
+ }
+}

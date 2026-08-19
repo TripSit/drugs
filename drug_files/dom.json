@@ -1,0 +1,62 @@
+{
+ "dom": {
+  "aliases": [
+   "stp"
+  ],
+  "categories": [
+   "psychedelic",
+   "stimulant",
+   "research-chemical",
+   "common"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "12-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "2.5-5mg",
+    "Heavy": "7.5mg+",
+    "Light": "1-2.5mg",
+    "Strong": "5-7.5mg"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "8-30"
+  },
+  "formatted_effects": [
+   "visual distortions",
+   "a 'stoned' feeling",
+   "sense of well being"
+  ],
+  "formatted_onset": {
+   "_unit": "hours",
+   "value": "2-4"
+  },
+  "links": {
+   "experiences": "https://www.erowid.org/experiences/subs/exp_DOM.shtml"
+  },
+  "name": "dom",
+  "pretty_name": "DOM",
+  "properties": {
+   "after-effects": "12-24 hours.",
+   "aliases": [
+    "stp"
+   ],
+   "avoid": "cannabis (Can potentiate effects)",
+   "categories": [
+    "psychedelic",
+    "stimulant",
+    "research-chemical",
+    "common"
+   ],
+   "detection": "DOM is a substituted amphetamine, so it can cause you to test positive for amphetamines 3 to 7 days after dosing.",
+   "dose": "Oral Light: 1-2.5mg  Common: 2.5-5mg  Strong: 5-7.5mg  Heavy: 7.5mg+",
+   "duration": "8-30 hours.",
+   "effects": "visual distortions, a 'stoned' feeling, sense of well being.",
+   "onset": "2-4 hours",
+   "summary": "The most popular psychedelic amphetamine due to its pleasant effects, lower potency and shorter duration. Effects have been described as 'sillier' than LSD and related DOx chemicals"
+  }
+ }
+}

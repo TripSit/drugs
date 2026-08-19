@@ -1,0 +1,55 @@
+{
+ "tilidine": {
+  "aliases": [
+   "tilidate",
+   "tilidin",
+   "valoron",
+   "valtran"
+  ],
+  "categories": [
+   "opioid",
+   "habit-forming",
+   "depressant"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-12"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "50-100mg",
+    "Light": "25-50mg",
+    "Strong": "100-200mg."
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-6"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "10-20"
+  },
+  "name": "tilidine",
+  "pretty_name": "Tilidine",
+  "properties": {
+   "after-effects": "1-12 hours.",
+   "aliases": [
+    "tilidate",
+    "tilidin",
+    "valoron",
+    "valtran"
+   ],
+   "avoid": "All other CNS depressants.",
+   "categories": [
+    "opioid",
+    "habit-forming",
+    "depressant"
+   ],
+   "dose": "Tilidine dose Oral Light: 25-50mg Common: 50-100mg Strong: 100-200mg.",
+   "duration": "3-6 hours.",
+   "onset": "10-20 minutes.",
+   "summary": "Synthetic opioid used mainly for the treatment of moderate to severe pain. In some countries it's mixed with naloxone to lower the abuse liability. Roughly 0.2 - 1 on the potency scale to morphine. (20mg of morphine to 100mg tilidine)"
+  }
+ }
+}

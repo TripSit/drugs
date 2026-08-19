@@ -1,0 +1,52 @@
+{
+ "\u03b1-pbp": {
+  "aliases": [
+   "a-pbp",
+   "alpha-pbp"
+  ],
+  "categories": [
+   "stimulant",
+   "research-chemical",
+   "habit-forming",
+   "tentative"
+  ],
+  "formatted_aftereffects": {
+   "_unit": "hours",
+   "value": "1-24"
+  },
+  "formatted_dose": {
+   "Oral": {
+    "Common": "25-50mg",
+    "Light": "10-25mg",
+    "Strong": "50mg+"
+   }
+  },
+  "formatted_duration": {
+   "_unit": "hours",
+   "value": "3-4"
+  },
+  "formatted_onset": {
+   "_unit": "minutes",
+   "value": "20-35"
+  },
+  "name": "\u03b1-pbp",
+  "pretty_name": "\u03b1-PBP",
+  "properties": {
+   "after-effects": "1-24 hours.",
+   "aliases": [
+    "a-pbp",
+    "alpha-pbp"
+   ],
+   "categories": [
+    "stimulant",
+    "research-chemical",
+    "habit-forming",
+    "tentative"
+   ],
+   "dose": "Oral Light: 10-25mg Common: 25-50mg Strong: 50mg+",
+   "duration": "3-4 hours",
+   "onset": "20-35 minutes",
+   "summary": "Stimulant that is the homologue between \u03b1-PPP and \u03b1-PVP."
+  }
+ }
+}
