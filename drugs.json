@@ -53,6 +53,7 @@
         "depressant",
         "habit-forming"
       ],
+      "chemistry": "IUPAC: butane-1,4-diol | Formula: C4H10O2 | Molecular Mass: 90.12 g/mol | SMILES: OCCCCO | CAS: 110-63-4",
       "dose": "Light: 0.5-1ml Common: 1-1.5ml Strong: 1.5ml+",
       "duration": "3-5 hours",
       "half-life": "39.3 minutes +/- 11 minutes.",
@@ -81,14 +82,16 @@
   },
   "1b-lsd": {
     "aliases": [
-      "1b"
+      "1b",
+      "X-LSD",
+      "1-Butyryl-LSD"
     ],
     "categories": [
       "tentative",
       "research-chemical",
       "psychedelic"
     ],
-    "dose_note": " NOTE: At the time of this chemical's release, the manufacturers claimed 1B-LSD was expected to be slightly less potent than 1P-LSD, supposedly owing to the increased mass of the butanoyl group over the propionyl group, however anecdotes seem to indicate approximate equipotency to 1P-LSD.",
+    "dose_note": "Potency relative to LSD and other lysergamide prodrugs may vary between individuals.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "6-24"
@@ -120,6 +123,7 @@
         "research-chemical",
         "psychedelic"
       ],
+      "chemistry": "IUPAC: 1-butanoyl-lysergic acid diethylamide | Formula: C24H31N3O2 | Molecular Mass: 393.53 g/mol | SMILES: CN1[C@](C2=C[C@@H](C(N(CC)CC)=O)C1)([H])CC3=CN(C(CCC)=O)C4=C3C2=CC=C4 | CAS: 2349376-12-9",
       "dose": "Oral Light: 25-50ug Common: 50-125ug's Strong: 125-250ug's. | NOTE: At the time of this chemical's release, the manufacturers claimed 1B-LSD was expected to be slightly less potent than 1P-LSD, supposedly owing to the increased mass of the butanoyl group over the propionyl group, however anecdotal reports seem to indicate approximate equipotency to 1P-LSD.",
       "duration": "8-12 hours",
       "onset": "45-90 minutes",
@@ -130,13 +134,17 @@
     "aliases": [
       "1cplsd",
       "curie",
-      "1cp"
+      "1cp",
+      "1-cpa-lsd",
+      "1-cyclopropanoyl-lsd",
+      "1-(cyclopropylmethanoyl)-lsd"
     ],
     "categories": [
       "psychedelic",
       "research-chemical",
       "tentative"
     ],
+    "dose_note": "1cP-LSD is a prodrug of LSD. Although effects largely mirror LSD, potency per microgram may be slightly lower and varies due to metabolic conversion. Do not assume exact equivalence.",
     "formatted_aftereffects": {
       "_unit": "hours",
       "value": "6-24"
@@ -150,7 +158,7 @@
     },
     "formatted_duration": {
       "_unit": "hours",
-      "value": "8-10"
+      "value": "5-10"
     },
     "formatted_onset": {
       "_unit": "minutes",
@@ -172,13 +180,16 @@
       ],
       "dose": "Oral Light: 25-50ug Common: 50-100ug Strong: 100-200ug",
       "duration": "8-10 hours",
+      "note": "1cP-LSD is a prodrug of LSD. Interactions are expected to closely mirror LSD, though onset, duration, and intensity may vary due to metabolic conversion.",
       "onset": "30-90 minutes",
       "summary": "1cP-LSD (1-cyclopropionyl-lysergic acid diethylamide) is a novel lysergamide with little to no history of use. It is said to be a less pushy and shorter lasting version of LSD. Described as having a more gradual onset than 1P-LSD, with a less visual more meditative headspace when compared with LSD. *NOTE: This is a very new research chemical - take all info with a grain of salt.*"
     }
   },
   "1p-eth-lad": {
     "aliases": [
-      "1pethlad"
+      "1pethlad",
+      "1-Propionyl-ETH-LAD",
+      "1-Propionyl-6-ethyl-6-nor-LSD"
     ],
     "categories": [
       "psychedelic",
@@ -211,24 +222,33 @@
     "properties": {
       "after-effects": "2-12 hours.",
       "aliases": [
-        "1pethlad"
+        "1pethlad",
+        "1-Propionyl-ETH-LAD",
+        "1-Propionyl-6-ethyl-6-nor-LSD"
       ],
       "categories": [
         "psychedelic",
         "tentative",
         "research-chemical"
       ],
+      "chemistry": "Lysergamide derivative. Molecular formula C24H31N3O2; molar mass 393.53 g/mol. SMILES: CCC(=O)N1C=C2C[C@@H]3C(=C[C@H](CN3CC)C(=O)N(CC)CC)C4=C2C1=CC=C4",
       "dose": "Oral Threshold: 20-30ug Light: 30-60ug Common: 60-100ug Strong: 100-200ug+ | NOTE: These doses are very tentative, and are based on the likelihood that the dosage profile will be similar to ETH-LAD.",
       "duration": "6-10 hours.",
       "experiences": "https://erowid.org/experiences/subs/exp_1PETHLAD.shtml",
       "onset": "15-90 minutes",
-      "summary": "A new psychedelic lysergamide which is suspected to be a prodrug of ETH-LAD, which could explain why the doses are very similar, it alternatively could be active on its own. There are no studies on it currently."
+      "pharmacokinetics": "Human pharmacokinetic data is unavailable. Based on related lysergamides, oral absorption is expected with hepatic metabolism.",
+      "pharmacology": "Serotonergic psychedelic. Likely acts as a 5-HT2A receptor agonist, either directly or via metabolic conversion to ETH-LAD.",
+      "summary": "A new psychedelic lysergamide which is suspected to be a prodrug of ETH-LAD, which could explain why the doses are very similar, it alternatively could be active on its own. There are no studies on it currently.",
+      "warning": "Extremely limited research data. Potency is high and dosing errors may lead to overwhelming psychological effects."
     }
   },
   "1p-lsd": {
     "aliases": [
       "1plsd",
-      "1p"
+      "1p",
+      "1-Propanoyl-LSD",
+      "1-Propionyl-LSD",
+      "1-Propanoyl-lysergic acid diethylamide"
     ],
     "categories": [
       "psychedelic",
@@ -282,13 +302,18 @@
         "1plsd",
         "1p"
       ],
+      "bioavailability": "~100%",
       "categories": [
         "psychedelic",
         "research-chemical"
       ],
+      "chemistry": "Lysergamide derivative. Molecular formula C23H29N3O2; molar mass 379.50 g/mol. SMILES: CCN(CC)C(=O)[C@H]1CN(C)[C@@H]2Cc3cn(C(=O)CC)c4cccc(C2=C1)c34",
       "dose": "Oral Light: 25-50ug Common: 50-125ug Strong: 125-200ug",
       "duration": "8-12 hours",
+      "half-life": "Initial: ~0.2 hours",
+      "note": "CAS: 2349358-81-0 · PubChem CID: 119025985 · ChemSpider: 52085129 · UNII: 23R2G2G79C · InChIKey: JSMQOVGXBIDBIE-OXQOHEQNSA-N",
       "onset": "45-90 minutes.",
+      "risks": "Anxiety, panic reactions, confusion, and potential triggering of latent psychiatric disorders. Long-term safety data is limited.",
       "summary": "An LSD analogue which appears to be slightly more potent with a shorter duration. Its effects are reported to be extremely similar to LSD, and thus far seems to be similarly safe. Released in late 2014, It has quickly become a highly popular research chemical due to its implicit legality, similarity to LSD and wide availability on the Internet.",
       "test-kits": "Marquis: Slow Purple. | Mecke: Brown. | Mandelin: No colour change. | Froehde: No colour change. | Liebermann: No colour change. | Ehrlich's Reagent: No colour change. | Gallic Acid: Brown."
     },
@@ -347,7 +372,10 @@
   "2-ai": {
     "aliases": [
       "2ai",
-      "2-aminoindan"
+      "2-aminoindan",
+      "2-Indanylamine",
+      "2-Indanamine",
+      "SU-8629"
     ],
     "categories": [
       "stimulant",
@@ -360,16 +388,49 @@
       "value": "2-4"
     },
     "formatted_dose": {
+      "Insufflated": {
+        "Common": "40-75mg",
+        "Light": "20-40mg",
+        "Note": "Extremely painful nasal burn is commonly reported. Effects are inconsistent and often weaker than expected for the discomfort.",
+        "Strong": "75-100mg+",
+        "Threshold": "10-20mg"
+      },
+      "Intramuscular": {
+        "Common": "75-100mg",
+        "Light": "40-75mg",
+        "Note": "High medical risk. Rapid tolerance, infection risk, and cardiovascular strain reported. Non-medical IM use is strongly discouraged.",
+        "Strong": "100mg+",
+        "Threshold": "20-40mg"
+      },
+      "Intravenous": {
+        "Dangerous": "50mg+",
+        "Note": "Very high risk. IV use has been reported historically but carries severe risks including overdose, infection, and acute cardiovascular events."
+      },
       "Oral": {
-        "Common": "10-20mg",
-        "Light": "5-10mg",
-        "Strong": "20-40mg+",
-        "Threshold": "3-5mg"
+        "Common": "80-120mg",
+        "Light": "40-80mg",
+        "Note": "Oral use is commonly reported as less euphoric and more anxiogenic than other routes. Higher doses increase cardiovascular strain and insomnia.",
+        "Strong": "120-200mg+",
+        "Threshold": "20-40mg"
+      },
+      "Rectal": {
+        "Common": "100-150mg",
+        "Light": "60-100mg",
+        "Note": "Reported as more efficient and euphoric than oral or insufflated routes. Short duration still increases risk of compulsive redosing.",
+        "Strong": "150-200mg+",
+        "Threshold": "40-60mg"
       }
     },
     "formatted_duration": {
       "_unit": "hours",
-      "value": "1-2"
+      "Insufflated": "1-3 hours",
+      "Intramuscular": "3-4 hours",
+      "Intravenous": "2-4 hours",
+      "Metabolites": "Residual wakefulness and heat may persist beyond primary effects",
+      "Oral": "3-6 hours (residual stimulation may last longer)",
+      "Parent": "Short-acting stimulant with prolonged after-stimulation",
+      "Rectal": "3-5 hours",
+      "value": "2-4"
     },
     "formatted_effects": [
       "Euphoria",
@@ -402,7 +463,10 @@
       "after-effects": "2-4 hours",
       "aliases": [
         "2ai",
-        "2-aminoindan"
+        "2-aminoindan",
+        "2-Indanylamine",
+        "2-Indanamine",
+        "SU-8629"
       ],
       "categories": [
         "stimulant",
@@ -410,11 +474,16 @@
         "habit-forming",
         "tentative"
       ],
+      "chemistry": "Aminoindane derivative. Molecular formula C9H11N; molar mass 133.19 g/mol. SMILES: C1C(CC2=CC=CC=C21)N",
       "dose": "Oral Threshold: 3-5mg Light: 5-10mg Common: 10-20mg Strong: 20-40mg+",
       "duration": "1-2 hours.",
-      "experiences": "https://www.erowid.org/experiences/subs/exp_2Aminoindan.shtml",
       "half-life": "1-2 hours.",
+      "legal": "Germany: Controlled under NpSG (industrial and scientific use only). United Kingdom: Controlled under the Psychoactive Substances Act. China: Controlled. Finland and Sweden: Regulated or proposed control. United States: Unscheduled federally but may be considered an amphetamine analogue under the Federal Analogue Act.",
+      "note": "CAS: 2975-41-9 · PubChem CID: 76310 · ChemSpider: 68787 · UNII: 1P810SQ3EY · InChIKey: LMHHFZAXSANGGM-UHFFFAOYSA-N",
       "onset": "10-30 minutes",
+      "pharmacokinetics": "Formal human pharmacokinetic data is limited. Reported effects suggest rapid onset and short duration, consistent with relatively fast metabolism and elimination.",
+      "pharmacology": "Monoamine releasing agent acting primarily as a substrate for the norepinephrine (NET) and dopamine (DAT) transporters. It produces strong norepinephrine release, moderate dopamine release, and minimal serotonergic activity. It partially substitutes for amphetamine in rodent drug discrimination studies.",
+      "risks": "Anxiety, irritability, insomnia, compulsive redosing, elevated heart rate and blood pressure. Short duration may increase risk of repeated dosing and cardiovascular strain. Neurotoxicity and long-term effects are not well studied.",
       "summary": "Short-acting stimulant that is sometimes compared to the likes of Methamphetamine. It is a rigid analogue of Amphetamine, and also partially substitutes for the prior in rat discrimination studies.",
       "test-kits": "Marquis: Orange > Brown. | Mecke: Yellow. | Mandelin: Blue. | Liebermann: Yellow Brown. | Ehrlich: No colour change."
     },
@@ -442,6 +511,13 @@
       "Thought acceleration": "https://psychonautwiki.org/wiki/Thought_acceleration",
       "Thought deceleration": "https://psychonautwiki.org/wiki/Thought_deceleration",
       "Wakefulness": "https://psychonautwiki.org/wiki/Wakefulness"
+    },
+    "sources": {
+      "_general": [
+        "Witkin LB et al. (1961). Pharmacology of 2-amino-indane hydrochloride (SU-8629): a potent non-narcotic analgesic. Journal of Pharmacology and Experimental Therapeutics 133(3):400–408.",
+        "Simmler LD et al. (2014). Pharmacological profiles of aminoindanes, piperazines, and pipradrol derivatives. Biochemical Pharmacology 88(2):237–244. https://doi.org/10.1016/j.bcp.2014.01.024",
+        "Manier SK et al. (2019). The metabolic fate of 2-aminoindane studied in vitro and in vivo. Drug Testing and Analysis 12(1):145–151. https://doi.org/10.1002/dta.2699"
+      ]
     }
   },
   "2-chloro-ephenidine": {
@@ -513,47 +589,56 @@
     "dose_note": " NOTE: This drug is extremely potent and extremely long lasting, even at 'common' doses. Be sure to start low and avoid redosing.",
     "formatted_aftereffects": {
       "_unit": "hours",
-      "value": "1-72"
+      "value": "24-120"
     },
     "formatted_dose": {
       "Insufflated": {
-        "Common": "3-4mg",
-        "Light": "2-3mg",
-        "Strong": "4-6mg",
-        "Threshold": "1-2mg"
+        "Common": "2-4mg",
+        "Light": "1-2mg",
+        "Strong": "4-6mg+",
+        "Threshold": "1mg"
       },
       "Oral": {
-        "Common": "4-6mg",
+        "Common": "5-10mg",
         "Light": "2-4mg",
-        "Strong": "6-8mg",
+        "Strong": "10mg+",
+        "Threshold": "2mg"
+      },
+      "Sublingual": {
+        "Common": "3-5mg",
+        "Light": "2-3mg",
+        "Strong": "5mg+",
         "Threshold": "1-2mg"
       }
     },
     "formatted_duration": {
       "_unit": "hours",
-      "value": "16-72"
+      "Insufflated": "24-72 hours",
+      "Oral": "48-96 hours",
+      "Sublingual": "36-72 hours",
+      "value": "36-96"
     },
     "formatted_effects": [
-      "Euphoria",
-      "increased energy/alertness",
-      "decreased need for sleep",
-      "increased sociability",
-      "mood lift",
-      "increased libido",
-      "excessive talking",
-      "decreased appetite",
-      "weight loss",
-      "sweating",
-      "disturbed sleep patterns",
-      "bruxism",
-      "visual and auditory hallucinations",
-      "itchiness",
-      "aggressiveness",
-      "moodiness"
+      "increased alertness",
+      "extreme wakefulness",
+      "intense focus",
+      "motivation",
+      "euphoria",
+      "emotional intensity",
+      "anxiety",
+      "restlessness",
+      "jaw clenching",
+      "insomnia",
+      "paranoia",
+      "psychosis",
+      "hallucinations with sleep deprivation"
     ],
     "formatted_onset": {
       "_unit": "minutes",
-      "value": "60-120"
+      "Insufflated": "30-90",
+      "Oral": "90-180",
+      "Sublingual": "60-120",
+      "value": "45-180"
     },
     "links": {
       "experiences": "https://www.erowid.org/experiences/subs/exp_Desoxypipradrol_.shtml",
@@ -562,23 +647,28 @@
     "name": "2-dpmp",
     "pretty_name": "2-DPMP",
     "properties": {
-      "after-effects": "1-72 hours.",
+      "after-effects": "24-120 hours.",
       "aliases": [
         "desoxypipradrol",
         "2dpmp",
         "2-desoxypiperadol",
         "desoxypipradol"
       ],
+      "bioavailability": ">90%",
       "categories": [
         "stimulant",
         "research-chemical",
         "habit-forming",
         "tentative"
       ],
+      "chemistry": "Diphenylmethylpiperidine stimulant. Molecular formula C18H21N; molar mass 251.37 g/mol. Racemic mixture. IUPAC name: 2-(diphenylmethyl)piperidine. SMILES: C1(C(C2NCCCC2)C3=CC=CC=C3)=CC=CC=C1. InChI: InChI=1S/C18H21N/c1-3-9-15(10-4-1)18(16-11-5-2-6-12-16)17-13-7-8-14-19-17/h1-6,9-12,17-19H,7-8,13-14H2. InChIKey: RWTNXJXZVGHMGI-UHFFFAOYSA-N. CAS: 519-74-4 (base), 5807-81-8 (HCl).",
+      "contraindications": "Avoid in individuals with anxiety disorders, psychotic disorders, cardiovascular disease, or sensitivity to stimulants.",
       "dose": "Oral Threshold: 1-2mg Light: 2-4mg Common: 4-6mg Strong: 6-8mg | Insufflated Threshold: 1-2mg Light: 2-3mg Common: 3-4mg Strong: 4-6mg | NOTE: This drug is extremely potent and extremely long lasting, even at 'common' doses. Be sure to start low and avoid redosing.",
-      "duration": "16-72 hours",
+      "duration": "36-96 hours",
       "half-life": "16-20 hours.",
       "onset": "60-120 minutes.",
+      "overdose-symptoms": "Extreme agitation, paranoia, hallucinations, tachycardia, hypertension, hyperthermia, and multi-day insomnia.",
+      "pharmacology": "Potent dopamine and norepinephrine reuptake inhibitor with minimal serotonergic activity.",
       "summary": "A very potent stimulant that is a NDRI. Developed by Novartis in the 1950s, to treat narcolepsy and ADHD, however dropped when Methylphenidate was produced a few years later, which was seen as superior due to its shorter T½. 2-DPMP Half life 16-20 hours. Warning: subjective reports suggest this drug is caustic to the nasal mucosa and may cause damage to the nasal cavity.",
       "warning": "Due to the long half life (16-20 hours) redosing is strongly recommended against."
     }
@@ -592,7 +682,8 @@
     "categories": [
       "stimulant",
       "research-chemical",
-      "habit-forming"
+      "habit-forming",
+      "tentative"
     ],
     "dose_note": " Note: Insufflating does not appear to raise the bioavailability than oral ingestion, and can cause damage to nasal cavities.",
     "formatted_aftereffects": {
@@ -600,11 +691,20 @@
       "value": "2-12"
     },
     "formatted_dose": {
-      "Oral": {
+      "Insufflated": {
         "Common": "15-30mg",
         "Heavy": "50mg+",
         "Light": "5-15mg",
-        "Strong": "30-50mg"
+        "Note": "Insufflation is caustic to nasal tissue and does not significantly increase bioavailability compared to oral use.",
+        "Strong": "30-50mg",
+        "Threshold": "3-5mg"
+      },
+      "Oral": {
+        "Common": "20-40mg",
+        "Heavy": "70mg+",
+        "Light": "10-20mg",
+        "Strong": "40-70mg",
+        "Threshold": "5-10mg"
       }
     },
     "formatted_duration": {
@@ -650,12 +750,25 @@
       "categories": [
         "stimulant",
         "research-chemical",
-        "habit-forming"
+        "habit-forming",
+        "tentative"
       ],
+      "chemistry": "Fluorinated amphetamine. Molecular formula C9H12FN; molar mass 153.20 g/mol. IUPAC name: 1-(2-fluorophenyl)propan-2-amine. SMILES: CC(CC1=CC=CC=C1F)N. InChIKey: GDSXNLDTQFFIEU-UHFFFAOYSA-N. CAS: 1716-60-5.",
       "dose": "Oral Light: 5-15mg Common: 15-30mg Strong: 30-50mg Heavy: 50mg+ | Note: Insufflating does not appear to raise the bioavailability than oral ingestion, and can cause damage to nasal cavities.",
       "duration": "Oral: 3-5 hours | Insufflated: 1-2 hours",
       "onset": "Oral: 15-20 minutes | Insufflated: 2-5 minutes",
-      "summary": "Stimulant drug of the amphetamine family. Reported as having effects similar to those of Dextroamphetamine, but with a milder euphoria and a comparatively smoother comedown. Has a shorter duration and less empathogenic effect-profile as compared with 4-FA. Thought to produce less neurotoxic metabolites compared to amphetamine."
+      "pharmacology": "Monoamine releasing agent and reuptake inhibitor, primarily affecting dopamine and norepinephrine with minimal serotonergic activity.",
+      "summary": "Stimulant drug of the amphetamine family. Reported as having effects similar to those of Dextroamphetamine, but with a milder euphoria and a comparatively smoother comedown. Has a shorter duration and less empathogenic effect-profile as compared with 4-FA. Thought to produce less neurotoxic metabolites compared to amphetamine.",
+      "tolerance": "Tolerance develops with repeated use. Cross-tolerance with other amphetamines is likely."
+    },
+    "sources": {
+      "_general": [
+        "Rösner P et al. (2005). Forensic Science International. doi:10.1016/j.forsciint.2004.05.003 | structural class, stimulant pharmacology context",
+        "Costa E, Garattini S. Amphetamines and Related Compounds (1970) | amphetamine analogue pharmacology and monoamine activity",
+        "Erowid Experience Vaults: 2-Fluoroamphetamine | subjective duration, onset, and after-effects",
+        "Wikipedia: 2-Fluoroamphetamine | chemical identifiers (CAS, SMILES, InChIKey)",
+        "User reports aggregation | estimated half-life and comparative bioavailability"
+      ]
     }
   },
   "2-fdck": {
@@ -710,9 +823,12 @@
         "dissociative",
         "habit-forming"
       ],
+      "chemistry": "Arylcyclohexylamine dissociative anesthetic. Full chemical name: 2-(2-fluorophenyl)-2-(methylamino)cyclohexan-1-one. Molecular formula C13H16FNO; molar mass 221.275 g/mol. CAS: 111982-50-4. PubChem CID: 13771618.",
       "dose": "Insufflated Light: 20-50mg Common: 50-100mg Strong: 100-175mg+",
       "duration": "1-3 hours.",
       "onset": "20-40 minutes.",
+      "pharmacokinetics": "Metabolized in a manner analogous to ketamine. CYP2B6 and CYP3A4 mediate N-demethylation to nor-2-FDCK, with further metabolism to hydroxy- and dehydro-metabolites. In vitro and modeling data suggest slower metabolism and lower intrinsic hepatic clearance than ketamine.",
+      "pharmacology": "Expected to act via mechanisms similar to ketamine, primarily NMDA receptor antagonism, though this has not been directly confirmed in human studies.",
       "summary": "Dissociative anesthetic of the arylcyclohexylamine class. Seemingly on par with ketamine in dosage. Longer onset than the prior."
     }
   },
@@ -14583,6 +14699,71 @@
       ]
     }
   },
+  "captagon": {
+    "categories": [
+      "stimulant",
+      "habit-forming"
+    ],
+    "formatted_aftereffects": {
+      "_unit": "hours",
+      "value": "6-24"
+    },
+    "formatted_dose": {
+      "Oral": {
+        "Common": "40-80mg",
+        "Heavy": "120mg+",
+        "Light": "20-40mg",
+        "Strong": "80-120mg"
+      }
+    },
+    "formatted_duration": {
+      "_unit": "hours",
+      "value": "6-12"
+    },
+    "formatted_effects": [
+      "Stimulation",
+      "Increased focus",
+      "Euphoria",
+      "Reduced fatigue",
+      "Appetite suppression",
+      "Increased heart rate",
+      "Anxiety",
+      "Insomnia"
+    ],
+    "formatted_onset": {
+      "_unit": "minutes",
+      "value": "30-60"
+    },
+    "name": "captagon",
+    "pretty_name": "Fenethylline (Captagon)",
+    "properties": {
+      "after-effects": "6–24 hours. Residual stimulation, insomnia, appetite suppression, anxiety, and mental fatigue may persist into the following day.",
+      "avoid": "Other stimulants, MAOIs, alcohol, benzodiazepines (masking overdose risk), and serotonergic drugs at high doses.",
+      "bioavailability": "Oral (well absorbed). Fenethylline is metabolized into amphetamine and theophylline.",
+      "categories": [
+        "stimulant",
+        "habit-forming"
+      ],
+      "chemistry": "IUPAC: 7-(2-[(1-phenylpropan-2-yl)amino]ethyl)-1,3-dimethylpurine-2,6-dione | Formula: C18H23N5O2 | Molecular Mass: 341.41 g/mol",
+      "dose": "Oral Light: 20–40mg | Common: 40–80mg | Strong: 80–120mg | Heavy: 120mg+. NOTE: Authentic pharmaceutical Captagon (fenethylline) is no longer legally produced. Tablets sold as 'Captagon' today are frequently counterfeit and often contain amphetamine, methamphetamine, caffeine, or other unknown stimulants. Dose estimates may NOT apply to modern street tablets.",
+      "duration": "6–12 hours. Duration varies depending on metabolism and the relative production of amphetamine metabolites.",
+      "effects": "Stimulation, Increased focus, Euphoria, Reduced fatigue, Appetite suppression, Increased heart rate, Anxiety, Insomnia.",
+      "half-life": "Fenethylline: ~3–6 hours (parent compound). Active metabolites (amphetamine) persist significantly longer.",
+      "note": "Modern 'Captagon' tablets are highly variable in composition and potency. Users cannot reliably infer dose, duration, or risk from historical fenethylline data. Testing is strongly advised where possible.",
+      "onset": "30–60 minutes.",
+      "pharmacology": "Prodrug stimulant. Fenethylline consists of amphetamine covalently linked to theophylline via an alkyl chain. After oral administration, fenethylline is metabolized primarily into amphetamine (~24.5% of dose) and theophylline (~13.7% of dose), both of which are pharmacologically active. The stimulant effects are believed to result from a synergistic interaction between amphetamine-mediated dopaminergic and noradrenergic release and theophylline-mediated adenosine receptor antagonism. The direct pharmacological actions of intact fenethylline prior to metabolic cleavage remain poorly characterized, though it may exhibit activity at certain serotonin receptors.",
+      "summary": "Captagon is the trade name for fenethylline, a synthetic stimulant originally developed in the 1960s and formerly prescribed for ADHD and narcolepsy. Fenethylline acts as a prodrug, metabolizing primarily into amphetamine and theophylline. Pharmaceutical Captagon has been discontinued for decades; substances sold under this name today are typically counterfeit stimulant tablets with unpredictable composition and risk profiles."
+    },
+    "sources": {
+      "_general": [
+        "World Health Organization. Fenethylline (Captagon): Critical Review Report. WHO Expert Committee on Drug Dependence.",
+        "UNODC. Understanding the Illicit Drug Market in Captagon. United Nations Office on Drugs and Crime.",
+        "https://www.sciencedirect.com/science/article/abs/pii/0014299970901925?via%3Dihub",
+        "https://www.sciencedirect.com/science/article/abs/pii/S0379073804004591?via%3Dihub",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5957549/"
+      ]
+    }
+  },
   "carisoprodol": {
     "aliases": [
       "soma"
@@ -20621,7 +20802,7 @@
       "value": "6-24"
     },
     "formatted_dose": {
-       "Oral": {
+      "Oral": {
         "Common": "30-50mg",
         "Heavy": "80mg+",
         "Light": "15-25mg",
@@ -24005,7 +24186,8 @@
     "categories": [
       "opioid",
       "habit-forming",
-      "depressant"
+      "depressant",
+      "tentative"
     ],
     "formatted_aftereffects": {
       "_unit": "hours",
@@ -24058,6 +24240,7 @@
         "habit-forming",
         "depressant"
       ],
+      "chemistry": "Formula: C20H27NO2S | Molecular Mass: 345.50 g/mol | CAS: 114538-73-7 (freebase), 60662-79-5 (hydrochloride) | SMILES: CCS(=O)(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2 | InChIKey: NLPGJSPLDNDKKZ-UHFFFAOYSA-N",
       "dose": "Light: 5-10mg Common: 10-20mg Strong: 20-35mg+. NOTE: In controlled human studies, single oral doses below approximately 25 mg often produced no definite subjective effects, while morphine-like effects became consistent at higher doses.",
       "duration": "Oral 6–24 hours. In human studies, effects were sometimes reported for as long as 24 hours after a single oral dose.",
       "effects": "Analgesia, Euphoria, Sedation, Respiratory depression, Mood lift, Itchiness, Dry mouth, Pupil constriction, Physical relaxation.",
@@ -30207,6 +30390,7 @@
         "habit-forming",
         "common"
       ],
+      "chemistry": "IUPAC: methyl 2-phenyl-2-(piperidin-2-yl)acetate | Formula: C14H19NO2 | Molecular Mass: 233.31 g/mol | CAS: 20748-11-2 | SMILES: COC(=O)C(c1ccccc1)C1CCCCN1 | InChIKey: DUGOZIWVEXMGBE-UHFFFAOYSA-N",
       "dose": "Oral Light: 5-10mg  Common: 10-20mg  Strong: 20-40mg  Heavy: 40mg+ | Insufflated Light: 5-10mg  Common: 10-20mg  Strong: 20-30mg  Heavy: 30mg+",
       "duration": "Oral-IR: 3-6 hours. | Oral-XR: 8-12 hours. | Insufflated: 2-4 hours. | Note: XR formulations when crushed or otherwise changed become IR before they can be insufflated, so the duration of such is roughly the same as typical IR formulations.",
       "effects": "Increased alertness, Euphoria, Increased motivation, Reduced appetite, Flushing of the face, Increased body temperature, Tachycardia (increased heart rate), Paranoia, Insomnia.",
