@@ -28,7 +28,7 @@
   "homepage": "https://github.com/TripSit/drugs#readme",
   "types": "types/tripsit.d.ts",
   "devDependencies": {
-    "ajv": "^8.12.0",
+    "ajv": "^8.18.0",
     "ajv-formats": "^3.0.1",
     "@types/node": "^20.11.10",
     "ts-node": "^10.9.2",
