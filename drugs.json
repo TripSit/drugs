@@ -3411,6 +3411,7 @@
     },
     "formatted_onset": {
       "_unit": "minutes",
+      "Insufflated": "5-15",
       "Oral": "45-90"
     },
     "name": "3-mec",
@@ -7974,7 +7975,8 @@
     },
     "formatted_duration": {
       "_unit": "hours",
-      "Oral": "2-3"
+      "Oral": "2-3",
+      "Vapourized": "1-1.5"
     },
     "formatted_effects": [
       "Euphoria",
@@ -19801,7 +19803,6 @@
       "_unit": "minutes",
       "Insufflated": "45-60",
       "Oral_MAOI": "180-420",
-      "Smoked": "3-10",
       "Vapourized": "3-10"
     },
     "formatted_effects": [
@@ -19821,7 +19822,7 @@
     "formatted_onset": {
       "_unit": "minutes",
       "Insufflated": "3-5",
-      "Oral": "20-45",
+      "Oral_MAOI": "20-45",
       "Vapourized": "0-2"
     },
     "links": {
@@ -24491,7 +24492,7 @@
       "_unit": "minutes",
       "Insufflated": "5-10",
       "Oral": "30-90",
-      "Smoked": "1-2"
+      "Vapourized": "1-2"
     },
     "name": "kanna",
     "pretty_name": "Kanna",
