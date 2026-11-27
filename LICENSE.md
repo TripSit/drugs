@@ -1,3 +1,10 @@
+Required Notice: Copyright TripSit (https://tripsit.me)
+
+Versions published before this license was adopted were released under the
+ISC License; see [LICENSE-ISC.md](LICENSE-ISC.md).
+
+---
+
 # PolyForm Noncommercial License 1.0.0
 
 <https://polyformproject.org/licenses/noncommercial/1.0.0>
